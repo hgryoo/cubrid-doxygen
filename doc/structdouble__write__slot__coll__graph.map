@@ -1,0 +1,7 @@
+<map id="double_write_slot" name="double_write_slot">
+<area shape="rect" id="node2" href="$structvpid.html" title="vpid" alt="" coords="5,197,51,227"/>
+<area shape="rect" id="node4" href="$structfileio__page.html" title="fileio_page" alt="" coords="160,197,243,227"/>
+<area shape="rect" id="node6" href="$structfileio__page__watermark.html" title="fileio_page_watermark" alt="" coords="125,101,277,131"/>
+<area shape="rect" id="node8" href="$structlog__lsa.html" title="log_lsa" alt="" coords="171,5,232,35"/>
+<area shape="rect" id="node10" href="$structfileio__page__reserved.html" title="fileio_page_reserved" alt="" coords="301,101,443,131"/>
+</map>

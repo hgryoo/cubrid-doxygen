@@ -1,0 +1,15 @@
+<map id="io_backup_session" name="io_backup_session">
+<area shape="rect" id="node2" href="$structfileio__backup__buffer.html" title="fileio_backup_buffer" alt="" coords="70,299,209,328"/>
+<area shape="rect" id="node4" href="$structlog__lsa.html" title="log_lsa" alt="" coords="326,5,387,35"/>
+<area shape="rect" id="node6" href="$structfileio__backup__header.html" title="fileio_backup_header" alt="" coords="67,203,211,232"/>
+<area shape="rect" id="node8" href="$structfileio__backup__record__info.html" title="fileio_backup_record_info" alt="" coords="182,104,350,133"/>
+<area shape="rect" id="node22" href="$structfileio__page__watermark.html" title="fileio_page_watermark" alt="" coords="425,104,577,133"/>
+<area shape="rect" id="node25" href="$structfileio__page__reserved.html" title="fileio_page_reserved" alt="" coords="601,104,742,133"/>
+<area shape="rect" id="node31" href="$structfileio__backup__db__buffer.html" title="fileio_backup_db_buffer" alt="" coords="309,397,466,427"/>
+<area shape="rect" id="node12" href="$structfileio__thread__info.html" title="fileio_thread_info" alt="" coords="427,627,547,656"/>
+<area shape="rect" id="node14" href="$structfileio__queue.html" title="fileio_queue" alt="" coords="459,531,550,560"/>
+<area shape="rect" id="node16" href="$structfileio__node.html" title="fileio_node" alt="" coords="490,397,573,427"/>
+<area shape="rect" id="node18" href="$structfileio__backup__page.html" title="fileio_backup_page" alt="" coords="427,299,561,328"/>
+<area shape="rect" id="node20" href="$structfileio__page.html" title="fileio_page" alt="" coords="459,203,542,232"/>
+<area shape="rect" id="node29" href="$structfile__zip__page.html" title="file_zip_page" alt="" coords="585,299,683,328"/>
+</map>

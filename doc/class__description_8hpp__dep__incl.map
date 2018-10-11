@@ -1,0 +1,10 @@
+<map id="src/object/class_description.hpp" name="src/object/class_description.hpp">
+<area shape="rect" id="node3" href="$csql__session_8c.html" title="src/executables/csql\l_session.c" alt="" coords="111,83,252,130"/>
+<area shape="rect" id="node5" href="$class__description_8cpp.html" title="src/object/class_description.cpp" alt="" coords="5,188,213,217"/>
+<area shape="rect" id="node7" href="$object__printer_8hpp.html" title="src/object/object_printer.hpp" alt="" coords="400,92,587,121"/>
+<area shape="rect" id="node12" href="$object__print_8c.html" title="src/object/object_print.c" alt="" coords="237,188,397,217"/>
+<area shape="rect" id="node14" href="$object__printer_8cpp.html" title="src/object/object_printer.cpp" alt="" coords="936,188,1123,217"/>
+<area shape="rect" id="node9" href="$db__info_8c.html" title="src/compat/db_info.c" alt="" coords="421,188,565,217"/>
+<area shape="rect" id="node16" href="$trigger__description_8cpp.html" title="src/object/trigger\l_description.cpp" alt="" coords="589,179,707,226"/>
+<area shape="rect" id="node18" href="$parser__support_8c.html" title="src/parser/parser_support.c" alt="" coords="731,188,912,217"/>
+</map>

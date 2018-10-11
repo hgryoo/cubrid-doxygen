@@ -1,0 +1,9 @@
+<map id="src/base/db_private_allocator.hpp" name="src/base/db_private_allocator.hpp">
+<area shape="rect" id="node3" href="$object__primitive_8c.html" title="src/object/object_primitive.c" alt="" coords="5,111,189,140"/>
+<area shape="rect" id="node5" href="$object__print_8c.html" title="src/object/object_print.c" alt="" coords="213,111,373,140"/>
+<area shape="rect" id="node7" href="$test__memory__alloc__helper_8hpp.html" title="unit_tests/memory_alloc\l/test_memory_alloc_helper.hpp" alt="" coords="397,102,600,149"/>
+<area shape="rect" id="node9" href="$test__db__private__alloc_8cpp.html" title="unit_tests/memory_alloc\l/test_db_private_alloc.cpp" alt="" coords="108,198,281,245"/>
+<area shape="rect" id="node11" href="$test__extensible__array_8cpp.html" title="unit_tests/memory_alloc\l/test_extensible_array.cpp" alt="" coords="305,198,479,245"/>
+<area shape="rect" id="node13" href="$test__memory__alloc__helper_8cpp.html" title="unit_tests/memory_alloc\l/test_memory_alloc_helper.cpp" alt="" coords="503,198,705,245"/>
+<area shape="rect" id="node15" href="$test__private__unique__ptr_8cpp.html" title="unit_tests/memory_alloc\l/test_private_unique_ptr.cpp" alt="" coords="729,198,916,245"/>
+</map>

@@ -1,0 +1,49 @@
+<map id="src/heaplayers/heaplayers.h" name="src/heaplayers/heaplayers.h">
+<area shape="rect" id="node3" href="$hldefines_8h.html" title="hldefines.h" alt="" coords="784,315,869,344"/>
+<area shape="rect" id="node5" href="$sassert_8h.html" title="util/sassert.h" alt="" coords="1372,237,1468,267"/>
+<area shape="rect" id="node7" href="$dynarray_8h.html" title="util/dynarray.h" alt="" coords="1095,237,1199,267"/>
+<area shape="rect" id="node13" href="$myhashmap_8h.html" title="util/myhashmap.h" alt="" coords="1223,237,1348,267"/>
+<area shape="rect" id="node16" href="$cpuinfo_8h.html" title="util/cpuinfo.h" alt="" coords="144,315,240,344"/>
+<area shape="rect" id="node18" href="$timer_8h.html" title="util/timer.h" alt="" coords="1964,237,2047,267"/>
+<area shape="rect" id="node21" href="$guard_8h.html" title="util/guard.h" alt="" coords="5,315,91,344"/>
+<area shape="rect" id="node23" href="$fred_8h.html" title="util/fred.h" alt="" coords="411,83,485,112"/>
+<area shape="rect" id="node25" href="$spinlock_8h.html" title="spinlock.h" alt="" coords="584,237,664,267"/>
+<area shape="rect" id="node29" href="$unique_8h.html" title="unique.h" alt="" coords="357,160,427,189"/>
+<area shape="rect" id="node32" href="$tryheap_8h.html" title="tryheap.h" alt="" coords="611,83,685,112"/>
+<area shape="rect" id="node34" href="$zoneheap_8h.html" title="zoneheap.h" alt="" coords="983,237,1071,267"/>
+<area shape="rect" id="node37" href="$perclassheap_8h.html" title="perclassheap.h" alt="" coords="760,83,869,112"/>
+<area shape="rect" id="node39" href="$freelistheap_8h.html" title="freelistheap.h" alt="" coords="1543,237,1641,267"/>
+<area shape="rect" id="node42" href="$fifofreelist_8h.html" title="fifofreelist.h" alt="" coords="2129,160,2220,189"/>
+<area shape="rect" id="node45" href="$fifodlfreelist_8h.html" title="fifodlfreelist.h" alt="" coords="2172,237,2271,267"/>
+<area shape="rect" id="node48" href="$boundedfreelistheap_8h.html" title="boundedfreelistheap.h" alt="" coords="1149,83,1299,112"/>
+<area shape="rect" id="node50" href="$nullheap_8h.html" title="nullheap.h" alt="" coords="2593,160,2673,189"/>
+<area shape="rect" id="node53" href="$coalesceheap_8h.html" title="coalesceheap.h" alt="" coords="2725,83,2837,112"/>
+<area shape="rect" id="node57" href="$coalesceableheap_8h.html" title="Coalescing support, via RequireCoalesceable and CoalesceableHeap. " alt="" coords="2433,160,2569,189"/>
+<area shape="rect" id="node60" href="$sizethreadheap_8h.html" title="sizethreadheap.h" alt="" coords="2736,237,2856,267"/>
+<area shape="rect" id="node63" href="$lockedheap_8h.html" title="lockedheap.h" alt="" coords="28,237,127,267"/>
+<area shape="rect" id="node66" href="$checkheap_8h.html" title="checkheap.h" alt="" coords="1576,83,1672,112"/>
+<area shape="rect" id="node68" href="$sanitycheckheap_8h.html" title="sanitycheckheap.h" alt="" coords="893,83,1024,112"/>
+<area shape="rect" id="node70" href="$stlallocator_8h.html" title="stlallocator.h" alt="" coords="773,237,869,267"/>
+<area shape="rect" id="node73" href="$mallocheap_8h.html" title="mallocheap.h" alt="" coords="451,160,549,189"/>
+<area shape="rect" id="node77" href="$mmapheap_8h.html" title="mmapheap.h" alt="" coords="979,160,1075,189"/>
+<area shape="rect" id="node87" href="$ansiwrapper_8h.html" title="ansiwrapper.h" alt="" coords="209,237,311,267"/>
+<area shape="rect" id="node90" href="$phothreadheap_8h.html" title="phothreadheap.h" alt="" coords="2833,160,2951,189"/>
+<area shape="rect" id="node93" href="$threadheap_8h.html" title="threadheap.h" alt="" coords="2932,237,3028,267"/>
+<area shape="rect" id="node96" href="$segheap_8h.html" title="Definitions of SegHeap and StrictSegHeap. " alt="" coords="3025,160,3108,189"/>
+<area shape="rect" id="node99" href="$kingsleyheap_8h.html" title="Classes to implement a Kingsley (power&#45;of&#45;two, segregated fits) allocator. " alt="" coords="3064,83,3173,112"/>
+<area shape="rect" id="node104" href="$oneheap_8h.html" title="oneheap.h" alt="" coords="2347,83,2429,112"/>
+<area shape="rect" id="node106" href="$debugheap_8h.html" title="debugheap.h" alt="" coords="1595,160,1691,189"/>
+<area shape="rect" id="node109" href="$sizeheap_8h.html" title="Contains UseSizeHeap and SizeHeap. " alt="" coords="1747,83,1832,112"/>
+<area shape="rect" id="node112" href="$addheap_8h.html" title="addheap.h" alt="" coords="1817,160,1900,189"/>
+<area shape="rect" id="node116" href="$profileheap_8h.html" title="profileheap.h" alt="" coords="2605,83,2701,112"/>
+<area shape="rect" id="node118" href="$sizeownerheap_8h.html" title="sizeownerheap.h" alt="" coords="1907,83,2027,112"/>
+<area shape="rect" id="node122" href="$hybridheap_8h.html" title="hybridheap.h" alt="" coords="1475,160,1571,189"/>
+<area shape="rect" id="node127" href="$traceheap_8h.html" title="traceheap.h" alt="" coords="243,160,333,189"/>
+<area shape="rect" id="node131" href="$adapt_8h.html" title="adapt.h" alt="" coords="2345,160,2409,189"/>
+<area shape="rect" id="node133" href="$dllist_8h.html" title="util/dllist.h" alt="" coords="2025,160,2105,189"/>
+<area shape="rect" id="node136" href="$dlheap_8h.html" title="Contains all the classes required to approximate DLmalloc 2.7.0. " alt="" coords="2253,83,2323,112"/>
+<area shape="rect" id="node142" href="$obstackheap_8h.html" title="obstackheap.h" alt="" coords="3197,83,3304,112"/>
+<area shape="rect" id="node144" href="$sbrkheap_8h.html" title="sbrkheap.h" alt="" coords="3328,83,3413,112"/>
+<area shape="rect" id="node146" href="$xallocHeap_8h.html" title="xallocHeap.h" alt="" coords="3437,83,3536,112"/>
+<area shape="rect" id="node148" href="$staticheap_8h.html" title="staticheap.h" alt="" coords="3560,83,3653,112"/>
+</map>

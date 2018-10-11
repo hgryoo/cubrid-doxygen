@@ -1,0 +1,25 @@
+var classCTABLESRow =
+[
+    [ "CTABLESRow", "classCTABLESRow.html#ab9d806fa98b7b48e9bd18356588027f2", null ],
+    [ "CTABLESRow", "classCTABLESRow.html#ab9d806fa98b7b48e9bd18356588027f2", null ],
+    [ "BEGIN_PROVIDER_COLUMN_MAP", "classCTABLESRow.html#aa7bff2cc4c925927f4f3793e643fe51e", null ],
+    [ "BEGIN_PROVIDER_COLUMN_MAP", "classCTABLESRow.html#aa7bff2cc4c925927f4f3793e643fe51e", null ],
+    [ "PROVIDER_COLUMN_ENTRY_TYPE_PS", "classCTABLESRow.html#aa9c62052ca064ad36b22cc5fa470660f", null ],
+    [ "PROVIDER_COLUMN_ENTRY_TYPE_PS", "classCTABLESRow.html#aa9c62052ca064ad36b22cc5fa470660f", null ],
+    [ "PROVIDER_COLUMN_ENTRY_WSTR", "classCTABLESRow.html#aec2adba2048629f27e2745c6d245bd1e", null ],
+    [ "PROVIDER_COLUMN_ENTRY_WSTR", "classCTABLESRow.html#ac58c0de152a37a0dce8d3bfdd26bf784", null ],
+    [ "PROVIDER_COLUMN_ENTRY_WSTR", "classCTABLESRow.html#a2640021a8b71a9113e3b4b447c0aeb99", null ],
+    [ "PROVIDER_COLUMN_ENTRY_WSTR", "classCTABLESRow.html#aec2adba2048629f27e2745c6d245bd1e", null ],
+    [ "PROVIDER_COLUMN_ENTRY_WSTR", "classCTABLESRow.html#ac58c0de152a37a0dce8d3bfdd26bf784", null ],
+    [ "PROVIDER_COLUMN_ENTRY_WSTR", "classCTABLESRow.html#a2640021a8b71a9113e3b4b447c0aeb99", null ],
+    [ "DBTYPE_DATE", "classCTABLESRow.html#a67a881dfbcc8e90bc48566993745c087", null ],
+    [ "m_DateCreated", "classCTABLESRow.html#a35ca99f384d663020973f3f33b5a4183", null ],
+    [ "m_DateModified", "classCTABLESRow.html#a5165ce6584d10b4b3d002eb1ea228f64", null ],
+    [ "m_guid", "classCTABLESRow.html#a06ed93da4dc1e16b0c41faa495fc84df", null ],
+    [ "m_szCatalog", "classCTABLESRow.html#a71bc357193b20ef8c47ed83d601a1137", null ],
+    [ "m_szDesc", "classCTABLESRow.html#a6c1bed7327e8dd886b49be9bcd79090f", null ],
+    [ "m_szSchema", "classCTABLESRow.html#ac034b0ff700514b65216048994c4d103", null ],
+    [ "m_szTable", "classCTABLESRow.html#ab08b65b1b71ef707d96e2ffb27a004b2", null ],
+    [ "m_szType", "classCTABLESRow.html#a1d13bdf6c0b8eb2e8c808df0392c48d9", null ],
+    [ "m_ulPropID", "classCTABLESRow.html#aa1f033aa9216a934168e3b68dbc29bd1", null ]
+];

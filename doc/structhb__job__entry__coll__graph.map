@@ -1,0 +1,5 @@
+<map id="hb_job_entry" name="hb_job_entry">
+<area shape="rect" id="node2" href="$unionhb__job__arg.html" title="hb_job_arg" alt="" coords="108,101,193,131"/>
+<area shape="rect" id="node4" href="$structhb__cluster__job__arg.html" title="hb_cluster_job_arg" alt="" coords="5,5,136,35"/>
+<area shape="rect" id="node6" href="$structhb__resource__job__arg.html" title="hb_resource_job_arg" alt="" coords="160,5,301,35"/>
+</map>

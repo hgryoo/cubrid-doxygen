@@ -1,0 +1,16 @@
+<map id="src/compat/db_json.hpp" name="src/compat/db_json.hpp">
+<area shape="rect" id="node3" href="$db__json_8cpp.html" title="src/compat/db_json.cpp" alt="" coords="5,83,165,112"/>
+<area shape="rect" id="node5" href="$db__macro_8c.html" title="src/compat/db_macro.c" alt="" coords="189,83,347,112"/>
+<area shape="rect" id="node7" href="$loader_8c.html" title="src/executables/loader.c" alt="" coords="371,83,533,112"/>
+<area shape="rect" id="node9" href="$object__domain_8c.html" title="src/object/object_domain.c" alt="" coords="557,83,736,112"/>
+<area shape="rect" id="node11" href="$object__primitive_8c.html" title="src/object/object_primitive.c" alt="" coords="760,83,944,112"/>
+<area shape="rect" id="node13" href="$object__printer_8cpp.html" title="src/object/object_printer.cpp" alt="" coords="968,83,1155,112"/>
+<area shape="rect" id="node15" href="$object__representation_8c.html" title="src/object/object_representation.c" alt="" coords="1179,83,1397,112"/>
+<area shape="rect" id="node17" href="$transform__cl_8c.html" title="src/object/transform_cl.c" alt="" coords="1421,83,1587,112"/>
+<area shape="rect" id="node19" href="$name__resolution_8c.html" title="src/parser/name_resolution.c" alt="" coords="1611,83,1800,112"/>
+<area shape="rect" id="node21" href="$parse__dbi_8c.html" title="src/parser/parse_dbi.c" alt="" coords="1824,83,1973,112"/>
+<area shape="rect" id="node23" href="$arithmetic_8c.html" title="src/query/arithmetic.c" alt="" coords="1997,83,2144,112"/>
+<area shape="rect" id="node25" href="$query__executor_8c.html" title="src/query/query_executor.c" alt="" coords="2168,83,2347,112"/>
+<area shape="rect" id="node27" href="$query__opfunc_8c.html" title="src/query/query_opfunc.c" alt="" coords="2371,83,2539,112"/>
+<area shape="rect" id="node29" href="$string__opfunc_8c.html" title="src/query/string_opfunc.c" alt="" coords="2563,83,2731,112"/>
+</map>

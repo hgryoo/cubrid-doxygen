@@ -1,0 +1,5 @@
+<map id="ScalableHeapNS::SmallHeap&lt; NumHeaps, MmapThreshold, BaseNullHeap, BaseHeap &gt;" name="ScalableHeapNS::SmallHeap&lt; NumHeaps, MmapThreshold, BaseNullHeap, BaseHeap &gt;">
+<area shape="rect" id="node2" href="$classScalableHeapNS_1_1TryHeap.html" title="ScalableHeapNS::TryHeap\l\&lt; MmapThreshold, MarkThreadHeap\l\&lt; NumHeaps, BaseNullHeap \&gt;,\l MarkThreadHeap\&lt; NumHeaps, GlobalHeapWrapper\l\&lt; NumHeaps, BaseHeap \&gt; \&gt; \&gt;" alt="" coords="692,5,1020,104"/>
+<area shape="rect" id="node4" href="$classMarkThreadHeap.html" title="MarkThreadHeap\&lt; NumHeaps,\l GlobalHeapWrapper\&lt; NumHeaps,\l BaseHeap \&gt; \&gt;" alt="" coords="417,23,641,87"/>
+<area shape="rect" id="node6" href="$classScalableHeapNS_1_1GlobalHeapWrapper.html" title="ScalableHeapNS::GlobalHeap\lWrapper\&lt; NumHeaps, BaseHeap \&gt;" alt="" coords="137,31,367,78"/>
+</map>

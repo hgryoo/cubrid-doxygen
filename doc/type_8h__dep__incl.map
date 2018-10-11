@@ -1,0 +1,34 @@
+<map id="src/oledb/type.h" name="src/oledb/type.h">
+<area shape="rect" id="node3" href="$ColumnsRowset_8h.html" title="src/oledb/ColumnsRowset.h" alt="" coords="3773,83,3960,112"/>
+<area shape="rect" id="node11" href="$Command_8cpp.html" title="src/oledb/Command.cpp" alt="" coords="792,392,955,421"/>
+<area shape="rect" id="node21" href="$Session_8cpp.html" title="src/oledb/Session.cpp" alt="" coords="3863,392,4012,421"/>
+<area shape="rect" id="node25" href="$SRColumns_8cpp.html" title="src/oledb/SRColumns.cpp" alt="" coords="300,392,473,421"/>
+<area shape="rect" id="node29" href="$util_8cpp.html" title="src/oledb/util.cpp" alt="" coords="4052,392,4172,421"/>
+<area shape="rect" id="node38" href="$RowsetRow_8cpp.html" title="src/oledb/RowsetRow.cpp" alt="" coords="3653,315,3829,344"/>
+<area shape="rect" id="node49" href="$SRProviderTypes_8cpp.html" title="src/oledb/SRProviderTypes.cpp" alt="" coords="144,315,349,344"/>
+<area shape="rect" id="node85" href="$type_8cpp.html" title="src/oledb/type.cpp" alt="" coords="4157,83,4285,112"/>
+<area shape="rect" id="node5" href="$Command_8h.html" title="src/oledb/Command.h" alt="" coords="2452,160,2601,189"/>
+<area shape="rect" id="node71" href="$Rowset_8h.html" title="src/oledb/Rowset.h" alt="" coords="3800,237,3933,267"/>
+<area shape="rect" id="node7" href="$Session_8h.html" title="src/oledb/Session.h" alt="" coords="1856,237,1992,267"/>
+<area shape="rect" id="node67" href="$MultipleResult_8h.html" title="src/oledb/MultipleResult.h" alt="" coords="2932,237,3105,267"/>
+<area shape="rect" id="node9" href="$DataSource_8h.html" title="src/oledb/DataSource.h" alt="" coords="3056,315,3213,344"/>
+<area shape="rect" id="node23" href="$SRColumnPrivileges_8cpp.html" title="src/oledb/SRColumnPrivileges.cpp" alt="" coords="2243,392,2467,421"/>
+<area shape="rect" id="node27" href="$SRTablePrivileges_8cpp.html" title="src/oledb/SRTablePrivileges.cpp" alt="" coords="1188,392,1399,421"/>
+<area shape="rect" id="node32" href="$CUBRIDRowRowset_8cpp.html" title="src/oledb/CUBRIDRowRowset.cpp" alt="" coords="803,315,1032,344"/>
+<area shape="rect" id="node34" href="$MultipleResult_8cpp.html" title="src/oledb/MultipleResult.cpp" alt="" coords="3443,315,3629,344"/>
+<area shape="rect" id="node36" href="$Row_8cpp.html" title="src/oledb/Row.cpp" alt="" coords="3288,315,3419,344"/>
+<area shape="rect" id="node43" href="$SRIndexes_8cpp.html" title="src/oledb/SRIndexes.cpp" alt="" coords="1056,315,1224,344"/>
+<area shape="rect" id="node45" href="$SRKeyColumnUsage_8cpp.html" title="src/oledb/SRKeyColumnUsage.cpp" alt="" coords="1248,315,1477,344"/>
+<area shape="rect" id="node47" href="$SRPrimaryKeys_8cpp.html" title="src/oledb/SRPrimaryKeys.cpp" alt="" coords="1501,315,1699,344"/>
+<area shape="rect" id="node51" href="$SRStatistics_8cpp.html" title="src/oledb/SRStatistics.cpp" alt="" coords="1723,315,1901,344"/>
+<area shape="rect" id="node53" href="$SRTableConstraints_8cpp.html" title="src/oledb/SRTableConstraints.cpp" alt="" coords="1925,315,2147,344"/>
+<area shape="rect" id="node56" href="$SRTables_8cpp.html" title="src/oledb/SRTables.cpp" alt="" coords="2171,315,2333,344"/>
+<area shape="rect" id="node58" href="$SRTablesInfo_8cpp.html" title="src/oledb/SRTablesInfo.cpp" alt="" coords="2357,315,2541,344"/>
+<area shape="rect" id="node60" href="$SRViewColumnUsage_8cpp.html" title="src/oledb/SRViewColumnUsage.cpp" alt="" coords="2565,315,2800,344"/>
+<area shape="rect" id="node62" href="$SRViews_8cpp.html" title="src/oledb/SRViews.cpp" alt="" coords="2824,315,2981,344"/>
+<area shape="rect" id="node64" href="$TransactionLocal_8cpp.html" title="src/oledb/TransactionLocal.cpp" alt="" coords="424,315,627,344"/>
+<area shape="rect" id="node13" href="$DataSource_8cpp.html" title="src/oledb/DataSource.cpp" alt="" coords="3056,392,3229,421"/>
+<area shape="rect" id="node15" href="$Error_8cpp.html" title="src/oledb/Error.cpp" alt="" coords="2901,392,3032,421"/>
+<area shape="rect" id="node17" href="$Rowset_8cpp.html" title="src/oledb/Rowset.cpp" alt="" coords="3659,392,3808,421"/>
+<area shape="rect" id="node19" href="$RowsetChange_8cpp.html" title="src/oledb/RowsetChange.cpp" alt="" coords="3377,392,3572,421"/>
+</map>

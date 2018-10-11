@@ -1,0 +1,36 @@
+<map id="src/base/area_alloc.c" name="src/base/area_alloc.c">
+<area shape="rect" id="node11" href="$area__alloc_8h.html" title="area_alloc.h" alt="" coords="604,779,695,808"/>
+<area shape="rect" id="node24" href="$set__object_8h.html" title="set_object.h" alt="" coords="859,83,952,112"/>
+<area shape="rect" id="node140" href="$work__space_8h.html" title="work_space.h" alt="" coords="2797,469,2899,499"/>
+<area shape="rect" id="node13" href="$lock__free_8h.html" title="lock_free.h" alt="" coords="1283,856,1368,885"/>
+<area shape="rect" id="node15" href="$porting_8h.html" title="porting.h" alt="" coords="1168,933,1240,963"/>
+<area shape="rect" id="node18" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="2037,1011,2133,1040"/>
+<area shape="rect" id="node20" href="$error__code_8h.html" title="error_code.h" alt="" coords="1327,1088,1420,1117"/>
+<area shape="rect" id="node28" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="820,779,935,808"/>
+<area shape="rect" id="node35" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="1656,624,1813,653"/>
+<area shape="rect" id="node95" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="1019,701,1136,731"/>
+<area shape="rect" id="node101" href="$locator_8h.html" title="locator.h" alt="" coords="2632,547,2704,576"/>
+<area shape="rect" id="node108" href="$parser_8h.html" title="parser.h" alt="" coords="1048,160,1117,189"/>
+<area shape="rect" id="node49" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="1632,779,1765,808"/>
+<area shape="rect" id="node74" href="$oid_8h.html" title="oid.h" alt="" coords="2784,701,2835,731"/>
+<area shape="rect" id="node78" href="$byte__order_8h.html" title="byte_order.h" alt="" coords="1803,701,1896,731"/>
+<area shape="rect" id="node80" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="2689,779,2804,808"/>
+<area shape="rect" id="node57" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="1392,856,1456,885"/>
+<area shape="rect" id="node67" href="$sha1_8h.html" title="sha1.h" alt="" coords="1685,856,1747,885"/>
+<area shape="rect" id="node59" href="$cubrid__api_8h.html" title="cubrid_api.h" alt="" coords="1416,933,1507,963"/>
+<area shape="rect" id="node69" href="$system_8h.html" title="system.h" alt="" coords="1683,933,1757,963"/>
+<area shape="rect" id="node84" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="2173,856,2307,885"/>
+<area shape="rect" id="node115" href="$parse__tree_8h.html" title="parse_tree.h" alt="" coords="1036,237,1129,267"/>
+<area shape="rect" id="node122" href="$cursor_8h.html" title="cursor.h" alt="" coords="1312,315,1381,344"/>
+<area shape="rect" id="node152" href="$string__opfunc_8h.html" title="string_opfunc.h" alt="" coords="2080,624,2189,653"/>
+<area shape="rect" id="node175" href="$message__catalog_8h.html" title="message_catalog.h" alt="" coords="3083,392,3216,421"/>
+<area shape="rect" id="node178" href="$authenticate_8h.html" title="authenticate.h" alt="" coords="2909,701,3013,731"/>
+<area shape="rect" id="node184" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="448,701,589,731"/>
+<area shape="rect" id="node191" href="$xasl_8h.html" title="xasl.h" alt="" coords="1393,469,1449,499"/>
+<area shape="rect" id="node127" href="$query__list_8h.html" title="query_list.h" alt="" coords="1459,547,1547,576"/>
+<area shape="rect" id="node133" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="1527,392,1649,421"/>
+<area shape="rect" id="node146" href="$quick__fit_8h.html" title="quick_fit.h" alt="" coords="2728,547,2811,576"/>
+<area shape="rect" id="node156" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="2313,779,2412,808"/>
+<area shape="rect" id="node163" href="$language__support_8h.html" title="language_support.h" alt="" coords="2424,701,2557,731"/>
+<area shape="rect" id="node167" href="$numeric__opfunc_8h.html" title="numeric_opfunc.h" alt="" coords="2072,701,2197,731"/>
+</map>

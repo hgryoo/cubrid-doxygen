@@ -1,0 +1,6 @@
+<map id="TheFixedHeapType" name="TheFixedHeapType">
+<area shape="rect" id="node2" href="$classHL_1_1LockedHeap.html" title="HL::LockedHeap\&lt; SpinLock\lType, FreelistHeap\&lt; ZoneHeap\l\&lt; mallocHeap, 0 \&gt; \&gt; \&gt;" alt="" coords="9,256,215,320"/>
+<area shape="rect" id="node4" href="$classHL_1_1FreelistHeap.html" title="HL::FreelistHeap\&lt; ZoneHeap\l\&lt; mallocHeap, 0 \&gt; \&gt;" alt="" coords="16,161,208,207"/>
+<area shape="rect" id="node6" href="$classHL_1_1ZoneHeap.html" title="HL::ZoneHeap\&lt; mallocHeap, 0 \&gt;" alt="" coords="5,83,219,112"/>
+<area shape="rect" id="node8" href="$classHL_1_1mallocHeap.html" title="HL::mallocHeap" alt="" coords="55,5,169,35"/>
+</map>

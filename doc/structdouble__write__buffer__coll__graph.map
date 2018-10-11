@@ -1,0 +1,19 @@
+<map id="double_write_buffer" name="double_write_buffer">
+<area shape="rect" id="node2" href="$structdwb__slots__hash.html" title="dwb_slots_hash" alt="" coords="1140,76,1255,105"/>
+<area shape="rect" id="node4" href="$structlf__hash__table.html" title="lf_hash_table" alt="" coords="832,20,931,49"/>
+<area shape="rect" id="node6" href="$structlf__entry__descriptor.html" title="lf_entry_descriptor" alt="" coords="7,25,135,55"/>
+<area shape="rect" id="node8" href="$structlf__freelist.html" title="lf_freelist" alt="" coords="577,41,652,71"/>
+<area shape="rect" id="node10" href="$structlf__tran__system.html" title="lf_tran_system" alt="" coords="276,111,383,140"/>
+<area shape="rect" id="node15" href="$structlf__tran__entry.html" title="lf_tran_entry" alt="" coords="568,111,661,140"/>
+<area shape="rect" id="node13" href="$structlf__bitmap.html" title="lf_bitmap" alt="" coords="33,111,108,140"/>
+<area shape="rect" id="node20" href="$structdouble__write__wait__queue.html" title="double_write_wait_queue" alt="" coords="797,361,965,391"/>
+<area shape="rect" id="node25" href="$structdouble__write__block.html" title="double_write_block" alt="" coords="1131,269,1264,299"/>
+<area shape="rect" id="node22" href="$structdouble__write__wait__queue__entry.html" title="double_write_wait_queue\l_entry" alt="" coords="531,362,699,409"/>
+<area shape="rect" id="node27" href="$structdouble__write__slot.html" title="double_write_slot" alt="" coords="820,216,943,245"/>
+<area shape="rect" id="node29" href="$structvpid.html" title="vpid" alt="" coords="592,164,637,193"/>
+<area shape="rect" id="node31" href="$structfileio__page.html" title="fileio_page" alt="" coords="573,268,656,297"/>
+<area shape="rect" id="node33" href="$structfileio__page__watermark.html" title="fileio_page_watermark" alt="" coords="253,268,405,297"/>
+<area shape="rect" id="node35" href="$structlog__lsa.html" title="log_lsa" alt="" coords="40,268,101,297"/>
+<area shape="rect" id="node37" href="$structfileio__page__reserved.html" title="fileio_page_reserved" alt="" coords="259,321,400,351"/>
+<area shape="rect" id="node42" href="$structflush__volume__info.html" title="flush_volume_info" alt="" coords="819,269,944,299"/>
+</map>

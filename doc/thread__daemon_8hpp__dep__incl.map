@@ -1,0 +1,14 @@
+<map id="src/thread/thread_daemon.hpp" name="src/thread/thread_daemon.hpp">
+<area shape="rect" id="node3" href="$stream__transfer__receiver_8cpp.html" title="src/communication/stream\l_transfer_receiver.cpp" alt="" coords="5,83,181,130"/>
+<area shape="rect" id="node5" href="$stream__transfer__sender_8cpp.html" title="src/communication/stream\l_transfer_sender.cpp" alt="" coords="205,83,381,130"/>
+<area shape="rect" id="node7" href="$log__consumer_8cpp.html" title="src/replication/log\l_consumer.cpp" alt="" coords="405,83,528,130"/>
+<area shape="rect" id="node9" href="$replication__master__senders__manager_8cpp.html" title="src/replication/replication\l_master_senders_manager.cpp" alt="" coords="552,83,755,130"/>
+<area shape="rect" id="node11" href="$session_8c.html" title="src/session/session.c" alt="" coords="779,92,928,121"/>
+<area shape="rect" id="node13" href="$disk__manager_8c.html" title="src/storage/disk_manager.c" alt="" coords="952,92,1133,121"/>
+<area shape="rect" id="node15" href="$double__write__buffer_8c.html" title="src/storage/double\l_write_buffer.c" alt="" coords="1157,83,1285,130"/>
+<area shape="rect" id="node17" href="$page__buffer_8c.html" title="src/storage/page_buffer.c" alt="" coords="1309,92,1480,121"/>
+<area shape="rect" id="node19" href="$thread__daemon_8cpp.html" title="src/thread/thread_daemon.cpp" alt="" coords="1504,92,1701,121"/>
+<area shape="rect" id="node21" href="$lock__manager_8c.html" title="src/transaction/lock\l_manager.c" alt="" coords="1725,83,1861,130"/>
+<area shape="rect" id="node23" href="$log__manager_8c.html" title="src/transaction/log\l_manager.c" alt="" coords="1885,83,2013,130"/>
+<area shape="rect" id="node25" href="$communication__channel_2test__main_8cpp.html" title="unit_tests/communication\l_channel/test_main.cpp" alt="" coords="2037,83,2208,130"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="src/replication/replication_master_senders_manager.cpp" name="src/replication/replication_master_senders_manager.cpp">
+<area shape="rect" id="node3" href="$replication__master__senders__manager_8hpp.html" title="replication_master\l_senders_manager.hpp" alt="" coords="1287,102,1445,149"/>
+<area shape="rect" id="node35" href="$thread__manager_8hpp.html" title="thread_manager.hpp" alt="" coords="1087,197,1226,227"/>
+<area shape="rect" id="node121" href="$thread__daemon_8hpp.html" title="thread_daemon.hpp" alt="" coords="546,197,682,227"/>
+<area shape="rect" id="node5" href="$critical__section_8h.html" title="critical_section.h" alt="" coords="1815,429,1935,459"/>
+<area shape="rect" id="node23" href="$cubstream_8hpp.html" title="cubstream.hpp" alt="" coords="1402,275,1509,304"/>
+<area shape="rect" id="node83" href="$thread__entry__task_8hpp.html" title="thread_entry_task.hpp" alt="" coords="745,197,894,227"/>
+<area shape="rect" id="node87" href="$stream__transfer__sender_8hpp.html" title="stream_transfer_sender.hpp" alt="" coords="1593,197,1777,227"/>
+<area shape="rect" id="node7" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="1734,507,1830,536"/>
+<area shape="rect" id="node13" href="$porting_8h.html" title="porting.h" alt="" coords="1386,584,1458,613"/>
+<area shape="rect" id="node17" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="1526,507,1659,536"/>
+<area shape="rect" id="node9" href="$error__code_8h.html" title="error_code.h" alt="" coords="1683,584,1777,613"/>
+<area shape="rect" id="node37" href="$thread__entry_8hpp.html" title="thread_entry.hpp" alt="" coords="901,275,1018,304"/>
+<area shape="rect" id="node56" href="$thread__task_8hpp.html" title="thread_task.hpp" alt="" coords="762,275,877,304"/>
+<area shape="rect" id="node62" href="$thread__waiter_8hpp.html" title="thread_waiter.hpp" alt="" coords="511,275,637,304"/>
+<area shape="rect" id="node78" href="$base__flag_8hpp.html" title="base_flag.hpp" alt="" coords="1093,275,1194,304"/>
+<area shape="rect" id="node39" href="$error__context_8hpp.html" title="error_context.hpp" alt="" coords="1091,352,1214,381"/>
+<area shape="rect" id="node45" href="$system_8h.html" title="system.h" alt="" coords="833,429,907,459"/>
+<area shape="rect" id="node64" href="$perf__def_8hpp.html" title="perf_def.hpp" alt="" coords="350,352,443,381"/>
+<area shape="rect" id="node89" href="$communication__channel_8hpp.html" title="communication_channel.hpp" alt="" coords="1581,275,1767,304"/>
+<area shape="rect" id="node91" href="$connection__support_8h.html" title="connection_support.h" alt="" coords="1601,352,1747,381"/>
+<area shape="rect" id="node93" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="1463,429,1591,459"/>
+<area shape="rect" id="node95" href="$boot_8h.html" title="boot.h" alt="" coords="1393,507,1451,536"/>
+<area shape="rect" id="node123" href="$thread__looper_8hpp.html" title="thread_looper.hpp" alt="" coords="250,275,375,304"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="HL::CoalesceableMmapHeap&lt; Mmap &gt;" name="HL::CoalesceableMmapHeap&lt; Mmap &gt;">
+<area shape="rect" id="node7" href="$classHL_1_1SelectMmapHeap.html" title="SelectMmapHeap\&lt; 128\l *1024, Threshold\&lt; 4096,\l DLSmallHeapType\&lt; DLBigHeapType\l\&lt; CoalesceableHeap\&lt; Sbrk \&gt; \&gt;\l \&gt; \&gt;, CoalesceableMmapHeap\&lt; Mmap \&gt; \&gt;" alt="" coords="573,5,845,104"/>
+<area shape="rect" id="node2" href="$classHL_1_1RequireCoalesceable.html" title="HL::RequireCoalesceable\l\&lt; Mmap \&gt;" alt="" coords="112,31,283,78"/>
+<area shape="rect" id="node9" href="$classHL_1_1LeaHeap.html" title="This heap approximates the algorithms used by DLmalloc 2.7.0. " alt="" coords="895,31,1036,78"/>
+</map>

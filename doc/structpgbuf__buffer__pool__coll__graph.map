@@ -1,0 +1,28 @@
+<map id="pgbuf_buffer_pool" name="pgbuf_buffer_pool">
+<area shape="rect" id="node2" href="$classlockfree_1_1circular__queue.html" title="lockfree::circular\l_queue\&lt; int \&gt;" alt="" coords="912,93,1029,139"/>
+<area shape="rect" id="node4" href="$structpgbuf__buffer__hash.html" title="pgbuf_buffer_hash" alt="" coords="572,813,700,843"/>
+<area shape="rect" id="node6" href="$structpgbuf__bcb.html" title="pgbuf_bcb" alt="" coords="288,416,371,445"/>
+<area shape="rect" id="node11" href="$structpgbuf__iopage__buffer.html" title="pgbuf_iopage_buffer" alt="" coords="901,289,1040,319"/>
+<area shape="rect" id="node31" href="$structpgbuf__holder.html" title="pgbuf_holder" alt="" coords="588,648,684,677"/>
+<area shape="rect" id="node48" href="$structpgbuf__victim__candidate__list.html" title="pgbuf_victim_candidate_list" alt="" coords="545,183,727,212"/>
+<area shape="rect" id="node58" href="$structpgbuf__lru__list.html" title="pgbuf_lru_list" alt="" coords="764,369,863,399"/>
+<area shape="rect" id="node63" href="$structpgbuf__invalid__list.html" title="pgbuf_invalid_list" alt="" coords="752,428,875,457"/>
+<area shape="rect" id="node9" href="$structvpid.html" title="vpid" alt="" coords="25,639,71,668"/>
+<area shape="rect" id="node24" href="$structpgbuf__buffer__lock.html" title="pgbuf_buffer_lock" alt="" coords="267,813,392,843"/>
+<area shape="rect" id="node37" href="$structpgbuf__watcher.html" title="pgbuf_watcher" alt="" coords="276,639,383,668"/>
+<area shape="rect" id="node75" href="$structpgbuf__aout__buf.html" title="pgbuf_aout_buf" alt="" coords="275,977,384,1007"/>
+<area shape="rect" id="node14" href="$structfileio__page.html" title="fileio_page" alt="" coords="595,121,677,151"/>
+<area shape="rect" id="node16" href="$structfileio__page__watermark.html" title="fileio_page_watermark" alt="" coords="253,68,405,97"/>
+<area shape="rect" id="node18" href="$structlog__lsa.html" title="log_lsa" alt="" coords="17,96,79,125"/>
+<area shape="rect" id="node20" href="$structfileio__page__reserved.html" title="fileio_page_reserved" alt="" coords="259,121,400,151"/>
+<area shape="rect" id="node45" href="$structpgbuf__seq__flusher.html" title="pgbuf_seq_flusher" alt="" coords="907,163,1035,192"/>
+<area shape="rect" id="node29" href="$structpgbuf__holder__anchor.html" title="pgbuf_holder_anchor" alt="" coords="900,589,1041,619"/>
+<area shape="rect" id="node52" href="$structpgbuf__holder__set.html" title="pgbuf_holder_set" alt="" coords="911,749,1031,779"/>
+<area shape="rect" id="node33" href="$structpgbuf__holder__stat.html" title="pgbuf_holder_stat" alt="" coords="267,692,392,721"/>
+<area shape="rect" id="node41" href="$structpgbuf__page__quota.html" title="pgbuf_page_quota" alt="" coords="907,536,1035,565"/>
+<area shape="rect" id="node43" href="$uniontsc__ticks.html" title="tsc_ticks" alt="" coords="599,536,673,565"/>
+<area shape="rect" id="node56" href="$structpgbuf__page__monitor.html" title="pgbuf_page_monitor" alt="" coords="901,803,1040,832"/>
+<area shape="rect" id="node68" href="$structpgbuf__aout__list.html" title="pgbuf_aout_list" alt="" coords="581,1009,691,1039"/>
+<area shape="rect" id="node70" href="$structmht__table.html" title="mht_table" alt="" coords="291,1057,368,1087"/>
+<area shape="rect" id="node72" href="$structhentry.html" title="hentry" alt="" coords="19,1057,77,1087"/>
+</map>

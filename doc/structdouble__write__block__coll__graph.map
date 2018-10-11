@@ -1,0 +1,11 @@
+<map id="double_write_block" name="double_write_block">
+<area shape="rect" id="node2" href="$structdouble__write__slot.html" title="double_write_slot" alt="" coords="43,347,165,376"/>
+<area shape="rect" id="node4" href="$structvpid.html" title="vpid" alt="" coords="5,207,51,236"/>
+<area shape="rect" id="node6" href="$structfileio__page.html" title="fileio_page" alt="" coords="143,207,225,236"/>
+<area shape="rect" id="node8" href="$structfileio__page__watermark.html" title="fileio_page_watermark" alt="" coords="125,101,277,131"/>
+<area shape="rect" id="node10" href="$structlog__lsa.html" title="log_lsa" alt="" coords="171,5,232,35"/>
+<area shape="rect" id="node12" href="$structfileio__page__reserved.html" title="fileio_page_reserved" alt="" coords="301,101,443,131"/>
+<area shape="rect" id="node16" href="$structdouble__write__wait__queue.html" title="double_write_wait_queue" alt="" coords="219,347,387,376"/>
+<area shape="rect" id="node18" href="$structdouble__write__wait__queue__entry.html" title="double_write_wait_queue\l_entry" alt="" coords="249,198,417,245"/>
+<area shape="rect" id="node21" href="$structflush__volume__info.html" title="flush_volume_info" alt="" coords="411,347,536,376"/>
+</map>

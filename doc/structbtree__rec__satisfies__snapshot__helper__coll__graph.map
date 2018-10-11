@@ -1,0 +1,6 @@
+<map id="btree_rec_satisfies_snapshot_helper" name="btree_rec_satisfies_snapshot_helper">
+<area shape="rect" id="node2" href="$structdb__identifier.html" title="db_identifier" alt="" coords="5,197,96,227"/>
+<area shape="rect" id="node4" href="$structmvcc__snapshot.html" title="mvcc_snapshot" alt="" coords="123,197,237,227"/>
+<area shape="rect" id="node6" href="$structmvcc__rec__header.html" title="mvcc_rec_header" alt="" coords="117,101,243,131"/>
+<area shape="rect" id="node8" href="$structlog__lsa.html" title="log_lsa" alt="" coords="149,5,211,35"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="src/broker/cas_schema_info.c" name="src/broker/cas_schema_info.c">
+<area shape="rect" id="node5" href="$cas_8h.html" title="cas.h" alt="" coords="869,256,923,285"/>
+<area shape="rect" id="node30" href="$cas__common_8h.html" title="cas_common.h" alt="" coords="59,488,168,517"/>
+<area shape="rect" id="node48" href="$cas__schema__info_8h.html" title="cas_schema_info.h" alt="" coords="1000,101,1133,131"/>
+<area shape="rect" id="node56" href="$cas__net__buf_8h.html" title="cas_net_buf.h" alt="" coords="1015,179,1119,208"/>
+<area shape="rect" id="node70" href="$language__support_8h.html" title="language_support.h" alt="" coords="1476,101,1609,131"/>
+<area shape="rect" id="node7" href="$broker__shm_8h.html" title="broker_shm.h" alt="" coords="527,333,628,363"/>
+<area shape="rect" id="node22" href="$cas__protocol_8h.html" title="cas_protocol.h" alt="" coords="877,488,984,517"/>
+<area shape="rect" id="node41" href="$cas__cci_8h.html" title="cas_cci.h" alt="" coords="959,333,1036,363"/>
+<area shape="rect" id="node13" href="$porting_8h.html" title="porting.h" alt="" coords="549,565,621,595"/>
+<area shape="rect" id="node17" href="$broker__env__def_8h.html" title="broker_env_def.h" alt="" coords="243,411,365,440"/>
+<area shape="rect" id="node19" href="$broker__config_8h.html" title="broker_config.h" alt="" coords="720,411,829,440"/>
+<area shape="rect" id="node26" href="$broker__max__heap_8h.html" title="broker_max_heap.h" alt="" coords="440,411,576,440"/>
+<area shape="rect" id="node24" href="$environment__variable_8h.html" title="environment_variable.h" alt="" coords="648,488,803,517"/>
+<area shape="rect" id="node36" href="$broker__msg_8h.html" title="broker_msg.h" alt="" coords="440,488,541,517"/>
+<area shape="rect" id="node45" href="$cas__error_8h.html" title="cas_error.h" alt="" coords="955,411,1040,440"/>
+<area shape="rect" id="node50" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="1235,256,1331,285"/>
+<area shape="rect" id="node52" href="$error__code_8h.html" title="error_code.h" alt="" coords="1127,333,1220,363"/>
+<area shape="rect" id="node61" href="$cas__network_8h.html" title="cas_network.h" alt="" coords="1104,256,1211,285"/>
+<area shape="rect" id="node74" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="1703,179,1801,208"/>
+<area shape="rect" id="node85" href="$locale__support_8h.html" title="locale_support.h" alt="" coords="1419,179,1536,208"/>
+<area shape="rect" id="node90" href="$locale__lib__common_8h.html" title="locale_lib_common.h" alt="" coords="1405,256,1549,285"/>
+</map>

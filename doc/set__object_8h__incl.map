@@ -1,0 +1,36 @@
+<map id="src/object/set_object.h" name="src/object/set_object.h">
+<area shape="rect" id="node5" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="2624,856,2720,885"/>
+<area shape="rect" id="node11" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="520,624,635,653"/>
+<area shape="rect" id="node19" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="1144,469,1301,499"/>
+<area shape="rect" id="node83" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="1803,547,1920,576"/>
+<area shape="rect" id="node88" href="$area__alloc_8h.html" title="area_alloc.h" alt="" coords="2501,624,2592,653"/>
+<area shape="rect" id="node94" href="$locator_8h.html" title="locator.h" alt="" coords="1775,392,1847,421"/>
+<area shape="rect" id="node101" href="$parser_8h.html" title="parser.h" alt="" coords="2312,83,2381,112"/>
+<area shape="rect" id="node7" href="$error__code_8h.html" title="error_code.h" alt="" coords="1505,933,1599,963"/>
+<area shape="rect" id="node33" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="1333,624,1467,653"/>
+<area shape="rect" id="node61" href="$oid_8h.html" title="oid.h" alt="" coords="1728,547,1779,576"/>
+<area shape="rect" id="node65" href="$byte__order_8h.html" title="byte_order.h" alt="" coords="912,547,1005,576"/>
+<area shape="rect" id="node67" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="2060,624,2175,653"/>
+<area shape="rect" id="node41" href="$porting_8h.html" title="porting.h" alt="" coords="1216,779,1288,808"/>
+<area shape="rect" id="node44" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="3077,701,3141,731"/>
+<area shape="rect" id="node54" href="$sha1_8h.html" title="sha1.h" alt="" coords="997,701,1059,731"/>
+<area shape="rect" id="node46" href="$cubrid__api_8h.html" title="cubrid_api.h" alt="" coords="2811,779,2901,808"/>
+<area shape="rect" id="node56" href="$system_8h.html" title="system.h" alt="" coords="621,779,696,808"/>
+<area shape="rect" id="node71" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="2819,701,2952,731"/>
+<area shape="rect" id="node90" href="$lock__free_8h.html" title="lock_free.h" alt="" coords="2304,701,2389,731"/>
+<area shape="rect" id="node108" href="$parse__tree_8h.html" title="parse_tree.h" alt="" coords="1400,160,1493,189"/>
+<area shape="rect" id="node115" href="$cursor_8h.html" title="cursor.h" alt="" coords="1335,315,1404,344"/>
+<area shape="rect" id="node135" href="$string__opfunc_8h.html" title="string_opfunc.h" alt="" coords="2317,469,2427,499"/>
+<area shape="rect" id="node160" href="$message__catalog_8h.html" title="message_catalog.h" alt="" coords="3069,469,3203,499"/>
+<area shape="rect" id="node163" href="$authenticate_8h.html" title="authenticate.h" alt="" coords="2628,237,2732,267"/>
+<area shape="rect" id="node174" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="296,547,437,576"/>
+<area shape="rect" id="node181" href="$xasl_8h.html" title="xasl.h" alt="" coords="1471,315,1527,344"/>
+<area shape="rect" id="node120" href="$query__list_8h.html" title="query_list.h" alt="" coords="1413,392,1501,421"/>
+<area shape="rect" id="node126" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="1628,392,1751,421"/>
+<area shape="rect" id="node139" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="1937,624,2036,653"/>
+<area shape="rect" id="node146" href="$language__support_8h.html" title="language_support.h" alt="" coords="2144,547,2277,576"/>
+<area shape="rect" id="node150" href="$numeric__opfunc_8h.html" title="numeric_opfunc.h" alt="" coords="1995,547,2120,576"/>
+<area shape="rect" id="node157" href="$win_2external_2include_2libregex38a_2regex38a_8h.html" title="libregex38a/regex38a.h" alt="" coords="2352,547,2507,576"/>
+<area shape="rect" id="node169" href="$class__object_8h.html" title="class_object.h" alt="" coords="2228,315,2335,344"/>
+<area shape="rect" id="node185" href="$memory__hash_8h.html" title="memory_hash.h" alt="" coords="2581,547,2696,576"/>
+</map>

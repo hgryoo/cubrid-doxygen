@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classHL_1_1StaticHeap.html" title="HL::StaticHeap\&lt; 65536 \&gt;" alt="" coords="5,23,176,52"/>
+<area shape="rect" id="node3" href="$classHL_1_1UseSizeHeap.html" title="HL::UseSizeHeap\&lt; HL\l::StaticHeap\&lt; 65536 \&gt; \&gt;" alt="" coords="225,14,391,61"/>
+<area shape="rect" id="node5" href="$classHL_1_1SizeHeap.html" title="HL::SizeHeap\&lt; HL::Static\lHeap\&lt; 65536 \&gt; \&gt;" alt="" coords="441,14,615,61"/>
+<area shape="rect" id="node7" href="$classHL_1_1ANSIWrapper.html" title="HL::ANSIWrapper\&lt; HL\l::SizeHeap\&lt; HL::StaticHeap\l\&lt; 65536 \&gt; \&gt; \&gt;" alt="" coords="664,5,853,69"/>
+</map>

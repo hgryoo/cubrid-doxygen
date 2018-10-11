@@ -1,0 +1,34 @@
+<map id="sm_attr_properties_chg" name="sm_attr_properties_chg">
+<area shape="rect" id="node2" href="$structsm__constraint__info.html" title="sm_constraint_info" alt="" coords="1377,107,1508,136"/>
+<area shape="rect" id="node4" href="$structsm__predicate__info.html" title="sm_predicate_info" alt="" coords="1071,113,1199,143"/>
+<area shape="rect" id="node6" href="$structsm__function__info.html" title="sm_function_info" alt="" coords="1075,60,1195,89"/>
+<area shape="rect" id="node8" href="$structtp__domain.html" title="tp_domain" alt="" coords="809,165,892,195"/>
+<area shape="rect" id="node44" href="$structdb__midxkey.html" title="db_midxkey" alt="" coords="1089,648,1180,677"/>
+<area shape="rect" id="node66" href="$structdb__set.html" title="db_set" alt="" coords="2520,363,2581,392"/>
+<area shape="rect" id="node68" href="$structsetobj.html" title="setobj" alt="" coords="2697,356,2753,385"/>
+<area shape="rect" id="node10" href="$structdb__enumeration.html" title="db_enumeration" alt="" coords="475,232,589,261"/>
+<area shape="rect" id="node12" href="$structdb__enum__element.html" title="db_enum_element" alt="" coords="168,596,296,625"/>
+<area shape="rect" id="node36" href="$uniondb__data.html" title="db_data" alt="" coords="1409,685,1476,715"/>
+<area shape="rect" id="node14" href="$uniondb__char.html" title="db_char" alt="" coords="7,792,73,821"/>
+<area shape="rect" id="node16" href="$classJSON__VALIDATOR.html" title="JSON_VALIDATOR" alt="" coords="461,108,603,137"/>
+<area shape="rect" id="node18" href="$structdb__object.html" title="db_object" alt="" coords="2351,363,2428,392"/>
+<area shape="rect" id="node20" href="$unionvid__oid.html" title="vid_oid" alt="" coords="2171,319,2232,348"/>
+<area shape="rect" id="node22" href="$structdb__identifier.html" title="db_identifier" alt="" coords="487,301,577,331"/>
+<area shape="rect" id="node24" href="$structvid__info.html" title="vid_info" alt="" coords="1939,335,2005,364"/>
+<area shape="rect" id="node26" href="$structdb__value.html" title="db_value" alt="" coords="1696,389,1771,419"/>
+<area shape="rect" id="node76" href="$structws__value__list.html" title="ws_value_list" alt="" coords="2029,405,2131,435"/>
+<area shape="rect" id="node28" href="$uniondb__domain__info.html" title="db_domain_info" alt="" coords="1387,388,1499,417"/>
+<area shape="rect" id="node30" href="$structdb__domain__info_1_1general__info.html" title="db_domain_info::general_info" alt="" coords="1040,440,1229,469"/>
+<area shape="rect" id="node32" href="$structdb__domain__info_1_1char__info.html" title="db_domain_info::char_info" alt="" coords="1048,333,1221,363"/>
+<area shape="rect" id="node34" href="$structdb__domain__info_1_1numeric__info.html" title="db_domain_info::numeric_info" alt="" coords="1037,387,1232,416"/>
+<area shape="rect" id="node39" href="$structdb__monetary.html" title="db_monetary" alt="" coords="1087,820,1183,849"/>
+<area shape="rect" id="node42" href="$structdb__numeric.html" title="db_numeric" alt="" coords="1091,924,1179,953"/>
+<area shape="rect" id="node46" href="$structspecial__column.html" title="special_column" alt="" coords="795,659,907,688"/>
+<area shape="rect" id="node49" href="$structdb__elo.html" title="db_elo" alt="" coords="1105,977,1164,1007"/>
+<area shape="rect" id="node51" href="$structdb__datetime.html" title="db_datetime" alt="" coords="804,739,897,768"/>
+<area shape="rect" id="node61" href="$structdb__datetimetz.html" title="db_datetimetz" alt="" coords="1083,767,1187,796"/>
+<area shape="rect" id="node55" href="$structdb__json.html" title="db_json" alt="" coords="1101,1031,1168,1060"/>
+<area shape="rect" id="node57" href="$classJSON__DOC.html" title="JSON_DOC" alt="" coords="804,1031,897,1060"/>
+<area shape="rect" id="node64" href="$structdb__timestamptz.html" title="db_timestamptz" alt="" coords="1077,493,1192,523"/>
+<area shape="rect" id="node83" href="$structpr__type.html" title="pr_type" alt="" coords="500,161,564,191"/>
+</map>

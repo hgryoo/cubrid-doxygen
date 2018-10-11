@@ -1,0 +1,36 @@
+<map id="src/jsp/jsp_cl.h" name="src/jsp/jsp_cl.h">
+<area shape="rect" id="node3" href="$parse__tree_8h.html" title="parse_tree.h" alt="" coords="308,83,401,112"/>
+<area shape="rect" id="node13" href="$cursor_8h.html" title="cursor.h" alt="" coords="1488,237,1557,267"/>
+<area shape="rect" id="node112" href="$string__opfunc_8h.html" title="string_opfunc.h" alt="" coords="947,392,1056,421"/>
+<area shape="rect" id="node144" href="$message__catalog_8h.html" title="message_catalog.h" alt="" coords="3024,315,3157,344"/>
+<area shape="rect" id="node147" href="$authenticate_8h.html" title="authenticate.h" alt="" coords="2444,160,2548,189"/>
+<area shape="rect" id="node165" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="245,469,387,499"/>
+<area shape="rect" id="node172" href="$xasl_8h.html" title="xasl.h" alt="" coords="895,160,951,189"/>
+<area shape="rect" id="node16" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="647,547,761,576"/>
+<area shape="rect" id="node24" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="2243,624,2307,653"/>
+<area shape="rect" id="node37" href="$query__list_8h.html" title="query_list.h" alt="" coords="1325,315,1413,344"/>
+<area shape="rect" id="node39" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="2051,547,2184,576"/>
+<area shape="rect" id="node56" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="1663,392,1820,421"/>
+<area shape="rect" id="node96" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="1541,315,1664,344"/>
+<area shape="rect" id="node22" href="$error__code_8h.html" title="error_code.h" alt="" coords="784,856,877,885"/>
+<area shape="rect" id="node26" href="$cubrid__api_8h.html" title="cubrid_api.h" alt="" coords="1869,701,1960,731"/>
+<area shape="rect" id="node32" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="2000,779,2096,808"/>
+<area shape="rect" id="node88" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="1397,469,1515,499"/>
+<area shape="rect" id="node49" href="$porting_8h.html" title="porting.h" alt="" coords="1071,624,1143,653"/>
+<area shape="rect" id="node54" href="$sha1_8h.html" title="sha1.h" alt="" coords="1949,624,2011,653"/>
+<area shape="rect" id="node68" href="$oid_8h.html" title="oid.h" alt="" coords="2405,469,2456,499"/>
+<area shape="rect" id="node72" href="$byte__order_8h.html" title="byte_order.h" alt="" coords="1832,469,1925,499"/>
+<area shape="rect" id="node74" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="2429,547,2544,576"/>
+<area shape="rect" id="node78" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="2085,624,2219,653"/>
+<area shape="rect" id="node93" href="$area__alloc_8h.html" title="area_alloc.h" alt="" coords="1475,547,1565,576"/>
+<area shape="rect" id="node103" href="$work__space_8h.html" title="work_space.h" alt="" coords="2405,392,2507,421"/>
+<area shape="rect" id="node116" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="1251,547,1349,576"/>
+<area shape="rect" id="node125" href="$language__support_8h.html" title="language_support.h" alt="" coords="1088,469,1221,499"/>
+<area shape="rect" id="node134" href="$numeric__opfunc_8h.html" title="numeric_opfunc.h" alt="" coords="939,469,1064,499"/>
+<area shape="rect" id="node141" href="$win_2external_2include_2libregex38a_2regex38a_8h.html" title="libregex38a/regex38a.h" alt="" coords="461,469,616,499"/>
+<area shape="rect" id="node129" href="$locale__support_8h.html" title="locale_support.h" alt="" coords="1059,547,1176,576"/>
+<area shape="rect" id="node153" href="$class__object_8h.html" title="class_object.h" alt="" coords="2344,237,2451,267"/>
+<area shape="rect" id="node159" href="$statistics_8h.html" title="statistics.h" alt="" coords="2864,392,2949,421"/>
+<area shape="rect" id="node176" href="$memory__hash_8h.html" title="memory_hash.h" alt="" coords="2683,469,2797,499"/>
+<area shape="rect" id="node184" href="$regu__var_8h.html" title="regu_var.h" alt="" coords="881,237,964,267"/>
+</map>

@@ -1,0 +1,28 @@
+var log__2pc_8c =
+[
+    [ "log_2pc_global_data", "structlog__2pc__global__data.html", "structlog__2pc__global__data" ],
+    [ "CSS_ENABLE_INTERRUPTS", "log__2pc_8c.html#af196849ce464c4667d27271af744297f", null ],
+    [ "log_2pc_alloc_coord_info", "log__2pc_8c.html#ac95e346a60a85bf2145201a15b614439", null ],
+    [ "log_2pc_attach_global_tran", "log__2pc_8c.html#a318025a7b9ff40835b5dcd6fd7021919", null ],
+    [ "log_2pc_commit", "log__2pc_8c.html#ab47b2cdecdd3831c4f54258773eef82a", null ],
+    [ "log_2pc_dump_acqobj_locks", "log__2pc_8c.html#a5ca4289c73c7a20f910ab4b689620520", null ],
+    [ "log_2pc_dump_gtrinfo", "log__2pc_8c.html#a2854dc00bf3ef6c931e74ef18a87f999", null ],
+    [ "log_2pc_dump_participants", "log__2pc_8c.html#a43497b937744325d2a9da2ac9e7718fa", null ],
+    [ "log_2pc_free_coord_info", "log__2pc_8c.html#aba777d199a280baf185cefd2d865200d", null ],
+    [ "log_2pc_prepare", "log__2pc_8c.html#a2a445aff173f33094b8973bd770dcb30", null ],
+    [ "log_2pc_prepare_global_tran", "log__2pc_8c.html#a6ae2e71f9ebb8789390c01087bb8e947", null ],
+    [ "log_2pc_read_prepare", "log__2pc_8c.html#abc92c9a0c01f0a94501720cb23d549eb", null ],
+    [ "log_2pc_recovery", "log__2pc_8c.html#adcbba7d021cae9b781f67019b5177c11", null ],
+    [ "log_2pc_recovery_analysis_info", "log__2pc_8c.html#ada00738df2bd7ce2223272322afce581", null ],
+    [ "log_2pc_recovery_prepared", "log__2pc_8c.html#a496f7f73dcd0db2102680171158d304a", null ],
+    [ "log_2pc_send_abort_decision", "log__2pc_8c.html#af2c5ff4de2960082b02967e3999a97d5", null ],
+    [ "log_2pc_send_commit_decision", "log__2pc_8c.html#a099f6b336c7620fa1aabcff1069720ae", null ],
+    [ "log_2pc_send_prepare", "log__2pc_8c.html#a3507b6645a69a3583e0c4c85034e89d8", null ],
+    [ "log_2pc_sprintf_particp", "log__2pc_8c.html#ab4b4c93093d48d1e2ebd461fa0f51fce", null ],
+    [ "log_2pc_start", "log__2pc_8c.html#aa4725b0242c5cf3438154de4beb4cc35", null ],
+    [ "log_clear_and_is_tran_distributed", "log__2pc_8c.html#a566c7760f8c68cf6cccc5f80045984e7", null ],
+    [ "log_get_global_tran_info", "log__2pc_8c.html#a62bdca689dffcd64c463e4adf7b23952", null ],
+    [ "log_is_tran_distributed", "log__2pc_8c.html#ad1d43ee9020becdfad0fe0034f7b4f39", null ],
+    [ "log_set_global_tran_info", "log__2pc_8c.html#ad96f14824720320cc4f5dd28dc85dafb", null ],
+    [ "log_2pc_Userfun", "log__2pc_8c.html#affa8ad834f3134806130100b67b5eb9c", null ]
+];

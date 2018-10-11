@@ -1,0 +1,16 @@
+<map id="statement_impl_s" name="statement_impl_s">
+<area shape="rect" id="node30" href="$structbatch__result__impl__s.html" title="batch_result_impl_s" alt="" coords="1319,128,1457,157"/>
+<area shape="rect" id="node33" href="$structparameter__meta__impl__s.html" title="parameter_meta_impl_s" alt="" coords="1308,203,1468,232"/>
+<area shape="rect" id="node2" href="$structT__CCI__QUERY__RESULT.html" title="T_CCI_QUERY_RESULT" alt="" coords="805,5,981,35"/>
+<area shape="rect" id="node4" href="$structdlisth__s.html" title="dlisth_s" alt="" coords="5,84,72,113"/>
+<area shape="rect" id="node17" href="$structht__bucket__s.html" title="ht_bucket_s" alt="" coords="155,127,248,156"/>
+<area shape="rect" id="node7" href="$structvalue__indexer__s.html" title="value_indexer_s" alt="" coords="836,219,951,248"/>
+<area shape="rect" id="node9" href="$structvalue__indexer__ifs__s.html" title="value_indexer_ifs_s" alt="" coords="580,333,716,363"/>
+<area shape="rect" id="node11" href="$structconnection__impl__s.html" title="connection_impl_s" alt="" coords="828,165,959,195"/>
+<area shape="rect" id="node13" href="$structcci__object__pool__s.html" title="cci_object_pool_s" alt="" coords="585,179,711,208"/>
+<area shape="rect" id="node15" href="$structhash__table__s.html" title="hash_table_s" alt="" coords="367,179,465,208"/>
+<area shape="rect" id="node20" href="$structT__CCI__ERROR.html" title="T_CCI_ERROR" alt="" coords="357,251,475,280"/>
+<area shape="rect" id="node23" href="$structapi__object__resultset__pool__s.html" title="api_object_resultset\l_pool_s" alt="" coords="347,109,485,155"/>
+<area shape="rect" id="node26" href="$structbh__interface__s.html" title="bh_interface_s" alt="" coords="595,117,701,147"/>
+<area shape="rect" id="node28" href="$structT__CCI__COL__INFO.html" title="T_CCI_COL_INFO" alt="" coords="827,272,960,301"/>
+</map>

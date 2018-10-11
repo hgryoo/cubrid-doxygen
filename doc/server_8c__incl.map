@@ -1,0 +1,35 @@
+<map id="src/executables/server.c" name="src/executables/server.c">
+<area shape="rect" id="node19" href="$porting_8h.html" title="porting.h" alt="" coords="572,624,644,653"/>
+<area shape="rect" id="node22" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="720,469,861,499"/>
+<area shape="rect" id="node37" href="$connection__error_8h.html" title="connection_error.h" alt="" coords="269,160,397,189"/>
+<area shape="rect" id="node40" href="$network_8h.html" title="network.h" alt="" coords="2017,237,2095,267"/>
+<area shape="rect" id="node42" href="$perf__monitor_8h.html" title="perf_monitor.h" alt="" coords="1525,392,1629,421"/>
+<area shape="rect" id="node103" href="$environment__variable_8h.html" title="environment_variable.h" alt="" coords="2523,83,2677,112"/>
+<area shape="rect" id="node105" href="$boot__sr_8h.html" title="boot_sr.h" alt="" coords="2120,83,2195,112"/>
+<area shape="rect" id="node146" href="$util__func_8h.html" title="util_func.h" alt="" coords="803,83,885,112"/>
+<area shape="rect" id="node151" href="$tcp_8h.html" title="tcp.h" alt="" coords="124,315,175,344"/>
+<area shape="rect" id="node164" href="$heartbeat_8h.html" title="heartbeat.h" alt="" coords="664,160,749,189"/>
+<area shape="rect" id="node167" href="$log__impl_8h.html" title="log_impl.h" alt="" coords="1285,160,1365,189"/>
+<area shape="rect" id="node26" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="2739,547,2853,576"/>
+<area shape="rect" id="node33" href="$error__code_8h.html" title="error_code.h" alt="" coords="2216,701,2309,731"/>
+<area shape="rect" id="node80" href="$locator_8h.html" title="locator.h" alt="" coords="2177,315,2249,344"/>
+<area shape="rect" id="node97" href="$log__comm_8h.html" title="log_comm.h" alt="" coords="2009,315,2103,344"/>
+<area shape="rect" id="node44" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="1163,469,1277,499"/>
+<area shape="rect" id="node50" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="1456,547,1589,576"/>
+<area shape="rect" id="node57" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="2328,547,2461,576"/>
+<area shape="rect" id="node72" href="$tsc__timer_8h.html" title="tsc_timer.h" alt="" coords="611,469,696,499"/>
+<area shape="rect" id="node47" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="2215,624,2311,653"/>
+<area shape="rect" id="node66" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="2608,624,2672,653"/>
+<area shape="rect" id="node69" href="$sha1_8h.html" title="sha1.h" alt="" coords="2339,624,2400,653"/>
+<area shape="rect" id="node82" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="2208,392,2365,421"/>
+<area shape="rect" id="node89" href="$oid_8h.html" title="oid.h" alt="" coords="2461,469,2512,499"/>
+<area shape="rect" id="node109" href="$boot_8h.html" title="boot.h" alt="" coords="528,469,587,499"/>
+<area shape="rect" id="node118" href="$disk__manager_8h.html" title="disk_manager.h" alt="" coords="2599,160,2713,189"/>
+<area shape="rect" id="node130" href="$file__io_8h.html" title="file_io.h" alt="" coords="1763,469,1829,499"/>
+<area shape="rect" id="node113" href="$es__common_8h.html" title="es_common.h" alt="" coords="467,547,571,576"/>
+<area shape="rect" id="node123" href="$recovery_8h.html" title="recovery.h" alt="" coords="1911,237,1993,267"/>
+<area shape="rect" id="node134" href="$lzoconf_8h.html" title="lzo/lzoconf.h" alt="" coords="1904,547,2000,576"/>
+<area shape="rect" id="node138" href="$release__string_8h.html" title="release_string.h" alt="" coords="1613,547,1728,576"/>
+<area shape="rect" id="node154" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="784,392,912,421"/>
+<area shape="rect" id="node171" href="$connection__globals_8h.html" title="connection_globals.h" alt="" coords="1199,237,1343,267"/>
+</map>

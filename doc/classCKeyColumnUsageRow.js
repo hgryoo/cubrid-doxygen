@@ -1,0 +1,28 @@
+var classCKeyColumnUsageRow =
+[
+    [ "CKeyColumnUsageRow", "classCKeyColumnUsageRow.html#a70caf819eb9affa14d169034b159bbad", null ],
+    [ "GetColumnName", "classCKeyColumnUsageRow.html#a98900f97a5282c4a606edbd291445f0d", null ],
+    [ "GetConstraintName", "classCKeyColumnUsageRow.html#aa10b79930eeff65184547508fc7246c0", null ],
+    [ "GetOrdinalPosition", "classCKeyColumnUsageRow.html#a3c9d1ac58ec51f56061c437de6799d66", null ],
+    [ "GetTableName", "classCKeyColumnUsageRow.html#a4e5c5810646f0d8ddb37b546507022e0", null ],
+    [ "PROVIDER_COLUMN_ENTRY_TYPE_PS", "classCKeyColumnUsageRow.html#a21047f6f0f67808cddac6268f90d420a", null ],
+    [ "PROVIDER_COLUMN_ENTRY_WSTR", "classCKeyColumnUsageRow.html#a5d502703a20f48eedf8280d56076489c", null ],
+    [ "PROVIDER_COLUMN_ENTRY_WSTR", "classCKeyColumnUsageRow.html#ad8b925f0d9fec85164deb661ab44583b", null ],
+    [ "PROVIDER_COLUMN_ENTRY_WSTR", "classCKeyColumnUsageRow.html#a5188d7796c50a92e78174389b501a9cf", null ],
+    [ "SetColumnName", "classCKeyColumnUsageRow.html#aed52a9590a6d32c6a9814bc1f63718e7", null ],
+    [ "SetConstraintName", "classCKeyColumnUsageRow.html#a11aac246d3e93f3d4749ac8c5f222a89", null ],
+    [ "SetOrdinalPosition", "classCKeyColumnUsageRow.html#a9af755424085d55466e985ca59f9b461", null ],
+    [ "SetTableName", "classCKeyColumnUsageRow.html#a8fd8ae4248a40b3ff86fdd93850917f7", null ],
+    [ "columnGUID", "classCKeyColumnUsageRow.html#abc14b60202d82363ed3d9fa870cb8926", null ],
+    [ "columnName", "classCKeyColumnUsageRow.html#ae8acda95c849245b512e7aa1f25cdee3", null ],
+    [ "columnPropID", "classCKeyColumnUsageRow.html#aaa36f06f2e2a17c32ebf7f6a20406066", null ],
+    [ "constraintCatalog", "classCKeyColumnUsageRow.html#aae5a4aa81324924d97d839b9c60a4507", null ],
+    [ "constraintName", "classCKeyColumnUsageRow.html#a66d84ababcfd6c8e10e9c12b407137d1", null ],
+    [ "constraintSchema", "classCKeyColumnUsageRow.html#a0634447dccc2369241c2abb48aab63ed", null ],
+    [ "DBTYPE_GUID", "classCKeyColumnUsageRow.html#a1a3ecce8e6b35bdb034fbf89eebe89bd", null ],
+    [ "DBTYPE_UI4", "classCKeyColumnUsageRow.html#a0a34ec923f878b32a22c4b7d9b1ff792", null ],
+    [ "ordinalPosition", "classCKeyColumnUsageRow.html#af0be3ca73f825997d45d595fdf38bc81", null ],
+    [ "tableCatalog", "classCKeyColumnUsageRow.html#a89c5a82aed9304059fe0c31c43b5612a", null ],
+    [ "tableName", "classCKeyColumnUsageRow.html#a83bda0ac7f101bac0fa9095f939b353c", null ],
+    [ "tableSchema", "classCKeyColumnUsageRow.html#a31eb3dc36222034146fa0624dd3a0808", null ]
+];

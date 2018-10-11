@@ -1,0 +1,19 @@
+<map id="src/query/query_list.h" name="src/query/query_list.h">
+<area shape="rect" id="node3" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="725,237,859,267"/>
+<area shape="rect" id="node40" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="495,83,652,112"/>
+<area shape="rect" id="node81" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="80,160,197,189"/>
+<area shape="rect" id="node15" href="$porting_8h.html" title="porting.h" alt="" coords="605,392,677,421"/>
+<area shape="rect" id="node18" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="829,315,893,344"/>
+<area shape="rect" id="node27" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="800,469,896,499"/>
+<area shape="rect" id="node33" href="$sha1_8h.html" title="sha1.h" alt="" coords="533,315,595,344"/>
+<area shape="rect" id="node20" href="$cubrid__api_8h.html" title="cubrid_api.h" alt="" coords="803,392,893,421"/>
+<area shape="rect" id="node25" href="$error__code_8h.html" title="error_code.h" alt="" coords="716,547,809,576"/>
+<area shape="rect" id="node35" href="$system_8h.html" title="system.h" alt="" coords="405,392,480,421"/>
+<area shape="rect" id="node51" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="175,237,289,267"/>
+<area shape="rect" id="node59" href="$oid_8h.html" title="oid.h" alt="" coords="779,160,829,189"/>
+<area shape="rect" id="node63" href="$byte__order_8h.html" title="byte_order.h" alt="" coords="611,160,704,189"/>
+<area shape="rect" id="node65" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="1120,392,1235,421"/>
+<area shape="rect" id="node69" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="1096,469,1229,499"/>
+<area shape="rect" id="node86" href="$area__alloc_8h.html" title="area_alloc.h" alt="" coords="611,237,701,267"/>
+<area shape="rect" id="node88" href="$lock__free_8h.html" title="lock_free.h" alt="" coords="619,315,704,344"/>
+</map>

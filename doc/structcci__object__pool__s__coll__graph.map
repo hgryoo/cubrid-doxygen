@@ -1,0 +1,9 @@
+<map id="cci_object_pool_s" name="cci_object_pool_s">
+<area shape="rect" id="node11" href="$structconnection__impl__s.html" title="connection_impl_s" alt="" coords="131,429,261,459"/>
+<area shape="rect" id="node2" href="$structhash__table__s.html" title="hash_table_s" alt="" coords="147,212,245,241"/>
+<area shape="rect" id="node4" href="$structht__bucket__s.html" title="ht_bucket_s" alt="" coords="149,107,243,136"/>
+<area shape="rect" id="node6" href="$structdlisth__s.html" title="dlisth_s" alt="" coords="163,8,229,37"/>
+<area shape="rect" id="node9" href="$structT__CCI__ERROR.html" title="T_CCI_ERROR" alt="" coords="5,212,123,241"/>
+<area shape="rect" id="node15" href="$structbh__interface__s.html" title="bh_interface_s" alt="" coords="283,333,389,363"/>
+<area shape="rect" id="node17" href="$structapi__object__resultset__pool__s.html" title="api_object_resultset\l_pool_s" alt="" coords="269,203,408,250"/>
+</map>

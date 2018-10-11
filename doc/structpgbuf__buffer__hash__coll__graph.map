@@ -1,0 +1,10 @@
+<map id="pgbuf_buffer_hash" name="pgbuf_buffer_hash">
+<area shape="rect" id="node2" href="$structpgbuf__bcb.html" title="pgbuf_bcb" alt="" coords="329,208,412,237"/>
+<area shape="rect" id="node7" href="$structpgbuf__iopage__buffer.html" title="pgbuf_iopage_buffer" alt="" coords="247,315,385,344"/>
+<area shape="rect" id="node5" href="$structvpid.html" title="vpid" alt="" coords="523,101,568,131"/>
+<area shape="rect" id="node20" href="$structpgbuf__buffer__lock.html" title="pgbuf_buffer_lock" alt="" coords="525,208,651,237"/>
+<area shape="rect" id="node10" href="$structfileio__page.html" title="fileio_page" alt="" coords="201,208,284,237"/>
+<area shape="rect" id="node12" href="$structfileio__page__watermark.html" title="fileio_page_watermark" alt="" coords="5,101,157,131"/>
+<area shape="rect" id="node14" href="$structlog__lsa.html" title="log_lsa" alt="" coords="221,5,283,35"/>
+<area shape="rect" id="node16" href="$structfileio__page__reserved.html" title="fileio_page_reserved" alt="" coords="181,101,323,131"/>
+</map>

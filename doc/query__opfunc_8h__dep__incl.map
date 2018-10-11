@@ -1,0 +1,29 @@
+<map id="src/query/query_opfunc.h" name="src/query/query_opfunc.h">
+<area shape="rect" id="node3" href="$fetch_8c.html" title="src/query/fetch.c" alt="" coords="1129,83,1249,112"/>
+<area shape="rect" id="node5" href="$list__file_8c.html" title="src/query/list_file.c" alt="" coords="1273,83,1404,112"/>
+<area shape="rect" id="node7" href="$partition__sr_8h.html" title="src/query/partition_sr.h" alt="" coords="2156,83,2311,112"/>
+<area shape="rect" id="node11" href="$query__executor_8c.html" title="src/query/query_executor.c" alt="" coords="2712,265,2891,295"/>
+<area shape="rect" id="node34" href="$scan__manager_8c.html" title="src/query/scan_manager.c" alt="" coords="5,265,181,295"/>
+<area shape="rect" id="node41" href="$heap__file_8c.html" title="src/storage/heap_file.c" alt="" coords="205,265,360,295"/>
+<area shape="rect" id="node58" href="$query__opfunc_8c.html" title="src/query/query_opfunc.c" alt="" coords="2335,83,2503,112"/>
+<area shape="rect" id="node9" href="$partition_8c.html" title="src/query/partition.c" alt="" coords="2628,169,2764,199"/>
+<area shape="rect" id="node13" href="$btree_8c.html" title="src/storage/btree.c" alt="" coords="2915,265,3045,295"/>
+<area shape="rect" id="node15" href="$btree__load_8c.html" title="src/storage/btree_load.c" alt="" coords="1783,169,1945,199"/>
+<area shape="rect" id="node17" href="$statistics__sr_8c.html" title="src/storage/statistics_sr.c" alt="" coords="1969,169,2143,199"/>
+<area shape="rect" id="node19" href="$system__catalog_8c.html" title="src/storage/system\l_catalog.c" alt="" coords="2167,161,2300,207"/>
+<area shape="rect" id="node21" href="$locator__sr_8h.html" title="src/transaction/locator_sr.h" alt="" coords="1529,169,1708,199"/>
+<area shape="rect" id="node53" href="$log__manager_8c.html" title="src/transaction/log\l_manager.c" alt="" coords="2324,161,2452,207"/>
+<area shape="rect" id="node55" href="$log__tran__table_8c.html" title="src/transaction/log\l_tran_table.c" alt="" coords="2476,161,2604,207"/>
+<area shape="rect" id="node23" href="$network__interface__cl_8c.html" title="src/communication/network\l_interface_cl.c" alt="" coords="2507,257,2688,303"/>
+<area shape="rect" id="node25" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="384,257,565,303"/>
+<area shape="rect" id="node27" href="$compactdb_8c.html" title="src/executables/compactdb.c" alt="" coords="589,265,781,295"/>
+<area shape="rect" id="node29" href="$loader__disk_8c.html" title="src/executables/loader\l_disk.c" alt="" coords="805,257,957,303"/>
+<area shape="rect" id="node31" href="$util__sa_8c.html" title="src/executables/util_sa.c" alt="" coords="981,265,1147,295"/>
+<area shape="rect" id="node37" href="$catalog__class_8c.html" title="src/storage/catalog\l_class.c" alt="" coords="1171,257,1304,303"/>
+<area shape="rect" id="node39" href="$compactdb__sr_8c.html" title="src/storage/compactdb_sr.c" alt="" coords="1328,265,1512,295"/>
+<area shape="rect" id="node43" href="$boot__sr_8c.html" title="src/transaction/boot_sr.c" alt="" coords="1536,265,1701,295"/>
+<area shape="rect" id="node45" href="$locator__sr_8c.html" title="src/transaction/locator_sr.c" alt="" coords="1725,265,1904,295"/>
+<area shape="rect" id="node47" href="$log__recovery_8c.html" title="src/transaction/log\l_recovery.c" alt="" coords="1928,257,2056,303"/>
+<area shape="rect" id="node49" href="$recovery_8c.html" title="src/transaction/recovery.c" alt="" coords="2080,265,2253,295"/>
+<area shape="rect" id="node51" href="$transaction__sr_8c.html" title="src/transaction/transaction_sr.c" alt="" coords="2277,265,2483,295"/>
+</map>

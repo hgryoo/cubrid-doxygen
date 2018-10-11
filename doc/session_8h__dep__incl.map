@@ -1,0 +1,12 @@
+<map id="src/session/session.h" name="src/session/session.h">
+<area shape="rect" id="node3" href="$db__admin_8c.html" title="src/compat/db_admin.c" alt="" coords="5,92,163,121"/>
+<area shape="rect" id="node5" href="$connection__sr_8c.html" title="src/connection/connection_sr.c" alt="" coords="187,92,389,121"/>
+<area shape="rect" id="node7" href="$server__support_8c.html" title="src/connection/server\l_support.c" alt="" coords="413,83,560,130"/>
+<area shape="rect" id="node9" href="$CUBRIDStream_8cpp.html" title="src/oledb/CUBRIDStream.cpp" alt="" coords="584,92,781,121"/>
+<area shape="rect" id="node11" href="$fetch_8c.html" title="src/query/fetch.c" alt="" coords="805,92,925,121"/>
+<area shape="rect" id="node13" href="$query__executor_8c.html" title="src/query/query_executor.c" alt="" coords="949,92,1128,121"/>
+<area shape="rect" id="node15" href="$query__manager_8c.html" title="src/query/query_manager.c" alt="" coords="1152,92,1331,121"/>
+<area shape="rect" id="node17" href="$session_8c.html" title="src/session/session.c" alt="" coords="1355,92,1504,121"/>
+<area shape="rect" id="node19" href="$session__sr_8c.html" title="src/session/session_sr.c" alt="" coords="1528,92,1693,121"/>
+<area shape="rect" id="node21" href="$boot__sr_8c.html" title="src/transaction/boot_sr.c" alt="" coords="1717,92,1883,121"/>
+</map>

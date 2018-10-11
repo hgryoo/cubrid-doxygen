@@ -1,0 +1,9 @@
+<map id="src/heaplayers/util/bitstring.h" name="src/heaplayers/util/bitstring.h">
+<area shape="rect" id="node3" href="$segheap_8h.html" title="Definitions of SegHeap and StrictSegHeap. " alt="" coords="205,101,376,131"/>
+<area shape="rect" id="node5" href="$heaplayers_8h.html" title="The master Heap Layers include file. " alt="" coords="131,275,315,304"/>
+<area shape="rect" id="node14" href="$kingsleyheap_8h.html" title="Classes to implement a Kingsley (power&#45;of&#45;two, segregated fits) allocator. " alt="" coords="192,188,389,217"/>
+<area shape="rect" id="node17" href="$kingsmodheap_8h.html" title="src/heaplayers/experimental\l/kingsmodheap.h" alt="" coords="413,179,597,226"/>
+<area shape="rect" id="node7" href="$coalesceheap_8h.html" title="src/heaplayers/coalesceheap.h" alt="" coords="5,361,208,391"/>
+<area shape="rect" id="node10" href="$customheaps_8cpp.html" title="src/heaplayers/customheaps.cpp" alt="" coords="232,361,445,391"/>
+<area shape="rect" id="node12" href="$scalableleaheap_8h.html" title="src/heaplayers/experimental\l/scalableleaheap.h" alt="" coords="469,353,653,399"/>
+</map>

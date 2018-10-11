@@ -1,0 +1,5 @@
+<map id="cubrid.jdbc.driver.CUBRIDConnectionWrapperXA" name="cubrid.jdbc.driver.CUBRIDConnectionWrapperXA">
+<area shape="rect" id="node2" href="$classcubrid_1_1jdbc_1_1driver_1_1CUBRIDConnection.html" title="cubrid.jdbc.driver.CUBRIDConnection" alt="" coords="145,344,388,373"/>
+<area shape="rect" id="node9" href="$classcubrid_1_1jdbc_1_1jci_1_1UConnection.html" title="cubrid.jdbc.jci.UConnection" alt="" coords="605,144,787,173"/>
+<area shape="rect" id="node13" href="$classcubrid_1_1jdbc_1_1jci_1_1UShardInfo.html" title="cubrid.jdbc.jci.UShardInfo" alt="" coords="181,59,352,88"/>
+</map>

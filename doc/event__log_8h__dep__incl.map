@@ -1,0 +1,8 @@
+<map id="src/base/event_log.h" name="src/base/event_log.h">
+<area shape="rect" id="node3" href="$event__log_8c.html" title="src/base/event_log.c" alt="" coords="5,92,147,121"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="171,83,352,130"/>
+<area shape="rect" id="node7" href="$network__sr_8c.html" title="src/communication/network_sr.c" alt="" coords="376,92,587,121"/>
+<area shape="rect" id="node9" href="$boot__sr_8c.html" title="src/transaction/boot_sr.c" alt="" coords="611,92,776,121"/>
+<area shape="rect" id="node11" href="$lock__manager_8c.html" title="src/transaction/lock\l_manager.c" alt="" coords="800,83,936,130"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html" title="src/transaction/log\l_page_buffer.c" alt="" coords="960,83,1088,130"/>
+</map>

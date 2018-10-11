@@ -1,0 +1,10 @@
+<map id="pgbuf_seq_flusher" name="pgbuf_seq_flusher">
+<area shape="rect" id="node2" href="$structlog__lsa.html" title="log_lsa" alt="" coords="428,5,489,35"/>
+<area shape="rect" id="node6" href="$structpgbuf__bcb.html" title="pgbuf_bcb" alt="" coords="303,112,385,141"/>
+<area shape="rect" id="node16" href="$structfileio__page__watermark.html" title="fileio_page_watermark" alt="" coords="499,112,651,141"/>
+<area shape="rect" id="node19" href="$structfileio__page__reserved.html" title="fileio_page_reserved" alt="" coords="675,112,816,141"/>
+<area shape="rect" id="node4" href="$structpgbuf__victim__candidate__list.html" title="pgbuf_victim_candidate_list" alt="" coords="5,219,187,248"/>
+<area shape="rect" id="node11" href="$structpgbuf__iopage__buffer.html" title="pgbuf_iopage_buffer" alt="" coords="463,315,601,344"/>
+<area shape="rect" id="node9" href="$structvpid.html" title="vpid" alt="" coords="105,5,151,35"/>
+<area shape="rect" id="node14" href="$structfileio__page.html" title="fileio_page" alt="" coords="581,219,664,248"/>
+</map>

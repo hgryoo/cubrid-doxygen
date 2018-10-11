@@ -1,0 +1,20 @@
+<map id="src/transaction/transaction_sr.h" name="src/transaction/transaction_sr.h">
+<area shape="rect" id="node3" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="395,160,523,189"/>
+<area shape="rect" id="node11" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="972,315,1105,344"/>
+<area shape="rect" id="node58" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="21,392,155,421"/>
+<area shape="rect" id="node75" href="$log__comm_8h.html" title="log_comm.h" alt="" coords="513,83,607,112"/>
+<area shape="rect" id="node5" href="$boot_8h.html" title="boot.h" alt="" coords="709,237,768,267"/>
+<area shape="rect" id="node7" href="$porting_8h.html" title="porting.h" alt="" coords="1005,392,1077,421"/>
+<area shape="rect" id="node47" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="1488,315,1603,344"/>
+<area shape="rect" id="node54" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="405,315,520,344"/>
+<area shape="rect" id="node45" href="$es__common_8h.html" title="es_common.h" alt="" coords="688,315,792,344"/>
+<area shape="rect" id="node23" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="917,392,981,421"/>
+<area shape="rect" id="node32" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="757,547,853,576"/>
+<area shape="rect" id="node38" href="$sha1_8h.html" title="sha1.h" alt="" coords="1253,392,1315,421"/>
+<area shape="rect" id="node25" href="$cubrid__api_8h.html" title="cubrid_api.h" alt="" coords="941,469,1032,499"/>
+<area shape="rect" id="node30" href="$error__code_8h.html" title="error_code.h" alt="" coords="940,624,1033,653"/>
+<area shape="rect" id="node40" href="$system_8h.html" title="system.h" alt="" coords="1249,469,1324,499"/>
+<area shape="rect" id="node80" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="1141,160,1299,189"/>
+<area shape="rect" id="node93" href="$oid_8h.html" title="oid.h" alt="" coords="843,237,893,267"/>
+<area shape="rect" id="node97" href="$byte__order_8h.html" title="byte_order.h" alt="" coords="1120,237,1213,267"/>
+</map>

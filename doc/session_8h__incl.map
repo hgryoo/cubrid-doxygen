@@ -1,0 +1,37 @@
+<map id="src/session/session.h" name="src/session/session.h">
+<area shape="rect" id="node3" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="729,933,825,963"/>
+<area shape="rect" id="node9" href="$query__list_8h.html" title="query_list.h" alt="" coords="1213,469,1301,499"/>
+<area shape="rect" id="node72" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="2603,701,2736,731"/>
+<area shape="rect" id="node95" href="$query__manager_8h.html" title="query_manager.h" alt="" coords="988,83,1111,112"/>
+<area shape="rect" id="node197" href="$tz__support_8h.html" title="tz_support.h" alt="" coords="3184,624,3277,653"/>
+<area shape="rect" id="node5" href="$error__code_8h.html" title="error_code.h" alt="" coords="515,1011,608,1040"/>
+<area shape="rect" id="node11" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="1757,701,1891,731"/>
+<area shape="rect" id="node43" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="1579,547,1736,576"/>
+<area shape="rect" id="node84" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="867,547,984,576"/>
+<area shape="rect" id="node23" href="$porting_8h.html" title="porting.h" alt="" coords="2304,779,2376,808"/>
+<area shape="rect" id="node26" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="1005,779,1069,808"/>
+<area shape="rect" id="node36" href="$sha1_8h.html" title="sha1.h" alt="" coords="2067,779,2128,808"/>
+<area shape="rect" id="node28" href="$cubrid__api_8h.html" title="cubrid_api.h" alt="" coords="992,856,1083,885"/>
+<area shape="rect" id="node38" href="$system_8h.html" title="system.h" alt="" coords="2301,856,2376,885"/>
+<area shape="rect" id="node54" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="397,624,512,653"/>
+<area shape="rect" id="node62" href="$oid_8h.html" title="oid.h" alt="" coords="853,624,904,653"/>
+<area shape="rect" id="node66" href="$byte__order_8h.html" title="byte_order.h" alt="" coords="1963,624,2056,653"/>
+<area shape="rect" id="node68" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="1029,624,1144,653"/>
+<area shape="rect" id="node89" href="$area__alloc_8h.html" title="area_alloc.h" alt="" coords="688,624,779,653"/>
+<area shape="rect" id="node91" href="$lock__free_8h.html" title="lock_free.h" alt="" coords="845,701,931,731"/>
+<area shape="rect" id="node98" href="$file__manager_8h.html" title="file_manager.h" alt="" coords="1940,160,2047,189"/>
+<area shape="rect" id="node164" href="$list__file_8h.html" title="list_file.h" alt="" coords="1041,315,1116,344"/>
+<area shape="rect" id="node193" href="$xasl__cache_8h.html" title="xasl_cache.h" alt="" coords="473,160,572,189"/>
+<area shape="rect" id="node102" href="$disk__manager_8h.html" title="disk_manager.h" alt="" coords="2031,315,2145,344"/>
+<area shape="rect" id="node118" href="$log__manager_8h.html" title="log_manager.h" alt="" coords="2525,237,2632,267"/>
+<area shape="rect" id="node148" href="$page__buffer_8h.html" title="page_buffer.h" alt="" coords="1943,237,2044,267"/>
+<area shape="rect" id="node107" href="$recovery_8h.html" title="recovery.h" alt="" coords="2537,392,2620,421"/>
+<area shape="rect" id="node110" href="$log__comm_8h.html" title="log_comm.h" alt="" coords="2220,469,2313,499"/>
+<area shape="rect" id="node123" href="$file__io_8h.html" title="file_io.h" alt="" coords="3093,624,3160,653"/>
+<area shape="rect" id="node133" href="$log__impl_8h.html" title="log_impl.h" alt="" coords="2813,315,2893,344"/>
+<area shape="rect" id="node154" href="$lock__manager_8h.html" title="lock_manager.h" alt="" coords="2348,392,2463,421"/>
+<area shape="rect" id="node168" href="$external__sort_8h.html" title="external_sort.h" alt="" coords="1204,392,1311,421"/>
+<area shape="rect" id="node177" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="1008,547,1149,576"/>
+<area shape="rect" id="node185" href="$xasl_8h.html" title="xasl.h" alt="" coords="600,392,656,421"/>
+<area shape="rect" id="node201" href="$timezone__lib__common_8h.html" title="timezone_lib_common.h" alt="" coords="3115,701,3277,731"/>
+</map>

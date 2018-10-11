@@ -1,0 +1,12 @@
+<map id="src/base/message_catalog.c" name="src/base/message_catalog.c">
+<area shape="rect" id="node5" href="$message__catalog_8h.html" title="message_catalog.h" alt="" coords="1187,83,1320,112"/>
+<area shape="rect" id="node30" href="$porting_8h.html" title="porting.h" alt="" coords="216,237,288,267"/>
+<area shape="rect" id="node33" href="$environment__variable_8h.html" title="environment_variable.h" alt="" coords="1957,83,2112,112"/>
+<area shape="rect" id="node35" href="$error__code_8h.html" title="error_code.h" alt="" coords="616,315,709,344"/>
+<area shape="rect" id="node37" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="121,160,236,189"/>
+<area shape="rect" id="node45" href="$language__support_8h.html" title="language_support.h" alt="" coords="685,83,819,112"/>
+<area shape="rect" id="node49" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="760,160,859,189"/>
+<area shape="rect" id="node61" href="$locale__support_8h.html" title="locale_support.h" alt="" coords="549,160,667,189"/>
+<area shape="rect" id="node56" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="667,237,763,267"/>
+<area shape="rect" id="node66" href="$locale__lib__common_8h.html" title="locale_lib_common.h" alt="" coords="405,237,549,267"/>
+</map>

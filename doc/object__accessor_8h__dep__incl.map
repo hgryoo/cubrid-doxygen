@@ -1,0 +1,33 @@
+<map id="src/object/object_accessor.h" name="src/object/object_accessor.h">
+<area shape="rect" id="node3" href="$db__stub_8c.html" title="src/api/db_stub.c" alt="" coords="5,92,128,121"/>
+<area shape="rect" id="node5" href="$db__admin_8c.html" title="src/compat/db_admin.c" alt="" coords="152,92,309,121"/>
+<area shape="rect" id="node7" href="$db__class_8c.html" title="src/compat/db_class.c" alt="" coords="333,92,488,121"/>
+<area shape="rect" id="node9" href="$db__info_8c.html" title="src/compat/db_info.c" alt="" coords="512,92,656,121"/>
+<area shape="rect" id="node11" href="$db__macro_8c.html" title="src/compat/db_macro.c" alt="" coords="680,92,837,121"/>
+<area shape="rect" id="node13" href="$db__obj_8c.html" title="src/compat/db_obj.c" alt="" coords="861,92,1000,121"/>
+<area shape="rect" id="node15" href="$db__old_8c.html" title="src/compat/db_old.c" alt="" coords="1024,92,1163,121"/>
+<area shape="rect" id="node17" href="$db__temp_8c.html" title="src/compat/db_temp.c" alt="" coords="1187,92,1339,121"/>
+<area shape="rect" id="node19" href="$db__virt_8c.html" title="src/compat/db_virt.c" alt="" coords="1363,92,1504,121"/>
+<area shape="rect" id="node21" href="$compactdb_8c.html" title="src/executables/compactdb.c" alt="" coords="1528,92,1720,121"/>
+<area shape="rect" id="node23" href="$compactdb__cl_8c.html" title="src/executables/compactdb_cl.c" alt="" coords="1744,92,1955,121"/>
+<area shape="rect" id="node25" href="$loader_8c.html" title="src/executables/loader.c" alt="" coords="1979,92,2141,121"/>
+<area shape="rect" id="node27" href="$unload__object_8c.html" title="src/executables/unload\l_object.c" alt="" coords="2165,83,2320,130"/>
+<area shape="rect" id="node29" href="$jsp__cl_8c.html" title="src/jsp/jsp_cl.c" alt="" coords="2344,92,2453,121"/>
+<area shape="rect" id="node31" href="$authenticate_8c.html" title="src/object/authenticate.c" alt="" coords="2477,92,2643,121"/>
+<area shape="rect" id="node33" href="$class__object_8c.html" title="src/object/class_object.c" alt="" coords="2667,92,2832,121"/>
+<area shape="rect" id="node35" href="$object__accessor_8c.html" title="src/object/object_accessor.c" alt="" coords="2856,92,3045,121"/>
+<area shape="rect" id="node37" href="$object__template_8c.html" title="src/object/object_template.c" alt="" coords="3069,92,3256,121"/>
+<area shape="rect" id="node39" href="$schema__manager_8c.html" title="src/object/schema_manager.c" alt="" coords="3280,92,3477,121"/>
+<area shape="rect" id="node41" href="$set__object_8c.html" title="src/object/set_object.c" alt="" coords="3501,92,3656,121"/>
+<area shape="rect" id="node43" href="$transform__cl_8c.html" title="src/object/transform_cl.c" alt="" coords="3680,92,3845,121"/>
+<area shape="rect" id="node45" href="$trigger__manager_8c.html" title="src/object/trigger\l_manager.c" alt="" coords="3869,83,3987,130"/>
+<area shape="rect" id="node47" href="$virtual__object_8c.html" title="src/object/virtual\l_object.c" alt="" coords="4011,83,4128,130"/>
+<area shape="rect" id="node49" href="$work__space_8c.html" title="src/object/work_space.c" alt="" coords="4152,92,4315,121"/>
+<area shape="rect" id="node51" href="$query__result_8c.html" title="src/parser/query_result.c" alt="" coords="4339,92,4504,121"/>
+<area shape="rect" id="node53" href="$view__transform_8c.html" title="src/parser/view_transform.c" alt="" coords="4528,92,4712,121"/>
+<area shape="rect" id="node55" href="$execute__schema_8c.html" title="src/query/execute_schema.c" alt="" coords="4736,92,4925,121"/>
+<area shape="rect" id="node57" href="$execute__statement_8c.html" title="src/query/execute_statement.c" alt="" coords="4949,92,5152,121"/>
+<area shape="rect" id="node59" href="$method__scan_8c.html" title="src/query/method_scan.c" alt="" coords="5176,92,5344,121"/>
+<area shape="rect" id="node61" href="$query__method_8c.html" title="src/query/query_method.c" alt="" coords="5368,92,5541,121"/>
+<area shape="rect" id="node63" href="$log__applier_8c.html" title="src/transaction/log\l_applier.c" alt="" coords="5565,83,5693,130"/>
+</map>

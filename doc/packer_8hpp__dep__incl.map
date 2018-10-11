@@ -1,0 +1,19 @@
+<map id="src/base/packer.hpp" name="src/base/packer.hpp">
+<area shape="rect" id="node3" href="$packable__object_8hpp.html" title="src/base/packable_object.hpp" alt="" coords="569,83,764,112"/>
+<area shape="rect" id="node37" href="$packer_8cpp.html" title="src/base/packer.cpp" alt="" coords="788,83,927,112"/>
+<area shape="rect" id="node39" href="$stream__entry_8hpp.html" title="src/base/stream_entry.hpp" alt="" coords="276,83,452,112"/>
+<area shape="rect" id="node5" href="$replication__object_8hpp.html" title="src/replication/replication\l_object.hpp" alt="" coords="632,161,797,207"/>
+<area shape="rect" id="node25" href="$test__packing_8hpp.html" title="unit_tests/packing\l/test_packing.hpp" alt="" coords="992,161,1120,207"/>
+<area shape="rect" id="node31" href="$test__stream_8hpp.html" title="unit_tests/stream/test\l_stream.hpp" alt="" coords="407,161,556,207"/>
+<area shape="rect" id="node7" href="$replication__stream__entry_8hpp.html" title="src/replication/replication\l_stream_entry.hpp" alt="" coords="115,257,280,303"/>
+<area shape="rect" id="node15" href="$test__log__generator_8cpp.html" title="unit_tests/replication\l/test_log_generator.cpp" alt="" coords="168,449,325,495"/>
+<area shape="rect" id="node18" href="$replication__stream__entry_8cpp.html" title="src/replication/replication\l_stream_entry.cpp" alt="" coords="431,353,596,399"/>
+<area shape="rect" id="node21" href="$replication__object_8cpp.html" title="src/replication/replication\l_object.cpp" alt="" coords="803,257,968,303"/>
+<area shape="rect" id="node9" href="$log__consumer_8cpp.html" title="src/replication/log\l_consumer.cpp" alt="" coords="284,353,407,399"/>
+<area shape="rect" id="node11" href="$log__generator_8hpp.html" title="src/replication/log\l_generator.hpp" alt="" coords="87,353,209,399"/>
+<area shape="rect" id="node13" href="$log__generator_8cpp.html" title="src/replication/log\l_generator.cpp" alt="" coords="5,449,128,495"/>
+<area shape="rect" id="node27" href="$packing_2test__main_8cpp.html" title="unit_tests/packing\l/test_main.cpp" alt="" coords="992,257,1120,303"/>
+<area shape="rect" id="node29" href="$test__packing_8cpp.html" title="unit_tests/packing\l/test_packing.cpp" alt="" coords="1144,257,1272,303"/>
+<area shape="rect" id="node33" href="$stream_2test__main_8cpp.html" title="unit_tests/stream/test\l_main.cpp" alt="" coords="355,257,504,303"/>
+<area shape="rect" id="node35" href="$test__stream_8cpp.html" title="unit_tests/stream/test\l_stream.cpp" alt="" coords="528,257,677,303"/>
+</map>

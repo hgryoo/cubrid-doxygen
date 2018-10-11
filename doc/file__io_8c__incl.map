@@ -1,0 +1,31 @@
+<map id="src/storage/file_io.c" name="src/storage/file_io.c">
+<area shape="rect" id="node37" href="$porting_8h.html" title="porting.h" alt="" coords="2447,315,2519,344"/>
+<area shape="rect" id="node40" href="$chartype_8h.html" title="chartype.h" alt="" coords="1312,83,1395,112"/>
+<area shape="rect" id="node42" href="$file__io_8h.html" title="file_io.h" alt="" coords="1459,160,1525,189"/>
+<area shape="rect" id="node61" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="648,315,763,344"/>
+<area shape="rect" id="node77" href="$release__string_8h.html" title="release_string.h" alt="" coords="2331,237,2445,267"/>
+<area shape="rect" id="node80" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="1701,237,1835,267"/>
+<area shape="rect" id="node98" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="3009,315,3124,344"/>
+<area shape="rect" id="node105" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="2888,237,3029,267"/>
+<area shape="rect" id="node112" href="$message__catalog_8h.html" title="message_catalog.h" alt="" coords="805,160,939,189"/>
+<area shape="rect" id="node115" href="$util__func_8h.html" title="util_func.h" alt="" coords="72,83,155,112"/>
+<area shape="rect" id="node120" href="$perf__monitor_8h.html" title="perf_monitor.h" alt="" coords="1717,160,1821,189"/>
+<area shape="rect" id="node125" href="$tsc__timer_8h.html" title="tsc_timer.h" alt="" coords="2520,237,2605,267"/>
+<area shape="rect" id="node132" href="$environment__variable_8h.html" title="environment_variable.h" alt="" coords="2341,83,2496,112"/>
+<area shape="rect" id="node134" href="$connection__error_8h.html" title="connection_error.h" alt="" coords="963,160,1091,189"/>
+<area shape="rect" id="node138" href="$log__impl_8h.html" title="log_impl.h" alt="" coords="2112,83,2192,112"/>
+<area shape="rect" id="node147" href="$fault__injection_8h.html" title="fault_injection.h" alt="" coords="3155,237,3267,267"/>
+<area shape="rect" id="node151" href="$crypt__opfunc_8h.html" title="crypt_opfunc.h" alt="" coords="1896,160,2003,189"/>
+<area shape="rect" id="node154" href="$double__write__buffer_8h.html" title="double_write_buffer.h" alt="" coords="1419,83,1565,112"/>
+<area shape="rect" id="node157" href="$page__buffer_8h.html" title="page_buffer.h" alt="" coords="2216,83,2317,112"/>
+<area shape="rect" id="node163" href="$xserver__interface_8h.html" title="xserver_interface.h" alt="" coords="1792,83,1925,112"/>
+<area shape="rect" id="node171" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="787,315,885,344"/>
+<area shape="rect" id="node45" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="925,392,1021,421"/>
+<area shape="rect" id="node51" href="$lzoconf_8h.html" title="lzo/lzoconf.h" alt="" coords="528,315,624,344"/>
+<area shape="rect" id="node55" href="$lzo1x_8h.html" title="lzo/lzo1x.h" alt="" coords="595,237,680,267"/>
+<area shape="rect" id="node58" href="$memory__hash_8h.html" title="memory_hash.h" alt="" coords="1163,237,1277,267"/>
+<area shape="rect" id="node65" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="1847,392,1980,421"/>
+<area shape="rect" id="node47" href="$error__code_8h.html" title="error_code.h" alt="" coords="2875,469,2968,499"/>
+<area shape="rect" id="node88" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="1701,315,1765,344"/>
+<area shape="rect" id="node91" href="$sha1_8h.html" title="sha1.h" alt="" coords="1789,315,1851,344"/>
+</map>

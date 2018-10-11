@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$classAOFFHeap.html" title="AOFFHeap\&lt; SuperHeap,\l FreeThreshold \&gt;" alt="" coords="175,5,343,51"/>
+<area shape="rect" id="node5" href="$classHL_1_1ChunkHeap.html" title="HL::ChunkHeap\&lt; ChunkSize,\l SuperHeap \&gt;" alt="" coords="161,74,356,121"/>
+<area shape="rect" id="node7" href="$classHL_1_1LogHeap.html" title="HL::LogHeap\&lt; SuperHeap \&gt;" alt="" coords="165,144,352,173"/>
+<area shape="rect" id="node9" href="$classHL_1_1NestedHeap.html" title="HL::NestedHeap\&lt; SuperHeap \&gt;" alt="" coords="155,197,363,227"/>
+<area shape="rect" id="node11" href="$classHL_1_1NullHeap.html" title="HL::NullHeap\&lt; SuperHeap \&gt;" alt="" coords="164,251,353,280"/>
+<area shape="rect" id="node13" href="$classHL_1_1ObjectManagerBase.html" title="HL::ObjectManagerBase\l\&lt; SuperHeap \&gt;" alt="" coords="176,303,341,350"/>
+<area shape="rect" id="node19" href="$classHL_1_1RequireCoalesceable.html" title="HL::RequireCoalesceable\l\&lt; SuperHeap \&gt;" alt="" coords="173,373,344,419"/>
+<area shape="rect" id="node23" href="$classHL_1_1SanityCheckHeap.html" title="HL::SanityCheckHeap\l\&lt; SuperHeap \&gt;" alt="" coords="183,442,335,489"/>
+<area shape="rect" id="node25" href="$classInUseHeap.html" title="InUseHeap\&lt; SuperHeap \&gt;" alt="" coords="171,512,347,541"/>
+<area shape="rect" id="node27" href="$classPadHeap.html" title="PadHeap\&lt; CacheLineSize,\l SuperHeap \&gt;" alt="" coords="169,565,348,611"/>
+<area shape="rect" id="node29" href="$classScalableHeapNS_1_1GlobalHeapWrapper.html" title="ScalableHeapNS::GlobalHeap\lWrapper\&lt; NumHeaps, SuperHeap \&gt;" alt="" coords="141,634,376,681"/>
+<area shape="rect" id="node31" href="$classSplitHeap.html" title="SplitHeap\&lt; SuperHeap \&gt;" alt="" coords="175,704,343,733"/>
+<area shape="rect" id="node15" href="$classHL_1_1ObjectManager.html" title="HL::ObjectManager\&lt;\l SuperHeap \&gt;" alt="" coords="443,234,584,281"/>
+<area shape="rect" id="node17" href="$classHL_1_1ProvideObjectManager.html" title="HL::ProvideObjectManager\l\&lt; SuperHeap \&gt;" alt="" coords="424,303,603,350"/>
+<area shape="rect" id="node21" href="$classHL_1_1CoalesceableHeap.html" title="Manages coalesceable memory. " alt="" coords="435,373,592,419"/>
+</map>

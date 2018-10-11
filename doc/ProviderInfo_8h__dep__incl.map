@@ -1,0 +1,16 @@
+<map id="src/oledb/ProviderInfo.h" name="src/oledb/ProviderInfo.h">
+<area shape="rect" id="node3" href="$DataSource_8h.html" title="src/oledb/DataSource.h" alt="" coords="864,83,1021,112"/>
+<area shape="rect" id="node5" href="$Command_8cpp.html" title="src/oledb/Command.cpp" alt="" coords="5,160,168,189"/>
+<area shape="rect" id="node7" href="$DataSource_8cpp.html" title="src/oledb/DataSource.cpp" alt="" coords="192,160,365,189"/>
+<area shape="rect" id="node15" href="$Session_8cpp.html" title="src/oledb/Session.cpp" alt="" coords="1760,160,1909,189"/>
+<area shape="rect" id="node27" href="$ProviderInfo_8cpp.html" title="src/oledb/ProviderInfo.cpp" alt="" coords="1096,83,1269,112"/>
+<area shape="rect" id="node30" href="$SRProviderTypes_8cpp.html" title="src/oledb/SRProviderTypes.cpp" alt="" coords="1293,83,1499,112"/>
+<area shape="rect" id="node32" href="$type_8cpp.html" title="src/oledb/type.cpp" alt="" coords="1523,83,1651,112"/>
+<area shape="rect" id="node9" href="$Error_8cpp.html" title="src/oledb/Error.cpp" alt="" coords="1432,160,1563,189"/>
+<area shape="rect" id="node11" href="$Rowset_8cpp.html" title="src/oledb/Rowset.cpp" alt="" coords="1587,160,1736,189"/>
+<area shape="rect" id="node13" href="$RowsetChange_8cpp.html" title="src/oledb/RowsetChange.cpp" alt="" coords="389,160,584,189"/>
+<area shape="rect" id="node17" href="$SRColumnPrivileges_8cpp.html" title="src/oledb/SRColumnPrivileges.cpp" alt="" coords="608,160,832,189"/>
+<area shape="rect" id="node19" href="$SRColumns_8cpp.html" title="src/oledb/SRColumns.cpp" alt="" coords="856,160,1029,189"/>
+<area shape="rect" id="node21" href="$SRTablePrivileges_8cpp.html" title="src/oledb/SRTablePrivileges.cpp" alt="" coords="1053,160,1264,189"/>
+<area shape="rect" id="node23" href="$util_8cpp.html" title="src/oledb/util.cpp" alt="" coords="1288,160,1408,189"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="src/connection/client_support.c" name="src/connection/client_support.c">
+<area shape="rect" id="node15" href="$porting_8h.html" title="porting.h" alt="" coords="637,643,709,672"/>
+<area shape="rect" id="node18" href="$connection__globals_8h.html" title="connection_globals.h" alt="" coords="789,333,933,363"/>
+<area shape="rect" id="node20" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="528,411,656,440"/>
+<area shape="rect" id="node43" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="2164,565,2279,595"/>
+<area shape="rect" id="node73" href="$connection__cl_8h.html" title="connection_cl.h" alt="" coords="677,256,789,285"/>
+<area shape="rect" id="node79" href="$connection__less_8h.html" title="connection_less.h" alt="" coords="275,179,400,208"/>
+<area shape="rect" id="node82" href="$connection__list__cl_8h.html" title="connection_list_cl.h" alt="" coords="315,256,451,285"/>
+<area shape="rect" id="node85" href="$tcp_8h.html" title="tcp.h" alt="" coords="127,333,177,363"/>
+<area shape="rect" id="node91" href="$transaction__cl_8h.html" title="transaction_cl.h" alt="" coords="1117,411,1232,440"/>
+<area shape="rect" id="node107" href="$client__support_8h.html" title="client_support.h" alt="" coords="485,101,600,131"/>
+<area shape="rect" id="node110" href="$network__interface__cl_8h.html" title="network_interface_cl.h" alt="" coords="1568,101,1720,131"/>
+<area shape="rect" id="node173" href="$network_8h.html" title="network.h" alt="" coords="1325,411,1403,440"/>
+<area shape="rect" id="node22" href="$boot_8h.html" title="boot.h" alt="" coords="759,488,817,517"/>
+<area shape="rect" id="node50" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="1260,565,1375,595"/>
+<area shape="rect" id="node54" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="1053,643,1187,672"/>
+<area shape="rect" id="node25" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="1449,565,1583,595"/>
+<area shape="rect" id="node41" href="$es__common_8h.html" title="es_common.h" alt="" coords="736,565,840,595"/>
+<area shape="rect" id="node33" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="965,643,1029,672"/>
+<area shape="rect" id="node35" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="2164,643,2260,672"/>
+<area shape="rect" id="node37" href="$error__code_8h.html" title="error_code.h" alt="" coords="2255,720,2348,749"/>
+<area shape="rect" id="node76" href="$connection__support_8h.html" title="connection_support.h" alt="" coords="619,333,765,363"/>
+<area shape="rect" id="node95" href="$locator_8h.html" title="locator.h" alt="" coords="1117,488,1189,517"/>
+<area shape="rect" id="node100" href="$log__comm_8h.html" title="log_comm.h" alt="" coords="1213,488,1307,517"/>
+<area shape="rect" id="node114" href="$replication_8h.html" title="replication.h" alt="" coords="1763,488,1853,517"/>
+<area shape="rect" id="node119" href="$server__interface_8h.html" title="server_interface.h" alt="" coords="1344,179,1469,208"/>
+<area shape="rect" id="node121" href="$perf__monitor_8h.html" title="perf_monitor.h" alt="" coords="1331,488,1435,517"/>
+<area shape="rect" id="node129" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="2131,488,2248,517"/>
+<area shape="rect" id="node134" href="$query__list_8h.html" title="query_list.h" alt="" coords="1757,411,1845,440"/>
+<area shape="rect" id="node138" href="$statistics_8h.html" title="statistics.h" alt="" coords="2048,411,2133,440"/>
+<area shape="rect" id="node145" href="$log__writer_8h.html" title="log_writer.h" alt="" coords="1493,179,1581,208"/>
+<area shape="rect" id="node148" href="$log__impl_8h.html" title="log_impl.h" alt="" coords="1216,256,1296,285"/>
+<area shape="rect" id="node159" href="$language__support_8h.html" title="language_support.h" alt="" coords="864,179,997,208"/>
+<area shape="rect" id="node163" href="$parse__tree_8h.html" title="parse_tree.h" alt="" coords="2259,256,2352,285"/>
+<area shape="rect" id="node167" href="$xasl_8h.html" title="xasl.h" alt="" coords="1855,333,1911,363"/>
+</map>

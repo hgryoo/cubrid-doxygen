@@ -1,0 +1,13 @@
+<map id="locator_global" name="locator_global">
+<area shape="rect" id="node2" href="$structlocator__global_1_1locator__global__copyareas.html" title="locator_global::locator\l_global_copyareas" alt="" coords="584,5,733,51"/>
+<area shape="rect" id="node4" href="$structlc__copy__area.html" title="lc_copy_area" alt="" coords="397,53,496,83"/>
+<area shape="rect" id="node14" href="$structlocator__global_1_1locator__global__packed__areas.html" title="locator_global::locator\l_global_packed_areas" alt="" coords="584,74,733,121"/>
+<area shape="rect" id="node6" href="$structlocator__global_1_1locator__global__lockhint__areas.html" title="locator_global::locator\l_global_lockhint_areas" alt="" coords="581,143,736,190"/>
+<area shape="rect" id="node8" href="$structlc__lock__hint.html" title="lc_lock_hint" alt="" coords="401,152,492,181"/>
+<area shape="rect" id="node10" href="$structlc__lockhint__class.html" title="lc_lockhint_class" alt="" coords="172,152,295,181"/>
+<area shape="rect" id="node12" href="$structdb__identifier.html" title="db_identifier" alt="" coords="7,205,97,235"/>
+<area shape="rect" id="node21" href="$structlc__lockset__classof.html" title="lc_lockset_classof" alt="" coords="168,205,299,235"/>
+<area shape="rect" id="node24" href="$structlc__lockset__reqobj.html" title="lc_lockset_reqobj" alt="" coords="172,259,295,288"/>
+<area shape="rect" id="node17" href="$structlocator__global_1_1locator__global__lockset__areas.html" title="locator_global::locator\l_global_lockset_areas" alt="" coords="584,213,733,259"/>
+<area shape="rect" id="node19" href="$structlc__lock__set.html" title="lc_lock_set" alt="" coords="403,221,491,251"/>
+</map>

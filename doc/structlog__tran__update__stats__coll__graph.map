@@ -1,0 +1,12 @@
+<map id="log_tran_update_stats" name="log_tran_update_stats">
+<area shape="rect" id="node2" href="$structmht__table.html" title="mht_table" alt="" coords="28,460,105,489"/>
+<area shape="rect" id="node4" href="$structhentry.html" title="hentry" alt="" coords="5,241,64,271"/>
+<area shape="rect" id="node7" href="$structlog__tran__class__cos__chunk.html" title="log_tran_class_cos\l_chunk" alt="" coords="148,451,281,498"/>
+<area shape="rect" id="node10" href="$structlog__tran__class__cos.html" title="log_tran_class_cos" alt="" coords="163,241,296,271"/>
+<area shape="rect" id="node12" href="$structdb__identifier.html" title="db_identifier" alt="" coords="184,101,275,131"/>
+<area shape="rect" id="node14" href="$structlog__tran__btid__unique__stats__chunk.html" title="log_tran_btid_unique\l_stats_chunk" alt="" coords="401,451,543,498"/>
+<area shape="rect" id="node17" href="$structlog__tran__btid__unique__stats.html" title="log_tran_btid_unique\l_stats" alt="" coords="401,233,543,279"/>
+<area shape="rect" id="node19" href="$structlog__unique__stats.html" title="log_unique_stats" alt="" coords="337,101,457,131"/>
+<area shape="rect" id="node21" href="$structbtid.html" title="btid" alt="" coords="481,101,524,131"/>
+<area shape="rect" id="node23" href="$structvfid.html" title="vfid" alt="" coords="481,5,524,35"/>
+</map>

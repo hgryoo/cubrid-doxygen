@@ -1,0 +1,29 @@
+<map id="src/connection/wintcp.c" name="src/connection/wintcp.c">
+<area shape="rect" id="node21" href="$dbtype_8h.html" title="dbtype.h" alt="" coords="1395,83,1467,112"/>
+<area shape="rect" id="node24" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="167,237,308,267"/>
+<area shape="rect" id="node28" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="608,315,723,344"/>
+<area shape="rect" id="node35" href="$error__code_8h.html" title="error_code.h" alt="" coords="727,547,820,576"/>
+<area shape="rect" id="node38" href="$porting_8h.html" title="porting.h" alt="" coords="435,392,507,421"/>
+<area shape="rect" id="node131" href="$connection__cl_8h.html" title="connection_cl.h" alt="" coords="561,83,673,112"/>
+<area shape="rect" id="node152" href="$connection__globals_8h.html" title="connection_globals.h" alt="" coords="655,160,799,189"/>
+<area shape="rect" id="node155" href="$wintcp_8h.html" title="wintcp.h" alt="" coords="239,160,308,189"/>
+<area shape="rect" id="node161" href="$client__support_8h.html" title="client_support.h" alt="" coords="823,160,937,189"/>
+<area shape="rect" id="node41" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="1552,315,1616,344"/>
+<area shape="rect" id="node49" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="1923,469,2019,499"/>
+<area shape="rect" id="node55" href="$system_8h.html" title="system.h" alt="" coords="1067,237,1141,267"/>
+<area shape="rect" id="node62" href="$elo_8h.html" title="elo.h" alt="" coords="1679,160,1729,189"/>
+<area shape="rect" id="node76" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="2061,315,2176,344"/>
+<area shape="rect" id="node90" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="925,237,1043,267"/>
+<area shape="rect" id="node97" href="$language__support_8h.html" title="language_support.h" alt="" coords="2088,237,2221,267"/>
+<area shape="rect" id="node100" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="2352,315,2451,344"/>
+<area shape="rect" id="node115" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="1308,160,1431,189"/>
+<area shape="rect" id="node43" href="$cubrid__api_8h.html" title="cubrid_api.h" alt="" coords="1488,392,1579,421"/>
+<area shape="rect" id="node65" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="1625,237,1783,267"/>
+<area shape="rect" id="node80" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="1280,392,1413,421"/>
+<area shape="rect" id="node95" href="$area__alloc_8h.html" title="area_alloc.h" alt="" coords="899,315,989,344"/>
+<area shape="rect" id="node109" href="$locale__support_8h.html" title="locale_support.h" alt="" coords="1920,315,2037,344"/>
+<area shape="rect" id="node122" href="$work__space_8h.html" title="work_space.h" alt="" coords="1380,237,1481,267"/>
+<area shape="rect" id="node133" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="553,237,681,267"/>
+<area shape="rect" id="node145" href="$connection__support_8h.html" title="connection_support.h" alt="" coords="433,160,580,189"/>
+<area shape="rect" id="node135" href="$boot_8h.html" title="boot.h" alt="" coords="475,315,533,344"/>
+</map>

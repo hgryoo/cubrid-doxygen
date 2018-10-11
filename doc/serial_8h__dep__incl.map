@@ -1,0 +1,9 @@
+<map id="src/query/serial.h" name="src/query/serial.h">
+<area shape="rect" id="node3" href="$network__interface__cl_8c.html" title="src/communication/network\l_interface_cl.c" alt="" coords="5,83,187,130"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="211,83,392,130"/>
+<area shape="rect" id="node7" href="$fetch_8c.html" title="src/query/fetch.c" alt="" coords="416,92,536,121"/>
+<area shape="rect" id="node9" href="$serial_8c.html" title="src/query/serial.c" alt="" coords="560,92,683,121"/>
+<area shape="rect" id="node11" href="$heap__file_8c.html" title="src/storage/heap_file.c" alt="" coords="707,92,861,121"/>
+<area shape="rect" id="node13" href="$boot__sr_8c.html" title="src/transaction/boot_sr.c" alt="" coords="885,92,1051,121"/>
+<area shape="rect" id="node15" href="$log__tran__table_8c.html" title="src/transaction/log\l_tran_table.c" alt="" coords="1075,83,1203,130"/>
+</map>

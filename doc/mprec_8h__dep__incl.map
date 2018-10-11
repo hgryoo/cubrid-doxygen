@@ -1,0 +1,7 @@
+<map id="src/base/mprec.h" name="src/base/mprec.h">
+<area shape="rect" id="node3" href="$dtoa_8c.html" title="src/base/dtoa.c" alt="" coords="5,92,117,121"/>
+<area shape="rect" id="node5" href="$mprec_8c.html" title="src/base/mprec.c" alt="" coords="141,92,264,121"/>
+<area shape="rect" id="node7" href="$util__common_8c.html" title="src/executables/util\l_common.c" alt="" coords="288,83,421,130"/>
+<area shape="rect" id="node9" href="$object__domain_8c.html" title="src/object/object_domain.c" alt="" coords="445,92,624,121"/>
+<area shape="rect" id="node11" href="$numeric__opfunc_8c.html" title="src/query/numeric_opfunc.c" alt="" coords="648,92,829,121"/>
+</map>

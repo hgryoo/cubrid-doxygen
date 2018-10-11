@@ -1,0 +1,9 @@
+<map id="src/object/transform_cl.h" name="src/object/transform_cl.h">
+<area shape="rect" id="node3" href="$loader__disk_8c.html" title="src/executables/loader\l_disk.c" alt="" coords="5,83,157,130"/>
+<area shape="rect" id="node5" href="$unload__object_8c.html" title="src/executables/unload\l_object.c" alt="" coords="181,83,336,130"/>
+<area shape="rect" id="node7" href="$object__primitive_8c.html" title="src/object/object_primitive.c" alt="" coords="360,92,544,121"/>
+<area shape="rect" id="node9" href="$schema__manager_8c.html" title="src/object/schema_manager.c" alt="" coords="568,92,765,121"/>
+<area shape="rect" id="node11" href="$schema__template_8c.html" title="src/object/schema_template.c" alt="" coords="789,92,987,121"/>
+<area shape="rect" id="node13" href="$transform__cl_8c.html" title="src/object/transform_cl.c" alt="" coords="1011,92,1176,121"/>
+<area shape="rect" id="node15" href="$locator__cl_8c.html" title="src/transaction/locator_cl.c" alt="" coords="1200,92,1379,121"/>
+</map>

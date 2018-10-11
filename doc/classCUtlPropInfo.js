@@ -1,0 +1,66 @@
+var classCUtlPropInfo =
+[
+    [ "EnumGetPropInfo", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7a", [
+      [ "GETPROPINFO_ALLPROPIDS", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aaf66216b71701ce07646c6134393dbc9e", null ],
+      [ "GETPROPINFO_NOTSUPPORTED", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aa86a143dcd377d5e5171077509a017420", null ],
+      [ "GETPROPINFO_ERRORSOCCURRED", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aa1d61a471fbeb2d83e1945e6504ce506c", null ],
+      [ "GETPROPINFO_VALIDPROP", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aa0a879f71b90fd04b0544c8d8c54d78cc", null ],
+      [ "GETPROPINFO_ALLPROPIDS", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aaf66216b71701ce07646c6134393dbc9e", null ],
+      [ "GETPROPINFO_NOTSUPPORTED", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aa86a143dcd377d5e5171077509a017420", null ],
+      [ "GETPROPINFO_ERRORSOCCURRED", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aa1d61a471fbeb2d83e1945e6504ce506c", null ],
+      [ "GETPROPINFO_VALIDPROP", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aa0a879f71b90fd04b0544c8d8c54d78cc", null ]
+    ] ],
+    [ "EnumGetPropInfo", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7a", [
+      [ "GETPROPINFO_ALLPROPIDS", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aaf66216b71701ce07646c6134393dbc9e", null ],
+      [ "GETPROPINFO_NOTSUPPORTED", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aa86a143dcd377d5e5171077509a017420", null ],
+      [ "GETPROPINFO_ERRORSOCCURRED", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aa1d61a471fbeb2d83e1945e6504ce506c", null ],
+      [ "GETPROPINFO_VALIDPROP", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aa0a879f71b90fd04b0544c8d8c54d78cc", null ],
+      [ "GETPROPINFO_ALLPROPIDS", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aaf66216b71701ce07646c6134393dbc9e", null ],
+      [ "GETPROPINFO_NOTSUPPORTED", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aa86a143dcd377d5e5171077509a017420", null ],
+      [ "GETPROPINFO_ERRORSOCCURRED", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aa1d61a471fbeb2d83e1945e6504ce506c", null ],
+      [ "GETPROPINFO_VALIDPROP", "classCUtlPropInfo.html#a49373f5962e603c1b059772a6bbb7b7aa0a879f71b90fd04b0544c8d8c54d78cc", null ]
+    ] ],
+    [ "EnumUPropSetFlags", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ff", [
+      [ "UPROPSET_HIDDEN", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ffa8bd96d304d7d04e74816b82498546b1a", null ],
+      [ "UPROPSET_PASSTHROUGH", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ffaa7406d2ae0512e501695d7274bff90ff", null ],
+      [ "UPROPSET_USERINIT", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ffa944504a33c0bc9887706a7b5d1a3bef3", null ],
+      [ "UPROPSET_HIDDEN", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ffa8bd96d304d7d04e74816b82498546b1a", null ],
+      [ "UPROPSET_PASSTHROUGH", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ffaa7406d2ae0512e501695d7274bff90ff", null ],
+      [ "UPROPSET_USERINIT", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ffa944504a33c0bc9887706a7b5d1a3bef3", null ]
+    ] ],
+    [ "EnumUPropSetFlags", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ff", [
+      [ "UPROPSET_HIDDEN", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ffa8bd96d304d7d04e74816b82498546b1a", null ],
+      [ "UPROPSET_PASSTHROUGH", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ffaa7406d2ae0512e501695d7274bff90ff", null ],
+      [ "UPROPSET_USERINIT", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ffa944504a33c0bc9887706a7b5d1a3bef3", null ],
+      [ "UPROPSET_HIDDEN", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ffa8bd96d304d7d04e74816b82498546b1a", null ],
+      [ "UPROPSET_PASSTHROUGH", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ffaa7406d2ae0512e501695d7274bff90ff", null ],
+      [ "UPROPSET_USERINIT", "classCUtlPropInfo.html#a7228bf04fa81f15d3d29d01d0bcda3ffa944504a33c0bc9887706a7b5d1a3bef3", null ]
+    ] ],
+    [ "CUtlPropInfo", "classCUtlPropInfo.html#a74632e151bb2b1f97a827e6410344e7e", null ],
+    [ "~CUtlPropInfo", "classCUtlPropInfo.html#a62a4bea6fa4fa0f8582b69d0b89f23dd", null ],
+    [ "CUtlPropInfo", "classCUtlPropInfo.html#a74632e151bb2b1f97a827e6410344e7e", null ],
+    [ "~CUtlPropInfo", "classCUtlPropInfo.html#a62a4bea6fa4fa0f8582b69d0b89f23dd", null ],
+    [ "CalcDescripBuffers", "classCUtlPropInfo.html#ad5c811f43ec40a231d807fea39c15594", null ],
+    [ "CalcDescripBuffers", "classCUtlPropInfo.html#ad5c811f43ec40a231d807fea39c15594", null ],
+    [ "FInit", "classCUtlPropInfo.html#aee9a503fa560f693ff829cbf29fe9d7a", null ],
+    [ "FInit", "classCUtlPropInfo.html#aee9a503fa560f693ff829cbf29fe9d7a", null ],
+    [ "GetPropertyInfo", "classCUtlPropInfo.html#a4595a545dc0ff1ffdf0c105eab0a8207", null ],
+    [ "GetPropertyInfo", "classCUtlPropInfo.html#a4595a545dc0ff1ffdf0c105eab0a8207", null ],
+    [ "GetPropertySetIndex", "classCUtlPropInfo.html#a2221743dc64c8fdea85a7cebfe6c39f9", null ],
+    [ "GetPropertySetIndex", "classCUtlPropInfo.html#a2221743dc64c8fdea85a7cebfe6c39f9", null ],
+    [ "GetUPropInfoPtr", "classCUtlPropInfo.html#a7beaacea090457f9141e588f09fcbe23", null ],
+    [ "GetUPropInfoPtr", "classCUtlPropInfo.html#a7beaacea090457f9141e588f09fcbe23", null ],
+    [ "InitAvailUPropSets", "classCUtlPropInfo.html#ace6c4964a0393d3d3e4e5f9754b6b1fe", null ],
+    [ "InitAvailUPropSets", "classCUtlPropInfo.html#ace6c4964a0393d3d3e4e5f9754b6b1fe", null ],
+    [ "InitUPropSetsSupported", "classCUtlPropInfo.html#a50f0e8f87cfa88fdac337ab3ed76070c", null ],
+    [ "InitUPropSetsSupported", "classCUtlPropInfo.html#a50f0e8f87cfa88fdac337ab3ed76070c", null ],
+    [ "LoadDescription", "classCUtlPropInfo.html#abbc72ec1d23fe0841efecb0d7103b415", null ],
+    [ "LoadDescription", "classCUtlPropInfo.html#abbc72ec1d23fe0841efecb0d7103b415", null ],
+    [ "m_cElemPerSupported", "classCUtlPropInfo.html#a2140815b1d4c9e3e3c3023b9d89f4609", null ],
+    [ "m_cPropSetDex", "classCUtlPropInfo.html#a7740873b0d16004950d10d684dca3d5d", null ],
+    [ "m_cUPropSet", "classCUtlPropInfo.html#aa7d7b95e8f656bab504b671f295095c1", null ],
+    [ "m_oCriticalSection", "classCUtlPropInfo.html#a4a3a59b77c7ab579e649f174fe0b7f63", null ],
+    [ "m_pUPropSet", "classCUtlPropInfo.html#a6623d9415fdaa79a2d8d4db2ff2297b5", null ],
+    [ "m_rgdwSupported", "classCUtlPropInfo.html#aa0a30fdb577b3ac1cdecc68266bf2b9b", null ],
+    [ "m_rgiPropSetDex", "classCUtlPropInfo.html#af21c431b33a3dec08d25196603611171", null ]
+];

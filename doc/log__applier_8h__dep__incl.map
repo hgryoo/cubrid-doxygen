@@ -1,0 +1,7 @@
+<map id="src/transaction/log_applier.h" name="src/transaction/log_applier.h">
+<area shape="rect" id="node3" href="$system__parameter_8c.html" title="src/base/system_parameter.c" alt="" coords="5,111,200,140"/>
+<area shape="rect" id="node5" href="$util__cs_8c.html" title="src/executables/util_cs.c" alt="" coords="224,111,389,140"/>
+<area shape="rect" id="node7" href="$cci__applier_8c.html" title="src/tools/cci_applier.c" alt="" coords="413,111,563,140"/>
+<area shape="rect" id="node9" href="$log__applier_8c.html" title="src/transaction/log\l_applier.c" alt="" coords="587,102,715,149"/>
+<area shape="rect" id="node11" href="$log__writer_8c.html" title="src/transaction/log\l_writer.c" alt="" coords="739,102,867,149"/>
+</map>

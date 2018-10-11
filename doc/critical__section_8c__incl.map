@@ -1,0 +1,35 @@
+<map id="src/thread/critical_section.c" name="src/thread/critical_section.c">
+<area shape="rect" id="node3" href="$critical__section_8h.html" title="critical_section.h" alt="" coords="2323,256,2443,285"/>
+<area shape="rect" id="node9" href="$porting_8h.html" title="porting.h" alt="" coords="2055,333,2127,363"/>
+<area shape="rect" id="node19" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="1545,101,1673,131"/>
+<area shape="rect" id="node53" href="$connection__error_8h.html" title="connection_error.h" alt="" coords="1343,101,1471,131"/>
+<area shape="rect" id="node57" href="$critical__section__tracker_8hpp.html" title="critical_section_tracker.hpp" alt="" coords="2177,179,2359,208"/>
+<area shape="rect" id="node62" href="$dbtype_8h.html" title="dbtype.h" alt="" coords="861,101,933,131"/>
+<area shape="rect" id="node65" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="245,256,387,285"/>
+<area shape="rect" id="node105" href="$numeric__opfunc_8h.html" title="numeric_opfunc.h" alt="" coords="145,179,271,208"/>
+<area shape="rect" id="node111" href="$perf__monitor_8h.html" title="perf_monitor.h" alt="" coords="1937,179,2041,208"/>
+<area shape="rect" id="node116" href="$tsc__timer_8h.html" title="tsc_timer.h" alt="" coords="2128,256,2213,285"/>
+<area shape="rect" id="node124" href="$resource__tracker_8hpp.html" title="resource_tracker.hpp" alt="" coords="2721,101,2865,131"/>
+<area shape="rect" id="node137" href="$show__scan_8h.html" title="show_scan.h" alt="" coords="1053,256,1152,285"/>
+<area shape="rect" id="node142" href="$thread__entry_8hpp.html" title="thread_entry.hpp" alt="" coords="3011,179,3128,208"/>
+<area shape="rect" id="node151" href="$thread__manager_8hpp.html" title="thread_manager.hpp" alt="" coords="3273,101,3412,131"/>
+<area shape="rect" id="node5" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="973,333,1069,363"/>
+<area shape="rect" id="node13" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="1435,333,1568,363"/>
+<area shape="rect" id="node7" href="$error__code_8h.html" title="error_code.h" alt="" coords="483,411,576,440"/>
+<area shape="rect" id="node21" href="$boot_8h.html" title="boot.h" alt="" coords="1855,179,1913,208"/>
+<area shape="rect" id="node37" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="472,333,587,363"/>
+<area shape="rect" id="node42" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="1328,256,1443,285"/>
+<area shape="rect" id="node24" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="1819,256,1952,285"/>
+<area shape="rect" id="node34" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="1733,333,1797,363"/>
+<area shape="rect" id="node74" href="$system_8h.html" title="system.h" alt="" coords="1669,256,1744,285"/>
+<area shape="rect" id="node80" href="$elo_8h.html" title="elo.h" alt="" coords="979,256,1029,285"/>
+<area shape="rect" id="node83" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="613,256,731,285"/>
+<area shape="rect" id="node88" href="$language__support_8h.html" title="language_support.h" alt="" coords="756,179,889,208"/>
+<area shape="rect" id="node90" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="805,256,904,285"/>
+<area shape="rect" id="node95" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="609,179,732,208"/>
+<area shape="rect" id="node126" href="$fileline__location_8hpp.html" title="fileline_location.hpp" alt="" coords="2669,179,2805,208"/>
+<area shape="rect" id="node144" href="$error__context_8hpp.html" title="error_context.hpp" alt="" coords="3008,256,3131,285"/>
+<area shape="rect" id="node154" href="$thread__task_8hpp.html" title="thread_task.hpp" alt="" coords="3285,179,3400,208"/>
+<area shape="rect" id="node160" href="$thread__waiter_8hpp.html" title="thread_waiter.hpp" alt="" coords="3424,179,3549,208"/>
+<area shape="rect" id="node165" href="$base__flag_8hpp.html" title="base_flag.hpp" alt="" coords="3624,179,3725,208"/>
+</map>

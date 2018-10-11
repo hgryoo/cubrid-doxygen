@@ -1,0 +1,8 @@
+<map id="active_sessions" name="active_sessions">
+<area shape="rect" id="node2" href="$structlf__hash__table.html" title="lf_hash_table" alt="" coords="5,293,104,323"/>
+<area shape="rect" id="node4" href="$structlf__entry__descriptor.html" title="lf_entry_descriptor" alt="" coords="80,5,208,35"/>
+<area shape="rect" id="node6" href="$structlf__freelist.html" title="lf_freelist" alt="" coords="117,197,192,227"/>
+<area shape="rect" id="node8" href="$structlf__tran__system.html" title="lf_tran_system" alt="" coords="240,101,347,131"/>
+<area shape="rect" id="node13" href="$structlf__tran__entry.html" title="lf_tran_entry" alt="" coords="303,197,396,227"/>
+<area shape="rect" id="node11" href="$structlf__bitmap.html" title="lf_bitmap" alt="" coords="256,5,331,35"/>
+</map>

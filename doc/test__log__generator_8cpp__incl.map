@@ -1,0 +1,32 @@
+<map id="unit_tests/replication/test_log_generator.cpp" name="unit_tests/replication/test_log_generator.cpp">
+<area shape="rect" id="node3" href="$log__generator_8hpp.html" title="log_generator.hpp" alt="" coords="1591,101,1716,131"/>
+<area shape="rect" id="node5" href="$replication__stream__entry_8hpp.html" title="replication_stream\l_entry.hpp" alt="" coords="1387,179,1515,226"/>
+<area shape="rect" id="node7" href="$replication__object_8hpp.html" title="replication_object.hpp" alt="" coords="1121,275,1268,304"/>
+<area shape="rect" id="node19" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="259,584,392,613"/>
+<area shape="rect" id="node105" href="$log__consumer_8hpp.html" title="log_consumer.hpp" alt="" coords="1725,188,1853,217"/>
+<area shape="rect" id="node117" href="$thread__manager_8hpp.html" title="thread_manager.hpp" alt="" coords="2043,275,2181,304"/>
+<area shape="rect" id="node151" href="$test__log__generator_8hpp.html" title="test_log_generator.hpp" alt="" coords="1928,101,2083,131"/>
+<area shape="rect" id="node154" href="$thread__entry__task_8hpp.html" title="thread_entry_task.hpp" alt="" coords="2276,275,2425,304"/>
+<area shape="rect" id="node82" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="1099,507,1232,536"/>
+<area shape="rect" id="node94" href="$stream__entry_8hpp.html" title="stream_entry.hpp" alt="" coords="1459,352,1581,381"/>
+<area shape="rect" id="node9" href="$packable__object_8hpp.html" title="packable_object.hpp" alt="" coords="1127,352,1268,381"/>
+<area shape="rect" id="node31" href="$dbtype_8h.html" title="dbtype.h" alt="" coords="543,352,615,381"/>
+<area shape="rect" id="node11" href="$packer_8hpp.html" title="packer.hpp" alt="" coords="1247,429,1332,459"/>
+<area shape="rect" id="node13" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="635,507,749,536"/>
+<area shape="rect" id="node17" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="517,584,613,613"/>
+<area shape="rect" id="node34" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="824,507,965,536"/>
+<area shape="rect" id="node38" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="912,584,1027,613"/>
+<area shape="rect" id="node46" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="1051,584,1115,613"/>
+<area shape="rect" id="node49" href="$system_8h.html" title="system.h" alt="" coords="1541,507,1616,536"/>
+<area shape="rect" id="node56" href="$elo_8h.html" title="elo.h" alt="" coords="144,507,195,536"/>
+<area shape="rect" id="node59" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="371,507,488,536"/>
+<area shape="rect" id="node64" href="$language__support_8h.html" title="language_support.h" alt="" coords="665,429,799,459"/>
+<area shape="rect" id="node66" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="512,507,611,536"/>
+<area shape="rect" id="node72" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="223,429,345,459"/>
+<area shape="rect" id="node43" href="$porting_8h.html" title="porting.h" alt="" coords="1139,584,1211,613"/>
+<area shape="rect" id="node107" href="$cubstream_8hpp.html" title="cubstream.hpp" alt="" coords="1620,352,1727,381"/>
+<area shape="rect" id="node119" href="$thread__entry_8hpp.html" title="thread_entry.hpp" alt="" coords="2483,352,2600,381"/>
+<area shape="rect" id="node125" href="$thread__task_8hpp.html" title="thread_task.hpp" alt="" coords="2293,352,2408,381"/>
+<area shape="rect" id="node129" href="$thread__waiter_8hpp.html" title="thread_waiter.hpp" alt="" coords="2093,352,2219,381"/>
+<area shape="rect" id="node139" href="$base__flag_8hpp.html" title="base_flag.hpp" alt="" coords="1968,352,2069,381"/>
+</map>

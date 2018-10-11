@@ -1,0 +1,36 @@
+<map id="src/cm_common/cm_class_info_sa.c" name="src/cm_common/cm_class_info_sa.c">
+<area shape="rect" id="node11" href="$dbi_8h.html" title="dbi.h" alt="" coords="692,101,743,131"/>
+<area shape="rect" id="node142" href="$cm__portable_8h.html" title="cm_portable.h" alt="" coords="2231,101,2335,131"/>
+<area shape="rect" id="node144" href="$cm__execute__sa_8h.html" title="cm_execute_sa.h" alt="" coords="2359,101,2484,131"/>
+<area shape="rect" id="node146" href="$dbtype_8h.html" title="dbtype.h" alt="" coords="1908,256,1980,285"/>
+<area shape="rect" id="node16" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="2167,720,2263,749"/>
+<area shape="rect" id="node18" href="$error__code_8h.html" title="error_code.h" alt="" coords="1808,797,1901,827"/>
+<area shape="rect" id="node22" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="1937,565,2001,595"/>
+<area shape="rect" id="node31" href="$db__date_8h.html" title="db_date.h" alt="" coords="399,411,476,440"/>
+<area shape="rect" id="node41" href="$db__elo_8h.html" title="db_elo.h" alt="" coords="297,256,367,285"/>
+<area shape="rect" id="node89" href="$db__query_8h.html" title="db_query.h" alt="" coords="891,179,976,208"/>
+<area shape="rect" id="node139" href="$databases__file_8h.html" title="databases_file.h" alt="" coords="1000,179,1117,208"/>
+<area shape="rect" id="node24" href="$cubrid__api_8h.html" title="cubrid_api.h" alt="" coords="1892,643,1983,672"/>
+<area shape="rect" id="node34" href="$tz__support_8h.html" title="tz_support.h" alt="" coords="965,488,1059,517"/>
+<area shape="rect" id="node37" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="1092,565,1225,595"/>
+<area shape="rect" id="node39" href="$timezone__lib__common_8h.html" title="timezone_lib_common.h" alt="" coords="855,565,1017,595"/>
+<area shape="rect" id="node44" href="$elo_8h.html" title="elo.h" alt="" coords="1111,333,1161,363"/>
+<area shape="rect" id="node47" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="1212,411,1369,440"/>
+<area shape="rect" id="node55" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="1133,488,1248,517"/>
+<area shape="rect" id="node62" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="1469,488,1603,517"/>
+<area shape="rect" id="node74" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="2336,488,2451,517"/>
+<area shape="rect" id="node69" href="$porting_8h.html" title="porting.h" alt="" coords="1740,565,1812,595"/>
+<area shape="rect" id="node94" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="913,333,1036,363"/>
+<area shape="rect" id="node114" href="$class__object_8h.html" title="class_object.h" alt="" coords="925,256,1032,285"/>
+<area shape="rect" id="node126" href="$cursor_8h.html" title="cursor.h" alt="" coords="1204,256,1273,285"/>
+<area shape="rect" id="node100" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="621,411,739,440"/>
+<area shape="rect" id="node107" href="$work__space_8h.html" title="work_space.h" alt="" coords="1545,411,1647,440"/>
+<area shape="rect" id="node105" href="$area__alloc_8h.html" title="area_alloc.h" alt="" coords="648,488,739,517"/>
+<area shape="rect" id="node120" href="$statistics_8h.html" title="statistics.h" alt="" coords="753,333,839,363"/>
+<area shape="rect" id="node131" href="$query__list_8h.html" title="query_list.h" alt="" coords="1241,333,1329,363"/>
+<area shape="rect" id="node149" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="1823,411,1964,440"/>
+<area shape="rect" id="node158" href="$system_8h.html" title="system.h" alt="" coords="347,488,421,517"/>
+<area shape="rect" id="node166" href="$language__support_8h.html" title="language_support.h" alt="" coords="2571,411,2704,440"/>
+<area shape="rect" id="node169" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="2504,488,2603,517"/>
+<area shape="rect" id="node178" href="$locale__support_8h.html" title="locale_support.h" alt="" coords="2665,488,2783,517"/>
+</map>

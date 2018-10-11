@@ -1,0 +1,30 @@
+<map id="src/base/memory_alloc.c" name="src/base/memory_alloc.c">
+<area shape="rect" id="node11" href="$set__object_8h.html" title="set_object.h" alt="" coords="981,83,1075,112"/>
+<area shape="rect" id="node20" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="1872,315,1987,344"/>
+<area shape="rect" id="node58" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="1123,315,1237,344"/>
+<area shape="rect" id="node73" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="1256,237,1373,267"/>
+<area shape="rect" id="node98" href="$misc__string_8h.html" title="misc_string.h" alt="" coords="2505,237,2604,267"/>
+<area shape="rect" id="node101" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="2280,315,2379,344"/>
+<area shape="rect" id="node111" href="$dbtype_8h.html" title="dbtype.h" alt="" coords="1528,83,1600,112"/>
+<area shape="rect" id="node146" href="$util__func_8h.html" title="util_func.h" alt="" coords="2077,83,2160,112"/>
+<area shape="rect" id="node153" href="$resource__tracker_8hpp.html" title="resource_tracker.hpp" alt="" coords="2840,83,2984,112"/>
+<area shape="rect" id="node166" href="$customheaps_8h.html" title="customheaps.h" alt="" coords="2285,83,2395,112"/>
+<area shape="rect" id="node169" href="$quick__fit_8h.html" title="quick_fit.h" alt="" coords="3008,83,3091,112"/>
+<area shape="rect" id="node14" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="467,469,563,499"/>
+<area shape="rect" id="node27" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="639,237,796,267"/>
+<area shape="rect" id="node78" href="$area__alloc_8h.html" title="area_alloc.h" alt="" coords="1261,315,1352,344"/>
+<area shape="rect" id="node80" href="$locator_8h.html" title="locator.h" alt="" coords="681,160,753,189"/>
+<area shape="rect" id="node87" href="$parser_8h.html" title="parser.h" alt="" coords="877,315,947,344"/>
+<area shape="rect" id="node16" href="$error__code_8h.html" title="error_code.h" alt="" coords="1991,547,2084,576"/>
+<area shape="rect" id="node41" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="448,392,581,421"/>
+<area shape="rect" id="node52" href="$oid_8h.html" title="oid.h" alt="" coords="245,315,296,344"/>
+<area shape="rect" id="node56" href="$byte__order_8h.html" title="byte_order.h" alt="" coords="760,315,853,344"/>
+<area shape="rect" id="node49" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="56,469,120,499"/>
+<area shape="rect" id="node62" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="957,392,1091,421"/>
+<area shape="rect" id="node91" href="$system_8h.html" title="system.h" alt="" coords="808,392,883,421"/>
+<area shape="rect" id="node114" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="2061,237,2203,267"/>
+<area shape="rect" id="node124" href="$elo_8h.html" title="elo.h" alt="" coords="973,160,1024,189"/>
+<area shape="rect" id="node129" href="$language__support_8h.html" title="language_support.h" alt="" coords="1752,237,1885,267"/>
+<area shape="rect" id="node134" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="1403,160,1525,189"/>
+<area shape="rect" id="node155" href="$fileline__location_8hpp.html" title="fileline_location.hpp" alt="" coords="2729,160,2865,189"/>
+</map>

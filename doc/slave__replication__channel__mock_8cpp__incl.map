@@ -1,0 +1,28 @@
+<map id="unit_tests/replication_channels/slave_replication_channel_mock.cpp" name="unit_tests/replication_channels/slave_replication_channel_mock.cpp">
+<area shape="rect" id="node3" href="$slave__replication__channel__mock_8hpp.html" title="slave_replication_channel\l_mock.hpp" alt="" coords="837,118,1008,165"/>
+<area shape="rect" id="node60" href="$thread__looper_8hpp.html" title="thread_looper.hpp" alt="" coords="2689,309,2815,339"/>
+<area shape="rect" id="node78" href="$connection__sr_8h.html" title="connection_sr.h" alt="" coords="243,309,357,339"/>
+<area shape="rect" id="node93" href="$cub__master__mock_8hpp.html" title="cub_master_mock.hpp" alt="" coords="2256,127,2411,156"/>
+<area shape="rect" id="node95" href="$thread__manager_8hpp.html" title="thread_manager.hpp" alt="" coords="1252,223,1391,252"/>
+<area shape="rect" id="node123" href="$thread__worker__pool_8hpp.html" title="thread_worker_pool.hpp" alt="" coords="1925,223,2085,252"/>
+<area shape="rect" id="node151" href="$thread__entry__task_8hpp.html" title="thread_entry_task.hpp" alt="" coords="1732,223,1881,252"/>
+<area shape="rect" id="node5" href="$stream__transfer__receiver_8hpp.html" title="stream_transfer_receiver.hpp" alt="" coords="737,223,927,252"/>
+<area shape="rect" id="node11" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="451,464,579,493"/>
+<area shape="rect" id="node48" href="$communication__server__channel_8hpp.html" title="communication_server\l_channel.hpp" alt="" coords="561,214,713,261"/>
+<area shape="rect" id="node53" href="$mock__stream_8hpp.html" title="mock_stream.hpp" alt="" coords="951,223,1076,252"/>
+<area shape="rect" id="node7" href="$communication__channel_8hpp.html" title="communication_channel.hpp" alt="" coords="612,309,799,339"/>
+<area shape="rect" id="node39" href="$cubstream_8hpp.html" title="cubstream.hpp" alt="" coords="823,309,929,339"/>
+<area shape="rect" id="node9" href="$connection__support_8h.html" title="connection_support.h" alt="" coords="439,387,585,416"/>
+<area shape="rect" id="node13" href="$boot_8h.html" title="boot.h" alt="" coords="485,541,544,571"/>
+<area shape="rect" id="node15" href="$porting_8h.html" title="porting.h" alt="" coords="412,619,484,648"/>
+<area shape="rect" id="node17" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="45,541,160,571"/>
+<area shape="rect" id="node21" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="568,541,683,571"/>
+<area shape="rect" id="node23" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="156,619,289,648"/>
+<area shape="rect" id="node62" href="$perf__def_8hpp.html" title="perf_def.hpp" alt="" coords="2151,387,2244,416"/>
+<area shape="rect" id="node82" href="$critical__section_8h.html" title="critical_section.h" alt="" coords="143,387,263,416"/>
+<area shape="rect" id="node97" href="$thread__entry_8hpp.html" title="thread_entry.hpp" alt="" coords="1263,309,1380,339"/>
+<area shape="rect" id="node103" href="$thread__task_8hpp.html" title="thread_task.hpp" alt="" coords="1404,309,1519,339"/>
+<area shape="rect" id="node108" href="$thread__waiter_8hpp.html" title="thread_waiter.hpp" alt="" coords="1644,309,1769,339"/>
+<area shape="rect" id="node119" href="$base__flag_8hpp.html" title="base_flag.hpp" alt="" coords="1036,309,1137,339"/>
+<area shape="rect" id="node128" href="$extensible__array_8hpp.html" title="extensible_array.hpp" alt="" coords="2473,309,2615,339"/>
+</map>

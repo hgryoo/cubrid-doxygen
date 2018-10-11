@@ -1,0 +1,18 @@
+<map id="src/parser/view_transform.h" name="src/parser/view_transform.h">
+<area shape="rect" id="node3" href="$db__obj_8c.html" title="src/compat/db_obj.c" alt="" coords="5,92,144,121"/>
+<area shape="rect" id="node5" href="$db__vdb_8c.html" title="src/compat/db_vdb.c" alt="" coords="168,92,312,121"/>
+<area shape="rect" id="node7" href="$db__virt_8c.html" title="src/compat/db_virt.c" alt="" coords="336,92,477,121"/>
+<area shape="rect" id="node9" href="$object__accessor_8c.html" title="src/object/object_accessor.c" alt="" coords="501,92,691,121"/>
+<area shape="rect" id="node11" href="$object__template_8c.html" title="src/object/object_template.c" alt="" coords="715,92,901,121"/>
+<area shape="rect" id="node13" href="$virtual__object_8c.html" title="src/object/virtual\l_object.c" alt="" coords="925,83,1043,130"/>
+<area shape="rect" id="node15" href="$work__space_8c.html" title="src/object/work_space.c" alt="" coords="1067,92,1229,121"/>
+<area shape="rect" id="node17" href="$query__rewrite_8c.html" title="src/optimizer/query\l_rewrite.c" alt="" coords="1253,83,1387,130"/>
+<area shape="rect" id="node19" href="$compile_8c.html" title="src/parser/compile.c" alt="" coords="1411,92,1549,121"/>
+<area shape="rect" id="node21" href="$method__transform_8c.html" title="src/parser/method_transform.c" alt="" coords="1573,92,1773,121"/>
+<area shape="rect" id="node23" href="$parse__evaluate_8c.html" title="src/parser/parse_evaluate.c" alt="" coords="1797,92,1979,121"/>
+<area shape="rect" id="node25" href="$semantic__check_8c.html" title="src/parser/semantic\l_check.c" alt="" coords="2003,83,2139,130"/>
+<area shape="rect" id="node27" href="$view__transform_8c.html" title="src/parser/view_transform.c" alt="" coords="2163,92,2347,121"/>
+<area shape="rect" id="node29" href="$xasl__generation_8c.html" title="src/parser/xasl_generation.c" alt="" coords="2371,92,2557,121"/>
+<area shape="rect" id="node31" href="$execute__schema_8c.html" title="src/query/execute_schema.c" alt="" coords="2581,92,2771,121"/>
+<area shape="rect" id="node33" href="$execute__statement_8c.html" title="src/query/execute_statement.c" alt="" coords="2795,92,2997,121"/>
+</map>

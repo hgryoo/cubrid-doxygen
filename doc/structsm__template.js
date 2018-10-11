@@ -1,0 +1,26 @@
+var structsm__template =
+[
+    [ "attributes", "structsm__template.html#acb118d91931a6226f20b723b1f9cb382", null ],
+    [ "class_attributes", "structsm__template.html#acea0fadfc9fe5b1501779ed6f40e46fb", null ],
+    [ "class_methods", "structsm__template.html#a4da6eeb3d722310184de40cda03472b0", null ],
+    [ "class_resolutions", "structsm__template.html#aa6dee216faa8d749809bcd6a006beec8", null ],
+    [ "class_type", "structsm__template.html#a6a38d7fb3d11c347a782c00f1fa766c6", null ],
+    [ "current", "structsm__template.html#a361cefe27e8816f6c28fd256bec995e0", null ],
+    [ "ext_references", "structsm__template.html#a58ae3331760f60289f984dc990f65dc5", null ],
+    [ "inheritance", "structsm__template.html#acd10f72646a691fc16744fa663f0112e", null ],
+    [ "instance_attributes", "structsm__template.html#aefd97ca406b5e3af43c6056fce76c2d1", null ],
+    [ "loader_commands", "structsm__template.html#a833c9bbc1b913dbedf8722eae52d0d6a", null ],
+    [ "method_files", "structsm__template.html#a243e634e93b522fab163de98811f0403", null ],
+    [ "methods", "structsm__template.html#aa7867423ab18b1fa7ffe353b9d79306d", null ],
+    [ "name", "structsm__template.html#a300cde2b8b2703c99369b8f3be6dfe32", null ],
+    [ "op", "structsm__template.html#a7da16487e4b26ceff89f2938143e0f15", null ],
+    [ "partition", "structsm__template.html#adaf7daf5da86868f3f7a546f0b92b446", null ],
+    [ "partition_parent_atts", "structsm__template.html#a4b424f515040095c8f7046d6567bf7d6", null ],
+    [ "properties", "structsm__template.html#ad0aae0e43b707a306b9572f9325a984e", null ],
+    [ "query_spec", "structsm__template.html#aec6e53e178af3c116a757ddd10ba6a63", null ],
+    [ "resolutions", "structsm__template.html#a069d9dead9df145c10df5fe19cfff09f", null ],
+    [ "shared_attributes", "structsm__template.html#a83ccb6f1f5b98deca68aa436b9284d1a", null ],
+    [ "super_id_map", "structsm__template.html#a6599adfe64cb97c4aff4f65faf24925f", null ],
+    [ "tran_index", "structsm__template.html#afd1a4f0dc194c47c432f234267d2a5dd", null ],
+    [ "triggers", "structsm__template.html#a8af49155293f6e5f1573a27b7acb1fdd", null ]
+];

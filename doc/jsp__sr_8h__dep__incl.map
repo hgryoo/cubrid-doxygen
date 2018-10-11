@@ -1,0 +1,8 @@
+<map id="src/jsp/jsp_sr.h" name="src/jsp/jsp_sr.h">
+<area shape="rect" id="node3" href="$db__stub_8c.html" title="src/api/db_stub.c" alt="" coords="5,92,128,121"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8c.html" title="src/communication/network\l_interface_cl.c" alt="" coords="152,83,333,130"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="357,83,539,130"/>
+<area shape="rect" id="node9" href="$server__support_8c.html" title="src/connection/server\l_support.c" alt="" coords="563,83,709,130"/>
+<area shape="rect" id="node11" href="$jsp__sr_8c.html" title="src/jsp/jsp_sr.c" alt="" coords="733,92,843,121"/>
+<area shape="rect" id="node13" href="$boot__sr_8c.html" title="src/transaction/boot_sr.c" alt="" coords="867,92,1032,121"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="src/optimizer/query_bitset.h" name="src/optimizer/query_bitset.h">
+<area shape="rect" id="node3" href="$query__graph_8h.html" title="src/optimizer/query\l_graph.h" alt="" coords="155,102,288,149"/>
+<area shape="rect" id="node5" href="$plan__generation_8c.html" title="src/optimizer/plan\l_generation.c" alt="" coords="5,198,131,245"/>
+<area shape="rect" id="node13" href="$query__planner_8h.html" title="src/optimizer/query\l_planner.h" alt="" coords="312,102,445,149"/>
+<area shape="rect" id="node20" href="$query__bitset_8c.html" title="src/optimizer/query\l_bitset.c" alt="" coords="469,102,603,149"/>
+<area shape="rect" id="node7" href="$query__graph_8c.html" title="src/optimizer/query\l_graph.c" alt="" coords="155,198,288,245"/>
+<area shape="rect" id="node9" href="$query__planner_8c.html" title="src/optimizer/query\l_planner.c" alt="" coords="312,198,445,245"/>
+<area shape="rect" id="node11" href="$xasl__generation_8c.html" title="src/parser/xasl_generation.c" alt="" coords="469,207,656,236"/>
+</map>

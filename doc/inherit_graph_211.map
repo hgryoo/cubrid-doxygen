@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$classCheckThreadHeap.html" title="CheckThreadHeap\&lt; NumHeaps,\l super \&gt;" alt="" coords="109,5,323,51"/>
+<area shape="rect" id="node5" href="$classHL_1_1CoalesceHeap.html" title="HL::CoalesceHeap\&lt; super \&gt;" alt="" coords="121,75,311,104"/>
+<area shape="rect" id="node7" href="$classHL_1_1SelectMmapHeap.html" title="Use Mmap (here the superheap) for objects above a certain size. " alt="" coords="116,128,316,192"/>
+<area shape="rect" id="node9" href="$classHL_1_1Threshold.html" title="HL::Threshold\&lt; Threshold\lBytes, super \&gt;" alt="" coords="129,215,303,262"/>
+<area shape="rect" id="node11" href="$classMarkThreadHeap.html" title="MarkThreadHeap\&lt; NumHeaps,\l super \&gt;" alt="" coords="115,285,317,331"/>
+<area shape="rect" id="node13" href="$classHL_1_1NullHeap.html" title="HL::NullHeap\&lt; super \&gt;" alt="" coords="137,355,295,384"/>
+<area shape="rect" id="node35" href="$classProfileHeap.html" title="ProfileHeap\&lt; super,\l HeapNumber \&gt;" alt="" coords="147,407,285,454"/>
+<area shape="rect" id="node15" href="$classHL_1_1AdaptHeap.html" title="HL::AdaptHeap\&lt; DLList,\l NullHeap\&lt; super \&gt; \&gt;" alt="" coords="383,305,548,351"/>
+<area shape="rect" id="node25" href="$classHL_1_1AdaptHeap.html" title="HL::AdaptHeap\&lt; HL::\lSLList, NullHeap\&lt; super \&gt; \&gt;" alt="" coords="371,389,560,435"/>
+<area shape="rect" id="node17" href="$classHL_1_1SegHeap.html" title="HL::SegHeap\&lt; DLBigHeapNS\l::NUMBINS, DLBigHeapNS\l::getSizeClass, DLBigHeapNS\l::getClassSize, AdaptHeap\&lt;\l DLList, NullHeap\&lt; super \&gt; \&gt;\l, super \&gt;" alt="" coords="620,255,823,371"/>
+<area shape="rect" id="node19" href="$classHL_1_1RequireCoalesceable.html" title="HL::RequireCoalesceable\l\&lt; SegHeap\&lt; DLBigHeapNS\l::NUMBINS, DLBigHeapNS\l::getSizeClass, DLBigHeapNS\l::getClassSize, AdaptHeap\&lt;\l DLList, NullHeap\&lt; super \&gt; \&gt;\l, super \&gt; \&gt;" alt="" coords="895,240,1097,373"/>
+<area shape="rect" id="node21" href="$classHL_1_1CoalesceHeap.html" title="HL::CoalesceHeap\&lt; Require\lCoalesceable\&lt; SegHeap\&lt;\l DLBigHeapNS::NUMBINS, DLBigHeap\lNS::getSizeClass, DLBigHeapNS\l::getClassSize, AdaptHeap\&lt; DLList,\l NullHeap\&lt; super \&gt; \&gt;, super \&gt; \&gt; \&gt;" alt="" coords="1157,249,1416,365"/>
+<area shape="rect" id="node23" href="$classHL_1_1DLBigHeapType.html" title="HL::DLBigHeapType\&lt;\l super \&gt;" alt="" coords="1468,283,1617,330"/>
+<area shape="rect" id="node27" href="$classHL_1_1SegHeap.html" title="HL::SegHeap\&lt; NumBins,\l getSizeClass, getClassMaxSize,\l AdaptHeap\&lt; HL::SLList, NullHeap\l\&lt; super \&gt; \&gt;, super \&gt;" alt="" coords="608,401,835,482"/>
+<area shape="rect" id="node29" href="$classHL_1_1StrictSegHeap.html" title="HL::StrictSegHeap\&lt;\l DLSmallHeapNS::NUMBINS,\l DLSmallHeapNS::getSizeClass,\l DLSmallHeapNS::getClassSize,\l AdaptHeap\&lt; HL::SLList, NullHeap\l\&lt; super \&gt; \&gt;, super \&gt;" alt="" coords="883,397,1109,513"/>
+<area shape="rect" id="node31" href="$classHL_1_1RequireCoalesceable.html" title="HL::RequireCoalesceable\l\&lt; StrictSegHeap\&lt; DLSmallHeap\lNS::NUMBINS, DLSmallHeapNS\l::getSizeClass, DLSmallHeapNS\l::getClassSize, AdaptHeap\&lt; HL\l::SLList, NullHeap\&lt; super \&gt; \&gt;,\l super \&gt; \&gt;" alt="" coords="1177,388,1396,521"/>
+<area shape="rect" id="node33" href="$classHL_1_1DLSmallHeapType.html" title="The &quot;small heap&quot; – non&#45;coalescing &quot;fastbins&quot; (quicklists). " alt="" coords="1464,431,1621,478"/>
+</map>

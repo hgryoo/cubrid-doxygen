@@ -1,0 +1,25 @@
+var memory__alloc_8c =
+[
+    [ "DEFAULT_OBSTACK_CHUNK_SIZE", "memory__alloc_8c.html#ae23d1f0fb70dd2a63e822455b0354b72", null ],
+    [ "ansisql_strcasecmp", "memory__alloc_8c.html#aa84e19aea552b47441e1e3dd5807e0d6", null ],
+    [ "ansisql_strcmp", "memory__alloc_8c.html#aabdffe2554b35bab24243588fbce45b5", null ],
+    [ "db_align_to", "memory__alloc_8c.html#ada9d18ddb57d14cf5b896ed28a2baf2c", null ],
+    [ "db_alignment", "memory__alloc_8c.html#a95781bdc213d84d0930a585cb8e5a09e", null ],
+    [ "db_change_private_heap", "memory__alloc_8c.html#aa635218911c43bb64a347277c0f4bccf", null ],
+    [ "db_clear_private_heap", "memory__alloc_8c.html#a6c2cafbd5f58d25406266bad9c13d9b6", null ],
+    [ "db_create_ostk_heap", "memory__alloc_8c.html#aebee629e55f2375776bbce41d6a3d14c", null ],
+    [ "db_create_private_heap", "memory__alloc_8c.html#ad90bbcacd63904cd0f3195eac6a69c21", null ],
+    [ "db_destroy_ostk_heap", "memory__alloc_8c.html#a31a01ce85ae9d4e4adc56b34fb31ce80", null ],
+    [ "db_destroy_private_heap", "memory__alloc_8c.html#a0022f15db6f4420cdcfdeba7882fa46f", null ],
+    [ "db_ostk_alloc", "memory__alloc_8c.html#a67e78711001d8286e77ef68c94a01963", null ],
+    [ "db_private_alloc_debug", "memory__alloc_8c.html#a4d50846166aa74ad4236a840d9ef9d01", null ],
+    [ "db_private_alloc_external", "memory__alloc_8c.html#a18ef468fd65007892876ac24d21b34f5", null ],
+    [ "db_private_free_debug", "memory__alloc_8c.html#a2e4e8b91f28f28772f69811f3029088d", null ],
+    [ "db_private_free_external", "memory__alloc_8c.html#ac1d3f56cf50bb0416b1c971a01f01814", null ],
+    [ "db_private_realloc_debug", "memory__alloc_8c.html#a377f2d890a557f9ddbe01f8f305f5fcb", null ],
+    [ "db_private_realloc_external", "memory__alloc_8c.html#a90468d1f03d2f4aea23e7bd7b161fc0c", null ],
+    [ "db_private_strdup", "memory__alloc_8c.html#a1fbaa11773275dfdedaa40466255b263", null ],
+    [ "db_replace_private_heap", "memory__alloc_8c.html#aac9a1b1645aef2f1fdc6a78b887137a6", null ],
+    [ "db_on_server", "memory__alloc_8c.html#a1f31c4c7297717da283df59fd3f21a4b", null ],
+    [ "private_heap_id", "memory__alloc_8c.html#ace139414d449ecd123d4a3f8071b8d21", null ]
+];

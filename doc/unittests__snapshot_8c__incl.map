@@ -1,0 +1,29 @@
+<map id="src/executables/unittests_snapshot.c" name="src/executables/unittests_snapshot.c">
+<area shape="rect" id="node3" href="$porting_8h.html" title="porting.h" alt="" coords="2097,565,2169,595"/>
+<area shape="rect" id="node11" href="$log__impl_8h.html" title="log_impl.h" alt="" coords="1593,101,1673,131"/>
+<area shape="rect" id="node13" href="$boot_8h.html" title="boot.h" alt="" coords="1979,411,2037,440"/>
+<area shape="rect" id="node16" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="1437,488,1571,517"/>
+<area shape="rect" id="node52" href="$connection__globals_8h.html" title="connection_globals.h" alt="" coords="820,256,964,285"/>
+<area shape="rect" id="node68" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="267,643,400,672"/>
+<area shape="rect" id="node85" href="$file__io_8h.html" title="file_io.h" alt="" coords="663,411,729,440"/>
+<area shape="rect" id="node105" href="$release__string_8h.html" title="release_string.h" alt="" coords="1973,488,2088,517"/>
+<area shape="rect" id="node112" href="$log__comm_8h.html" title="log_comm.h" alt="" coords="1445,256,1539,285"/>
+<area shape="rect" id="node140" href="$recovery_8h.html" title="recovery.h" alt="" coords="989,179,1072,208"/>
+<area shape="rect" id="node49" href="$es__common_8h.html" title="es_common.h" alt="" coords="1795,488,1899,517"/>
+<area shape="rect" id="node27" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="1624,565,1688,595"/>
+<area shape="rect" id="node36" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="1116,720,1212,749"/>
+<area shape="rect" id="node42" href="$sha1_8h.html" title="sha1.h" alt="" coords="1539,565,1600,595"/>
+<area shape="rect" id="node29" href="$cubrid__api_8h.html" title="cubrid_api.h" alt="" coords="1539,643,1629,672"/>
+<area shape="rect" id="node34" href="$error__code_8h.html" title="error_code.h" alt="" coords="1303,797,1396,827"/>
+<area shape="rect" id="node44" href="$system_8h.html" title="system.h" alt="" coords="1805,643,1880,672"/>
+<area shape="rect" id="node54" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="813,333,941,363"/>
+<area shape="rect" id="node57" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="973,411,1088,440"/>
+<area shape="rect" id="node64" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="855,565,969,595"/>
+<area shape="rect" id="node89" href="$lzoconf_8h.html" title="lzo/lzoconf.h" alt="" coords="627,565,723,595"/>
+<area shape="rect" id="node95" href="$lzo1x_8h.html" title="lzo/lzo1x.h" alt="" coords="637,488,723,517"/>
+<area shape="rect" id="node98" href="$memory__hash_8h.html" title="memory_hash.h" alt="" coords="448,488,563,517"/>
+<area shape="rect" id="node93" href="$lzodefs_8h.html" title="lzodefs.h" alt="" coords="600,643,675,672"/>
+<area shape="rect" id="node117" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="1472,333,1629,363"/>
+<area shape="rect" id="node130" href="$oid_8h.html" title="oid.h" alt="" coords="1347,411,1397,440"/>
+<area shape="rect" id="node134" href="$byte__order_8h.html" title="byte_order.h" alt="" coords="1811,411,1904,440"/>
+</map>

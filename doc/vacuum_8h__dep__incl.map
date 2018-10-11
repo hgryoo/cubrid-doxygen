@@ -1,0 +1,33 @@
+<map id="src/query/vacuum.h" name="src/query/vacuum.h">
+<area shape="rect" id="node3" href="$network__interface__cl_8c.html" title="src/communication/network\l_interface_cl.c" alt="" coords="5,83,187,130"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="3096,275,3277,322"/>
+<area shape="rect" id="node7" href="$server__support_8c.html" title="src/connection/server\l_support.c" alt="" coords="1051,83,1197,130"/>
+<area shape="rect" id="node9" href="$vacuum_8c.html" title="src/query/vacuum.c" alt="" coords="169,284,305,313"/>
+<area shape="rect" id="node11" href="$slotted__page_8h.html" title="src/storage/slotted\l_page.h" alt="" coords="1221,83,1352,130"/>
+<area shape="rect" id="node53" href="$mvcc_8c.html" title="src/transaction/mvcc.c" alt="" coords="1016,284,1171,313"/>
+<area shape="rect" id="node70" href="$disk__manager_8c.html" title="src/storage/disk_manager.c" alt="" coords="1903,92,2084,121"/>
+<area shape="rect" id="node72" href="$file__manager_8c.html" title="src/storage/file_manager.c" alt="" coords="2108,92,2284,121"/>
+<area shape="rect" id="node74" href="$log__page__buffer_8c.html" title="src/transaction/log\l_page_buffer.c" alt="" coords="2308,83,2436,130"/>
+<area shape="rect" id="node13" href="$serial_8c.html" title="src/query/serial.c" alt="" coords="1061,188,1184,217"/>
+<area shape="rect" id="node15" href="$show__scan_8c.html" title="src/query/show_scan.c" alt="" coords="1208,188,1365,217"/>
+<area shape="rect" id="node17" href="$btree__load_8h.html" title="src/storage/btree_load.h" alt="" coords="1737,188,1900,217"/>
+<area shape="rect" id="node26" href="$btree_8c.html" title="src/storage/btree.c" alt="" coords="1392,284,1523,313"/>
+<area shape="rect" id="node32" href="$system__catalog_8c.html" title="src/storage/system\l_catalog.c" alt="" coords="2736,275,2869,322"/>
+<area shape="rect" id="node34" href="$locator__sr_8c.html" title="src/transaction/locator_sr.c" alt="" coords="2893,284,3072,313"/>
+<area shape="rect" id="node41" href="$overflow__file_8h.html" title="src/storage/overflow\l_file.h" alt="" coords="1389,179,1528,226"/>
+<area shape="rect" id="node45" href="$extendible__hash_8c.html" title="src/storage/extendible\l_hash.c" alt="" coords="681,275,831,322"/>
+<area shape="rect" id="node47" href="$external__sort_8c.html" title="src/storage/external\l_sort.c" alt="" coords="856,275,992,322"/>
+<area shape="rect" id="node49" href="$heap__file_8c.html" title="src/storage/heap_file.c" alt="" coords="336,284,491,313"/>
+<area shape="rect" id="node51" href="$overflow__file_8c.html" title="src/storage/overflow\l_file.c" alt="" coords="517,275,656,322"/>
+<area shape="rect" id="node60" href="$slotted__page_8c.html" title="src/storage/slotted\l_page.c" alt="" coords="413,179,544,226"/>
+<area shape="rect" id="node63" href="$boot__sr_8c.html" title="src/transaction/boot_sr.c" alt="" coords="568,188,733,217"/>
+<area shape="rect" id="node66" href="$log__manager_8c.html" title="src/transaction/log\l_manager.c" alt="" coords="757,179,885,226"/>
+<area shape="rect" id="node68" href="$log__recovery_8c.html" title="src/transaction/log\l_recovery.c" alt="" coords="909,179,1037,226"/>
+<area shape="rect" id="node19" href="$object__representation__sr_8c.html" title="src/base/object_representation_sr.c" alt="" coords="2483,284,2712,313"/>
+<area shape="rect" id="node22" href="$query__executor_8c.html" title="src/query/query_executor.c" alt="" coords="2080,284,2259,313"/>
+<area shape="rect" id="node24" href="$scan__manager_8c.html" title="src/query/scan_manager.c" alt="" coords="2283,284,2459,313"/>
+<area shape="rect" id="node28" href="$btree__load_8c.html" title="src/storage/btree_load.c" alt="" coords="1547,284,1709,313"/>
+<area shape="rect" id="node30" href="$page__buffer_8c.html" title="src/storage/page_buffer.c" alt="" coords="1733,284,1904,313"/>
+<area shape="rect" id="node36" href="$log__tran__table_8c.html" title="src/transaction/log\l_tran_table.c" alt="" coords="1928,275,2056,322"/>
+<area shape="rect" id="node38" href="$recovery_8c.html" title="src/transaction/recovery.c" alt="" coords="1195,284,1368,313"/>
+</map>

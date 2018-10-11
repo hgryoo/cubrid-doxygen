@@ -1,0 +1,7 @@
+<map id="la_act_log" name="la_act_log">
+<area shape="rect" id="node2" href="$structlog__page.html" title="log_page" alt="" coords="36,240,111,269"/>
+<area shape="rect" id="node4" href="$structlog__hdrpage.html" title="log_hdrpage" alt="" coords="5,5,96,35"/>
+<area shape="rect" id="node6" href="$structlog__header.html" title="log_header" alt="" coords="157,240,243,269"/>
+<area shape="rect" id="node8" href="$structlog__hdr__bkup__level__info.html" title="log_hdr_bkup_level_info" alt="" coords="120,5,280,35"/>
+<area shape="rect" id="node10" href="$structlog__lsa.html" title="log_lsa" alt="" coords="304,5,365,35"/>
+</map>

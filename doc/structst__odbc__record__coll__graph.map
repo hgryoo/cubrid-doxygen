@@ -1,0 +1,14 @@
+<map id="st_odbc_record" name="st_odbc_record">
+<area shape="rect" id="node2" href="$structst__odbc__desc.html" title="st_odbc_desc" alt="" coords="24,197,125,227"/>
+<area shape="rect" id="node11" href="$structst__odbc__statement.html" title="st_odbc_statement" alt="" coords="377,499,511,528"/>
+<area shape="rect" id="node29" href="$structst__odbc__connection.html" title="st_odbc_connection" alt="" coords="207,348,345,377"/>
+<area shape="rect" id="node4" href="$structst__diag.html" title="st_diag" alt="" coords="220,101,284,131"/>
+<area shape="rect" id="node32" href="$structst__odbc__env.html" title="st_odbc_env" alt="" coords="280,197,376,227"/>
+<area shape="rect" id="node6" href="$structst__diag__record.html" title="st_diag_record" alt="" coords="199,5,305,35"/>
+<area shape="rect" id="node13" href="$structtagCATALOG__RESULT.html" title="tagCATALOG_RESULT" alt="" coords="481,348,644,377"/>
+<area shape="rect" id="node15" href="$structtagST__LIST.html" title="tagST_LIST" alt="" coords="517,197,608,227"/>
+<area shape="rect" id="node19" href="$structtagCOLUMN__DATA.html" title="tagCOLUMN_DATA" alt="" coords="668,348,809,377"/>
+<area shape="rect" id="node21" href="$structtagPARAM__DATA.html" title="tagPARAM_DATA" alt="" coords="833,348,964,377"/>
+<area shape="rect" id="node23" href="$struct____st__dynamic__string.html" title="__st_dynamic_string" alt="" coords="828,197,969,227"/>
+<area shape="rect" id="node27" href="$structtagREVISED__SQL.html" title="tagREVISED_SQL" alt="" coords="988,348,1121,377"/>
+</map>

@@ -1,0 +1,37 @@
+var numeric__opfunc_8h =
+[
+    [ "db_locate_numeric", "numeric__opfunc_8h.html#a460993954763676e4b8d679aa7468210", null ],
+    [ "MILLISECONDS_OF_ONE_DAY", "numeric__opfunc_8h.html#aee346ed231ed8926acb4f005109a2995", null ],
+    [ "NUMERIC_MAX_STRING_SIZE", "numeric__opfunc_8h.html#a0371c4c1e8ed9dc62cd6844b28c7c2ee", null ],
+    [ "SECONDS_OF_ONE_DAY", "numeric__opfunc_8h.html#a8d2e4c65390110b1f8cac7f4abcaa6bc", null ],
+    [ "DB_DATA_STATUS", "numeric__opfunc_8h.html#a5ce6f9a7806bc40bd5dbdb702bf8c8c7", [
+      [ "DATA_STATUS_OK", "numeric__opfunc_8h.html#a5ce6f9a7806bc40bd5dbdb702bf8c8c7ae51b0c43b61e01b431dc0619dc0ac317", null ],
+      [ "DATA_STATUS_TRUNCATED", "numeric__opfunc_8h.html#a5ce6f9a7806bc40bd5dbdb702bf8c8c7a1f0846dc9d3c9ecfebb9048c66b8c673", null ],
+      [ "DATA_STATUS_NOT_CONSUMED", "numeric__opfunc_8h.html#a5ce6f9a7806bc40bd5dbdb702bf8c8c7a2efc9607f003d4d6670a74a6d70d2c2d", null ]
+    ] ],
+    [ "numeric_coerce_bigint_to_num", "numeric__opfunc_8h.html#ad1ca383bc472339cb59fc1dec4ade197", null ],
+    [ "numeric_coerce_dec_str_to_num", "numeric__opfunc_8h.html#a0c8b7a20a9a7b79d2c7a94052ca159ab", null ],
+    [ "numeric_coerce_int_to_num", "numeric__opfunc_8h.html#a05cf493087f6da3156963572664fa3b9", null ],
+    [ "numeric_coerce_num_to_bigint", "numeric__opfunc_8h.html#a047b26a933d0a5a7c76cf8284ccc202b", null ],
+    [ "numeric_coerce_num_to_dec_str", "numeric__opfunc_8h.html#a810833c3e87b7ebc839d0b061802a78c", null ],
+    [ "numeric_coerce_num_to_double", "numeric__opfunc_8h.html#ad6b0d1e7bb734b5b1b5f09dcf1865d60", null ],
+    [ "numeric_coerce_num_to_int", "numeric__opfunc_8h.html#af9770297d32c354b8fe14c1c89e949e5", null ],
+    [ "numeric_coerce_num_to_num", "numeric__opfunc_8h.html#ae91a2b4fb055032ad2b0dac7c97f4e42", null ],
+    [ "numeric_coerce_string_to_num", "numeric__opfunc_8h.html#ab7a6d3739268b1c73c57aff990c9ad53", null ],
+    [ "numeric_db_value_abs", "numeric__opfunc_8h.html#a3557bf425624a1272d3234c92f1577c1", null ],
+    [ "numeric_db_value_add", "numeric__opfunc_8h.html#ae274b14fc2a3f23b786f8bb4a7478b3d", null ],
+    [ "numeric_db_value_coerce_from_num", "numeric__opfunc_8h.html#a2934147eb85e158f40bb51be6d46cad1", null ],
+    [ "numeric_db_value_coerce_from_num_strict", "numeric__opfunc_8h.html#af43f488f1fb95c537501c690b0133562", null ],
+    [ "numeric_db_value_coerce_to_num", "numeric__opfunc_8h.html#ae53355e5ddddd426d6e4f17a95f2ffa3", null ],
+    [ "numeric_db_value_compare", "numeric__opfunc_8h.html#ab4939bc1578f93b521634360e50eb80a", null ],
+    [ "numeric_db_value_div", "numeric__opfunc_8h.html#adc92df2237df745a925b2bffdc1f2738", null ],
+    [ "numeric_db_value_increase", "numeric__opfunc_8h.html#aeb96ad9df330193b5bc7b8044ecb10c4", null ],
+    [ "numeric_db_value_is_positive", "numeric__opfunc_8h.html#aab6fa5ee82869bdf0933a268191250ed", null ],
+    [ "numeric_db_value_is_zero", "numeric__opfunc_8h.html#adb233ee9f2a46720fec3fc732bbd1a16", null ],
+    [ "numeric_db_value_mul", "numeric__opfunc_8h.html#a5eb4b5e220a63e02c5d40437aebd875a", null ],
+    [ "numeric_db_value_negate", "numeric__opfunc_8h.html#aff3a54414996451dbd6a8d87d9f8336e", null ],
+    [ "numeric_db_value_print", "numeric__opfunc_8h.html#ac7699555a0850613ed829d1d378029ab", null ],
+    [ "numeric_db_value_sub", "numeric__opfunc_8h.html#a2432eab90a30717411deb3684ec6ba92", null ],
+    [ "numeric_internal_double_to_num", "numeric__opfunc_8h.html#a72476e74a3054daa0fef909b8bdc1e67", null ],
+    [ "numeric_internal_float_to_num", "numeric__opfunc_8h.html#aa4ca8052836c8670e6f027a2bc74c24b", null ]
+];

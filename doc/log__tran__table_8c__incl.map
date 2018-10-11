@@ -1,0 +1,37 @@
+<map id="src/transaction/log_tran_table.c" name="src/transaction/log_tran_table.c">
+<area shape="rect" id="node27" href="$log__impl_8h.html" title="log_impl.h" alt="" coords="1095,411,1175,440"/>
+<area shape="rect" id="node71" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="3313,643,3428,672"/>
+<area shape="rect" id="node87" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="3097,565,3239,595"/>
+<area shape="rect" id="node94" href="$xserver__interface_8h.html" title="xserver_interface.h" alt="" coords="1809,101,1943,131"/>
+<area shape="rect" id="node112" href="$query__manager_8h.html" title="query_manager.h" alt="" coords="2764,179,2887,208"/>
+<area shape="rect" id="node115" href="$file__manager_8h.html" title="file_manager.h" alt="" coords="2413,256,2520,285"/>
+<area shape="rect" id="node173" href="$partition__sr_8h.html" title="partition_sr.h" alt="" coords="3208,179,3304,208"/>
+<area shape="rect" id="node176" href="$btree__load_8h.html" title="btree_load.h" alt="" coords="2865,488,2959,517"/>
+<area shape="rect" id="node183" href="$serial_8h.html" title="serial.h" alt="" coords="3203,488,3267,517"/>
+<area shape="rect" id="node188" href="$show__scan_8h.html" title="show_scan.h" alt="" coords="3703,488,3801,517"/>
+<area shape="rect" id="node192" href="$boot__sr_8h.html" title="boot_sr.h" alt="" coords="1403,333,1477,363"/>
+<area shape="rect" id="node203" href="$db__date_8h.html" title="db_date.h" alt="" coords="157,256,235,285"/>
+<area shape="rect" id="node206" href="$dbtype_8h.html" title="dbtype.h" alt="" coords="3876,488,3948,517"/>
+<area shape="rect" id="node212" href="$thread__entry_8hpp.html" title="thread_entry.hpp" alt="" coords="425,179,543,208"/>
+<area shape="rect" id="node215" href="$thread__manager_8hpp.html" title="thread_manager.hpp" alt="" coords="476,101,615,131"/>
+<area shape="rect" id="node29" href="$boot_8h.html" title="boot.h" alt="" coords="831,488,889,517"/>
+<area shape="rect" id="node31" href="$porting_8h.html" title="porting.h" alt="" coords="1137,720,1209,749"/>
+<area shape="rect" id="node34" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="1799,643,1932,672"/>
+<area shape="rect" id="node47" href="$connection__globals_8h.html" title="connection_globals.h" alt="" coords="1015,488,1159,517"/>
+<area shape="rect" id="node49" href="$file__io_8h.html" title="file_io.h" alt="" coords="740,488,807,517"/>
+<area shape="rect" id="node54" href="$release__string_8h.html" title="release_string.h" alt="" coords="740,565,855,595"/>
+<area shape="rect" id="node58" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="2484,565,2617,595"/>
+<area shape="rect" id="node62" href="$log__comm_8h.html" title="log_comm.h" alt="" coords="1633,565,1727,595"/>
+<area shape="rect" id="node69" href="$recovery_8h.html" title="recovery.h" alt="" coords="2207,488,2289,517"/>
+<area shape="rect" id="node42" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="3404,720,3500,749"/>
+<area shape="rect" id="node44" href="$error__code_8h.html" title="error_code.h" alt="" coords="3320,797,3413,827"/>
+<area shape="rect" id="node100" href="$locator_8h.html" title="locator.h" alt="" coords="2516,488,2588,517"/>
+<area shape="rect" id="node109" href="$query__list_8h.html" title="query_list.h" alt="" coords="1751,256,1839,285"/>
+<area shape="rect" id="node144" href="$perf__monitor_8h.html" title="perf_monitor.h" alt="" coords="1420,488,1524,517"/>
+<area shape="rect" id="node163" href="$replication_8h.html" title="replication.h" alt="" coords="3081,488,3172,517"/>
+<area shape="rect" id="node102" href="$oid_8h.html" title="oid.h" alt="" coords="2409,565,2460,595"/>
+<area shape="rect" id="node151" href="$list__file_8h.html" title="list_file.h" alt="" coords="2983,488,3057,517"/>
+<area shape="rect" id="node119" href="$disk__manager_8h.html" title="disk_manager.h" alt="" coords="2257,411,2372,440"/>
+<area shape="rect" id="node125" href="$log__manager_8h.html" title="log_manager.h" alt="" coords="2116,333,2223,363"/>
+<area shape="rect" id="node138" href="$page__buffer_8h.html" title="page_buffer.h" alt="" coords="2367,333,2468,363"/>
+</map>

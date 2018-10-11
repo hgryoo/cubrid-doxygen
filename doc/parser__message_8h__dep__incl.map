@@ -1,0 +1,20 @@
+<map id="src/parser/parser_message.h" name="src/parser/parser_message.h">
+<area shape="rect" id="node3" href="$db__vdb_8c.html" title="src/compat/db_vdb.c" alt="" coords="5,92,149,121"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html" title="src/optimizer/query\l_planner.c" alt="" coords="173,83,307,130"/>
+<area shape="rect" id="node7" href="$query__rewrite_8c.html" title="src/optimizer/query\l_rewrite.c" alt="" coords="331,83,464,130"/>
+<area shape="rect" id="node9" href="$compile_8c.html" title="src/parser/compile.c" alt="" coords="488,92,627,121"/>
+<area shape="rect" id="node11" href="$method__transform_8c.html" title="src/parser/method_transform.c" alt="" coords="651,92,851,121"/>
+<area shape="rect" id="node13" href="$name__resolution_8c.html" title="src/parser/name_resolution.c" alt="" coords="875,92,1064,121"/>
+<area shape="rect" id="node15" href="$parse__dbi_8c.html" title="src/parser/parse_dbi.c" alt="" coords="1088,92,1237,121"/>
+<area shape="rect" id="node17" href="$parse__evaluate_8c.html" title="src/parser/parse_evaluate.c" alt="" coords="1261,92,1443,121"/>
+<area shape="rect" id="node19" href="$parse__tree__cl_8c.html" title="src/parser/parse_tree_cl.c" alt="" coords="1467,92,1640,121"/>
+<area shape="rect" id="node21" href="$parser__support_8c.html" title="src/parser/parser_support.c" alt="" coords="1664,92,1845,121"/>
+<area shape="rect" id="node23" href="$query__result_8c.html" title="src/parser/query_result.c" alt="" coords="1869,92,2035,121"/>
+<area shape="rect" id="node25" href="$scanner__support_8c.html" title="src/parser/scanner\l_support.c" alt="" coords="2059,83,2189,130"/>
+<area shape="rect" id="node27" href="$semantic__check_8c.html" title="src/parser/semantic\l_check.c" alt="" coords="2213,83,2349,130"/>
+<area shape="rect" id="node29" href="$type__checking_8c.html" title="src/parser/type_checking.c" alt="" coords="2373,92,2552,121"/>
+<area shape="rect" id="node31" href="$view__transform_8c.html" title="src/parser/view_transform.c" alt="" coords="2576,92,2760,121"/>
+<area shape="rect" id="node33" href="$xasl__generation_8c.html" title="src/parser/xasl_generation.c" alt="" coords="2784,92,2971,121"/>
+<area shape="rect" id="node35" href="$execute__schema_8c.html" title="src/query/execute_schema.c" alt="" coords="2995,92,3184,121"/>
+<area shape="rect" id="node37" href="$execute__statement_8c.html" title="src/query/execute_statement.c" alt="" coords="3208,92,3411,121"/>
+</map>

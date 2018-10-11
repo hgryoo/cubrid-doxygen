@@ -1,0 +1,27 @@
+var structt__as__info =
+[
+    [ "as_port", "structt__as__info.html#ac895541e4c13d7a7f90b1d85fcdd6d12", null ],
+    [ "clt_appl_name", "structt__as__info.html#addbd15f3d1e7ee54e8f75e0261b7c34d", null ],
+    [ "clt_ip_addr", "structt__as__info.html#a584f8d530cdbaf0f5595ef00c353320f", null ],
+    [ "cpu_time", "structt__as__info.html#a4ad9255a2b1560343245dd58ef5b134c", null ],
+    [ "database_host", "structt__as__info.html#a6d4899a7a57f67b6678a051ff3543558", null ],
+    [ "database_name", "structt__as__info.html#ad6b8a87989f32e1db81996bf09946bd9", null ],
+    [ "last_access_time", "structt__as__info.html#a8fc8b66885f15e4dfcdae3dff7bbef80", null ],
+    [ "last_connect_time", "structt__as__info.html#aa07eb4609de43f037516c0c3f3a54800", null ],
+    [ "log_msg", "structt__as__info.html#a582b5519fa5cffb447424908a7bd4a1a", null ],
+    [ "num_error_queries", "structt__as__info.html#ac2f8971696446e9134023fc20b3edfce", null ],
+    [ "num_interrupts", "structt__as__info.html#a4598931410144f246f3544f69bc633ad", null ],
+    [ "num_long_queries", "structt__as__info.html#a0d7f6f5399a5e962ef17cb4e4a845dfb", null ],
+    [ "num_long_transactions", "structt__as__info.html#ace8a0c606427c256f6830ce9988e28e5", null ],
+    [ "num_queries_processed", "structt__as__info.html#a50b9900a3044b60972ec94b3f2e3002e", null ],
+    [ "num_request", "structt__as__info.html#a9e69f37bd40fcc6edfd9cc1c85c99b34", null ],
+    [ "num_requests_received", "structt__as__info.html#a32790b717be93357d03a4741a0b87a7b", null ],
+    [ "num_thr", "structt__as__info.html#acdd982eb7d1b21f4b6795eb34778f331", null ],
+    [ "num_transactions_processed", "structt__as__info.html#a029a815ae61a867ab83002114e07a705", null ],
+    [ "pcpu", "structt__as__info.html#a281d8651e9319bc7a1117c4d27a97170", null ],
+    [ "pid", "structt__as__info.html#a4ab11efcf861254693580cd669e45713", null ],
+    [ "psize", "structt__as__info.html#ad1202a6f1f7363ea6a71923fad94d4c5", null ],
+    [ "request_file", "structt__as__info.html#a6ee819664b2d05789e8a704daddfe516", null ],
+    [ "service_flag", "structt__as__info.html#a50657121f1ccab7733a1fe8e7a9f2f2c", null ],
+    [ "status", "structt__as__info.html#aea8dfc1c16ed7bc7a42571f8377d4fb4", null ]
+];

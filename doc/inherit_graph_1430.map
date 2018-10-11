@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$classScalableHeapNS_1_1GlobalHeapWrapper.html" title="ScalableHeapNS::GlobalHeap\lWrapper\&lt; NumHeaps, BaseHeap \&gt;" alt="" coords="137,31,367,78"/>
+<area shape="rect" id="node5" href="$classMarkThreadHeap.html" title="MarkThreadHeap\&lt; NumHeaps,\l GlobalHeapWrapper\&lt; NumHeaps,\l BaseHeap \&gt; \&gt;" alt="" coords="417,23,641,87"/>
+<area shape="rect" id="node7" href="$classScalableHeapNS_1_1TryHeap.html" title="ScalableHeapNS::TryHeap\l\&lt; MmapThreshold, MarkThreadHeap\l\&lt; NumHeaps, BaseNullHeap \&gt;,\l MarkThreadHeap\&lt; NumHeaps, GlobalHeapWrapper\l\&lt; NumHeaps, BaseHeap \&gt; \&gt; \&gt;" alt="" coords="692,5,1020,104"/>
+<area shape="rect" id="node9" href="$classScalableHeapNS_1_1SmallHeap.html" title="ScalableHeapNS::SmallHeap\l\&lt; NumHeaps, MmapThreshold,\l BaseNullHeap, BaseHeap \&gt;" alt="" coords="1069,23,1275,87"/>
+</map>

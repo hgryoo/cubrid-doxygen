@@ -1,0 +1,15 @@
+<map id="src/base/object_factory.hpp" name="src/base/object_factory.hpp">
+<area shape="rect" id="node3" href="$stream__entry_8hpp.html" title="src/base/stream_entry.hpp" alt="" coords="479,92,655,121"/>
+<area shape="rect" id="node26" href="$test__object__factory_8hpp.html" title="unit_tests/object_factory\l/test_object_factory.hpp" alt="" coords="745,83,911,130"/>
+<area shape="rect" id="node5" href="$replication__stream__entry_8hpp.html" title="src/replication/replication\l_stream_entry.hpp" alt="" coords="231,179,396,226"/>
+<area shape="rect" id="node16" href="$replication__stream__entry_8cpp.html" title="src/replication/replication\l_stream_entry.cpp" alt="" coords="400,275,565,322"/>
+<area shape="rect" id="node20" href="$test__stream_8hpp.html" title="unit_tests/stream/test\l_stream.hpp" alt="" coords="572,179,721,226"/>
+<area shape="rect" id="node7" href="$log__consumer_8cpp.html" title="src/replication/log\l_consumer.cpp" alt="" coords="5,275,128,322"/>
+<area shape="rect" id="node9" href="$log__generator_8hpp.html" title="src/replication/log\l_generator.hpp" alt="" coords="203,275,325,322"/>
+<area shape="rect" id="node11" href="$log__generator_8cpp.html" title="src/replication/log\l_generator.cpp" alt="" coords="112,371,235,418"/>
+<area shape="rect" id="node13" href="$test__log__generator_8cpp.html" title="unit_tests/replication\l/test_log_generator.cpp" alt="" coords="275,371,432,418"/>
+<area shape="rect" id="node22" href="$stream_2test__main_8cpp.html" title="unit_tests/stream/test\l_main.cpp" alt="" coords="589,275,739,322"/>
+<area shape="rect" id="node24" href="$test__stream_8cpp.html" title="unit_tests/stream/test\l_stream.cpp" alt="" coords="763,275,912,322"/>
+<area shape="rect" id="node28" href="$object__factory_2test__main_8cpp.html" title="unit_tests/object_factory\l/test_main.cpp" alt="" coords="745,179,911,226"/>
+<area shape="rect" id="node30" href="$test__object__factory_8cpp.html" title="unit_tests/object_factory\l/test_object_factory.cpp" alt="" coords="935,179,1100,226"/>
+</map>

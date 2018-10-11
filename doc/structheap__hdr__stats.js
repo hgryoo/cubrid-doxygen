@@ -1,0 +1,25 @@
+var structheap__hdr__stats =
+[
+    [ "best", "structheap__hdr__stats.html#a42c878179cc339f52e1360b51f649667", null ],
+    [ "class_oid", "structheap__hdr__stats.html#a6fa8c740000b0db64ec1cdd0a29528d7", null ],
+    [ "estimates", "structheap__hdr__stats.html#ae8216770e1f28fcbd0479cebd13975f0", null ],
+    [ "full_search_vpid", "structheap__hdr__stats.html#a599b154dae90b0499cc9251e80bdc4d3", null ],
+    [ "head", "structheap__hdr__stats.html#a2b6c6da3cf3a140d0e5dbc452a2d1d35", null ],
+    [ "head_second_best", "structheap__hdr__stats.html#af7c5d720ea5d4eedbddb2cccdb5394ef", null ],
+    [ "last_vpid", "structheap__hdr__stats.html#a6b83250a1379b398744aef99f2f9b196", null ],
+    [ "next_vpid", "structheap__hdr__stats.html#a70092dea80aebe39096cefa9b6bc8338", null ],
+    [ "num_high_best", "structheap__hdr__stats.html#a2e1a49132e637b69ad6a582ecc5a1ea1", null ],
+    [ "num_other_high_best", "structheap__hdr__stats.html#a6f33f774ac8bd3d968eea4041e964ac2", null ],
+    [ "num_pages", "structheap__hdr__stats.html#a1932c792fc25ea7101560485a30710e0", null ],
+    [ "num_recs", "structheap__hdr__stats.html#a21e81deda009e68f7b8c0682c4c53285", null ],
+    [ "num_second_best", "structheap__hdr__stats.html#a36c7a309edfa60628d61e7b2226e9f7e", null ],
+    [ "num_substitutions", "structheap__hdr__stats.html#a28d011ffaa0a25106934ec8e799247ba", null ],
+    [ "ovf_vfid", "structheap__hdr__stats.html#a4954f5a648957ba4bb0730f980f2bd20", null ],
+    [ "recs_sumlen", "structheap__hdr__stats.html#a2b3ed055911ffe712ab359ab8c4cb42c", null ],
+    [ "reserve0_for_future", "structheap__hdr__stats.html#a6371b9d6f6134ade0ec5def22923538f", null ],
+    [ "reserve1_for_future", "structheap__hdr__stats.html#a3201fbd151e10a7f21fd83fd00850670", null ],
+    [ "reserve2_for_future", "structheap__hdr__stats.html#afdae5d8580f52b21362b9b3bb916a653", null ],
+    [ "second_best", "structheap__hdr__stats.html#a27cd6d768c4fd30b1a9860c6a7e73d2a", null ],
+    [ "tail_second_best", "structheap__hdr__stats.html#af992724230289dd83198e095573c4a77", null ],
+    [ "unfill_space", "structheap__hdr__stats.html#a1d713c96b5a59053aa2720d02e0475ac", null ]
+];

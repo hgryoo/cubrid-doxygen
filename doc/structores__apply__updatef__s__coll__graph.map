@@ -1,0 +1,13 @@
+<map id="ores_apply_updatef_s" name="ores_apply_updatef_s">
+<area shape="rect" id="node2" href="$structapi__val__cci__bind__s.html" title="api_val_cci_bind_s" alt="" coords="524,59,655,88"/>
+<area shape="rect" id="node4" href="$structT__CCI__DATE.html" title="T_CCI_DATE" alt="" coords="243,5,347,35"/>
+<area shape="rect" id="node6" href="$structT__CCI__BIT.html" title="T_CCI_BIT" alt="" coords="251,59,339,88"/>
+<area shape="rect" id="node8" href="$structresultset__impl__s.html" title="resultset_impl_s" alt="" coords="531,209,648,239"/>
+<area shape="rect" id="node10" href="$structresultset__meta__impl__s.html" title="resultset_meta_impl_s" alt="" coords="743,199,895,228"/>
+<area shape="rect" id="node13" href="$structT__CCI__ERROR.html" title="T_CCI_ERROR" alt="" coords="236,112,353,141"/>
+<area shape="rect" id="node15" href="$structvalue__indexer__s.html" title="value_indexer_s" alt="" coords="237,165,352,195"/>
+<area shape="rect" id="node17" href="$structvalue__indexer__ifs__s.html" title="value_indexer_ifs_s" alt="" coords="7,165,143,195"/>
+<area shape="rect" id="node19" href="$structT__CCI__COL__INFO.html" title="T_CCI_COL_INFO" alt="" coords="228,219,361,248"/>
+<area shape="rect" id="node21" href="$structcommon__api__structure__s.html" title="common_api_structure_s" alt="" coords="211,272,379,301"/>
+<area shape="rect" id="node23" href="$structbh__interface__s.html" title="bh_interface_s" alt="" coords="241,325,348,355"/>
+</map>

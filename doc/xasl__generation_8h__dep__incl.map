@@ -1,0 +1,15 @@
+<map id="src/parser/xasl_generation.h" name="src/parser/xasl_generation.h">
+<area shape="rect" id="node3" href="$db__query_8c.html" title="src/compat/db_query.c" alt="" coords="5,92,160,121"/>
+<area shape="rect" id="node5" href="$plan__generation_8c.html" title="src/optimizer/plan\l_generation.c" alt="" coords="184,83,309,130"/>
+<area shape="rect" id="node7" href="$query__graph_8c.html" title="src/optimizer/query\l_graph.c" alt="" coords="333,83,467,130"/>
+<area shape="rect" id="node9" href="$query__planner_8c.html" title="src/optimizer/query\l_planner.c" alt="" coords="491,83,624,130"/>
+<area shape="rect" id="node11" href="$query__rewrite_8c.html" title="src/optimizer/query\l_rewrite.c" alt="" coords="648,83,781,130"/>
+<area shape="rect" id="node13" href="$parse__dbi_8c.html" title="src/parser/parse_dbi.c" alt="" coords="805,92,955,121"/>
+<area shape="rect" id="node15" href="$parser__support_8c.html" title="src/parser/parser_support.c" alt="" coords="979,92,1160,121"/>
+<area shape="rect" id="node17" href="$query__result_8c.html" title="src/parser/query_result.c" alt="" coords="1184,92,1349,121"/>
+<area shape="rect" id="node19" href="$semantic__check_8c.html" title="src/parser/semantic\l_check.c" alt="" coords="1373,83,1509,130"/>
+<area shape="rect" id="node21" href="$type__checking_8c.html" title="src/parser/type_checking.c" alt="" coords="1533,92,1712,121"/>
+<area shape="rect" id="node23" href="$xasl__generation_8c.html" title="src/parser/xasl_generation.c" alt="" coords="1736,92,1923,121"/>
+<area shape="rect" id="node25" href="$execute__schema_8c.html" title="src/query/execute_schema.c" alt="" coords="1947,92,2136,121"/>
+<area shape="rect" id="node27" href="$execute__statement_8c.html" title="src/query/execute_statement.c" alt="" coords="2160,92,2363,121"/>
+</map>

@@ -1,0 +1,26 @@
+var lea__heap_8c =
+[
+    [ "mmap_trace_h_s", "structmmap__trace__h__s.html", "structmmap__trace__h__s" ],
+    [ "hl_mspace_s", "structhl__mspace__s.html", "structhl__mspace__s" ],
+    [ "DEFAULT_GRANULARITY", "lea__heap_8c.html#a0919191b14359403f853f75c6fcb5879", null ],
+    [ "ENABLE_SEPARATE_MMAP_EVENT_TRACE", "lea__heap_8c.html#a4d3e609c64b8be88f3d3b30e80a95db7", null ],
+    [ "LEA_HEAP_BASE_SIZE", "lea__heap_8c.html#a05b3b7566247436c61035a21b3740a0d", null ],
+    [ "MMAP_TRACE_H_ADD", "lea__heap_8c.html#a39cdb337c29d8b6a2550bff100a2e697", null ],
+    [ "MMAP_TRACE_H_INIT", "lea__heap_8c.html#a08356a522ad9898bf22e266097e39d94", null ],
+    [ "MMAP_TRACE_H_REMOVE", "lea__heap_8c.html#a1b223477184d419f3f47dd80d397b652", null ],
+    [ "MMAP_TRACE_H_SIZE", "lea__heap_8c.html#ac2a1281897aee36b8b0f5b1e2286ba16", null ],
+    [ "MOCK_LEA_HEAP_ID", "lea__heap_8c.html#ae1ad8d2dc9cca75f1ce36823e0a64aee", null ],
+    [ "mspace2hlmspace", "lea__heap_8c.html#a3e54e490a1a58e5986c37fb0ac8a192b", null ],
+    [ "ONLY_MSPACES", "lea__heap_8c.html#aeb595638a14befbd356f77f8ec2a5c0d", null ],
+    [ "system_free", "lea__heap_8c.html#a5a1d0917e38e521232080a8d0c15b651", null ],
+    [ "system_malloc", "lea__heap_8c.html#ad9acde407dffd0408e0279568048c43d", null ],
+    [ "USE_MALLOC_INSTEAD", "lea__heap_8c.html#ae3cf3c56cdc76069b413a92ddea9d7a2", null ],
+    [ "HL_MSPACE", "lea__heap_8c.html#a0ddfd85018b94411cfd9430e3b0bf0aa", null ],
+    [ "MMAP_TRACE_H", "lea__heap_8c.html#a881d194d2b362cc15ea8bf5f4efef5c9", null ],
+    [ "hl_clear_lea_heap", "lea__heap_8c.html#a5c08bd182f5648c6ec49cc561b30fb8d", null ],
+    [ "hl_lea_alloc", "lea__heap_8c.html#ad9f2177cce8c3c13b80042f0eaf2b50b", null ],
+    [ "hl_lea_free", "lea__heap_8c.html#acf357e2975833026f27b18d1208646a6", null ],
+    [ "hl_lea_realloc", "lea__heap_8c.html#aa8213fd52b04e6e72746d3b77e178976", null ],
+    [ "hl_register_lea_heap", "lea__heap_8c.html#a4185b205a4ed160717bb69660525a884", null ],
+    [ "hl_unregister_lea_heap", "lea__heap_8c.html#a0f1cd273906d27f6a97bb36cb9ad12b4", null ]
+];

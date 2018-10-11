@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['keep_5fcon_5fauto',['KEEP_CON_AUTO',['../broker__config_8h.html#aa6d235ba724cc57b7fb9de9188325e4dac1dee10ac64fd6341eb9ac699dcfa20a',1,'broker_config.h']]],
+  ['keep_5fcon_5fdefault',['KEEP_CON_DEFAULT',['../broker__config_8h.html#aa6d235ba724cc57b7fb9de9188325e4da7f3b648db5aa98917c40285e520361b6',1,'broker_config.h']]],
+  ['keep_5fcon_5fon',['KEEP_CON_ON',['../broker__config_8h.html#aa6d235ba724cc57b7fb9de9188325e4daaceee66ae867237c4b2548df203322ed',1,'broker_config.h']]],
+  ['key_5flock_5fescalated',['KEY_LOCK_ESCALATED',['../lock__manager_8h.html#a1e92a8c4d6e88bdad0271d43020b1ef8aea05976f44d02d9edae8b6e2d87fd2a2',1,'lock_manager.h']]],
+  ['kill_5fall_5fha_5fprocess',['KILL_ALL_HA_PROCESS',['../connection__defs_8h.html#a7126714ae60ac5d647ab0d6c944bc631a9f4403033bf446462b5baf315acec8b8',1,'connection_defs.h']]],
+  ['kill_5fmaster_5fserver',['KILL_MASTER_SERVER',['../connection__defs_8h.html#a7126714ae60ac5d647ab0d6c944bc631a862969b3690e4c45cdde824973d1b376',1,'connection_defs.h']]],
+  ['kill_5frepl_5fserver',['KILL_REPL_SERVER',['../connection__defs_8h.html#a7126714ae60ac5d647ab0d6c944bc631af13b2f81ee11f278cdd25cb173cd3980',1,'connection_defs.h']]],
+  ['kill_5fserver_5fimmediate',['KILL_SERVER_IMMEDIATE',['../connection__defs_8h.html#a7126714ae60ac5d647ab0d6c944bc631a2b732b255a74db9205dc6feb8e1789c0',1,'connection_defs.h']]],
+  ['kill_5fslave_5fserver',['KILL_SLAVE_SERVER',['../connection__defs_8h.html#a7126714ae60ac5d647ab0d6c944bc631a0ed43c4905fbd621ebe943dd10436a3d',1,'connection_defs.h']]],
+  ['killstmt_5fquery',['KILLSTMT_QUERY',['../xasl_8h.html#a5958349def813b83c4de4bfff32e9bc3aa16125889d15b4f8dcdf8f47d4afa02c',1,'xasl.h']]],
+  ['killstmt_5ftran',['KILLSTMT_TRAN',['../xasl_8h.html#a5958349def813b83c4de4bfff32e9bc3ac0c1c7cafcfbfa1bdd218570a260cc64',1,'xasl.h']]],
+  ['killtran',['KILLTRAN',['../executables_2utility_8h.html#a83dd5047a4c6eb059e06dc031a45951fa1e20012e288519cd234f459292d3c11b',1,'utility.h']]],
+  ['killtran_5fmsg_5fdba_5fpassword',['KILLTRAN_MSG_DBA_PASSWORD',['../executables_2utility_8h.html#a5a1959a86294f3abd0ea86be0d2a0944adfe4dfe5284d1033baa2b89df1e138a1',1,'utility.h']]],
+  ['killtran_5fmsg_5finvalid_5ftranindex',['KILLTRAN_MSG_INVALID_TRANINDEX',['../executables_2utility_8h.html#a5a1959a86294f3abd0ea86be0d2a0944a26224b620eb8d8e8130601ee19ca32e6',1,'utility.h']]],
+  ['killtran_5fmsg_5fkill_5ffailed',['KILLTRAN_MSG_KILL_FAILED',['../executables_2utility_8h.html#a5a1959a86294f3abd0ea86be0d2a0944a340eb75ce7810c8581188c998e5b3cfb',1,'utility.h']]],
+  ['killtran_5fmsg_5fkill_5ftimeout',['KILLTRAN_MSG_KILL_TIMEOUT',['../executables_2utility_8h.html#a5a1959a86294f3abd0ea86be0d2a0944a1991ef0e14e4e2f126c93a9f7a4b38de',1,'utility.h']]],
+  ['killtran_5fmsg_5fkilling',['KILLTRAN_MSG_KILLING',['../executables_2utility_8h.html#a5a1959a86294f3abd0ea86be0d2a0944a7ff2b2542bd0319550f73c195fcfbe00',1,'utility.h']]],
+  ['killtran_5fmsg_5fmany_5fargs',['KILLTRAN_MSG_MANY_ARGS',['../executables_2utility_8h.html#a5a1959a86294f3abd0ea86be0d2a0944afdb1cb2d073bcfe0777ba04c5672e5a6',1,'utility.h']]],
+  ['killtran_5fmsg_5fno_5fmatches',['KILLTRAN_MSG_NO_MATCHES',['../executables_2utility_8h.html#a5a1959a86294f3abd0ea86be0d2a0944a8421bacea705e6333e84bbfc4a0f7241',1,'utility.h']]],
+  ['killtran_5fmsg_5fnot_5fin_5fstandalone',['KILLTRAN_MSG_NOT_IN_STANDALONE',['../executables_2utility_8h.html#a5a1959a86294f3abd0ea86be0d2a0944a4d1c5591c2c9d60df6bc5fd77ee55be0',1,'utility.h']]],
+  ['killtran_5fmsg_5fready_5fto_5fkill',['KILLTRAN_MSG_READY_TO_KILL',['../executables_2utility_8h.html#a5a1959a86294f3abd0ea86be0d2a0944aaf450a3dd34848a63e67f836b2be60ea',1,'utility.h']]],
+  ['killtran_5fmsg_5fusage',['KILLTRAN_MSG_USAGE',['../executables_2utility_8h.html#a5a1959a86294f3abd0ea86be0d2a0944a5da4c684d4cf2d5e0e328f99feef9fdc',1,'utility.h']]],
+  ['killtran_5fmsg_5fverify',['KILLTRAN_MSG_VERIFY',['../executables_2utility_8h.html#a5a1959a86294f3abd0ea86be0d2a0944a9399400d4fa919afd664bee205bd987d',1,'utility.h']]]
+];

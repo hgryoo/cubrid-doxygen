@@ -1,0 +1,5 @@
+<map id="mvcc_info" name="mvcc_info">
+<area shape="rect" id="node2" href="$structmvcc__snapshot.html" title="mvcc_snapshot" alt="" coords="11,197,125,227"/>
+<area shape="rect" id="node4" href="$structmvcc__rec__header.html" title="mvcc_rec_header" alt="" coords="5,101,131,131"/>
+<area shape="rect" id="node6" href="$structlog__lsa.html" title="log_lsa" alt="" coords="37,5,99,35"/>
+</map>

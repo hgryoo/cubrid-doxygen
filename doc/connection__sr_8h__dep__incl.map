@@ -1,0 +1,16 @@
+<map id="src/connection/connection_sr.h" name="src/connection/connection_sr.h">
+<area shape="rect" id="node3" href="$communication__channel_8cpp.html" title="src/communication/communication\l_channel.cpp" alt="" coords="203,91,427,138"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="5,195,187,242"/>
+<area shape="rect" id="node7" href="$network__sr_8c.html" title="src/communication/network_sr.c" alt="" coords="211,204,421,233"/>
+<area shape="rect" id="node9" href="$connection__sr_8c.html" title="src/connection/connection_sr.c" alt="" coords="445,204,648,233"/>
+<area shape="rect" id="node11" href="$server__support_8h.html" title="src/connection/server\l_support.h" alt="" coords="653,91,800,138"/>
+<area shape="rect" id="node16" href="$server__support_8c.html" title="src/connection/server\l_support.c" alt="" coords="672,195,819,242"/>
+<area shape="rect" id="node27" href="$communication__channel_2test__main_8cpp.html" title="unit_tests/communication\l_channel/test_main.cpp" alt="" coords="824,91,995,138"/>
+<area shape="rect" id="node29" href="$slave__replication__channel__mock_8cpp.html" title="unit_tests/replication\l_channels/slave_replication\l_channel_mock.cpp" alt="" coords="1019,83,1200,147"/>
+<area shape="rect" id="node31" href="$replication__channels_2test__main_8cpp.html" title="unit_tests/replication\l_channels/test_main.cpp" alt="" coords="1224,91,1389,138"/>
+<area shape="rect" id="node33" href="$transfer__channel_2test__main_8cpp.html" title="unit_tests/transfer\l_channel/test_main.cpp" alt="" coords="1413,91,1573,138"/>
+<area shape="rect" id="node18" href="$show__scan_8c.html" title="src/query/show_scan.c" alt="" coords="843,204,1000,233"/>
+<area shape="rect" id="node20" href="$external__sort_8c.html" title="src/storage/external\l_sort.c" alt="" coords="1024,195,1160,242"/>
+<area shape="rect" id="node22" href="$lock__manager_8c.html" title="src/transaction/lock\l_manager.c" alt="" coords="1184,195,1320,242"/>
+<area shape="rect" id="node24" href="$transaction__sr_8c.html" title="src/transaction/transaction_sr.c" alt="" coords="1344,204,1549,233"/>
+</map>

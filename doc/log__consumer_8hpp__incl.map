@@ -1,0 +1,12 @@
+<map id="src/replication/log_consumer.hpp" name="src/replication/log_consumer.hpp">
+<area shape="rect" id="node3" href="$cubstream_8hpp.html" title="cubstream.hpp" alt="" coords="453,256,560,285"/>
+<area shape="rect" id="node15" href="$thread__manager_8hpp.html" title="thread_manager.hpp" alt="" coords="700,101,839,131"/>
+<area shape="rect" id="node17" href="$thread__entry_8hpp.html" title="thread_entry.hpp" alt="" coords="261,179,379,208"/>
+<area shape="rect" id="node39" href="$thread__task_8hpp.html" title="thread_task.hpp" alt="" coords="712,179,827,208"/>
+<area shape="rect" id="node45" href="$thread__waiter_8hpp.html" title="thread_waiter.hpp" alt="" coords="901,179,1027,208"/>
+<area shape="rect" id="node61" href="$base__flag_8hpp.html" title="base_flag.hpp" alt="" coords="504,179,605,208"/>
+<area shape="rect" id="node19" href="$error__context_8hpp.html" title="error_context.hpp" alt="" coords="160,256,283,285"/>
+<area shape="rect" id="node24" href="$porting_8h.html" title="porting.h" alt="" coords="307,256,379,285"/>
+<area shape="rect" id="node28" href="$system_8h.html" title="system.h" alt="" coords="61,256,136,285"/>
+<area shape="rect" id="node47" href="$perf__def_8hpp.html" title="perf_def.hpp" alt="" coords="888,256,981,285"/>
+</map>

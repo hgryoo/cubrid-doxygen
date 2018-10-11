@@ -1,0 +1,15 @@
+<map id="unit_tests/memory_alloc/test_db_private_alloc.cpp" name="unit_tests/memory_alloc/test_db_private_alloc.cpp">
+<area shape="rect" id="node3" href="$test__db__private__alloc_8hpp.html" title="test_db_private_alloc.hpp" alt="" coords="133,101,304,131"/>
+<area shape="rect" id="node5" href="$test__memory__alloc__helper_8hpp.html" title="test_memory_alloc_helper.hpp" alt="" coords="628,101,825,131"/>
+<area shape="rect" id="node47" href="$test__perf__compare_8hpp.html" title="test_perf_compare.hpp" alt="" coords="429,101,584,131"/>
+<area shape="rect" id="node54" href="$test__debug_8hpp.html" title="test_debug.hpp" alt="" coords="5,179,115,208"/>
+<area shape="rect" id="node60" href="$test__output_8hpp.html" title="test_output.hpp" alt="" coords="139,179,251,208"/>
+<area shape="rect" id="node7" href="$test__string__collection_8hpp.html" title="test_string_collection.hpp" alt="" coords="411,179,581,208"/>
+<area shape="rect" id="node13" href="$db__private__allocator_8hpp.html" title="db_private_allocator.hpp" alt="" coords="656,179,819,208"/>
+<area shape="rect" id="node15" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="803,256,917,285"/>
+<area shape="rect" id="node40" href="$porting_8h.html" title="porting.h" alt="" coords="583,256,655,285"/>
+<area shape="rect" id="node19" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="1111,333,1207,363"/>
+<area shape="rect" id="node25" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="1281,333,1415,363"/>
+<area shape="rect" id="node21" href="$error__code_8h.html" title="error_code.h" alt="" coords="1095,411,1188,440"/>
+<area shape="rect" id="node49" href="$test__timers_8hpp.html" title="test_timers.hpp" alt="" coords="275,179,387,208"/>
+</map>

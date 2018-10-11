@@ -1,0 +1,9 @@
+<map id="host_ref" name="host_ref">
+<area shape="rect" id="node2" href="$structhost__var.html" title="host_var" alt="" coords="156,164,228,193"/>
+<area shape="rect" id="node4" href="$structvarstring.html" title="varstring" alt="" coords="24,5,96,35"/>
+<area shape="rect" id="node6" href="$structlink.html" title="link" alt="" coords="320,5,363,35"/>
+<area shape="rect" id="node13" href="$structsymbol.html" title="symbol" alt="" coords="252,164,316,193"/>
+<area shape="rect" id="node8" href="$structspecifier.html" title="specifier" alt="" coords="252,419,321,448"/>
+<area shape="rect" id="node10" href="$structstructdef.html" title="structdef" alt="" coords="113,323,185,352"/>
+<area shape="rect" id="node20" href="$structdeclarator.html" title="declarator" alt="" coords="352,323,429,352"/>
+</map>

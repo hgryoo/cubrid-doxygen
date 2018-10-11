@@ -1,0 +1,19 @@
+<map id="locator_return_nxobj" name="locator_return_nxobj">
+<area shape="rect" id="node2" href="$structheap__scancache.html" title="heap_scancache" alt="" coords="1085,239,1205,268"/>
+<area shape="rect" id="node4" href="$structbtree__unique__stats.html" title="btree_unique_stats" alt="" coords="548,71,679,100"/>
+<area shape="rect" id="node6" href="$structbtid.html" title="btid" alt="" coords="271,129,313,159"/>
+<area shape="rect" id="node8" href="$structvfid.html" title="vfid" alt="" coords="5,243,48,272"/>
+<area shape="rect" id="node14" href="$structhfid.html" title="hfid" alt="" coords="148,356,191,385"/>
+<area shape="rect" id="node10" href="$structheap__scancache__node.html" title="heap_scancache_node" alt="" coords="368,317,523,347"/>
+<area shape="rect" id="node23" href="$structheap__scancache__node__list.html" title="heap_scancache_node_list" alt="" coords="704,287,883,316"/>
+<area shape="rect" id="node12" href="$structdb__identifier.html" title="db_identifier" alt="" coords="124,272,215,301"/>
+<area shape="rect" id="node32" href="$structlc__copyarea__oneobj.html" title="lc_copyarea_oneobj" alt="" coords="377,404,513,433"/>
+<area shape="rect" id="node17" href="$structmvcc__snapshot.html" title="mvcc_snapshot" alt="" coords="736,15,851,44"/>
+<area shape="rect" id="node19" href="$structmvcc__rec__header.html" title="mvcc_rec_header" alt="" coords="383,15,508,44"/>
+<area shape="rect" id="node21" href="$structlog__lsa.html" title="log_lsa" alt="" coords="139,15,200,44"/>
+<area shape="rect" id="node27" href="$structpgbuf__watcher.html" title="pgbuf_watcher" alt="" coords="740,192,847,221"/>
+<area shape="rect" id="node29" href="$structvpid.html" title="vpid" alt="" coords="423,192,468,221"/>
+<area shape="rect" id="node40" href="$structlc__copyarea__manyobjs.html" title="lc_copyarea_manyobjs" alt="" coords="907,399,1061,428"/>
+<area shape="rect" id="node36" href="$structrecdes.html" title="recdes" alt="" coords="1115,507,1176,536"/>
+<area shape="rect" id="node38" href="$structlc__copy__area.html" title="lc_copy_area" alt="" coords="1096,560,1195,589"/>
+</map>

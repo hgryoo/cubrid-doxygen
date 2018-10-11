@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classUniqueHeap.html" title="UniqueHeap\&lt; mallocHeap \&gt;" alt="" coords="5,83,192,112"/>
+<area shape="rect" id="node3" href="$classHL_1_1UseSizeHeap.html" title="HL::UseSizeHeap\&lt; UniqueHeap\l\&lt; mallocHeap \&gt; \&gt;" alt="" coords="241,74,452,121"/>
+<area shape="rect" id="node5" href="$classHL_1_1SizeHeap.html" title="HL::SizeHeap\&lt; UniqueHeap\l\&lt; mallocHeap \&gt; \&gt;" alt="" coords="503,74,689,121"/>
+<area shape="rect" id="node7" href="$classTopHeap.html" title="TopHeap" alt="" coords="739,83,813,112"/>
+<area shape="rect" id="node9" href="$classHL_1_1AdaptHeap.html" title="HL::AdaptHeap\&lt; DLList,\l TopHeap \&gt;" alt="" coords="887,39,1052,86"/>
+<area shape="rect" id="node21" href="$classHL_1_1Seg.html" title="HL::Seg\&lt; ReapletSize,\l SizeClassComputer, TopHeap \&gt;" alt="" coords="861,109,1077,155"/>
+<area shape="rect" id="node11" href="$classHL_1_1SegHeap.html" title="HL::SegHeap\&lt; NumBins,\l getSizeClass, getClassMaxSize,\l AdaptHeap\&lt; DLList, TopHeap\l \&gt;, TopHeap \&gt;" alt="" coords="1125,22,1344,103"/>
+<area shape="rect" id="node13" href="$classHL_1_1StrictSegHeap.html" title="HL::StrictSegHeap\&lt;\l Kingsley::NUMBINS,\l Kingsley::size2Class,\l Kingsley::class2Size,\l AdaptHeap\&lt; DLList, TopHeap\l \&gt;, TopHeap \&gt;" alt="" coords="1392,5,1595,121"/>
+<area shape="rect" id="node15" href="$classHL_1_1KingsleyHeap.html" title="HL::KingsleyHeap\&lt; AdaptHeap\l\&lt; DLList, TopHeap \&gt;, TopHeap \&gt;" alt="" coords="1643,39,1861,86"/>
+<area shape="rect" id="node17" href="$classHL_1_1ANSIWrapper.html" title="HL::ANSIWrapper\&lt; Kingsley\lHeap\&lt; AdaptHeap\&lt; DLList,\l TopHeap \&gt;, TopHeap \&gt; \&gt;" alt="" coords="1911,31,2100,95"/>
+<area shape="rect" id="node19" href="$classTheKingsleyHeapType.html" title="TheKingsleyHeapType" alt="" coords="2149,48,2304,77"/>
+</map>

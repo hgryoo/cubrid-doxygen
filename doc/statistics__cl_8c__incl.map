@@ -1,0 +1,37 @@
+<map id="src/storage/statistics_cl.c" name="src/storage/statistics_cl.c">
+<area shape="rect" id="node7" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="1937,547,2095,576"/>
+<area shape="rect" id="node54" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="752,701,867,731"/>
+<area shape="rect" id="node71" href="$statistics_8h.html" title="statistics.h" alt="" coords="1715,469,1800,499"/>
+<area shape="rect" id="node81" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="1517,315,1640,344"/>
+<area shape="rect" id="node88" href="$work__space_8h.html" title="work_space.h" alt="" coords="2576,392,2677,421"/>
+<area shape="rect" id="node106" href="$schema__manager_8h.html" title="schema_manager.h" alt="" coords="2471,83,2607,112"/>
+<area shape="rect" id="node132" href="$network__interface__cl_8h.html" title="network_interface_cl.h" alt="" coords="1303,237,1455,267"/>
+<area shape="rect" id="node190" href="$db__date_8h.html" title="db_date.h" alt="" coords="2731,624,2808,653"/>
+<area shape="rect" id="node21" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="1288,701,1403,731"/>
+<area shape="rect" id="node29" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="2171,701,2304,731"/>
+<area shape="rect" id="node48" href="$oid_8h.html" title="oid.h" alt="" coords="2504,624,2555,653"/>
+<area shape="rect" id="node52" href="$byte__order_8h.html" title="byte_order.h" alt="" coords="2083,624,2176,653"/>
+<area shape="rect" id="node27" href="$error__code_8h.html" title="error_code.h" alt="" coords="1912,856,2005,885"/>
+<area shape="rect" id="node36" href="$porting_8h.html" title="porting.h" alt="" coords="453,779,525,808"/>
+<area shape="rect" id="node39" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="3016,779,3080,808"/>
+<area shape="rect" id="node41" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="2452,779,2548,808"/>
+<area shape="rect" id="node46" href="$sha1_8h.html" title="sha1.h" alt="" coords="2207,779,2268,808"/>
+<area shape="rect" id="node58" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="1043,779,1176,808"/>
+<area shape="rect" id="node76" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="1365,547,1483,576"/>
+<area shape="rect" id="node94" href="$quick__fit_8h.html" title="quick_fit.h" alt="" coords="2627,469,2709,499"/>
+<area shape="rect" id="node96" href="$locator_8h.html" title="locator.h" alt="" coords="2404,469,2476,499"/>
+<area shape="rect" id="node108" href="$language__support_8h.html" title="language_support.h" alt="" coords="2723,315,2856,344"/>
+<area shape="rect" id="node114" href="$class__object_8h.html" title="class_object.h" alt="" coords="2292,237,2399,267"/>
+<area shape="rect" id="node121" href="$schema__template_8h.html" title="schema_template.h" alt="" coords="2365,160,2501,189"/>
+<area shape="rect" id="node125" href="$trigger__manager_8h.html" title="trigger_manager.h" alt="" coords="2627,160,2752,189"/>
+<area shape="rect" id="node136" href="$replication_8h.html" title="replication.h" alt="" coords="984,547,1075,576"/>
+<area shape="rect" id="node142" href="$server__interface_8h.html" title="server_interface.h" alt="" coords="1267,315,1392,344"/>
+<area shape="rect" id="node144" href="$perf__monitor_8h.html" title="perf_monitor.h" alt="" coords="1008,624,1112,653"/>
+<area shape="rect" id="node154" href="$query__list_8h.html" title="query_list.h" alt="" coords="1925,469,2013,499"/>
+<area shape="rect" id="node160" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="448,624,576,653"/>
+<area shape="rect" id="node167" href="$log__writer_8h.html" title="log_writer.h" alt="" coords="669,547,757,576"/>
+<area shape="rect" id="node170" href="$log__impl_8h.html" title="log_impl.h" alt="" coords="701,624,781,653"/>
+<area shape="rect" id="node179" href="$parse__tree_8h.html" title="parse_tree.h" alt="" coords="1149,315,1243,344"/>
+<area shape="rect" id="node184" href="$xasl_8h.html" title="xasl.h" alt="" coords="1765,392,1821,421"/>
+<area shape="rect" id="node193" href="$tz__support_8h.html" title="tz_support.h" alt="" coords="2537,701,2631,731"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="lang_locale_data" name="lang_locale_data">
+<area shape="rect" id="node13" href="$structlang__collation.html" title="lang_collation" alt="" coords="255,325,356,355"/>
+<area shape="rect" id="node2" href="$structtext__conversion.html" title="text_conversion" alt="" coords="259,117,373,147"/>
+<area shape="rect" id="node4" href="$structconv__cp__to__bytes.html" title="conv_cp_to_bytes" alt="" coords="252,5,380,35"/>
+<area shape="rect" id="node6" href="$structalphabet__data.html" title="alphabet_data" alt="" coords="397,117,499,147"/>
+<area shape="rect" id="node9" href="$structunicode__normalization.html" title="unicode_normalization" alt="" coords="523,117,672,147"/>
+<area shape="rect" id="node11" href="$structunicode__mapping.html" title="unicode_mapping" alt="" coords="536,5,659,35"/>
+<area shape="rect" id="node15" href="$structcoll__data.html" title="coll_data" alt="" coords="135,229,209,259"/>
+<area shape="rect" id="node17" href="$structuca__options.html" title="uca_options" alt="" coords="5,117,96,147"/>
+<area shape="rect" id="node19" href="$structcoll__contraction.html" title="coll_contraction" alt="" coords="120,117,232,147"/>
+<area shape="rect" id="node22" href="$structcoll__opt.html" title="coll_opt" alt="" coords="233,229,300,259"/>
+</map>

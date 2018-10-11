@@ -1,0 +1,25 @@
+var structsession__state =
+[
+    [ "active_time", "structsession__state.html#af667c9c5afc6563da57b540a94095262", null ],
+    [ "auto_commit", "structsession__state.html#a9079b8da49894268cf8c9ec9a5ed0913", null ],
+    [ "cur_insert_id", "structsession__state.html#a200ce2a11c0c02f6432fe6bf36df681b", null ],
+    [ "del_id", "structsession__state.html#a106a458a3ce5bc559109d2664e869d47", null ],
+    [ "id", "structsession__state.html#a8c148a50cb8e7c104bbe9896da975b97", null ],
+    [ "is_last_insert_id_generated", "structsession__state.html#abd5193055ebda5f55bcd71948b0ae4c1", null ],
+    [ "is_trigger_involved", "structsession__state.html#a6c01b4bee0fcf00a2383b3113c7922a8", null ],
+    [ "last_insert_id", "structsession__state.html#a959438719d369ba2548aeeb25b1a7127", null ],
+    [ "mutex", "structsession__state.html#a5820578e742a5917bd11ac5106ebd099", null ],
+    [ "next", "structsession__state.html#a1e4e66f9489d18abe95f34fa77b0c109", null ],
+    [ "plan_string", "structsession__state.html#a66eee75a0788405c9fb582d1000c8433", null ],
+    [ "private_lru_index", "structsession__state.html#aa212c63d04d423bfd0dc36ca8f7c0c2a", null ],
+    [ "queries", "structsession__state.html#a95db0e8ed7c2c29a481111d9fa413ce4", null ],
+    [ "ref_count", "structsession__state.html#a182598f68432717d5029975fea687723", null ],
+    [ "row_count", "structsession__state.html#a4b1b354724c814cf640d867464463ec7", null ],
+    [ "session_parameters", "structsession__state.html#a4257f5ba98b221b66616bc8e67e6c536", null ],
+    [ "session_tz_region", "structsession__state.html#aa1a4078226784c3e3ee2a16764f1a79d", null ],
+    [ "session_variables", "structsession__state.html#a43681240861e6c7dc1fc97658a7d5131", null ],
+    [ "stack", "structsession__state.html#a3c258a2098f8409193717c5d85f6e133", null ],
+    [ "statements", "structsession__state.html#a6c647c7875a1d7d7d27a5691563ea3d3", null ],
+    [ "trace_format", "structsession__state.html#ad3ede6ef0b52946adb35ed5967a1e77b", null ],
+    [ "trace_stats", "structsession__state.html#a9339669f30780dd78632748724273356", null ]
+];

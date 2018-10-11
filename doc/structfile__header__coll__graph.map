@@ -1,0 +1,15 @@
+<map id="file_header" name="file_header">
+<area shape="rect" id="node2" href="$structvpid.html" title="vpid" alt="" coords="147,131,192,160"/>
+<area shape="rect" id="node10" href="$structfile__vacuum__data__des.html" title="file_vacuum_data_des" alt="" coords="325,173,477,203"/>
+<area shape="rect" id="node4" href="$structfile__tablespace.html" title="file_tablespace" alt="" coords="655,63,764,92"/>
+<area shape="rect" id="node6" href="$structvfid.html" title="vfid" alt="" coords="5,200,48,229"/>
+<area shape="rect" id="node17" href="$structhfid.html" title="hfid" alt="" coords="148,440,191,469"/>
+<area shape="rect" id="node27" href="$structbtid.html" title="btid" alt="" coords="148,200,191,229"/>
+<area shape="rect" id="node8" href="$unionfile__descriptors.html" title="file_descriptors" alt="" coords="655,291,764,320"/>
+<area shape="rect" id="node13" href="$structfile__heap__des.html" title="file_heap_des" alt="" coords="351,344,452,373"/>
+<area shape="rect" id="node15" href="$structdb__identifier.html" title="db_identifier" alt="" coords="124,344,215,373"/>
+<area shape="rect" id="node20" href="$structfile__ovf__heap__des.html" title="file_ovf_heap_des" alt="" coords="339,488,464,517"/>
+<area shape="rect" id="node24" href="$structfile__ovf__btree__des.html" title="file_ovf_btree_des" alt="" coords="337,291,465,320"/>
+<area shape="rect" id="node30" href="$structfile__ehash__des.html" title="file_ehash_des" alt="" coords="347,237,456,267"/>
+<area shape="rect" id="node33" href="$structfile__btree__des.html" title="file_btree_des" alt="" coords="351,397,452,427"/>
+</map>

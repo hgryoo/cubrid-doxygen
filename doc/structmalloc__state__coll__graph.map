@@ -1,0 +1,5 @@
+<map id="malloc_state" name="malloc_state">
+<area shape="rect" id="node2" href="$structmalloc__chunk.html" title="malloc_chunk" alt="" coords="5,25,107,55"/>
+<area shape="rect" id="node5" href="$structmalloc__segment.html" title="malloc_segment" alt="" coords="173,25,291,55"/>
+<area shape="rect" id="node8" href="$structmalloc__tree__chunk.html" title="malloc_tree_chunk" alt="" coords="368,25,499,55"/>
+</map>

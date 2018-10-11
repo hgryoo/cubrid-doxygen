@@ -1,0 +1,33 @@
+<map id="src/query/method_scan.h" name="src/query/method_scan.h">
+<area shape="rect" id="node3" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="1503,779,1599,808"/>
+<area shape="rect" id="node9" href="$regu__var_8h.html" title="regu_var.h" alt="" coords="1037,237,1120,267"/>
+<area shape="rect" id="node133" href="$work__space_8h.html" title="work_space.h" alt="" coords="2181,237,2283,267"/>
+<area shape="rect" id="node148" href="$cursor_8h.html" title="cursor.h" alt="" coords="1531,83,1600,112"/>
+<area shape="rect" id="node5" href="$error__code_8h.html" title="error_code.h" alt="" coords="1504,856,1597,885"/>
+<area shape="rect" id="node11" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="1045,469,1163,499"/>
+<area shape="rect" id="node33" href="$query__list_8h.html" title="query_list.h" alt="" coords="1389,315,1477,344"/>
+<area shape="rect" id="node98" href="$win_2external_2include_2libregex38a_2regex38a_8h.html" title="libregex38a/regex38a.h" alt="" coords="93,469,248,499"/>
+<area shape="rect" id="node100" href="$string__opfunc_8h.html" title="string_opfunc.h" alt="" coords="647,392,756,421"/>
+<area shape="rect" id="node17" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="1120,547,1235,576"/>
+<area shape="rect" id="node25" href="$area__alloc_8h.html" title="area_alloc.h" alt="" coords="993,547,1084,576"/>
+<area shape="rect" id="node27" href="$lock__free_8h.html" title="lock_free.h" alt="" coords="989,624,1075,653"/>
+<area shape="rect" id="node29" href="$porting_8h.html" title="porting.h" alt="" coords="989,701,1061,731"/>
+<area shape="rect" id="node35" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="2221,547,2355,576"/>
+<area shape="rect" id="node62" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="1689,392,1847,421"/>
+<area shape="rect" id="node45" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="2541,624,2605,653"/>
+<area shape="rect" id="node55" href="$sha1_8h.html" title="sha1.h" alt="" coords="2355,624,2416,653"/>
+<area shape="rect" id="node47" href="$cubrid__api_8h.html" title="cubrid_api.h" alt="" coords="2453,701,2544,731"/>
+<area shape="rect" id="node57" href="$system_8h.html" title="system.h" alt="" coords="2253,701,2328,731"/>
+<area shape="rect" id="node75" href="$oid_8h.html" title="oid.h" alt="" coords="2149,469,2200,499"/>
+<area shape="rect" id="node79" href="$byte__order_8h.html" title="byte_order.h" alt="" coords="1931,469,2024,499"/>
+<area shape="rect" id="node81" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="1592,547,1707,576"/>
+<area shape="rect" id="node85" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="1387,624,1520,653"/>
+<area shape="rect" id="node104" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="783,547,881,576"/>
+<area shape="rect" id="node113" href="$language__support_8h.html" title="language_support.h" alt="" coords="400,469,533,499"/>
+<area shape="rect" id="node124" href="$numeric__opfunc_8h.html" title="numeric_opfunc.h" alt="" coords="639,469,764,499"/>
+<area shape="rect" id="node117" href="$locale__support_8h.html" title="locale_support.h" alt="" coords="344,547,461,576"/>
+<area shape="rect" id="node122" href="$locale__lib__common_8h.html" title="locale_lib_common.h" alt="" coords="195,624,339,653"/>
+<area shape="rect" id="node139" href="$quick__fit_8h.html" title="quick_fit.h" alt="" coords="2269,315,2352,344"/>
+<area shape="rect" id="node141" href="$locator_8h.html" title="locator.h" alt="" coords="2123,315,2195,344"/>
+<area shape="rect" id="node155" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="1336,160,1459,189"/>
+</map>

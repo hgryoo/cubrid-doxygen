@@ -1,0 +1,25 @@
+<map id="src/object/schema_template.h" name="src/object/schema_template.h">
+<area shape="rect" id="node3" href="$work__space_8h.html" title="work_space.h" alt="" coords="1221,237,1323,267"/>
+<area shape="rect" id="node94" href="$class__object_8h.html" title="class_object.h" alt="" coords="409,83,516,112"/>
+<area shape="rect" id="node7" href="$oid_8h.html" title="oid.h" alt="" coords="1400,469,1451,499"/>
+<area shape="rect" id="node9" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="707,547,840,576"/>
+<area shape="rect" id="node23" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="1141,624,1205,653"/>
+<area shape="rect" id="node32" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="1837,779,1933,808"/>
+<area shape="rect" id="node48" href="$quick__fit_8h.html" title="quick_fit.h" alt="" coords="1368,315,1451,344"/>
+<area shape="rect" id="node50" href="$locator_8h.html" title="locator.h" alt="" coords="1221,315,1293,344"/>
+<area shape="rect" id="node20" href="$porting_8h.html" title="porting.h" alt="" coords="792,701,864,731"/>
+<area shape="rect" id="node38" href="$sha1_8h.html" title="sha1.h" alt="" coords="693,624,755,653"/>
+<area shape="rect" id="node25" href="$cubrid__api_8h.html" title="cubrid_api.h" alt="" coords="1257,701,1348,731"/>
+<area shape="rect" id="node30" href="$error__code_8h.html" title="error_code.h" alt="" coords="1256,856,1349,885"/>
+<area shape="rect" id="node40" href="$system_8h.html" title="system.h" alt="" coords="693,701,768,731"/>
+<area shape="rect" id="node52" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="935,392,1092,421"/>
+<area shape="rect" id="node78" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="1317,624,1451,653"/>
+<area shape="rect" id="node63" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="281,547,396,576"/>
+<area shape="rect" id="node72" href="$byte__order_8h.html" title="byte_order.h" alt="" coords="1080,469,1173,499"/>
+<area shape="rect" id="node74" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="1576,547,1691,576"/>
+<area shape="rect" id="node96" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="245,469,363,499"/>
+<area shape="rect" id="node108" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="172,160,295,189"/>
+<area shape="rect" id="node118" href="$statistics_8h.html" title="statistics.h" alt="" coords="357,392,443,421"/>
+<area shape="rect" id="node101" href="$area__alloc_8h.html" title="area_alloc.h" alt="" coords="592,547,683,576"/>
+<area shape="rect" id="node103" href="$lock__free_8h.html" title="lock_free.h" alt="" coords="880,624,965,653"/>
+</map>

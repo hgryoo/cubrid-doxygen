@@ -1,0 +1,13 @@
+<map id="t_proxy_context" name="t_proxy_context">
+<area shape="rect" id="node2" href="$structt__context__stmt.html" title="t_context_stmt" alt="" coords="5,463,115,492"/>
+<area shape="rect" id="node5" href="$structt__shard__stmt.html" title="t_shard_stmt" alt="" coords="192,463,291,492"/>
+<area shape="rect" id="node7" href="$structt__shard__queue.html" title="t_shard_queue" alt="" coords="79,347,185,376"/>
+<area shape="rect" id="node9" href="$structt__shard__queue__ent.html" title="t_shard_queue_ent" alt="" coords="15,235,145,264"/>
+<area shape="rect" id="node13" href="$structsp__parser__ctx.html" title="sp_parser_ctx" alt="" coords="236,347,340,376"/>
+<area shape="rect" id="node15" href="$structsp__parser__hint__list.html" title="sp_parser_hint_list" alt="" coords="223,235,353,264"/>
+<area shape="rect" id="node17" href="$structsp__parser__hint.html" title="sp_parser_hint" alt="" coords="235,120,341,149"/>
+<area shape="rect" id="node20" href="$structsp__value.html" title="sp_value" alt="" coords="251,5,325,35"/>
+<area shape="rect" id="node22" href="$structsp__cursor.html" title="sp_cursor" alt="" coords="377,235,455,264"/>
+<area shape="rect" id="node24" href="$structt__proxy__event.html" title="t_proxy_event" alt="" coords="400,463,504,492"/>
+<area shape="rect" id="node26" href="$structt__io__buffer.html" title="t_io_buffer" alt="" coords="411,347,493,376"/>
+</map>

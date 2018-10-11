@@ -1,0 +1,32 @@
+<map id="src/base/cubstream.hpp" name="src/base/cubstream.hpp">
+<area shape="rect" id="node3" href="$cubstream_8cpp.html" title="src/base/cubstream.cpp" alt="" coords="14,92,177,121"/>
+<area shape="rect" id="node5" href="$multi__thread__stream_8hpp.html" title="src/base/multi_thread\l_stream.hpp" alt="" coords="733,83,879,130"/>
+<area shape="rect" id="node38" href="$stream__transfer__receiver_8hpp.html" title="src/communication/stream\l_transfer_receiver.hpp" alt="" coords="1537,83,1713,130"/>
+<area shape="rect" id="node47" href="$replication__channels_2test__main_8cpp.html" title="unit_tests/replication\l_channels/test_main.cpp" alt="" coords="1813,411,1978,458"/>
+<area shape="rect" id="node49" href="$transfer__channel_2test__main_8cpp.html" title="unit_tests/transfer\l_channel/test_main.cpp" alt="" coords="1737,187,1897,234"/>
+<area shape="rect" id="node51" href="$stream__transfer__sender_8hpp.html" title="src/communication/stream\l_transfer_sender.hpp" alt="" coords="1337,83,1513,130"/>
+<area shape="rect" id="node55" href="$replication__master__senders__manager_8hpp.html" title="src/replication/replication\l_master_senders_manager.hpp" alt="" coords="1110,187,1313,234"/>
+<area shape="rect" id="node70" href="$log__consumer_8hpp.html" title="src/replication/log\l_consumer.hpp" alt="" coords="27,299,150,346"/>
+<area shape="rect" id="node75" href="$mock__stream_8hpp.html" title="unit_tests/common/mock\l_stream.hpp" alt="" coords="1850,83,2018,130"/>
+<area shape="rect" id="node7" href="$multi__thread__stream_8cpp.html" title="src/base/multi_thread\l_stream.cpp" alt="" coords="787,187,934,234"/>
+<area shape="rect" id="node9" href="$stream__entry_8hpp.html" title="src/base/stream_entry.hpp" alt="" coords="441,196,617,225"/>
+<area shape="rect" id="node13" href="$log__consumer_8cpp.html" title="src/replication/log\l_consumer.cpp" alt="" coords="27,411,150,458"/>
+<area shape="rect" id="node17" href="$log__generator_8cpp.html" title="src/replication/log\l_generator.cpp" alt="" coords="323,515,446,562"/>
+<area shape="rect" id="node26" href="$test__stream_8hpp.html" title="unit_tests/stream/test\l_stream.hpp" alt="" coords="563,299,713,346"/>
+<area shape="rect" id="node30" href="$test__stream_8cpp.html" title="unit_tests/stream/test\l_stream.cpp" alt="" coords="785,411,934,458"/>
+<area shape="rect" id="node32" href="$server__support_8c.html" title="src/connection/server\l_support.c" alt="" coords="1009,299,1155,346"/>
+<area shape="rect" id="node11" href="$replication__stream__entry_8hpp.html" title="src/replication/replication\l_stream_entry.hpp" alt="" coords="302,299,467,346"/>
+<area shape="rect" id="node22" href="$replication__stream__entry_8cpp.html" title="src/replication/replication\l_stream_entry.cpp" alt="" coords="422,411,587,458"/>
+<area shape="rect" id="node15" href="$log__generator_8hpp.html" title="src/replication/log\l_generator.hpp" alt="" coords="225,411,347,458"/>
+<area shape="rect" id="node19" href="$test__log__generator_8cpp.html" title="unit_tests/replication\l/test_log_generator.cpp" alt="" coords="109,515,266,562"/>
+<area shape="rect" id="node28" href="$stream_2test__main_8cpp.html" title="unit_tests/stream/test\l_main.cpp" alt="" coords="611,411,761,458"/>
+<area shape="rect" id="node40" href="$stream__transfer__receiver_8cpp.html" title="src/communication/stream\l_transfer_receiver.cpp" alt="" coords="1537,187,1713,234"/>
+<area shape="rect" id="node43" href="$slave__replication__channel__mock_8hpp.html" title="unit_tests/replication\l_channels/slave_replication\l_channel_mock.hpp" alt="" coords="1971,179,2153,243"/>
+<area shape="rect" id="node45" href="$slave__replication__channel__mock_8cpp.html" title="unit_tests/replication\l_channels/slave_replication\l_channel_mock.cpp" alt="" coords="1971,291,2153,355"/>
+<area shape="rect" id="node53" href="$stream__transfer__sender_8cpp.html" title="src/communication/stream\l_transfer_sender.cpp" alt="" coords="1337,187,1513,234"/>
+<area shape="rect" id="node58" href="$replication__master__senders__manager_8cpp.html" title="src/replication/replication\l_master_senders_manager.cpp" alt="" coords="1393,299,1595,346"/>
+<area shape="rect" id="node60" href="$master__replication__channel__mock_8hpp.html" title="unit_tests/replication\l_channels/master_replication\l_channel_mock.hpp" alt="" coords="1179,291,1369,355"/>
+<area shape="rect" id="node64" href="$master__replication__channel__mock_8cpp.html" title="unit_tests/replication\l_channels/master_replication\l_channel_mock.cpp" alt="" coords="1538,403,1727,467"/>
+<area shape="rect" id="node62" href="$cub__master__mock_8cpp.html" title="unit_tests/replication\l_channels/cub_master_mock.cpp" alt="" coords="1166,411,1382,458"/>
+<area shape="rect" id="node77" href="$mock__stream_8cpp.html" title="unit_tests/common/mock\l_stream.cpp" alt="" coords="2177,187,2345,234"/>
+</map>

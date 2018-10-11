@@ -1,0 +1,28 @@
+var catalog__class_8c =
+[
+    [ "or_value", "structor__value.html", "structor__value" ],
+    [ "or_id", "unionor__value_1_1or__id.html", "unionor__value_1_1or__id" ],
+    [ "or_sub", "structor__value_1_1or__sub.html", "structor__value_1_1or__sub" ],
+    [ "catcls_entry", "structcatcls__entry.html", "structcatcls__entry" ],
+    [ "catcls_property", "structcatcls__property.html", "structcatcls__property" ],
+    [ "CATCLS_INDEX_KEY", "catalog__class_8c.html#aea771f1563bfcdfca5564858e0c9a493", null ],
+    [ "CATCLS_INDEX_NAME", "catalog__class_8c.html#a1861a6fd087cea2fc8ff4cb1fa9c7726", null ],
+    [ "CATCLS_OID_TABLE_SIZE", "catalog__class_8c.html#ad5b853503805556a770d3ae6fe1011f8", null ],
+    [ "EXCHANGE_OR_VALUE", "catalog__class_8c.html#a7c8ba9e151bae7df7f118863d2d558fe", null ],
+    [ "IS_SUBSET", "catalog__class_8c.html#a83d5da98538e69136ae2988e9a088f03", null ],
+    [ "CATCLS_ENTRY", "catalog__class_8c.html#aa02a81729a69cd2d841f2f7529e787c6", null ],
+    [ "CATCLS_PROPERTY", "catalog__class_8c.html#a524e1c5002f1fbf47257bcfbf92dbd7d", null ],
+    [ "CREADER", "catalog__class_8c.html#a0109708b42062a7b2b66429603e30d0c", null ],
+    [ "OR_VALUE", "catalog__class_8c.html#a05baad5d027a032644b893d6edb75227", null ],
+    [ "catcls_compile_catalog_classes", "catalog__class_8c.html#a9adaf98f87a60f6b3d1411c1976df4ec", null ],
+    [ "catcls_delete_catalog_classes", "catalog__class_8c.html#acd52d882b98b65068e365f6ba20a2b0b", null ],
+    [ "catcls_finalize_class_oid_to_oid_hash_table", "catalog__class_8c.html#a357cca2955f267296a7674380be89ee7", null ],
+    [ "catcls_find_and_set_cached_class_oid", "catalog__class_8c.html#a66e113bc5e468a3bcf9aa79f1c001537", null ],
+    [ "catcls_get_apply_info_log_record_time", "catalog__class_8c.html#ae5a7d7ee65169187ff2edadd52509381", null ],
+    [ "catcls_get_db_collation", "catalog__class_8c.html#ac583d2461969caba1e703a428f34acf1", null ],
+    [ "catcls_get_server_compat_info", "catalog__class_8c.html#ac5db54613797691755b7065620cdd8bd", null ],
+    [ "catcls_insert_catalog_classes", "catalog__class_8c.html#ad99ccfa2d0247243db7b8272ba40ff48", null ],
+    [ "catcls_remove_entry", "catalog__class_8c.html#a67c79796186c724df280c18ef06a3684", null ],
+    [ "catcls_update_catalog_classes", "catalog__class_8c.html#a6f18a8259b1deabed7d9a5c38672dbdd", null ],
+    [ "catcls_Enable", "catalog__class_8c.html#a426e55ce649285e770f72d994e97126f", null ]
+];

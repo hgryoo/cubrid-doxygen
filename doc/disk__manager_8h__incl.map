@@ -1,0 +1,18 @@
+<map id="src/storage/disk_manager.h" name="src/storage/disk_manager.h">
+<area shape="rect" id="node5" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="149,315,264,344"/>
+<area shape="rect" id="node14" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="640,392,773,421"/>
+<area shape="rect" id="node48" href="$recovery_8h.html" title="recovery.h" alt="" coords="1019,83,1101,112"/>
+<area shape="rect" id="node12" href="$error__code_8h.html" title="error_code.h" alt="" coords="661,701,755,731"/>
+<area shape="rect" id="node24" href="$porting_8h.html" title="porting.h" alt="" coords="499,547,571,576"/>
+<area shape="rect" id="node27" href="$dbdef_8h.html" title="dbdef.h" alt="" coords="845,469,909,499"/>
+<area shape="rect" id="node35" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="745,624,841,653"/>
+<area shape="rect" id="node41" href="$sha1_8h.html" title="sha1.h" alt="" coords="605,469,667,499"/>
+<area shape="rect" id="node29" href="$cubrid__api_8h.html" title="cubrid_api.h" alt="" coords="845,547,936,576"/>
+<area shape="rect" id="node43" href="$system_8h.html" title="system.h" alt="" coords="595,547,669,576"/>
+<area shape="rect" id="node51" href="$log__comm_8h.html" title="log_comm.h" alt="" coords="1013,160,1107,189"/>
+<area shape="rect" id="node79" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="953,624,1087,653"/>
+<area shape="rect" id="node56" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="639,237,796,267"/>
+<area shape="rect" id="node69" href="$oid_8h.html" title="oid.h" alt="" coords="896,315,947,344"/>
+<area shape="rect" id="node73" href="$byte__order_8h.html" title="byte_order.h" alt="" coords="728,315,821,344"/>
+<area shape="rect" id="node75" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="1079,547,1193,576"/>
+</map>

@@ -1,6 +1,0 @@
-<map id="src/base/binaryheap.h" name="src/base/binaryheap.h">
-<area shape="rect" id="node3" href="$binaryheap_8c.html" title="src/base/binaryheap.c" alt="" coords="5,92,155,121"/>
-<area shape="rect" id="node5" href="$filter__pred__cache_8c.html" title="src/query/filter_pred\l_cache.c" alt="" coords="179,83,315,130"/>
-<area shape="rect" id="node7" href="$query__executor_8c.html" title="src/query/query_executor.c" alt="" coords="339,92,517,121"/>
-<area shape="rect" id="node9" href="$xasl__cache_8c.html" title="src/query/xasl_cache.c" alt="" coords="541,92,699,121"/>
-</map>

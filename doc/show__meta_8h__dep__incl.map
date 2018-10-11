@@ -1,8 +1,0 @@
-<map id="src/parser/show_meta.h" name="src/parser/show_meta.h">
-<area shape="rect" id="node3" href="$name__resolution_8c.html" title="src/parser/name_resolution.c" alt="" coords="5,92,195,121"/>
-<area shape="rect" id="node5" href="$parse__tree__cl_8c.html" title="src/parser/parse_tree_cl.c" alt="" coords="219,92,392,121"/>
-<area shape="rect" id="node7" href="$parser__support_8c.html" title="src/parser/parser_support.c" alt="" coords="416,92,597,121"/>
-<area shape="rect" id="node9" href="$semantic__check_8c.html" title="src/parser/semantic\l_check.c" alt="" coords="621,83,757,130"/>
-<area shape="rect" id="node11" href="$show__meta_8c.html" title="src/parser/show_meta.c" alt="" coords="781,92,944,121"/>
-<area shape="rect" id="node13" href="$boot__cl_8c.html" title="src/transaction/boot_cl.c" alt="" coords="968,92,1133,121"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="src/api/api_util.h" name="src/api/api_util.h">
-<area shape="rect" id="node3" href="$api__handle_8c.html" title="src/api/api_handle.c" alt="" coords="5,83,144,112"/>
-<area shape="rect" id="node5" href="$api__util_8c.html" title="src/api/api_util.c" alt="" coords="168,83,285,112"/>
-<area shape="rect" id="node7" href="$api__value__indexer_8c.html" title="src/api/api_value_indexer.c" alt="" coords="309,83,488,112"/>
-<area shape="rect" id="node9" href="$cci__stub_8c.html" title="src/api/cci_stub.c" alt="" coords="512,83,637,112"/>
-<area shape="rect" id="node11" href="$db__collection_8c.html" title="src/api/db_collection.c" alt="" coords="661,83,813,112"/>
-<area shape="rect" id="node13" href="$db__object_8c.html" title="src/api/db_object.c" alt="" coords="837,83,968,112"/>
-<area shape="rect" id="node15" href="$db__value__table_8c.html" title="src/api/db_value_table.c" alt="" coords="992,83,1155,112"/>
-</map>

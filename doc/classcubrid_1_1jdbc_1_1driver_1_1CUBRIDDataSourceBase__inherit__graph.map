@@ -1,6 +1,0 @@
-<map id="cubrid.jdbc.driver.CUBRIDDataSourceBase" name="cubrid.jdbc.driver.CUBRIDDataSourceBase">
-<area shape="rect" id="node3" href="$classcubrid_1_1jdbc_1_1driver_1_1CUBRIDDataSource.html" title="cubrid.jdbc.driver.CUBRIDData\lSource" alt="" coords="263,5,468,51"/>
-<area shape="rect" id="node8" href="$classcubrid_1_1jdbc_1_1driver_1_1CUBRIDPoolDataSourceBase.html" title="cubrid.jdbc.driver.CUBRIDPool\lDataSourceBase" alt="" coords="264,74,467,121"/>
-<area shape="rect" id="node10" href="$classcubrid_1_1jdbc_1_1driver_1_1CUBRIDConnectionPoolDataSource.html" title="cubrid.jdbc.driver.CUBRIDConnection\lPoolDataSource" alt="" coords="519,39,761,86"/>
-<area shape="rect" id="node15" href="$classcubrid_1_1jdbc_1_1driver_1_1CUBRIDXADataSource.html" title="cubrid.jdbc.driver.CUBRIDXAData\lSource" alt="" coords="528,109,752,155"/>
-</map>

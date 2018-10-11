@@ -1,9 +1,0 @@
-<map id="src/executables/csql.h" name="src/executables/csql.h">
-<area shape="rect" id="node3" href="$csql_8c.html" title="src/executables/csql.c" alt="" coords="5,92,157,121"/>
-<area shape="rect" id="node5" href="$csql__launcher_8c.html" title="src/executables/csql\l_launcher.c" alt="" coords="181,83,323,130"/>
-<area shape="rect" id="node7" href="$csql__result_8c.html" title="src/executables/csql\l_result.c" alt="" coords="347,83,488,130"/>
-<area shape="rect" id="node9" href="$csql__result__format_8c.html" title="src/executables/csql\l_result_format.c" alt="" coords="512,83,653,130"/>
-<area shape="rect" id="node11" href="$csql__session_8c.html" title="src/executables/csql\l_session.c" alt="" coords="677,83,819,130"/>
-<area shape="rect" id="node13" href="$csql__support_8c.html" title="src/executables/csql\l_support.c" alt="" coords="843,83,984,130"/>
-<area shape="rect" id="node15" href="$util__sa_8c.html" title="src/executables/util_sa.c" alt="" coords="1008,92,1173,121"/>
-</map>

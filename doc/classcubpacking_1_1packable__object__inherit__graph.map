@@ -1,8 +1,0 @@
-<map id="cubpacking::packable_object" name="cubpacking::packable_object">
-<area shape="rect" id="node3" href="$classcubreplication_1_1replication__object.html" title="cubreplication::replication\l_object" alt="" coords="204,39,372,86"/>
-<area shape="rect" id="node9" href="$classtest__packing_1_1po1.html" title="test_packing::po1" alt="" coords="225,109,351,139"/>
-<area shape="rect" id="node11" href="$classtest__stream_1_1po1.html" title="test_stream::po1" alt="" coords="228,163,348,192"/>
-<area shape="rect" id="node13" href="$classtest__stream_1_1po2.html" title="test_stream::po2" alt="" coords="228,216,348,245"/>
-<area shape="rect" id="node5" href="$classcubreplication_1_1sbr__repl__entry.html" title="cubreplication::sbr\l_repl_entry" alt="" coords="429,5,557,51"/>
-<area shape="rect" id="node7" href="$classcubreplication_1_1single__row__repl__entry.html" title="cubreplication::single\l_row_repl_entry" alt="" coords="421,74,565,121"/>
-</map>

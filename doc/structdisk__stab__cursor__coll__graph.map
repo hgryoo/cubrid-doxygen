@@ -1,6 +1,0 @@
-<map id="disk_stab_cursor" name="disk_stab_cursor">
-<area shape="rect" id="node2" href="$structdisk__volume__header.html" title="disk_volume_header" alt="" coords="5,197,147,227"/>
-<area shape="rect" id="node4" href="$structhfid.html" title="hfid" alt="" coords="11,101,53,131"/>
-<area shape="rect" id="node6" href="$structvfid.html" title="vfid" alt="" coords="11,5,53,35"/>
-<area shape="rect" id="node8" href="$structlog__lsa.html" title="log_lsa" alt="" coords="89,101,151,131"/>
-</map>

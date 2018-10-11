@@ -1,7 +1,0 @@
-<map id="src/heaplayers/util/dllist.h" name="src/heaplayers/util/dllist.h">
-<area shape="rect" id="node3" href="$heaplayers_8h.html" title="The master Heap Layers include file. " alt="" coords="131,179,315,208"/>
-<area shape="rect" id="node12" href="$dlheap_8h.html" title="Contains all the classes required to approximate DLmalloc 2.7.0. " alt="" coords="201,101,361,131"/>
-<area shape="rect" id="node5" href="$coalesceheap_8h.html" title="src/heaplayers/coalesceheap.h" alt="" coords="5,265,208,295"/>
-<area shape="rect" id="node8" href="$customheaps_8cpp.html" title="src/heaplayers/customheaps.cpp" alt="" coords="232,265,445,295"/>
-<area shape="rect" id="node10" href="$scalableleaheap_8h.html" title="src/heaplayers/experimental\l/scalableleaheap.h" alt="" coords="469,257,653,303"/>
-</map>

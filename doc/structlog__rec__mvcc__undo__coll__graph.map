@@ -1,7 +1,0 @@
-<map id="log_rec_mvcc_undo" name="log_rec_mvcc_undo">
-<area shape="rect" id="node2" href="$structlog__vacuum__info.html" title="log_vacuum_info" alt="" coords="117,101,237,131"/>
-<area shape="rect" id="node4" href="$structlog__lsa.html" title="log_lsa" alt="" coords="5,5,67,35"/>
-<area shape="rect" id="node6" href="$structvfid.html" title="vfid" alt="" coords="183,5,225,35"/>
-<area shape="rect" id="node8" href="$structlog__rec__undo.html" title="log_rec_undo" alt="" coords="261,101,360,131"/>
-<area shape="rect" id="node10" href="$structlog__data.html" title="log_data" alt="" coords="276,5,345,35"/>
-</map>

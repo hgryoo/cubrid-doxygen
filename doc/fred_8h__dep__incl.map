@@ -1,6 +1,0 @@
-<map id="src/heaplayers/util/fred.h" name="src/heaplayers/util/fred.h">
-<area shape="rect" id="node3" href="$heaplayers_8h.html" title="The master Heap Layers include file. " alt="" coords="131,101,315,131"/>
-<area shape="rect" id="node5" href="$coalesceheap_8h.html" title="src/heaplayers/coalesceheap.h" alt="" coords="5,188,208,217"/>
-<area shape="rect" id="node8" href="$customheaps_8cpp.html" title="src/heaplayers/customheaps.cpp" alt="" coords="232,188,445,217"/>
-<area shape="rect" id="node10" href="$scalableleaheap_8h.html" title="src/heaplayers/experimental\l/scalableleaheap.h" alt="" coords="469,179,653,226"/>
-</map>

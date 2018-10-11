@@ -1,8 +1,0 @@
-<map id="lc_copyarea_desc" name="lc_copyarea_desc">
-<area shape="rect" id="node2" href="$structlc__copyarea__oneobj.html" title="lc_copyarea_oneobj" alt="" coords="25,213,161,243"/>
-<area shape="rect" id="node12" href="$structlc__copyarea__manyobjs.html" title="lc_copyarea_manyobjs" alt="" coords="97,309,252,339"/>
-<area shape="rect" id="node4" href="$structdb__identifier.html" title="db_identifier" alt="" coords="5,101,96,131"/>
-<area shape="rect" id="node6" href="$structhfid.html" title="hfid" alt="" coords="120,101,163,131"/>
-<area shape="rect" id="node8" href="$structvfid.html" title="vfid" alt="" coords="120,5,163,35"/>
-<area shape="rect" id="node10" href="$structrecdes.html" title="recdes" alt="" coords="276,309,337,339"/>
-</map>

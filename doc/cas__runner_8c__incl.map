@@ -1,9 +1,0 @@
-<map id="src/broker/cas_runner.c" name="src/broker/cas_runner.c">
-<area shape="rect" id="node19" href="$cubrid__getopt_8h.html" title="cubrid_getopt.h" alt="" coords="781,83,891,112"/>
-<area shape="rect" id="node25" href="$cas__common_8h.html" title="cas_common.h" alt="" coords="965,160,1075,189"/>
-<area shape="rect" id="node31" href="$porting_8h.html" title="porting.h" alt="" coords="879,237,951,267"/>
-<area shape="rect" id="node35" href="$cas__cci_8h.html" title="cas_cci.h" alt="" coords="680,83,757,112"/>
-<area shape="rect" id="node40" href="$broker__log__util_8h.html" title="broker_log_util.h" alt="" coords="1060,83,1177,112"/>
-<area shape="rect" id="node38" href="$cas__error_8h.html" title="cas_error.h" alt="" coords="640,160,725,189"/>
-<area shape="rect" id="node45" href="$log__top__string_8h.html" title="log_top_string.h" alt="" coords="1205,160,1320,189"/>
-</map>

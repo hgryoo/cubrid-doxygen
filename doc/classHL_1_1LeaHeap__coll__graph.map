@@ -1,5 +1,0 @@
-<map id="HL::LeaHeap&lt; Sbrk, Mmap &gt;" name="HL::LeaHeap&lt; Sbrk, Mmap &gt;">
-<area shape="rect" id="node2" href="$classHL_1_1SelectMmapHeap.html" title="HL::SelectMmapHeap\l\&lt; 128 *1024, Threshold\l\&lt; 4096, DLSmallHeapType\l\&lt; DLBigHeapType\&lt; CoalesceableHeap\l\&lt; Sbrk \&gt; \&gt; \&gt; \&gt;, CoalesceableMmapHeap\l\&lt; Mmap \&gt; \&gt;" alt="" coords="575,5,836,121"/>
-<area shape="rect" id="node4" href="$classHL_1_1CoalesceableMmapHeap.html" title="HL::CoalesceableMmapHeap\l\&lt; Mmap \&gt;" alt="" coords="332,39,524,86"/>
-<area shape="rect" id="node6" href="$classHL_1_1RequireCoalesceable.html" title="HL::RequireCoalesceable\l\&lt; Mmap \&gt;" alt="" coords="112,39,283,86"/>
-</map>

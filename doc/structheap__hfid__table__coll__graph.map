@@ -1,8 +1,0 @@
-<map id="heap_hfid_table" name="heap_hfid_table">
-<area shape="rect" id="node2" href="$structlf__hash__table.html" title="lf_hash_table" alt="" coords="124,293,223,323"/>
-<area shape="rect" id="node4" href="$structlf__entry__descriptor.html" title="lf_entry_descriptor" alt="" coords="148,5,276,35"/>
-<area shape="rect" id="node6" href="$structlf__freelist.html" title="lf_freelist" alt="" coords="229,197,304,227"/>
-<area shape="rect" id="node8" href="$structlf__tran__system.html" title="lf_tran_system" alt="" coords="353,101,460,131"/>
-<area shape="rect" id="node13" href="$structlf__tran__entry.html" title="lf_tran_entry" alt="" coords="416,197,509,227"/>
-<area shape="rect" id="node11" href="$structlf__bitmap.html" title="lf_bitmap" alt="" coords="369,5,444,35"/>
-</map>

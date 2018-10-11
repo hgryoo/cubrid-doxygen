@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node3" href="$classHL_1_1SegHeap.html" title="HL::SegHeap\&lt; NumBins,\l getSizeClass, getClassMaxSize,\l LittleHeap, BigHeap \&gt;" alt="" coords="136,13,355,77"/>
-<area shape="rect" id="node5" href="$classHL_1_1StrictSegHeap.html" title="HL::StrictSegHeap\&lt;\l NumBins, getSizeClass,\l getClassMaxSize, LittleHeap,\l BigHeap \&gt;" alt="" coords="403,5,603,86"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="global_unique_stats" name="global_unique_stats">
-<area shape="rect" id="node2" href="$structlog__unique__stats.html" title="log_unique_stats" alt="" coords="5,101,125,131"/>
-<area shape="rect" id="node4" href="$structlog__lsa.html" title="log_lsa" alt="" coords="149,101,211,131"/>
-<area shape="rect" id="node6" href="$structbtid.html" title="btid" alt="" coords="263,101,305,131"/>
-<area shape="rect" id="node8" href="$structvfid.html" title="vfid" alt="" coords="263,5,305,35"/>
-</map>

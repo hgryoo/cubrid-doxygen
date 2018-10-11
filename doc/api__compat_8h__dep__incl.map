@@ -1,8 +1,0 @@
-<map id="src/api/api_compat.h" name="src/api/api_compat.h">
-<area shape="rect" id="node3" href="$db__stub_8h.html" title="src/api/db_stub.h" alt="" coords="260,83,383,112"/>
-<area shape="rect" id="node13" href="$db__vdb_8c.html" title="src/compat/db_vdb.c" alt="" coords="407,83,551,112"/>
-<area shape="rect" id="node5" href="$db__collection_8c.html" title="src/api/db_collection.c" alt="" coords="5,160,157,189"/>
-<area shape="rect" id="node7" href="$db__object_8c.html" title="src/api/db_object.c" alt="" coords="181,160,312,189"/>
-<area shape="rect" id="node9" href="$db__stub_8c.html" title="src/api/db_stub.c" alt="" coords="336,160,459,189"/>
-<area shape="rect" id="node11" href="$db__value__table_8c.html" title="src/api/db_value_table.c" alt="" coords="483,160,645,189"/>
-</map>

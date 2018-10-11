@@ -1,6 +1,0 @@
-<map id="cubthread::task&lt; void &gt;" name="cubthread::task&lt; void &gt;">
-<area shape="rect" id="node3" href="$classconn__initiator__daemon__task.html" title="conn_initiator_daemon_task" alt="" coords="213,5,397,35"/>
-<area shape="rect" id="node5" href="$classconn__listener__daemon__task.html" title="conn_listener_daemon_task" alt="" coords="213,59,397,88"/>
-<area shape="rect" id="node7" href="$classcubstream_1_1transfer__receiver__task.html" title="cubstream::transfer\l_receiver_task" alt="" coords="239,111,372,158"/>
-<area shape="rect" id="node9" href="$classcubstream_1_1transfer__sender__task.html" title="cubstream::transfer\l_sender_task" alt="" coords="239,181,372,227"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="src/base/perf.hpp" name="src/base/perf.hpp">
-<area shape="rect" id="node3" href="$perf_8cpp.html" title="src/base/perf.cpp" alt="" coords="5,92,128,121"/>
-<area shape="rect" id="node5" href="$thread__daemon_8cpp.html" title="src/thread/thread_daemon.cpp" alt="" coords="152,92,349,121"/>
-<area shape="rect" id="node7" href="$thread__looper_8cpp.html" title="src/thread/thread_looper.cpp" alt="" coords="373,92,560,121"/>
-<area shape="rect" id="node9" href="$thread__waiter_8cpp.html" title="src/thread/thread_waiter.cpp" alt="" coords="584,92,771,121"/>
-<area shape="rect" id="node11" href="$thread__worker__pool_8cpp.html" title="src/thread/thread_worker\l_pool.cpp" alt="" coords="795,83,960,130"/>
-</map>

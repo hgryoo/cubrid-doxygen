@@ -1,9 +1,0 @@
-<map id="or_buf" name="or_buf">
-<area shape="rect" id="node2" href="$structor__fixup.html" title="or_fixup" alt="" coords="89,389,156,419"/>
-<area shape="rect" id="node4" href="$structlc__oidset.html" title="lc_oidset" alt="" coords="85,293,160,323"/>
-<area shape="rect" id="node6" href="$structlc__class__oidset.html" title="lc_class_oidset" alt="" coords="66,197,178,227"/>
-<area shape="rect" id="node8" href="$structlc__oidmap.html" title="lc_oidmap" alt="" coords="82,101,162,131"/>
-<area shape="rect" id="node11" href="$structdb__identifier.html" title="db_identifier" alt="" coords="14,5,105,35"/>
-<area shape="rect" id="node15" href="$structhfid.html" title="hfid" alt="" coords="240,101,282,131"/>
-<area shape="rect" id="node17" href="$structvfid.html" title="vfid" alt="" coords="240,5,282,35"/>
-</map>

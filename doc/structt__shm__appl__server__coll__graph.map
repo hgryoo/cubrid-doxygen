@@ -1,8 +1,0 @@
-<map id="t_shm_appl_server" name="t_shm_appl_server">
-<area shape="rect" id="node2" href="$structt__max__heap__node.html" title="t_max_heap_node" alt="" coords="5,101,133,131"/>
-<area shape="rect" id="node4" href="$structt__db__server.html" title="t_db_server" alt="" coords="157,101,248,131"/>
-<area shape="rect" id="node6" href="$structt__shard__conn__info.html" title="t_shard_conn_info" alt="" coords="293,101,421,131"/>
-<area shape="rect" id="node8" href="$structaccess__list.html" title="access_list" alt="" coords="445,101,533,131"/>
-<area shape="rect" id="node10" href="$structip__info.html" title="ip_info" alt="" coords="460,5,519,35"/>
-<area shape="rect" id="node12" href="$structt__appl__server__info.html" title="t_appl_server_info" alt="" coords="557,101,685,131"/>
-</map>

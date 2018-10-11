@@ -1,6 +1,0 @@
-<map id="disk_cache" name="disk_cache">
-<area shape="rect" id="node2" href="$structdisk__cache__volinfo.html" title="disk_cache_volinfo" alt="" coords="5,101,139,131"/>
-<area shape="rect" id="node4" href="$structdisk__perm__info.html" title="disk_perm_info" alt="" coords="163,101,272,131"/>
-<area shape="rect" id="node6" href="$structdisk__extend__info.html" title="disk_extend_info" alt="" coords="227,5,347,35"/>
-<area shape="rect" id="node8" href="$structdisk__temp__info.html" title="disk_temp_info" alt="" coords="296,101,405,131"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="src/query/crypt_opfunc.h" name="src/query/crypt_opfunc.h">
-<area shape="rect" id="node3" href="$authenticate_8c.html" title="src/object/authenticate.c" alt="" coords="5,92,171,121"/>
-<area shape="rect" id="node5" href="$arithmetic_8c.html" title="src/query/arithmetic.c" alt="" coords="195,92,341,121"/>
-<area shape="rect" id="node7" href="$crypt__opfunc_8c.html" title="src/query/crypt_opfunc.c" alt="" coords="365,92,531,121"/>
-<area shape="rect" id="node9" href="$string__opfunc_8c.html" title="src/query/string_opfunc.c" alt="" coords="555,92,723,121"/>
-<area shape="rect" id="node11" href="$file__io_8c.html" title="src/storage/file_io.c" alt="" coords="747,92,883,121"/>
-<area shape="rect" id="node13" href="$log__page__buffer_8c.html" title="src/transaction/log\l_page_buffer.c" alt="" coords="907,83,1035,130"/>
-</map>

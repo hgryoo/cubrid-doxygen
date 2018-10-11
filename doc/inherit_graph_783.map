@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node3" href="$classHL_1_1RequireCoalesceable.html" title="HL::RequireCoalesceable\l\&lt; Mmap \&gt;" alt="" coords="112,39,283,86"/>
-<area shape="rect" id="node5" href="$classHL_1_1CoalesceableMmapHeap.html" title="HL::CoalesceableMmapHeap\l\&lt; Mmap \&gt;" alt="" coords="332,39,524,86"/>
-<area shape="rect" id="node7" href="$classHL_1_1SelectMmapHeap.html" title="HL::SelectMmapHeap\l\&lt; 128 *1024, Threshold\l\&lt; 4096, DLSmallHeapType\l\&lt; DLBigHeapType\&lt; CoalesceableHeap\l\&lt; Sbrk \&gt; \&gt; \&gt; \&gt;, CoalesceableMmapHeap\l\&lt; Mmap \&gt; \&gt;" alt="" coords="575,5,836,121"/>
-<area shape="rect" id="node9" href="$classHL_1_1LeaHeap.html" title="This heap approximates the algorithms used by DLmalloc 2.7.0. " alt="" coords="887,39,1028,86"/>
-</map>

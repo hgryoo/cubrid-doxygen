@@ -1,6 +1,0 @@
-<map id="_LogAppender" name="_LogAppender">
-<area shape="rect" id="node3" href="$class__LogAppenderBase.html" title="_LogAppenderBase" alt="" coords="173,83,307,112"/>
-<area shape="rect" id="node5" href="$class__DailyLogAppender.html" title="_DailyLogAppender" alt="" coords="5,160,139,189"/>
-<area shape="rect" id="node7" href="$class__MaxSizeLogAppender.html" title="_MaxSizeLogAppender" alt="" coords="163,160,317,189"/>
-<area shape="rect" id="node9" href="$class__PostFixAppender.html" title="_PostFixAppender" alt="" coords="341,160,469,189"/>
-</map>

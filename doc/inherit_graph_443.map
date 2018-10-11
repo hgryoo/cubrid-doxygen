@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classcubthread_1_1task.html" title="cubthread::task\&lt; test\l_context \&gt;" alt="" coords="5,58,152,105"/>
-<area shape="rect" id="node3" href="$classtest__thread_1_1inc__work.html" title="test_thread::inc_work" alt="" coords="201,5,348,35"/>
-<area shape="rect" id="node5" href="$classtest__thread_1_1start__end__task.html" title="test_thread::start\l_end_task" alt="" coords="215,58,335,105"/>
-<area shape="rect" id="node7" href="$classtest__thread_1_1test__task.html" title="test_thread::test_task" alt="" coords="200,128,349,157"/>
-</map>

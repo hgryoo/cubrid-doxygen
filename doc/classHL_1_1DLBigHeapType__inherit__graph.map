@@ -1,7 +1,0 @@
-<map id="HL::DLBigHeapType&lt; super &gt;" name="HL::DLBigHeapType&lt; super &gt;">
-<area shape="rect" id="node2" href="$classHL_1_1CoalesceHeap.html" title="HL::CoalesceHeap\&lt; Require\lCoalesceable\&lt; SegHeap\&lt;\l DLBigHeapNS::NUMBINS, DLBigHeap\lNS::getSizeClass, DLBigHeapNS\l::getClassSize, AdaptHeap\&lt; DLList,\l NullHeap\&lt; super \&gt; \&gt;, super \&gt; \&gt; \&gt;" alt="" coords="1032,14,1291,130"/>
-<area shape="rect" id="node4" href="$classHL_1_1RequireCoalesceable.html" title="HL::RequireCoalesceable\l\&lt; SegHeap\&lt; DLBigHeapNS\l::NUMBINS, DLBigHeapNS\l::getSizeClass, DLBigHeapNS\l::getClassSize, AdaptHeap\&lt;\l DLList, NullHeap\&lt; super \&gt; \&gt;\l, super \&gt; \&gt;" alt="" coords="781,5,984,139"/>
-<area shape="rect" id="node6" href="$classHL_1_1SegHeap.html" title="HL::SegHeap\&lt; DLBigHeapNS\l::NUMBINS, DLBigHeapNS\l::getSizeClass, DLBigHeapNS\l::getClassSize, AdaptHeap\&lt;\l DLList, NullHeap\&lt; super \&gt; \&gt;\l, super \&gt;" alt="" coords="531,14,733,130"/>
-<area shape="rect" id="node8" href="$classHL_1_1AdaptHeap.html" title="HL::AdaptHeap\&lt; DLList,\l NullHeap\&lt; super \&gt; \&gt;" alt="" coords="316,49,481,95"/>
-<area shape="rect" id="node10" href="$classHL_1_1NullHeap.html" title="HL::NullHeap\&lt; super \&gt;" alt="" coords="109,57,267,87"/>
-</map>

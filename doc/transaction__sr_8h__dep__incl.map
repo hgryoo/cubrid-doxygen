@@ -1,7 +1,0 @@
-<map id="src/transaction/transaction_sr.h" name="src/transaction/transaction_sr.h">
-<area shape="rect" id="node3" href="$network__interface__cl_8c.html" title="src/communication/network\l_interface_cl.c" alt="" coords="5,83,187,130"/>
-<area shape="rect" id="node5" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="211,83,392,130"/>
-<area shape="rect" id="node7" href="$page__buffer_8c.html" title="src/storage/page_buffer.c" alt="" coords="416,92,587,121"/>
-<area shape="rect" id="node9" href="$lock__manager_8c.html" title="src/transaction/lock\l_manager.c" alt="" coords="611,83,747,130"/>
-<area shape="rect" id="node11" href="$transaction__sr_8c.html" title="src/transaction/transaction_sr.c" alt="" coords="771,92,976,121"/>
-</map>

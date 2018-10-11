@@ -1,8 +1,0 @@
-<map id="src/base/ieeefp.h" name="src/base/ieeefp.h">
-<area shape="rect" id="node3" href="$mprec_8h.html" title="src/base/mprec.h" alt="" coords="293,83,416,112"/>
-<area shape="rect" id="node5" href="$dtoa_8c.html" title="src/base/dtoa.c" alt="" coords="5,169,117,199"/>
-<area shape="rect" id="node7" href="$mprec_8c.html" title="src/base/mprec.c" alt="" coords="141,169,264,199"/>
-<area shape="rect" id="node9" href="$util__common_8c.html" title="src/executables/util\l_common.c" alt="" coords="288,161,421,207"/>
-<area shape="rect" id="node11" href="$object__domain_8c.html" title="src/object/object_domain.c" alt="" coords="445,169,624,199"/>
-<area shape="rect" id="node13" href="$numeric__opfunc_8c.html" title="src/query/numeric_opfunc.c" alt="" coords="648,169,829,199"/>
-</map>

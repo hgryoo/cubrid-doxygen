@@ -1,6 +1,0 @@
-<map id="src/heaplayers/dlheap.h" name="src/heaplayers/dlheap.h">
-<area shape="rect" id="node5" href="$adapt_8h.html" title="adapt.h" alt="" coords="24,83,88,112"/>
-<area shape="rect" id="node7" href="$dllist_8h.html" title="dllist.h" alt="" coords="112,83,171,112"/>
-<area shape="rect" id="node10" href="$sllist_8h.html" title="sllist.h" alt="" coords="195,83,253,112"/>
-<area shape="rect" id="node13" href="$coalesceableheap_8h.html" title="Coalescing support, via RequireCoalesceable and CoalesceableHeap. " alt="" coords="277,83,413,112"/>
-</map>

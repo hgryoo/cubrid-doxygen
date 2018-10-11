@@ -1,8 +1,0 @@
-<map id="T_REQ_HANDLE" name="T_REQ_HANDLE">
-<area shape="rect" id="node2" href="$structT__CCI__QUERY__RESULT.html" title="T_CCI_QUERY_RESULT" alt="" coords="5,101,181,131"/>
-<area shape="rect" id="node4" href="$structT__TUPLE__VALUE.html" title="T_TUPLE_VALUE" alt="" coords="205,101,336,131"/>
-<area shape="rect" id="node6" href="$structt__object.html" title="t_object" alt="" coords="237,5,304,35"/>
-<area shape="rect" id="node8" href="$structT__VALUE__BUF.html" title="T_VALUE_BUF" alt="" coords="360,101,475,131"/>
-<area shape="rect" id="node10" href="$structT__CCI__COL__INFO.html" title="T_CCI_COL_INFO" alt="" coords="499,101,632,131"/>
-<area shape="rect" id="node12" href="$structT__BIND__VALUE.html" title="T_BIND_VALUE" alt="" coords="656,101,776,131"/>
-</map>

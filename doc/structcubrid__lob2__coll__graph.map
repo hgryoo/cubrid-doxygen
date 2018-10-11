@@ -1,8 +1,0 @@
-<map id="cubrid_lob2" name="cubrid_lob2">
-<area shape="rect" id="node2" href="$structT__CUBRID__CONNECT.html" title="T_CUBRID_CONNECT" alt="" coords="95,213,257,243"/>
-<area shape="rect" id="node4" href="$structT__CUBRID__ERROR.html" title="T_CUBRID_ERROR" alt="" coords="5,117,152,147"/>
-<area shape="rect" id="node6" href="$structlinked__list.html" title="linked_list" alt="" coords="176,117,256,147"/>
-<area shape="rect" id="node8" href="$structlinked__list__node.html" title="linked_list_node" alt="" coords="159,5,273,35"/>
-<area shape="rect" id="node11" href="$structT__CUBRID__REQUEST.html" title="T_CUBRID_REQUEST" alt="" coords="281,213,444,243"/>
-<area shape="rect" id="node13" href="$structT__CCI__COL__INFO.html" title="T_CCI_COL_INFO" alt="" coords="296,117,429,147"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="vacuum_heap_helper" name="vacuum_heap_helper">
-<area shape="rect" id="node2" href="$structrecdes.html" title="recdes" alt="" coords="5,101,67,131"/>
-<area shape="rect" id="node4" href="$structvpid.html" title="vpid" alt="" coords="129,101,175,131"/>
-<area shape="rect" id="node6" href="$structmvcc__rec__header.html" title="mvcc_rec_header" alt="" coords="199,101,324,131"/>
-<area shape="rect" id="node8" href="$structlog__lsa.html" title="log_lsa" alt="" coords="231,5,292,35"/>
-<area shape="rect" id="node10" href="$structdb__identifier.html" title="db_identifier" alt="" coords="348,101,439,131"/>
-<area shape="rect" id="node12" href="$structhfid.html" title="hfid" alt="" coords="592,101,635,131"/>
-<area shape="rect" id="node14" href="$structvfid.html" title="vfid" alt="" coords="508,5,551,35"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="trans_info" name="trans_info">
-<area shape="rect" id="node2" href="$structone__tran__info.html" title="one_tran_info" alt="" coords="56,293,155,323"/>
-<area shape="rect" id="node4" href="$structtran__query__exec__info.html" title="tran_query_exec_info" alt="" coords="32,197,179,227"/>
-<area shape="rect" id="node6" href="$structxasl__id.html" title="xasl_id" alt="" coords="75,101,136,131"/>
-<area shape="rect" id="node8" href="$structcache__time.html" title="cache_time" alt="" coords="5,5,93,35"/>
-<area shape="rect" id="node10" href="$structSHA1Hash.html" title="SHA1Hash" alt="" coords="117,5,205,35"/>
-</map>

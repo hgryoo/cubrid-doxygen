@@ -1,8 +1,0 @@
-<map id="src/broker/shard_proxy_handler.h" name="src/broker/shard_proxy_handler.h">
-<area shape="rect" id="node3" href="$shard__proxy_8h.html" title="src/broker/shard_proxy.h" alt="" coords="208,111,373,140"/>
-<area shape="rect" id="node5" href="$shard__proxy_8c.html" title="src/broker/shard_proxy.c" alt="" coords="5,207,171,236"/>
-<area shape="rect" id="node7" href="$shard__proxy__function_8c.html" title="src/broker/shard_proxy\l_function.c" alt="" coords="411,198,565,245"/>
-<area shape="rect" id="node13" href="$shard__proxy__handler_8c.html" title="src/broker/shard_proxy\l_handler.c" alt="" coords="448,102,603,149"/>
-<area shape="rect" id="node15" href="$shard__proxy__io_8c.html" title="src/broker/shard_proxy_io.c" alt="" coords="627,111,808,140"/>
-<area shape="rect" id="node9" href="$shard__statement_8c.html" title="src/broker/shard_statement.c" alt="" coords="195,207,387,236"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="HL::MmapHeap" name="HL::MmapHeap">
-<area shape="rect" id="node2" href="$classHL_1_1PrivateMmapHeap.html" title="HL::PrivateMmapHeap" alt="" coords="5,15,160,44"/>
-<area shape="rect" id="node4" href="$classHL_1_1SpinLockType.html" title="HL::SpinLockType" alt="" coords="184,15,315,44"/>
-<area shape="rect" id="node6" href="$classHL_1_1MyHashMap.html" title="HL::MyHashMap\&lt; void\l *, size_t, MyHeap \&gt;" alt="" coords="339,6,496,53"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="la_cache_pb" name="la_cache_pb">
-<area shape="rect" id="node2" href="$structmht__table.html" title="mht_table" alt="" coords="5,435,83,464"/>
-<area shape="rect" id="node4" href="$structhentry.html" title="hentry" alt="" coords="8,225,67,255"/>
-<area shape="rect" id="node7" href="$structla__cache__buffer.html" title="la_cache_buffer" alt="" coords="208,225,323,255"/>
-<area shape="rect" id="node13" href="$structla__cache__buffer__area.html" title="la_cache_buffer_area" alt="" coords="235,435,381,464"/>
-<area shape="rect" id="node9" href="$structlog__page.html" title="log_page" alt="" coords="228,101,303,131"/>
-<area shape="rect" id="node11" href="$structlog__hdrpage.html" title="log_hdrpage" alt="" coords="220,5,311,35"/>
-</map>

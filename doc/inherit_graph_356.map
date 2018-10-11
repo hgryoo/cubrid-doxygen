@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node3" href="$classcubrid_1_1jdbc_1_1driver_1_1CUBRIDConnection.html" title="cubrid.jdbc.driver.CUBRIDConnection" alt="" coords="143,48,385,77"/>
-<area shape="rect" id="node5" href="$classcubrid_1_1jdbc_1_1driver_1_1CUBRIDConnectionWrapperPooling.html" title="cubrid.jdbc.driver.CUBRIDConnection\lWrapperPooling" alt="" coords="436,5,679,51"/>
-<area shape="rect" id="node7" href="$classcubrid_1_1jdbc_1_1driver_1_1CUBRIDConnectionWrapperXA.html" title="cubrid.jdbc.driver.CUBRIDConnection\lWrapperXA" alt="" coords="436,74,679,121"/>
-</map>

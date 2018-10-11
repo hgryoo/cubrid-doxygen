@@ -1,8 +1,0 @@
-<map id="src/base/fault_injection.c" name="src/base/fault_injection.c">
-<area shape="rect" id="node3" href="$fault__injection_8h.html" title="fault_injection.h" alt="" coords="289,83,401,112"/>
-<area shape="rect" id="node17" href="$porting_8h.html" title="porting.h" alt="" coords="5,160,77,189"/>
-<area shape="rect" id="node20" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="117,83,259,112"/>
-<area shape="rect" id="node5" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="288,160,403,189"/>
-<area shape="rect" id="node15" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="427,160,560,189"/>
-<area shape="rect" id="node13" href="$error__code_8h.html" title="error_code.h" alt="" coords="204,237,297,267"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="cubrid.jdbc.driver.CUBRIDShardMetaData" name="cubrid.jdbc.driver.CUBRIDShardMetaData">
-<area shape="rect" id="node2" href="$classcubrid_1_1jdbc_1_1jci_1_1UError.html" title="cubrid.jdbc.jci.UError" alt="" coords="593,37,737,67"/>
-<area shape="rect" id="node23" href="$classcubrid_1_1jdbc_1_1driver_1_1CUBRIDDatabaseMetaData.html" title="cubrid.jdbc.driver.CUBRIDDatabase\lMetaData" alt="" coords="845,167,1080,214"/>
-<area shape="rect" id="node4" href="$classcubrid_1_1jdbc_1_1driver_1_1CUBRIDConnection.html" title="cubrid.jdbc.driver.CUBRIDConnection" alt="" coords="145,125,388,155"/>
-<area shape="rect" id="node11" href="$classcubrid_1_1jdbc_1_1jci_1_1UConnection.html" title="cubrid.jdbc.jci.UConnection" alt="" coords="575,269,756,299"/>
-<area shape="rect" id="node15" href="$classcubrid_1_1jdbc_1_1jci_1_1UShardInfo.html" title="cubrid.jdbc.jci.UShardInfo" alt="" coords="181,395,352,424"/>
-</map>

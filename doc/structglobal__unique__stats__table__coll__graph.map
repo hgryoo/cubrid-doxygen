@@ -1,9 +1,0 @@
-<map id="global_unique_stats_table" name="global_unique_stats_table">
-<area shape="rect" id="node2" href="$structlf__hash__table.html" title="lf_hash_table" alt="" coords="136,293,235,323"/>
-<area shape="rect" id="node4" href="$structlf__entry__descriptor.html" title="lf_entry_descriptor" alt="" coords="165,5,293,35"/>
-<area shape="rect" id="node6" href="$structlf__freelist.html" title="lf_freelist" alt="" coords="247,197,321,227"/>
-<area shape="rect" id="node8" href="$structlf__tran__system.html" title="lf_tran_system" alt="" coords="371,101,477,131"/>
-<area shape="rect" id="node13" href="$structlf__tran__entry.html" title="lf_tran_entry" alt="" coords="433,197,527,227"/>
-<area shape="rect" id="node11" href="$structlf__bitmap.html" title="lf_bitmap" alt="" coords="387,5,461,35"/>
-<area shape="rect" id="node19" href="$structlog__lsa.html" title="log_lsa" alt="" coords="443,293,504,323"/>
-</map>

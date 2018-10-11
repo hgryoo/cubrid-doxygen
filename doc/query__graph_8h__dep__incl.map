@@ -1,6 +1,0 @@
-<map id="src/optimizer/query_graph.h" name="src/optimizer/query_graph.h">
-<area shape="rect" id="node3" href="$plan__generation_8c.html" title="src/optimizer/plan\l_generation.c" alt="" coords="5,102,131,149"/>
-<area shape="rect" id="node5" href="$query__graph_8c.html" title="src/optimizer/query\l_graph.c" alt="" coords="155,102,288,149"/>
-<area shape="rect" id="node7" href="$query__planner_8c.html" title="src/optimizer/query\l_planner.c" alt="" coords="312,102,445,149"/>
-<area shape="rect" id="node9" href="$xasl__generation_8c.html" title="src/parser/xasl_generation.c" alt="" coords="469,111,656,140"/>
-</map>

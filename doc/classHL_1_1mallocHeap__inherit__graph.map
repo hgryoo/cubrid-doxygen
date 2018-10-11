@@ -1,6 +1,0 @@
-<map id="HL::mallocHeap" name="HL::mallocHeap">
-<area shape="rect" id="node3" href="$classHL_1_1ZoneHeap.html" title="HL::ZoneHeap\&lt; mallocHeap, 0 \&gt;" alt="" coords="5,83,219,112"/>
-<area shape="rect" id="node5" href="$classHL_1_1FreelistHeap.html" title="HL::FreelistHeap\&lt; ZoneHeap\l\&lt; mallocHeap, 0 \&gt; \&gt;" alt="" coords="16,161,208,207"/>
-<area shape="rect" id="node7" href="$classHL_1_1LockedHeap.html" title="HL::LockedHeap\&lt; SpinLock\lType, FreelistHeap\&lt; ZoneHeap\l\&lt; mallocHeap, 0 \&gt; \&gt; \&gt;" alt="" coords="9,256,215,320"/>
-<area shape="rect" id="node9" href="$classTheFixedHeapType.html" title="TheFixedHeapType" alt="" coords="44,368,180,397"/>
-</map>

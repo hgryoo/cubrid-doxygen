@@ -1,9 +1,0 @@
-<map id="src/broker/shard_statement.h" name="src/broker/shard_statement.h">
-<area shape="rect" id="node3" href="$shard__parser_8h.html" title="shard_parser.h" alt="" coords="178,83,285,112"/>
-<area shape="rect" id="node22" href="$broker__config_8h.html" title="broker_config.h" alt="" coords="585,83,694,112"/>
-<area shape="rect" id="node25" href="$cas__protocol_8h.html" title="cas_protocol.h" alt="" coords="733,160,840,189"/>
-<area shape="rect" id="node29" href="$shard__proxy__queue_8h.html" title="shard_proxy_queue.h" alt="" coords="818,83,965,112"/>
-<area shape="rect" id="node13" href="$system_8h.html" title="system.h" alt="" coords="288,160,362,189"/>
-<area shape="rect" id="node20" href="$error__code_8h.html" title="error_code.h" alt="" coords="386,160,480,189"/>
-<area shape="rect" id="node27" href="$environment__variable_8h.html" title="environment_variable.h" alt="" coords="554,160,709,189"/>
-</map>

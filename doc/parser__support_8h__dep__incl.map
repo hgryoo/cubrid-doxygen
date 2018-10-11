@@ -1,9 +1,0 @@
-<map id="src/parser/parser_support.h" name="src/parser/parser_support.h">
-<area shape="rect" id="node3" href="$plan__generation_8c.html" title="src/optimizer/plan\l_generation.c" alt="" coords="5,83,131,130"/>
-<area shape="rect" id="node5" href="$parse__evaluate_8c.html" title="src/parser/parse_evaluate.c" alt="" coords="155,92,336,121"/>
-<area shape="rect" id="node7" href="$parser__support_8c.html" title="src/parser/parser_support.c" alt="" coords="360,92,541,121"/>
-<area shape="rect" id="node9" href="$xasl__generation_8c.html" title="src/parser/xasl_generation.c" alt="" coords="565,92,752,121"/>
-<area shape="rect" id="node11" href="$src_2query_2cursor_8c.html" title="src/query/cursor.c" alt="" coords="776,92,901,121"/>
-<area shape="rect" id="node13" href="$execute__schema_8c.html" title="src/query/execute_schema.c" alt="" coords="925,92,1115,121"/>
-<area shape="rect" id="node15" href="$execute__statement_8c.html" title="src/query/execute_statement.c" alt="" coords="1139,92,1341,121"/>
-</map>

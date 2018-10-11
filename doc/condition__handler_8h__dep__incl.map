@@ -1,9 +1,0 @@
-<map id="src/base/condition_handler.h" name="src/base/condition_handler.h">
-<area shape="rect" id="node3" href="$condition__handler_8c.html" title="src/base/condition\l_handler.c" alt="" coords="191,102,319,149"/>
-<area shape="rect" id="node5" href="$cnv_8h.html" title="src/compat/cnv.h" alt="" coords="343,111,465,140"/>
-<area shape="rect" id="node7" href="$cnv_8c.html" title="src/compat/cnv.c" alt="" coords="5,207,128,236"/>
-<area shape="rect" id="node9" href="$db__macro_8c.html" title="src/compat/db_macro.c" alt="" coords="152,207,309,236"/>
-<area shape="rect" id="node11" href="$csql__result__format_8c.html" title="src/executables/csql\l_result_format.c" alt="" coords="333,198,475,245"/>
-<area shape="rect" id="node13" href="$parse__dbi_8c.html" title="src/parser/parse_dbi.c" alt="" coords="499,207,648,236"/>
-<area shape="rect" id="node15" href="$boot__cl_8c.html" title="src/transaction/boot_cl.c" alt="" coords="672,207,837,236"/>
-</map>

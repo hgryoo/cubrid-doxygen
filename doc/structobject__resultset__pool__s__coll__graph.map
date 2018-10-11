@@ -1,7 +1,0 @@
-<map id="object_resultset_pool_s" name="object_resultset_pool_s">
-<area shape="rect" id="node2" href="$structhash__table__s.html" title="hash_table_s" alt="" coords="5,212,104,241"/>
-<area shape="rect" id="node4" href="$structht__bucket__s.html" title="ht_bucket_s" alt="" coords="8,107,101,136"/>
-<area shape="rect" id="node6" href="$structdlisth__s.html" title="dlisth_s" alt="" coords="21,8,88,37"/>
-<area shape="rect" id="node9" href="$structapi__object__resultset__pool__s.html" title="api_object_resultset\l_pool_s" alt="" coords="128,203,267,250"/>
-<area shape="rect" id="node11" href="$structbh__interface__s.html" title="bh_interface_s" alt="" coords="291,212,397,241"/>
-</map>

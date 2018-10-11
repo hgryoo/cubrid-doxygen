@@ -1,5 +1,0 @@
-<map id="HL::KingsleyHeap&lt; PerClassHeap, BigHeap &gt;" name="HL::KingsleyHeap&lt; PerClassHeap, BigHeap &gt;">
-<area shape="rect" id="node2" href="$classHL_1_1StrictSegHeap.html" title="HL::StrictSegHeap\&lt;\l Kingsley::NUMBINS,\l Kingsley::size2Class,\l Kingsley::class2Size,\l PerClassHeap, BigHeap \&gt;" alt="" coords="541,5,723,104"/>
-<area shape="rect" id="node4" href="$classHL_1_1SegHeap.html" title="HL::SegHeap\&lt; NumBins,\l getSizeClass, getClassMaxSize,\l PerClassHeap, BigHeap \&gt;" alt="" coords="275,23,493,87"/>
-<area shape="rect" id="node6" href="$classHL_1_1PerClassHeap.html" title="HL::PerClassHeap\&lt; SuperHeap \&gt;" alt="" coords="5,40,227,69"/>
-</map>

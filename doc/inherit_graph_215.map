@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classChunkHeap.html" title="ChunkHeap\&lt; chunkSize,\l slotSize, Super \&gt;" alt="" coords="5,14,173,61"/>
-<area shape="rect" id="node3" href="$classSlotInterface.html" title="SlotInterface\&lt; chunkSize,\l slotSize, ChunkHeap\&lt; chunkSize,\l slotSize, Super \&gt; \&gt;" alt="" coords="221,5,448,69"/>
-<area shape="rect" id="node5" href="$classSlotHeap.html" title="SlotHeap\&lt; chunkSize,\l slotSize, Super \&gt;" alt="" coords="497,14,649,61"/>
-</map>

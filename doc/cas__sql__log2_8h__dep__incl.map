@@ -1,9 +1,0 @@
-<map id="src/broker/cas_sql_log2.h" name="src/broker/cas_sql_log2.h">
-<area shape="rect" id="node3" href="$broker__admin__pub_8c.html" title="src/broker/broker_admin\l_pub.c" alt="" coords="5,102,168,149"/>
-<area shape="rect" id="node5" href="$broker__config_8c.html" title="src/broker/broker_config.c" alt="" coords="192,111,365,140"/>
-<area shape="rect" id="node7" href="$cas_8c.html" title="src/broker/cas.c" alt="" coords="389,111,504,140"/>
-<area shape="rect" id="node9" href="$cas__error_8c.html" title="src/broker/cas_error.c" alt="" coords="528,111,677,140"/>
-<area shape="rect" id="node11" href="$cas__execute_8c.html" title="src/broker/cas_execute.c" alt="" coords="701,111,869,140"/>
-<area shape="rect" id="node13" href="$cas__function_8c.html" title="src/broker/cas_function.c" alt="" coords="893,111,1061,140"/>
-<area shape="rect" id="node15" href="$cas__sql__log2_8c.html" title="src/broker/cas_sql\l_log2.c" alt="" coords="1085,102,1213,149"/>
-</map>

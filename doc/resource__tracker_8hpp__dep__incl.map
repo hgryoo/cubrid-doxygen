@@ -1,9 +1,0 @@
-<map id="src/base/resource_tracker.hpp" name="src/base/resource_tracker.hpp">
-<area shape="rect" id="node3" href="$memory__alloc_8c.html" title="src/base/memory_alloc.c" alt="" coords="5,100,173,129"/>
-<area shape="rect" id="node5" href="$resource__tracker_8cpp.html" title="src/base/resource_tracker.cpp" alt="" coords="197,100,395,129"/>
-<area shape="rect" id="node7" href="$page__buffer_8c.html" title="src/storage/page_buffer.c" alt="" coords="419,100,589,129"/>
-<area shape="rect" id="node9" href="$critical__section_8c.html" title="src/thread/critical\l_section.c" alt="" coords="613,91,736,138"/>
-<area shape="rect" id="node11" href="$critical__section__tracker_8cpp.html" title="src/thread/critical\l_section_tracker.cpp" alt="" coords="760,91,901,138"/>
-<area shape="rect" id="node13" href="$thread__entry_8cpp.html" title="src/thread/thread_entry.cpp" alt="" coords="925,100,1107,129"/>
-<area shape="rect" id="node15" href="$test__restrack__main_8cpp.html" title="unit_tests/resource\l_tracker/test_restrack\l_main.cpp" alt="" coords="1131,83,1280,147"/>
-</map>

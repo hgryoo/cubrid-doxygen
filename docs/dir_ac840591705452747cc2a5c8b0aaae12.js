@@ -1,4 +1,0 @@
-var dir_ac840591705452747cc2a5c8b0aaae12 =
-[
-    [ "django_cubrid", "dir_18853b3fd9159335d9d35267750901d8.html", "dir_18853b3fd9159335d9d35267750901d8" ]
-];

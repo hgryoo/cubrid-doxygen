@@ -11,8 +11,9 @@ addons:
       - graphviz
 
 script:
-  - git clone https://github.com/CUBRID/cubrid.git .
-  - doxygen Doxyfile
+  - cd $TRAVIS_BUILD_DIR
+  - chmod +x generate_doc.sh
+  - ./generate_doc.sh
 
 deploy:
   provider: pages

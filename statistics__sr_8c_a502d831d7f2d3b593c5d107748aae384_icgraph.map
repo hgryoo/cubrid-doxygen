@@ -1,0 +1,10 @@
+<map id="xstats_update_statistics" name="xstats_update_statistics">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#a513fa1243d3dd7f6762b49237c608133" title="sqst_update_statistics" alt="" coords="449,12,603,39"/>
+<area shape="rect" id="node4" href="$statistics__sr_8c.html#a87537ae40bfb987f6d7be9eff99352cd" title="stats_update_partitioned\l_statistics" alt="" coords="227,30,391,71"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#ad3fa6153972554ec8d7f55602bbcf5f3" title="stats_update_statistics" alt="" coords="231,96,388,123"/>
+<area shape="rect" id="node7" href="$classcubload_1_1session.html#a21cb808c9b77475cf78631bbc032f539" title="cubload::session::update\l_class_statistics" alt="" coords="226,147,393,189"/>
+<area shape="rect" id="node9" href="$statistics__sr_8c.html#a0666df61080a08d9cc95b8672be50369" title="xstats_update_all_statistics" alt="" coords="217,213,401,240"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="651,80,757,107"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#aa1103605b7e5cf2b26a8ee5a2ecea440" title="sm_update_statistics" alt="" coords="453,96,599,123"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#aa54b57f395f97a327e8495817cb46ae9" title="sloaddb_update_stats" alt="" coords="451,151,601,177"/>
+</map>

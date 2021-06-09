@@ -1,0 +1,11 @@
+<map id="tr_free_schema_cache" name="tr_free_schema_cache">
+<area shape="rect" id="node2" href="$class__object_8c.html#ae574da51cefa37883fba4693091bffa9" title="classobj_clear_attribute" alt="" coords="212,31,371,57"/>
+<area shape="rect" id="node4" href="$class__object_8h.html#a145685b1468b99b25b33dff9e869a484" title="classobj_free_template" alt="" coords="639,31,795,57"/>
+<area shape="rect" id="node6" href="$class__object_8h.html#a3220191cf2a26a22f94e71692b1a5032" title="classobj_install_template" alt="" coords="423,81,591,108"/>
+<area shape="rect" id="node7" href="$schema__manager_8c.html#abac3a1b5eaf0b5417f1b2a44c3958032" title="flatten_trigger_cache" alt="" coords="435,208,578,235"/>
+<area shape="rect" id="node8" href="$trigger__manager_8h.html#a62e2419a0fa885ce37408077515d9c9c" title="tr_copy_schema_cache" alt="" coords="211,233,371,260"/>
+<area shape="rect" id="node9" href="$trigger__manager_8h.html#afd3ebb09b26a4970fb843447edd80b0b" title="tr_delete_schema_cache" alt="" coords="208,284,375,311"/>
+<area shape="rect" id="node10" href="$trigger__manager_8h.html#aed70ae6c883a57725cfef43cdc03d3c1" title="tr_delete_triggers\l_for_class" alt="" coords="230,335,353,377"/>
+<area shape="rect" id="node3" href="$class__object_8h.html#a877315c9c28a885bb6b5962b124f1c36" title="classobj_free_attribute" alt="" coords="430,31,583,57"/>
+<area shape="rect" id="node5" href="$class__object_8h.html#ab7d92672c617747d7da2d6567e1c269b" title="classobj_free_class" alt="" coords="843,5,980,32"/>
+</map>

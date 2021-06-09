@@ -1,0 +1,21 @@
+<map id="obj_find_unique" name="obj_find_unique">
+<area shape="rect" id="node2" href="$authenticate_8h.html#afb3c317e408bd9ad5a72bcc7c52877e2" title="au_find_user" alt="" coords="209,335,305,361"/>
+<area shape="rect" id="node16" href="$authenticate_8h.html#a1c33e89338417b7d7283bd66a1c8e315" title="au_find_user_to_drop" alt="" coords="183,385,330,412"/>
+<area shape="rect" id="node17" href="$authenticate_8c.html#a8a7c21f89841de7a41578a09e4cd63b5" title="au_set_new_auth" alt="" coords="195,436,319,463"/>
+<area shape="rect" id="node18" href="$db__obj_8c.html#a9b83a61047272e6292c3625d7341854a" title="db_find_unique" alt="" coords="202,157,311,184"/>
+<area shape="rect" id="node20" href="$db__obj_8c.html#a823ba33c7b13ae541b9b5199b904bdd7" title="db_find_unique_write_mode" alt="" coords="165,487,348,513"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#aa479c87e3576961adb289499447402f7" title="au_add_member_method" alt="" coords="401,259,569,285"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#abf5a1e3cd4160a51bc6acd4abff51bb6" title="au_add_user" alt="" coords="437,157,533,184"/>
+<area shape="rect" id="node5" href="$util__sa_8c.html#a5ca6959d779932ef8c5e4006a7425df1" title="parse_user_define_line" alt="" coords="627,132,781,159"/>
+<area shape="rect" id="node6" href="$authenticate_8h.html#a452d87c038c1682017cf8844bfa99bd2" title="au_change_owner_method" alt="" coords="396,360,573,387"/>
+<area shape="rect" id="node7" href="$authenticate_8h.html#aa94c06a8a0d5617454fb4fabb493531a" title="au_change_serial_owner\l_method" alt="" coords="621,23,787,65"/>
+<area shape="rect" id="node8" href="$authenticate_8h.html#a7d22a782f0758d8bf9c8176303152da1" title="au_change_sp_owner\l_method" alt="" coords="411,462,559,503"/>
+<area shape="rect" id="node9" href="$authenticate_8h.html#a861ab4bce20c095297b9433051ff5ae0" title="au_change_trigger_owner\l_method" alt="" coords="399,527,570,569"/>
+<area shape="rect" id="node10" href="$authenticate_8h.html#a8fff30d42532db4f32b472eee4df0482" title="au_drop_member_method" alt="" coords="399,593,571,620"/>
+<area shape="rect" id="node11" href="$authenticate_8h.html#a15ffc07ba57963ac29a0fd7632d3ee94" title="au_find_user_method" alt="" coords="411,644,558,671"/>
+<area shape="rect" id="node12" href="$authenticate_8c.html#a345411e85753dfbd58f1dfa3aae45a84" title="au_perform_login" alt="" coords="424,695,545,721"/>
+<area shape="rect" id="node13" href="$authenticate_8h.html#acf08ecf34ed25bda32e5baf8deeb5a99" title="au_start" alt="" coords="669,553,739,580"/>
+<area shape="rect" id="node14" href="$dbi__compat_8h.html#a2d0e9b7a779e0f4394bfb753cb1da4e5" title="db_find_user" alt="" coords="437,208,533,235"/>
+<area shape="rect" id="node15" href="$log__applier_8c.html#a70b0708cb334329d40d7e73128d87e70" title="la_apply_statement_log" alt="" coords="405,309,564,336"/>
+<area shape="rect" id="node19" href="$execute__statement_8h.html#ac27490ba3ba1d7150a96711cd63145ed" title="do_get_serial_obj_id" alt="" coords="415,5,555,32"/>
+</map>

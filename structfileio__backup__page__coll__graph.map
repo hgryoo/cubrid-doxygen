@@ -1,0 +1,5 @@
+<map id="fileio_backup_page" name="fileio_backup_page">
+<area shape="rect" id="node2" href="$structfileio__page.html" title="{fileio_page\n|+ page\l|}" alt="" coords="125,233,209,311"/>
+<area shape="rect" id="node3" href="$structfileio__page__watermark.html" title="{fileio_page_watermark\n||}" alt="" coords="5,49,157,127"/>
+<area shape="rect" id="node4" href="$structfileio__page__reserved.html" title="{fileio_page_reserved\n|+ pageid\l+ volid\l+ ptype\l+ pflag\l+ p_reserve_1\l+ p_reserve_2\l+ tde_nonce\l|}" alt="" coords="181,5,323,171"/>
+</map>

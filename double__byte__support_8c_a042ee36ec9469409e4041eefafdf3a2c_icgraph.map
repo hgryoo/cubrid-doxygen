@@ -1,0 +1,11 @@
+<map id="dbcs_convert_w_char" name="dbcs_convert_w_char">
+<area shape="rect" id="node2" href="$double__byte__support_8c.html#a4d682fdf992ef15fa6809ee53bc56d82" title="dbcs_get_next_token\l_wchar" alt="" coords="625,171,772,213"/>
+<area shape="rect" id="node4" href="$double__byte__support_8c.html#a8154830d3cd617b1aaf3b093b1afc4a6" title="dbcs_process_c_comment" alt="" coords="399,48,577,75"/>
+<area shape="rect" id="node5" href="$double__byte__support_8c.html#ae183fd5228ec75da520cf4768336cc73" title="dbcs_process_csql" alt="" coords="209,99,344,125"/>
+<area shape="rect" id="node6" href="$double__byte__support_8c.html#a2d45fb5afb0d866f9263b525ea6591f8" title="dbcs_process_double\l_quote_string" alt="" coords="203,201,351,242"/>
+<area shape="rect" id="node10" href="$double__byte__support_8c.html#a28ddab568a7def0cf48774008b4c7a15" title="dbcs_process_single\l_quote_string" alt="" coords="205,327,349,369"/>
+<area shape="rect" id="node3" href="$parser_8h.html#a415e047cbd0afb31dd28312ad609cc63" title="dbcs_get_next" alt="" coords="820,179,927,205"/>
+<area shape="rect" id="node7" href="$double__byte__support_8c.html#a62536398cf6b0e970fdb8a6ba3ce3dd5" title="dbcs_process_double\l_quote_string_hexa" alt="" coords="414,201,562,242"/>
+<area shape="rect" id="node8" href="$double__byte__support_8c.html#a8de736c89cdc13f3ae2247ffcfc02175" title="dbcs_process_double\l_quote_string_decimal" alt="" coords="412,266,564,307"/>
+<area shape="rect" id="node9" href="$double__byte__support_8c.html#ae0b1e39d8e7be2b7d0fb3eac4f57a29d" title="dbcs_process_double\l_quote_string_octal" alt="" coords="414,331,562,373"/>
+</map>

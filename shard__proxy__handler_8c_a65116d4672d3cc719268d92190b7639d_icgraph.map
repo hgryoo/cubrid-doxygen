@@ -1,0 +1,6 @@
+<map id="proxy_handler_process_client_request" name="proxy_handler_process_client_request">
+<area shape="rect" id="node2" href="$shard__proxy__handler_8c.html#a6d513c07af9d66835ec7ca81ab90bc16" title="proxy_handler_process\l_client_event" alt="" coords="456,27,612,68"/>
+<area shape="rect" id="node4" href="$shard__proxy__handler_8c.html#a408a8b358cd2ec49dac7d9e4f0e2c5bc" title="proxy_handler_process\l_client_wakeup_by_shard" alt="" coords="223,27,395,68"/>
+<area shape="rect" id="node5" href="$shard__proxy__handler_8c.html#a796f6ce0e69f8a554ae5329ce5a9e007" title="proxy_handler_process\l_client_wakeup_by_statement" alt="" coords="209,92,408,133"/>
+<area shape="rect" id="node3" href="$shard__proxy__handler_8h.html#a3c68f9a823ae1982f3d2f76cbe77a82e" title="proxy_handler_process" alt="" coords="660,34,816,61"/>
+</map>

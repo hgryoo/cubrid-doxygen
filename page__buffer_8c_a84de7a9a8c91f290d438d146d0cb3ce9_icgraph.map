@@ -1,0 +1,21 @@
+<map id="pgbuf_set_bcb_page_vpid" name="pgbuf_set_bcb_page_vpid">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="245,81,362,108"/>
+<area shape="rect" id="node7" href="$page__buffer_8h.html#a087e0ba35d14f58979e47ce998f2bcb1" title="pgbuf_set_page_ptype" alt="" coords="227,521,380,548"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#a9b12f4a81c72a927263dbac8b1cfc032" title="heap_scan_pb_lock_and\l_fetch_debug" alt="" coords="675,23,840,65"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#a92d71be45b75ca7c89e700787c33914c" title="pgbuf_fix_with_retry" alt="" coords="458,31,597,57"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#afe78724b7abcc4efb6d4b28c49a46ebc" title="pgbuf_ordered_fix_debug" alt="" coords="444,81,611,108"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#a130532104328cc6d57cda05541d66afc" title="pgbuf_fix_if_not_deallocated\l_with_caller" alt="" coords="434,133,621,174"/>
+<area shape="rect" id="node8" href="$query__manager_8c.html#a2f49a5d957919162d9e2544467bb183d" title="qmgr_init_external\l_file_page" alt="" coords="463,198,591,239"/>
+<area shape="rect" id="node9" href="$vacuum_8c.html#a59594dc3d3fbb3ad947c94b20fadac80" title="vacuum_data_initialize\l_new_page" alt="" coords="450,263,605,305"/>
+<area shape="rect" id="node10" href="$vacuum_8h.html#a43015d9f40393d7c0045aeed26371db6" title="vacuum_create_file\l_for_dropped_files" alt="" coords="460,329,595,370"/>
+<area shape="rect" id="node11" href="$vacuum_8c.html#ab3cea56efb984531d2c8dbc2ca5f3cfe" title="vacuum_add_dropped_file" alt="" coords="441,395,614,421"/>
+<area shape="rect" id="node12" href="$btree_8h.html#a9e5968aeb0c179ae973f21e309f176f3" title="btree_initialize_new_page" alt="" coords="442,445,613,472"/>
+<area shape="rect" id="node13" href="$btree_8h.html#a37c09a6f8ae875f5685809185875422e" title="btree_rv_newpage_redo_init" alt="" coords="435,496,619,523"/>
+<area shape="rect" id="node14" href="$btree_8h.html#ace44665f0026e3915e0916356bcb98d7" title="btree_rv_undoredo_copy_page" alt="" coords="428,547,627,573"/>
+<area shape="rect" id="node15" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="712,673,803,700"/>
+<area shape="rect" id="node16" href="$disk__manager_8h.html#a11c0f285080de4a726add2b851dac9c1" title="disk_rv_redo_format" alt="" coords="457,648,597,675"/>
+<area shape="rect" id="node17" href="$disk__manager_8h.html#af058a163af38b0f09b3d6274719110c1" title="disk_rv_redo_init_map" alt="" coords="451,699,603,725"/>
+<area shape="rect" id="node18" href="$disk__manager_8c.html#ad67cba5035ba371ef155b71183c0431e" title="disk_stab_init" alt="" coords="476,749,579,776"/>
+<area shape="rect" id="node19" href="$extendible__hash_8c.html#a613724f6ed540b45dbc3ef5e37270293" title="ehash_initialize_bucket\l_new_page" alt="" coords="449,801,606,842"/>
+<area shape="rect" id="node20" href="$extendible__hash_8c.html#a9dc1d15882982ae293feaf4cd68c6d41" title="ehash_initialize_dir\l_new_page" alt="" coords="461,866,593,907"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ha_mkdir" name="ha_mkdir">
+<area shape="rect" id="node2" href="$util__service_8c.html#ac183ebd7c53ecff25f1965ea87a52919" title="ha_concat_db_and_host" alt="" coords="128,107,291,133"/>
+<area shape="rect" id="node5" href="$util__service_8c.html#ad38e2e7d29bbafe8dc0a9909fac9470c" title="us_hb_copylogdb_start" alt="" coords="340,157,496,184"/>
+<area shape="rect" id="node3" href="$util__service_8c.html#a9c569ca1f115a6f4ed685d0584f031ff" title="us_hb_applylogdb_start" alt="" coords="339,5,497,32"/>
+<area shape="rect" id="node4" href="$util__service_8c.html#a50f6edf3b6ca9d910887a4d44c2ffbf2" title="us_hb_applylogdb_stop" alt="" coords="545,81,704,108"/>
+<area shape="rect" id="node6" href="$util__service_8c.html#a9aac5bc9dfd4b2c0f3014d56eae912e1" title="us_hb_copylogdb_stop" alt="" coords="341,107,495,133"/>
+</map>

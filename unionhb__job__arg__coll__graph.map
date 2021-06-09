@@ -1,0 +1,4 @@
+<map id="hb_job_arg" name="hb_job_arg">
+<area shape="rect" id="node2" href="$structhb__cluster__job__arg.html" title="{hb_cluster_job_arg\n|+ ping_check_count\l+ retries\l|}" alt="" coords="5,42,144,134"/>
+<area shape="rect" id="node3" href="$structhb__resource__job__arg.html" title="{hb_resource_job_arg\n|+ pid\l+ sfd\l+ args\l+ retries\l+ max_retries\l+ ftime\l+ ltime\l|}" alt="" coords="169,5,311,171"/>
+</map>

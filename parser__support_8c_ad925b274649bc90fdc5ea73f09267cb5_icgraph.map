@@ -1,0 +1,6 @@
+<map id="pt_process_spec_for_update" name="pt_process_spec_for_update">
+<area shape="rect" id="node2" href="$parser__support_8c.html#a5fe601ad6a8df13dea317be5ee23af43" title="pt_mark_spec_list_for\l_update" alt="" coords="196,64,347,105"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#a2371a50a9f8ef998a9d23cd351908668" title="mq_rewrite_upd_del\l_top_level_specs" alt="" coords="397,5,535,47"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#a71b8a2bd2bc9c02cc39058ce5ed1e034" title="mq_translate_merge" alt="" coords="396,71,536,98"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#aefab68824a0583afeb4270be8a3e5393" title="mq_translate_update" alt="" coords="395,122,537,149"/>
+</map>

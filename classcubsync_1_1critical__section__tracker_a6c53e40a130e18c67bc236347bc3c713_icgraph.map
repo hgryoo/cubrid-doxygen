@@ -1,0 +1,7 @@
+<map id="cubsync::critical_section_tracker::is_started" name="cubsync::critical_section_tracker::is_started">
+<area shape="rect" id="node2" href="$classcubsync_1_1critical__section__tracker.html#aa3dbf8f4eb9f53453b2dbec57f4834b6" title="cubsync::critical_section\l_tracker::on_demote" alt="" coords="232,5,399,47"/>
+<area shape="rect" id="node3" href="$classcubsync_1_1critical__section__tracker.html#a15e358080803dd16f7e05ecf4f336207" title="cubsync::critical_section\l_tracker::on_enter_as_reader" alt="" coords="220,71,411,112"/>
+<area shape="rect" id="node4" href="$classcubsync_1_1critical__section__tracker.html#abbf0683f84ed3f9e1c1a38055302cd43" title="cubsync::critical_section\l_tracker::on_enter_as_writer" alt="" coords="222,136,409,177"/>
+<area shape="rect" id="node5" href="$classcubsync_1_1critical__section__tracker.html#a4f5cae8f309d32c418506c164ff6868c" title="cubsync::critical_section\l_tracker::on_exit" alt="" coords="232,201,399,243"/>
+<area shape="rect" id="node6" href="$classcubsync_1_1critical__section__tracker.html#a66b92b3595c21a2ca3e4f85deee39dd2" title="cubsync::critical_section\l_tracker::on_promote" alt="" coords="232,267,399,308"/>
+</map>

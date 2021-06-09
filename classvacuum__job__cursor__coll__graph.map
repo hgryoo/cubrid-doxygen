@@ -1,0 +1,5 @@
+<map id="vacuum_job_cursor" name="vacuum_job_cursor">
+<area shape="rect" id="node2" href="$structvacuum__data__page.html" title="{vacuum_data_page\n|+ index_unvacuumed\l+ index_free\l+ INDEX_NOT_FOUND\l|+ is_empty()\l+ is_index_valid()\l+ get_index_of_blockid()\l+ get_first_blockid()\l}" alt="" coords="74,321,241,472"/>
+<area shape="rect" id="node3" href="$structvacuum__data__entry.html" title="{vacuum_data_entry\n|+ blockid\l+ oldest_visible_mvccid\l+ newest_mvccid\l|+ vacuum_data_entry()\l+ vacuum_data_entry()\l+ vacuum_data_entry()\l+ get_blockid()\l+ is_available()\l+ is_vacuumed()\l+ is_job_in_progress()\l+ was_interrupted()\l+ set_vacuumed()\l+ set_job_in_progress()\l+ set_interrupted()\l}" alt="" coords="5,5,168,259"/>
+<area shape="rect" id="node4" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="192,86,264,178"/>
+</map>

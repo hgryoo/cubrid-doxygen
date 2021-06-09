@@ -1,0 +1,5 @@
+<map id="db_does_connected_host_have_status" name="db_does_connected_host_have_status">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#abe2dc02ac3c4fc64a9344d293a93a373" title="db_need_reconnect" alt="" coords="224,13,359,40"/>
+<area shape="rect" id="node4" href="$cas__execute_8c.html#af74a0271cc45803c5af2deb1db6ef116" title="report_abnormal_host\l_status" alt="" coords="423,57,569,98"/>
+<area shape="rect" id="node3" href="$cas__execute_8c.html#a89527c832305034691ebf5fb613e459e" title="need_reconnect_on_rctime" alt="" coords="407,5,585,32"/>
+</map>

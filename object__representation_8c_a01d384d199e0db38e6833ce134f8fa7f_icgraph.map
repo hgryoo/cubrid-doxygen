@@ -1,0 +1,10 @@
+<map id="or_pack_stream" name="or_pack_stream">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a2b24f229af26cd4cb7e193b840385d8c" title="csession_find_or_create\l_session" alt="" coords="168,5,331,47"/>
+<area shape="rect" id="node4" href="$object__representation_8c.html#a6f95a77e425869f6bb921f57120843d8" title="or_pack_recdes" alt="" coords="192,71,307,98"/>
+<area shape="rect" id="node5" href="$object__representation_8c.html#aff6c1d4b908a5dcc8fa6685d4de0eb1d" title="or_pack_string_with\l_null_padding" alt="" coords="180,123,319,164"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#a7cce10b54f3fd06231384b44776b3007" title="ssession_find_or_create\l_session" alt="" coords="168,188,331,229"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#a7887f064522169620a064667eac15293" title="ssession_get_prepared\l_statement" alt="" coords="171,253,327,295"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#a476e193668cd39cbe207523584f6cd02" title="stde_get_data_keys" alt="" coords="180,319,319,346"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a0f10de6a4a686a08a8f0d049c63d92c8" title="db_find_or_create_session" alt="" coords="379,13,556,39"/>
+<area shape="rect" id="node7" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="414,261,521,287"/>
+</map>

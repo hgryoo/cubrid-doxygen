@@ -1,0 +1,18 @@
+<map id="intl_is_space" name="intl_is_space">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#a05e4caa0e269e45adf8e6578c39adc30" title="db_conv" alt="" coords="405,5,476,32"/>
+<area shape="rect" id="node5" href="$string__opfunc_8c.html#a8cc7c91d46ca24106b0dca2116f08a9c" title="is_str_valid_number" alt="" coords="159,5,298,32"/>
+<area shape="rect" id="node6" href="$numeric__opfunc_8h.html#ab7a6d3739268b1c73c57aff990c9ad53" title="numeric_coerce_string\l_to_num" alt="" coords="152,293,305,334"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="576,48,756,75"/>
+<area shape="rect" id="node4" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="607,140,725,167"/>
+<area shape="rect" id="node7" href="$db__value__table_8c.html#a2bb7ca4b167371b9b488703484bb2a2c" title="db_value_to_value" alt="" coords="375,275,506,301"/>
+<area shape="rect" id="node8" href="$db__macro_8c.html#aaac41ec0708d386802559c899a7d90aa" title="coerce_char_to_dbvalue" alt="" coords="359,325,522,352"/>
+<area shape="rect" id="node9" href="$jsp__cl_8c.html#a741170149aebd33af7778d9015f80198" title="jsp_unpack_numeric\l_value" alt="" coords="370,377,511,418"/>
+<area shape="rect" id="node10" href="$object__domain_8c.html#a00d336975ca8465d6d3e2f8adce7c27c" title="tp_atonumeric" alt="" coords="389,443,493,469"/>
+<area shape="rect" id="node11" href="$parser_8h.html#a2ec0c565180360fd5b91fe6a2484b39f" title="pt_db_value_initialize" alt="" coords="367,493,514,520"/>
+<area shape="rect" id="node12" href="$execute__statement_8h.html#a6d5023a6cc407b5d1d0222db0157e162" title="do_create_serial" alt="" coords="382,544,499,571"/>
+<area shape="rect" id="node13" href="$execute__statement_8h.html#ac78ed602718434e660dfe3f61cf88719" title="do_create_auto_increment\l_serial" alt="" coords="353,595,528,637"/>
+<area shape="rect" id="node14" href="$execute__statement_8h.html#ad37d6b13f9139f97baed90d66d276468" title="do_update_maxvalue\l_of_auto_increment_serial" alt="" coords="353,57,528,98"/>
+<area shape="rect" id="node15" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="387,123,494,149"/>
+<area shape="rect" id="node16" href="$string__opfunc_8c.html#af7d786734d573d6df30b46779f6a4cbf" title="make_number" alt="" coords="389,173,493,200"/>
+<area shape="rect" id="node17" href="$string__opfunc_8h.html#a556b385cb2fad7ffcff4b054965ddfa4" title="db_format" alt="" coords="401,224,481,251"/>
+</map>

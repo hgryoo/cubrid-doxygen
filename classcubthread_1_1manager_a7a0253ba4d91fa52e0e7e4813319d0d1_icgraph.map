@@ -1,0 +1,15 @@
+<map id="cubthread::manager::create_and_track_resource" name="cubthread::manager::create_and_track_resource">
+<area shape="rect" id="node2" href="$classcubthread_1_1manager.html#ae0175b93cea685c1f35e1c7730df1f01" title="cubthread::manager\l::create_daemon" alt="" coords="273,165,411,207"/>
+<area shape="rect" id="node9" href="$classcubthread_1_1manager.html#a10b59c255e7f7be0a4344b09cbac7d18" title="cubthread::manager\l::create_daemon_without_entry" alt="" coords="240,255,444,296"/>
+<area shape="rect" id="node10" href="$classcubthread_1_1manager.html#ad86f8a1fe615b31fddda610deb3ac621" title="cubthread::manager\l::create_worker_pool" alt="" coords="271,368,413,409"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#adf068032dd3049af587cb5bbd03dab6f" title="vacuum_boot" alt="" coords="527,290,627,317"/>
+<area shape="rect" id="node4" href="$session_8c.html#a06dcecd0f3088510620d92365174af32" title="session_free_prepared\l_statement" alt="" coords="501,5,654,47"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8h.html#af1b89963ffb5ce9bfc9809ad6369dada" title="dwb_read_page" alt="" coords="521,71,634,98"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a06d2b0cbf44eb89ea6c4c9f068cf4344" title="pgbuf_get_page_flush\l_interval" alt="" coords="711,316,860,357"/>
+<area shape="rect" id="node7" href="$lock__manager_8h.html#a39894afba679cc8ff708080ea5ae6ac8" title="lock_initialize" alt="" coords="527,173,627,199"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="493,224,661,265"/>
+<area shape="rect" id="node11" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="544,341,611,367"/>
+<area shape="rect" id="node12" href="$namespacecubload.html#ada67c839af12fa17c4ef6b0b1089b930" title="cubload::worker_manager\l_register_session" alt="" coords="492,392,663,433"/>
+<area shape="rect" id="node13" href="$btree__load_8c.html#a72589bdf8ecdb8521c23103b862503c0" title="online_index_builder" alt="" coords="508,458,647,485"/>
+<area shape="rect" id="node14" href="$namespacecubthread_1_1internal__tasks__worker__pool.html#a344ad733914c577611206329a30e235d" title="cubthread::internal\l_tasks_worker_pool::\linitialize" alt="" coords="504,509,651,565"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="spage_update_record_type" name="spage_update_record_type">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a512d30dc792740a94604451092dc9493" title="heap_update_bigone" alt="" coords="447,5,589,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a1391e805a04ccf30fe7b6f07864ae047" title="heap_update_physical" alt="" coords="232,107,383,133"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a1bfe88925bd63940173e3c7fe7bb7c46" title="heap_update_logical" alt="" coords="653,208,793,235"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#ae6bc2f0a557f47735e3626174f158ac0" title="heap_delete_home" alt="" coords="453,56,583,83"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#a39452d0770e56fac7920a1eef55d75b9" title="heap_delete_relocation" alt="" coords="441,107,595,133"/>
+<area shape="rect" id="node7" href="$heap__file_8h.html#a51a3211f693341532e05ae7360e838b8" title="heap_rv_undoredo_update" alt="" coords="431,157,605,184"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#a0e14957c5684f34d4601bbcbbef56dc4" title="heap_update_home" alt="" coords="451,208,585,235"/>
+<area shape="rect" id="node9" href="$heap__file_8c.html#aad64b24fe26326bcf208fff0a228988b" title="heap_update_relocation" alt="" coords="439,259,597,285"/>
+</map>

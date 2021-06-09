@@ -1,0 +1,9 @@
+<map id="heap_assign_address" name="heap_assign_address">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="201,39,368,65"/>
+<area shape="rect" id="node4" href="$catalog__class_8c.html#af8c9df2e6063f9d7b49b65709fd1d3ca" title="catcls_insert_instance" alt="" coords="209,123,361,149"/>
+<area shape="rect" id="node8" href="$locator__sr_8c.html#a417f25f43010c99a55ce6c328927c681" title="xlocator_assign_oid" alt="" coords="216,173,353,200"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="416,5,567,32"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#ad99ccfa2d0247243db7b8272ba40ff48" title="catcls_insert_catalog\l_classes" alt="" coords="419,57,564,98"/>
+<area shape="rect" id="node6" href="$catalog__class_8c.html#a00147e67f79dc24215279c77d1cfe977" title="catcls_insert_subset" alt="" coords="420,123,563,149"/>
+<area shape="rect" id="node7" href="$catalog__class_8c.html#a48510ab1df2c4a8d0aa731ff9935f3dc" title="catcls_update_subset" alt="" coords="417,173,566,200"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="file_log_extdata_add" name="file_log_extdata_add">
+<area shape="rect" id="node2" href="$file__manager_8c.html#a73d7f335d0b5680c0f40feccb2d4d936" title="file_numerable_add_page" alt="" coords="195,5,364,32"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a76460db46414569db5eb3042cf269782" title="file_tracker_register\l_internal" alt="" coords="533,23,669,65"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a809af1534543d29a6f24183047377085" title="file_perm_dealloc" alt="" coords="218,107,341,133"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#ac9b7228add17f355af39a6376dc581de" title="file_table_add_full\l_sector" alt="" coords="216,158,343,199"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#a55c34f23406a73f99ed598f8f5f57152" title="file_table_move_partial\l_sectors_to_header" alt="" coords="202,223,357,265"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a3a741355345c6add6859fa974b7025eb" title="file_alloc" alt="" coords="412,5,485,32"/>
+</map>

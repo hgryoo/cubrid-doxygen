@@ -1,0 +1,8 @@
+<map id="shard_shm_init_client_info" name="shard_shm_init_client_info">
+<area shape="rect" id="node2" href="$shard__proxy__handler_8c.html#a544032a93e4b60478cdfdbb6fd2b5ace" title="proxy_context_free\l_client" alt="" coords="233,18,366,59"/>
+<area shape="rect" id="node4" href="$shard__proxy__io_8c.html#a2a6f35e4a2dd9ba12f58f6771284a9fd" title="proxy_socket_io_write\l_to_client" alt="" coords="599,50,751,91"/>
+<area shape="rect" id="node5" href="$shard__shm_8h.html#aa31064381c38dbbc92b999ce9f24b966" title="shard_shm_initialize\l_shm_proxy" alt="" coords="229,135,369,177"/>
+<area shape="rect" id="node3" href="$shard__proxy__handler_8h.html#ad47624c26abea442faf5abe0f241adaf" title="proxy_context_free" alt="" coords="417,29,551,56"/>
+<area shape="rect" id="node6" href="$broker__admin__pub_8h.html#ad2b7e17f9a9fe16d07b20db49cea8f6b" title="admin_start_cmd" alt="" coords="423,139,545,165"/>
+<area shape="rect" id="node7" href="$broker__admin__pub_8h.html#a21e0332265b07017b4f3211c3f455640" title="admin_on_cmd" alt="" coords="429,189,539,216"/>
+</map>

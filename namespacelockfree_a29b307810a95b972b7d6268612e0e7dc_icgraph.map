@@ -1,0 +1,6 @@
+<map id="lockfree::lf_bitmap_free_entry" name="lockfree::lf_bitmap_free_entry">
+<area shape="rect" id="node2" href="$classlockfree_1_1bitmap.html#a64d2d8f7de6bf3ed04cc0862df0083d9" title="lockfree::bitmap::free\l_entry" alt="" coords="183,49,328,90"/>
+<area shape="rect" id="node3" href="$area__alloc_8h.html#a13831bbb7617f5724281c0366d0fdf1e" title="area_free" alt="" coords="413,5,489,32"/>
+<area shape="rect" id="node4" href="$lock__free_8h.html#abda600217a3e9d7b4524982b5ed45dbb" title="lf_tran_return_entry" alt="" coords="383,56,518,83"/>
+<area shape="rect" id="node5" href="$classlockfree_1_1tran_1_1system.html#a94bbfb4b7ebcf7cd5a7201fafc7af079" title="lockfree::tran::system\l::free_index" alt="" coords="376,107,525,149"/>
+</map>

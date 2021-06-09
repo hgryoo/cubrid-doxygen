@@ -1,0 +1,11 @@
+<map id="lang_check_coll_compat" name="lang_check_coll_compat">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#a2d646e2f8b64f926daa7423e27acd011" title="boot_get_host_name" alt="" coords="219,68,361,95"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="223,203,357,229"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a0f10de6a4a686a08a8f0d049c63d92c8" title="db_find_or_create_session" alt="" coords="409,43,587,69"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="635,5,773,32"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="639,81,769,108"/>
+<area shape="rect" id="node7" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="440,144,556,171"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="433,195,563,237"/>
+<area shape="rect" id="node9" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="427,261,569,288"/>
+<area shape="rect" id="node10" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="453,336,543,363"/>
+</map>

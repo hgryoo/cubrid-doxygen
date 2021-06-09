@@ -1,0 +1,10 @@
+<map id="pr_type" name="pr_type">
+<area shape="rect" id="node4" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="555,1188,688,1412"/>
+<area shape="rect" id="node2" href="$structor__buf.html" title="{or_buf\n|+ buffer\l+ ptr\l+ endptr\l+ env\l+ error_abort\l|}" alt="" coords="767,145,863,281"/>
+<area shape="rect" id="node3" href="$structor__fixup.html" title="{or_fixup\n||}" alt="" coords="781,5,849,83"/>
+<area shape="rect" id="node5" href="$structdb__enumeration.html" title="{db_enumeration\n|+ collation_id\l+ count\l|}" alt="" coords="5,681,120,773"/>
+<area shape="rect" id="node6" href="$classJSON__VALIDATOR.html" title="{JSON_VALIDATOR\n|&#45; m_document\l&#45; m_schema\l&#45; m_validator\l&#45; m_schema_raw\l&#45; m_is_loaded\l|+ JSON_VALIDATOR()\l+ JSON_VALIDATOR()\l+ operator=()\l+ ~JSON_VALIDATOR()\l+ load()\l+ validate()\l+ get_schema_raw()\l&#45; generate_schema_validator()\l}" alt="" coords="144,608,341,847"/>
+<area shape="rect" id="node7" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="366,601,541,854"/>
+<area shape="rect" id="node8" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="667,674,759,781"/>
+<area shape="rect" id="node9" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="905,175,1002,252"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="tf_meta_class" name="tf_meta_class">
+<area shape="rect" id="node2" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,35,97,141"/>
+<area shape="rect" id="node3" href="$structtf__meta__attribute.html" title="{tf_meta_attribute\n|+ ma_name\l+ ma_type\l+ ma_visible\l+ ma_domain_string\l+ ma_substructure\l+ ma_id\l+ ma_extended_domain\l|}" alt="" coords="121,5,283,171"/>
+</map>

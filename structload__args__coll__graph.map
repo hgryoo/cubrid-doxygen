@@ -1,0 +1,13 @@
+<map id="load_args" name="load_args">
+<area shape="rect" id="node2" href="$structrecdes.html" title="{recdes\n|+ area_size\l+ length\l+ type\l+ data\l|}" alt="" coords="288,546,379,667"/>
+<area shape="rect" id="node3" href="$structbtid__int.html" title="{btid_int\n|+ unique_pk\l+ part_key_desc\l+ copy_buf\l+ copy_buf_len\l+ rev_level\l|}" alt="" coords="403,539,522,675"/>
+<area shape="rect" id="node4" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="30,5,122,112"/>
+<area shape="rect" id="node6" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="131,189,264,413"/>
+<area shape="rect" id="node5" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="419,13,480,105"/>
+<area shape="rect" id="node7" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="475,263,576,340"/>
+<area shape="rect" id="node8" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="797,13,869,105"/>
+<area shape="rect" id="node9" href="$structbtree__node.html" title="{btree_node\n||}" alt="" coords="714,437,801,515"/>
+<area shape="rect" id="node10" href="$structbtree__page.html" title="{btree_page\n|+ pgptr\l|}" alt="" coords="821,568,907,645"/>
+<area shape="rect" id="node11" href="$structbtree__node__header.html" title="{btree_node_header\n|+ node_level\l+ max_key_len\l|}" alt="" coords="945,255,1077,347"/>
+<area shape="rect" id="node12" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="931,568,1029,645"/>
+</map>

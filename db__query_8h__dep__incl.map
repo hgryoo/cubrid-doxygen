@@ -1,0 +1,21 @@
+<map id="src/compat/db_query.h" name="src/compat/db_query.h">
+<area shape="rect" id="node2" href="$tz__compile_8c.html" title="src/base/tz_compile.c" alt="" coords="111,80,261,107"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8c.html" title="src/communication/network\l_interface_cl.c" alt="" coords="1412,244,1595,285"/>
+<area shape="rect" id="node4" href="$dbi_8h.html" title="src/compat/dbi.h" alt="" coords="751,80,869,107"/>
+<area shape="rect" id="node16" href="$db__query_8c.html" title="src/compat/db_query.c" alt="" coords="1619,251,1774,278"/>
+<area shape="rect" id="node17" href="$db__vdb_8c.html" title="src/compat/db_vdb.c" alt="" coords="662,251,806,278"/>
+<area shape="rect" id="node18" href="$query__result_8c.html" title="src/parser/query_result.c" alt="" coords="1799,251,1965,278"/>
+<area shape="rect" id="node19" href="$boot__cl_8c.html" title="src/transaction/boot_cl.c" alt="" coords="1990,251,2155,278"/>
+<area shape="rect" id="node20" href="$transaction__cl_8c.html" title="src/transaction/transaction_cl.c" alt="" coords="1184,251,1388,278"/>
+<area shape="rect" id="node5" href="$db__collection_8c.html" title="src/api/db_collection.c" alt="" coords="387,162,539,189"/>
+<area shape="rect" id="node6" href="$db__object_8c.html" title="src/api/db_object.c" alt="" coords="564,162,696,189"/>
+<area shape="rect" id="node7" href="$db__value__table_8c.html" title="src/api/db_value_table.c" alt="" coords="914,251,1077,278"/>
+<area shape="rect" id="node8" href="$cas__db__inc_8h.html" title="src/broker/cas_db_inc.h" alt="" coords="100,162,261,189"/>
+<area shape="rect" id="node9" href="$cas__execute_8c.html" title="src/broker/cas_execute.c" alt="" coords="5,251,175,278"/>
+<area shape="rect" id="node10" href="$cas__log_8c.html" title="src/broker/cas_log.c" alt="" coords="253,251,393,278"/>
+<area shape="rect" id="node11" href="$cas__net__buf_8c.html" title="src/broker/cas_net\l_buf.c" alt="" coords="873,155,1003,196"/>
+<area shape="rect" id="node12" href="$cas__sql__log2_8c.html" title="src/broker/cas_sql\l_log2.c" alt="" coords="1027,155,1156,196"/>
+<area shape="rect" id="node13" href="$shard__metadata_8c.html" title="src/broker/shard_metadata.c" alt="" coords="1180,162,1368,189"/>
+<area shape="rect" id="node14" href="$shard__shm_8c.html" title="src/broker/shard_shm.c" alt="" coords="1392,162,1551,189"/>
+<area shape="rect" id="node15" href="$db_8h.html" title="src/compat/db.h" alt="" coords="1627,162,1743,189"/>
+</map>

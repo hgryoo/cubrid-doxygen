@@ -1,0 +1,15 @@
+<map id="setobj_add_element" name="setobj_add_element">
+<area shape="rect" id="node2" href="$set__object_8h.html#a29a0b885c2d84dff7c88a1d43dffe4bd" title="set_add_element" alt="" coords="197,208,318,235"/>
+<area shape="rect" id="node12" href="$set__object_8h.html#af991513f62de207f901f4b59d60f5881" title="setobj_difference" alt="" coords="197,259,318,285"/>
+<area shape="rect" id="node13" href="$set__object_8h.html#a021043e1a125b60613e8474dd3d00dd9" title="setobj_intersection" alt="" coords="192,309,323,336"/>
+<area shape="rect" id="node14" href="$set__object_8h.html#ae90f51e4193a8fd5c140ed527d03e05d" title="setobj_union" alt="" coords="210,360,305,387"/>
+<area shape="rect" id="node3" href="$db__set__function_8h.html#ac26a807723954c69b4b50164f23251f7" title="db_set_add" alt="" coords="416,5,505,32"/>
+<area shape="rect" id="node4" href="$db__set__function_8h.html#accdfddae50122a48c4f4e47e09548b54" title="db_col_add" alt="" coords="417,56,505,83"/>
+<area shape="rect" id="node5" href="$db__set__function_8h.html#ae6c72986e9ead164d9c30c85de70ed53" title="db_col_put" alt="" coords="418,107,503,133"/>
+<area shape="rect" id="node6" href="$db__set__function_8h.html#a15c94da1291b9dc11339fd04ba68ccb3" title="db_col_insert" alt="" coords="411,157,510,184"/>
+<area shape="rect" id="node7" href="$jsp__cl_8c.html#ae61781c4c90beb2039aa322e9c1c810a" title="jsp_unpack_set_value" alt="" coords="385,208,536,235"/>
+<area shape="rect" id="node8" href="$load__sa__loader_8cpp.html#a337c55f768e1da5d5392d916dd85176c" title="ldr_act_elem" alt="" coords="413,259,509,285"/>
+<area shape="rect" id="node9" href="$classcubload_1_1server__object__loader.html#a9cfaba458edb0cc2567713869a66fa08" title="cubload::server_object\l_loader::process_collection\l_constant" alt="" coords="371,309,551,365"/>
+<area shape="rect" id="node10" href="$execute__schema_8c.html#ad83c26cf50e690ff017b73dc83d62521" title="adjust_partition_range" alt="" coords="386,389,535,416"/>
+<area shape="rect" id="node11" href="$execute__schema_8c.html#a9f2af464afc304581eafc189be1b9a1b" title="pt_node_to_partition_info" alt="" coords="377,440,544,467"/>
+</map>

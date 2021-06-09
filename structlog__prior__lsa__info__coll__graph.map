@@ -1,0 +1,5 @@
+<map id="log_prior_lsa_info" name="log_prior_lsa_info">
+<area shape="rect" id="node2" href="$structlog__prior__node.html" title="{log_prior_node\n|+ tde_encrypted\l+ data_header_length\l+ data_header\l+ ulength\l+ udata\l+ rlength\l+ rdata\l|}" alt="" coords="75,505,222,671"/>
+<area shape="rect" id="node3" href="$structlog__rec__header.html" title="{log_rec_header\n|+ trid\l+ type\l|}" alt="" coords="207,336,317,428"/>
+<area shape="rect" id="node4" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="67,5,172,244"/>
+</map>

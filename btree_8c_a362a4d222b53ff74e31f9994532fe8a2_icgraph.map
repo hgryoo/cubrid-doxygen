@@ -1,0 +1,10 @@
+<map id="btree_key_delete_remove_object" name="btree_key_delete_remove_object">
+<area shape="rect" id="node2" href="$btree_8c.html#a817f3908f139a51ad647ea391836b176" title="btree_delete_internal" alt="" coords="224,165,367,192"/>
+<area shape="rect" id="node3" href="$btree_8c.html#ac29562d4392e86891dca81deb5cd7ff7" title="btree_delete_postponed" alt="" coords="418,5,578,32"/>
+<area shape="rect" id="node4" href="$btree_8h.html#a48d91a51517655798dc57076da7d44fa" title="btree_physical_delete" alt="" coords="424,56,572,83"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a8ed9002e6e7efe64bd9b9c20fa7b6ce0" title="btree_undo_insert_object" alt="" coords="415,107,581,133"/>
+<area shape="rect" id="node6" href="$btree_8c.html#abb11d6aa31a9d3ffb41edd6d941f4633" title="btree_undo_insert_object\l_unique_multiupd" alt="" coords="415,158,581,199"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a0fea592d71a44b51d69380388626c846" title="btree_undo_mvcc_delete" alt="" coords="415,224,581,251"/>
+<area shape="rect" id="node8" href="$btree_8h.html#afa9762f8c233cb6381d724250f771ec6" title="btree_vacuum_insert\l_mvccid" alt="" coords="427,275,569,317"/>
+<area shape="rect" id="node9" href="$btree_8h.html#a8fc550c65bdbedc682f03f73d2faa983" title="btree_vacuum_object" alt="" coords="425,341,571,368"/>
+</map>

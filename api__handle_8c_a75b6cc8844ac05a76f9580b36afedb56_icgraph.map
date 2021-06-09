@@ -1,0 +1,8 @@
+<map id="bri_access_root" name="bri_access_root">
+<area shape="rect" id="node2" href="$api__handle_8h.html#abe96d551e2606f140651d89328e50181" title="bh_root_lock" alt="" coords="177,107,273,133"/>
+<area shape="rect" id="node5" href="$api__handle_8h.html#ae426b0b8dc2e8457fbb6ad121d0ffd93" title="bh_root_release" alt="" coords="168,5,283,32"/>
+<area shape="rect" id="node7" href="$api__handle_8h.html#a279be40a9aee8675b0c792bc335f98ae" title="bh_root_unlock" alt="" coords="170,56,281,83"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#a9f506c749a42c53c4bfcd4737b97a0e3" title="ci_create_connection_impl" alt="" coords="331,56,507,83"/>
+<area shape="rect" id="node4" href="$cubrid__api_8c.html#a50eda95bb91c66bc7633040c27c302d8" title="ci_stmt_close" alt="" coords="367,107,470,133"/>
+<area shape="rect" id="node6" href="$cubrid__api_8c.html#abd01ce0b1f5b7b67179bbfc773ef05a1" title="ci_conn_close" alt="" coords="366,5,471,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mr_data_readmem_elo" name="mr_data_readmem_elo">
+<area shape="rect" id="node2" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="604,49,744,90"/>
+<area shape="rect" id="node3" href="$object__primitive_8c.html#a6121041fd0b0d30aab4b73dc58c820a0" title="readval_elo_with_type" alt="" coords="208,56,359,83"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a22c0143a9c8fb2a3ab1fa3ff20d01bee" title="mr_data_readval_blob" alt="" coords="407,81,556,108"/>
+<area shape="rect" id="node5" href="$object__primitive_8c.html#a1ce9e5c6dfc2577c02559b65c2ed1cca" title="mr_data_readval_clob" alt="" coords="407,132,556,159"/>
+</map>

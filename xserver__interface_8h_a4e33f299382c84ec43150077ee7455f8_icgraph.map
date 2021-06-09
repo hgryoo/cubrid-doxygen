@@ -1,0 +1,10 @@
+<map id="xqmgr_end_query" name="xqmgr_end_query">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a4dc2e17f8bbda1fb057aed8a632458cb" title="qmgr_end_query" alt="" coords="207,81,326,108"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#ac91b9574aadcd09abb330fcbeccf15dc" title="sqmgr_end_query" alt="" coords="204,132,329,159"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8c.html#a2cdbe90c0a8a9e2a7c3a5958ed7a5d77" title="stran_server_auto_commit\l_or_abort" alt="" coords="179,183,355,225"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#a41748713c987c7a8c81de43dc59e5974" title="stran_server_commit" alt="" coords="195,249,339,276"/>
+<area shape="rect" id="node3" href="$db__query_8h.html#ad5fd949252335e3d2fb697de954df224" title="db_query_end_internal" alt="" coords="403,5,555,32"/>
+<area shape="rect" id="node4" href="$query__result_8c.html#aeaf1f06e7d34795605897c615c65dd27" title="pt_end_query" alt="" coords="429,107,529,133"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a661feaacf0e01e3f0f72364db8648b7a" title="do_merge" alt="" coords="629,81,708,108"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#af259588ebb962b880ecb05ae0b82c5e9" title="do_execute_merge" alt="" coords="603,144,735,171"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="bitset_extend" name="bitset_extend">
+<area shape="rect" id="node2" href="$query__bitset_8h.html#a2ecce8255d3f534b428ce2a14665830e" title="bitset_add" alt="" coords="161,423,244,450"/>
+<area shape="rect" id="node19" href="$query__bitset_8h.html#ab3c37cd115dc660bfb481efcdddf62a5" title="bitset_assign" alt="" coords="153,702,252,728"/>
+<area shape="rect" id="node20" href="$query__bitset_8h.html#a0783556e84bfbaa8fdb5fbfc06b22d3f" title="bitset_union" alt="" coords="157,195,249,222"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#a747a723e71fd8c17d986cc944d16a1f9" title="make_pred_from_plan" alt="" coords="310,144,461,171"/>
+<area shape="rect" id="node4" href="$plan__generation_8c.html#a826de9452faa876077f86d3317b2bdb0" title="make_outer_instnum" alt="" coords="314,94,457,120"/>
+<area shape="rect" id="node5" href="$plan__generation_8c.html#a851ad3e58cae2b277cdf3f058e304cac" title="gen_outer" alt="" coords="567,144,645,171"/>
+<area shape="rect" id="node6" href="$query__graph_8c.html#a36e513d9217f9a2e0c5d27f73f300a14" title="qo_optimize_helper" alt="" coords="741,658,876,684"/>
+<area shape="rect" id="node7" href="$query__graph_8c.html#acf9ef5966054a85d0d1fa0402ace0630" title="qo_insert_segment" alt="" coords="319,246,451,272"/>
+<area shape="rect" id="node8" href="$query__graph_8c.html#a10ce29a8c21906fb18b58d642f17e88a" title="qo_add_term" alt="" coords="557,398,655,424"/>
+<area shape="rect" id="node9" href="$query__graph_8c.html#a7686f6257e946622aed2de742d391681" title="qo_add_dep_term" alt="" coords="323,803,448,830"/>
+<area shape="rect" id="node10" href="$query__graph_8c.html#ae1520de591cb8da6302f0d8d453caeb6" title="qo_add_dummy_join_term" alt="" coords="519,626,693,652"/>
+<area shape="rect" id="node11" href="$query__graph_8c.html#a4d322007ce6983e3472645dbca6b53ec" title="qo_analyze_term" alt="" coords="325,347,446,374"/>
+<area shape="rect" id="node12" href="$query__graph_8c.html#a7b873fc8d52ed07235b219ce3b3da252" title="set_seg_node" alt="" coords="334,448,437,475"/>
+<area shape="rect" id="node13" href="$query__graph_8c.html#abe5a9baa0ab663e892fe4beb14dedcce" title="check_subquery_pre" alt="" coords="314,499,457,526"/>
+<area shape="rect" id="node14" href="$query__graph_8c.html#aa38dec6c1cfbbf7623c3b5e570eb51ed" title="add_hint" alt="" coords="350,702,421,728"/>
+<area shape="rect" id="node15" href="$query__graph_8c.html#a12099b957ab8c8837d26be7935a52179" title="qo_classify_outerjoin\l_terms" alt="" coords="313,854,457,896"/>
+<area shape="rect" id="node16" href="$query__graph_8c.html#a1a461d3c6a57bf9636208fc599aafb5f" title="qo_find_index_terms" alt="" coords="314,43,457,70"/>
+<area shape="rect" id="node17" href="$query__graph_8c.html#a872bc1976b74a1cf9f674bb74af4d0c6" title="qo_find_index_seg_terms" alt="" coords="300,550,471,576"/>
+<area shape="rect" id="node18" href="$query__graph_8c.html#abd7c5597ecce4e6f25cba3d7e3f0f0b0" title="qo_find_index_segs" alt="" coords="317,651,454,678"/>
+</map>

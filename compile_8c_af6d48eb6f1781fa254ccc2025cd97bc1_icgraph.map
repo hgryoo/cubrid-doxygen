@@ -1,0 +1,8 @@
+<map id="pt_spec_to_oid_attr" name="pt_spec_to_oid_attr">
+<area shape="rect" id="node2" href="$compile_8c.html#a19ba0afae3c9c44b18b762d29a3a093a" title="pt_add_oid_to_select_list" alt="" coords="189,81,359,108"/>
+<area shape="rect" id="node4" href="$xasl__generation_8h.html#a5922ed3fb3f0afecdb69ea391afa9826" title="pt_to_upd_del_query" alt="" coords="637,107,780,133"/>
+<area shape="rect" id="node7" href="$xasl__generation_8c.html#a3d068e81bed37f88fbebb7329df80d99" title="pt_to_constraint_pred" alt="" coords="201,208,347,235"/>
+<area shape="rect" id="node3" href="$parser_8h.html#a8f82123c5f42d4afbfd766300e059dc4" title="pt_add_row_classoid_name" alt="" coords="407,5,589,32"/>
+<area shape="rect" id="node5" href="$parser_8h.html#a236b90da43ce70abe7d43926b53916f8" title="pt_add_row_oid" alt="" coords="441,56,555,83"/>
+<area shape="rect" id="node6" href="$parser_8h.html#a1097b2d6b7cc7579183dd603b9a602ff" title="pt_add_row_oid_name" alt="" coords="422,107,574,133"/>
+</map>

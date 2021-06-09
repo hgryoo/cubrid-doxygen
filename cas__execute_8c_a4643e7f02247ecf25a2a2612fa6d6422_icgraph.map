@@ -1,0 +1,14 @@
+<map id="dbobj_to_casobj" name="dbobj_to_casobj">
+<area shape="rect" id="node2" href="$cas__execute_8c.html#a09334d93e7e9425e4940811bc08f9811" title="dbval_to_net_buf" alt="" coords="173,198,294,225"/>
+<area shape="rect" id="node6" href="$cas__execute_8c.html#a155b399a63eb71ca8a1103ac41f668b1" title="fetch_result" alt="" coords="553,32,644,58"/>
+<area shape="rect" id="node9" href="$cas__execute_8c.html#a735668caa8859a320e62614b989b6787" title="ux_get_generated_keys\l_server_insert" alt="" coords="345,286,505,327"/>
+<area shape="rect" id="node10" href="$cas__execute_8c.html#a9201ae649114e34b5a7e59d7c00a4cd6" title="ux_get_generated_keys\l_client_insert" alt="" coords="345,351,505,392"/>
+<area shape="rect" id="node11" href="$cas__execute_8c.html#a0fa7461a216bb80c11fc333a5565d7b6" title="execute_info_set" alt="" coords="173,380,294,406"/>
+<area shape="rect" id="node12" href="$cas__execute_8h.html#ade7073d72caa16357d55df7b214b2da3" title="ux_execute_array" alt="" coords="171,430,296,457"/>
+<area shape="rect" id="node13" href="$cas__execute_8h.html#a58deea8c335da5c20867f4664eeb7e5f" title="ux_execute_batch" alt="" coords="169,481,297,508"/>
+<area shape="rect" id="node3" href="$cas__execute_8h.html#a29ea4d2bfb035ecd174ffc8c0de0a0c6" title="ux_get_last_insert_id" alt="" coords="353,234,498,261"/>
+<area shape="rect" id="node4" href="$cas__execute_8h.html#a09f36de4c7844474d929c4c03b0a2c26" title="ux_col_get" alt="" coords="383,32,468,58"/>
+<area shape="rect" id="node5" href="$cas__execute_8c.html#ad83c01a1069cc7783bda754518ebffdc" title="cur_tuple" alt="" coords="388,82,463,109"/>
+<area shape="rect" id="node7" href="$cas__execute_8c.html#ad6b2873c66c3ca178799d5fcd6e798fd" title="oid_data_set" alt="" coords="377,133,473,160"/>
+<area shape="rect" id="node8" href="$cas__execute_8c.html#ab13919ddaf95cf9466c621daaa2cacf8" title="fetch_call" alt="" coords="386,184,465,210"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="delete_node" name="delete_node">
+<area shape="rect" id="node2" href="$broker__list_8h.html#a6c386371aaca445fd0fa0a36719fb6ef" title="link_list_delete" alt="" coords="167,5,275,32"/>
+<area shape="rect" id="node3" href="$broker__list_8h.html#a69e0caeae8235f7e31354679b303ca2b" title="link_list_node_delete" alt="" coords="149,56,292,83"/>
+<area shape="rect" id="node5" href="$broker__list_8h.html#a2ff60f8348982d2c625a8d4fc669ef76" title="link_list_node_delete2" alt="" coords="145,107,296,133"/>
+<area shape="rect" id="node4" href="$broker__shm_8c.html#ad76e163af8a41dd0ac04a10a0361decf" title="shard_shm_set_shard\l_conn_info" alt="" coords="344,49,495,90"/>
+</map>

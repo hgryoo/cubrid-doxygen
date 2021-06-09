@@ -1,0 +1,8 @@
+<map id="pt_to_cselect_table_spec_list" name="pt_to_cselect_table_spec_list">
+<area shape="rect" id="node2" href="$xasl__generation_8h.html#a9b9b80f2eba6388564afe64519a0a827" title="pt_to_spec_list" alt="" coords="188,123,299,149"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#a3f7ce6079bfb600096c9388347892847" title="add_access_spec" alt="" coords="373,5,500,32"/>
+<area shape="rect" id="node4" href="$plan__generation_8c.html#a21c63db39ba1bc37718dab54a7fe5dda" title="qo_add_hq_iterations\l_access_spec" alt="" coords="364,57,509,98"/>
+<area shape="rect" id="node5" href="$xasl__generation_8h.html#a329a65e30340def0ad2e0bdebc984371" title="ptqo_to_scan_proc" alt="" coords="371,123,503,149"/>
+<area shape="rect" id="node6" href="$xasl__generation_8c.html#a9336a49c7a336190e77564ac07c1827c" title="pt_gen_simple_plan" alt="" coords="368,173,505,200"/>
+<area shape="rect" id="node7" href="$xasl__generation_8h.html#a941d8e6bed40e4b7edca3efcd3c024cc" title="pt_gen_simple_merge_plan" alt="" coords="347,224,527,251"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="tr_abort" name="tr_abort">
+<area shape="rect" id="node2" href="$execute__statement_8c.html#aa91b5b8b133b4ce882743bd9678ca15f" title="check_merge_trigger" alt="" coords="120,5,263,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#a1040c4c3e98b05cd3be45fa49cb0babd" title="check_trigger" alt="" coords="141,56,241,83"/>
+<area shape="rect" id="node5" href="$object__template_8c.html#ab1a49f2b7b043063d70b8f50111e7e9f" title="obt_apply_assignments" alt="" coords="313,157,472,184"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#abf7d79e474c3e67524488e727c66afd5" title="tr_after_object" alt="" coords="139,157,244,184"/>
+<area shape="rect" id="node7" href="$trigger__manager_8h.html#ae79051574eb110d76a2e3f474393bedc" title="tr_before_object" alt="" coords="134,208,249,235"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a573fbc4f3e5356a55b4520d221806f3d" title="do_check_merge_trigger" alt="" coords="311,5,475,32"/>
+</map>

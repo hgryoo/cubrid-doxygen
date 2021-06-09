@@ -1,0 +1,13 @@
+<map id="sm_drop_constraint" name="sm_drop_constraint">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a9e1478dcb49772944e0d926957d48005" title="create_or_drop_index\l_helper" alt="" coords="197,64,344,105"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a6c0eae4968ebdbccd2652dfc04fb826b" title="db_drop_constraint" alt="" coords="205,130,337,157"/>
+<area shape="rect" id="node7" href="$execute__schema_8c.html#a03dbf8ec3962e323a7e7fdcd814c8ce3" title="do_alter_clause_change\l_attribute" alt="" coords="400,224,563,265"/>
+<area shape="rect" id="node8" href="$execute__schema_8c.html#afcf7ed75c00d62f9572625c130721e19" title="do_alter_index_rebuild" alt="" coords="195,231,346,258"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html#a8f00c752d96f4e0f1cfec949e777d710" title="do_drop_att_constraints" alt="" coords="190,282,351,309"/>
+<area shape="rect" id="node10" href="$execute__schema_8c.html#a87e403182b812d0c562c78bc88bf555c" title="do_drop_saved_indexes" alt="" coords="189,333,352,359"/>
+<area shape="rect" id="node11" href="$execute__schema_8c.html#a117d19cbdb55baa5877f998a7c3e9310" title="do_recreate_renamed\l_class_indexes" alt="" coords="197,384,344,425"/>
+<area shape="rect" id="node12" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="205,450,337,477"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a5f35fe48b2ce19dcce8307dcbeb3eaba" title="do_alter_clause_drop\l_index" alt="" coords="409,5,554,47"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#ac8e9faea401a87acc173d641e004e458" title="do_create_index" alt="" coords="423,71,540,98"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a10336dc16aa192602418c6e5914b75d6" title="do_drop_index" alt="" coords="428,122,535,149"/>
+</map>

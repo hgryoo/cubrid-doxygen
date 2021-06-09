@@ -1,0 +1,6 @@
+<map id="css_send_request_to_server_with_buffer" name="css_send_request_to_server_with_buffer">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#af95381350be5c0a0cda9b753f96704a7" title="net_client_ping_server" alt="" coords="200,5,352,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a669e1ce0f8fe4fd698271b150702ac6b" title="net_client_ping_server\l_with_handshake" alt="" coords="200,57,352,98"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a4fd7695c987a26d2fc1fa8adfdb86174" title="db_ping_server" alt="" coords="421,5,532,32"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="400,64,553,91"/>
+</map>

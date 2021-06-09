@@ -1,0 +1,4 @@
+<map id="cubsync::critical_section_tracker::check_csect_interdependencies" name="cubsync::critical_section_tracker::check_csect_interdependencies">
+<area shape="rect" id="node2" href="$classcubsync_1_1critical__section__tracker.html#a15e358080803dd16f7e05ecf4f336207" title="cubsync::critical_section\l_tracker::on_enter_as_reader" alt="" coords="316,5,507,47"/>
+<area shape="rect" id="node3" href="$classcubsync_1_1critical__section__tracker.html#abbf0683f84ed3f9e1c1a38055302cd43" title="cubsync::critical_section\l_tracker::on_enter_as_writer" alt="" coords="318,71,505,112"/>
+</map>

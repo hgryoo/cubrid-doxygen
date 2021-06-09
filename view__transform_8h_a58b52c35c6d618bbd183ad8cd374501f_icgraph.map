@@ -1,0 +1,11 @@
+<map id="mq_get_references" name="mq_get_references">
+<area shape="rect" id="node2" href="$method__transform_8c.html#a5ea22dbdb015758e4f405d5c5964bdc5" title="meth_translate_spec" alt="" coords="204,5,347,32"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#a004b24ef814bbeb3f743807fe673fae3" title="mq_push_path" alt="" coords="222,56,329,83"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#a7efe744a4bc0fbff79b20596b7208986" title="mq_rewrite_vclass_spec\l_as_derived" alt="" coords="192,107,359,149"/>
+<area shape="rect" id="node6" href="$view__transform_8c.html#a17362d3e601b5f400ee9e097e1701fa7" title="mq_translate_paths" alt="" coords="207,173,343,200"/>
+<area shape="rect" id="node7" href="$xasl__generation_8c.html#a05e6f949915033e2dee4163329ebf4b7" title="pt_get_pred_attrs" alt="" coords="214,224,337,251"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#ae7914a079ccb4207cf389a990b0eacad" title="pt_mvcc_flag_specs\l_assign_reev" alt="" coords="204,275,347,317"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#a727d3ecfeaa213aa3118f4dbfa259526" title="pt_mvcc_flag_specs\l_cond_reev" alt="" coords="204,341,347,382"/>
+<area shape="rect" id="node10" href="$xasl__generation_8c.html#a95bda85faecf1ad599a17d0246d9dbc0" title="pt_mvcc_set_spec_assign\l_reev_extra_indexes" alt="" coords="187,406,364,447"/>
+<area shape="rect" id="node3" href="$method__transform_8c.html#ac1e9d842899d7c663bfdd117ea0cbf5d" title="meth_translate_select" alt="" coords="412,5,563,32"/>
+</map>

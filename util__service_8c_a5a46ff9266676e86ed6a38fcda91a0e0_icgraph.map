@@ -1,0 +1,5 @@
+<map id="us_hb_process_stop" name="us_hb_process_stop">
+<area shape="rect" id="node2" href="$util__service_8c.html#a4d372c6d302a9107f320db64b66fad4f" title="process_heartbeat_start" alt="" coords="196,5,359,32"/>
+<area shape="rect" id="node4" href="$util__service_8c.html#ab0b1337fcf9e1cc6d6ba925d94583e0a" title="process_heartbeat_stop" alt="" coords="197,56,358,83"/>
+<area shape="rect" id="node3" href="$util__service_8c.html#a987ee80be18954803cfe4fc0e54bb118" title="process_heartbeat" alt="" coords="407,31,536,57"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="shard_queue_initialize" name="shard_queue_initialize">
+<area shape="rect" id="node2" href="$shard__proxy__handler_8h.html#a1413611764902d7945ca3e38905de074" title="proxy_handler_initialize" alt="" coords="209,5,366,32"/>
+<area shape="rect" id="node4" href="$shard__proxy__io_8c.html#aeb394f10e41439a9f26be84334905838" title="proxy_shard_io_initialize" alt="" coords="205,56,369,83"/>
+<area shape="rect" id="node6" href="$shard__statement_8c.html#a75e0c7bd932262fc450b9bb2418a1f34" title="shard_stmt_new_internal" alt="" coords="204,132,371,159"/>
+<area shape="rect" id="node3" href="$shard__proxy_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="675,31,725,57"/>
+<area shape="rect" id="node5" href="$shard__proxy__io_8h.html#ac1d53f199e50474202ad87c4c4dadd0f" title="proxy_io_initialize" alt="" coords="460,56,585,83"/>
+<area shape="rect" id="node7" href="$shard__statement_8h.html#a87098b78180800080edd6faf904b84f2" title="shard_stmt_new_prepared_stmt" alt="" coords="419,107,627,133"/>
+<area shape="rect" id="node8" href="$shard__statement_8h.html#a632307c0bef7db59b6cec6ffc6c2955e" title="shard_stmt_new_schema_info" alt="" coords="423,157,622,184"/>
+<area shape="rect" id="node9" href="$shard__statement_8h.html#a6b7e36e535ccea7c8197b4a65d8464ab" title="shard_stmt_new_exclusive" alt="" coords="433,208,613,235"/>
+</map>

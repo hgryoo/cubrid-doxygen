@@ -1,0 +1,7 @@
+<map id="pgbuf_insert_into_hash_chain" name="pgbuf_insert_into_hash_chain">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="209,52,327,79"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#a9b12f4a81c72a927263dbac8b1cfc032" title="heap_scan_pb_lock_and\l_fetch_debug" alt="" coords="609,20,775,61"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#a92d71be45b75ca7c89e700787c33914c" title="pgbuf_fix_with_retry" alt="" coords="399,27,537,54"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#afe78724b7abcc4efb6d4b28c49a46ebc" title="pgbuf_ordered_fix_debug" alt="" coords="385,78,551,104"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#a130532104328cc6d57cda05541d66afc" title="pgbuf_fix_if_not_deallocated\l_with_caller" alt="" coords="375,129,561,170"/>
+</map>

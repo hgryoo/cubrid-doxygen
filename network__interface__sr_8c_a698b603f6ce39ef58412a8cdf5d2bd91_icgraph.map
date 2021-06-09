@@ -1,0 +1,6 @@
+<map id="stran_server_commit_internal" name="stran_server_commit_internal">
+<area shape="rect" id="node2" href="$network__interface__sr_8c.html#a2cdbe90c0a8a9e2a7c3a5958ed7a5d77" title="stran_server_auto_commit\l_or_abort" alt="" coords="197,5,373,47"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#a41748713c987c7a8c81de43dc59e5974" title="stran_server_commit" alt="" coords="425,67,569,94"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="421,15,572,42"/>
+<area shape="rect" id="node4" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="620,42,727,69"/>
+</map>

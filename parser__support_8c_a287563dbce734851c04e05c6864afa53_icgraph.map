@@ -1,0 +1,10 @@
+<map id="pt_null_etc" name="pt_null_etc">
+<area shape="rect" id="node2" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="139,103,291,144"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a03d6c3dd66c5672f93355abe0c023af9" title="do_execute_do" alt="" coords="159,169,270,195"/>
+<area shape="rect" id="node7" href="$execute__statement_8c.html#a3253881929bb3083cba7e2825304d246" title="do_select_internal" alt="" coords="151,219,278,246"/>
+<area shape="rect" id="node8" href="$name__resolution_8c.html#ac03fadb421cce37d09d2e35b807e75cf" title="pt_count_ctes_post" alt="" coords="147,270,283,297"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ad6b414798f5f576f2df94299d7842810" title="db_execute_and_keep\l_statement" alt="" coords="353,5,505,47"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#a884a12ed3b75319fe569e73870bc485c" title="db_execute_statement\l_local" alt="" coords="351,71,506,112"/>
+<area shape="rect" id="node5" href="$db__vdb_8c.html#aa67900db91e4c062a739ff4d40d69a3c" title="do_recompile_and_execute\l_prepared_statement" alt="" coords="339,136,519,177"/>
+<area shape="rect" id="node9" href="$parser_8h.html#a861278b4c2a2f085cd9c4dd07a9b646f" title="pt_resolve_cte_specs" alt="" coords="354,270,503,297"/>
+</map>

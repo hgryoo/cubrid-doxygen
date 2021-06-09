@@ -1,0 +1,21 @@
+<map id="LSA_LE" name="LSA_LE">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#a9990a5604abb5bdf77d643cd0023fe5b" title="dwb_flush_block" alt="" coords="379,22,497,49"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="138,164,293,206"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a7ba25f44bcecbaa522dd022fb722f0c5" title="la_apply_repl_log" alt="" coords="154,230,277,257"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a853fd7ef5f6abc4a182d6e79f0a4846f" title="log_append_postpone" alt="" coords="141,281,289,308"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#aac95e62fd0455db6b8c123bc559a8acd" title="log_get_next_nested_top" alt="" coords="355,433,521,460"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#a9947563d0c9dba8024923957fb69bb85" title="log_is_logged_since\l_restart" alt="" coords="146,687,285,728"/>
+<area shape="rect" id="node9" href="$log__recovery_8c.html#a9cd789f9a3c7968e6b6549067f96deb9" title="log_recovery_abort\l_interrupted_sysop" alt="" coords="735,430,867,471"/>
+<area shape="rect" id="node10" href="$log__recovery_8c.html#a9644e05051274672439fd862fee704f7" title="log_recovery_finish\l_sysop_postpone" alt="" coords="915,378,1049,419"/>
+<area shape="rect" id="node11" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="374,585,502,612"/>
+<area shape="rect" id="node12" href="$log__manager_8c.html#a95f9d78f6596d07a91842fab70321950" title="log_rollback" alt="" coords="393,534,483,561"/>
+<area shape="rect" id="node13" href="$log__manager_8h.html#a8ba8a8666ca892dac7b456367d153965" title="log_sysop_abort" alt="" coords="569,534,687,561"/>
+<area shape="rect" id="node14" href="$log__recovery_8c.html#a3f08e549de42ef85638163fbdb573640" title="log_rv_analysis_sysop_end" alt="" coords="124,753,307,780"/>
+<area shape="rect" id="node15" href="$log__manager_8c.html#a1e4500b198cf9f51121a641472d9cddc" title="log_sysop_commit_internal" alt="" coords="125,804,305,830"/>
+<area shape="rect" id="node16" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="154,854,277,881"/>
+<area shape="rect" id="node17" href="$log__page__buffer_8c.html#a7960a034a57d6eed6cccbdd3261db6d7" title="logpb_fetch_page" alt="" coords="153,484,277,510"/>
+<area shape="rect" id="node18" href="$log__page__buffer_8c.html#a9f7fe832b6664bba0f1a473744c3931f" title="logpb_need_wal" alt="" coords="158,62,273,89"/>
+<area shape="rect" id="node19" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="373,95,503,136"/>
+<area shape="rect" id="node20" href="$page__buffer_8c.html#abd4eba7853551f4117e645cb8bfdf847" title="pgbuf_flush_seq_list" alt="" coords="145,905,286,932"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#ab2537553c0bc21020c4a4003916d89a5" title="dwb_add_page" alt="" coords="573,22,683,49"/>
+</map>

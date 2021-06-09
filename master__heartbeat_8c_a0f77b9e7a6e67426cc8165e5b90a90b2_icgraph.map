@@ -1,0 +1,5 @@
+<map id="hb_set_net_header" name="hb_set_net_header">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#ae6480432a87c3fd26f605a27b2f6d216" title="hb_cluster_send_heartbeat\l_internal" alt="" coords="185,23,364,65"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#ae4f11a0bfd00085e99405bceaa0d9ecf" title="hb_cluster_send_heartbeat_req" alt="" coords="416,5,619,32"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#a6422fa7fcc0da8806f493eb0d0fa2b1a" title="hb_cluster_send_heartbeat_resp" alt="" coords="412,56,623,83"/>
+</map>

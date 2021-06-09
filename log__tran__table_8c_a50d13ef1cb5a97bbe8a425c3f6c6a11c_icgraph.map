@@ -1,0 +1,5 @@
+<map id="logtb_increment_number_of_assigned_tran_indices" name="logtb_increment_number_of_assigned_tran_indices">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a3bc8e667a4001db19a340b7f600ba3ae" title="logtb_allocate_tran\l_index" alt="" coords="229,27,360,69"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a2009f11bd300ce6fb8b2901332593f28" title="logtb_assign_tran_index" alt="" coords="408,5,571,32"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#ad26c32b896a5944c2b5f64f28c69eaa3" title="logtb_rv_find_allocate\l_tran_index" alt="" coords="415,57,563,98"/>
+</map>

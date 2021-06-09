@@ -1,0 +1,11 @@
+<map id="mvcctable::reset_transaction_lowest_active" name="mvcctable::reset_transaction_lowest_active">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a205cb9f31defd227b8340f7f4bd24a09" title="log_complete" alt="" coords="279,104,377,131"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="253,155,403,181"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#abced029cdab388279dc4b134179929c3" title="logtb_complete_mvcc" alt="" coords="253,205,403,232"/>
+<area shape="rect" id="node9" href="$unittests__snapshot_8c.html#a6e94852860f51ea0f1b3cfd809ee8f00" title="test_new_mvcc_complete" alt="" coords="460,235,635,261"/>
+<area shape="rect" id="node10" href="$unittests__snapshot_8c.html#ada455928b564cc6e95dc723b6e1418c3" title="test_mvcc_get_snapshot" alt="" coords="244,307,412,333"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="510,5,585,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a390852f8765cd90576d47d02ef0d10b6" title="log_commit" alt="" coords="503,56,592,83"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a766a771dfebf096e54eca48d411cf0d0" title="log_recovery_finish\l_postpone" alt="" coords="480,107,615,149"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#a18e7fc0efb64ea17207486e0abacaebe" title="log_recovery_undo" alt="" coords="482,173,613,200"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="batch_result_impl_s" name="batch_result_impl_s">
+<area shape="rect" id="node2" href="$structstatement__impl__s.html" title="{statement_impl_s\n|+ COMMON_API_STRUCTURE\l_HEADER\l+ req_handle\l+ status\l+ opt_updatable_result\l+ got_pm_handle\l+ pm_handle\l+ num_col\l+ cmd_type\l+ col_info\l+ has_resultset\l+ res_handle\l+ num_query\l+ affected_rows\l+ query_result\l+ curr_query_result_index\l+ num_batch\l+ bres_handle\l|}" alt="" coords="171,248,387,575"/>
+<area shape="rect" id="node6" href="$structparameter__meta__impl__s.html" title="{parameter_meta_impl_s\n|+ COMMON_API_STRUCTURE\l_HEADER\l|}" alt="" coords="171,637,387,729"/>
+<area shape="rect" id="node3" href="$structdlisth__s.html" title="{dlisth_s\n||}" alt="" coords="245,57,312,134"/>
+<area shape="rect" id="node4" href="$structvalue__indexer__s.html" title="{value_indexer_s\n||}" alt="" coords="398,57,514,134"/>
+<area shape="rect" id="node5" href="$structconnection__impl__s.html" title="{connection_impl_s\n|+ COMMON_API_STRUCTURE\l_HEADER\l+ err_buf\l+ rid\l+ conn\l+ conn_handle\l+ autocommit\l+ n_need_complete\l|}" alt="" coords="539,5,755,185"/>
+</map>

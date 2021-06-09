@@ -1,0 +1,10 @@
+<map id="src/transaction/transaction_global.hpp" name="src/transaction/transaction_global.hpp">
+<area shape="rect" id="node2" href="$log__storage_8hpp.html" title="src/transaction/log\l_storage.hpp" alt="" coords="303,95,433,136"/>
+<area shape="rect" id="node3" href="$tde_8c.html" title="src/storage/tde.c" alt="" coords="5,191,125,218"/>
+<area shape="rect" id="node4" href="$log__2pc_8h.html" title="src/transaction/log\l_2pc.h" alt="" coords="201,184,330,225"/>
+<area shape="rect" id="node5" href="$log__impl_8h.html" title="src/transaction/log\l_impl.h" alt="" coords="303,273,433,315"/>
+<area shape="rect" id="node6" href="$log__global_8c.html" title="src/transaction/log\l_global.c" alt="" coords="354,363,483,404"/>
+<area shape="rect" id="node7" href="$log__append_8hpp.html" title="src/transaction/log\l_append.hpp" alt="" coords="406,184,535,225"/>
+<area shape="rect" id="node8" href="$log__archives_8hpp.html" title="src/transaction/log\l_archives.hpp" alt="" coords="559,184,689,225"/>
+<area shape="rect" id="node9" href="$log__writer_8c.html" title="src/transaction/log\l_writer.c" alt="" coords="713,184,842,225"/>
+</map>

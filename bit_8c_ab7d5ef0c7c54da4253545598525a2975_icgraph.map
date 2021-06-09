@@ -1,0 +1,9 @@
+<map id="bit64_clear" name="bit64_clear">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a1a84495d7e351a40e4168507bb0a2c7e" title="disk_check" alt="" coords="183,43,271,69"/>
+<area shape="rect" id="node5" href="$disk__manager_8c.html#a10386ef6e810b9254a106d79eaab07d6" title="disk_stab_cursor_clear_bit" alt="" coords="139,93,316,120"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#a9b738c510efd57488364302f5f533a7c" title="file_partsect_clear_bit" alt="" coords="153,144,302,171"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="388,5,535,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#ace20b0215551fade39404f63fbbcc932" title="xboot_check_db_consistency" alt="" coords="364,56,559,83"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#aa08ad11c1dfde490334cc8eae91dfc21" title="file_rv_partsect_update" alt="" coords="383,119,540,145"/>
+<area shape="rect" id="node8" href="$file__manager_8c.html#a809af1534543d29a6f24183047377085" title="file_perm_dealloc" alt="" coords="400,169,523,196"/>
+</map>

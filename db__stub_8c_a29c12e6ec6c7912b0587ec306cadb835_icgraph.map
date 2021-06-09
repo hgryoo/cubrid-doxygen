@@ -1,0 +1,11 @@
+<map id="stmt_release_children" name="stmt_release_children">
+<area shape="rect" id="node2" href="$db__stub_8c.html#a4a63c027cc559b2ea1ed28e8efe0a48e" title="ci_stmt_execute_immediate_impl" alt="" coords="397,5,613,32"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a381b226695d8266638c5ced3e0c5a8e0" title="ci_stmt_execute_impl" alt="" coords="431,56,580,83"/>
+<area shape="rect" id="node4" href="$db__stub_8c.html#aab660177b0cbc0c9d8c7dc81dc805c4c" title="ci_stmt_prepare_impl" alt="" coords="203,157,349,184"/>
+<area shape="rect" id="node5" href="$db__stub_8c.html#aa39d14f1ff60fe1a21729c84eccfa1b6" title="conn_end_tran" alt="" coords="223,107,329,133"/>
+<area shape="rect" id="node6" href="$db__stub_8c.html#a427d7dc555d8afc3d3b9b133ef733e0b" title="ci_conn_commit_impl" alt="" coords="431,157,579,184"/>
+<area shape="rect" id="node7" href="$db__stub_8c.html#a90b029320a5e470b18eb72afed4ecbfe" title="ci_conn_rollback_impl" alt="" coords="430,208,581,235"/>
+<area shape="rect" id="node8" href="$db__stub_8c.html#a825f035965741e240c04731988f1e1b2" title="ci_stmt_execute_batch_impl" alt="" coords="411,259,599,285"/>
+<area shape="rect" id="node9" href="$db__stub_8c.html#a6a8e8c6c8bf6d869965fdf339719a569" title="ci_stmt_next_result_impl" alt="" coords="422,309,589,336"/>
+<area shape="rect" id="node10" href="$db__stub_8c.html#ab242af2c1340154cca21ea5210ef9f7c" title="rs_destroyf" alt="" coords="462,107,549,133"/>
+</map>

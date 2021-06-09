@@ -1,0 +1,6 @@
+<map id="fileio_reset_volume" name="fileio_reset_volume">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="189,31,280,57"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="188,81,281,108"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#aa1450d661897bab9929324e46c0b641d" title="disk_add_volume" alt="" coords="352,5,475,32"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a5fdac5331f81f23b3b65375177ded3f5" title="disk_format_first_volume" alt="" coords="329,56,497,83"/>
+</map>

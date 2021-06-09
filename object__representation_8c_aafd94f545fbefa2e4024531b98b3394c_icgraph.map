@@ -1,0 +1,10 @@
+<map id="or_get_offset_internal" name="or_get_offset_internal">
+<area shape="rect" id="node2" href="$transform__cl_8c.html#a08c52b92bc4b768d3d8cbf7933fac1f8" title="get_current" alt="" coords="218,5,305,32"/>
+<area shape="rect" id="node4" href="$load__object_8c.html#a7f25f6cc92cc5e6353f3dc5cee0ca13a" title="get_desc_current" alt="" coords="200,107,323,133"/>
+<area shape="rect" id="node6" href="$load__object_8c.html#ade6fa5893ed9950c176a2a0d4f4409aa" title="get_desc_old" alt="" coords="212,157,311,184"/>
+<area shape="rect" id="node7" href="$transform__cl_8c.html#ae9e4324eff373fb625c92053ce737d7d" title="get_old" alt="" coords="229,56,293,83"/>
+<area shape="rect" id="node8" href="$log__applier_8c.html#a5326a3ed4d4ab628c1df97fe6cbd3e4d" title="la_get_current" alt="" coords="209,208,313,235"/>
+<area shape="rect" id="node9" href="$object__representation_8c.html#a2d4b39cd937ff568cfb10b039504d35c" title="or_get_offset" alt="" coords="212,259,311,285"/>
+<area shape="rect" id="node3" href="$transform__cl_8h.html#acdfc497b4405a9f6224940da1c8b4aae" title="tf_disk_to_mem" alt="" coords="375,44,489,71"/>
+<area shape="rect" id="node5" href="$load__object_8h.html#aa6b17a9da7606d3350212d664eed2c31" title="desc_disk_to_obj" alt="" coords="371,120,493,147"/>
+</map>

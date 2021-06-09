@@ -1,0 +1,13 @@
+<map id="file_create_with_npages" name="file_create_with_npages">
+<area shape="rect" id="node2" href="$btree_8h.html#abc9d118c8b0dccc88f12e39f37e6be0e" title="btree_create_file" alt="" coords="232,31,351,57"/>
+<area shape="rect" id="node5" href="$btree__load_8h.html#a52baec12ce4ea8df8aa2034717cf6ac9" title="btree_create_overflow\l_key_file" alt="" coords="216,82,367,123"/>
+<area shape="rect" id="node6" href="$system__catalog_8h.html#ac9b4d424db02d5d385762fb4d682853f" title="catalog_create" alt="" coords="238,148,345,175"/>
+<area shape="rect" id="node7" href="$file__manager_8h.html#a683ee55bfa1b309a2975654d9962dd28" title="file_create_heap" alt="" coords="233,199,350,225"/>
+<area shape="rect" id="node9" href="$file__manager_8h.html#a4b16ba55fb43fdedc455c8a51c03e379" title="file_tracker_create" alt="" coords="227,249,356,276"/>
+<area shape="rect" id="node10" href="$heap__file_8h.html#a7c88473682641e0947e1106aa1cc3622" title="heap_ovf_find_vfid" alt="" coords="226,300,357,327"/>
+<area shape="rect" id="node11" href="$vacuum_8h.html#a43015d9f40393d7c0045aeed26371db6" title="vacuum_create_file\l_for_dropped_files" alt="" coords="224,351,359,393"/>
+<area shape="rect" id="node12" href="$vacuum_8h.html#a8d4b4c64e64da552b9bbb71f5415ee41" title="vacuum_create_file\l_for_vacuum_data" alt="" coords="224,417,359,458"/>
+<area shape="rect" id="node3" href="$btree_8c.html#ac6cf5583334e01375cf6f96c1db3dd7f" title="xbtree_add_index" alt="" coords="424,5,548,32"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="605,31,732,57"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#a23cd5f642edebaad25e8fafd58600228" title="heap_create_internal" alt="" coords="415,199,557,225"/>
+</map>

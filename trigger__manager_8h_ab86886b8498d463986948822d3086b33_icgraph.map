@@ -1,0 +1,6 @@
+<map id="tr_create_trigger" name="tr_create_trigger">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#af6c2b72c697cc0754fa10d7edff714a3" title="db_create_trigger" alt="" coords="169,5,292,32"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a4031e13892e89e8a3b919278737eded3" title="do_create_trigger" alt="" coords="169,56,292,83"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="340,31,441,57"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="489,56,644,83"/>
+</map>

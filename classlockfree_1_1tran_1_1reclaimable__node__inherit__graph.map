@@ -1,0 +1,3 @@
+<map id="lockfree::tran::reclaimable_node" name="lockfree::tran::reclaimable_node">
+<area shape="rect" id="node2" href="$classlockfree_1_1freelist_1_1free__node.html" title="{lockfree::freelist\l\&lt; T \&gt;::free_node\n|&#45; freelist\l&#45; m_owner\l&#45; m_t\l|+ free_node()\l+ ~free_node()\l+ get_data()\l+ reclaim()\l&#45; set_owner()\l&#45; set_freelist_next()\l&#45; reset_freelist_next()\l&#45; get_freelist_next()\l}" alt="" coords="36,189,181,413"/>
+</map>

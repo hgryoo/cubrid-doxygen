@@ -1,0 +1,6 @@
+<map id="disk_attribute" name="disk_attribute">
+<area shape="rect" id="node2" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="9,5,101,112"/>
+<area shape="rect" id="node4" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="57,175,190,399"/>
+<area shape="rect" id="node3" href="$structbtree__stats.html" title="{btree_stats\n|+ leafs\l+ pages\l+ height\l+ keys\l+ has_function\l+ pkeys_size\l+ pkeys\l|}" alt="" coords="69,461,177,627"/>
+<area shape="rect" id="node5" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="311,248,413,325"/>
+</map>

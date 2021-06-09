@@ -1,0 +1,9 @@
+<map id="logpb_initialize_backup_info" name="logpb_initialize_backup_info">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="263,31,365,57"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a3a7892fc280ade1dfd26f3e21ac3da16" title="logpb_initialize_header" alt="" coords="237,107,391,133"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#af38a549f999967427ff62509d3092c7d" title="xboot_backup" alt="" coords="461,5,564,32"/>
+<area shape="rect" id="node5" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="447,56,578,83"/>
+<area shape="rect" id="node6" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="441,107,584,133"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a939d93ad05badeab720f13c734615ce4" title="logpb_fetch_header\l_with_buffer" alt="" coords="445,158,580,199"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="439,224,587,251"/>
+</map>

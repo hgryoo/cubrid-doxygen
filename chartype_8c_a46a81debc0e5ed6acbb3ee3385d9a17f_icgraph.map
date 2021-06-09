@@ -1,0 +1,21 @@
+<map id="char_islower" name="char_islower">
+<area shape="rect" id="node2" href="$cas__dbms__util_8h.html#a5e3888bf787f322a7272dd5ec7eb471a" title="char_isalpha" alt="" coords="174,324,269,351"/>
+<area shape="rect" id="node15" href="$chartype_8h.html#a09921daae01cf4ff0f31ca8220dd34e2" title="char_islower_iso8859" alt="" coords="148,678,295,704"/>
+<area shape="rect" id="node18" href="$chartype_8h.html#af6ef6ed6797022bb5a786b5ce926d9bf" title="char_toupper" alt="" coords="173,754,270,780"/>
+<area shape="rect" id="node3" href="$chartype_8h.html#aba00989e2af7f9436be74fc97ece3edf" title="char_isalnum" alt="" coords="374,223,473,250"/>
+<area shape="rect" id="node4" href="$language__support_8h.html#a22100905622554129d1811f6b77a21f4" title="lang_check_identifier" alt="" coords="569,130,713,156"/>
+<area shape="rect" id="node5" href="$release__string_8h.html#a9ad5d6503106aee94171f269e793552b" title="rel_compare" alt="" coords="377,122,470,148"/>
+<area shape="rect" id="node6" href="$db__date_8c.html#a1aee5a51ae7ebc70aaa43d6a70472288" title="parse_date_separated" alt="" coords="348,375,499,402"/>
+<area shape="rect" id="node7" href="$db__date_8c.html#ad73a1c6d74473d32c6f3e1f28f2a73e3" title="parse_timedate_separated" alt="" coords="554,282,729,308"/>
+<area shape="rect" id="node8" href="$db__date_8h.html#a3343f82a566270aaf12ccce9d5a06176" title="db_date_parse_time" alt="" coords="791,408,930,435"/>
+<area shape="rect" id="node9" href="$db__date_8h.html#acbe91b679ba2c8bbae6328d24464e594" title="db_date_parse_datetime\l_parts" alt="" coords="779,173,943,214"/>
+<area shape="rect" id="node10" href="$db__date_8c.html#add7f0814821d49a097809a63e80b4dc0" title="parse_mtime_separated" alt="" coords="343,274,504,300"/>
+<area shape="rect" id="node11" href="$db__date_8c.html#a0a456c11b508643c94ee5c936de14876" title="parse_explicit_mtime\l_separated" alt="" coords="351,426,496,468"/>
+<area shape="rect" id="node12" href="$db__date_8c.html#ad9cac9cbcbb66b11113428625cc7ef10" title="parse_explicit_mtime\l_compact" alt="" coords="569,485,714,526"/>
+<area shape="rect" id="node13" href="$db__date_8c.html#a89f205d63844fa8be872f84663e50dd0" title="parse_timestamp_compact" alt="" coords="552,75,731,102"/>
+<area shape="rect" id="node14" href="$string__opfunc_8c.html#a47dd5e1c962f26f3d720361ace78815a" title="calc_unix_timestamp" alt="" coords="351,602,496,628"/>
+<area shape="rect" id="node16" href="$chartype_8h.html#ae56cdd7dd25e92570e8884251e528579" title="char_toupper_iso8859" alt="" coords="349,652,498,679"/>
+<area shape="rect" id="node17" href="$intl__support_8h.html#a39a86fba5ec1afeedf47904549f68fda" title="intl_toupper_iso8859" alt="" coords="353,703,494,730"/>
+<area shape="rect" id="node19" href="$intl__support_8h.html#ab2fa6c3fc066633374b6a83fd8a4f0d8" title="intl_mbs_ncpy" alt="" coords="370,754,477,780"/>
+<area shape="rect" id="node20" href="$intl__support_8c.html#a1be393b1721788da2095587d0ef07024" title="intl_toupper_euc" alt="" coords="365,804,482,831"/>
+</map>

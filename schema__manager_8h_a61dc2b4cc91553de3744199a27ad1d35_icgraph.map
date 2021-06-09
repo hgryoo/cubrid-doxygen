@@ -1,0 +1,11 @@
+<map id="sm_is_global_only_constraint" name="sm_is_global_only_constraint">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#ac53a3d8a0b509303408b2fb742e1cf4b" title="allocate_unique_constraint" alt="" coords="247,13,423,39"/>
+<area shape="rect" id="node4" href="$class__object_8h.html#a7703722447201ba90b4514d1ae28076a" title="classobj_copy_props" alt="" coords="263,63,407,90"/>
+<area shape="rect" id="node5" href="$schema__manager_8c.html#a6e76a4904bcf8892701103fa8cf2188c" title="flatten_properties" alt="" coords="491,114,613,141"/>
+<area shape="rect" id="node6" href="$schema__manager_8c.html#a2577f4a162fc4eb1eac765f7383139b2" title="filter_local_constraints" alt="" coords="259,165,411,191"/>
+<area shape="rect" id="node7" href="$schema__manager_8c.html#a5527a21307aca1054ae00e34fedcd2f3" title="is_index_owner" alt="" coords="279,215,391,242"/>
+<area shape="rect" id="node8" href="$schema__manager_8c.html#a94a5ab245d87fe80cc5e41e78cf18554" title="transfer_disk_structures" alt="" coords="471,241,633,267"/>
+<area shape="rect" id="node9" href="$schema__manager_8h.html#a7000671d866bc65793c2cf409e4c2465" title="sm_find_index" alt="" coords="281,317,388,343"/>
+<area shape="rect" id="node10" href="$schema__template_8h.html#ab51f553d1e53355523d765c1ea2e0ad4" title="smt_rename_any" alt="" coords="273,367,396,394"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#ae4753271b1ad5f658307b6269fefd248" title="allocate_disk_structures\l_index" alt="" coords="471,5,633,47"/>
+</map>

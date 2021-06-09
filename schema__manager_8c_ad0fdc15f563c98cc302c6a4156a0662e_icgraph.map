@@ -1,0 +1,10 @@
+<map id="sm_get_attribute_descriptor" name="sm_get_attribute_descriptor">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#ab1d4a6f5e6cc8d7c9d5c1436bc19c104" title="db_get_attribute_descriptor" alt="" coords="236,157,415,184"/>
+<area shape="rect" id="node3" href="$esql__gadget_8h.html#a33673e55e3d17bb8ce86b9a6360bcc80" title="db_gadget_create" alt="" coords="480,5,605,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#afc8676086646494b31f8b100d05f13da" title="do_insert_template" alt="" coords="671,81,803,108"/>
+<area shape="rect" id="node5" href="$execute__statement_8c.html#a2ed4e36685dfd7b5d4e82516a415d0e9" title="insert_subquery_results" alt="" coords="463,107,623,133"/>
+<area shape="rect" id="node6" href="$load__sa__loader_8cpp.html#af3144eb2dc546ac311d12e80c693b3e8" title="ldr_act_add_attr" alt="" coords="485,157,600,184"/>
+<area shape="rect" id="node7" href="$load__sa__loader_8cpp.html#a6f2575a9565edd8800eec6129d0e1db8" title="ldr_refresh_attrs" alt="" coords="485,208,601,235"/>
+<area shape="rect" id="node8" href="$view__transform_8h.html#a67afca1985f6d6a00e0346692bd59e86" title="mq_get_expression" alt="" coords="475,259,610,285"/>
+<area shape="rect" id="node9" href="$execute__statement_8c.html#a7ff55edca9d93dd271aa98b76e7e3605" title="update_object_tuple" alt="" coords="473,309,612,336"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="logpb_find_header_parameters" name="logpb_find_header_parameters">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a0cb138cb6e789ecf8abb67698e42abd2" title="log_get_charset_from\l_header_page" alt="" coords="252,78,399,119"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a1bfabe29d0a3621d3f9d12f3e77cd3ee" title="log_get_io_page_size" alt="" coords="447,27,593,53"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#adaf3756eb46d2f608fb945c678a665c8" title="logpb_restore" alt="" coords="275,144,375,171"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#ab08e0302ece5802b673e1555bc3778aa" title="boot_get_db_charset\l_from_header" alt="" coords="449,78,591,119"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="661,107,795,133"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="646,56,810,83"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="641,5,815,32"/>
+</map>

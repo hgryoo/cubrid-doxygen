@@ -1,0 +1,6 @@
+<map id="qexec_clear_topn_tuple" name="qexec_clear_topn_tuple">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a15b0d933787a45726dc62d856467a99e" title="qexec_add_tuple_to_topn" alt="" coords="212,5,383,32"/>
+<area shape="rect" id="node4" href="$query__executor_8h.html#a8ffca36cae36a3f9c8c3c2c3f79be082" title="qexec_clear_xasl" alt="" coords="236,80,359,107"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#ace94f31b6618ddcdf735e6e3c126542d" title="qexec_topn_tuples_to\l_list_id" alt="" coords="223,131,372,173"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#ab586cfb0848f940d47ca7f4c2fbb8708" title="qexec_end_one_iteration" alt="" coords="431,72,597,99"/>
+</map>

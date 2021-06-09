@@ -1,0 +1,10 @@
+<map id="log_diff" name="log_diff">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a081ab93c671fa99b4ff7f051ae0fdba9" title="la_get_zipped_data" alt="" coords="129,56,264,83"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#ac8b688935ca41cc96e536f5a162323d7" title="log_rv_redo_record" alt="" coords="131,107,263,133"/>
+<area shape="rect" id="node7" href="$log__append_8cpp.html#aae029222b2384976e6fe3dedd77c2600" title="prior_lsa_gen_undoredo\l_record_from_crumbs" alt="" coords="117,158,276,199"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a3bc011a19f402148b5f8c465eb8044c3" title="la_get_log_data" alt="" coords="353,5,466,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a26071ffa5f9060256e41ea5350061de9" title="la_get_next_update_log" alt="" coords="330,56,489,83"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="345,107,473,133"/>
+<area shape="rect" id="node8" href="$log__append_8cpp.html#a553a400bcf304b06d81ee6ec64b8a352" title="LOG_PRIOR_LSA_LAST\l_APPEND_OFFSET" alt="" coords="324,158,495,199"/>
+<area shape="rect" id="node9" href="$log__append_8hpp.html#a04538e7143a5fb7ccadf92186efc74db" title="prior_lsa_alloc_and\l_copy_crumbs" alt="" coords="343,223,476,265"/>
+</map>

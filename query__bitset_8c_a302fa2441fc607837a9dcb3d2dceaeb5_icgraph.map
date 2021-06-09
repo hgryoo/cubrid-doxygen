@@ -1,0 +1,15 @@
+<map id="bitset_is_equivalent" name="bitset_is_equivalent">
+<area shape="rect" id="node2" href="$query__planner_8c.html#abf65a5118fdb1892f752f7b1fe193a53" title="planner_visit_node" alt="" coords="214,5,345,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#af006dcebddbda029a7a6a1c8967207cc" title="qo_check_new_best_plan\l_on_info" alt="" coords="193,57,365,98"/>
+<area shape="rect" id="node5" href="$query__graph_8c.html#a12099b957ab8c8837d26be7935a52179" title="qo_classify_outerjoin\l_terms" alt="" coords="207,122,351,163"/>
+<area shape="rect" id="node7" href="$query__graph_8c.html#a0ffabaf1ef91ed868c1c779db865685c" title="qo_discover_edges" alt="" coords="212,188,347,215"/>
+<area shape="rect" id="node8" href="$query__planner_8c.html#a2e536d726c8f7999dbd9cca454a3ba87" title="qo_join_new" alt="" coords="232,239,327,265"/>
+<area shape="rect" id="node9" href="$query__planner_8c.html#ac701ed1a62f9aa31640bc8b70d6f5d46" title="qo_plan_iscan_terms_cmp" alt="" coords="191,289,368,316"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#a86f0243af75dc7c05920d1e061c1f547" title="planner_permutate" alt="" coords="451,5,581,32"/>
+<area shape="rect" id="node6" href="$query__graph_8c.html#a36e513d9217f9a2e0c5d27f73f300a14" title="qo_optimize_helper" alt="" coords="449,129,583,156"/>
+<area shape="rect" id="node10" href="$query__planner_8c.html#a339ec9f3a7428a9562981e87be076b93" title="qo_plan_cmp" alt="" coords="909,297,1008,324"/>
+<area shape="rect" id="node11" href="$query__planner_8c.html#a3acad1d3a3cf5722a879c152c0530721" title="qo_multi_range_opt\l_plans_cmp" alt="" coords="695,231,830,273"/>
+<area shape="rect" id="node12" href="$query__planner_8c.html#a6d291bd84344eb7b08d5239c6d668489" title="qo_index_covering_plans_cmp" alt="" coords="416,289,616,316"/>
+<area shape="rect" id="node13" href="$query__planner_8c.html#a17fe9b179b48078737a31c155c684638" title="qo_group_by_skip_plans_cmp" alt="" coords="664,348,861,375"/>
+<area shape="rect" id="node14" href="$query__planner_8c.html#a4b063e37fddd46b9a76217d4659a72a9" title="qo_order_by_skip_plans_cmp" alt="" coords="665,399,860,425"/>
+</map>

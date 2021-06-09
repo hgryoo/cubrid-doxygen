@@ -1,0 +1,10 @@
+<map id="vacuum_is_thread_vacuum" name="vacuum_is_thread_vacuum">
+<area shape="rect" id="node2" href="$vacuum_8c.html#a1d53b985dfb39a15da4e827b126f8abb" title="vacuum_fetch_log_page" alt="" coords="481,9,643,36"/>
+<area shape="rect" id="node5" href="$vacuum_8h.html#a0864ec41df1a302eb44817590b900299" title="vacuum_get_vacuum_worker" alt="" coords="235,99,427,125"/>
+<area shape="rect" id="node9" href="$vacuum_8h.html#af2a82e88b5bb600b113ca41c03969f63" title="vacuum_is_process_log\l_for_vacuum" alt="" coords="249,150,412,191"/>
+<area shape="rect" id="node3" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="711,57,856,98"/>
+<area shape="rect" id="node4" href="$vacuum_8c.html#aa22c7d74a135587d2d91acf6df9cf364" title="vacuum_read_log_aligned" alt="" coords="697,5,869,32"/>
+<area shape="rect" id="node6" href="$vacuum_8h.html#a34562043d3500a01b17bd84ca27940ad" title="vacuum_get_worker_state" alt="" coords="475,111,649,137"/>
+<area shape="rect" id="node7" href="$vacuum_8c.html#a5024aeeb74db100f85b8588b339abf43" title="vacuum_log_prefetch\l_vacuum_block" alt="" coords="489,162,635,203"/>
+<area shape="rect" id="node8" href="$vacuum_8h.html#aa06eb2e938f101b0b1b6c75c329e3f9d" title="vacuum_set_worker_state" alt="" coords="475,228,649,255"/>
+</map>

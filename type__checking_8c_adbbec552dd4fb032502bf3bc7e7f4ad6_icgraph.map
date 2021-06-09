@@ -1,0 +1,5 @@
+<map id="pt_check_const_fold_op_w_args" name="pt_check_const_fold_op_w_args">
+<area shape="rect" id="node2" href="$type__checking_8c.html#a7e95ac0522aada661a88c876786dddfa" title="pt_fold_const_expr" alt="" coords="196,31,328,57"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#a0b303a9aea33e7015609a04c017402bd" title="pt_fold_constants_post" alt="" coords="382,5,539,32"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#a30d8dc5e4502a39fb1256fad39feb723" title="pt_coerce_node_collation" alt="" coords="376,56,545,83"/>
+</map>

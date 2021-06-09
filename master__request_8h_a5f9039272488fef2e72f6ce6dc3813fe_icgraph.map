@@ -1,0 +1,7 @@
+<map id="css_add_request_to_socket_queue" name="css_add_request_to_socket_queue">
+<area shape="rect" id="node2" href="$master_8c.html#a44abcfe729c5c22f6ec66fa1448bfc35" title="css_accept_new_request" alt="" coords="192,5,363,32"/>
+<area shape="rect" id="node3" href="$master_8c.html#a0d33a6ea2f69d5a003d81222866e4344" title="css_register_new_server" alt="" coords="415,56,581,83"/>
+<area shape="rect" id="node4" href="$master_8c.html#a8a4bdb5250660839484e99764d10da44" title="css_process_new_connection" alt="" coords="633,107,831,133"/>
+<area shape="rect" id="node5" href="$master_8c.html#af0cccd4f56ff47e0c8545c1e3645a508" title="css_register_new_server2" alt="" coords="411,157,585,184"/>
+<area shape="rect" id="node6" href="$master_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="252,208,303,235"/>
+</map>

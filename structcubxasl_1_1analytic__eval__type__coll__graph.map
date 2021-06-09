@@ -1,0 +1,10 @@
+<map id="cubxasl::analytic_eval_type" name="cubxasl::analytic_eval_type">
+<area shape="rect" id="node2" href="$structsort__list.html" title="{sort_list\n|+ del_id\l+ s_order\l+ s_nulls\l|}" alt="" coords="26,461,103,568"/>
+<area shape="rect" id="node9" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="57,631,206,796"/>
+<area shape="rect" id="node3" href="$structqfile__tuple__value__position.html" title="{qfile_tuple_value_position\n|+ pos_no\l|}" alt="" coords="15,307,186,384"/>
+<area shape="rect" id="node4" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="177,5,310,229"/>
+<area shape="rect" id="node5" href="$structcubxasl_1_1analytic__list__node.html" title="{cubxasl::analytic_list_node\n|+ function\l+ option\l+ opr_dbtype\l+ original_opr_dbtype\l+ flag\l+ sort_prefix_size\l+ sort_list_size\l+ offset_idx\l+ default_idx\l+ from_last\l+ ignore_nulls\l+ is_const_operand\l+ curr_cnt\l+ is_first_exec_time\l|+ init()\l}" alt="" coords="198,859,377,1127"/>
+<area shape="rect" id="node7" href="$classregu__variable__node.html" title="{regu_variable_node\n|+ type\l+ flags\l|+ regu_variable_node()\l+ map_regu()\l+ map_regu_and_xasl()\l+ clear_xasl()\l&#45; map_regu()\l&#45; clear_xasl_local()\l}" alt="" coords="300,631,459,796"/>
+<area shape="rect" id="node6" href="$unioncubxasl_1_1analytic__function__info.html" title="{cubxasl::analytic_function_info\n||}" alt="" coords="604,675,805,752"/>
+<area shape="rect" id="node8" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="439,476,536,553"/>
+</map>

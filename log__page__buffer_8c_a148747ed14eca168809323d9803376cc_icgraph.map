@@ -1,0 +1,10 @@
+<map id="logpb_checkpoint_topops" name="logpb_checkpoint_topops">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="223,135,345,162"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="609,59,776,86"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a205cb9f31defd227b8340f7f4bd24a09" title="log_complete" alt="" coords="428,34,527,61"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="403,85,552,111"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="442,135,513,162"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="393,187,561,228"/>
+<area shape="rect" id="node8" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="429,253,525,279"/>
+<area shape="rect" id="node9" href="$log__manager_8c.html#acede8354bdcf6ae570ee030b4f57c07b" title="log_sysop_end_final" alt="" coords="407,303,547,330"/>
+</map>

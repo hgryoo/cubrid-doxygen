@@ -1,0 +1,14 @@
+<map id="au_user_name" name="au_user_name">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="170,329,299,356"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#aa83253542af9e52bd5911460795c210c" title="db_get_user_name" alt="" coords="169,195,301,221"/>
+<area shape="rect" id="node10" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="597,60,777,87"/>
+<area shape="rect" id="node11" href="$xasl__generation_8h.html#afe16617c99177ca7cb6d411d9e5e5713" title="pt_to_regu_variable" alt="" coords="620,308,755,335"/>
+<area shape="rect" id="node13" href="$parser__support_8c.html#ab19117ddcef176d9c8b6e55c43329338" title="pt_make_query_show\l_grants_curr_usr" alt="" coords="160,457,309,498"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a77bd95c7f71d0f419d0f69a3090c4836" title="conn_restart_client" alt="" coords="387,304,519,331"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a4f475937ff6abf40ab472a149d37ae11" title="db_restart" alt="" coords="413,355,493,381"/>
+<area shape="rect" id="node6" href="$authenticate_8h.html#a8d753785735f3c84472ddbc0ff23aacd" title="au_login_method" alt="" coords="393,85,513,112"/>
+<area shape="rect" id="node7" href="$checksumdb_8c.html#a04927c76d33801730313b5de22c1f72d" title="chksum_set_repl_info\l_and_demote_table_lock" alt="" coords="370,187,537,229"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#af93fef82828c8a60e6c4ca86d41e3391" title="db_get_user_and_host_name" alt="" coords="357,136,549,163"/>
+<area shape="rect" id="node9" href="$execute__statement_8h.html#a808d1caf2a1fe3f468169c9e18fdafcd" title="do_evaluate_default_expr" alt="" coords="602,195,773,221"/>
+<area shape="rect" id="node12" href="$execute__statement_8h.html#a7678026f301f44b98212d64a0ce6ea1e" title="do_replicate_statement" alt="" coords="375,35,532,61"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="cci_object_pool_s" name="cci_object_pool_s">
+<area shape="rect" id="node4" href="$structconnection__impl__s.html" title="{connection_impl_s\n|+ COMMON_API_STRUCTURE\l_HEADER\l+ err_buf\l+ rid\l+ conn\l+ conn_handle\l+ autocommit\l+ n_need_complete\l|}" alt="" coords="69,851,285,1031"/>
+<area shape="rect" id="node2" href="$structhash__table__s.html" title="{hash_table_s\n|+ bucket_sz\l+ hashf\l+ keyf\l+ comparef\l|}" alt="" coords="105,255,203,377"/>
+<area shape="rect" id="node3" href="$structht__bucket__s.html" title="{ht_bucket_s\n||}" alt="" coords="107,5,201,83"/>
+<area shape="rect" id="node5" href="$structbh__interface__s.html" title="{bh_interface_s\n|+ alloc_handle\l+ destroy_handle\l+ lookup\l+ bind_to_handle\l+ bind_get_parent\l+ bind_prune\l+ bind_graft\l+ bind_get_first_child\l+ bind_get_next_sibling\l+ bind_map\l+ destroy\l|}" alt="" coords="5,564,164,788"/>
+<area shape="rect" id="node6" href="$structapi__object__resultset__pool__s.html" title="{api_object_resultset\l_pool_s\n|+ get_object_resultset\l+ oid_delete\l+ oid_get_classname\l+ destroy\l+ glo_create\l+ glo_get_path_name\l+ glo_do_compaction\l+ glo_insert\l+ glo_delete\l+ glo_read\l+ glo_write\l+ glo_truncate\l+ glo_seek\l+ glo_tell\l+ glo_like_search\l+ glo_reg_search\l+ glo_bin_search\l+ glo_copy\l|}" alt="" coords="228,145,379,487"/>
+</map>

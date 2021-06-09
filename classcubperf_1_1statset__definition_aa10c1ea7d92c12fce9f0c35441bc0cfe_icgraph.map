@@ -1,0 +1,21 @@
+<map id="cubperf::statset_definition::get_value_count" name="cubperf::statset_definition::get_value_count">
+<area shape="rect" id="node2" href="$classcubperf_1_1statset__definition.html#ab2db03ed7702f35e480c96b9c7a1d947" title="cubperf::statset_definition\l::add_stat_values" alt="" coords="225,5,397,47"/>
+<area shape="rect" id="node3" href="$classcubperf_1_1statset__definition.html#ae814584aee280be8a0bc88b347b41727" title="cubperf::statset_definition\l::create_atomic_statset" alt="" coords="225,71,397,112"/>
+<area shape="rect" id="node4" href="$classcubperf_1_1statset__definition.html#a2404a33961662836947ba5bdc4cdb024" title="cubperf::statset_definition\l::create_statset" alt="" coords="225,136,397,177"/>
+<area shape="rect" id="node7" href="$classcubthread_1_1daemon.html#afd9cbb28f44f731cfc7b15077a7e2bfc" title="cubthread::daemon::\lget_stat_name" alt="" coords="663,312,805,353"/>
+<area shape="rect" id="node9" href="$classcubperf_1_1statset__definition.html#a7912c8fe3520411934dc6cb839115137" title="cubperf::statset_definition\l::get_stat_values" alt="" coords="225,531,397,572"/>
+<area shape="rect" id="node10" href="$classcubthread_1_1daemon.html#a2fc7761797afb57a0768080a89b07154" title="cubthread::daemon::\lget_stats" alt="" coords="451,487,593,528"/>
+<area shape="rect" id="node14" href="$classcubthread_1_1waiter.html#a5a1f78cd7f135b2bdda9d830c2abb1d8" title="cubthread::waiter::\lget_stats_value_count" alt="" coords="235,297,388,339"/>
+<area shape="rect" id="node15" href="$classcubthread_1_1daemon.html#a3b201b6fa3e93e4aa9640acf6beeadbd" title="cubthread::daemon::\lget_stats_value_count" alt="" coords="445,421,599,463"/>
+<area shape="rect" id="node17" href="$classcubthread_1_1looper.html#ad12930bc976b57a548a31c687288df8d" title="cubthread::looper::\lget_stats_value_count" alt="" coords="235,363,388,404"/>
+<area shape="rect" id="node18" href="$classcubperf_1_1statset__definition.html#a8cb55d2ddc960dfe59764d0d7e53d46d" title="cubperf::statset_definition\l::get_values_memsize" alt="" coords="225,596,397,637"/>
+<area shape="rect" id="node19" href="$namespacecubthread.html#ae178bf3e932272187cc146284691becc" title="cubthread::wp_er_log\l_stats" alt="" coords="238,661,385,703"/>
+<area shape="rect" id="node20" href="$namespacecubthread.html#ad8930522597a598a2e2391133408f458" title="cubthread::wp_worker\l_statset_get_count" alt="" coords="236,727,387,768"/>
+<area shape="rect" id="node5" href="$classcubthread_1_1daemon.html#a84c5d6a9a4572c67d9e1f64dcd38cfd2" title="cubthread::daemon::\lcreate_statset" alt="" coords="451,71,593,112"/>
+<area shape="rect" id="node6" href="$namespacecubthread.html#a2b5c12f60b08c14b8b974b6f8b59614e" title="cubthread::wp_worker\l_statset_create" alt="" coords="447,136,597,177"/>
+<area shape="rect" id="node8" href="$perf__monitor_8c.html#a9bb2ec73da51aaad362a2f5860b0d167" title="perfmon_per_daemon\l_stat_count" alt="" coords="869,343,1016,384"/>
+<area shape="rect" id="node11" href="$page__buffer_8h.html#a87f07b4e008ec03f3f93a2f561e1328f" title="pgbuf_daemons_get_stats" alt="" coords="647,430,821,457"/>
+<area shape="rect" id="node12" href="$lock__manager_8h.html#a39894afba679cc8ff708080ea5ae6ac8" title="lock_initialize" alt="" coords="684,550,784,577"/>
+<area shape="rect" id="node13" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="650,484,818,525"/>
+<area shape="rect" id="node16" href="$classcubthread_1_1waiter.html#acbdb11100108804d9b603653de7515f8" title="cubthread::waiter::\lget_stat_name" alt="" coords="457,253,587,295"/>
+</map>

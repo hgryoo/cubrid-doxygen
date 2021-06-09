@@ -1,0 +1,11 @@
+<map id="log_complete" name="log_complete">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="182,123,257,149"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#a390852f8765cd90576d47d02ef0d10b6" title="log_commit" alt="" coords="175,173,264,200"/>
+<area shape="rect" id="node9" href="$log__recovery_8c.html#a766a771dfebf096e54eca48d411cf0d0" title="log_recovery_finish\l_postpone" alt="" coords="152,225,287,266"/>
+<area shape="rect" id="node10" href="$log__recovery_8c.html#a18e7fc0efb64ea17207486e0abacaebe" title="log_recovery_undo" alt="" coords="154,291,285,317"/>
+<area shape="rect" id="node3" href="$log__2pc_8c.html#a704fb0332671ae6dd81e859ebd046128" title="log_2pc_attach_client" alt="" coords="335,5,483,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a43c3e6965dc07096503c8de506a1069f" title="log_abort_all_active\l_transaction" alt="" coords="340,57,477,98"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="373,123,444,149"/>
+<area shape="rect" id="node6" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="531,148,673,175"/>
+<area shape="rect" id="node7" href="$transaction__sr_8c.html#a1fd2b691cc614d3d3b1a709338eb0403" title="xtran_server_abort" alt="" coords="343,224,474,251"/>
+</map>

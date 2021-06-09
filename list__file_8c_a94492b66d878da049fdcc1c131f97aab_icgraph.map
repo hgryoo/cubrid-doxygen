@@ -1,0 +1,7 @@
+<map id="qfile_has_no_cache_entries" name="qfile_has_no_cache_entries">
+<area shape="rect" id="node2" href="$query__manager_8h.html#ace099a1e6a1109b25e6923004dcf2e05" title="qmgr_clear_trans_wakeup" alt="" coords="191,56,365,83"/>
+<area shape="rect" id="node6" href="$xasl__cache_8c.html#aeb179da67dcc6687e23222ae6c408890" title="xcache_invalidate_entries" alt="" coords="192,107,364,133"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="416,5,539,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="423,56,532,83"/>
+<area shape="rect" id="node5" href="$log__tran__table_8c.html#ade7e8a4bfcf4f0c9ad892da1c7f5fe7d" title="logtb_release_tran\l_index" alt="" coords="413,107,541,149"/>
+</map>

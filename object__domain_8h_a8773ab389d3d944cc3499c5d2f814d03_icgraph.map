@@ -1,0 +1,9 @@
+<map id="tp_apply_sys_charset" name="tp_apply_sys_charset">
+<area shape="rect" id="node2" href="$language__support_8h.html#a361f7b921eae57b8eaf03f1e6d81102a" title="lang_set_charset" alt="" coords="218,56,339,83"/>
+<area shape="rect" id="node6" href="$language__support_8h.html#a52036720cef62b079b1fa9c2e102e115" title="lang_set_charset_lang" alt="" coords="203,107,355,133"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="617,107,747,133"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="615,5,749,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="403,81,567,108"/>
+<area shape="rect" id="node7" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="415,183,554,209"/>
+<area shape="rect" id="node8" href="$language__support_8h.html#a3c0963599c2f292454d1a8d2d1f7b14f" title="lang_set_language" alt="" coords="419,132,550,159"/>
+</map>

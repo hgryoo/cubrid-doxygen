@@ -1,0 +1,21 @@
+<map id="src/query/cursor.h" name="src/query/cursor.h">
+<area shape="rect" id="node2" href="$db__query_8h.html" title="src/compat/db_query.h" alt="" coords="500,80,655,107"/>
+<area shape="rect" id="node12" href="$parse__tree_8h.html" title="src/parser/parse_tree.h" alt="" coords="1187,80,1343,107"/>
+<area shape="rect" id="node16" href="$parse__evaluate_8c.html" title="src/parser/parse_evaluate.c" alt="" coords="1425,251,1607,278"/>
+<area shape="rect" id="node17" href="$cursor_8c.html" title="src/query/cursor.c" alt="" coords="1662,251,1789,278"/>
+<area shape="rect" id="node20" href="$method__scan_8h.html" title="src/query/method_scan.h" alt="" coords="1795,80,1965,107"/>
+<area shape="rect" id="node3" href="$tz__compile_8c.html" title="src/base/tz_compile.c" alt="" coords="143,162,294,189"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8c.html" title="src/communication/network\l_interface_cl.c" alt="" coords="966,244,1149,285"/>
+<area shape="rect" id="node5" href="$dbi_8h.html" title="src/compat/dbi.h" alt="" coords="370,162,489,189"/>
+<area shape="rect" id="node7" href="$db__vdb_8c.html" title="src/compat/db_vdb.c" alt="" coords="5,251,149,278"/>
+<area shape="rect" id="node8" href="$transaction__cl_8c.html" title="src/transaction/transaction_cl.c" alt="" coords="367,251,571,278"/>
+<area shape="rect" id="node9" href="$db__query_8c.html" title="src/compat/db_query.c" alt="" coords="596,251,751,278"/>
+<area shape="rect" id="node10" href="$query__result_8c.html" title="src/parser/query_result.c" alt="" coords="775,251,942,278"/>
+<area shape="rect" id="node11" href="$boot__cl_8c.html" title="src/transaction/boot_cl.c" alt="" coords="1173,251,1339,278"/>
+<area shape="rect" id="node6" href="$cas__execute_8c.html" title="src/broker/cas_execute.c" alt="" coords="174,251,343,278"/>
+<area shape="rect" id="node13" href="$db__stub_8h.html" title="src/api/db_stub.h" alt="" coords="1395,162,1517,189"/>
+<area shape="rect" id="node14" href="$ddl__log_8c.html" title="src/base/ddl_log.c" alt="" coords="1541,162,1669,189"/>
+<area shape="rect" id="node15" href="$network__interface__cl_8h.html" title="src/communication/network\l_interface_cl.h" alt="" coords="767,155,950,196"/>
+<area shape="rect" id="node18" href="$jsp__cl_8h.html" title="src/jsp/jsp_cl.h" alt="" coords="1026,162,1137,189"/>
+<area shape="rect" id="node19" href="$class__description_8cpp.html" title="src/object/class_description.cpp" alt="" coords="1161,162,1370,189"/>
+</map>

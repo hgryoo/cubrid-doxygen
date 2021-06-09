@@ -1,0 +1,21 @@
+<map id="numeric_common_prec_scale" name="numeric_common_prec_scale">
+<area shape="rect" id="node2" href="$numeric__opfunc_8h.html#ae274b14fc2a3f23b786f8bb4a7478b3d" title="numeric_db_value_add" alt="" coords="225,183,380,209"/>
+<area shape="rect" id="node11" href="$numeric__opfunc_8h.html#ab4939bc1578f93b521634360e50eb80a" title="numeric_db_value_compare" alt="" coords="211,579,395,605"/>
+<area shape="rect" id="node20" href="$numeric__opfunc_8h.html#a2432eab90a30717411deb3684ec6ba92" title="numeric_db_value_sub" alt="" coords="225,309,380,336"/>
+<area shape="rect" id="node3" href="$unload__schema_8c.html#a19c7529861ddae68e39dc5e12d23e60e" title="export_serial" alt="" coords="485,309,581,336"/>
+<area shape="rect" id="node4" href="$unload__schema_8c.html#ad469eaff0640ab475046abf543226b20" title="emit_instance_attributes" alt="" coords="451,360,615,387"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="443,157,623,184"/>
+<area shape="rect" id="node6" href="$query__opfunc_8c.html#a6d42da4cedeaa7232fdcf2f19054f3a9" title="qdata_add_numeric" alt="" coords="466,5,601,32"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#ab2a5079d5c9c95386a63db362c1499ae" title="qdata_add_numeric_to\l_dbval" alt="" coords="675,23,828,65"/>
+<area shape="rect" id="node8" href="$serial_8c.html#a1e3bce9c0b2265c69b2d3a1fe5e6a1d2" title="serial_get_nth_value" alt="" coords="463,208,604,235"/>
+<area shape="rect" id="node10" href="$log__applier__sql__log_8h.html#a0fa1fcdd69a15bf6ddbf7a5b8a4343cc" title="sl_write_update_sql" alt="" coords="465,107,602,133"/>
+<area shape="rect" id="node9" href="$serial_8c.html#ae25b42d347814e48a5ca1a08efa7ecba" title="serial_get_next_cached\l_value" alt="" coords="672,357,831,398"/>
+<area shape="rect" id="node12" href="$object__primitive_8c.html#ac4ef06893e7b3dff488e2e09d8ae0d8a" title="mr_data_cmpdisk_numeric" alt="" coords="444,696,623,723"/>
+<area shape="rect" id="node13" href="$object__primitive_8c.html#a80f8cdfe26f822c49a99d087be52f8dc" title="mr_cmpval_numeric" alt="" coords="464,747,603,773"/>
+<area shape="rect" id="node14" href="$arithmetic_8c.html#ac452ff9e0f644a66073dcadf6d85d4be" title="db_width_bucket_calculate\l_numeric" alt="" coords="444,462,623,503"/>
+<area shape="rect" id="node15" href="$execute__statement_8c.html#a7c89161fc03dafa66a757ce86fa15c24" title="check_serial_invariants" alt="" coords="454,797,613,824"/>
+<area shape="rect" id="node16" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="698,579,805,605"/>
+<area shape="rect" id="node17" href="$execute__statement_8h.html#a6d5023a6cc407b5d1d0222db0157e162" title="do_create_serial" alt="" coords="693,797,810,824"/>
+<area shape="rect" id="node18" href="$execute__statement_8h.html#af56fe6a18d78487bce9c670e95849ea2" title="do_change_auto_increment\l_serial" alt="" coords="443,630,624,671"/>
+<area shape="rect" id="node19" href="$execute__statement_8h.html#ac78ed602718434e660dfe3f61cf88719" title="do_create_auto_increment\l_serial" alt="" coords="446,849,621,890"/>
+</map>

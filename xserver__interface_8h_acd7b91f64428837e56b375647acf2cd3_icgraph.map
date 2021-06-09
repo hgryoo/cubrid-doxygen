@@ -1,0 +1,10 @@
+<map id="xtran_should_connection_reset" name="xtran_should_connection_reset">
+<area shape="rect" id="node2" href="$network__interface__sr_8c.html#ab6fed63da641cae0bfc477953ae3ca31" title="stran_server_abort\l_internal" alt="" coords="227,5,357,47"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8c.html#a2cdbe90c0a8a9e2a7c3a5958ed7a5d77" title="stran_server_auto_commit\l_or_abort" alt="" coords="412,64,588,105"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8c.html#a698b603f6ce39ef58412a8cdf5d2bd91" title="stran_server_commit\l_internal" alt="" coords="220,123,364,164"/>
+<area shape="rect" id="node7" href="$transaction__sr_8c.html#adea9113696646ab1a88c8e0e348180fa" title="xtran_lock_rep_read" alt="" coords="223,189,361,215"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="636,71,787,98"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#a41748713c987c7a8c81de43dc59e5974" title="stran_server_commit" alt="" coords="428,130,572,157"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#a7c1c8209c4552e78a29cac5e35570afd" title="stran_lock_rep_read" alt="" coords="431,185,569,211"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#a620f79b8a510f629de75a91353258a62" title="slocator_find_lockhint\l_class_oids" alt="" coords="426,236,574,277"/>
+</map>

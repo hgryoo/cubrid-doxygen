@@ -1,0 +1,9 @@
+<map id="btree_get_num_visible_oids_from_all_ovf" name="btree_get_num_visible_oids_from_all_ovf">
+<area shape="rect" id="node2" href="$btree_8h.html#a93ae249f2354acc429db9556d5b130d0" title="btree_get_num_visible\l_from_leaf_and_ovf" alt="" coords="205,145,357,186"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a92e0c641702ddd13095cebe585b20a43" title="btree_get_stats_key" alt="" coords="421,5,561,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a138d6474a32b948d3bc2f23712620cb2" title="btree_key_lock_and\l_append_object_unique" alt="" coords="411,57,570,98"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a24cd363ca531b34b93e5092e7611129f" title="btree_key_find_and\l_insert_delete_mvccid" alt="" coords="624,145,776,186"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a260b521a1b6a85598536355bd30a0fcd" title="btree_key_record_check\l_no_visible" alt="" coords="409,174,573,215"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a362a4d222b53ff74e31f9994532fe8a2" title="btree_key_delete_remove\l_object" alt="" coords="405,239,576,281"/>
+<area shape="rect" id="node8" href="$btree__load_8c.html#adfce9ba7fd07ea71b4b565932fd08a9a" title="btree_is_slot_visible" alt="" coords="421,305,561,332"/>
+</map>

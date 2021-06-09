@@ -1,0 +1,6 @@
+<map id="qo_classify" name="qo_classify">
+<area shape="rect" id="node2" href="$query__planner_8c.html#ad5d425b0c53a0ac7c069ea84059b918d" title="qo_all_some_in_selectivity" alt="" coords="141,5,320,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#a280eddcfb9a45b91d6bef247a25a9c86" title="qo_equal_selectivity" alt="" coords="161,56,301,83"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#a6e1a27feea4e30539347c97b11aab333" title="qo_range_selectivity" alt="" coords="160,107,301,133"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#ae20bc1be9c3d7ca372af3f827c84aad3" title="qo_expr_selectivity" alt="" coords="368,56,503,83"/>
+</map>

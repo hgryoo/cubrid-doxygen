@@ -1,0 +1,15 @@
+<map id="cursor" name="cursor">
+<area shape="rect" id="node2" href="$structcs__stmt__id.html" title="{cs_stmt_id\n|+ no\l+ stmt_id\l|}" alt="" coords="268,575,355,667"/>
+<area shape="rect" id="node3" href="$structdb__session.html" title="{db_session\n|+ stage\l+ include_oid\l+ dimension\l+ stmt_ndx\l+ line_offset\l+ column_offset\l+ is_subsession_for_prepared\l|}" alt="" coords="5,248,201,413"/>
+<area shape="rect" id="node4" href="$structdb__query__type.html" title="{db_query_type\n|+ col_type\l+ name\l+ attr_name\l+ spec_name\l+ original_name\l+ db_type\l+ size\l+ visible_type\l|}" alt="" coords="182,5,297,185"/>
+<area shape="rect" id="node10" href="$structdb__query__result.html" title="{db_query_result\n|+ type\l+ status\l+ col_cnt\l+ oid_included\l+ type_cnt\l+ qtable_ind\l+ res\l|}" alt="" coords="573,539,687,704"/>
+<area shape="rect" id="node5" href="$structstmt.html" title="{stmt\n|+ name\l+ sid\l|}" alt="" coords="881,575,947,667"/>
+<area shape="rect" id="node6" href="$structpointer.html" title="{pointer\n||}" alt="" coords="911,437,973,515"/>
+<area shape="rect" id="node7" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="677,57,775,134"/>
+<area shape="rect" id="node12" href="$structdb__get__result.html" title="{db_get_result\n|+ crs_pos\l+ tpl_idx\l+ n_tuple\l|}" alt="" coords="565,277,665,384"/>
+<area shape="rect" id="node13" href="$structdb__call__result.html" title="{db_call_result\n|+ crs_pos\l|}" alt="" coords="831,292,933,369"/>
+<area shape="rect" id="node14" href="$structdb__objfetch__result.html" title="{db_objfetch_result\n|+ crs_pos\l|}" alt="" coords="413,292,541,369"/>
+<area shape="rect" id="node8" href="$structhost__lod.html" title="{host_lod\n|+ desc\l+ n_refs\l+ max_refs\l+ n_real_refs\l|}" alt="" coords="999,561,1098,682"/>
+<area shape="rect" id="node9" href="$structhost__ref.html" title="{host_ref\n|+ uci_type\l|}" alt="" coords="1009,292,1091,369"/>
+<area shape="rect" id="node11" href="$structdb__select__result.html" title="{db_select_result\n|+ query_id\l+ stmt_id\l+ stmt_type\l+ holdable\l|}" alt="" coords="689,270,806,391"/>
+</map>

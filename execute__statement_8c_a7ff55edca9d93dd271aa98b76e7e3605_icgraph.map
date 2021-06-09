@@ -1,0 +1,7 @@
+<map id="update_object_tuple" name="update_object_tuple">
+<area shape="rect" id="node2" href="$execute__statement_8c.html#ad3e5836d399eca9cc6f181c57a9e4957" title="update_object_by_oid" alt="" coords="199,63,347,89"/>
+<area shape="rect" id="node6" href="$execute__statement_8c.html#adda1936f2e53715e967cbc5d042a3f3f" title="update_objs_for_list_file" alt="" coords="192,8,355,35"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#afe56199df5cbc88a2f7aef1dc0cb0bdc" title="do_execute_update" alt="" coords="407,5,542,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#ac3dbad58a668246501ddcb60c149bb20" title="do_on_duplicate_key\l_update" alt="" coords="403,57,547,98"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#aa1bd44e095a27aaa9394a2a996855b16" title="do_update" alt="" coords="433,123,516,149"/>
+</map>

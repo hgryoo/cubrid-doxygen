@@ -1,0 +1,8 @@
+<map id="CUR_RESULT_INFO" name="CUR_RESULT_INFO">
+<area shape="rect" id="node2" href="$structdb__query__result.html" title="{db_query_result\n|+ type\l+ status\l+ col_cnt\l+ oid_included\l+ type_cnt\l+ qtable_ind\l+ res\l|}" alt="" coords="264,248,379,413"/>
+<area shape="rect" id="node3" href="$structdb__select__result.html" title="{db_select_result\n|+ query_id\l+ stmt_id\l+ stmt_type\l+ holdable\l|}" alt="" coords="5,35,123,156"/>
+<area shape="rect" id="node4" href="$structdb__get__result.html" title="{db_get_result\n|+ crs_pos\l+ tpl_idx\l+ n_tuple\l|}" alt="" coords="146,42,246,149"/>
+<area shape="rect" id="node5" href="$structdb__call__result.html" title="{db_call_result\n|+ crs_pos\l|}" alt="" coords="270,57,373,134"/>
+<area shape="rect" id="node6" href="$structdb__objfetch__result.html" title="{db_objfetch_result\n|+ crs_pos\l|}" alt="" coords="397,57,525,134"/>
+<area shape="rect" id="node7" href="$structdb__query__type.html" title="{db_query_type\n|+ col_type\l+ name\l+ attr_name\l+ spec_name\l+ original_name\l+ db_type\l+ size\l+ visible_type\l|}" alt="" coords="549,5,664,185"/>
+</map>

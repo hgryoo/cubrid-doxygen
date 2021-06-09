@@ -1,0 +1,5 @@
+<map id="btree_record_remove_last_object" name="btree_record_remove_last_object">
+<area shape="rect" id="node2" href="$btree_8c.html#aa385b0e44659fdc7fd2857c32d14e78d" title="btree_key_relocate\l_last_into_ovf" alt="" coords="217,5,349,47"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a5a56318478659d35fd66923fa6cd69c4" title="btree_leaf_record_replace\l_first_with_last" alt="" coords="197,71,368,112"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a3f6113cbdaa7c297f427928f0deaf8a2" title="btree_key_append_object\l_unique" alt="" coords="416,5,587,47"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="or_unpack_value" name="or_unpack_value">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#aa11536dcd7a0a1d17494ff180d400b74" title="csession_get_last_insert_id" alt="" coords="173,56,356,83"/>
+<area shape="rect" id="node5" href="$object__representation_8c.html#a36c87bf48f6711afcca91ace6f4345c3" title="or_unpack_db_value" alt="" coords="194,309,335,336"/>
+<area shape="rect" id="node16" href="$network__interface__cl_8h.html#a36a75ee7067a1dc7813a2ea1b1dd595a" title="qp_get_server_info" alt="" coords="199,360,331,387"/>
+<area shape="rect" id="node17" href="$network__interface__sr_8c.html#a05954042ad45d1d11c5dca82f55f2894" title="sbtree_find_unique\l_internal" alt="" coords="199,411,330,453"/>
+<area shape="rect" id="node18" href="$network__interface__cl_8h.html#a8ec24f22a197b9519074148585811584" title="serial_get_current\l_value" alt="" coords="202,477,327,518"/>
+<area shape="rect" id="node19" href="$network__interface__cl_8h.html#ac5fcd3950e0f7bb3e3e7122294b68124" title="serial_get_next_value" alt="" coords="191,543,339,569"/>
+<area shape="rect" id="node20" href="$classcubpacking_1_1unpacker.html#a952aca5a0d23f370d308a7af18dab9da" title="cubpacking::unpacker\l::unpack_db_value" alt="" coords="190,594,339,635"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a46cf3f1c9e34fa5aabdc592ea5a39f36" title="db_get_last_insert_id" alt="" coords="421,5,567,32"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="404,56,584,83"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#a3cdda3c6c2af4a36161c0134ecefde6c" title="csession_get_variable" alt="" coords="419,107,569,133"/>
+<area shape="rect" id="node7" href="$db__query_8h.html#a0e462a91dd285b474f0e7a58500af245" title="db_unpack_prepare_info" alt="" coords="413,157,575,184"/>
+<area shape="rect" id="node8" href="$method__scan_8c.html#a0b17489ba93adc5032bdf2745b1e7d64" title="method_clear_scan_buffer" alt="" coords="407,208,581,235"/>
+<area shape="rect" id="node9" href="$object__representation_8c.html#a08b9cf832ed7d6ea52c192db90939aed" title="or_header_size" alt="" coords="439,259,549,285"/>
+<area shape="rect" id="node10" href="$network__interface__sr_8h.html#a2c2dc5f8cd06018cc747328dfcb31eae" title="sbtree_find_multi_uniques" alt="" coords="407,309,581,336"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#a9af20dab021905396b0e8b331363a741" title="ssession_drop_session\l_variables" alt="" coords="415,361,573,402"/>
+<area shape="rect" id="node12" href="$network__interface__sr_8h.html#aa48fb4c1fd4a390c132b6d723cc6f5d3" title="ssession_get_session\l_variable" alt="" coords="419,426,569,467"/>
+<area shape="rect" id="node13" href="$network__interface__sr_8h.html#a679b8a3c3a6ed1d0b9aaa5f9c5ae69c5" title="ssession_set_session\l_variables" alt="" coords="419,491,569,533"/>
+<area shape="rect" id="node14" href="$xasl__stream_8hpp.html#aeb5cc0ee44f8ee35e19a6088a3be432c" title="stx_build_db_value" alt="" coords="427,557,561,584"/>
+<area shape="rect" id="node15" href="$query__manager_8c.html#acca53c25556757b153c16afc23f6ccd4" title="xqmgr_execute_query" alt="" coords="419,608,569,635"/>
+</map>

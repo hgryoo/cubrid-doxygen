@@ -1,0 +1,8 @@
+<map id="perfmon_stat_promote_cond_name" name="perfmon_stat_promote_cond_name">
+<area shape="rect" id="node2" href="$perf__monitor_8c.html#a3c21a2f8dac78e7ef0b5a15fcc65445c" title="perfmon_stat_dump_in\l_buffer_promote_page\l_array_stat" alt="" coords="228,61,383,117"/>
+<area shape="rect" id="node5" href="$perf__monitor_8c.html#a20756dae05cc88450b3791a0d173d91a" title="perfmon_stat_dump_in\l_file_promote_page_array_stat" alt="" coords="205,140,405,181"/>
+<area shape="rect" id="node3" href="$perf__monitor_8c.html#a57bcfb170e1b9745b5b3a6d993513296" title="f_dump_in_buffer_Num\l_data_page_promote_ext" alt="" coords="469,5,637,47"/>
+<area shape="rect" id="node4" href="$perf__monitor_8c.html#ac28fef6378dec0a3cfb9df44749cf0db" title="f_dump_in_buffer_Num\l_data_page_promote_time_ext" alt="" coords="453,71,653,112"/>
+<area shape="rect" id="node6" href="$perf__monitor_8c.html#a21c9d07aed3257197e4603affc2f2449" title="f_dump_in_file_Num\l_data_page_promote_ext" alt="" coords="469,137,637,179"/>
+<area shape="rect" id="node7" href="$perf__monitor_8c.html#ae96cc4f1a4b1a957ade1b4200bc27260" title="f_dump_in_file_Num\l_data_page_promote_time_ext" alt="" coords="453,203,653,244"/>
+</map>

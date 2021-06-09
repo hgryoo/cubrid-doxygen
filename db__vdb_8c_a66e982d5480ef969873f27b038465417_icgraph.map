@@ -1,0 +1,21 @@
+<map id="db_compile_and_execute_local" name="db_compile_and_execute_local">
+<area shape="rect" id="node2" href="$authenticate_8h.html#af4ccf381bea08d12fa4fefe31ce51fe3" title="au_dump_auth" alt="" coords="269,5,375,32"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#a2b48850e09edf4650b2cab61d029401a" title="au_dump_to_file" alt="" coords="498,31,615,57"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#afa9e1997f61ce12d24206b20e3990378" title="au_dump_user" alt="" coords="269,107,375,133"/>
+<area shape="rect" id="node6" href="$authenticate_8h.html#a5cfe0a7ffd242da92334d64fce12f629" title="au_export_users" alt="" coords="263,208,381,235"/>
+<area shape="rect" id="node8" href="$authenticate_8h.html#afb3c317e408bd9ad5a72bcc7c52877e2" title="au_find_user" alt="" coords="274,157,370,184"/>
+<area shape="rect" id="node13" href="$authenticate_8c.html#a49a6bdb7193ca75c27987d684fbab8c6" title="build_class_grant_list" alt="" coords="249,259,395,285"/>
+<area shape="rect" id="node14" href="$authenticate_8c.html#a194068aaef985fca05ff25c909069c32" title="collect_class_grants" alt="" coords="251,309,393,336"/>
+<area shape="rect" id="node15" href="$dbi__compat_8h.html#a741f68771dcf741ec80804d2a90658b1" title="db_validate" alt="" coords="278,360,366,387"/>
+<area shape="rect" id="node16" href="$execute__statement_8h.html#a74a9de1936b28452f2cb5cdcee7bccad" title="do_check_internal_statements" alt="" coords="223,411,421,437"/>
+<area shape="rect" id="node17" href="$execute__schema_8c.html#a45757e20f94e61e441446ac8faa9dbda" title="do_redistribute_partitions_data" alt="" coords="223,461,421,488"/>
+<area shape="rect" id="node18" href="$unload__schema_8c.html#a19c7529861ddae68e39dc5e12d23e60e" title="export_serial" alt="" coords="274,512,370,539"/>
+<area shape="rect" id="node19" href="$util__sa_8c.html#ad21888631b7d88b5eab313bf5e523aec" title="synccoll_check" alt="" coords="266,563,378,589"/>
+<area shape="rect" id="node20" href="$virtual__object_8h.html#a5005f7cde869fb7bab3295b4b98bd9cf" title="vid_getall_mops" alt="" coords="264,613,380,640"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a4f8d8c99a5c2b184c342036f62a89990" title="au_describe_user_method" alt="" coords="469,81,644,108"/>
+<area shape="rect" id="node7" href="$unloaddb_8h.html#aab2eec8bbc4988ca57d5cef87fafc87b" title="extract_classes" alt="" coords="499,424,614,451"/>
+<area shape="rect" id="node9" href="$dbi__compat_8h.html#a2d0e9b7a779e0f4394bfb753cb1da4e5" title="db_find_user" alt="" coords="509,284,605,311"/>
+<area shape="rect" id="node10" href="$util__sa_8c.html#a5ca6959d779932ef8c5e4006a7425df1" title="parse_user_define_line" alt="" coords="692,183,847,209"/>
+<area shape="rect" id="node11" href="$authenticate_8h.html#a15ffc07ba57963ac29a0fd7632d3ee94" title="au_find_user_method" alt="" coords="483,183,630,209"/>
+<area shape="rect" id="node12" href="$authenticate_8h.html#abf5a1e3cd4160a51bc6acd4abff51bb6" title="au_add_user" alt="" coords="509,233,605,260"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="start_state" name="start_state">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#a3792d4dac4d3bea26df6277cee9b83cc" title="run_user_triggers" alt="" coords="149,53,271,80"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#af5246583905394c9c1a2e8de59dd0735" title="tr_execute_deferred\l_activities" alt="" coords="141,105,279,146"/>
+<area shape="rect" id="node7" href="$trigger__manager_8h.html#a697079934063d98110504cdb006683ab" title="tr_prepare_class" alt="" coords="151,171,269,197"/>
+<area shape="rect" id="node8" href="$trigger__manager_8h.html#a544e41976d6d1ec8a64500545e20cf6d" title="tr_prepare_statement" alt="" coords="137,221,283,248"/>
+<area shape="rect" id="node3" href="$trigger__manager_8h.html#a6156edd6b804b5f36cd6c4001dc778f4" title="tr_check_abort_triggers" alt="" coords="339,5,497,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#a41d04a7d0b17de73944be50c74e07715" title="tr_check_commit_triggers" alt="" coords="332,108,504,135"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#afa0330b36f45069776820158359e133e" title="tr_check_rollback_triggers" alt="" coords="331,56,505,83"/>
+</map>

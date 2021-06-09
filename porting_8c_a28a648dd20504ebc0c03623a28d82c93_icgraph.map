@@ -1,0 +1,12 @@
+<map id="asprintf" name="asprintf">
+<area shape="rect" id="node2" href="$file__io_8c.html#a75de3fb1bd3a4ce20808ae371e5bdca6" title="fileio_continue_restore" alt="" coords="349,10,501,36"/>
+<area shape="rect" id="node5" href="$file__io_8c.html#a9fb6af728c404f5ac0822488d1711dd2" title="fileio_find_restore\l_volume" alt="" coords="147,104,271,145"/>
+<area shape="rect" id="node7" href="$file__io_8c.html#a548d455254d93c20e0630710f28cadf0" title="fileio_get_next_backup\l_volume" alt="" coords="348,162,503,204"/>
+<area shape="rect" id="node8" href="$file__io_8h.html#a804410092892d2bfac5a0b9d21a4e3c7" title="fileio_finish_backup" alt="" coords="141,220,277,247"/>
+<area shape="rect" id="node10" href="$file__io_8c.html#aebeeec98ab02d21bae159cc383e51731" title="fileio_make_error_message" alt="" coords="119,52,300,79"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#ae0ca8eb9081bca5cf948e3a5e46813f6" title="logpb_remote_ask_user\l_before_delete_volumes" alt="" coords="128,272,291,313"/>
+<area shape="rect" id="node3" href="$file__io_8c.html#a66c6de07286da1c9850e69522a423fd4" title="fileio_read_restore" alt="" coords="551,86,679,112"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#ae03fe0d348dc4382d997df5f33a209bc" title="fileio_start_restore" alt="" coords="551,35,680,62"/>
+<area shape="rect" id="node6" href="$file__io_8c.html#adadc6ed91a414ff285b3dabd3d6f8d15" title="fileio_initialize_restore" alt="" coords="350,60,501,87"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="374,254,477,280"/>
+</map>

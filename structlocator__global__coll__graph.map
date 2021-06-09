@@ -1,0 +1,9 @@
+<map id="locator_global" name="locator_global">
+<area shape="rect" id="node2" href="$structlocator__global_1_1locator__global__copyareas.html" title="{locator_global::locator\l_global_copyareas\n|+ number\l|}" alt="" coords="5,380,155,472"/>
+<area shape="rect" id="node3" href="$structlc__copy__area.html" title="{lc_copy_area\n|+ mem\l+ length\l|}" alt="" coords="147,115,245,207"/>
+<area shape="rect" id="node6" href="$structlocator__global_1_1locator__global__packed__areas.html" title="{locator_global::locator\l_global_packed_areas\n|+ number\l|}" alt="" coords="179,380,330,472"/>
+<area shape="rect" id="node4" href="$structlocator__global_1_1locator__global__lockhint__areas.html" title="{locator_global::locator\l_global_lockhint_areas\n|+ number\l|}" alt="" coords="355,380,509,472"/>
+<area shape="rect" id="node5" href="$structlc__lock__hint.html" title="{lc_lock_hint\n|+ mem\l+ length\l+ max_classes\l+ num_classes\l+ num_classes_processed\l+ quit_on_errors\l+ packed_size\l+ packed\l+ first_fetch_lockhint_call\l|}" alt="" coords="331,64,509,259"/>
+<area shape="rect" id="node7" href="$structlocator__global_1_1locator__global__lockset__areas.html" title="{locator_global::locator\l_global_lockset_areas\n|+ number\l|}" alt="" coords="537,380,687,472"/>
+<area shape="rect" id="node8" href="$structlc__lock__set.html" title="{lc_lock_set\n|+ mem\l+ length\l+ max_reqobjs\l+ num_reqobjs\l+ num_reqobjs_processed\l+ last_reqobj_cached\l+ reqobj_inst_lock\l+ reqobj_class_lock\l+ num_classes_of_reqobjs\l+ num_classes_of_reqobjs\l_processed\l+ last_classof_reqobjs\l_cached\l+ quit_on_errors\l+ packed_size\l+ packed\l+ first_fetch_lockset_call\l|}" alt="" coords="533,5,712,317"/>
+</map>

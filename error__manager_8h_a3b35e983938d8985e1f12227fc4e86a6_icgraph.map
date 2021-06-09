@@ -1,0 +1,9 @@
+<map id="er_clearid" name="er_clearid">
+<area shape="rect" id="node2" href="$load__object_8h.html#ab863b2af33247ee4e98c8e9a7ef9d84a" title="er_filter_errid" alt="" coords="132,162,229,189"/>
+<area shape="rect" id="node3" href="$classcubload_1_1sa__object__loader.html#a13dfc4b0853b145a4e43b0c6be1dc439" title="cubload::sa_object\l_loader::destroy" alt="" coords="285,5,416,47"/>
+<area shape="rect" id="node4" href="$classcubload_1_1sa__object__loader.html#a8a6c945de603337f5be66791eb05f554" title="cubload::sa_object\l_loader::finish_line" alt="" coords="285,71,416,112"/>
+<area shape="rect" id="node5" href="$load__sa__loader_8cpp.html#a9aa0f48f3bf9f906b3741ad03b78545b" title="ldr_reset_context" alt="" coords="289,137,412,163"/>
+<area shape="rect" id="node6" href="$load__sa__loader_8cpp.html#a8bd9b94300dfb07ce334162f90c37073" title="ldr_finish_context" alt="" coords="289,187,413,214"/>
+<area shape="rect" id="node7" href="$load__sa__loader_8cpp.html#a6f2575a9565edd8800eec6129d0e1db8" title="ldr_refresh_attrs" alt="" coords="293,238,409,265"/>
+<area shape="rect" id="node8" href="$load__sa__loader_8cpp.html#a3e1fcb98678dd52c064110a6da40fbec" title="ldr_act_add_class_all\l_attrs" alt="" coords="277,289,424,331"/>
+</map>

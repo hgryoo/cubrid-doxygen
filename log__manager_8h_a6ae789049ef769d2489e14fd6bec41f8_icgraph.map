@@ -1,0 +1,14 @@
+<map id="log_abort" name="log_abort">
+<area shape="rect" id="node2" href="$log__2pc_8c.html#a704fb0332671ae6dd81e859ebd046128" title="log_2pc_attach_client" alt="" coords="128,5,276,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a43c3e6965dc07096503c8de506a1069f" title="log_abort_all_active\l_transaction" alt="" coords="133,57,271,98"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="167,123,237,149"/>
+<area shape="rect" id="node9" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="343,161,485,188"/>
+<area shape="rect" id="node10" href="$transaction__sr_8c.html#a1fd2b691cc614d3d3b1a709338eb0403" title="xtran_server_abort" alt="" coords="349,224,479,251"/>
+<area shape="rect" id="node3" href="$log__2pc_8h.html#a318025a7b9ff40835b5dcd6fd7021919" title="log_2pc_attach_global_tran" alt="" coords="324,5,504,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="334,105,494,132"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="585,173,675,200"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#ab5d8cbe4258cd66e61a0da4e4a87614f" title="xboot_unregister_client" alt="" coords="552,99,708,125"/>
+<area shape="rect" id="node11" href="$network__interface__cl_8h.html#a95c98385d6b15933fd29c45f0569e45d" title="tran_server_abort" alt="" coords="569,224,691,251"/>
+<area shape="rect" id="node12" href="$network__interface__sr_8c.html#ab6fed63da641cae0bfc477953ae3ca31" title="stran_server_abort\l_internal" alt="" coords="565,275,695,317"/>
+<area shape="rect" id="node13" href="$classcubload_1_1load__task.html#aa4e8a989957626a602b12db671672fdb" title="cubload::load_task\l::execute" alt="" coords="565,341,695,382"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="pt_has_aggregate" name="pt_has_aggregate">
+<area shape="rect" id="node2" href="$view__transform_8c.html#a396d97d8efd6d9c48491e60031c4f8db" title="mq_check_rewrite_select" alt="" coords="193,5,363,32"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#aa55b626abcef5f0ec44879055efb4cd1" title="mq_is_pushable_subquery" alt="" coords="190,56,366,83"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#ac215f16a40d7d58cc76a7eb5736a3e83" title="mq_substitute_subquery\l_in_statement" alt="" coords="425,85,589,126"/>
+<area shape="rect" id="node6" href="$view__transform_8c.html#ac2caadfa53f5a76207a29d9cca0cf475" title="mq_translate_local" alt="" coords="442,172,573,199"/>
+<area shape="rect" id="node7" href="$view__transform_8c.html#a1e857a5f33e085e89c3af789a03436e0" title="mq_translate_select" alt="" coords="209,208,347,235"/>
+<area shape="rect" id="node8" href="$view__transform_8c.html#ae483dc0878a45d0bfa9f7d9c72a87a9f" title="mq_updatable_local" alt="" coords="209,259,347,285"/>
+<area shape="rect" id="node9" href="$view__transform_8c.html#a0cd5f396a4c979a724fcc4cc080aa910" title="pt_check_copypush_subquery" alt="" coords="179,309,377,336"/>
+<area shape="rect" id="node10" href="$view__transform_8c.html#a1f4ad8213f5a0339a636350fb036b4e6" title="pt_check_for_update\l_clause" alt="" coords="207,361,349,402"/>
+<area shape="rect" id="node11" href="$view__transform_8c.html#a8287c02395ee55becaa80dd4baf04e7d" title="pt_copypush_terms" alt="" coords="210,427,346,453"/>
+<area shape="rect" id="node12" href="$xasl__generation_8h.html#ac63598f03c7fca0a0e2a9f49e0b29286" title="pt_is_single_tuple" alt="" coords="215,477,341,504"/>
+<area shape="rect" id="node13" href="$parser__support_8c.html#a5af3cbd12f5b346caecb27d7c79c2869" title="pt_reset_error" alt="" coords="227,528,329,555"/>
+<area shape="rect" id="node14" href="$semantic__check_8c.html#a8ace6e3dcf7c5b1840dc5f4df6fed4b7" title="pt_semantic_check_local" alt="" coords="193,579,363,605"/>
+<area shape="rect" id="node15" href="$xasl__generation_8c.html#ac00afe3347320f27638ab8dbd860fa5c" title="pt_to_buildlist_proc" alt="" coords="211,629,345,656"/>
+<area shape="rect" id="node16" href="$plan__generation_8c.html#a3470711dbdf1fc9ae87ecf799133e4a5" title="qo_check_iscan_for\l_multi_range_opt" alt="" coords="209,681,347,722"/>
+<area shape="rect" id="node17" href="$query__graph_8c.html#af77387ade8c3d4dc03055143fb4fd13b" title="qo_discover_sort_limit\l_nodes" alt="" coords="202,746,354,787"/>
+<area shape="rect" id="node18" href="$query__rewrite_8c.html#a6acea409aa77cb06ff4827194018546b" title="qo_rewrite_subqueries" alt="" coords="202,812,354,839"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#a56580045461dae15bc65b6be17518362" title="mq_push_paths" alt="" coords="450,5,565,32"/>
+</map>

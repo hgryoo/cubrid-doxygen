@@ -1,0 +1,5 @@
+<map id="boot_get_new_volume_name_and_id" name="boot_get_new_volume_name_and_id">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#aa1450d661897bab9929324e46c0b641d" title="disk_add_volume" alt="" coords="205,31,328,57"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a24432937a48bec91095efd8acca6d4aa" title="disk_add_volume_extension" alt="" coords="376,5,563,32"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#ae499b237d71a7f52450298b19618122a" title="disk_extend" alt="" coords="423,56,515,83"/>
+</map>

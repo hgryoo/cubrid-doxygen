@@ -1,0 +1,11 @@
+<map id="catalog_insert" name="catalog_insert">
+<area shape="rect" id="node2" href="$locator__sr_8h.html#a4ef4e207374578272aab7839343e3837" title="locator_insert_force" alt="" coords="156,133,292,159"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#aa94a327f45350804b2066385650abc9b" title="locator_update_force" alt="" coords="564,53,707,79"/>
+<area shape="rect" id="node3" href="$classcubload_1_1server__object__loader.html#a59e168f3f9d0312d95c9fe90786e5729" title="cubload::server_object\l_loader::flush_records" alt="" coords="559,129,712,171"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#a29ff99cc47991fff78c81ff1c63a43e7" title="locator_move_record" alt="" coords="354,53,497,79"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#a73774f0c161927b6f0c0fd13d4e1bf2c" title="xlocator_repl_force" alt="" coords="765,258,897,285"/>
+<area shape="rect" id="node7" href="$locator__sr_8c.html#ac04114037ed20e59c26776f0851d2d15" title="xlocator_force" alt="" coords="779,27,883,54"/>
+<area shape="rect" id="node8" href="$locator__sr_8h.html#a891018ca0e900f206c7635aa258af74b" title="locator_attribute_info\l_force" alt="" coords="760,116,903,157"/>
+<area shape="rect" id="node9" href="$locator__sr_8c.html#ae8a912f57490caa58cd390d22535fd7b" title="redistribute_partition_data" alt="" coords="340,221,511,247"/>
+<area shape="rect" id="node10" href="$locator__sr_8h.html#a04d5e2ed684cc4d2b3e5a09765fb88de" title="locator_multi_insert\l_force" alt="" coords="358,155,493,196"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="tp_domain_add" name="tp_domain_add">
+<area shape="rect" id="node2" href="$type__checking_8c.html#a30d8dc5e4502a39fb1256fad39feb723" title="pt_coerce_node_collation" alt="" coords="164,195,333,222"/>
+<area shape="rect" id="node10" href="$parser_8h.html#a458682d4ae9c81c9a0b5fb49aa77c175" title="pt_node_data_type_to\l_db_domain" alt="" coords="173,247,324,288"/>
+<area shape="rect" id="node11" href="$parser_8h.html#a7e346811a00c66d97af8a80f9c5140c8" title="pt_node_to_db_domain" alt="" coords="171,313,327,339"/>
+<area shape="rect" id="node12" href="$set__object_8h.html#a885d28fd0ca3d4ab3d35546d830dd264" title="setobj_build_domain\l_from_col" alt="" coords="179,364,319,405"/>
+<area shape="rect" id="node13" href="$schema__template_8h.html#a0c233adb45df64018005851832f0d8c5" title="smt_add_set_argument\l_domain" alt="" coords="169,429,328,471"/>
+<area shape="rect" id="node14" href="$schema__template_8h.html#a4d320b9e78973714d8812c6ef842bd7a" title="smt_add_set_attribute\l_domain" alt="" coords="173,495,324,536"/>
+<area shape="rect" id="node15" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="173,561,325,587"/>
+<area shape="rect" id="node3" href="$classfunc__type_1_1Node.html#ae0620df7aefbe9e5fb8e0aa6b6fa859f" title="func_type::Node::apply\l_argument" alt="" coords="394,5,551,47"/>
+<area shape="rect" id="node4" href="$classfunc__type_1_1Node.html#acdef77e4e64ce753027eba47a5d21937" title="func_type::Node::set\l_return_type" alt="" coords="401,71,545,112"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#a34a6c33848010ae7689e2d1f7c9ae87a" title="pt_eval_function_type_old" alt="" coords="612,254,785,281"/>
+<area shape="rect" id="node6" href="$type__checking_8c.html#ac6666baa3cfb677d599e6afe845a2885" title="pt_coerce_node_collection\l_of_collection" alt="" coords="385,188,561,229"/>
+<area shape="rect" id="node7" href="$type__checking_8c.html#a06007d90431b174a63875bf60871f3a7" title="pt_check_expr_collation" alt="" coords="391,254,554,281"/>
+<area shape="rect" id="node8" href="$type__checking_8c.html#a5cb74d4c3df825798c559ea8a75a548b" title="pt_check_recursive\l_expr_collation" alt="" coords="405,305,540,347"/>
+<area shape="rect" id="node9" href="$type__checking_8c.html#a3623841cbeb65f9186dabf2ca6eab6bd" title="pt_check_function_collation" alt="" coords="381,371,564,398"/>
+</map>

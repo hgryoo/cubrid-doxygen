@@ -1,0 +1,21 @@
+<map id="btree_scan_partition_info" name="btree_scan_partition_info">
+<area shape="rect" id="node2" href="$structbtree__scan.html" title="{btree_scan\n|+ read_uncommitted\l+ P_page\l+ C_page\l+ O_page\l+ slot_id\l+ oid_pos\l+ clear_cur_key\l+ use_desc_index\l+ restart_scan\l+ read_keys\l+ qualified_keys\l+ common_prefix\l+ key_range_max_value\l_equal\l+ lock_mode\l+ need_to_check_null\l+ node_type\l+ offset\l+ key_status\l+ end_scan\l+ end_one_iteration\l+ is_interrupted\l+ is_key_partially_processed\l+ n_oids_read\l+ n_oids_read_last_iteration\l+ key_limit_lower\l+ key_limit_upper\l+ is_btid_int_valid\l+ is_scan_started\l+ force_restart_from_root\l+ time_track\l+ bts_other\l|}" alt="" coords="1350,800,1541,1332"/>
+<area shape="rect" id="node12" href="$structindx__scan__id.html" title="{indx_scan_id\n|+ bt_type\l+ bt_num_attrs\l+ bt_attr_ids\l+ bt_attrs_prefix_length\l+ vstr_ids\l+ num_vstr\l+ one_range\l+ curr_keyno\l+ curr_oidno\l+ copy_buf\l+ oids_count\l+ copy_buf_len\l+ key_cnt\l+ iscan_oid_order\l+ need_count_only\l+ caches_inited\l+ scancache_inited\l+ key_limit_lower\l+ key_limit_upper\l+ check_not_vacuumed\l+ not_vacuumed_res\l|}" alt="" coords="1363,1395,1525,1765"/>
+<area shape="rect" id="node3" href="$structfilter__info.html" title="{filter_info\n|+ btree_attr_ids\l+ num_vstr_ptr\l+ vstr_ids\l+ btree_num_attrs\l+ func_idx_col_id\l|+ filter_info()\l}" alt="" coords="868,473,996,609"/>
+<area shape="rect" id="node4" href="$structval__descr.html" title="{val_descr\n|+ dbval_cnt\l+ sys_epochtime\l+ lrand\l+ drand\l|}" alt="" coords="729,160,852,281"/>
+<area shape="rect" id="node15" href="$structpruning__context.html" title="{pruning_context\n|+ thread_p\l+ root_repr_id\l+ partition_type\l+ count\l+ attr_position\l+ attr_id\l+ error_code\l+ pruning_type\l+ is_attr_info_inited\l+ is_from_cache\l|}" alt="" coords="307,961,443,1171"/>
+<area shape="rect" id="node5" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="1533,5,1630,83"/>
+<area shape="rect" id="node13" href="$structbtree__keyrange.html" title="{btree_keyrange\n|+ range\l+ num_index_term\l|}" alt="" coords="1856,305,1987,397"/>
+<area shape="rect" id="node6" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="877,167,969,274"/>
+<area shape="rect" id="node10" href="$structbtid__int.html" title="{btid_int\n|+ unique_pk\l+ part_key_desc\l+ copy_buf\l+ copy_buf_len\l+ rev_level\l|}" alt="" coords="1577,473,1695,609"/>
+<area shape="rect" id="node19" href="$structor__partition.html" title="{or_partition\n|+ partition_type\l+ rep_id\l|}" alt="" coords="621,495,733,587"/>
+<area shape="rect" id="node7" href="$structleaf__rec.html" title="{leaf_rec\n|+ key_len\l|}" alt="" coords="1822,502,1901,579"/>
+<area shape="rect" id="node8" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="1708,175,1780,267"/>
+<area shape="rect" id="node20" href="$structbtree__node__header.html" title="{btree_node_header\n|+ node_level\l+ max_key_len\l|}" alt="" coords="1114,684,1246,776"/>
+<area shape="rect" id="node9" href="$structrecdes.html" title="{recdes\n|+ area_size\l+ length\l+ type\l+ data\l|}" alt="" coords="1461,480,1552,601"/>
+<area shape="rect" id="node11" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="1148,182,1249,259"/>
+<area shape="rect" id="node14" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="1331,421,1437,660"/>
+<area shape="rect" id="node16" href="$structfunc__pred.html" title="{func_pred\n|+ func_regu\l|+ func_pred()\l}" alt="" coords="116,502,215,579"/>
+<area shape="rect" id="node17" href="$structheap__cache__attrinfo.html" title="{heap_cache_attrinfo\n|+ dummy\l|}" alt="" coords="5,182,144,259"/>
+<area shape="rect" id="node18" href="$structscancache__list.html" title="{scancache_list\n||}" alt="" coords="320,502,429,579"/>
+</map>

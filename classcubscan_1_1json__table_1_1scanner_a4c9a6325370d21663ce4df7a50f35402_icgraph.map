@@ -1,0 +1,4 @@
+<map id="cubscan::json_table::scanner::get_predicate" name="cubscan::json_table::scanner::get_predicate">
+<area shape="rect" id="node2" href="$scan__manager_8h.html#a2dc4cb604236cfe651a621a1b694803c" title="scan_open_json_table_scan" alt="" coords="216,13,403,39"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#ab987ce7bd67fd4b9e0c392cea960d924" title="qexec_open_scan" alt="" coords="451,13,577,39"/>
+</map>

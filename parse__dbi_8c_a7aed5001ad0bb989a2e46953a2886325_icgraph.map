@@ -1,0 +1,16 @@
+<map id="pt_data_type_to_db_domain" name="pt_data_type_to_db_domain">
+<area shape="rect" id="node2" href="$execute__schema_8h.html#aa5d1dee3966bdbe30a7ce6cfa3023302" title="do_add_methods" alt="" coords="431,67,553,94"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#afab59b9d3dce837b4c095111e8506c88" title="pt_assignment_compatible" alt="" coords="191,42,368,68"/>
+<area shape="rect" id="node6" href="$parser__support_8c.html#a027ceed4c22e33884c5aaf46dc19a584" title="pt_check_enum_data_type" alt="" coords="190,92,369,119"/>
+<area shape="rect" id="node7" href="$type__checking_8c.html#a0b41b5283b79bb91b659d9514c25f695" title="pt_coerce_expression\l_argument" alt="" coords="417,476,567,517"/>
+<area shape="rect" id="node8" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="189,194,369,220"/>
+<area shape="rect" id="node9" href="$type__checking_8c.html#aac9bf6e40599e96b30c7f0c8bee43f0c" title="pt_fix_enumeration\l_comparison" alt="" coords="213,245,345,286"/>
+<area shape="rect" id="node10" href="$parser_8h.html#a458682d4ae9c81c9a0b5fb49aa77c175" title="pt_node_data_type_to\l_db_domain" alt="" coords="204,310,355,352"/>
+<area shape="rect" id="node11" href="$parser_8h.html#a7e346811a00c66d97af8a80f9c5140c8" title="pt_node_to_db_domain" alt="" coords="201,143,357,170"/>
+<area shape="rect" id="node12" href="$execute__schema_8c.html#a82b3a85755f833c14e36818fb52eb519" title="pt_node_to_function\l_index" alt="" coords="210,441,349,482"/>
+<area shape="rect" id="node13" href="$parser_8h.html#aa8c8fae70d8fe0f084d91fe7be9153e4" title="pt_string_to_db_domain" alt="" coords="199,531,359,558"/>
+<area shape="rect" id="node14" href="$type__checking_8c.html#af58cc800956f04b249dec5b69bdd86ba" title="pt_wrap_collection\l_with_cast_op" alt="" coords="214,376,345,417"/>
+<area shape="rect" id="node15" href="$xasl__generation_8c.html#ac21ed28c2bae99a740226407cd0e72e5" title="pt_xasl_data_type_to\l_domain" alt="" coords="206,633,353,674"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="615,30,756,72"/>
+<area shape="rect" id="node4" href="$execute__schema_8h.html#a8b332c276e98ddfbbe0e10068f6d76b6" title="do_create_local" alt="" coords="629,96,742,123"/>
+</map>

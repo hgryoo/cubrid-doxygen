@@ -1,0 +1,7 @@
+<map id="cubthread::worker_pool::er_log_stats" name="cubthread::worker_pool::er_log_stats">
+<area shape="rect" id="node2" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="459,5,525,32"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#af25d42ec55b764c884b146fa41b015f7" title="vacuum_stop_workers" alt="" coords="211,56,364,83"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="620,56,736,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="425,56,559,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="412,107,572,133"/>
+</map>

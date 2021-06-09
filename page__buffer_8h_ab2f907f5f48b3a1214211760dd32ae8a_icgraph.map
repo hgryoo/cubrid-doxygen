@@ -1,0 +1,10 @@
+<map id="pgbuf_is_page_fixed_by_thread" name="pgbuf_is_page_fixed_by_thread">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a371b2d4af119553cc02485d97142e3a2" title="heap_add_chain_links" alt="" coords="200,13,351,39"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a464c22cdfccaf9ba32e38befc750f859" title="heap_alloc_new_page" alt="" coords="200,63,351,90"/>
+<area shape="rect" id="node5" href="$locator__sr_8h.html#a04d5e2ed684cc4d2b3e5a09765fb88de" title="locator_multi_insert\l_force" alt="" coords="425,85,560,127"/>
+<area shape="rect" id="node6" href="$log__tran__table_8c.html#a4dda130ddd4f092e32080ff82a39967e" title="logtb_delete_global\l_unique_stats" alt="" coords="209,165,342,207"/>
+<area shape="rect" id="node9" href="$log__tran__table_8c.html#a5d8c811c730d90c49d5a22852ae50b9e" title="logtb_get_global_unique\l_stats_entry" alt="" coords="195,231,356,272"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a5e313f0925494170e1858df2a8794dbe" title="heap_rv_postpone_append\l_pages_to_heap" alt="" coords="404,5,581,47"/>
+<area shape="rect" id="node7" href="$btree_8h.html#a3547d5deedbda4f882dba5219045bd3c" title="btree_rv_remove_unique\l_stats" alt="" coords="411,159,575,200"/>
+<area shape="rect" id="node8" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="429,225,556,251"/>
+</map>

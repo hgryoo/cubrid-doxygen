@@ -1,0 +1,5 @@
+<map id="register_user_trigger" name="register_user_trigger">
+<area shape="rect" id="node2" href="$trigger__manager_8h.html#ab86886b8498d463986948822d3086b33" title="tr_create_trigger" alt="" coords="193,31,309,57"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#af6c2b72c697cc0754fa10d7edff714a3" title="db_create_trigger" alt="" coords="357,5,480,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a4031e13892e89e8a3b919278737eded3" title="do_create_trigger" alt="" coords="357,56,480,83"/>
+</map>

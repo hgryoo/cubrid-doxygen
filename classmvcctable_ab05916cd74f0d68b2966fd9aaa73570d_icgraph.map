@@ -1,0 +1,5 @@
+<map id="mvcctable::compute_oldest_visible_mvccid" name="mvcctable::compute_oldest_visible_mvccid">
+<area shape="rect" id="node2" href="$classmvcctable.html#a9c6acee8d7a7e99192a221cd3dc6fd11" title="mvcctable::update_global\l_oldest_visible" alt="" coords="211,35,381,76"/>
+<area shape="rect" id="node3" href="$vacuum_8c.html#a25daab97104455e9fa805fc81e61e92f" title="vacuum_data_unload\l_first_and_last_page" alt="" coords="429,5,575,47"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#a2cb21fa7816f2d0a4cf699cae9e7fd7b" title="vacuum_data_load_and\l_recover" alt="" coords="623,35,781,76"/>
+</map>

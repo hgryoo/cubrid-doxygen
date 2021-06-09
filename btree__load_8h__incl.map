@@ -1,0 +1,19 @@
+<map id="src/storage/btree_load.h" name="src/storage/btree_load.h">
+<area shape="rect" id="node3" href="$btree_8h.html" title="btree.h" alt="" coords="899,87,962,114"/>
+<area shape="rect" id="node5" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="789,319,923,345"/>
+<area shape="rect" id="node8" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="453,319,569,345"/>
+<area shape="rect" id="node11" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="1480,244,1597,271"/>
+<area shape="rect" id="node12" href="$oid_8h.html" title="oid.h" alt="" coords="589,244,640,271"/>
+<area shape="rect" id="node18" href="$object__representation__constants_8h.html" title="object_representation\l_constants.h" alt="" coords="1672,80,1819,121"/>
+<area shape="rect" id="node19" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="43,244,184,271"/>
+<area shape="rect" id="node20" href="$slotted__page_8h.html" title="slotted_page.h" alt="" coords="408,244,515,271"/>
+<area shape="rect" id="node4" href="$access__spec_8hpp.html" title="access_spec.hpp" alt="" coords="869,169,993,196"/>
+<area shape="rect" id="node7" href="$disk__manager_8h.html" title="disk_manager.h" alt="" coords="1157,169,1272,196"/>
+<area shape="rect" id="node9" href="$log__lsa_8hpp.html" title="log_lsa.hpp" alt="" coords="1116,319,1204,345"/>
+<area shape="rect" id="node10" href="$recovery_8h.html" title="recovery.h" alt="" coords="1069,244,1152,271"/>
+<area shape="rect" id="node13" href="$lock__manager_8h.html" title="lock_manager.h" alt="" coords="679,169,793,196"/>
+<area shape="rect" id="node14" href="$mvcc_8h.html" title="mvcc.h" alt="" coords="1017,169,1082,196"/>
+<area shape="rect" id="node15" href="$query__evaluator_8h.html" title="query_evaluator.h" alt="" coords="259,244,384,271"/>
+<area shape="rect" id="node16" href="$statistics_8h.html" title="statistics.h" alt="" coords="1347,169,1434,196"/>
+<area shape="rect" id="node17" href="$scan__manager_8h.html" title="scan_manager.h" alt="" coords="485,169,603,196"/>
+</map>

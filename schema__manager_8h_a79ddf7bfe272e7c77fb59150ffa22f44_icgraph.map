@@ -1,0 +1,7 @@
+<map id="sm_update_catalog_statistics" name="sm_update_catalog_statistics">
+<area shape="rect" id="node2" href="$load__db_8c.html#a23f7dd8322d469075360a3461ff250e0" title="loaddb_internal" alt="" coords="455,5,565,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#a40ded7559e7c08766c21a1b1865f3c40" title="sm_update_all_catalog\l_statistics" alt="" coords="248,53,403,94"/>
+<area shape="rect" id="node3" href="$load__db_8c.html#abf39ae2e58f5b692a62c929c92bbf54d" title="loaddb_user" alt="" coords="617,5,709,32"/>
+<area shape="rect" id="node5" href="$utility_8h.html#a782e5c7e88490d6faaf37d0c32511675" title="createdb" alt="" coords="474,57,546,84"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a92e6728e9b85ff99255dd27fef6477f3" title="do_update_stats" alt="" coords="451,108,569,135"/>
+</map>

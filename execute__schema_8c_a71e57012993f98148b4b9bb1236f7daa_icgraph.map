@@ -1,0 +1,7 @@
+<map id="do_create_partition" name="do_create_partition">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a3bff2a1d9326a77b64702da53220fa4d" title="do_alter_partitioning_post" alt="" coords="415,5,585,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a3d065088ea9aebd736b48d0427c4c604" title="do_alter_partitioning_pre" alt="" coords="419,56,581,83"/>
+<area shape="rect" id="node5" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="217,107,335,133"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#aed95a2b379aae1e46aaf7878a9f0c334" title="do_reorganize_partition_pre" alt="" coords="185,157,367,184"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="633,23,775,65"/>
+</map>

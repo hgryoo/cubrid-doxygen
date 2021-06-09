@@ -1,0 +1,7 @@
+<map id="xheap_reclaim_addresses" name="xheap_reclaim_addresses">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a46aad22b36277c8d23b3abf9de421403" title="heap_reclaim_addresses" alt="" coords="239,56,405,83"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#a2afad2d25ebe99a9c920b50406fe62cb" title="shf_heap_reclaim_addresses" alt="" coords="227,107,417,133"/>
+<area shape="rect" id="node3" href="$compactdb_8c.html#af0c3d428686aedb5273a5e83379cf791" title="compactdb_start" alt="" coords="501,5,620,32"/>
+<area shape="rect" id="node4" href="$compactdb__cl_8c.html#a3c96cc7b752912d6205b04479c0e0289" title="do_reclaim_class_addresses" alt="" coords="465,56,656,83"/>
+<area shape="rect" id="node6" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="507,107,614,133"/>
+</map>

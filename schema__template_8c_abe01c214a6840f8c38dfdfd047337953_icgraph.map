@@ -1,0 +1,5 @@
+<map id="smt_delete_super" name="smt_delete_super">
+<area shape="rect" id="node2" href="$db__class_8c.html#a7838553ddc8f87086e854564fe5d3775" title="db_drop_super" alt="" coords="181,5,287,32"/>
+<area shape="rect" id="node3" href="$db__temp_8c.html#a8eb529dd92c34900f63a2408cef40336" title="dbt_drop_super" alt="" coords="179,56,289,83"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="337,49,479,90"/>
+</map>

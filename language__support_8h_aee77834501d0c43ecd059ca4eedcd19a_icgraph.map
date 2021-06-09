@@ -1,0 +1,8 @@
+<map id="lang_final" name="lang_final">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="133,85,287,112"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="533,111,672,137"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="538,9,667,36"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="131,212,289,239"/>
+<area shape="rect" id="node7" href="$csql_8c.html#ac88d690d090a8a98af1abbb778c61468" title="csql_exit_cleanup" alt="" coords="147,263,273,289"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aa7beb3207bb2b041cfbaf347ea2bf51a" title="boot_shutdown_client" alt="" coords="337,60,485,87"/>
+</map>

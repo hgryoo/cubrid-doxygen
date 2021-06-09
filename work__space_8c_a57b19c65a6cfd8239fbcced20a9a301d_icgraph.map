@@ -1,0 +1,11 @@
+<map id="ws_insert_mop_on_hash_link" name="ws_insert_mop_on_hash_link">
+<area shape="rect" id="node2" href="$work__space_8h.html#aaf1a1e5e52e1e27486cdd946870c5cbd" title="ws_new_mop" alt="" coords="257,29,360,56"/>
+<area shape="rect" id="node3" href="$work__space_8h.html#a09df42fa89e3a3f860717b0800a5477e" title="ws_rehash_vmop" alt="" coords="247,80,371,107"/>
+<area shape="rect" id="node6" href="$work__space_8h.html#a667415fcd34c65b0a88c640add42339c" title="ws_update_oid" alt="" coords="254,131,363,157"/>
+<area shape="rect" id="node10" href="$work__space_8h.html#ac4ad6f34a1b2ccf19e3b0407435159e6" title="ws_vmop" alt="" coords="269,181,348,208"/>
+<area shape="rect" id="node4" href="$virtual__object_8h.html#ab22aa7383d923d65b7cc09e7dc85e13e" title="vid_flush_and_rehash" alt="" coords="444,5,592,32"/>
+<area shape="rect" id="node5" href="$virtual__object_8h.html#afa9fe049dde718b4eb0a04fdae0e0b71" title="vid_att_in_obj_id" alt="" coords="459,80,577,107"/>
+<area shape="rect" id="node7" href="$work__space_8h.html#ae1db03f792d83872d4bb2e8f7a66c1af" title="ws_update_oid_and_class" alt="" coords="431,131,605,157"/>
+<area shape="rect" id="node8" href="$locator__cl_8h.html#a19484cd67c4f5515aa31cd8685bd875a" title="locator_assign_permanent_oid" alt="" coords="419,181,617,208"/>
+<area shape="rect" id="node9" href="$locator__cl_8h.html#a3826a15e7b98eb202e9a422ca1e63b16" title="locator_assign_oidset" alt="" coords="444,232,592,259"/>
+</map>

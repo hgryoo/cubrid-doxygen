@@ -1,0 +1,6 @@
+<map id="free_natural_join_attrs" name="free_natural_join_attrs">
+<area shape="rect" id="node2" href="$name__resolution_8c.html#a304afd05de4898b2f299ad9039e4299b" title="generate_natural_join\l_attrs_from_db_attrs" alt="" coords="205,5,351,47"/>
+<area shape="rect" id="node4" href="$name__resolution_8c.html#a1a93c7d26ed9079bbfb990722fadd505" title="pt_resolve_natural\l_join_internal" alt="" coords="595,100,723,141"/>
+<area shape="rect" id="node5" href="$name__resolution_8c.html#ab0403fd7c6dee0d5d375ee932e8e8492" title="generate_natural_join\l_attrs_from_subquery" alt="" coords="204,71,352,112"/>
+<area shape="rect" id="node3" href="$name__resolution_8c.html#aa840ef17b536fdc5fcd99304c3276767" title="get_natural_join_attrs\l_from_pt_spec" alt="" coords="400,71,547,112"/>
+</map>

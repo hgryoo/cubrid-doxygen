@@ -1,0 +1,21 @@
+<map id="lockfree::tran::descriptor::is_tran_started" name="lockfree::tran::descriptor::is_tran_started">
+<area shape="rect" id="node2" href="$classlockfree_1_1tran_1_1descriptor.html#a33a2b05a75de930b7cb99ca06b9b4b34" title="lockfree::tran::descriptor\l::end_tran" alt="" coords="216,463,379,505"/>
+<area shape="rect" id="node5" href="$classlockfree_1_1hashmap.html#a343a4d1cebfaa92b466bfe0d6c976bb8" title="lockfree::hashmap::\lend_tran_force" alt="" coords="439,267,577,309"/>
+<area shape="rect" id="node7" href="$classlockfree_1_1hashmap.html#a192b05e789b596c2d2fe387c37717813" title="lockfree::hashmap::\llist_insert_internal" alt="" coords="637,137,775,178"/>
+<area shape="rect" id="node8" href="$classlockfree_1_1hashmap.html#a7830730fdd1665e20e304be83d170189" title="lockfree::hashmap::\lend_tran_if_started" alt="" coords="439,137,577,178"/>
+<area shape="rect" id="node9" href="$classlockfree_1_1hashmap.html#aa84d2f30a6f3bb4b2f541870bc5c198d" title="lockfree::hashmap::\lfreelist_claim" alt="" coords="637,802,775,843"/>
+<area shape="rect" id="node12" href="$classlockfree_1_1hashmap_1_1iterator.html#a8f26391b5263ca23db3890e523b8c506" title="lockfree::hashmap::\literator::restart" alt="" coords="439,202,577,243"/>
+<area shape="rect" id="node13" href="$classlockfree_1_1tran_1_1descriptor.html#ad54c5e767bfe1e5497042af1b6f6a7d8" title="lockfree::tran::descriptor\l::retire_node" alt="" coords="427,581,589,622"/>
+<area shape="rect" id="node15" href="$classlockfree_1_1hashmap.html#a22a26c82e21b90f1debd70162466c7f2" title="lockfree::hashmap::\lpromote_tran_force" alt="" coords="229,1009,366,1050"/>
+<area shape="rect" id="node16" href="$classlockfree_1_1hashmap.html#a5f76bd1091150b02312db61a8c9b5c6a" title="lockfree::hashmap::\lsafeguard_use_mutex\l_or_tran_started" alt="" coords="222,5,373,61"/>
+<area shape="rect" id="node17" href="$classlockfree_1_1tran_1_1descriptor.html#a2dbce4737fd0ccfc6b30e4123f8222e6" title="lockfree::tran::descriptor\l::start_tran" alt="" coords="216,743,379,785"/>
+<area shape="rect" id="node19" href="$classlockfree_1_1hashmap.html#a9db982e94bdc3c6953fd801de6c2a5f1" title="lockfree::hashmap::\lstart_tran_force" alt="" coords="439,894,577,935"/>
+<area shape="rect" id="node20" href="$classlockfree_1_1tran_1_1descriptor.html#ad1560715c6f4711750f793451c55a271" title="lockfree::tran::descriptor\l::~descriptor" alt="" coords="216,1074,379,1115"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1tran_1_1table.html#aecfdfdff38e703024c38336f858782cb" title="lockfree::tran::table\l::end_tran" alt="" coords="441,463,575,505"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1hashmap.html#a99ffb25028e2da01e4255f3972511494" title="lockfree::hashmap::\lend_tran" alt="" coords="439,333,577,374"/>
+<area shape="rect" id="node10" href="$classlockfree_1_1hashmap_1_1iterator.html#a21b2b8cca1a2916afbeb847336eccd8f" title="lockfree::hashmap::\literator::iterate" alt="" coords="439,711,577,753"/>
+<area shape="rect" id="node11" href="$classlockfree_1_1hashmap.html#a30873f2e80305d1b38513ef491279ad2" title="lockfree::hashmap::\llist_find" alt="" coords="439,646,577,687"/>
+<area shape="rect" id="node14" href="$classlockfree_1_1hashmap.html#aeb5c97f9078d951cfb27f434e1ba8e5e" title="lockfree::hashmap::\lunlock" alt="" coords="439,398,577,439"/>
+<area shape="rect" id="node6" href="$classlockfree_1_1hashmap.html#a694f6f22737d2e566ac47d0edb870a44" title="lockfree::hashmap::\llist_delete" alt="" coords="637,894,775,935"/>
+<area shape="rect" id="node18" href="$classlockfree_1_1freelist.html#a806d42cde415b3c618b703eff2560614" title="lockfree::freelist\l::claim" alt="" coords="451,777,565,818"/>
+</map>

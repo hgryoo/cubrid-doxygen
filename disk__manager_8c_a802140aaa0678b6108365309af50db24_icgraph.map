@@ -1,0 +1,6 @@
+<map id="xdisk_get_free_numpages" name="xdisk_get_free_numpages">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a756218cafecc8a88df43504bed43f383" title="disk_get_free_numpages" alt="" coords="228,5,395,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a7810cf70660c182a9ed9c94aaf65da97" title="sdk_freepgs" alt="" coords="265,56,358,83"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a9d20c8985f8521f8160d7f020d2335f8" title="db_freepgs" alt="" coords="453,5,539,32"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="443,56,549,83"/>
+</map>

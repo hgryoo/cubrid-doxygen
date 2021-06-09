@@ -1,0 +1,7 @@
+<map id="lob_locator_put_meta" name="lob_locator_put_meta">
+<area shape="rect" id="node2" href="$transaction__transient_8hpp.html#a4b245c24099b14761db5dc475bc45754" title="tx_lob_locator_clear" alt="" coords="200,81,339,108"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="406,5,529,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="413,56,522,83"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a337f8a4c9ef75b8f01e4f5293d2f3381" title="log_abort_partial" alt="" coords="409,107,526,133"/>
+<area shape="rect" id="node6" href="$transaction__sr_8c.html#a9b5f535da0352cfafc4cd0966b36190d" title="xtran_server_end_topop" alt="" coords="387,157,548,184"/>
+</map>

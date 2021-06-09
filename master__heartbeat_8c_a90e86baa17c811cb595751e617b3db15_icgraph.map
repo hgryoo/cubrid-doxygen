@@ -1,0 +1,5 @@
+<map id="hb_cluster_receive_heartbeat" name="hb_cluster_receive_heartbeat">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#a001ab4383bc49a72a06eff3e87a5a056" title="hb_thread_cluster_reader" alt="" coords="184,31,352,57"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#a21a050fc109dec3d3e6729b9b54b7b2c" title="hb_thread_cluster_worker" alt="" coords="400,5,571,32"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#a445bfec33e06f7d759c35d6704382524" title="hb_thread_initialize" alt="" coords="619,31,752,57"/>
+</map>

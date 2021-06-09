@@ -1,0 +1,14 @@
+<map id="sm_free_descriptor" name="sm_free_descriptor">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#aa46d54af2180fab82a1e4371cafc308c" title="db_free_attribute_descriptor" alt="" coords="187,208,369,235"/>
+<area shape="rect" id="node12" href="$dbi__compat_8h.html#a1b6db30132bd41b49b550ae324456a20" title="db_free_method_descriptor" alt="" coords="189,259,367,285"/>
+<area shape="rect" id="node13" href="$schema__manager_8h.html#ad12b4fb9779983b783876760d6ad4a24" title="sm_final" alt="" coords="243,309,313,336"/>
+<area shape="rect" id="node3" href="$esql__gadget_8h.html#a7cc39323601c739d0efe0430634dfb88" title="db_gadget_destroy" alt="" coords="431,5,563,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#afc8676086646494b31f8b100d05f13da" title="do_insert_template" alt="" coords="641,81,773,108"/>
+<area shape="rect" id="node5" href="$execute__statement_8c.html#a0d27c05bd51d5bff9800d9215928ae5a" title="init_update_data" alt="" coords="439,208,556,235"/>
+<area shape="rect" id="node6" href="$execute__statement_8c.html#ad3e5836d399eca9cc6f181c57a9e4957" title="update_object_by_oid" alt="" coords="836,208,984,235"/>
+<area shape="rect" id="node7" href="$execute__statement_8c.html#adda1936f2e53715e967cbc5d042a3f3f" title="update_objs_for_list_file" alt="" coords="625,259,788,285"/>
+<area shape="rect" id="node8" href="$execute__statement_8c.html#a549b89c3cb634fe4951a70c2429877e9" title="update_class_attributes" alt="" coords="627,157,787,184"/>
+<area shape="rect" id="node9" href="$execute__statement_8c.html#a2ed4e36685dfd7b5d4e82516a415d0e9" title="insert_subquery_results" alt="" coords="417,56,577,83"/>
+<area shape="rect" id="node10" href="$load__sa__loader_8cpp.html#a5fde2a5def11ff1de389a0b246882de4" title="ldr_clear_and_free\l_context" alt="" coords="433,361,561,402"/>
+<area shape="rect" id="node11" href="$load__sa__loader_8cpp.html#a6f2575a9565edd8800eec6129d0e1db8" title="ldr_refresh_attrs" alt="" coords="439,427,555,453"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="sm_active_triggers" name="sm_active_triggers">
+<area shape="rect" id="node2" href="$object__accessor_8c.html#a8486c3a1ff8729d0497dcd8ff6e1de18" title="obj_set_att" alt="" coords="221,56,308,83"/>
+<area shape="rect" id="node5" href="$object__template_8c.html#ab1a49f2b7b043063d70b8f50111e7e9f" title="obt_apply_assignments" alt="" coords="185,107,344,133"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#aecf4cf4094559b16bd8e540bb81d8408" title="sm_class_has_triggers" alt="" coords="187,157,343,184"/>
+<area shape="rect" id="node3" href="$object__accessor_8h.html#a1fc61e2723039d461cabb226b3d30f8b" title="obj_desc_set" alt="" coords="392,5,491,32"/>
+<area shape="rect" id="node4" href="$object__accessor_8h.html#a07ea08947760684e9c389428399710d7" title="obj_set" alt="" coords="409,56,473,83"/>
+</map>

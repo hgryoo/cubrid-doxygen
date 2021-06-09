@@ -1,0 +1,9 @@
+<map id="lockfree::circular_queue::load_data" name="lockfree::circular_queue::load_data">
+<area shape="rect" id="node2" href="$classlockfree_1_1circular__queue.html#a4d521af42198b878d634241518f8a7e6" title="lockfree::circular\l_queue::consume" alt="" coords="189,136,315,177"/>
+<area shape="rect" id="node7" href="$classlockfree_1_1circular__queue.html#a0b1f31d419a8f907fec6efa87395355d" title="lockfree::circular\l_queue::init_blocked\l_cursors" alt="" coords="181,223,323,279"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a1869e0a6005a3553cf95f4573a52b4c0" title="pgbuf_lfcq_get_victim\l_from_private_lru" alt="" coords="390,5,539,47"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#ad6a87f13e7f04e7143483b3737eb6c86" title="pgbuf_lfcq_get_victim\l_from_shared_lru" alt="" coords="390,71,539,112"/>
+<area shape="rect" id="node5" href="$vacuum_8h.html#a503bfb46b513078cca18c570df9907a6" title="vacuum_consume_buffer\l_log_blocks" alt="" coords="381,136,549,177"/>
+<area shape="rect" id="node6" href="$vacuum_8c.html#a036c930ecf40c2682d2cde7418589c5b" title="vacuum_data_mark_finished" alt="" coords="371,202,559,229"/>
+<area shape="rect" id="node8" href="$classlockfree_1_1circular__queue.html#ad0284092f346e9af3e52cf72995d761b" title="lockfree::circular\l_queue::circular_queue" alt="" coords="387,253,543,295"/>
+</map>

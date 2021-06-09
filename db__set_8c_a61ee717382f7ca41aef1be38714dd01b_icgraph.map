@@ -1,0 +1,10 @@
+<map id="db_seq_free" name="db_seq_free">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a87f079eb5177a2b2af053a2906027e3e" title="heap_clear_partition_info" alt="" coords="147,71,313,98"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#aefa9de68ddff70d1f7d99403e4b9aea5" title="heap_get_partitions\l_from_subclasses" alt="" coords="163,123,297,164"/>
+<area shape="rect" id="node8" href="$partition_8c.html#ad4228ee28dfb7bc8e1451a9a1c8ebd86" title="partition_free_cache\l_entry" alt="" coords="161,188,299,229"/>
+<area shape="rect" id="node9" href="$partition_8c.html#af1f408342cae40a521e7bb7314cb6b80" title="partition_pruning_context\l_to_cache_entry" alt="" coords="147,253,313,295"/>
+<area shape="rect" id="node3" href="$partition__sr_8h.html#aef1b14c7f20079f1a0ef94745945d48c" title="partition_load_pruning\l_context" alt="" coords="567,5,715,47"/>
+<area shape="rect" id="node4" href="$partition__sr_8h.html#af9a2feea32c0c4aa004f290e6bec8429" title="partition_clear_pruning\l_context" alt="" coords="364,35,516,76"/>
+<area shape="rect" id="node5" href="$btree_8h.html#ab5691dc679be8018d28d890c68fc43f2" title="btree_index_start_scan" alt="" coords="361,101,519,127"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#ae40e25c53556e39487155e520ad67fa8" title="heap_header_capacity\l_start_scan" alt="" coords="364,152,516,193"/>
+</map>

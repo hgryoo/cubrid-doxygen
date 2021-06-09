@@ -1,0 +1,8 @@
+<map id="serial_get_next_value" name="serial_get_next_value">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a3a1c2f72e5acedd5b63acbca827a2328" title="db_get_serial_next\l_value_ex" alt="" coords="219,5,350,47"/>
+<area shape="rect" id="node4" href="$object__template_8c.html#a95c3533b251fa709472caaf7bfef3ecb" title="populate_auto_increment" alt="" coords="201,71,368,98"/>
+<area shape="rect" id="node7" href="$parse__evaluate_8c.html#a8c4be930836f528e1f5dea8ef14f7767" title="pt_evaluate_tree_internal" alt="" coords="201,122,368,149"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a80ad1094551d87edffc1a21c7b6183b6" title="db_get_serial_next\l_value" alt="" coords="421,5,552,47"/>
+<area shape="rect" id="node5" href="$object__template_8c.html#abb4ee8a2801fdfb00668170896203922" title="obt_final_check" alt="" coords="430,71,543,98"/>
+<area shape="rect" id="node6" href="$object__template_8h.html#ab5bcae36a896605d3f0db775af2e44b1" title="obt_populate_known\l_arguments" alt="" coords="416,123,557,164"/>
+</map>

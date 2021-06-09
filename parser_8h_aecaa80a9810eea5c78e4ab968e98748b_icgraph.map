@@ -1,0 +1,6 @@
+<map id="pt_pointer_stack_push" name="pt_pointer_stack_push">
+<area shape="rect" id="node2" href="$view__transform_8c.html#af7d6ca65ec68176b36cbda6e5634ad93" title="mq_rewrite_agg_names" alt="" coords="232,5,392,32"/>
+<area shape="rect" id="node3" href="$view__transform_8h.html#af770f37e5449f9b1b0836b096cbd0250" title="mq_rewrite_aggregate\l_as_derived" alt="" coords="465,34,616,75"/>
+<area shape="rect" id="node4" href="$parser__support_8c.html#a420ba98b36b243ea153871e6bde2225e" title="pt_find_aggregate_functions_pre" alt="" coords="207,107,417,133"/>
+<area shape="rect" id="node5" href="$query__rewrite_8c.html#ace6201135ef7c3f735dc445859b48617" title="qo_optimize_queries" alt="" coords="470,121,611,148"/>
+</map>

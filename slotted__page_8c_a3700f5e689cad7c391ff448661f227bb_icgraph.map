@@ -1,0 +1,21 @@
+<map id="spage_insert_data" name="spage_insert_data">
+<area shape="rect" id="node2" href="$slotted__page_8h.html#a56efb19549d5b5fe08dc0ab00ea7253b" title="spage_insert" alt="" coords="191,441,287,468"/>
+<area shape="rect" id="node20" href="$slotted__page_8h.html#a635a6c611aaf5572d0056cea84f026c7" title="spage_insert_at" alt="" coords="181,492,296,519"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a1012b26ece22db26540906ab85b6ef30" title="btree_merge_node" alt="" coords="391,5,521,32"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#a8e2c6954ccd58059ca57474ef9bd9fa9" title="btree_save_last_leafrec" alt="" coords="376,56,536,83"/>
+<area shape="rect" id="node5" href="$btree__load_8c.html#ad96235296b0b3438c2639b7f7111664b" title="btree_connect_page" alt="" coords="387,107,525,133"/>
+<area shape="rect" id="node6" href="$btree__load_8c.html#a152e2fb9000bb23ccd9be5a7c9c5bfba" title="btree_construct_leafs" alt="" coords="383,157,529,184"/>
+<area shape="rect" id="node7" href="$extendible__hash_8c.html#a613724f6ed540b45dbc3ef5e37270293" title="ehash_initialize_bucket\l_new_page" alt="" coords="377,209,535,250"/>
+<area shape="rect" id="node8" href="$extendible__hash_8c.html#ad5ee71036809b9d5b07f696c075258f1" title="ehash_distribute_records\l_into_two_bucket" alt="" coords="373,274,539,315"/>
+<area shape="rect" id="node9" href="$extendible__hash_8h.html#a464ef1fdef685ad0eafdcb97904b873c" title="ehash_rv_init_bucket_redo" alt="" coords="367,340,545,367"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#afa840471c7dad8b08160e16bdaa75a0a" title="heap_vpid_init_new" alt="" coords="388,391,524,417"/>
+<area shape="rect" id="node11" href="$heap__file_8c.html#a23cd5f642edebaad25e8fafd58600228" title="heap_create_internal" alt="" coords="385,441,527,468"/>
+<area shape="rect" id="node12" href="$heap__file_8c.html#a7402228f44ae47527abdfb7547f451d9" title="heap_reinitialize_page" alt="" coords="381,492,531,519"/>
+<area shape="rect" id="node13" href="$heap__file_8h.html#a8c84408c0ac32806b79fc85ef944e7b1" title="heap_rv_redo_newpage" alt="" coords="377,543,535,569"/>
+<area shape="rect" id="node14" href="$heap__file_8c.html#a3329393383b9a92ce790befa0b562618" title="heap_find_location\l_and_insert_rec_newhome" alt="" coords="367,594,545,635"/>
+<area shape="rect" id="node15" href="$system__catalog_8c.html#ab54d13a6e571defa366e18af8e668ec9" title="catalog_initialize\l_new_page" alt="" coords="397,659,515,701"/>
+<area shape="rect" id="node16" href="$system__catalog_8c.html#addb1c3894b0ad1ea94347993af226e8a" title="catalog_put_record\l_into_page" alt="" coords="390,725,522,766"/>
+<area shape="rect" id="node17" href="$system__catalog_8c.html#ae91c4d3ad90a56831581466096150876" title="catalog_insert_representation_item" alt="" coords="344,791,568,817"/>
+<area shape="rect" id="node18" href="$system__catalog_8h.html#ade6c3fc1349d8627c3330c0ed25a8021" title="catalog_add_class_info" alt="" coords="377,841,535,868"/>
+<area shape="rect" id="node19" href="$system__catalog_8h.html#aae825a665d9c13f6039518a76b2c1a29" title="catalog_rv_new_page_redo" alt="" coords="366,892,546,919"/>
+</map>

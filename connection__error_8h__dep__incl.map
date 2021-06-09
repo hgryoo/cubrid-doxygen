@@ -1,0 +1,9 @@
+<map id="src/connection/connection_error.h" name="src/connection/connection_error.h">
+<area shape="rect" id="node2" href="$network__sr_8c.html" title="src/communication/network_sr.c" alt="" coords="5,102,216,129"/>
+<area shape="rect" id="node3" href="$connection__list__sr_8c.html" title="src/connection/connection\l_list_sr.c" alt="" coords="241,95,415,136"/>
+<area shape="rect" id="node4" href="$connection__sr_8c.html" title="src/connection/connection_sr.c" alt="" coords="440,102,643,129"/>
+<area shape="rect" id="node5" href="$server__support_8c.html" title="src/connection/server\l_support.c" alt="" coords="667,95,813,136"/>
+<area shape="rect" id="node6" href="$server_8c.html" title="src/executables/server.c" alt="" coords="837,102,1003,129"/>
+<area shape="rect" id="node7" href="$file__io_8c.html" title="src/storage/file_io.c" alt="" coords="1027,102,1163,129"/>
+<area shape="rect" id="node8" href="$critical__section_8c.html" title="src/thread/critical\l_section.c" alt="" coords="1187,95,1309,136"/>
+</map>

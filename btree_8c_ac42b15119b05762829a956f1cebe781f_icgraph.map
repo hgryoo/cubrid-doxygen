@@ -1,0 +1,8 @@
+<map id="btree_get_root_with_key" name="btree_get_root_with_key">
+<area shape="rect" id="node2" href="$btree_8c.html#a8b60fd88f1bbbee9747b7755f7085301" title="btree_search_key_and\l_apply_functions" alt="" coords="217,99,371,141"/>
+<area shape="rect" id="node3" href="$btree_8h.html#ae80950bc8fde8c5da58670a839d58988" title="btree_locate_key" alt="" coords="429,5,551,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#ad40756f7c8c28e6a45092d3df8ac03b8" title="xbtree_find_unique" alt="" coords="425,56,555,83"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a47ec7c5cf4f83c21beeef6944fab8d27" title="btree_insert_internal" alt="" coords="421,107,559,133"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a817f3908f139a51ad647ea391836b176" title="btree_delete_internal" alt="" coords="419,157,561,184"/>
+<area shape="rect" id="node7" href="$btree_8h.html#af9b91aa85529070ebd9a572128bcab4c" title="btree_online_index\l_list_dispatcher" alt="" coords="425,209,555,250"/>
+</map>

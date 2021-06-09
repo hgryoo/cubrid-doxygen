@@ -1,0 +1,7 @@
+<map id="pt_wrap_collection_with_cast_op" name="pt_wrap_collection_with_cast_op">
+<area shape="rect" id="node2" href="$type__checking_8c.html#a0b41b5283b79bb91b659d9514c25f695" title="pt_coerce_expression\l_argument" alt="" coords="194,49,343,90"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#ab884820cff2ec0f4c1ef6714f52552da" title="pt_coerce_range_expr\l_arguments" alt="" coords="415,107,566,149"/>
+<area shape="rect" id="node6" href="$type__checking_8c.html#a30d8dc5e4502a39fb1256fad39feb723" title="pt_coerce_node_collation" alt="" coords="184,165,353,192"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#a410bb665548b3bb87e21f768d2747438" title="pt_coerce_expr_arguments" alt="" coords="401,5,580,32"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#a9e8ecf7badfa6534b66e5521881e1cc6" title="pt_eval_expr_type" alt="" coords="427,56,555,83"/>
+</map>

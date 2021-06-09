@@ -1,0 +1,8 @@
+<map id="src/storage/double_write_buffer.h" name="src/storage/double_write_buffer.h">
+<area shape="rect" id="node2" href="$disk__manager_8c.html" title="src/storage/disk_manager.c" alt="" coords="5,102,188,129"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8c.html" title="src/storage/double\l_write_buffer.c" alt="" coords="212,95,341,136"/>
+<area shape="rect" id="node4" href="$file__io_8c.html" title="src/storage/file_io.c" alt="" coords="365,102,501,129"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html" title="src/storage/page_buffer.c" alt="" coords="525,102,695,129"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html" title="src/transaction/boot_sr.c" alt="" coords="720,102,887,129"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html" title="src/transaction/log\l_page_buffer.c" alt="" coords="911,95,1040,136"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sm_global_schema_version" name="sm_global_schema_version">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#a377cbc4f3e0978a261fdd2682c3624bd" title="sm_virtual_queries" alt="" coords="236,64,367,91"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#a5a6c9bacc8d25c691f54840c13c98467" title="mq_fetch_subqueries" alt="" coords="415,5,561,32"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#af1900d43029fe9713f1a36feb588bd69" title="mq_fetch_subqueries\l_for_update_local" alt="" coords="415,57,561,98"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#a88d6ff0ad20516faa5100141956e71b2" title="mq_fetch_attributes" alt="" coords="419,123,557,149"/>
+</map>

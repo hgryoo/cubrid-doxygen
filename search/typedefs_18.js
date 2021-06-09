@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['xasl_5fcache_5fentry',['XASL_CACHE_ENTRY',['../xasl__cache_8h.html#a7bf086c23a43c1d7fafdfa63c3302d11',1,'xasl_cache.h']]],
+  ['xasl_5fcache_5fsearch_5fmode',['XASL_CACHE_SEARCH_MODE',['../xasl__cache_8h.html#a80a7d7096e367795664960c155dd9a90',1,'xasl_cache.h']]],
+  ['xasl_5fclone',['XASL_CLONE',['../xasl__cache_8h.html#aef2be78a86df601cb54feb2a6af12d3e',1,'xasl_cache.h']]],
+  ['xasl_5fid',['XASL_ID',['../storage__common_8h.html#a5eb17a06e3ebc452c7757cd9f7d70caf',1,'storage_common.h']]],
+  ['xasl_5fnode',['XASL_NODE',['../xasl_8h.html#a1af873078109a403198d49ed8af220eb',1,'xasl.h']]],
+  ['xasl_5fnode_5fheader',['XASL_NODE_HEADER',['../xasl_8h.html#a96b523ed2a6bc48f2d79319c41aa676f',1,'xasl.h']]],
+  ['xasl_5fscan_5ffnc_5fptr',['XASL_SCAN_FNC_PTR',['../query__executor_8c.html#a6ba454e5e0e18f43c87316619d6fc754',1,'query_executor.c']]],
+  ['xasl_5fstate',['XASL_STATE',['../query__executor_8c.html#a4d2239bfe752f247f6e9766705cb51d5',1,'XASL_STATE():&#160;query_executor.c'],['../query__executor_8h.html#a1cca414201f2f86b489743402ef788f9',1,'XASL_STATE():&#160;query_executor.h']]],
+  ['xasl_5fstream',['XASL_STREAM',['../xasl_8h.html#a2abe0183375c937b4ed350f05c61bb4c',1,'xasl.h']]],
+  ['xasl_5fsupp_5finfo',['XASL_SUPP_INFO',['../xasl__generation_8c.html#ab0181e270df9f277dc5343ca95da6bea',1,'xasl_generation.c']]],
+  ['xasl_5funpack_5finfo',['XASL_UNPACK_INFO',['../xasl_8h.html#ab4743872981012a5c82824e0ade642e2',1,'XASL_UNPACK_INFO():&#160;xasl.h'],['../xasl__unpack__info_8hpp.html#ab4743872981012a5c82824e0ade642e2',1,'XASL_UNPACK_INFO():&#160;xasl_unpack_info.hpp']]],
+  ['xcache',['XCACHE',['../xasl__cache_8c.html#aa876243febe59a6c727e103919e2302b',1,'xasl_cache.c']]],
+  ['xcache_5fcleanup_5fcandidate',['XCACHE_CLEANUP_CANDIDATE',['../xasl__cache_8c.html#a7b180c7cc671c0e87e5e3e936256ae46',1,'xasl_cache.c']]],
+  ['xcache_5fcleanup_5freason',['XCACHE_CLEANUP_REASON',['../xasl__cache_8h.html#af1607d9d85bd1eca39eec7f627cb4af7',1,'xasl_cache.h']]],
+  ['xcache_5fhashmap_5fiterator',['xcache_hashmap_iterator',['../xasl__cache_8c.html#aa88f13e373d3a81d188ed2ccb6cf6808',1,'xasl_cache.c']]],
+  ['xcache_5fhashmap_5ftype',['xcache_hashmap_type',['../xasl__cache_8c.html#a956349ffc28175521adfedcece1a637d',1,'xasl_cache.c']]],
+  ['xcache_5frelated_5fobject',['XCACHE_RELATED_OBJECT',['../xasl__cache_8h.html#aa04cfb5ddad0bbd117603dcba0a3a809',1,'xasl_cache.h']]],
+  ['xcache_5fstats',['XCACHE_STATS',['../xasl__cache_8c.html#acd5b73a505b665b2901fcd41f381957d',1,'xasl_cache.c']]],
+  ['xentry',['XENTRY',['../unittests__lf_8c.html#a28682ec456c68f7e8556624866f70596',1,'unittests_lf.c']]],
+  ['xid',['XID',['../xa_8h.html#a84daadfc567e8184153aac6eb9e0b822',1,'xa.h']]],
+  ['xml_5felement',['XML_ELEMENT',['../xml__parser_8h.html#ad42d3f8309110d7cd8bcc558beb0f801',1,'xml_parser.h']]],
+  ['xml_5felement_5fdef',['XML_ELEMENT_DEF',['../xml__parser_8h.html#a77a6f5969218e21438d703cf8fb8a03d',1,'xml_parser.h']]],
+  ['xml_5fparser_5fdata',['XML_PARSER_DATA',['../xml__parser_8h.html#ac645dc58a508eefbce0bc2e966ac8ef6',1,'xml_parser.h']]],
+  ['xsal_5fscan_5ffunc',['XSAL_SCAN_FUNC',['../query__executor_8c.html#a30c24d3d00beaf8d139fedc65974b15b',1,'query_executor.c']]],
+  ['xts_5fvisited_5fptr',['XTS_VISITED_PTR',['../xasl__to__stream_8c.html#abd49b98d45b3a8eddf790b50f0a89a1e',1,'xasl_to_stream.c']]]
+];

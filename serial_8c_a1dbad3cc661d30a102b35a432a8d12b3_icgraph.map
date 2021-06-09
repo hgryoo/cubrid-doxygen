@@ -1,0 +1,10 @@
+<map id="xserial_decache" name="xserial_decache">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a3269a655a84e6da07bb41a2f9c19e96f" title="serial_decache" alt="" coords="173,132,282,159"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#a21cb81b5f9efd59c44f8ecd2ce62aff5" title="sserial_decache" alt="" coords="169,183,285,209"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a21188172805695aba5e22265472fd774" title="dbt_drop_attribute" alt="" coords="357,5,484,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="367,56,474,83"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a4b5c1edbe844b65f680fa8eceaa5683e" title="do_change_att_schema_only" alt="" coords="556,161,747,188"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a531bed70bff45e7b90d74cac4950f562" title="do_drop_serial" alt="" coords="367,157,474,184"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#ad37d6b13f9139f97baed90d66d276468" title="do_update_maxvalue\l_of_auto_increment_serial" alt="" coords="333,209,508,250"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="345,299,497,325"/>
+</map>

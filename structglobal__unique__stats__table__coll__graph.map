@@ -1,0 +1,6 @@
+<map id="global_unique_stats_table" name="global_unique_stats_table">
+<area shape="rect" id="node2" href="$structlf__hash__table.html" title="{lf_hash_table\n|+ buckets\l+ backbuffer\l+ backbuffer_mutex\l+ hash_size\l|}" alt="" coords="96,593,235,715"/>
+<area shape="rect" id="node3" href="$structlf__entry__descriptor.html" title="{lf_entry_descriptor\n|+ of_local_next\l+ of_next\l+ of_del_tran_id\l+ of_key\l+ of_mutex\l+ using_mutex\l+ f_alloc\l+ f_free\l+ f_init\l+ f_uninit\l+ f_key_copy\l+ f_key_cmp\l+ f_hash\l+ f_duplicate\l|}" alt="" coords="93,5,222,273"/>
+<area shape="rect" id="node4" href="$structlf__freelist.html" title="{lf_freelist\n|+ available\l+ block_size\l+ alloc_cnt\l+ available_cnt\l+ retired_cnt\l|}" alt="" coords="259,336,370,472"/>
+<area shape="rect" id="node5" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="465,535,570,773"/>
+</map>

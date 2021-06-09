@@ -1,0 +1,4 @@
+<map id="boot_notify_ha_log_applier_state" name="boot_notify_ha_log_applier_state">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a66109c2ee48a3383a836285465ea62aa" title="la_change_state" alt="" coords="184,13,301,39"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a985ea807a9f77fb66077722eea3554a9" title="la_apply_log_file" alt="" coords="349,13,468,39"/>
+</map>

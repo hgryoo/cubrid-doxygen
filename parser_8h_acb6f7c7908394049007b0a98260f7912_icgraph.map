@@ -1,0 +1,9 @@
+<map id="parser_main" name="parser_main">
+<area shape="rect" id="node2" href="$parser_8h.html#a783ef3b25a36f3f1b6b85da245be842a" title="parser_parse_file" alt="" coords="154,56,275,83"/>
+<area shape="rect" id="node5" href="$parser_8h.html#ae5150a5f01064eac1c0938fef3b7a090" title="parser_parse_string\l_with_escapes" alt="" coords="147,129,283,170"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a0dde38a3f09c515f4157621f550db504" title="db_open_file" alt="" coords="356,5,451,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a4b89bf0d66fbf01d5edd43dec9df6b48" title="db_open_file_name" alt="" coords="336,56,471,83"/>
+<area shape="rect" id="node6" href="$db__vdb_8c.html#ad41d3c20a89cd65ce10a69b4f0c235f5" title="db_open_buffer_local" alt="" coords="331,107,476,133"/>
+<area shape="rect" id="node7" href="$parser_8h.html#afd67085d8b1aa290b3a72f5cda13a72c" title="parser_parse_string" alt="" coords="335,157,471,184"/>
+<area shape="rect" id="node8" href="$view__transform_8h.html#a67afca1985f6d6a00e0346692bd59e86" title="mq_get_expression" alt="" coords="524,183,659,209"/>
+</map>

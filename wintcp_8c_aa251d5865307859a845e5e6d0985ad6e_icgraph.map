@@ -1,0 +1,19 @@
+<map id="css_windows_shutdown" name="css_windows_shutdown">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#aa7beb3207bb2b041cfbaf347ea2bf51a" title="boot_shutdown_client" alt="" coords="789,111,937,137"/>
+<area shape="rect" id="node8" href="$wintcp_8c.html#a2d777e6bb063cfaefd4aac78ef1835ec" title="css_gethostid" alt="" coords="237,217,340,244"/>
+<area shape="rect" id="node9" href="$wintcp_8c.html#a375c80e33f41c163e69dbdd556242115" title="css_gethostname" alt="" coords="226,268,351,295"/>
+<area shape="rect" id="node10" href="$wintcp_8c.html#a926921f6df9beace4a10d3a1e4f62bca" title="css_hostname_to_ip" alt="" coords="217,319,360,345"/>
+<area shape="rect" id="node11" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="255,420,322,447"/>
+<area shape="rect" id="node12" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="416,395,532,421"/>
+<area shape="rect" id="node13" href="$client__support_8h.html#a5558db24ec6db0282fc841b378da12a5" title="css_terminate" alt="" coords="237,167,341,193"/>
+<area shape="rect" id="node18" href="$commdb_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="263,471,314,497"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a316de5360d359d3b0fca32c74e4cc358" title="ci_conn_close_impl" alt="" coords="991,5,1127,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a760ba78fe8b25f4961aaff8824eafacb" title="db_shutdown" alt="" coords="1010,56,1109,83"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="990,224,1129,251"/>
+<area shape="rect" id="node6" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="995,173,1124,200"/>
+<area shape="rect" id="node7" href="$boot__cl_8c.html#aad79151cb08126366c53b243fbccafbb" title="boot_shutdown_client\l_at_exit" alt="" coords="985,107,1133,149"/>
+<area shape="rect" id="node14" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="588,224,741,251"/>
+<area shape="rect" id="node15" href="$boot__cl_8h.html#af807b21fe58bf3fc403c4ce452c5ad08" title="boot_server_die_or\l_changed" alt="" coords="408,159,540,201"/>
+<area shape="rect" id="node16" href="$network__interface__cl_8h.html#a8c553c753ee63dd0222b2bfafc3cac9d" title="net_client_final" alt="" coords="610,109,719,136"/>
+<area shape="rect" id="node17" href="$network__interface__cl_8h.html#aa7c761be8f5657cac984575d176eefbf" title="net_client_init" alt="" coords="423,225,525,252"/>
+</map>

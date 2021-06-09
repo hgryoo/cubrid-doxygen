@@ -1,0 +1,7 @@
+<map id="disk_cache_init" name="disk_cache_init">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a4361d73904be7766a9011e28fd59dbe9" title="disk_manager_init" alt="" coords="165,81,292,108"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a5fdac5331f81f23b3b65375177ded3f5" title="disk_format_first_volume" alt="" coords="343,5,511,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="359,56,494,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="340,107,513,133"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="345,157,509,184"/>
+</map>

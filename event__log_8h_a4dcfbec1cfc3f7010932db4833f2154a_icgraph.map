@@ -1,0 +1,9 @@
+<map id="event_log_end" name="event_log_end">
+<area shape="rect" id="node2" href="$event__log_8h.html#a09af3f502c02c2b88a365b2e511ae8e4" title="event_log_log_flush\l_thr_wait" alt="" coords="183,5,320,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8c.html#a0eb59ade53933c2873e28f2b7456cafc" title="event_log_many_ioreads" alt="" coords="168,71,335,98"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8c.html#aa5c954ff181513db7f09d533b4db9c47" title="event_log_slow_query" alt="" coords="176,122,327,149"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8c.html#a4a3b1e68dea5e0cb9fc930812c1a2407" title="event_log_temp_expand\l_pages" alt="" coords="170,173,333,215"/>
+<area shape="rect" id="node7" href="$lock__manager_8c.html#a104e521b5f958d944f9443a0aff23348" title="lock_detect_local_deadlock" alt="" coords="160,239,343,266"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="391,5,548,47"/>
+<area shape="rect" id="node8" href="$lock__manager_8h.html#a39894afba679cc8ff708080ea5ae6ac8" title="lock_initialize" alt="" coords="419,239,519,266"/>
+</map>

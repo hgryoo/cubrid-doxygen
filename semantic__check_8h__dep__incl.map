@@ -1,0 +1,11 @@
+<map id="src/parser/semantic_check.h" name="src/parser/semantic_check.h">
+<area shape="rect" id="node2" href="$query__rewrite_8c.html" title="src/optimizer/query\l_rewrite.c" alt="" coords="5,95,139,136"/>
+<area shape="rect" id="node3" href="$compile_8c.html" title="src/parser/compile.c" alt="" coords="163,102,303,129"/>
+<area shape="rect" id="node4" href="$name__resolution_8c.html" title="src/parser/name_resolution.c" alt="" coords="327,102,518,129"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html" title="src/parser/semantic\l_check.c" alt="" coords="542,95,679,136"/>
+<area shape="rect" id="node6" href="$type__checking_8c.html" title="src/parser/type_checking.c" alt="" coords="704,102,883,129"/>
+<area shape="rect" id="node7" href="$view__transform_8c.html" title="src/parser/view_transform.c" alt="" coords="907,102,1091,129"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html" title="src/parser/xasl_generation.c" alt="" coords="1115,102,1301,129"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html" title="src/query/execute_schema.c" alt="" coords="1326,102,1517,129"/>
+<area shape="rect" id="node10" href="$execute__statement_8c.html" title="src/query/execute_statement.c" alt="" coords="1541,102,1744,129"/>
+</map>

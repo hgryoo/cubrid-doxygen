@@ -1,0 +1,8 @@
+<map id="install_new_representation" name="install_new_representation">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#af5d108d7bc0dbdecea7edd27580dbfe0" title="update_class" alt="" coords="412,81,511,108"/>
+<area shape="rect" id="node7" href="$schema__manager_8c.html#abf471e77adf42a9be5ff53dc9d51cd76" title="update_subclasses" alt="" coords="229,107,364,133"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#a877eae23c5ac51cd65803170769336de" title="sm_finish_class" alt="" coords="594,5,710,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#ac5a97d6cefc1d330dfa725a6059e4dca" title="sm_update_class" alt="" coords="590,56,714,83"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a3b38e7e54ce0470e111287f2b19a4ae0" title="sm_update_class_with_auth" alt="" coords="559,107,745,133"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#aeda542ec16efde2b16364d2eaf806934" title="sm_update_class_auto" alt="" coords="574,157,730,184"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="classobj_make_method" name="classobj_make_method">
+<area shape="rect" id="node2" href="$schema__template_8h.html#ad9a0819ace26cf9caf076ce1a3f16631" title="smt_add_method_any" alt="" coords="212,107,363,133"/>
+<area shape="rect" id="node3" href="$db__class_8c.html#ad70d5fcc3ceff89fe0d7d5f029d0d17e" title="add_method_internal" alt="" coords="419,5,562,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a8bd80ccdc64fdd0212864d83d00c97b8" title="dbt_add_method" alt="" coords="431,56,550,83"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a5a6a648dde8275a4340f80e248017608" title="dbt_add_class_method" alt="" coords="413,107,569,133"/>
+<area shape="rect" id="node6" href="$schema__template_8h.html#a41217b65bf60d51e53ed11647e980009" title="smt_add_method" alt="" coords="429,157,552,184"/>
+<area shape="rect" id="node7" href="$schema__template_8h.html#aa1dea970f31167a122cf54710404d016" title="smt_add_class_method" alt="" coords="411,208,571,235"/>
+</map>

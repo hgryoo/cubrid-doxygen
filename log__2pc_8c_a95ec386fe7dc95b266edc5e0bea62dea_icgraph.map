@@ -1,0 +1,6 @@
+<map id="log_2pc_get_num_participants" name="log_2pc_get_num_participants">
+<area shape="rect" id="node2" href="$log__2pc_8h.html#a4e7fdc2544dc233aab4b99ce0b1209b6" title="log_2pc_is_tran_distributed" alt="" coords="252,71,432,98"/>
+<area shape="rect" id="node3" href="$log__2pc_8h.html#af2c5ff4de2960082b02967e3999a97d5" title="log_2pc_send_abort\l_decision" alt="" coords="504,5,643,47"/>
+<area shape="rect" id="node4" href="$log__2pc_8h.html#a6ae2e71f9ebb8789390c01087bb8e947" title="log_2pc_prepare_global_tran" alt="" coords="480,71,667,98"/>
+<area shape="rect" id="node5" href="$log__2pc_8h.html#ab41078f2435749214f54b8b9c7bfe7cc" title="log_2pc_clear_and_is\l_tran_distributed" alt="" coords="500,123,647,164"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="src/base/packer.hpp" name="src/base/packer.hpp">
+<area shape="rect" id="node2" href="$packable__object_8hpp.html" title="src/base/packable_object.hpp" alt="" coords="261,80,455,107"/>
+<area shape="rect" id="node3" href="$packer_8cpp.html" title="src/base/packer.cpp" alt="" coords="5,162,145,189"/>
+<area shape="rect" id="node6" href="$record__descriptor_8cpp.html" title="src/storage/record\l_descriptor.cpp" alt="" coords="520,244,647,285"/>
+<area shape="rect" id="node4" href="$load__common_8hpp.html" title="src/loaddb/load_common.hpp" alt="" coords="170,162,362,189"/>
+<area shape="rect" id="node5" href="$record__descriptor_8hpp.html" title="src/storage/record\l_descriptor.hpp" alt="" coords="387,155,513,196"/>
+<area shape="rect" id="node7" href="$client__credentials_8hpp.html" title="src/transaction/client\l_credentials.hpp" alt="" coords="537,155,680,196"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="vid_build_non_upd_object" name="vid_build_non_upd_object">
+<area shape="rect" id="node2" href="$virtual__object_8h.html#afc5fd51f4b31a8891a388fd3c2d19d45" title="vid_vobj_to_object" alt="" coords="224,173,355,200"/>
+<area shape="rect" id="node3" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="403,5,555,32"/>
+<area shape="rect" id="node4" href="$set__object_8h.html#acd1ad8beecc4a0f3eef040c0fb7989f1" title="setobj_convert_oids\l_to_objects" alt="" coords="409,57,548,98"/>
+<area shape="rect" id="node5" href="$parser_8h.html#a97db81cc090f8335071ae769f1412574" title="pt_dbval_to_value" alt="" coords="415,173,542,200"/>
+<area shape="rect" id="node6" href="$view__transform_8c.html#a5e50aedb87063a6316845caa7b86c61e" title="mq_replace_virtual\l_oid_with_real_oid" alt="" coords="614,125,745,166"/>
+<area shape="rect" id="node7" href="$execute__statement_8c.html#ac285da4986a0c8a9c935bae3064c3966" title="do_replace_names_for\l_insert_values_pre" alt="" coords="603,199,756,241"/>
+<area shape="rect" id="node8" href="$cursor_8c.html#a327c17c554adf034de19a93504e3dff0" title="cursor_fixup_vobjs" alt="" coords="413,275,544,301"/>
+<area shape="rect" id="node9" href="$cursor_8h.html#aa006ddac6f3b771ffc8ffbb017f0f7c9" title="cursor_copy_vobj_to\l_dbvalue" alt="" coords="407,326,550,367"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="logpb_flush_header" name="logpb_flush_header">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a390852f8765cd90576d47d02ef0d10b6" title="log_commit" alt="" coords="233,5,322,32"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="471,208,541,235"/>
+<area shape="rect" id="node6" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="659,183,801,209"/>
+<area shape="rect" id="node7" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="458,157,554,184"/>
+<area shape="rect" id="node8" href="$log__recovery_8c.html#aa052beef5218dd83b7f071eae3e8091e" title="log_recovery_notpartof\l_archives" alt="" coords="200,411,355,453"/>
+<area shape="rect" id="node9" href="$log__recovery_8c.html#a6e4cb0fa20df20ef22e01e5bae16b885" title="log_recovery_resetlog" alt="" coords="431,389,581,416"/>
+<area shape="rect" id="node10" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="213,56,341,83"/>
+<area shape="rect" id="node11" href="$log__recovery_8c.html#a18e7fc0efb64ea17207486e0abacaebe" title="log_recovery_undo" alt="" coords="212,107,343,133"/>
+<area shape="rect" id="node12" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="422,565,590,592"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="679,712,781,739"/>
+<area shape="rect" id="node14" href="$log__page__buffer_8c.html#a978997a75ba311ff9ab0e14bb43100e5" title="logpb_next_append_page" alt="" coords="645,507,815,533"/>
+<area shape="rect" id="node15" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="216,208,339,235"/>
+<area shape="rect" id="node16" href="$log__page__buffer_8c.html#ade7f37ead8b9f962c5246d2124f1eee6" title="logpb_force_flush_header\l_and_pages" alt="" coords="192,646,363,687"/>
+<area shape="rect" id="node17" href="$log__page__buffer_8c.html#a850e6db878c034a88e735606f63fa477" title="logpb_remove_archive_logs" alt="" coords="415,763,597,789"/>
+<area shape="rect" id="node18" href="$log__page__buffer_8c.html#a99e07d445f133a194b23cf7effd85c08" title="logpb_remove_archive\l_logs_exceed_limit" alt="" coords="201,529,353,570"/>
+<area shape="rect" id="node19" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="188,814,367,855"/>
+<area shape="rect" id="node20" href="$log__manager_8h.html#af70d0e6ef6233c296087a8a4c7b26843" title="xlog_dump" alt="" coords="235,880,320,907"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="863,81,956,108"/>
+<area shape="rect" id="node4" href="$transaction__sr_8c.html#af315497226787ae75ee124e68e92da04" title="xtran_server_commit" alt="" coords="434,56,578,83"/>
+</map>

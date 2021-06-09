@@ -1,0 +1,8 @@
+<map id="fileio_abort_backup" name="fileio_abort_backup">
+<area shape="rect" id="node2" href="$file__io_8h.html#a1e084a8daab23659525589153f1208a8" title="fileio_abort_restore" alt="" coords="188,31,320,57"/>
+<area shape="rect" id="node6" href="$file__io_8h.html#a8d17e5474825c3a1c56afea7769dce18" title="fileio_start_backup" alt="" coords="189,81,319,108"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="384,132,487,159"/>
+<area shape="rect" id="node3" href="$file__io_8h.html#a11b879a757fb73fd1e78b9d0e052fd28" title="fileio_finish_restore" alt="" coords="368,31,503,57"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#ab5d5666569b33c99fb006d20a429f7d1" title="fileio_list_restore" alt="" coords="551,5,671,32"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#adaf3756eb46d2f608fb945c678a665c8" title="logpb_restore" alt="" coords="561,56,661,83"/>
+</map>

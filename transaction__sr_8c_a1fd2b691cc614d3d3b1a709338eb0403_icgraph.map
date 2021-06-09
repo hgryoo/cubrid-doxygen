@@ -1,0 +1,8 @@
+<map id="xtran_server_abort" name="xtran_server_abort">
+<area shape="rect" id="node2" href="$classcubload_1_1load__task.html#aa4e8a989957626a602b12db671672fdb" title="cubload::load_task\l::execute" alt="" coords="197,5,327,47"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8c.html#ab6fed63da641cae0bfc477953ae3ca31" title="stran_server_abort\l_internal" alt="" coords="197,71,327,112"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a95c98385d6b15933fd29c45f0569e45d" title="tran_server_abort" alt="" coords="201,137,323,163"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="217,211,307,238"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#ab5d8cbe4258cd66e61a0da4e4a87614f" title="xboot_unregister_client" alt="" coords="184,262,340,289"/>
+<area shape="rect" id="node5" href="$transaction__cl_8h.html#a1d5ef42a794f24bbb7d41f3eaf164e8f" title="tran_abort" alt="" coords="388,137,468,163"/>
+</map>

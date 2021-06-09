@@ -1,0 +1,5 @@
+<map id="qmgr_wait_args" name="qmgr_wait_args">
+<area shape="rect" id="node2" href="$structqmgr__temp__file.html" title="{qmgr_temp_file\n|+ temp_file_type\l+ membuf_last\l+ membuf\l+ membuf_npages\l+ membuf_type\l+ preserved\l+ tde_encrypted\l|}" alt="" coords="5,160,136,325"/>
+<area shape="rect" id="node3" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="40,5,101,97"/>
+<area shape="rect" id="node4" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="221,197,293,289"/>
+</map>

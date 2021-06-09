@@ -1,0 +1,7 @@
+<map id="xperfmon_server_copy_global_stats" name="xperfmon_server_copy_global_stats">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a5f5ed07391e2bd99ea288850c606ea4c" title="perfmon_server_copy\l_global_stats" alt="" coords="232,5,379,47"/>
+<area shape="rect" id="node3" href="$perf__monitor_8c.html#a38bbe037f0aed7417e2a1bd4b3d58e6f" title="perfmon_stat_dump_in\l_buffer_thread_daemon_stats" alt="" coords="208,71,403,112"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#a0ecddb0590c2feac8457be434a4bf1ca" title="smnt_server_copy_global\l_stats" alt="" coords="220,136,391,177"/>
+<area shape="rect" id="node4" href="$perf__monitor_8c.html#af47f65a3beed4f6f1d5c154ac1bc352b" title="f_dump_in_buffer_thread\l_daemon_stats" alt="" coords="451,71,616,112"/>
+<area shape="rect" id="node6" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="480,143,587,170"/>
+</map>

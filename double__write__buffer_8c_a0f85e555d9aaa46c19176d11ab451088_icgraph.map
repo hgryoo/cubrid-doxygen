@@ -1,0 +1,6 @@
+<map id="dwb_signal_structure_modificated" name="dwb_signal_structure_modificated">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#a1d259a0bd9b2441b1072a3fae17ceb20" title="dwb_ends_structure\l_modification" alt="" coords="199,49,337,90"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#acba78f5f185d579f9bc108af1713519c" title="dwb_create" alt="" coords="391,5,480,32"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8h.html#a5f895a64d283260b4d3b6147b49c17c0" title="dwb_destroy" alt="" coords="387,56,483,83"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8h.html#a73fd65b5e5208dc676dab35b729a84fc" title="dwb_recreate" alt="" coords="385,107,485,133"/>
+</map>

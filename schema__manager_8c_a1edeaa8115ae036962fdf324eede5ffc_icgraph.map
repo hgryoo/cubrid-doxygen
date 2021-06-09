@@ -1,0 +1,14 @@
+<map id="sm_get_ch_heap" name="sm_get_ch_heap">
+<area shape="rect" id="node2" href="$dbi_8h.html#af3453e05d52757853b73910e18dcbff9" title="db_class_has_instance" alt="" coords="193,78,351,105"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="635,71,776,112"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a874214087fbca80cc9d2d0e4fdcdd55f" title="db_get_class_num_objs\l_and_pages" alt="" coords="191,188,353,229"/>
+<area shape="rect" id="node7" href="$execute__statement_8c.html#a583e92585b6c898d0dc170330a724266" title="do_check_for_empty\l_classes_in_delete" alt="" coords="201,253,343,295"/>
+<area shape="rect" id="node8" href="$query__graph_8c.html#a7768220d2b02d1e46dfadde50efbd0c8" title="grok_classes" alt="" coords="223,319,321,346"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#a09c44fd539ceeffba2f02706873de87b" title="pt_link_regu_to_selupd_list" alt="" coords="183,370,361,397"/>
+<area shape="rect" id="node10" href="$xasl__generation_8c.html#a633985da683c0c13a7d4ed534d91f521" title="pt_make_class_access_spec" alt="" coords="175,421,369,447"/>
+<area shape="rect" id="node11" href="$xasl__generation_8h.html#a4ffda647bdf164dbc2ed5f4e418c7ff3" title="pt_to_delete_xasl" alt="" coords="210,471,334,498"/>
+<area shape="rect" id="node12" href="$xasl__generation_8c.html#ad40a4696a329c337de0d1b4cec048d27" title="pt_to_merge_update_xasl" alt="" coords="187,522,357,549"/>
+<area shape="rect" id="node13" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="208,573,336,599"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a3b743e4ae9bf857a3386e5227e5270aa" title="do_update_new_cols\l_with_default_expression" alt="" coords="417,5,587,47"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a468ffb8ae5bf89daba0d61b24f9ed396" title="do_update_new_notnull\l_cols_without_default" alt="" coords="423,71,581,112"/>
+</map>

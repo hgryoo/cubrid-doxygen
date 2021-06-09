@@ -1,0 +1,7 @@
+<map id="src/storage/record_descriptor.hpp" name="src/storage/record_descriptor.hpp">
+<area shape="rect" id="node2" href="$load__server__loader_8cpp.html" title="src/loaddb/load_server\l_loader.cpp" alt="" coords="5,95,159,136"/>
+<area shape="rect" id="node3" href="$serial_8c.html" title="src/query/serial.c" alt="" coords="183,102,306,129"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html" title="src/storage/heap_file.c" alt="" coords="330,102,485,129"/>
+<area shape="rect" id="node5" href="$record__descriptor_8cpp.html" title="src/storage/record\l_descriptor.cpp" alt="" coords="509,95,636,136"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html" title="src/transaction/locator_sr.c" alt="" coords="660,102,840,129"/>
+</map>

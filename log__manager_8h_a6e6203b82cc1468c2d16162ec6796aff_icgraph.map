@@ -1,0 +1,9 @@
+<map id="log_complete_for_2pc" name="log_complete_for_2pc">
+<area shape="rect" id="node2" href="$log__2pc_8c.html#a8f0d3e711958d90183e5813a073b4696" title="log_2pc_commit_second\l_phase" alt="" coords="215,5,382,47"/>
+<area shape="rect" id="node4" href="$log__2pc_8c.html#acf5f3bbe0b21f92332c8b664cd39e251" title="log_2pc_recovery_abort\l_decision" alt="" coords="219,71,379,112"/>
+<area shape="rect" id="node6" href="$log__2pc_8c.html#a7d6a6b9fe0b6a28683b065fdc629f7da" title="log_2pc_recovery_aborted\l_informing_participants" alt="" coords="211,136,386,177"/>
+<area shape="rect" id="node7" href="$log__2pc_8c.html#a2c2f7703db38e95affce3b8302fdc868" title="log_2pc_recovery_commit\l_decision" alt="" coords="211,201,386,243"/>
+<area shape="rect" id="node8" href="$log__2pc_8c.html#a0465c34ab3418ef8ad6cc575f19f57d1" title="log_2pc_recovery_committed\l_informing_participants" alt="" coords="203,267,395,308"/>
+<area shape="rect" id="node3" href="$log__2pc_8h.html#a401f2de61a2ae044dc3c206240f812b0" title="log_2pc_commit" alt="" coords="446,13,563,39"/>
+<area shape="rect" id="node5" href="$log__2pc_8h.html#adcbba7d021cae9b781f67019b5177c11" title="log_2pc_recovery" alt="" coords="443,177,567,203"/>
+</map>

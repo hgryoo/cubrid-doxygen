@@ -1,0 +1,7 @@
+<map id="lock_object_wait_msecs" name="lock_object_wait_msecs">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a3628159bebf185f06a5e918bb8f17f26" title="boot_compact_db" alt="" coords="681,5,807,32"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#a3c9a757e40e4fa7d69245a99289b3f35" title="xlocator_lock_and_fetch_all" alt="" coords="219,31,401,57"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#ae43abd8e7fbb682eeac083cc87ab44f0" title="xboot_compact_db" alt="" coords="855,5,987,32"/>
+<area shape="rect" id="node5" href="$compactdb__sr_8c.html#a1e0028688783e0b16dba2ad6fae61155" title="process_class" alt="" coords="488,31,595,57"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#a4fd1b6b9619ed9d747c279ebda201d06" title="xlocator_upgrade_instances\l_domain" alt="" coords="449,82,633,123"/>
+</map>

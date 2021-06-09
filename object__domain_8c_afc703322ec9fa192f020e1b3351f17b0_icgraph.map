@@ -1,0 +1,17 @@
+<map id="tp_domain_init" name="tp_domain_init">
+<area shape="rect" id="node2" href="$query__result_8c.html#a64f5349ea89750fcf058c25aa9c910fd" title="pt_get_src_domain" alt="" coords="396,5,528,32"/>
+<area shape="rect" id="node4" href="$query__result_8c.html#add5ccbdbcfdac90720d0c66f19cebf1c" title="pt_set_domain_class_list" alt="" coords="160,88,329,115"/>
+<area shape="rect" id="node5" href="$xasl__regu__alloc_8hpp.html#a520216ec143b9961e8b325105a9cbba3" title="regu_init" alt="" coords="209,169,280,196"/>
+<area shape="rect" id="node6" href="$object__domain_8h.html#a47c9a79d56e9b53e4f58bd85f9abd899" title="tp_domain_new" alt="" coords="188,283,301,309"/>
+<area shape="rect" id="node14" href="$object__domain_8h.html#ae3d1007e8b282a270e712bc9c69dc2f1" title="tp_domain_resolve_value" alt="" coords="377,536,547,563"/>
+<area shape="rect" id="node3" href="$query__result_8c.html#abf306fa5ab8d1d900c8dbc19db9d158b" title="pt_fillin_type_size" alt="" coords="603,5,729,32"/>
+<area shape="rect" id="node7" href="$object__representation__sr_8c.html#a7b104bc9e45a3a891d439efa24e58425" title="or_get_domain_internal" alt="" coords="384,56,540,83"/>
+<area shape="rect" id="node8" href="$object__domain_8h.html#aef0e94a891df2b8e36297725a1369e46" title="tp_domain_construct" alt="" coords="391,232,533,259"/>
+<area shape="rect" id="node9" href="$schema__manager_8c.html#a7d1eeca1946fe5e434ce9262a3ba71f5" title="construct_index_key\l_domain" alt="" coords="595,150,737,191"/>
+<area shape="rect" id="node10" href="$parser_8h.html#a7aed5001ad0bb989a2e46953a2886325" title="pt_data_type_to_db\l_domain" alt="" coords="598,267,734,309"/>
+<area shape="rect" id="node11" href="$parser_8h.html#a458682d4ae9c81c9a0b5fb49aa77c175" title="pt_node_data_type_to\l_db_domain" alt="" coords="785,267,936,309"/>
+<area shape="rect" id="node12" href="$object__domain_8h.html#a3dd62f6da33f32352fe937b747143d6f" title="tp_domain_copy" alt="" coords="403,181,521,208"/>
+<area shape="rect" id="node13" href="$object__domain_8h.html#a04ffea7d913d17ec7b1fd357579772da" title="tp_domain_resolve" alt="" coords="397,384,527,411"/>
+<area shape="rect" id="node15" href="$transform__cl_8c.html#af2c01e8f25e41c96b42163ab63dc96e5" title="disk_to_domain2" alt="" coords="402,435,522,461"/>
+<area shape="rect" id="node16" href="$arithmetic_8h.html#adf4aacac0bedf0308441680f08dd50d1" title="db_width_bucket" alt="" coords="402,485,522,512"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="or_pack_db_value" name="or_pack_db_value">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a79a2e9641896738f311bcf462fc251b8" title="csession_drop_session\l_variables" alt="" coords="192,5,351,47"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a3cdda3c6c2af4a36161c0134ecefde6c" title="csession_get_variable" alt="" coords="196,71,347,98"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#a9fd5119024e8e85f97d77c016364543d" title="csession_set_session\l_variables" alt="" coords="196,123,347,164"/>
+<area shape="rect" id="node6" href="$db__query_8h.html#a82a449e9711d4e5f4b38b6778a61ac96" title="db_pack_prepare_info" alt="" coords="197,189,346,215"/>
+<area shape="rect" id="node7" href="$query__method_8c.html#a8272f2f068150136e5f539f6c522aaed" title="method_send_value_to\l_server" alt="" coords="193,240,349,281"/>
+<area shape="rect" id="node8" href="$object__representation_8c.html#a08b9cf832ed7d6ea52c192db90939aed" title="or_header_size" alt="" coords="216,306,327,333"/>
+<area shape="rect" id="node9" href="$network__interface__cl_8h.html#af5588ff08bd4f5d52ccbf0219200ce0d" title="qmgr_execute_query" alt="" coords="200,357,343,383"/>
+<area shape="rect" id="node10" href="$network__interface__cl_8h.html#aa1d13fdaaabf04f020e83a9070f3d05c" title="qmgr_prepare_and_execute\l_query" alt="" coords="180,408,363,449"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#aa48fb4c1fd4a390c132b6d723cc6f5d3" title="ssession_get_session\l_variable" alt="" coords="196,473,347,515"/>
+<area shape="rect" id="node12" href="$xasl__to__stream_8c.html#a418d8d019b1f23f04b14c015e906153f" title="xts_process_db_value" alt="" coords="195,539,347,566"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a12f59b5af5408867fc64ed8ea8c3f7af" title="do_drop_session_variables" alt="" coords="411,13,589,39"/>
+<area shape="rect" id="node13" href="$xasl__to__stream_8c.html#ad51b11403fb2b9d04947807806be7065" title="xts_save_db_value" alt="" coords="433,489,567,515"/>
+<area shape="rect" id="node14" href="$xasl__to__stream_8c.html#a9697657b54fef4ed59fabdd4ff324926" title="xts_pack_regu_variable\l_value" alt="" coords="637,507,796,548"/>
+<area shape="rect" id="node15" href="$xasl__to__stream_8c.html#a8f753a5149b6339d3631f37a21d1836f" title="xts_process_json_table\l_column_behavior" alt="" coords="421,591,579,632"/>
+</map>

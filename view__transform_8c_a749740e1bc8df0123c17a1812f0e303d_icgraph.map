@@ -1,0 +1,6 @@
+<map id="pt_check_pushable" name="pt_check_pushable">
+<area shape="rect" id="node2" href="$view__transform_8c.html#aa55b626abcef5f0ec44879055efb4cd1" title="mq_is_pushable_subquery" alt="" coords="188,15,364,42"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#a17b3f3b34c17f2b11877c2960a32a6d2" title="pt_pushable_query_in_pos" alt="" coords="188,67,364,94"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#ac215f16a40d7d58cc76a7eb5736a3e83" title="mq_substitute_subquery\l_in_statement" alt="" coords="412,5,576,47"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#a42fbcaa9bd05f275bc591616402130be" title="pt_find_only_name_id" alt="" coords="420,71,568,98"/>
+</map>

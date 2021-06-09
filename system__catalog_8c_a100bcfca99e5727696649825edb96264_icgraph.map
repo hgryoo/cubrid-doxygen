@@ -1,0 +1,5 @@
+<map id="catalog_get_cardinality" name="catalog_get_cardinality">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#aaa542c4c891c69ad42f3c3e786d03325" title="catalog_get_cardinality\l_by_name" alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#ab1ab7fb8555267660219331c3222374a" title="qexec_execute_build\l_indexes" alt="" coords="213,71,357,112"/>
+<area shape="rect" id="node3" href="$query__opfunc_8h.html#a296028f272d6f2014687a04eca528a4a" title="qdata_get_cardinality" alt="" coords="411,13,556,39"/>
+</map>

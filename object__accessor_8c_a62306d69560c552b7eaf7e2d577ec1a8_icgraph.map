@@ -1,0 +1,7 @@
+<map id="obj_send_va" name="obj_send_va">
+<area shape="rect" id="node2" href="$db__obj_8c.html#a03ca2acc7d57a2df37524308c58b544a" title="db_send" alt="" coords="178,44,249,71"/>
+<area shape="rect" id="node5" href="$object__accessor_8h.html#ae9a5bd5848ffa24d6f3ee74e29b0288e" title="obj_desc_send_va" alt="" coords="148,119,279,145"/>
+<area shape="rect" id="node3" href="$db__object_8c.html#af260e79f1fea2f006d8cfa010cf16b53" title="apif_last_pos" alt="" coords="327,5,425,32"/>
+<area shape="rect" id="node4" href="$db__object_8c.html#a45708c53ca8f8f31136cd20a7bb916ac" title="apif_tell" alt="" coords="343,56,409,83"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#aa6a34c05f2ce20d1f1b6cd04e97ee33d" title="db_dsend" alt="" coords="337,119,415,145"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="la_apply" name="la_apply">
+<area shape="rect" id="node2" href="$structla__item.html" title="{la_item\n|+ log_type\l+ item_type\l+ class_name\l+ db_user\l+ ha_sys_prm\l+ packed_key_value_length\l+ packed_key_value\l|}" alt="" coords="117,321,301,487"/>
+<area shape="rect" id="node3" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="5,5,111,244"/>
+<area shape="rect" id="node4" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="160,86,257,163"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="spage_find_free_slot" name="spage_find_free_slot">
+<area shape="rect" id="node2" href="$heap__file_8c.html#acdbe82c4e3f3d9c4a543094ff6d27311" title="heap_get_insert_location\l_with_lock" alt="" coords="213,5,380,47"/>
+<area shape="rect" id="node4" href="$slotted__page_8c.html#a756e5a4b54913dd86e1ae6f3593f4594" title="spage_check_mvcc_updatable" alt="" coords="196,71,397,98"/>
+<area shape="rect" id="node6" href="$slotted__page_8c.html#abbb2d30b5a8ab594f64f968c25fc5b60" title="spage_find_empty_slot" alt="" coords="219,126,375,153"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#abdeca500518e856f5c4176f920385e52" title="heap_insert_logical" alt="" coords="467,13,600,39"/>
+<area shape="rect" id="node5" href="$slotted__page_8h.html#a41adbc08bc8ee0f71a94f4c6670acb9d" title="spage_is_mvcc_updatable" alt="" coords="445,67,621,94"/>
+<area shape="rect" id="node7" href="$slotted__page_8c.html#a7743951007c39122cd9abb306cad75a0" title="spage_find_slot_for\l_insert" alt="" coords="466,119,601,160"/>
+<area shape="rect" id="node8" href="$slotted__page_8h.html#ab68d38c29c234969d85ddb87ddad1cfb" title="spage_split" alt="" coords="489,185,577,211"/>
+</map>

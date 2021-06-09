@@ -1,0 +1,9 @@
+<map id="logpb_remove_archive_logs_exceed_limit" name="logpb_remove_archive_logs_exceed_limit">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="205,75,373,116"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="205,166,373,193"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="639,5,769,47"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ad7d852d6547ead2335b5cc6ce6360ea0" title="log_wakeup_log_flush\l_daemon" alt="" coords="431,49,581,91"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#aa91abaf89af63e703737ac5c00d7cd7d" title="logpb_flush_pages" alt="" coords="639,101,769,127"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a978997a75ba311ff9ab0e14bb43100e5" title="logpb_next_append_page" alt="" coords="421,166,591,193"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="455,217,557,243"/>
+</map>

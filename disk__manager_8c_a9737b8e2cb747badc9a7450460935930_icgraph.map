@@ -1,0 +1,8 @@
+<map id="disk_unreserve_ordered_sectors_without_csect" name="disk_unreserve_ordered_sectors_without_csect">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="220,56,367,83"/>
+<area shape="rect" id="node6" href="$disk__manager_8h.html#aa4a81a07fbb7afb874ef379c7f029cb3" title="disk_unreserve_ordered\l_sectors" alt="" coords="213,107,373,149"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="442,107,525,133"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#aa40e735a48654f112a4539b5969bada9" title="file_perm_expand" alt="" coords="421,5,545,32"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a3caedf6598ee654efb9b8be761cc8edc" title="file_temp_alloc" alt="" coords="429,56,538,83"/>
+<area shape="rect" id="node7" href="$file__manager_8h.html#a9db2cf7e69746367fcfc73918106e71b" title="file_destroy" alt="" coords="439,157,528,184"/>
+</map>

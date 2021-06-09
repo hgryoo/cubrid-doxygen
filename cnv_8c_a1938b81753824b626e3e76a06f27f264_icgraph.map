@@ -1,0 +1,9 @@
+<map id="local_grouping" name="local_grouping">
+<area shape="rect" id="node2" href="$cnv_8c.html#a648b783d4dba139a4eb2b7d76e96f97f" title="bfmt_print" alt="" coords="183,5,263,32"/>
+<area shape="rect" id="node4" href="$cnv_8c.html#a32e2cdfd355169ee57d4d0b67a129698" title="fmt_fractional_value" alt="" coords="335,107,473,133"/>
+<area shape="rect" id="node7" href="$cnv_8c.html#a1ba27d86d8a263009706451bf74b98c2" title="fmt_integral_digits" alt="" coords="159,56,287,83"/>
+<area shape="rect" id="node3" href="$cnv_8h.html#aac5a6e961b3837bf3cd34ac3925ab08d" title="db_bit_string" alt="" coords="356,5,452,32"/>
+<area shape="rect" id="node5" href="$cnv_8c.html#af0dcde94808cd94f490ff84e65384b12" title="ffmt_value" alt="" coords="525,56,608,83"/>
+<area shape="rect" id="node6" href="$cnv_8c.html#ae9bce87203723ec08b07c12bf79577b7" title="mfmt_value" alt="" coords="521,107,612,133"/>
+<area shape="rect" id="node8" href="$cnv_8c.html#a4bbe7ae96c038ccecdfe1e4235ea2bbe" title="fmt_integral_value" alt="" coords="340,56,468,83"/>
+</map>

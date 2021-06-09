@@ -1,0 +1,9 @@
+<map id="disk_auto_volume_expansion_daemon_init" name="disk_auto_volume_expansion_daemon_init">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a4361d73904be7766a9011e28fd59dbe9" title="disk_manager_init" alt="" coords="247,107,373,133"/>
+<area shape="rect" id="node7" href="$disk__manager_8c.html#a1ae52075d2aa7b8e8ffd2cb55c301005" title="disk_volume_boot" alt="" coords="247,183,373,209"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a5fdac5331f81f23b3b65375177ded3f5" title="disk_format_first_volume" alt="" coords="424,5,592,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="441,56,575,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="421,107,595,133"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="426,157,590,184"/>
+<area shape="rect" id="node8" href="$disk__manager_8c.html#a7c1d93fe80e7ff8345beddd6146ac557" title="disk_cache_load_volume" alt="" coords="424,208,592,235"/>
+</map>

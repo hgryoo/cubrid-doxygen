@@ -1,0 +1,15 @@
+<map id="mvcc_active_tran::check_valid" name="mvcc_active_tran::check_valid">
+<area shape="rect" id="node2" href="$classmvcctable.html#abb49acd267780e611121af87fcaf1431" title="mvcctable::build_mvcc_info" alt="" coords="461,5,645,32"/>
+<area shape="rect" id="node4" href="$structmvcc__active__tran.html#abdd9a7a8307b06e7ea1dcf180be5a2ea" title="mvcc_active_tran::cleanup\l_migrate_to_long_transations" alt="" coords="221,166,413,207"/>
+<area shape="rect" id="node5" href="$structmvcc__active__tran.html#affcc854b119d8a202e6429e97fbdb82f" title="mvcc_active_tran::set\l_bitarea_mvccid" alt="" coords="478,173,629,214"/>
+<area shape="rect" id="node7" href="$structmvcc__active__tran.html#a9821943954e3266bf1fa5971df43341d" title="mvcc_active_tran::copy_to" alt="" coords="228,60,407,87"/>
+<area shape="rect" id="node10" href="$structmvcc__active__tran.html#abd8aaed9ff5cb35624468a91fa06072b" title="mvcc_active_tran::remove\l_long_transaction" alt="" coords="229,231,405,273"/>
+<area shape="rect" id="node11" href="$structmvcc__active__tran.html#ab45c2bd2755f7760f372e337dd4f301c" title="mvcc_active_tran::reset" alt="" coords="236,297,399,324"/>
+<area shape="rect" id="node13" href="$structmvcc__active__tran.html#a992754c8367b04a82703918ba7671d95" title="mvcc_active_tran::reset\l_start_mvccid" alt="" coords="236,349,399,390"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a593d152ad0c8b7c29828b31d49a2458c" title="logtb_get_mvcc_snapshot" alt="" coords="693,5,868,32"/>
+<area shape="rect" id="node6" href="$structmvcc__active__tran.html#a38d35eb2cb50d1e3d00ed5b35cfebb22" title="mvcc_active_tran::set\l_inactive_mvccid" alt="" coords="705,202,856,243"/>
+<area shape="rect" id="node8" href="$structmvcc__snapshot.html#a735e7b405cd8e8e72a658302baf96d38" title="mvcc_snapshot::copy_to" alt="" coords="469,56,637,83"/>
+<area shape="rect" id="node9" href="$classmvcctable.html#aede8815538c9aabeb61da5f7bf93c0d0" title="mvcctable::next_tran\l_status_finish" alt="" coords="481,107,625,149"/>
+<area shape="rect" id="node12" href="$structmvcc__snapshot.html#a539c0c53625ff13e49188713c94110f8" title="mvcc_snapshot::reset" alt="" coords="478,297,629,324"/>
+<area shape="rect" id="node14" href="$classmvcctable.html#ac23081b89cc7fd64240d0d948ce7b308" title="mvcctable::reset_start\l_mvccid" alt="" coords="477,349,629,390"/>
+</map>

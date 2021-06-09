@@ -1,0 +1,8 @@
+<map id="tr_update_user_cache" name="tr_update_user_cache">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#a903e9b2397f758ed09660ea58ecf8a74" title="register_user_trigger" alt="" coords="211,5,351,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8c.html#a3792d4dac4d3bea26df6277cee9b83cc" title="run_user_triggers" alt="" coords="220,56,343,83"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#a674852cd388bc74b899fbb279f09f68f" title="tr_has_user_trigger" alt="" coords="215,107,348,133"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#aada41ea0a6a7860c3ef109957ae6706b" title="tr_set_priority" alt="" coords="231,157,332,184"/>
+<area shape="rect" id="node7" href="$trigger__manager_8c.html#a2b293d32494648b1e2ef15c887d157dc" title="unregister_user_trigger" alt="" coords="204,208,359,235"/>
+<area shape="rect" id="node3" href="$trigger__manager_8h.html#ab86886b8498d463986948822d3086b33" title="tr_create_trigger" alt="" coords="407,5,523,32"/>
+</map>

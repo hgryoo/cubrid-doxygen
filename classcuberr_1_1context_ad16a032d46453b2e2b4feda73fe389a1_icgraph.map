@@ -1,0 +1,13 @@
+<map id="cuberr::context::has_error_stack" name="cuberr::context::has_error_stack">
+<area shape="rect" id="node2" href="$error__manager_8h.html#a31ea03b55d632c816175c935fa9565b2" title="er_restore_last_error" alt="" coords="403,31,544,57"/>
+<area shape="rect" id="node3" href="$error__manager_8h.html#a4a8edb25a5e6e6d0904b847dbea7997b" title="er_stack_clearall" alt="" coords="413,81,533,108"/>
+<area shape="rect" id="node8" href="$error__manager_8h.html#aff251d10a05f81ce2422c30da7a36e54" title="er_stack_pop_and_keep\l_error" alt="" coords="192,133,355,174"/>
+<area shape="rect" id="node12" href="$error__manager_8h.html#ade3265461d3bfd32bd5f2f2c6871de6e" title="er_stack_push_if_exists" alt="" coords="192,199,355,225"/>
+<area shape="rect" id="node4" href="$transaction__cl_8h.html#a7bfba1482cf01aa4a926674145c7e29e" title="tran_2pc_prepare" alt="" coords="627,5,749,32"/>
+<area shape="rect" id="node5" href="$transaction__cl_8h.html#a351fb6b676910a2ef50a2bf03980e724" title="tran_2pc_prepare_global_tran" alt="" coords="592,56,784,83"/>
+<area shape="rect" id="node6" href="$transaction__cl_8h.html#a1d5ef42a794f24bbb7d41f3eaf164e8f" title="tran_abort" alt="" coords="648,107,728,133"/>
+<area shape="rect" id="node7" href="$transaction__cl_8h.html#a901b4a89a27aa3bc5c8ffdcc1f9e3150" title="tran_commit" alt="" coords="641,157,735,184"/>
+<area shape="rect" id="node9" href="$authenticate_8c.html#aa6d4e0780e283109d66ee48da074b8fd" title="get_grants" alt="" coords="432,132,515,159"/>
+<area shape="rect" id="node10" href="$locator__cl_8h.html#a3f61445c1c1ed7a0b4327507a71ac023" title="locator_is_class" alt="" coords="415,183,531,209"/>
+<area shape="rect" id="node11" href="$authenticate_8c.html#adf983ab6951322d3850ce69b0f114b15" title="update_cache" alt="" coords="422,233,525,260"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="tr_set_priority" name="tr_set_priority">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#af6d423be690fb129849cc1f6a4398f00" title="db_alter_trigger_priority" alt="" coords="155,5,312,32"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a688689faf250a85805390314b667a2d9" title="do_alter_trigger" alt="" coords="178,56,289,83"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="360,31,461,57"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="509,56,664,83"/>
+</map>

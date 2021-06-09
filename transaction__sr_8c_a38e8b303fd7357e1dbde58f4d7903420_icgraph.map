@@ -1,0 +1,6 @@
+<map id="xtran_server_2pc_start" name="xtran_server_2pc_start">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#ab7cf9c1ec972e276981fecefa68f7586" title="stran_server_2pc_start" alt="" coords="208,5,363,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#afbad3cc372a8ba5b93ab82c2b4cf8a9e" title="tran_server_2pc_start" alt="" coords="211,56,359,83"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="411,5,517,32"/>
+<area shape="rect" id="node5" href="$transaction__cl_8h.html#aeea3152e2284eeb6655c0c2ffa4a3d54" title="tran_2pc_start" alt="" coords="411,56,517,83"/>
+</map>

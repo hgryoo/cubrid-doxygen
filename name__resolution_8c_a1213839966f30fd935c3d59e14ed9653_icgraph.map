@@ -1,0 +1,12 @@
+<map id="pt_add_class_to_entity_list" name="pt_add_class_to_entity_list">
+<area shape="rect" id="node2" href="$parser_8h.html#a5ebda07f22df0159947262cb8fb635f3" title="pt_add_type_to_set" alt="" coords="445,198,581,225"/>
+<area shape="rect" id="node11" href="$parser_8h.html#a866f633e64741ea9c045cde4d6fabbbd" title="pt_domain_to_data_type" alt="" coords="233,235,397,262"/>
+<area shape="rect" id="node3" href="$classfunc__type_1_1Node.html#acdef77e4e64ce753027eba47a5d21937" title="func_type::Node::set\l_return_type" alt="" coords="649,5,793,47"/>
+<area shape="rect" id="node4" href="$parser_8h.html#a97db81cc090f8335071ae769f1412574" title="pt_dbval_to_value" alt="" coords="657,71,784,98"/>
+<area shape="rect" id="node5" href="$parser_8h.html#a2d9d0b7f6640c83adbb1dceb842b3b71" title="pt_seq_value_to_db" alt="" coords="651,122,790,149"/>
+<area shape="rect" id="node6" href="$parser_8h.html#ae03b8fdbb711d76549584be035971552" title="pt_set_value_to_db" alt="" coords="653,173,788,199"/>
+<area shape="rect" id="node7" href="$parse__dbi_8c.html#aa07c45abab5389ff3727ff6f46d54697" title="pt_bind_set_type" alt="" coords="660,223,781,250"/>
+<area shape="rect" id="node8" href="$type__checking_8c.html#a34a6c33848010ae7689e2d1f7c9ae87a" title="pt_eval_function_type_old" alt="" coords="860,333,1033,359"/>
+<area shape="rect" id="node9" href="$type__checking_8c.html#aac9bf6e40599e96b30c7f0c8bee43f0c" title="pt_fix_enumeration\l_comparison" alt="" coords="655,325,787,367"/>
+<area shape="rect" id="node10" href="$type__checking_8c.html#a3623841cbeb65f9186dabf2ca6eab6bd" title="pt_check_function_collation" alt="" coords="629,391,812,418"/>
+</map>

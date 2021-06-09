@@ -1,0 +1,6 @@
+<map id="HL::ObstackHeap::ChunkHeader::getPrevChunk" name="HL::ObstackHeap::ChunkHeader::getPrevChunk">
+<area shape="rect" id="node2" href="$classHL_1_1ObstackHeap.html#acc6ca76e218c7c9221698cc10f4324c2" title="HL::ObstackHeap\&lt; 0,\l MallocHeap \&gt;::copyToNew" alt="" coords="277,5,462,47"/>
+<area shape="rect" id="node3" href="$classHL_1_1ObstackHeap.html#a64234026abfea7bff9a92b2e93b305a0" title="HL::ObstackHeap\&lt; 0,\l MallocHeap \&gt;::free" alt="" coords="294,71,445,112"/>
+<area shape="rect" id="node4" href="$classHL_1_1ObstackHeap.html#a56606f9fee59f08815c2ba1efe02bcd4" title="HL::ObstackHeap\&lt; 0,\l MallocHeap \&gt;::isValid" alt="" coords="292,136,447,177"/>
+<area shape="rect" id="node5" href="$classHL_1_1ObstackHeap.html#a43c995860e4a83e8e7bf8cc523d82c14" title="HL::ObstackHeap\&lt; 0,\l MallocHeap \&gt;::~ObstackHeap" alt="" coords="268,201,471,243"/>
+</map>

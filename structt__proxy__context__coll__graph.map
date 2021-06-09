@@ -1,0 +1,8 @@
+<map id="t_proxy_context" name="t_proxy_context">
+<area shape="rect" id="node2" href="$structt__context__stmt.html" title="{t_context_stmt\n|+ stmt_h_id\l|}" alt="" coords="5,292,115,369"/>
+<area shape="rect" id="node3" href="$structt__shard__stmt.html" title="{t_shard_stmt\n|+ index\l+ num_alloc\l+ stmt_h_id\l+ status\l+ stmt_type\l+ client_version\l+ ctx_cid\l+ ctx_uid\l+ database_user\l+ num_pinned\l+ request_buffer_length\l+ request_buffer\l+ reply_buffer_length\l+ reply_buffer\l+ srv_h_id_ent\l|}" alt="" coords="201,189,359,472"/>
+<area shape="rect" id="node4" href="$structt__shard__queue.html" title="{t_shard_queue\n|+ lock\l+ cond\l|}" alt="" coords="163,20,269,112"/>
+<area shape="rect" id="node5" href="$structsp__parser__ctx.html" title="{sp_parser_ctx\n|+ sql_stmt\l+ is_select\l+ bind_count\l+ operator_\l|}" alt="" coords="293,5,397,127"/>
+<area shape="rect" id="node6" href="$structt__proxy__event.html" title="{t_proxy_event\n|+ type\l+ from_cas\l+ cid\l+ uid\l+ shard_id\l+ cas_id\l|}" alt="" coords="477,255,581,406"/>
+<area shape="rect" id="node7" href="$structt__io__buffer.html" title="{t_io_buffer\n|+ length\l+ offset\l+ data\l|}" alt="" coords="488,13,571,119"/>
+</map>

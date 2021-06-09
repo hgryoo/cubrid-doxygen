@@ -1,0 +1,28 @@
+var mprec_8c =
+[
+    [ "_Bigint", "mprec_8c.html#a2785a68c8302f257b98b5ba579dfbb3d", null ],
+    [ "_reent", "mprec_8c.html#a214d6b95fe0e847d862f9b5e955be0c0", null ],
+    [ "_REENT_CHECK_MP", "mprec_8c.html#a540c5e3880095ce8609ed7747cdb7163", null ],
+    [ "_REENT_MP_FREELIST", "mprec_8c.html#a0f7033c74247ebf802a7324d6afb1f76", null ],
+    [ "_REENT_MP_P5S", "mprec_8c.html#ad5d0700823e98c4ad6060a84916c1ce3", null ],
+    [ "d0", "mprec_8c.html#ade11f3df9cc63f54fa743250c646e270", null ],
+    [ "d1", "mprec_8c.html#a1fe17aa2ff1722c937379044a27da68a", null ],
+    [ "__Long", "mprec_8c.html#a57b464ed34a2e1340c9277d81a0ef26f", null ],
+    [ "__ULong", "mprec_8c.html#a44b9d8e74cc7ef7eddf45583b587a08b", null ],
+    [ "_DEFUN", "mprec_8c.html#abc69315020331ae18b01260f15c24274", null ],
+    [ "_DEFUN", "mprec_8c.html#aa0cfab6ac142a4b6d9d80b799dcd4cf3", null ],
+    [ "_DEFUN", "mprec_8c.html#a1023f6c4fbd95f5a4f69149366d3de20", null ],
+    [ "_DEFUN", "mprec_8c.html#affc3e1677529102584646a9b2b2da251", null ],
+    [ "_DEFUN", "mprec_8c.html#a5f150113dee3aea357429a34d208fe28", null ],
+    [ "_DEFUN", "mprec_8c.html#a4e4d84ba1140a6d86e8ca950863de8bf", null ],
+    [ "_DEFUN", "mprec_8c.html#affc472f830b428f880bf7c04e33e5547", null ],
+    [ "_DEFUN", "mprec_8c.html#af6878d0c960a8e783e205490f80c984a", null ],
+    [ "_DEFUN", "mprec_8c.html#a734f5fe027b87eb6d34d4dacc85d96f6", null ],
+    [ "_DEFUN", "mprec_8c.html#a4abecaa158fee7c21da12440036ffba7", null ],
+    [ "_DEFUN", "mprec_8c.html#a5acfa821740b12f27f0a046a87914a0b", null ],
+    [ "_DEFUN", "mprec_8c.html#abe865ac2d705b80c684fd125c637841b", null ],
+    [ "mprec_calloc", "mprec_8c.html#ab89da6f8aab31080a94d27f7f2e9ef68", null ],
+    [ "bigtens", "mprec_8c.html#a488f3f578f94f2b0a32477cb93e9d735", null ],
+    [ "tens", "mprec_8c.html#a88b467166d145bd57d818eb1775ef313", null ],
+    [ "tinytens", "mprec_8c.html#a7d655ad85be3a03482212244dd96b6ec", null ]
+];

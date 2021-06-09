@@ -1,0 +1,17 @@
+<map id="la_info" name="la_info">
+<area shape="rect" id="node2" href="$structla__arv__log.html" title="{la_arv_log\n|+ path\l+ log_vdes\l+ arv_num\l|}" alt="" coords="113,314,199,421"/>
+<area shape="rect" id="node3" href="$structlog__page.html" title="{log_page\n|+ area\l|}" alt="" coords="204,57,279,134"/>
+<area shape="rect" id="node5" href="$structla__act__log.html" title="{la_act_log\n|+ path\l+ log_vdes\l+ db_iopagesize\l+ db_logpagesize\l|}" alt="" coords="295,1437,419,1559"/>
+<area shape="rect" id="node14" href="$structla__cache__buffer.html" title="{la_cache_buffer\n|+ fix_count\l+ recently_free\l+ in_archive\l+ pageid\l+ phy_pageid\l|}" alt="" coords="1140,299,1255,435"/>
+<area shape="rect" id="node4" href="$structlog__arv__header.html" title="{log_arv_header\n|+ magic\l+ dummy\l+ db_creation\l+ next_trid\l+ npages\l+ fpageid\l+ arv_num\l+ dummy2\l|+ log_arv_header()\l}" alt="" coords="5,5,136,185"/>
+<area shape="rect" id="node6" href="$structlog__header.html" title="{log_header\n|+ magic\l+ dummy\l+ db_creation\l+ db_release\l+ db_compatibility\l+ db_iopagesize\l+ db_logpagesize\l+ is_shutdown\l+ next_trid\l+ mvcc_next_id\l+ avg_ntrans\l+ avg_nlocks\l+ npages\l+ db_charset\l+ was_copied\l+ dummy3\l+ dummy4\l+ fpageid\l+ nxarv_pageid\l+ nxarv_phy_pageid\l+ nxarv_num\l+ last_arv_num_for_syscrashes\l+ last_deleted_arv_num\l+ prefix_name\l+ has_logging_been_skipped\l+ vacuum_last_blockid\l+ perm_status_obsolete\l+ ha_server_state\l+ ha_file_status\l+ oldest_visible_mvccid\l+ newest_block_mvccid\l+ ha_promotion_time\l+ db_restore_time\l+ mark_will_del\l+ does_block_need_vacuum\l+ was_active_log_reset\l|+ log_header()\l}" alt="" coords="279,667,487,1257"/>
+<area shape="rect" id="node7" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="538,248,643,487"/>
+<area shape="rect" id="node9" href="$structla__commit.html" title="{la_commit\n|+ type\l+ tranid\l+ log_record_time\l|}" alt="" coords="586,1294,713,1401"/>
+<area shape="rect" id="node10" href="$structla__apply.html" title="{la_apply\n|+ tranid\l+ num_items\l+ is_long_trans\l|}" alt="" coords="761,1445,871,1551"/>
+<area shape="rect" id="node11" href="$structla__item.html" title="{la_item\n|+ log_type\l+ item_type\l+ class_name\l+ db_user\l+ ha_sys_prm\l+ packed_key_value_length\l+ packed_key_value\l|}" alt="" coords="747,879,931,1045"/>
+<area shape="rect" id="node8" href="$structla__repl__filter.html" title="{la_repl_filter\n|+ list\l+ list_size\l+ num_filters\l+ type\l|}" alt="" coords="499,1437,597,1559"/>
+<area shape="rect" id="node12" href="$structla__cache__pb.html" title="{la_cache_pb\n|+ num_buffers\l|}" alt="" coords="1029,1459,1136,1537"/>
+<area shape="rect" id="node13" href="$structmht__table.html" title="{mht_table\n|+ hash_func\l+ cmp_func\l+ name\l+ size\l+ rehash_at\l+ nentries\l+ nprealloc_entries\l+ ncollisions\l+ heap_id\l+ build_lru_list\l|}" alt="" coords="1017,857,1149,1067"/>
+<area shape="rect" id="node15" href="$structla__cache__buffer__area.html" title="{la_cache_buffer_area\n||}" alt="" coords="1291,923,1437,1001"/>
+<area shape="rect" id="node16" href="$structlog__zip.html" title="{log_zip\n|+ data_length\l+ buf_size\l+ log_data\l|}" alt="" coords="1160,1445,1261,1551"/>
+</map>

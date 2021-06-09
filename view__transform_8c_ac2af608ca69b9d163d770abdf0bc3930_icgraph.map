@@ -1,0 +1,10 @@
+<map id="mq_reset_spec_ids" name="mq_reset_spec_ids">
+<area shape="rect" id="node2" href="$view__transform_8h.html#a1ff88d45177979c4b374fc66c6b3276f" title="mq_reset_ids_in_statement" alt="" coords="188,173,371,199"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="424,5,576,47"/>
+<area shape="rect" id="node4" href="$query__rewrite_8c.html#a10f1fa90eedc843478be4447def47b5e" title="qo_rewrite_oid_equality" alt="" coords="421,71,579,98"/>
+<area shape="rect" id="node5" href="$parser_8h.html#a81fed221e67fa0719c7067ac2837b042" title="pt_exec_trigger_stmt" alt="" coords="428,122,572,149"/>
+<area shape="rect" id="node6" href="$view__transform_8c.html#afd8e3772618184adddd0e1bb5bb4d61b" title="mq_translate_tree" alt="" coords="437,173,563,199"/>
+<area shape="rect" id="node7" href="$view__transform_8c.html#a1e857a5f33e085e89c3af789a03436e0" title="mq_translate_select" alt="" coords="629,198,768,225"/>
+<area shape="rect" id="node8" href="$view__transform_8h.html#a3c1441925c0402e05ca095af251f07ed" title="mq_rewrite_query_as\l_derived" alt="" coords="427,275,573,316"/>
+<area shape="rect" id="node9" href="$view__transform_8h.html#a68ddd22f6b7157c0be48c2440a897c8e" title="mq_make_derived_spec" alt="" coords="419,341,581,367"/>
+</map>

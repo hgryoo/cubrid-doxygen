@@ -1,0 +1,10 @@
+<map id="logpb_set_tde_algorithm" name="logpb_set_tde_algorithm">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a978997a75ba311ff9ab0e14bb43100e5" title="logpb_next_append_page" alt="" coords="641,39,811,66"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a743f14dc2408e5b500f81858e5423216" title="logpb_start_append" alt="" coords="235,39,369,66"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#af82ae9aa46256f2446febdc4673bb15b" title="logpb_write_page_to_disk" alt="" coords="216,90,388,116"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#aba424036ec1b5f29053849bba67d9442" title="logpb_write_toflush\l_pages_to_archive" alt="" coords="235,141,369,182"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#aff4e1c7df4260b5dc7ad3dd1b37e6baa" title="logpb_writev_append\l_pages" alt="" coords="230,206,374,248"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#acef3ec89e37e79a4bcb063228aece232" title="logpb_append_crumbs" alt="" coords="859,14,1011,40"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a9922aae39f1f08ea9141eac15b86b302" title="logpb_append_data" alt="" coords="867,64,1002,91"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="436,82,593,124"/>
+</map>

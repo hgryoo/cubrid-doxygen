@@ -1,0 +1,4 @@
+<map id="cubmem::appendible_block&lt; Size &gt;" name="cubmem::appendible_block&lt; Size &gt;">
+<area shape="rect" id="node2" href="$classcubmem_1_1extensible__stack__block.html" title="{cubmem::extensible\l_stack_block\&lt; Size \&gt;\n|&#45; m_stack\l&#45; m_ext_block\l&#45; m_use_stack\l|+ extensible_stack_block()\l+ extensible_stack_block()\l+ extend_by()\l+ extend_to()\l+ get_ptr()\l+ get_read_ptr()\l}" alt="" coords="5,263,184,457"/>
+<area shape="rect" id="node3" href="$classcubmem_1_1extensible__stack__block.html" title="{cubmem::extensible\l_stack_block\&lt; S \&gt;\n|&#45; m_stack\l&#45; m_ext_block\l&#45; m_use_stack\l|+ extensible_stack_block()\l+ extensible_stack_block()\l+ extend_by()\l+ extend_to()\l+ get_ptr()\l+ get_read_ptr()\l}" alt="" coords="5,5,184,200"/>
+</map>

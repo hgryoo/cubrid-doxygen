@@ -1,0 +1,8 @@
+<map id="xcache_check_recompilation_threshold" name="xcache_check_recompilation_threshold">
+<area shape="rect" id="node2" href="$xasl__cache_8h.html#ab76a855cd34152196c7901eab6a3eb98" title="xcache_find_sha1" alt="" coords="244,115,371,141"/>
+<area shape="rect" id="node3" href="$event__log_8h.html#a3cd8bb087f1e3fec4610baf7ff6abf60" title="event_log_sql_string" alt="" coords="423,5,564,32"/>
+<area shape="rect" id="node4" href="$query__manager_8c.html#ae47542b0a40155b09eeac88006c5a778" title="xqmgr_prepare_query" alt="" coords="420,56,567,83"/>
+<area shape="rect" id="node5" href="$xasl__cache_8h.html#a8fabfb770698720e6cc0141fd8bfa2da" title="xcache_find_xasl_id\l_for_execute" alt="" coords="423,107,563,149"/>
+<area shape="rect" id="node6" href="$session_8h.html#ab72e4f553268042010f4cbce84b18767" title="session_get_prepared\l_statement" alt="" coords="419,173,568,214"/>
+<area shape="rect" id="node7" href="$log__tran__table_8c.html#a43c0d2b516b1f640c117949dc79b8fc1" title="xlogtb_get_pack_tran\l_table" alt="" coords="420,238,567,279"/>
+</map>

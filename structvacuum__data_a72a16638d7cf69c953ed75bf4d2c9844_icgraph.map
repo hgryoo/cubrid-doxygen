@@ -1,0 +1,8 @@
+<map id="vacuum_data::is_empty" name="vacuum_data::is_empty">
+<area shape="rect" id="node2" href="$classvacuum__job__cursor.html#ac9ff563c52cfea6e792b3de2ef023cb3" title="vacuum_job_cursor::\lreadjust_to_vacuum_data\l_changes" alt="" coords="215,174,385,230"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="640,123,715,150"/>
+<area shape="rect" id="node5" href="$structvacuum__data.html#ad84aad23997de1b67b457dacfc08308c" title="vacuum_data::set_oldest\l_unvacuumed_on_boot" alt="" coords="216,57,384,98"/>
+<area shape="rect" id="node7" href="$structvacuum__data.html#a8d3ac9a3f174ae46ac29f6347dc5ebea" title="vacuum_data::update" alt="" coords="227,123,373,150"/>
+<area shape="rect" id="node3" href="$classvacuum__job__cursor.html#a7748893163390231568a44a5e48f7f8a" title="vacuum_job_cursor::\lforce_data_update" alt="" coords="441,174,584,216"/>
+<area shape="rect" id="node6" href="$vacuum_8h.html#a2cb21fa7816f2d0a4cf699cae9e7fd7b" title="vacuum_data_load_and\l_recover" alt="" coords="433,57,592,98"/>
+</map>

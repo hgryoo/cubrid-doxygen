@@ -1,0 +1,8 @@
+<map id="ordbynum_info" name="ordbynum_info">
+<area shape="rect" id="node2" href="$structcubxasl_1_1pred__expr.html" title="{cubxasl::pred_expr\n|+ pe\l+ type\l|+ clear_xasl()\l}" alt="" coords="20,160,152,252"/>
+<area shape="rect" id="node4" href="$structcubxasl_1_1pred.html" title="{cubxasl::pred\n|+ bool_op\l|}" alt="" coords="5,351,105,429"/>
+<area shape="rect" id="node3" href="$structcubxasl_1_1eval__term.html" title="{cubxasl::eval_term\n|+ et_type\l+ et\l|}" alt="" coords="20,5,152,97"/>
+<area shape="rect" id="node5" href="$structxasl__state.html" title="{xasl_state\n|+ query_id\l+ qp_xasl_line\l|}" alt="" coords="575,160,682,252"/>
+<area shape="rect" id="node6" href="$structval__descr.html" title="{val_descr\n|+ dbval_cnt\l+ sys_epochtime\l+ lrand\l+ drand\l|}" alt="" coords="567,329,690,451"/>
+<area shape="rect" id="node7" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="331,167,428,245"/>
+</map>

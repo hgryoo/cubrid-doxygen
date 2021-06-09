@@ -1,0 +1,10 @@
+<map id="event_file_open" name="event_file_open">
+<area shape="rect" id="node2" href="$event__log_8h.html#a55c4b86a8fb02549fee6b1101a0ea9af" title="event_log_init" alt="" coords="171,39,273,65"/>
+<area shape="rect" id="node4" href="$event__log_8h.html#a1ea744c306b690b39257eb4f460ca66c" title="event_log_start" alt="" coords="167,148,277,175"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="349,5,484,32"/>
+<area shape="rect" id="node5" href="$event__log_8h.html#a09af3f502c02c2b88a365b2e511ae8e4" title="event_log_log_flush\l_thr_wait" alt="" coords="348,57,485,98"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8c.html#aa5c954ff181513db7f09d533b4db9c47" title="event_log_slow_query" alt="" coords="341,123,492,149"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8c.html#a0eb59ade53933c2873e28f2b7456cafc" title="event_log_many_ioreads" alt="" coords="333,173,500,200"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8c.html#a4a3b1e68dea5e0cb9fc930812c1a2407" title="event_log_temp_expand\l_pages" alt="" coords="335,225,498,266"/>
+<area shape="rect" id="node9" href="$lock__manager_8c.html#a104e521b5f958d944f9443a0aff23348" title="lock_detect_local_deadlock" alt="" coords="325,291,508,317"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="setobj_type" name="setobj_type">
+<area shape="rect" id="node2" href="$set__object_8h.html#a14abfb413d6376387b3698bb1c228fe9" title="set_make_collection" alt="" coords="143,199,284,225"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#a156588bb2fd9c6e902c0baa2062a3cb5" title="pt_union_sets" alt="" coords="366,5,469,32"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#a013dd32257ac7042fff9576ea7142a75" title="pt_difference_sets" alt="" coords="353,56,482,83"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#a3e8f69d468c4f426f8724467f992e2de" title="pt_product_sets" alt="" coords="360,107,475,133"/>
+<area shape="rect" id="node6" href="$query__opfunc_8c.html#a3a79cbfe23e4a7b038ea023922f65068" title="qdata_add_sequence\l_to_dbval" alt="" coords="345,158,490,199"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#a29763016097873b018c1e097a4321b49" title="qdata_subtract_sequence\l_to_dbval" alt="" coords="332,223,503,265"/>
+<area shape="rect" id="node8" href="$query__opfunc_8c.html#a8a16e9cd0dee28c1293a7de6e8718e5c" title="qdata_multiply_sequence\l_to_dbval" alt="" coords="333,289,502,330"/>
+<area shape="rect" id="node9" href="$query__opfunc_8c.html#a9361d7d1b6a9aa17eb833fa7fc6ee829" title="qdata_convert_dbvals\l_to_set" alt="" coords="343,354,492,395"/>
+<area shape="rect" id="node10" href="$query__opfunc_8c.html#a6b94d2d895a5914234b43e76a8a80b12" title="qdata_convert_table\l_to_set" alt="" coords="348,419,487,461"/>
+</map>

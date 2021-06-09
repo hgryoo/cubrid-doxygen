@@ -1,0 +1,21 @@
+<map id="logtb_find_current_tranid" name="logtb_find_current_tranid">
+<area shape="rect" id="node2" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="219,5,337,32"/>
+<area shape="rect" id="node4" href="$slotted__page_8h.html#ac74a0bc0d0e80b4bf43461d7ce00db7b" title="spage_check_slot_owner" alt="" coords="193,81,363,108"/>
+<area shape="rect" id="node6" href="$slotted__page_8h.html#ac4e01996e09e34fc3db406713fdd4aa6" title="spage_free_saved_spaces" alt="" coords="189,157,367,184"/>
+<area shape="rect" id="node9" href="$slotted__page_8c.html#a83316be5d6ae8c75e7341d6595a8033b" title="spage_get_saved_spaces" alt="" coords="191,296,365,323"/>
+<area shape="rect" id="node13" href="$slotted__page_8c.html#a3700f5e689cad7c391ff448661f227bb" title="spage_insert_data" alt="" coords="863,223,991,249"/>
+<area shape="rect" id="node18" href="$slotted__page_8c.html#abf20303000c68e44e48f4fceed1d278c" title="spage_has_enough_total\l_space" alt="" coords="648,377,815,418"/>
+<area shape="rect" id="node19" href="$slotted__page_8c.html#a175f857ba7d9a698b4cb1d3d4ceb62e8" title="spage_save_space" alt="" coords="664,443,799,469"/>
+<area shape="rect" id="node20" href="$transaction__sr_8h.html#ae26bf7cb11bb1ac2bfa7320cab501272" title="xtran_get_local_transaction_id" alt="" coords="179,544,377,571"/>
+<area shape="rect" id="node3" href="$fetch_8c.html#a6a331fd74c1c8c3fc931edc187f44047" title="fetch_peek_dbval" alt="" coords="451,5,575,32"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a2c34968494a21a2b9235fda4a60bfb41" title="heap_prepare_get_context" alt="" coords="425,56,600,83"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="458,107,567,133"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="451,157,574,184"/>
+<area shape="rect" id="node10" href="$slotted__page_8h.html#a9c273fdf9e041aecb68e711e1b03170c" title="spage_check" alt="" coords="682,325,781,352"/>
+<area shape="rect" id="node16" href="$slotted__page_8c.html#adebf5b8a7d52b9a7a5bb91e8494eba8d" title="spage_get_saved_spaces\l_by_other_trans" alt="" coords="426,259,599,301"/>
+<area shape="rect" id="node17" href="$slotted__page_8c.html#acb8f846d3aaf0fc6c90ad03b30d08aea" title="spage_get_total_saved\l_spaces" alt="" coords="435,377,591,418"/>
+<area shape="rect" id="node11" href="$slotted__page_8h.html#afd65f125e45ecee4ba04b6063c18bced" title="spage_delete" alt="" coords="877,439,976,465"/>
+<area shape="rect" id="node12" href="$slotted__page_8h.html#a7b3b2ecfd80f3b8ace03a602a03ec4b7" title="spage_merge" alt="" coords="1039,439,1139,465"/>
+<area shape="rect" id="node14" href="$slotted__page_8c.html#a8babb15f96118961deadfbb0c2c4f0f0" title="spage_put_helper" alt="" coords="865,388,989,415"/>
+<area shape="rect" id="node15" href="$slotted__page_8h.html#ab68d38c29c234969d85ddb87ddad1cfb" title="spage_split" alt="" coords="883,337,971,364"/>
+</map>

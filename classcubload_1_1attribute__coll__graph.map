@@ -1,0 +1,8 @@
+<map id="cubload::attribute" name="cubload::attribute">
+<area shape="rect" id="node2" href="$structor__attribute.html" title="{or_attribute\n|+ id\l+ type\l+ def_order\l+ location\l+ position\l+ on_update_expr\l+ n_btids\l+ max_btids\l+ is_fixed\l+ is_autoincrement\l+ is_notnull\l|}" alt="" coords="287,491,420,715"/>
+<area shape="rect" id="node3" href="$structor__default__value.html" title="{or_default_value\n|+ value\l+ val_length\l|}" alt="" coords="5,241,123,333"/>
+<area shape="rect" id="node4" href="$structor__auto__increment.html" title="{or_auto_increment\n|+ serial_obj\l|}" alt="" coords="167,248,297,325"/>
+<area shape="rect" id="node5" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="355,5,447,112"/>
+<area shape="rect" id="node6" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="439,175,572,399"/>
+<area shape="rect" id="node7" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="693,248,795,325"/>
+</map>

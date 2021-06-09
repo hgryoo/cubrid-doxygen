@@ -1,0 +1,11 @@
+<map id="btree_insert_internal" name="btree_insert_internal">
+<area shape="rect" id="node2" href="$btree_8h.html#ae40538eaed8d772ed2df4a8517c5fef4" title="btree_insert" alt="" coords="238,138,329,165"/>
+<area shape="rect" id="node7" href="$btree_8h.html#a63f3b3b178190d31e60e8a783cdc9477" title="btree_mvcc_delete" alt="" coords="217,239,349,266"/>
+<area shape="rect" id="node8" href="$btree_8h.html#a48d91a51517655798dc57076da7d44fa" title="btree_physical_delete" alt="" coords="209,189,357,215"/>
+<area shape="rect" id="node9" href="$btree_8c.html#a5378676d479f2ca14f1a00a75b233b14" title="btree_undo_delete_physical" alt="" coords="192,319,375,346"/>
+<area shape="rect" id="node3" href="$btree_8h.html#a890fe22be1bcabc969563629e136a81b" title="btree_update" alt="" coords="453,239,550,266"/>
+<area shape="rect" id="node4" href="$locator__sr_8h.html#a4955d5ba9c9a9197d618e2929d3dcee1" title="locator_update_index" alt="" coords="628,181,773,207"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#ab82d600b3f62b5b63fd9b3fd864e7031" title="locator_add_or_remove\l_index_internal" alt="" coords="423,173,580,215"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#a00f54e30237319ee47b689a2e582399e" title="locator_repair_btree\l_by_insert" alt="" coords="433,5,569,47"/>
+<area shape="rect" id="node10" href="$btree_8h.html#ab8879d0ae469aabf08b961c8bb5ab34a" title="btree_rv_keyval_undo\l_delete" alt="" coords="427,341,576,383"/>
+</map>

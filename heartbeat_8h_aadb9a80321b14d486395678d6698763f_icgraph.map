@@ -1,0 +1,6 @@
+<map id="css_receive_heartbeat_request" name="css_receive_heartbeat_request">
+<area shape="rect" id="node2" href="$master__request_8h.html#a688b342b4b3914138489a6abb44404a8" title="css_process_heartbeat\l_request" alt="" coords="235,5,393,47"/>
+<area shape="rect" id="node4" href="$heartbeat_8c.html#a2c1b18ea2faa297ab638c22ceac596cd" title="hb_process_master_request_info" alt="" coords="207,71,421,98"/>
+<area shape="rect" id="node3" href="$master_8c.html#a8728bff06fcba0fab45624e6b088beb6" title="css_check_master_socket\l_input" alt="" coords="473,5,652,47"/>
+<area shape="rect" id="node5" href="$heartbeat_8h.html#a1c6700ef9f3bbadfc5e36ef8f7345a75" title="hb_process_master_request" alt="" coords="469,71,656,98"/>
+</map>

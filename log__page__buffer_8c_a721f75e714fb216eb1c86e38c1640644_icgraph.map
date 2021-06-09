@@ -1,0 +1,11 @@
+<map id="logpb_read_page_from_file" name="logpb_read_page_from_file">
+<area shape="rect" id="node2" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="255,56,386,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a3e0182aa5d5810429c559da1e8d347ff" title="logpb_copy_page" alt="" coords="259,144,382,171"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#ad74efce30d8c2aaa856f0d975fb61430" title="logpb_copy_page_from_file" alt="" coords="231,195,411,221"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#aa36fb2c7b67e09da43ca73cbf46f0eb0" title="logpb_locate_page" alt="" coords="255,245,386,272"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ad2eeada203e066baffcd4c6207a573b8" title="log_create" alt="" coords="495,5,578,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="490,56,583,83"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#aab023e1a9bbef2bdff8c2da6a017a14e" title="logpb_copy_page_from\l_log_buffer" alt="" coords="459,107,615,149"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a7960a034a57d6eed6cccbdd3261db6d7" title="logpb_fetch_page" alt="" coords="475,173,599,200"/>
+<area shape="rect" id="node7" href="$log__writer_8h.html#af1e1368d8e63a233e503b44c7cad4f4e" title="logwr_log_ha_filestat\l_to_string" alt="" coords="663,162,807,203"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cubload::batch::unpack" name="cubload::batch::unpack">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#aa04827e49a2d0a38359cc70bc6342566" title="sloaddb_install_class" alt="" coords="211,5,357,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a9c1e10de2f480a8803e4f8c5ec5dc178" title="sloaddb_load_batch" alt="" coords="215,56,353,83"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="405,31,512,57"/>
+</map>

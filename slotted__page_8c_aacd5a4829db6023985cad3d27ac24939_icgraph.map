@@ -1,0 +1,8 @@
+<map id="spage_number_of_slots" name="spage_number_of_slots">
+<area shape="rect" id="node2" href="$btree_8c.html#acea286eb82079783f298baa39d4cd373" title="btree_merge_node_and\l_advance" alt="" coords="221,27,378,69"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#acdbe82c4e3f3d9c4a543094ff6d27311" title="heap_get_insert_location\l_with_lock" alt="" coords="216,93,383,134"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#a1063293444bb398d29a2b95ccdcecd33" title="heap_reuse" alt="" coords="255,159,344,185"/>
+<area shape="rect" id="node7" href="$heap__file_8h.html#a88cafd05abdb0910752e3eeeed9b1856" title="heap_vacuum_all_objects" alt="" coords="213,209,385,236"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a817f3908f139a51ad647ea391836b176" title="btree_delete_internal" alt="" coords="433,5,576,32"/>
+<area shape="rect" id="node4" href="$btree_8h.html#af9b91aa85529070ebd9a572128bcab4c" title="btree_online_index\l_list_dispatcher" alt="" coords="439,57,570,98"/>
+</map>

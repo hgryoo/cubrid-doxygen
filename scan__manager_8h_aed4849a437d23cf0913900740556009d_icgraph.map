@@ -1,0 +1,16 @@
+<map id="scan_close_scan" name="scan_close_scan">
+<area shape="rect" id="node2" href="$query__executor_8h.html#a8ffca36cae36a3f9c8c3c2c3f79be082" title="qexec_clear_xasl" alt="" coords="198,75,321,102"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#a877b2f4b4f062728c8613bc380cdd24b" title="qexec_close_scan" alt="" coords="194,354,325,381"/>
+<area shape="rect" id="node14" href="$query__executor_8c.html#aabe6a73176c447365adf5a71e0db3d0a" title="qexec_init_next_partition" alt="" coords="176,405,343,431"/>
+<area shape="rect" id="node15" href="$query__executor_8c.html#aae780f3598f8e002d08caef216a1c5b4" title="qexec_merge_fnc" alt="" coords="197,481,322,507"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a3015a5794486fd26f84bf04c16efaad7" title="qexec_clear_access\l_spec_list" alt="" coords="640,5,781,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a5b7976d30c689d5874ca294e2b1ae888" title="qexec_clear_regu_var" alt="" coords="408,75,557,102"/>
+<area shape="rect" id="node5" href="$query__executor_8h.html#a8117e936942551d7d4b2362e9638260f" title="qexec_execute_query" alt="" coords="408,126,557,153"/>
+<area shape="rect" id="node6" href="$xasl__cache_8c.html#a4d70bee71593e44f2e74272dc2695ce6" title="xcache_clone_decache" alt="" coords="403,177,562,203"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#aca3e5eec1423cc628767b7d7a8631244" title="qexec_execute_connect_by" alt="" coords="391,227,575,254"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#a7f75e30ca5ca44e386fde62197337c0a" title="qexec_execute_mainblock\l_internal" alt="" coords="623,347,799,388"/>
+<area shape="rect" id="node10" href="$query__executor_8c.html#a6a52d397abf14eeef1f1a23bccd2ed42" title="qexec_execute_delete" alt="" coords="407,329,559,355"/>
+<area shape="rect" id="node11" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="408,379,557,406"/>
+<area shape="rect" id="node12" href="$query__executor_8c.html#aa789b9a1da1ee681d9ad9464672c2325" title="qexec_execute_update" alt="" coords="405,430,561,457"/>
+<area shape="rect" id="node13" href="$query__executor_8c.html#a8205ad7c83184c045333f920f7611fca" title="qexec_merge_listfiles" alt="" coords="409,481,557,507"/>
+</map>

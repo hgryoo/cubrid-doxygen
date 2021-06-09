@@ -1,0 +1,21 @@
+<map id="sysprm_free_assign_values" name="sysprm_free_assign_values">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a25ec1e1ee1ed2ecd053a903feda6eaca" title="db_get_system_parameters" alt="" coords="655,70,838,97"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#af63ac188972f8891747005d487779079" title="db_set_system_parameters" alt="" coords="419,377,601,403"/>
+<area shape="rect" id="node12" href="$system__parameter_8c.html#a4ec31a9cb79fca746211d6033d5d9b8c" title="prm_tune_parameters" alt="" coords="207,457,355,483"/>
+<area shape="rect" id="node13" href="$network__interface__sr_8h.html#a5a508bc4bbce9f0e0cadefa99b7979bd" title="sprm_server_change\l_parameters" alt="" coords="439,201,581,243"/>
+<area shape="rect" id="node14" href="$network__interface__sr_8h.html#a01f0be1a9d7207b16fedcf879b0ee697" title="sprm_server_get_force\l_parameters" alt="" coords="433,537,587,579"/>
+<area shape="rect" id="node15" href="$network__interface__sr_8h.html#a7375cba4e11da75b551b3e82c49218a5" title="sprm_server_obtain\l_parameters" alt="" coords="442,275,578,316"/>
+<area shape="rect" id="node16" href="$system__parameter_8h.html#a24fbc1cc7a598e49b11916b7076d77eb" title="sysprm_obtain_parameters" alt="" coords="192,70,371,97"/>
+<area shape="rect" id="node17" href="$network__interface__cl_8c.html#ae299a5bc12769a2a9ee93faa51f84309" title="sysprm_obtain_server\l_parameters" alt="" coords="435,121,585,163"/>
+<area shape="rect" id="node18" href="$system__parameter_8h.html#a90a73d0994b6182953a944dd9cde6f5d" title="sysprm_unpack_assign\l_values" alt="" coords="202,223,361,264"/>
+<area shape="rect" id="node19" href="$system__parameter_8h.html#ac98d47f74e37f6645e2c28b25d7e6000" title="sysprm_validate_change\l_parameters" alt="" coords="198,340,365,381"/>
+<area shape="rect" id="node20" href="$system__parameter_8h.html#aa0212d0529ab1925811cab22308a05b1" title="xsysprm_get_force_server\l_parameters" alt="" coords="193,508,369,549"/>
+<area shape="rect" id="node3" href="$cas__execute_8h.html#ac78915e1b3aaad00dc639e634a821ee4" title="ux_get_default_setting" alt="" coords="1116,19,1269,46"/>
+<area shape="rect" id="node4" href="$cas__execute_8h.html#a0ae1c0910187ba3505b2e2dd1704e279" title="ux_get_system_parameter" alt="" coords="892,45,1068,71"/>
+<area shape="rect" id="node5" href="$csql_8c.html#ad52f6714d8b860d9e1747c69ebc993a4" title="csql_get_sys_param" alt="" coords="909,95,1051,122"/>
+<area shape="rect" id="node6" href="$utility_8h.html#a222e056aeec93dc58810d9238d90d10e" title="statdump" alt="" coords="942,146,1018,173"/>
+<area shape="rect" id="node8" href="$cas__execute_8h.html#a1c80a0c9c5c1a9dd684ca1e938106d16" title="ux_set_default_setting" alt="" coords="670,457,823,483"/>
+<area shape="rect" id="node9" href="$dbi_8h.html#a2e0e18a570314dd6ff7c8d1da91eefaf" title="db_set_system_parameters\l_for_ha_repl" alt="" coords="655,275,838,316"/>
+<area shape="rect" id="node10" href="$dbi_8h.html#abd2d1be090b737e77e6ad72c8ef0a5e1" title="db_reset_system_parameters\l_from_assignments" alt="" coords="649,340,844,381"/>
+<area shape="rect" id="node11" href="$csql_8c.html#ab34b6db3f30265df0d6363adae28a50e" title="csql_set_sys_param" alt="" coords="675,406,818,433"/>
+</map>

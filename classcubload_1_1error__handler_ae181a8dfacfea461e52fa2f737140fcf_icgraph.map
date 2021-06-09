@@ -1,0 +1,5 @@
+<map id="cubload::error_handler::on_syntax_failure" name="cubload::error_handler::on_syntax_failure">
+<area shape="rect" id="node2" href="$classcubload_1_1server__class__installer.html#a94646f6c8f412597134f3916cd1803a5" title="cubload::server_class\l_installer::install_class" alt="" coords="221,5,376,47"/>
+<area shape="rect" id="node3" href="$classcubload_1_1scanner.html#a0b828c6221bc8c083a211291dbcef875" title="cubload::scanner::LexerError" alt="" coords="204,71,393,98"/>
+<area shape="rect" id="node4" href="$classcubload_1_1server__object__loader.html#a650359afcdc658bf979fc90c1deb2e12" title="cubload::server_object\l_loader::process_line" alt="" coords="222,123,375,164"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="qo_is_index_covering_scan" name="qo_is_index_covering_scan">
+<area shape="rect" id="node2" href="$plan__generation_8c.html#a851ad3e58cae2b277cdf3f058e304cac" title="gen_outer" alt="" coords="297,81,375,108"/>
+<area shape="rect" id="node6" href="$xasl__generation_8c.html#ae115559464c7b24184e599859c2590f8" title="pt_to_index_info" alt="" coords="277,167,395,193"/>
+<area shape="rect" id="node7" href="$query__planner_8c.html#a6d291bd84344eb7b08d5239c6d668489" title="qo_index_covering_plans_cmp" alt="" coords="236,217,436,244"/>
+<area shape="rect" id="node8" href="$query__planner_8c.html#a339ec9f3a7428a9562981e87be076b93" title="qo_plan_cmp" alt="" coords="679,245,777,272"/>
+<area shape="rect" id="node10" href="$query__planner_8c.html#a82cfa5f4b039ab1cc94a7b66059f2802" title="qo_index_scan_new" alt="" coords="266,323,406,349"/>
+<area shape="rect" id="node11" href="$query__planner_8c.html#af8671c89ed2b293e695cc6f025e45efc" title="qo_plan_cmp_prefer\l_covering_index" alt="" coords="488,343,627,385"/>
+<area shape="rect" id="node12" href="$query__planner_8c.html#aeab18f9bf996969d233f8efcf7182b63" title="qo_plan_scan_print_json" alt="" coords="253,424,419,451"/>
+<area shape="rect" id="node13" href="$query__planner_8c.html#ab72a98ffdd0d7454c065affc964a92ed" title="qo_plan_scan_print_text" alt="" coords="255,475,417,501"/>
+<area shape="rect" id="node14" href="$query__planner_8c.html#a02e6e087fe89ecb801ef6b2495106a41" title="qo_scan_fprint" alt="" coords="283,525,389,552"/>
+<area shape="rect" id="node15" href="$query__planner_8c.html#acb380e75f92ed150485b85d18ff537ad" title="qo_scan_info" alt="" coords="287,576,385,603"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#a5ba46846df3d11008f3c7d2fd4fa6cf3" title="gen_inner" alt="" coords="518,5,597,32"/>
+<area shape="rect" id="node4" href="$plan__generation_8c.html#a5102adacf28a2cda8aa170e7b07af380" title="qo_to_xasl" alt="" coords="515,56,600,83"/>
+<area shape="rect" id="node5" href="$plan__generation_8c.html#a38a4745f054db7cd1f993f7e5fd494dd" title="make_sort_limit_proc" alt="" coords="484,107,631,133"/>
+<area shape="rect" id="node9" href="$query__planner_8c.html#a3acad1d3a3cf5722a879c152c0530721" title="qo_multi_range_opt\l_plans_cmp" alt="" coords="490,209,625,250"/>
+</map>

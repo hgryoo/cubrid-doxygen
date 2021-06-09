@@ -1,0 +1,8 @@
+<map id="smt_add_constraint_to_property" name="smt_add_constraint_to_property">
+<area shape="rect" id="node2" href="$schema__template_8h.html#adb290209d73a8df3911b89db416469c8" title="smt_add_constraint" alt="" coords="189,107,325,133"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#af4a7b6b5e9a854d20b819ed148665aef" title="dbt_add_constraint" alt="" coords="379,5,511,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#ae502b1b401f3074af64821cd32bd8afc" title="dbt_add_foreign_key" alt="" coords="373,56,516,83"/>
+<area shape="rect" id="node5" href="$class__object_8c.html#a7ccc84963969303714e4fb2a51070e96" title="classobj_copy_constraint_like" alt="" coords="564,81,760,108"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#ac770726929bfb229a6fde8c58f2e1374" title="sm_add_constraint" alt="" coords="379,157,511,184"/>
+<area shape="rect" id="node7" href="$execute__schema_8h.html#aad5f8b87532634fce640fe47c496aebe" title="do_add_constraints" alt="" coords="377,208,512,235"/>
+</map>

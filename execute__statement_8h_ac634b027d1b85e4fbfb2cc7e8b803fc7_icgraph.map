@@ -1,0 +1,6 @@
+<map id="do_prepare_update" name="do_prepare_update">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#aa5b68a09475423be2f6714fac2a83de9" title="do_prepare_statement" alt="" coords="185,71,336,98"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#ae1f8dc2b98ed7ccc4bb2aeefc7b5a47e" title="db_compile_statement\l_local" alt="" coords="384,5,537,47"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="585,35,737,76"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#ae3d3126c811e6fcef6468eeb55c88c1c" title="do_scope" alt="" coords="421,122,500,149"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="dwb_slots_hash_entry" name="dwb_slots_hash_entry">
+<area shape="rect" id="node2" href="$structdouble__write__slot.html" title="{double_write_slot\n|+ position_in_block\l+ block_no\l|}" alt="" coords="115,307,249,399"/>
+<area shape="rect" id="node3" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="27,79,99,171"/>
+<area shape="rect" id="node4" href="$structfileio__page.html" title="{fileio_page\n|+ page\l|}" alt="" coords="135,86,219,163"/>
+<area shape="rect" id="node5" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="243,5,348,244"/>
+</map>

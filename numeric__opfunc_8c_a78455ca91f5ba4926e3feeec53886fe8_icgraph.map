@@ -1,0 +1,5 @@
+<map id="get_fp_value_type" name="get_fp_value_type">
+<area shape="rect" id="node2" href="$numeric__opfunc_8c.html#a4352a7a90e2a82db8e72ac9c7ca485eb" title="numeric_internal_real\l_to_num" alt="" coords="181,5,327,47"/>
+<area shape="rect" id="node3" href="$numeric__opfunc_8h.html#a72476e74a3054daa0fef909b8bdc1e67" title="numeric_internal_double\l_to_num" alt="" coords="375,5,537,47"/>
+<area shape="rect" id="node4" href="$numeric__opfunc_8h.html#aa4ca8052836c8670e6f027a2bc74c24b" title="numeric_internal_float\l_to_num" alt="" coords="381,71,531,112"/>
+</map>

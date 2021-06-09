@@ -1,0 +1,8 @@
+<map id="log_sysop_do_postpone" name="log_sysop_do_postpone">
+<area shape="rect" id="node2" href="$log__manager_8c.html#a1e4500b198cf9f51121a641472d9cddc" title="log_sysop_commit_internal" alt="" coords="216,129,396,156"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a328d8671b52e43b27fdaa575415c61ed" title="log_sysop_commit" alt="" coords="473,5,603,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#afd1a2421cd94bcd23d1eae834e6a1d28" title="log_sysop_end_logical\l_compensate" alt="" coords="461,57,615,98"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a00976c440ea1347035bf5d8a707279e5" title="log_sysop_end_logical\l_run_postpone" alt="" coords="461,122,615,163"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#af6c9cbd5b7eedd3a08ed81eba4dc5556" title="log_sysop_end_logical_undo" alt="" coords="444,188,632,215"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a7dabe9d7858297fd2182b90398ca3a94" title="log_sysop_end_recovery\l_postpone" alt="" coords="455,239,621,281"/>
+</map>

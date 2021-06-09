@@ -1,0 +1,12 @@
+<map id="pt_type_enum_to_db_domain" name="pt_type_enum_to_db_domain">
+<area shape="rect" id="node2" href="$db__vdb_8c.html#aed91d7805c05c42cfffdd5bd29cbf72d" title="do_cast_host_variables\l_to_expected_domain" alt="" coords="196,48,355,89"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#ab5db455025783dc63b0964bb283a1115" title="pt_check_partitions" alt="" coords="208,114,343,141"/>
+<area shape="rect" id="node6" href="$parser_8h.html#a7aed5001ad0bb989a2e46953a2886325" title="pt_data_type_to_db\l_domain" alt="" coords="207,216,343,257"/>
+<area shape="rect" id="node7" href="$parser_8h.html#a458682d4ae9c81c9a0b5fb49aa77c175" title="pt_node_data_type_to\l_db_domain" alt="" coords="417,157,568,199"/>
+<area shape="rect" id="node8" href="$parser_8h.html#a7e346811a00c66d97af8a80f9c5140c8" title="pt_node_to_db_domain" alt="" coords="415,223,571,250"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html#a82b3a85755f833c14e36818fb52eb519" title="pt_node_to_function\l_index" alt="" coords="423,300,562,341"/>
+<area shape="rect" id="node10" href="$name__resolution_8c.html#a852a85fac2595f015ff09025949ac9d1" title="pt_make_method_call" alt="" coords="201,383,350,410"/>
+<area shape="rect" id="node11" href="$xasl__generation_8h.html#aecead587582c009ac8fbbeeee1e05548" title="pt_xasl_type_enum_to\l_domain" alt="" coords="199,435,352,476"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#ae1f8dc2b98ed7ccc4bb2aeefc7b5a47e" title="db_compile_statement\l_local" alt="" coords="416,71,569,112"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#aa67900db91e4c062a739ff4d40d69a3c" title="do_recompile_and_execute\l_prepared_statement" alt="" coords="403,5,583,47"/>
+</map>

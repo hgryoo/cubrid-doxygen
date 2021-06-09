@@ -1,0 +1,11 @@
+<map id="lang_collation_count" name="lang_collation_count">
+<area shape="rect" id="node2" href="$boot__cl_8c.html#ae1c31550294abe00870d12f9569a0114" title="boot_add_charsets" alt="" coords="205,31,337,57"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a23206f121c6c773602c8b8e6123b0c55" title="boot_add_collations" alt="" coords="202,107,339,133"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#aca4baefe4e8457d30362e53584fdcd3d" title="sboot_get_locales_info" alt="" coords="193,157,348,184"/>
+<area shape="rect" id="node10" href="$util__sa_8c.html#ad21888631b7d88b5eab313bf5e523aec" title="synccoll_check" alt="" coords="215,208,327,235"/>
+<area shape="rect" id="node3" href="$boot__cl_8c.html#a5c6674e8b60ccaa9ef47fd6132f3728d" title="boot_define_charsets" alt="" coords="398,5,545,32"/>
+<area shape="rect" id="node5" href="$utility_8h.html#a0f160d202cdff3013fc660fe3c294583" title="synccoll_force" alt="" coords="418,56,525,83"/>
+<area shape="rect" id="node7" href="$boot__cl_8c.html#a131780da3b05f5e039e4501df425c2ab" title="boot_define_collations" alt="" coords="396,107,547,133"/>
+<area shape="rect" id="node6" href="$utility_8h.html#ad55803d773ac72495cf1ea3b37e4fb43" title="synccolldb" alt="" coords="595,132,679,159"/>
+<area shape="rect" id="node9" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="418,157,525,184"/>
+</map>

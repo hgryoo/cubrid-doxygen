@@ -1,0 +1,12 @@
+<map id="log_system_tdes::destroy_system_transactions" name="log_system_tdes::destroy_system_transactions">
+<area shape="rect" id="node2" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="260,183,331,209"/>
+<area shape="rect" id="node10" href="$classlog__system__tdes.html#a7623907e4bdbfea3a6b04f5e11e9a9aa" title="log_system_tdes::rv\l_final" alt="" coords="225,281,365,322"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="417,5,583,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="635,81,785,108"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="413,107,587,133"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="433,157,567,184"/>
+<area shape="rect" id="node7" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="435,208,565,235"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="639,335,781,361"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="420,259,580,285"/>
+<area shape="rect" id="node11" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="452,360,548,387"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pruningset_add" name="pruningset_add">
+<area shape="rect" id="node2" href="$partition_8c.html#a5f7bf877902a15bd50cb57375ae35786" title="partition_prune_hash" alt="" coords="166,5,309,32"/>
+<area shape="rect" id="node4" href="$partition_8c.html#a022aa19b4bd957ad65d257a4e83c3bbb" title="partition_prune_list" alt="" coords="172,56,303,83"/>
+<area shape="rect" id="node5" href="$partition_8c.html#a28c9e40167271fe220e4c39ba7011611" title="partition_prune_range" alt="" coords="164,107,311,133"/>
+<area shape="rect" id="node3" href="$partition_8c.html#a1987723550488402d1800ff2f5a860a9" title="partition_prune_db_val" alt="" coords="359,56,511,83"/>
+</map>

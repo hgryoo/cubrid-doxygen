@@ -1,0 +1,7 @@
+<map id="au_set_user_comment" name="au_set_user_comment">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#ab84e0c90c2a1d4489e0ff20b2245c72c" title="db_set_user_comment" alt="" coords="208,5,363,32"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#aa4d6f717b96d17522534c16c872d1034" title="do_alter_user" alt="" coords="235,56,335,83"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a4ca9f4f06ad7a4b72b201cfad249773b" title="do_create_user" alt="" coords="230,107,341,133"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="411,81,512,108"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="560,81,715,108"/>
+</map>

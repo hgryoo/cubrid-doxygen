@@ -1,0 +1,9 @@
+<map id="session_control_daemon_init" name="session_control_daemon_init">
+<area shape="rect" id="node2" href="$session_8c.html#a06dcecd0f3088510620d92365174af32" title="session_free_prepared\l_statement" alt="" coords="244,90,397,131"/>
+<area shape="rect" id="node6" href="$session_8h.html#af742b0724a42639c3a73412772f4a991" title="session_states_init" alt="" coords="253,188,388,215"/>
+<area shape="rect" id="node3" href="$session_8c.html#a2b7195f4d807a71e7290871accba1d81" title="session_state_uninit" alt="" coords="458,5,599,32"/>
+<area shape="rect" id="node4" href="$session_8h.html#a1eb0d56a9ae045a550e3fc5f951cc4ad" title="session_create_prepared\l_statement" alt="" coords="445,57,612,98"/>
+<area shape="rect" id="node5" href="$session_8h.html#abf878206de625fb32c5656cc01773b5f" title="session_delete_prepared\l_statement" alt="" coords="445,122,612,163"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="453,188,604,215"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="461,239,596,265"/>
+</map>

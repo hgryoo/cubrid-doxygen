@@ -1,0 +1,21 @@
+<map id="hl_lea_alloc" name="hl_lea_alloc">
+<area shape="rect" id="node2" href="$memory__alloc_8h.html#a4d50846166aa74ad4236a840d9ef9d01" title="db_private_alloc_debug" alt="" coords="299,31,458,57"/>
+<area shape="rect" id="node5" href="$quick__fit_8h.html#ac26b28329e1016d8e651739ac9782675" title="db_ws_alloc" alt="" coords="144,425,239,452"/>
+<area shape="rect" id="node3" href="$memory__alloc_8h.html#a0022f15db6f4420cdcfdeba7882fa46f" title="db_destroy_private_heap" alt="" coords="520,5,687,32"/>
+<area shape="rect" id="node4" href="$memory__alloc_8h.html#a18ef468fd65007892876ac24d21b34f5" title="db_private_alloc_external" alt="" coords="519,56,688,83"/>
+<area shape="rect" id="node6" href="$authenticate_8c.html#a194068aaef985fca05ff25c909069c32" title="collect_class_grants" alt="" coords="308,81,449,108"/>
+<area shape="rect" id="node7" href="$class__object_8h.html#ac212af57f72faf093806a4340c32fde4" title="classobj_alloc_threaded\l_array" alt="" coords="298,133,459,174"/>
+<area shape="rect" id="node8" href="$class__object_8c.html#aad32f0eb763edc69ed268f36d879ef67" title="classobj_make_constraint" alt="" coords="292,199,465,225"/>
+<area shape="rect" id="node9" href="$class__object_8c.html#ac49956d105982a505e4b8cd09845e6ee" title="classobj_make_class\l_constraint" alt="" coords="305,301,452,342"/>
+<area shape="rect" id="node10" href="$class__object_8h.html#adcdeb22925cf5227b08160c4791627cd" title="classobj_make_class\l_constraints" alt="" coords="530,418,677,459"/>
+<area shape="rect" id="node11" href="$class__object_8c.html#a4bf7fc9a432432078f14c36ac2dd2c10" title="classobj_cache_not\l_null_constraints" alt="" coords="535,271,672,313"/>
+<area shape="rect" id="node12" href="$class__object_8c.html#a89048143fe0278cdb56d05843086a99f" title="classobj_make_foreign\l_key_info" alt="" coords="301,418,456,459"/>
+<area shape="rect" id="node13" href="$class__object_8c.html#a29a1c3352bf17abbf07f92a8a2756dea" title="classobj_make_foreign\l_key_ref" alt="" coords="301,483,456,525"/>
+<area shape="rect" id="node14" href="$class__object_8c.html#a1a57f976576d019681d81f363d66dbec" title="classobj_make_index\l_prefix_info" alt="" coords="305,549,452,590"/>
+<area shape="rect" id="node15" href="$class__object_8c.html#af052a1567cc2d88efb138cdec35fb164" title="classobj_make_index\l_filter_pred_info" alt="" coords="305,614,452,655"/>
+<area shape="rect" id="node16" href="$class__object_8h.html#a991a579ac8c711707f24dae5492e5887" title="classobj_make_attribute" alt="" coords="297,680,460,707"/>
+<area shape="rect" id="node17" href="$class__object_8h.html#aa2096b8b71af6d6afa6f8308fcba4ae9" title="classobj_copy_attribute" alt="" coords="299,731,458,757"/>
+<area shape="rect" id="node18" href="$class__object_8h.html#a1569258b1ceb556f6256a78560b13afd" title="classobj_make_method_arg" alt="" coords="287,781,471,808"/>
+<area shape="rect" id="node19" href="$class__object_8h.html#ad842331cea8b43652a5890d7295879d2" title="classobj_make_method\l_signature" alt="" coords="299,833,458,874"/>
+<area shape="rect" id="node20" href="$class__object_8h.html#a9fce323be7fcf2d79ab24e5687eae8ea" title="classobj_make_method" alt="" coords="299,899,458,925"/>
+</map>

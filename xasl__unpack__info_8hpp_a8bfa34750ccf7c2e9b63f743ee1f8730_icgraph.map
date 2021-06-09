@@ -1,0 +1,16 @@
+<map id="free_unpack_extra_buff" name="free_unpack_extra_buff">
+<area shape="rect" id="node2" href="$xasl__unpack__info_8hpp.html#a471cc0d27083bd7f81e0791d70d99eb8" title="free_xasl_unpack_info" alt="" coords="212,325,364,352"/>
+<area shape="rect" id="node3" href="$filter__pred__cache_8c.html#a4e76ce540cc2357ab89bb0b83fc7f4bb" title="fpcache_entry_uninit" alt="" coords="441,5,584,32"/>
+<area shape="rect" id="node4" href="$filter__pred__cache_8h.html#a2241455f1526c33a661281c4914d03a9" title="fpcache_retire" alt="" coords="461,56,565,83"/>
+<area shape="rect" id="node5" href="$partition_8c.html#acbfd434c339aefb616078bd81774e316" title="partition_free_partition\l_predicate" alt="" coords="437,107,588,149"/>
+<area shape="rect" id="node6" href="$query__manager_8c.html#ab406973856e1d1e95ebbc7bd111f9d19" title="qmgr_process_query" alt="" coords="661,199,804,225"/>
+<area shape="rect" id="node7" href="$stream__to__xasl_8h.html#a1e009ff83cf6ab2cf7c99c5992ea5b03" title="stx_map_stream_to_xasl" alt="" coords="429,173,597,200"/>
+<area shape="rect" id="node8" href="$stream__to__xasl_8h.html#aa07017154b997c206d29aea35a667c11" title="stx_map_stream_to_filter_pred" alt="" coords="412,325,613,352"/>
+<area shape="rect" id="node9" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="669,321,796,348"/>
+<area shape="rect" id="node10" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="667,373,798,414"/>
+<area shape="rect" id="node11" href="$stream__to__xasl_8h.html#ab9526b9316b40723d47802a918975284" title="stx_map_stream_to_func_pred" alt="" coords="412,427,613,453"/>
+<area shape="rect" id="node12" href="$heap__file_8c.html#af40ef1310c09076dc7e3d3e718ff4523" title="heap_eval_function\l_index" alt="" coords="665,455,800,497"/>
+<area shape="rect" id="node13" href="$xasl__cache_8c.html#a4d70bee71593e44f2e74272dc2695ce6" title="xcache_clone_decache" alt="" coords="433,528,592,555"/>
+<area shape="rect" id="node14" href="$xasl__cache_8h.html#ac6dc1de3e66ac45c874a8da614b59f57" title="xcache_retire_clone" alt="" coords="663,543,802,569"/>
+<area shape="rect" id="node15" href="$heap__file_8h.html#ac42581a76af021af03bd7c240994cbf9" title="heap_free_func_pred\l_unpack_info" alt="" coords="441,630,584,671"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="heap_init_get_context" name="heap_init_get_context">
+<area shape="rect" id="node2" href="$heap__file_8h.html#aa17da3e575f78213685cce32a949fe81" title="heap_get_class_record" alt="" coords="209,371,365,397"/>
+<area shape="rect" id="node14" href="$heap__file_8h.html#a9285a74871d3f15b4f39f8271fbb1b60" title="heap_get_visible_version" alt="" coords="203,476,371,503"/>
+<area shape="rect" id="node15" href="$heap__file_8h.html#a96f4018608e06d9fbcb45b57129220b0" title="heap_scan_get_visible\l_version" alt="" coords="209,527,364,569"/>
+<area shape="rect" id="node16" href="$locator__sr_8h.html#a891018ca0e900f206c7635aa258af74b" title="locator_attribute_info\l_force" alt="" coords="449,695,591,737"/>
+<area shape="rect" id="node17" href="$locator__sr_8h.html#acc9618d1ce7c02e3c71da55d87ec0e73" title="locator_get_object" alt="" coords="223,644,351,671"/>
+<area shape="rect" id="node18" href="$locator__sr_8h.html#a81af42e98a4945c9cbad21a25d238739" title="locator_lock_and_get\l_object" alt="" coords="214,695,359,737"/>
+<area shape="rect" id="node19" href="$locator__sr_8h.html#aec26f2360b0f83e93b04cb302b147cb3" title="locator_lock_and_get\l_object_with_evaluation" alt="" coords="206,761,367,802"/>
+<area shape="rect" id="node20" href="$compactdb_8c.html#ac3550275da0ece573ec0e0f5e72bac55" title="update_indexes" alt="" coords="230,827,343,853"/>
+<area shape="rect" id="node3" href="$object__representation__sr_8c.html#a6b11590f3c92f2ad1eabdd82805b2db6" title="or_get_hierarchy_helper" alt="" coords="440,5,600,32"/>
+<area shape="rect" id="node4" href="$connection__support_8c.html#a4607a34769cb1dd1ea0dd768ab4e840d" title="css_make_access_status\l_exist_user" alt="" coords="433,57,607,98"/>
+<area shape="rect" id="node5" href="$classcubload_1_1server__class__installer.html#a86cf1201180014331d1d9c05bf624883" title="cubload::server_class\l_installer::register\l_class_with_attributes" alt="" coords="444,121,596,177"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#ab1ab7fb8555267660219331c3222374a" title="qexec_execute_build\l_indexes" alt="" coords="448,201,592,242"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#a998c396115e8ea0fbe3b5f5188901bad" title="qexec_execute_build\l_columns" alt="" coords="448,266,592,307"/>
+<area shape="rect" id="node8" href="$serial_8c.html#a53bcdc51c412d9f8688cb18b11a45bcf" title="serial_load_attribute\l_info_of_db_serial" alt="" coords="451,331,589,373"/>
+<area shape="rect" id="node9" href="$btree_8c.html#a89e8bcbff868d116aff1bf9d349dcaca" title="btree_scan_for_show\l_index_header" alt="" coords="447,397,593,438"/>
+<area shape="rect" id="node10" href="$boot__sr_8c.html#a9adaf98f87a60f6b3d1411c1976df4ec" title="catcls_compile_catalog\l_classes" alt="" coords="441,462,599,503"/>
+<area shape="rect" id="node11" href="$boot__sr_8c.html#ac5db54613797691755b7065620cdd8bd" title="catcls_get_server_compat_info" alt="" coords="419,528,621,555"/>
+<area shape="rect" id="node12" href="$boot__sr_8c.html#ac583d2461969caba1e703a428f34acf1" title="catcls_get_db_collation" alt="" coords="441,579,599,605"/>
+<area shape="rect" id="node13" href="$catalog__class_8c.html#ae5a7d7ee65169187ff2edadd52509381" title="catcls_get_apply_info\l_log_record_time" alt="" coords="446,630,594,671"/>
+</map>

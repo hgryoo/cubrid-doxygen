@@ -1,0 +1,5 @@
+<map id="lock_unlock_all_shared_get_all_exclusive" name="lock_unlock_all_shared_get_all_exclusive">
+<area shape="rect" id="node2" href="$log__2pc_8c.html#aebefafb4bf85d99cc7b2f737f120725e" title="log_2pc_commit_first\l_phase" alt="" coords="211,5,357,47"/>
+<area shape="rect" id="node4" href="$log__2pc_8h.html#a6ae2e71f9ebb8789390c01087bb8e947" title="log_2pc_prepare_global_tran" alt="" coords="571,45,757,71"/>
+<area shape="rect" id="node3" href="$log__2pc_8h.html#a401f2de61a2ae044dc3c206240f812b0" title="log_2pc_commit" alt="" coords="405,17,523,43"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="ws_dirty" name="ws_dirty">
+<area shape="rect" id="node2" href="$locator__cl_8h.html#a162cc8c5c073ef8db7db3d789a6a447b" title="locator_add_class" alt="" coords="148,5,275,32"/>
+<area shape="rect" id="node4" href="$locator__cl_8h.html#a4b6c7387864e64b6864b9c73b5ccdbb5" title="locator_add_instance" alt="" coords="349,111,494,137"/>
+<area shape="rect" id="node5" href="$locator__cl_8h.html#a913d82589353ffbe520b7c01f8665cf0" title="locator_add_root" alt="" coords="152,107,271,133"/>
+<area shape="rect" id="node6" href="$locator__cl_8h.html#a735917dbd677abc3245f3509f7d09568" title="locator_create_heap\l_if_needed" alt="" coords="142,158,281,199"/>
+<area shape="rect" id="node7" href="$locator__cl_8c.html#add8686313a6b5488a8a2c79ed9670bc5" title="locator_mflush_set\l_dirty" alt="" coords="145,223,277,265"/>
+<area shape="rect" id="node9" href="$locator__cl_8h.html#a9b9db6b5afc03d88c66322c4162d652e" title="locator_prepare_rename\l_class" alt="" coords="131,289,292,330"/>
+<area shape="rect" id="node10" href="$locator__cl_8h.html#a8b5908d96abd8f8b5384e9d4e597a309" title="locator_remove_class" alt="" coords="347,628,496,655"/>
+<area shape="rect" id="node11" href="$locator__cl_8h.html#abc52df4c2012c5d987b1692105d79731" title="locator_update_class" alt="" coords="139,405,284,432"/>
+<area shape="rect" id="node12" href="$locator__cl_8h.html#af940800757ae4fd3287705b64d149f94" title="locator_update_instance" alt="" coords="130,456,293,483"/>
+<area shape="rect" id="node13" href="$object__template_8c.html#ab1a49f2b7b043063d70b8f50111e7e9f" title="obt_apply_assignments" alt="" coords="132,507,291,533"/>
+<area shape="rect" id="node14" href="$schema__manager_8h.html#afee992faddb9617993784f8f7763129e" title="sm_force_write_all\l_classes" alt="" coords="146,558,277,599"/>
+<area shape="rect" id="node15" href="$schema__manager_8c.html#a74a7b74c0b75fb805a8392f15887cea6" title="sm_truncate_using_delete" alt="" coords="124,624,299,651"/>
+<area shape="rect" id="node16" href="$schema__template_8h.html#a93573b56585aa364a9823afddf213204" title="smt_change_query_spec" alt="" coords="128,675,295,701"/>
+<area shape="rect" id="node17" href="$trigger__manager_8h.html#a59f430d45a56d62b7da95312a3fc072b" title="tr_get_class_name" alt="" coords="145,725,277,752"/>
+<area shape="rect" id="node18" href="$virtual__object_8h.html#afa9fe049dde718b4eb0a04fdae0e0b71" title="vid_att_in_obj_id" alt="" coords="152,800,271,827"/>
+<area shape="rect" id="node19" href="$virtual__object_8h.html#a987cc077d1aed3146651c8b5e72c5173" title="vid_fetch_instance" alt="" coords="146,851,277,877"/>
+<area shape="rect" id="node20" href="$work__space_8h.html#a1647a55ce7d691bcc3d1095183705d02" title="ws_mark_deleted" alt="" coords="149,901,273,928"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#af5d108d7bc0dbdecea7edd27580dbfe0" title="update_class" alt="" coords="372,5,471,32"/>
+<area shape="rect" id="node8" href="$locator__cl_8c.html#a7fe161cb0660d92c116f57e01ba02086" title="locator_mflush_force" alt="" coords="350,231,493,257"/>
+</map>

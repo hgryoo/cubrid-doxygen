@@ -1,0 +1,5 @@
+<map id="hb_create_master_reader" name="hb_create_master_reader">
+<area shape="rect" id="node2" href="$heartbeat_8h.html#a7f2564c7af0ae10ccc4f711805a71df9" title="hb_process_init" alt="" coords="223,31,336,57"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a420bc9b6c5022fb8468f60f634bd2ac0" title="copylogdb" alt="" coords="385,5,467,32"/>
+<area shape="rect" id="node4" href="$utility_8h.html#aa7a280251cdf100c28e06298f181b584" title="applylogdb" alt="" coords="384,56,468,83"/>
+</map>

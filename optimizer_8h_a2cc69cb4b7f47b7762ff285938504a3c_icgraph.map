@@ -1,0 +1,9 @@
+<map id="qo_find_subplan_using_multi_range_opt" name="qo_find_subplan_using_multi_range_opt">
+<area shape="rect" id="node2" href="$xasl__generation_8c.html#ad38aefda4cfaadd7775a76a357376ea4" title="pt_ordbynum_to_key\l_limit_multiple_ranges" alt="" coords="214,53,365,94"/>
+<area shape="rect" id="node5" href="$plan__generation_8c.html#a07d00d765f762ea2c4d93bddb9562deb" title="qo_check_join_for_multi\l_range_opt" alt="" coords="208,118,371,159"/>
+<area shape="rect" id="node7" href="$query__planner_8c.html#a3acad1d3a3cf5722a879c152c0530721" title="qo_multi_range_opt\l_plans_cmp" alt="" coords="222,183,357,225"/>
+<area shape="rect" id="node3" href="$xasl__generation_8c.html#ab1a51869aa06f95a76d04529f2bdc244" title="pt_to_buildvalue_proc" alt="" coords="428,5,576,32"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#a74b1669de444554474a8dd16f05cd589" title="pt_set_limit_optimization\l_flags" alt="" coords="419,57,585,98"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a2e536d726c8f7999dbd9cca454a3ba87" title="qo_join_new" alt="" coords="455,125,549,152"/>
+<area shape="rect" id="node8" href="$query__planner_8c.html#a339ec9f3a7428a9562981e87be076b93" title="qo_plan_cmp" alt="" coords="453,191,551,217"/>
+</map>

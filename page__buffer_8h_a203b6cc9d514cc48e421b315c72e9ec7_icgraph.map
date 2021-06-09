@@ -1,0 +1,9 @@
+<map id="pgbuf_flush" name="pgbuf_flush">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a0de0cdac61f83db678921e1d7efde449" title="disk_set_checkpoint" alt="" coords="143,31,285,57"/>
+<area shape="rect" id="node5" href="$disk__manager_8h.html#a38360128ad8b10ad2b681ca334f6c369" title="disk_set_creation" alt="" coords="152,81,276,108"/>
+<area shape="rect" id="node6" href="$disk__manager_8h.html#a2bab7d4af00d351387c2eb202700d58d" title="disk_set_link" alt="" coords="165,132,263,159"/>
+<area shape="rect" id="node7" href="$disk__manager_8c.html#ad67cba5035ba371ef155b71183c0431e" title="disk_stab_init" alt="" coords="163,183,265,209"/>
+<area shape="rect" id="node8" href="$page__buffer_8h.html#aa3ff43fa56474666ebd3a16b6f7335c8" title="pgbuf_rv_flush_page" alt="" coords="143,233,285,260"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#af2f4679f1d456bc7b4eeb8aa5996c61a" title="logpb_backup_for_volume" alt="" coords="333,5,507,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="359,56,481,83"/>
+</map>

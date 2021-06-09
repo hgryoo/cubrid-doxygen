@@ -1,0 +1,6 @@
+<map id="resultset_meta_impl_s" name="resultset_meta_impl_s">
+<area shape="rect" id="node2" href="$structresultset__impl__s.html" title="{resultset_impl_s\n|+ COMMON_RESULTSET_HEADER\l+ updatable\l+ conn\l+ req_handle\l+ err_buf\l+ arg\l+ on_close\l+ offset\l+ fetched\l+ got_rm_handle\l+ rm_handle\l+ num_col\l+ cmd_type\l+ col_info\l|}" alt="" coords="191,292,438,560"/>
+<area shape="rect" id="node3" href="$structvalue__indexer__s.html" title="{value_indexer_s\n||}" alt="" coords="257,79,373,156"/>
+<area shape="rect" id="node4" href="$structcommon__api__structure__s.html" title="{common_api_structure_s\n|+ COMMON_API_STRUCTURE\l_HEADER\l|}" alt="" coords="397,71,613,163"/>
+<area shape="rect" id="node5" href="$structbh__interface__s.html" title="{bh_interface_s\n|+ alloc_handle\l+ destroy_handle\l+ lookup\l+ bind_to_handle\l+ bind_get_parent\l+ bind_prune\l+ bind_graft\l+ bind_get_first_child\l+ bind_get_next_sibling\l+ bind_map\l+ destroy\l|}" alt="" coords="638,5,797,229"/>
+</map>

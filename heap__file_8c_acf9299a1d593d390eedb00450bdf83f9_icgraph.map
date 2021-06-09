@@ -1,0 +1,10 @@
+<map id="heap_attrinfo_start_with_index" name="heap_attrinfo_start_with_index">
+<area shape="rect" id="node2" href="$locator__sr_8c.html#ab82d600b3f62b5b63fd9b3fd864e7031" title="locator_add_or_remove\l_index_internal" alt="" coords="194,37,351,79"/>
+<area shape="rect" id="node5" href="$locator__sr_8h.html#a26707b0ac2e1a0704daa241c70d102bd" title="locator_check_class" alt="" coords="202,103,343,130"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#ae6813da76ea952fcffc0263b60099e8b" title="locator_check_foreign_key" alt="" coords="184,154,361,181"/>
+<area shape="rect" id="node7" href="$locator__sr_8h.html#a4955d5ba9c9a9197d618e2929d3dcee1" title="locator_update_index" alt="" coords="200,205,345,231"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="198,255,347,282"/>
+<area shape="rect" id="node9" href="$locator__sr_8c.html#a5a8be2c3d205f8655213ffae6565e1d8" title="xlocator_remove_class\l_from_index" alt="" coords="195,307,351,348"/>
+<area shape="rect" id="node3" href="$locator__sr_8h.html#afe55f9919586958fc38850417b11a3e4" title="locator_add_or_remove\l_index" alt="" coords="409,5,567,47"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#aabd8e9c880d84f17ac62e7a9e6615684" title="locator_add_or_remove\l_index_for_moving" alt="" coords="409,71,567,112"/>
+</map>

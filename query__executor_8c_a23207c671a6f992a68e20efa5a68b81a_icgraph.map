@@ -1,0 +1,7 @@
+<map id="qexec_generate_tuple_descriptor" name="qexec_generate_tuple_descriptor">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a124dfc1f7fe85f3de4683346c32e666b" title="qexec_end_buildvalueblock\l_iterations" alt="" coords="203,5,384,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#ab586cfb0848f940d47ca7f4c2fbb8708" title="qexec_end_one_iteration" alt="" coords="210,71,377,98"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#ace4cbe7f3418a09d43ee9ad479be8e06" title="qexec_gby_finalize\l_group" alt="" coords="227,123,360,164"/>
+<area shape="rect" id="node6" href="$query__executor_8h.html#a2be66313ab0041341af58712bbfd2aad" title="qexec_insert_tuple\l_into_list" alt="" coords="228,188,359,229"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a425bc11259dd76219569ccff1917b387" title="qexec_end_mainblock\l_iterations" alt="" coords="432,5,583,47"/>
+</map>

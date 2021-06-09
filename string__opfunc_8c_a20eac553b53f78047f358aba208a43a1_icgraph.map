@@ -1,0 +1,5 @@
+<map id="db_string_prefix_compare" name="db_string_prefix_compare">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#aeecf424ab8d6e1b981aa7664954c5843" title="db_string_unique_prefix" alt="" coords="224,31,383,57"/>
+<area shape="rect" id="node3" href="$string__opfunc_8h.html#ac3ffef8e5b26f9eb37244803008304fc" title="db_string_index_prefix" alt="" coords="443,5,595,32"/>
+<area shape="rect" id="node4" href="$btree__load_8h.html#af2b56ad2e72abc00bcbb9d98a4cef2d4" title="btree_get_prefix_separator" alt="" coords="431,56,607,83"/>
+</map>

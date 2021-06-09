@@ -1,0 +1,10 @@
+<map id="css_net_send_with_socket" name="css_net_send_with_socket">
+<area shape="rect" id="node2" href="$connection__support_8h.html#a8e24310d789af2b3e4b6f9d220955985" title="css_net_send" alt="" coords="261,123,364,149"/>
+<area shape="rect" id="node7" href="$connection__support_8h.html#a31253b3ce4ad79a0e1da6ca0f72e54aa" title="css_send_magic_with\l_socket" alt="" coords="237,215,388,257"/>
+<area shape="rect" id="node9" href="$connection__support_8h.html#a554aafd262166a90823950cbba347451" title="css_send_request_with\l_socket" alt="" coords="233,281,392,322"/>
+<area shape="rect" id="node3" href="$connection__sr_8c.html#aae5447c0fba119e5246a18c9138f939e" title="css_abort_request" alt="" coords="459,5,588,32"/>
+<area shape="rect" id="node4" href="$heartbeat_8c.html#a243855ba97faaf9001fe4061d0fa8ad2" title="css_connect_to_master\l_server" alt="" coords="443,57,604,98"/>
+<area shape="rect" id="node5" href="$connection__cl_8h.html#abea1c955db678fb1a504a7270295ec52" title="css_send_close_request" alt="" coords="440,123,607,149"/>
+<area shape="rect" id="node6" href="$connection__support_8h.html#a22a063da64db5362b79f59b31c9b6cfe" title="css_send_request_with\l_data_buffer" alt="" coords="444,198,603,239"/>
+<area shape="rect" id="node8" href="$connection__support_8h.html#ac7d803cd78aef2ae2ddd690ed49dcdbd" title="css_send_magic" alt="" coords="463,264,583,291"/>
+</map>

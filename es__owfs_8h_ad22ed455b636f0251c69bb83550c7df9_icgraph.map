@@ -1,0 +1,7 @@
+<map id="es_owfs_delete_file" name="es_owfs_delete_file">
+<area shape="rect" id="node2" href="$es_8h.html#a85daafaae7e65285fdc167f61d47fb41" title="es_delete_file" alt="" coords="191,81,293,108"/>
+<area shape="rect" id="node3" href="$elo_8h.html#af406eb24867177d9a708ef216ed2221b" title="elo_copy" alt="" coords="377,5,451,32"/>
+<area shape="rect" id="node4" href="$elo_8h.html#a0249443f6e32df5b6e29768e6ca534c2" title="elo_delete" alt="" coords="373,56,455,83"/>
+<area shape="rect" id="node5" href="$transaction__transient_8hpp.html#a4b245c24099b14761db5dc475bc45754" title="tx_lob_locator_clear" alt="" coords="345,107,483,133"/>
+<area shape="rect" id="node6" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="341,158,487,199"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="lang_set_language" name="lang_set_language">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="187,56,316,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="184,165,319,192"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a77bd95c7f71d0f419d0f69a3090c4836" title="conn_restart_client" alt="" coords="372,5,504,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a4f475937ff6abf40ab472a149d37ae11" title="db_restart" alt="" coords="398,56,478,83"/>
+<area shape="rect" id="node6" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="380,107,496,133"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="373,158,503,199"/>
+<area shape="rect" id="node8" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="367,224,509,251"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="393,299,483,325"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="cubmonitor::primitive&lt; Rep &gt;" name="cubmonitor::primitive&lt; Rep &gt;">
+<area shape="rect" id="node2" href="$classcubmonitor_1_1accumulator__statistic.html" title="{cubmonitor::accumulator\l_statistic\&lt; Rep \&gt;\n||+ collect()\l}" alt="" coords="5,248,171,340"/>
+<area shape="rect" id="node3" href="$classcubmonitor_1_1gauge__statistic.html" title="{cubmonitor::gauge_statistic\l\&lt; Rep \&gt;\n||+ collect()\l}" alt="" coords="195,248,378,340"/>
+<area shape="rect" id="node4" href="$classcubmonitor_1_1max__statistic.html" title="{cubmonitor::max_statistic\l\&lt; Rep \&gt;\n||+ max_statistic()\l+ collect()\l+ max_statistic()\l+ max_statistic()\l+ max_statistic()\l}" alt="" coords="402,219,574,369"/>
+<area shape="rect" id="node5" href="$classcubmonitor_1_1min__statistic.html" title="{cubmonitor::min_statistic\l\&lt; Rep \&gt;\n||+ min_statistic()\l+ collect()\l+ min_statistic()\l+ min_statistic()\l+ min_statistic()\l}" alt="" coords="599,219,767,369"/>
+</map>

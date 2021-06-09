@@ -1,0 +1,8 @@
+<map id="pgbuf_get_hold_count" name="pgbuf_get_hold_count">
+<area shape="rect" id="node2" href="$vacuum_8c.html#a09f732d9259ab78d7d130fe6fd95af43" title="vacuum_verify_vacuum\l_data_page_fix_count" alt="" coords="203,115,363,156"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a503bfb46b513078cca18c570df9907a6" title="vacuum_consume_buffer\l_log_blocks" alt="" coords="421,5,589,47"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#a2cb21fa7816f2d0a4cf699cae9e7fd7b" title="vacuum_data_load_and\l_recover" alt="" coords="647,119,805,160"/>
+<area shape="rect" id="node5" href="$vacuum_8c.html#a036c930ecf40c2682d2cde7418589c5b" title="vacuum_data_mark_finished" alt="" coords="411,122,599,149"/>
+<area shape="rect" id="node6" href="$vacuum_8c.html#a25daab97104455e9fa805fc81e61e92f" title="vacuum_data_unload\l_first_and_last_page" alt="" coords="432,173,577,215"/>
+<area shape="rect" id="node7" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="467,239,542,266"/>
+</map>

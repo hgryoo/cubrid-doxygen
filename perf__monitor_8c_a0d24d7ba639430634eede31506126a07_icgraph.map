@@ -1,0 +1,13 @@
+<map id="perfmon_stat_cond_type_name" name="perfmon_stat_cond_type_name">
+<area shape="rect" id="node2" href="$perf__monitor_8c.html#accfaf050c009fa819998704846615cf2" title="perfmon_stat_dump_in\l_buffer_fix_page_array_stat" alt="" coords="257,71,440,112"/>
+<area shape="rect" id="node5" href="$perf__monitor_8c.html#a9e5aa7c062da114e9f72a04d2b29962a" title="perfmon_stat_dump_in\l_buffer_page_lock_time\l_array_stat" alt="" coords="269,198,429,254"/>
+<area shape="rect" id="node8" href="$perf__monitor_8c.html#a5931fdbab6e3cac61544c0887f4aec35" title="perfmon_stat_dump_in\l_file_fix_page_array_stat" alt="" coords="265,277,432,319"/>
+<area shape="rect" id="node10" href="$perf__monitor_8c.html#a631fe0a88d7fe9a476392596f04d91c5" title="perfmon_stat_dump_in\l_file_page_lock_time\l_array_stat" alt="" coords="271,342,426,398"/>
+<area shape="rect" id="node3" href="$perf__monitor_8c.html#ac0bda4d14a8d9b1dcefbe5fb7f77d737" title="f_dump_in_buffer_Num\l_data_page_fix_ext" alt="" coords="510,5,667,47"/>
+<area shape="rect" id="node4" href="$perf__monitor_8c.html#a7fa1b68108a5328709c3a5ff02ad0f56" title="f_dump_in_buffer_Num\l_dwb_flushed_block_volumes" alt="" coords="491,71,687,112"/>
+<area shape="rect" id="node6" href="$perf__monitor_8c.html#a903b406deb618cd6213a9981f35aaf4a" title="perfmon_stat_dump_in\l_buffer_page_fix_time\l_array_stat" alt="" coords="511,135,666,191"/>
+<area shape="rect" id="node7" href="$perf__monitor_8c.html#a8c0f00c943a5dd726a2e814840c882b2" title="f_dump_in_buffer_Time\l_data_page_lock_acquire_time" alt="" coords="488,215,689,256"/>
+<area shape="rect" id="node9" href="$perf__monitor_8c.html#a97437ced489f2d4f25db94006f0a62fd" title="f_dump_in_file_Num\l_data_page_fix_ext" alt="" coords="518,280,659,321"/>
+<area shape="rect" id="node11" href="$perf__monitor_8c.html#a376e3409459bfeac3202c8de0fc3a9a8" title="perfmon_stat_dump_in\l_file_page_fix_time_array_stat" alt="" coords="489,347,688,388"/>
+<area shape="rect" id="node12" href="$perf__monitor_8c.html#ad36e56d24a65617e6be09dd037252ac6" title="f_dump_in_file_Time\l_data_page_lock_acquire_time" alt="" coords="488,412,689,453"/>
+</map>

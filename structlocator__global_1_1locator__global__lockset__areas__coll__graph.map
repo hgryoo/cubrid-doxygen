@@ -1,0 +1,5 @@
+<map id="locator_global::locator_global_lockset_areas" name="locator_global::locator_global_lockset_areas">
+<area shape="rect" id="node2" href="$structlc__lock__set.html" title="{lc_lock_set\n|+ mem\l+ length\l+ max_reqobjs\l+ num_reqobjs\l+ num_reqobjs_processed\l+ last_reqobj_cached\l+ reqobj_inst_lock\l+ reqobj_class_lock\l+ num_classes_of_reqobjs\l+ num_classes_of_reqobjs\l_processed\l+ last_classof_reqobjs\l_cached\l+ quit_on_errors\l+ packed_size\l+ packed\l+ first_fetch_lockset_call\l|}" alt="" coords="56,160,235,472"/>
+<area shape="rect" id="node3" href="$structlc__lockset__classof.html" title="{lc_lockset_classof\n|+ chn\l|}" alt="" coords="5,13,136,90"/>
+<area shape="rect" id="node4" href="$structlc__lockset__reqobj.html" title="{lc_lockset_reqobj\n|+ chn\l+ class_index\l|}" alt="" coords="160,5,283,97"/>
+</map>

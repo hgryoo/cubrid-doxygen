@@ -1,0 +1,9 @@
+<map id="db_alloc_query_result" name="db_alloc_query_result">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a8326e216f443ded93864d14723424447" title="db_execute_oid" alt="" coords="232,5,345,32"/>
+<area shape="rect" id="node3" href="$db__query_8h.html#a3790ae04379d44ed6025ae450d4d0cc6" title="db_get_db_value_query\l_result" alt="" coords="209,57,368,98"/>
+<area shape="rect" id="node6" href="$query__result_8c.html#a2f980da9427324d6653e4b34af8d2f2d" title="db_object_fetch" alt="" coords="231,123,346,149"/>
+<area shape="rect" id="node7" href="$query__result_8c.html#aff8215a28654259eb7a616235ff5ef4a" title="pt_make_cache_hit_result\l_descriptor" alt="" coords="201,174,376,215"/>
+<area shape="rect" id="node8" href="$query__result_8c.html#a8a976c0a0dd712e230283eeefcb6e2d8" title="pt_new_query_result\l_descriptor" alt="" coords="217,239,360,281"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="424,174,576,215"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#a251d8527b2af365292ad24dd8dd4cac1" title="uci_static" alt="" coords="461,64,539,91"/>
+</map>

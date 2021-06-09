@@ -1,0 +1,20 @@
+<map id="db_domain_class" name="db_domain_class">
+<area shape="rect" id="node2" href="$unload__schema_8c.html#aab05d79a660eea4a58a787cf8855916e" title="check_domain_dependencies" alt="" coords="179,31,373,57"/>
+<area shape="rect" id="node4" href="$unload__object_8c.html#aa45b8847bcf578c36b866a2ac1ba6962" title="check_referenced_domain" alt="" coords="189,107,363,133"/>
+<area shape="rect" id="node7" href="$compactdb__cl_8c.html#adcae64b9a86ed617b273a0f391362efc" title="class_referenced_by\l_domain" alt="" coords="205,158,347,199"/>
+<area shape="rect" id="node9" href="$unload__schema_8c.html#a93901a5a81ab83809e7fc4f575b24912" title="emit_domain_def" alt="" coords="215,224,337,251"/>
+<area shape="rect" id="node12" href="$cas__execute_8c.html#aeb3a878b45705e977994d0c23006f7c0" title="get_domain_str" alt="" coords="221,275,331,301"/>
+<area shape="rect" id="node14" href="$semantic__check_8c.html#a74be8f892e6e90ed5692941e03bf1843" title="pt_check_alter" alt="" coords="223,325,329,352"/>
+<area shape="rect" id="node16" href="$semantic__check_8c.html#a4546f0bea621480bbe409d5c6cdc6929" title="pt_check_drop" alt="" coords="223,376,329,403"/>
+<area shape="rect" id="node17" href="$parser_8h.html#a866f633e64741ea9c045cde4d6fabbbd" title="pt_domain_to_data_type" alt="" coords="194,451,358,477"/>
+<area shape="rect" id="node18" href="$semantic__check_8c.html#af12757b0fbf3db19385a417129423131" title="pt_get_attributes" alt="" coords="449,476,567,503"/>
+<area shape="rect" id="node19" href="$schema__manager_8h.html#a33cdf5d05999593bc49ec9d84581ef12" title="sm_get_descriptor_component" alt="" coords="176,552,376,579"/>
+<area shape="rect" id="node3" href="$unload__schema_8c.html#ab4ef3f2171a48db4936a846c7f100534" title="has_dependencies" alt="" coords="443,5,573,32"/>
+<area shape="rect" id="node5" href="$unload__object_8c.html#add43aa9922ac77c500778973b4592e86" title="mark_referenced_domain" alt="" coords="424,56,592,83"/>
+<area shape="rect" id="node6" href="$unloaddb_8h.html#a8f06d201be33ae14bcdaf8d8bfffb36f" title="extract_objects" alt="" coords="640,81,751,108"/>
+<area shape="rect" id="node8" href="$compactdb__cl_8c.html#afc247db48fac895b964b3c7d287d0786" title="class_referenced_by\l_attributes" alt="" coords="437,158,579,199"/>
+<area shape="rect" id="node10" href="$unload__schema_8c.html#a088cdc98b21b469dcbad882f4bd92c78" title="emit_attribute_def" alt="" coords="445,224,571,251"/>
+<area shape="rect" id="node11" href="$unload__schema_8c.html#adc3649b4c32252814131179664a37de8" title="emit_method_def" alt="" coords="447,275,569,301"/>
+<area shape="rect" id="node13" href="$cas__execute_8h.html#aeceb9405cb38d1ffd72b313fd9eefa8e" title="ux_get_attr_type_str" alt="" coords="437,325,579,352"/>
+<area shape="rect" id="node15" href="$semantic__check_8c.html#a037d720c8f15dd86df8710577a97dafa" title="pt_check_with_info" alt="" coords="441,376,575,403"/>
+</map>

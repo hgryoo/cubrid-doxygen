@@ -1,0 +1,7 @@
+<map id="file_tracker_init_page" name="file_tracker_init_page">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a4b16ba55fb43fdedc455c8a51c03e379" title="file_tracker_create" alt="" coords="202,5,331,32"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a76460db46414569db5eb3042cf269782" title="file_tracker_register\l_internal" alt="" coords="199,57,335,98"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="401,5,567,32"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a1868b1696a655e041369383dfa29e448" title="file_tracker_register" alt="" coords="416,60,552,87"/>
+<area shape="rect" id="node6" href="$file__manager_8h.html#a51fbe00714b6f6e4ae9a57c1e57a00ca" title="file_rv_tracker_unregister_undo" alt="" coords="383,111,585,137"/>
+</map>

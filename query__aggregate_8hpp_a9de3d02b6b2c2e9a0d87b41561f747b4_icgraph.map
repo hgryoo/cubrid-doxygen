@@ -1,0 +1,6 @@
+<map id="qdata_initialize_aggregate_list" name="qdata_initialize_aggregate_list">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a79636b13ad25c66d9f002d815f2d94b5" title="qexec_gby_start_group" alt="" coords="249,42,407,69"/>
+<area shape="rect" id="node5" href="$query__executor_8h.html#a7d0bca1e8254f25b16a026620d4ebdab" title="qexec_start_mainblock\l_iterations" alt="" coords="250,93,406,135"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a4b5abc8dabcb7eede8ce44212697544a" title="qexec_gby_finalize\l_group_dim" alt="" coords="481,5,614,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a2d866e48ac38d8f46b57cdd87e9ae0b6" title="qexec_gby_start_group_dim" alt="" coords="455,71,640,98"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="src/connection/heartbeat.h" name="src/connection/heartbeat.h">
+<area shape="rect" id="node2" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="185,80,313,107"/>
+<area shape="rect" id="node3" href="$boot_8h.html" title="boot.h" alt="" coords="57,155,116,181"/>
+<area shape="rect" id="node4" href="$porting_8h.html" title="porting.h" alt="" coords="5,229,77,256"/>
+<area shape="rect" id="node6" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="191,155,307,181"/>
+<area shape="rect" id="node7" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="332,155,447,181"/>
+<area shape="rect" id="node8" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="369,229,503,256"/>
+</map>

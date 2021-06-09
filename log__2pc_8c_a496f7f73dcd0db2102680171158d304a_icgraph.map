@@ -1,0 +1,5 @@
+<map id="log_2pc_recovery_prepared" name="log_2pc_recovery_prepared">
+<area shape="rect" id="node2" href="$transaction__sr_8c.html#af17e851bb273df5f86d31dbbbe0a4fd6" title="xtran_server_2pc_recovery\l_prepared" alt="" coords="235,39,413,80"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a422096c3d54dd0922cf1690ffc02f2a9" title="tran_server_2pc_recovery\l_prepared" alt="" coords="465,5,637,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#aea3182b75093cfb7cb8cfdce3deecd6c" title="stran_server_2pc_recovery\l_prepared" alt="" coords="461,71,640,112"/>
+</map>

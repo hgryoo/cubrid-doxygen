@@ -1,0 +1,14 @@
+<map id="cubthread::daemon::wakeup" name="cubthread::daemon::wakeup">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#ad239ae8b08d1c10f627f2ada75eab28d" title="dwb_write_block" alt="" coords="223,64,342,91"/>
+<area shape="rect" id="node5" href="$log__manager_8c.html#af75c618a8808a3cbda88f71cc7026ee1" title="log_get_checkpoint\l_interval" alt="" coords="215,122,350,163"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#ad7d852d6547ead2335b5cc6ce6360ea0" title="log_wakeup_log_flush\l_daemon" alt="" coords="635,151,785,193"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#a6ebdf1006f6b5bb49a3fc4c4f8f75e31" title="pgbuf_bcb_flush_with_wal" alt="" coords="195,239,370,265"/>
+<area shape="rect" id="node9" href="$page__buffer_8c.html#a7014e631a37bc9e0f7136303cbc78ae6" title="pgbuf_wakeup_page_flush\l_daemon" alt="" coords="195,290,371,331"/>
+<area shape="rect" id="node10" href="$classcubthread_1_1daemon.html#aabc7a9900cdcd990c6db41c5d7fd65ed" title="cubthread::daemon::\lstop_execution" alt="" coords="212,355,353,397"/>
+<area shape="rect" id="node12" href="$vacuum_8c.html#ae66792b33521d74f515269ddc2e48672" title="vacuum_finished_block\l_vacuum" alt="" coords="203,421,362,462"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8c.html#a9990a5604abb5bdf77d643cd0023fe5b" title="dwb_flush_block" alt="" coords="443,5,562,32"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="425,57,580,98"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="419,122,587,163"/>
+<area shape="rect" id="node11" href="$classcubthread_1_1daemon.html#a9150892104917c6a3e1a608d74775770" title="cubthread::daemon::\l~daemon" alt="" coords="432,355,573,397"/>
+<area shape="rect" id="node13" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="430,421,575,462"/>
+</map>

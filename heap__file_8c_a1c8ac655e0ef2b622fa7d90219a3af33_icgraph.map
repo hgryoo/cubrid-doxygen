@@ -1,0 +1,5 @@
+<map id="heap_mvcc_log_insert" name="heap_mvcc_log_insert">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a233044a0039e3ea744a43d2c5a597e11" title="heap_log_insert_physical" alt="" coords="205,31,373,57"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#abdeca500518e856f5c4176f920385e52" title="heap_insert_logical" alt="" coords="431,5,564,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a7edbb4ad5b46dcfb8d7e5e37cd0be20b" title="heap_insert_newhome" alt="" coords="421,56,573,83"/>
+</map>

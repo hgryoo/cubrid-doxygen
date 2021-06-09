@@ -1,0 +1,10 @@
+<map id="src/xasl/xasl_aggregate.hpp" name="src/xasl/xasl_aggregate.hpp">
+<area shape="rect" id="node2" href="$xasl__generation_8c.html" title="src/parser/xasl_generation.c" alt="" coords="5,87,192,114"/>
+<area shape="rect" id="node3" href="$xasl__regu__alloc_8cpp.html" title="src/parser/xasl_regu\l_alloc.cpp" alt="" coords="217,80,357,121"/>
+<area shape="rect" id="node4" href="$query__aggregate_8cpp.html" title="src/query/query_aggregate.cpp" alt="" coords="381,87,582,114"/>
+<area shape="rect" id="node5" href="$query__dump_8c.html" title="src/query/query_dump.c" alt="" coords="607,87,769,114"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html" title="src/query/query_executor.c" alt="" coords="794,87,974,114"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html" title="src/query/query_opfunc.c" alt="" coords="998,87,1167,114"/>
+<area shape="rect" id="node8" href="$stream__to__xasl_8c.html" title="src/query/stream_to\l_xasl.c" alt="" coords="1192,80,1331,121"/>
+<area shape="rect" id="node9" href="$xasl__to__stream_8c.html" title="src/query/xasl_to_stream.c" alt="" coords="1355,87,1535,114"/>
+</map>

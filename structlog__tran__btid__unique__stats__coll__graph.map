@@ -1,0 +1,5 @@
+<map id="log_tran_btid_unique_stats" name="log_tran_btid_unique_stats">
+<area shape="rect" id="node2" href="$structlog__unique__stats.html" title="{log_unique_stats\n|+ num_nulls\l+ num_keys\l+ num_oids\l|}" alt="" coords="5,160,125,267"/>
+<area shape="rect" id="node3" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="149,175,251,252"/>
+<area shape="rect" id="node4" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="169,5,231,97"/>
+</map>

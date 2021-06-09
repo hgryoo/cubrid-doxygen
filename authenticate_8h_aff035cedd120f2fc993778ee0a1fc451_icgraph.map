@@ -1,0 +1,12 @@
+<map id="au_get_class_owner" name="au_get_class_owner">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a880c0f43d5e53b61b3bca980f523bbc4" title="au_export_grants" alt="" coords="210,5,333,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#a3253ce52d3423843d0b75eb9093b10ba" title="au_get_owner_method" alt="" coords="195,56,348,83"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a3b1158f68280c30e46300f083b1b3fd1" title="db_get_owner" alt="" coords="220,157,323,184"/>
+<area shape="rect" id="node10" href="$unload__schema_8c.html#a32495d9f0d9bce26977659c4b422c25d" title="emit_class_owner" alt="" coords="208,107,335,133"/>
+<area shape="rect" id="node11" href="$authenticate_8c.html#aa6d4e0780e283109d66ee48da074b8fd" title="get_grants" alt="" coords="230,208,313,235"/>
+<area shape="rect" id="node3" href="$unload__schema_8c.html#a7f79130b2669758e935be8a5b57261c1" title="emit_schema" alt="" coords="423,19,523,45"/>
+<area shape="rect" id="node6" href="$object__print_8h.html#a95675a68eac4e781b4a866caeefa8bca" title="help_class_names" alt="" coords="408,81,539,108"/>
+<area shape="rect" id="node7" href="$load__db_8c.html#acc6f6aa60b6b0b1f3ba005f825f5ad93" title="load_has_authorization" alt="" coords="396,132,551,159"/>
+<area shape="rect" id="node8" href="$view__transform_8c.html#a85a6baf509b2579b68e8324ace3b0398" title="mq_virtual_queries" alt="" coords="408,183,539,209"/>
+<area shape="rect" id="node9" href="$semantic__check_8c.html#ab91fa2f14173b33a59cab8354817238d" title="pt_check_user_owns\l_class" alt="" coords="401,234,546,275"/>
+</map>

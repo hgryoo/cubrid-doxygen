@@ -1,0 +1,7 @@
+<map id="tr_trigger_name" name="tr_trigger_name">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a04db64df1a63e62f370b0bbfa54523a4" title="db_trigger_name" alt="" coords="173,5,292,32"/>
+<area shape="rect" id="node4" href="$object__print_8h.html#aa4fe85135f2295eb8db6ec403c2b7529" title="help_trigger_names" alt="" coords="165,56,300,83"/>
+<area shape="rect" id="node3" href="$cas__execute_8c.html#acac59ef04e3708dfe197d92e9d809a00" title="fetch_trigger" alt="" coords="361,5,455,32"/>
+<area shape="rect" id="node5" href="$csql__session_8c.html#a8903b8da0f4ed2e6c14a392538e495e4" title="csql_help_trigger" alt="" coords="348,56,468,83"/>
+<area shape="rect" id="node6" href="$object__print_8h.html#a4a65ef5bd0fb5dd1001d243c1585dceb" title="help_print_info" alt="" coords="355,107,461,133"/>
+</map>

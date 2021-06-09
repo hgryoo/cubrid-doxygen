@@ -1,0 +1,4 @@
+<map id="partition_load_aggregate_helper" name="partition_load_aggregate_helper">
+<area shape="rect" id="node2" href="$query__executor_8c.html#aa4f8eb367446d125e493efce4bc8821c" title="qexec_init_agg_hierarchy\l_helpers" alt="" coords="216,5,385,47"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a0b88bf39ba83d9169bfb2598f5298dad" title="qexec_evaluate_partition\l_aggregates" alt="" coords="433,5,600,47"/>
+</map>

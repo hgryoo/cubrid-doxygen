@@ -1,0 +1,5 @@
+<map id="csql_db_value_as_string" name="csql_db_value_as_string">
+<area shape="rect" id="node2" href="$csql__result_8c.html#ac70f647b0432ede859345318f4a76098" title="get_current_result" alt="" coords="219,5,345,32"/>
+<area shape="rect" id="node4" href="$csql__result__format_8c.html#a0421a667c87ff13e8a9906649ad2b3e1" title="set_to_string" alt="" coords="233,56,331,83"/>
+<area shape="rect" id="node3" href="$csql__result_8c.html#ab899148bf45eb093098d685a989c6a11" title="write_results_to_stream" alt="" coords="393,5,555,32"/>
+</map>

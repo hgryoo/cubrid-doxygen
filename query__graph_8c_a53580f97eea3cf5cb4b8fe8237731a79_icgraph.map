@@ -1,0 +1,11 @@
+<map id="set_seg_expr" name="set_seg_expr">
+<area shape="rect" id="node2" href="$query__graph_8c.html#a842ff241576225d2b796281431749fab" title="qo_expr_segs" alt="" coords="153,187,256,213"/>
+<area shape="rect" id="node3" href="$query__graph_8c.html#ac57bd6227d641e05c775d2832532d6c1" title="add_local_subquery" alt="" coords="325,5,462,32"/>
+<area shape="rect" id="node4" href="$plan__generation_8c.html#a851ad3e58cae2b277cdf3f058e304cac" title="gen_outer" alt="" coords="354,56,433,83"/>
+<area shape="rect" id="node5" href="$query__graph_8c.html#afc42e758ffe34a24f0869c1f04c63099" title="get_local_subqueries_pre" alt="" coords="309,107,478,133"/>
+<area shape="rect" id="node6" href="$query__graph_8c.html#a4d322007ce6983e3472645dbca6b53ec" title="qo_analyze_term" alt="" coords="333,157,454,184"/>
+<area shape="rect" id="node7" href="$query__graph_8c.html#af77387ade8c3d4dc03055143fb4fd13b" title="qo_discover_sort_limit\l_nodes" alt="" coords="317,209,469,250"/>
+<area shape="rect" id="node8" href="$query__graph_8c.html#a36e513d9217f9a2e0c5d27f73f300a14" title="qo_optimize_helper" alt="" coords="539,260,674,287"/>
+<area shape="rect" id="node9" href="$query__planner_8c.html#ad9af783272db8860bd9f45aad8ce3f85" title="qo_search_isnull_key_expr" alt="" coords="304,325,483,352"/>
+<area shape="rect" id="node10" href="$query__planner_8c.html#a0875eef5c989efc80b0c19fa3fde1e0d" title="qo_validate_index_attr\l_notnull" alt="" coords="531,333,683,374"/>
+</map>

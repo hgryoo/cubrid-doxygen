@@ -1,0 +1,15 @@
+<map id="catalog_get_representation" name="catalog_get_representation">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a4aa1649ad60867f8884dc92d09ea41e9" title="catalog_dump" alt="" coords="263,7,366,33"/>
+<area shape="rect" id="node4" href="$system__catalog_8h.html#a100bcfca99e5727696649825edb96264" title="catalog_get_cardinality" alt="" coords="237,112,392,139"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#ab1ab7fb8555267660219331c3222374a" title="qexec_execute_build\l_indexes" alt="" coords="455,57,599,98"/>
+<area shape="rect" id="node7" href="$system__catalog_8h.html#a4ea20d720ec7634b5a5004ca53bad45e" title="catalog_update" alt="" coords="259,163,370,189"/>
+<area shape="rect" id="node8" href="$catalog__class_8c.html#a6db0ad4e24330b8d91989fcb71d21d5a" title="catcls_find_btid_of\l_class_name" alt="" coords="249,214,380,255"/>
+<area shape="rect" id="node9" href="$catalog__class_8c.html#ad0cf7eafe3a26c1795998b2fdeae0909" title="catcls_get_or_value\l_from_record" alt="" coords="245,279,384,321"/>
+<area shape="rect" id="node10" href="$catalog__class_8c.html#a42f64935f282f607d5ae8ce4dbb62a57" title="catcls_put_or_value\l_into_record" alt="" coords="245,345,384,386"/>
+<area shape="rect" id="node11" href="$catalog__class_8c.html#afaa3eb4294ce2065c4a64ba287e4f433" title="catcls_reorder_attributes\l_by_repr" alt="" coords="232,410,397,451"/>
+<area shape="rect" id="node12" href="$statistics__sr_8c.html#a87537ae40bfb987f6d7be9eff99352cd" title="stats_update_partitioned\l_statistics" alt="" coords="233,475,397,517"/>
+<area shape="rect" id="node13" href="$statistics__sr_8c.html#a502d831d7f2d3b593c5d107748aae384" title="xstats_update_statistics" alt="" coords="445,483,609,509"/>
+<area shape="rect" id="node14" href="$statistics__sr_8c.html#a197b8a66e5cc0b46843f790c5c865c09" title="xstats_get_statistics\l_from_server" alt="" coords="243,593,386,634"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a2dc1d81846b6a8e684f6751695e96604" title="diagdb" alt="" coords="497,5,557,32"/>
+<area shape="rect" id="node6" href="$system__catalog_8h.html#aaa542c4c891c69ad42f3c3e786d03325" title="catalog_get_cardinality\l_by_name" alt="" coords="450,122,605,163"/>
+</map>

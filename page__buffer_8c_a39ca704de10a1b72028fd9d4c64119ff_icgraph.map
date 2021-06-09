@@ -1,0 +1,6 @@
+<map id="pgbuf_bcb_clear_dirty" name="pgbuf_bcb_clear_dirty">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a32645b0c2aace57799af8b647423a493" title="pgbuf_invalidate_bcb" alt="" coords="203,56,347,83"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#afde1751ceb069fe468ffa1b51283033f" title="pgbuf_unfix_debug" alt="" coords="409,5,539,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#acb30faadf59202892e5dd7a8afcde82e" title="pgbuf_invalidate_debug" alt="" coords="395,56,553,83"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#a172d7adc186f7dc6862f73c7fd2e8e55" title="pgbuf_invalidate_all\l_debug" alt="" coords="406,107,542,149"/>
+</map>

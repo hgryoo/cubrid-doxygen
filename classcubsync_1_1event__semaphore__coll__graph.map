@@ -1,0 +1,4 @@
+<map id="cubsync::event_semaphore" name="cubsync::event_semaphore">
+<area shape="rect" id="node2" href="$classcubsync_1_1semaphore.html" title="{cubsync::semaphore\l\&lt; bool \&gt;\n|&#45; value\l&#45; m_mutex\l&#45; m_cond_var\l|+ semaphore()\l+ signal()\l+ wait()\l}" alt="" coords="25,189,168,340"/>
+<area shape="rect" id="node3" href="$classcubsync_1_1semaphore.html" title="{cubsync::semaphore\&lt; T \&gt;\n|&#45; m_mutex\l&#45; m_cond_var\l|+ semaphore()\l+ signal()\l+ wait()\l}" alt="" coords="9,5,184,127"/>
+</map>

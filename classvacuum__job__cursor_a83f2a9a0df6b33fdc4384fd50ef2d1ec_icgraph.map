@@ -1,0 +1,7 @@
+<map id="vacuum_job_cursor::unload" name="vacuum_job_cursor::unload">
+<area shape="rect" id="node2" href="$classvacuum__job__cursor.html#ae2063f86999debed8e9843c61363c7cc" title="vacuum_job_cursor::\lchange_blockid" alt="" coords="387,26,529,67"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="768,92,843,119"/>
+<area shape="rect" id="node5" href="$classvacuum__job__cursor.html#a7748893163390231568a44a5e48f7f8a" title="vacuum_job_cursor::\lforce_data_update" alt="" coords="387,143,529,185"/>
+<area shape="rect" id="node6" href="$classvacuum__job__cursor.html#a3c3636b2a49928f529ce957a15f2aa52" title="vacuum_job_cursor::\lreload" alt="" coords="196,26,339,67"/>
+<area shape="rect" id="node3" href="$classvacuum__job__cursor.html#a8e2f7667d9364ff5a8a19103ca525409" title="vacuum_job_cursor::\lincrement_blockid" alt="" coords="577,26,720,67"/>
+</map>

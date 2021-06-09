@@ -1,0 +1,6 @@
+<map id="xboot_unregister_client" name="xboot_unregister_client">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a13db15b7b8d3fb9f09f8d746dc649115" title="boot_unregister_client" alt="" coords="213,5,362,32"/>
+<area shape="rect" id="node4" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="209,56,365,83"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#aa7beb3207bb2b041cfbaf347ea2bf51a" title="boot_shutdown_client" alt="" coords="413,5,561,32"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="429,56,545,83"/>
+</map>

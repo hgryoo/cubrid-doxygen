@@ -1,0 +1,28 @@
+var uniondb__data =
+[
+    [ "bigint", "uniondb__data.html#a5f0e4f2bf80f49545bae7351412bea2c", null ],
+    [ "ch", "uniondb__data.html#a9295c3fc21d5044c0a1735cd134d23f5", null ],
+    [ "collect", "uniondb__data.html#ac300c804b854acad805710194d3f65be", null ],
+    [ "d", "uniondb__data.html#a82343a6686df79cda49dc485f761c950", null ],
+    [ "date", "uniondb__data.html#aae0e65d2e016bf4b1402ef082caf48e9", null ],
+    [ "datetime", "uniondb__data.html#ac8b04071391e81c7023303cfe9c50d41", null ],
+    [ "datetimetz", "uniondb__data.html#ac748d72022524d2c01c28733f69c56ff", null ],
+    [ "elo", "uniondb__data.html#ab565237af466271d1e9c9d5cd7c8e03e", null ],
+    [ "enumeration", "uniondb__data.html#a6fb29bd40dabe27af863d8b4523deaa6", null ],
+    [ "error", "uniondb__data.html#a8f464feb5d923bf0b2ae056999e75458", null ],
+    [ "f", "uniondb__data.html#a773da276b68cac72429904b714980cce", null ],
+    [ "i", "uniondb__data.html#a03d8956705661882c2c4e33869bd14ce", null ],
+    [ "json", "uniondb__data.html#a5a4898165e9dd01edee68d672bc1d3ce", null ],
+    [ "midxkey", "uniondb__data.html#a76a7860a509ecfb4f2aaedd6868e33cb", null ],
+    [ "money", "uniondb__data.html#acba22f960bf4db47a3df88d591b3cb54", null ],
+    [ "num", "uniondb__data.html#a52ac60a465cc64228e52f69c20158b2a", null ],
+    [ "oid", "uniondb__data.html#aaa4bc751f963e891370e3974668b2867", null ],
+    [ "op", "uniondb__data.html#aac1d63f6612726bb08f85190087e9a06", null ],
+    [ "p", "uniondb__data.html#a87be13c704105297de56e3a47945efde", null ],
+    [ "rset", "uniondb__data.html#aaab4cd0f21d406a10e1d21717c64c44e", null ],
+    [ "set", "uniondb__data.html#a09059564ce20305792300299dd3c8e90", null ],
+    [ "sh", "uniondb__data.html#a5990748aaca16246bb8f4061a928b227", null ],
+    [ "time", "uniondb__data.html#aadf7bb2c61b2200bd2e32f2b35b02fe7", null ],
+    [ "timestamptz", "uniondb__data.html#ae3dba9f7c74feef940221eb1d29a49c6", null ],
+    [ "utime", "uniondb__data.html#a4fb1d1f48a53fc9ce9bd686003aff908", null ]
+];

@@ -1,0 +1,8 @@
+<map id="db_set_preferred_hosts" name="db_set_preferred_hosts">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a735bbbf348fd8491ebb278e27b8c9fbd" title="db_restart_ex" alt="" coords="212,119,313,145"/>
+<area shape="rect" id="node3" href="$cas__execute_8h.html#a2bfc849a249d18d8e67ad6840558e742" title="ux_database_connect" alt="" coords="362,29,511,56"/>
+<area shape="rect" id="node4" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="361,80,512,107"/>
+<area shape="rect" id="node5" href="$csql_8h.html#ad943e40bc7dfda2191b3c6be8295b1c1" title="csql" alt="" coords="413,131,460,157"/>
+<area shape="rect" id="node6" href="$utility_8h.html#a090ec522bafd813b8ba255a9af927ba3" title="unloaddb" alt="" coords="399,181,474,208"/>
+<area shape="rect" id="node7" href="$utility_8h.html#a0eb41ee38437e4ab4ff8b07234d88b2b" title="tranlist" alt="" coords="406,232,467,259"/>
+</map>

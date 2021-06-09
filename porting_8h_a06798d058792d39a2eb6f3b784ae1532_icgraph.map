@@ -1,0 +1,21 @@
+<map id="trim" name="trim">
+<area shape="rect" id="node2" href="$broker__acl_8h.html#ab32399b430ec959814b6fece00457ebd" title="access_control_read\l_config_file" alt="" coords="339,51,481,93"/>
+<area shape="rect" id="node3" href="$broker__acl_8c.html#a2259032b2280b113b7ce962f64dd00bf" title="access_control_read\l_ip_info" alt="" coords="121,51,263,93"/>
+<area shape="rect" id="node4" href="$broker__acl_8c.html#a2b9b7826b1757d0c6203f92502dbdc8b" title="access_control_repath_file" alt="" coords="103,117,281,144"/>
+<area shape="rect" id="node5" href="$broker__admin__pub_8c.html#af17ea2570fea28f1d68047eefa59996a" title="broker_create_dir" alt="" coords="131,168,253,195"/>
+<area shape="rect" id="node6" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="335,295,485,321"/>
+<area shape="rect" id="node7" href="$csql_8h.html#a634918c3aba8b5cef071ef844b45e228" title="csql_get_column_width" alt="" coords="113,269,271,296"/>
+<area shape="rect" id="node8" href="$csql_8c.html#a15429a4b636888c56b3e95224a98c506" title="csql_set_trace" alt="" coords="139,320,245,347"/>
+<area shape="rect" id="node9" href="$broker__config_8h.html#a4da8bdd3d45f15882669bebe98b3aadb" title="dir_repath" alt="" coords="153,371,231,397"/>
+<area shape="rect" id="node10" href="$broker__tester_8c.html#a2f2a6b2db03b35c0564ad99a5c4799d0" title="execute_test" alt="" coords="143,421,241,448"/>
+<area shape="rect" id="node11" href="$csql_8c.html#a452870bcc46ac2ffe9006ed30832a061" title="get_column_name_argument" alt="" coords="97,472,287,499"/>
+<area shape="rect" id="node12" href="$broker__log__replay_8c.html#a6d60adc0558609409249f1eb8f35230f" title="get_query_stmt_from_plan" alt="" coords="104,523,280,549"/>
+<area shape="rect" id="node13" href="$log__applier_8c.html#a390461d66ad3104850cb216ea17fc356" title="la_create_repl_filter" alt="" coords="125,573,259,600"/>
+<area shape="rect" id="node14" href="$ddl__log_8c.html#ab976594905a91760b11b009a1f7acf31" title="logddl_create_dir" alt="" coords="132,624,252,651"/>
+<area shape="rect" id="node15" href="$cas__runner_8c.html#a12dc54f57c6aa0c244c4a486e113a00c" title="make_node_info" alt="" coords="133,675,251,701"/>
+<area shape="rect" id="node16" href="$cas__runner_8c.html#a17aa262b43cf13c8b64048497ce62051" title="make_sql_stmt" alt="" coords="137,725,247,752"/>
+<area shape="rect" id="node17" href="$shard__metadata_8c.html#af11a04fb47ffac87377df0af71d3017e" title="shard_metadata_read_conn" alt="" coords="101,776,283,803"/>
+<area shape="rect" id="node18" href="$shard__metadata_8c.html#a806584b42c5c01b516926aa97429535f" title="shard_metadata_read_key" alt="" coords="105,827,279,853"/>
+<area shape="rect" id="node19" href="$show__scan_8c.html#ac935acc5511bb4405f0dc4d8d9e7014e" title="showstmt_array_end_scan" alt="" coords="103,877,281,904"/>
+<area shape="rect" id="node20" href="$broker__access__list_8h.html#a35e081864ccbaa486dc7394a78f76014" title="uw_acl_make" alt="" coords="141,928,243,955"/>
+</map>

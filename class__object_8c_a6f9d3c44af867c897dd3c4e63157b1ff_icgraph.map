@@ -1,0 +1,19 @@
+<map id="classobj_free_foreign_key_ref" name="classobj_free_foreign_key_ref">
+<area shape="rect" id="node2" href="$class__object_8h.html#a42325ba4194094db4d2699fd41c1d325" title="classobj_free_class\l_constraints" alt="" coords="207,369,345,410"/>
+<area shape="rect" id="node18" href="$class__object_8c.html#a9419dbff895487c7ab5675b07fed403a" title="classobj_make_foreign\l_key_ref_list" alt="" coords="199,249,353,290"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ae502b1b401f3074af64821cd32bd8afc" title="dbt_add_foreign_key" alt="" coords="412,351,555,377"/>
+<area shape="rect" id="node4" href="$class__object_8h.html#a7703722447201ba90b4514d1ae28076a" title="classobj_copy_props" alt="" coords="639,68,783,95"/>
+<area shape="rect" id="node5" href="$schema__manager_8c.html#a6e76a4904bcf8892701103fa8cf2188c" title="flatten_properties" alt="" coords="857,93,980,120"/>
+<area shape="rect" id="node6" href="$class__object_8h.html#adcdeb22925cf5227b08160c4791627cd" title="classobj_make_class\l_constraints" alt="" coords="410,219,557,261"/>
+<area shape="rect" id="node7" href="$schema__manager_8c.html#a5d83138572f99f63b95bd21fa9ef0fec" title="collect_hier_class_info" alt="" coords="634,171,789,197"/>
+<area shape="rect" id="node8" href="$schema__manager_8c.html#a94a5ab245d87fe80cc5e41e78cf18554" title="transfer_disk_structures" alt="" coords="630,441,793,468"/>
+<area shape="rect" id="node9" href="$schema__manager_8c.html#a2577f4a162fc4eb1eac765f7383139b2" title="filter_local_constraints" alt="" coords="635,119,787,145"/>
+<area shape="rect" id="node10" href="$schema__manager_8c.html#ad976623d2bf1138f7d4da0acc8061e5d" title="update_fk_ref_partitioned\l_class" alt="" coords="627,591,795,633"/>
+<area shape="rect" id="node11" href="$schema__template_8c.html#a453a9bee53daaced438ced16a81bba5d" title="smt_check_foreign_key" alt="" coords="631,667,791,693"/>
+<area shape="rect" id="node12" href="$schema__template_8h.html#a5c1c56350170f2623d55a028ba1d0faa" title="smt_check_index_exist" alt="" coords="632,736,791,763"/>
+<area shape="rect" id="node13" href="$schema__template_8h.html#ab51f553d1e53355523d765c1ea2e0ad4" title="smt_rename_any" alt="" coords="857,355,980,381"/>
+<area shape="rect" id="node14" href="$schema__template_8c.html#a5414a2058077307c2aefdb7ebdb67bf6" title="smt_find_owner_of_constraint" alt="" coords="613,355,809,381"/>
+<area shape="rect" id="node15" href="$class__object_8h.html#a07c94e0a3782613ece24b0c822f87b1b" title="classobj_decache_class\l_constraints" alt="" coords="401,285,565,326"/>
+<area shape="rect" id="node16" href="$class__object_8c.html#a4bf7fc9a432432078f14c36ac2dd2c10" title="classobj_cache_not\l_null_constraints" alt="" coords="415,503,552,545"/>
+<area shape="rect" id="node17" href="$schema__manager_8h.html#a46905b698e1a61916384860ef3f740ce" title="sm_drop_index" alt="" coords="428,593,539,620"/>
+</map>

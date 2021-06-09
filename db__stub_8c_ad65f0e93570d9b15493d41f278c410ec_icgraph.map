@@ -1,0 +1,6 @@
+<map id="stmt_reset_session_and_parse" name="stmt_reset_session_and_parse">
+<area shape="rect" id="node2" href="$db__stub_8c.html#abe02787bc523ce497d37fba501c6e3b6" title="stmt_exec_immediate\l_internal" alt="" coords="189,5,340,47"/>
+<area shape="rect" id="node4" href="$db__stub_8c.html#a7fe6b2c90c8229bff396b2db348b9d39" title="stmt_prepare_internal" alt="" coords="191,71,338,98"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a4a63c027cc559b2ea1ed28e8efe0a48e" title="ci_stmt_execute_immediate_impl" alt="" coords="388,13,604,39"/>
+<area shape="rect" id="node5" href="$db__stub_8c.html#aab660177b0cbc0c9d8c7dc81dc805c4c" title="ci_stmt_prepare_impl" alt="" coords="423,71,569,98"/>
+</map>

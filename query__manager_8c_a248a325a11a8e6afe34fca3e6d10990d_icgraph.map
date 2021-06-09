@@ -1,0 +1,5 @@
+<map id="qmgr_get_page_type" name="qmgr_get_page_type">
+<area shape="rect" id="node2" href="$query__manager_8h.html#ad7ea80d0f005b2149c490c9aa1cebff7" title="qmgr_free_old_page" alt="" coords="198,5,337,32"/>
+<area shape="rect" id="node3" href="$query__manager_8h.html#a45919f750ef4a04f9e35809f1e5295b5" title="qmgr_set_dirty_page" alt="" coords="196,56,339,83"/>
+<area shape="rect" id="node4" href="$list__file_8c.html#a09b341c5feab3a28ac5dcb38d2e76c5b" title="qfile_set_dirty_page" alt="" coords="387,56,525,83"/>
+</map>

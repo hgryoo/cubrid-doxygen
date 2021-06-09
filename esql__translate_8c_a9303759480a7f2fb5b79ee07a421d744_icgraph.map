@@ -1,0 +1,20 @@
+<map id="emit_whenever" name="emit_whenever">
+<area shape="rect" id="node2" href="$esql__translate_8c.html#a46e67d6724be45d96d8656b35b43c66d" title="emit_end" alt="" coords="164,411,239,437"/>
+<area shape="rect" id="node3" href="$esql__translate_8c.html#a1e065b0c58f6a71c5dc8043d09cf60ff" title="tr_close_cs" alt="" coords="317,5,407,32"/>
+<area shape="rect" id="node4" href="$esql__translate_8c.html#a1466ee7072706e06001941e08294f180" title="tr_commit" alt="" coords="322,56,402,83"/>
+<area shape="rect" id="node5" href="$esql__translate_8c.html#a2fa357e9e19e23c0fb6e6af2f7680bb1" title="tr_connect" alt="" coords="321,107,403,133"/>
+<area shape="rect" id="node6" href="$esql__translate_8c.html#a0afaf68cdda31b6ebd2aaea731f0672e" title="tr_delete_cs" alt="" coords="315,157,409,184"/>
+<area shape="rect" id="node7" href="$esql__translate_8c.html#a944601e4ce3ce8eb0385bcb434d87044" title="tr_describe" alt="" coords="319,208,405,235"/>
+<area shape="rect" id="node8" href="$esql__translate_8c.html#affa601fa4277b573218e43c7932fae77" title="tr_disconnect" alt="" coords="312,259,412,285"/>
+<area shape="rect" id="node9" href="$esql__translate_8c.html#ab702fb2e8b978538416942958d777296" title="tr_execute" alt="" coords="321,309,403,336"/>
+<area shape="rect" id="node10" href="$esql__translate_8c.html#abb10fcc889c49dc61f83840287982fee" title="tr_execute_immediate" alt="" coords="287,360,437,387"/>
+<area shape="rect" id="node11" href="$esql__translate_8c.html#a348b7ccb91a475c2b4aa09603a4e3deb" title="tr_fetch_cs" alt="" coords="319,411,405,437"/>
+<area shape="rect" id="node12" href="$esql__translate_8c.html#af01c6d5b30d086e27e1504f3f2124021" title="tr_object_describe" alt="" coords="298,461,426,488"/>
+<area shape="rect" id="node13" href="$esql__translate_8c.html#a72fb40bc4ca39d1344fb8961579b04da" title="tr_object_fetch" alt="" coords="308,512,416,539"/>
+<area shape="rect" id="node14" href="$esql__translate_8c.html#a53ca97d25c5964fb783964e3b1ee4de3" title="tr_object_update" alt="" coords="303,563,421,589"/>
+<area shape="rect" id="node15" href="$esql__translate_8c.html#ae2a52b92fc1e3ffff0e12ed7d6059a27" title="tr_open_cs" alt="" coords="319,613,405,640"/>
+<area shape="rect" id="node16" href="$esql__translate_8c.html#a47f1339e850ca8c987f4a6b6784397fd" title="tr_prepare_esql" alt="" coords="307,664,417,691"/>
+<area shape="rect" id="node17" href="$esql__translate_8c.html#abd11e15c6b461af5b30a0967240bb96d" title="tr_rollback" alt="" coords="321,715,403,741"/>
+<area shape="rect" id="node18" href="$esql__translate_8c.html#a20d6e0128ec0ad0f1d45a286170c7980" title="tr_static" alt="" coords="327,765,397,792"/>
+<area shape="rect" id="node19" href="$esql__translate_8c.html#a159f787cbc0c0b7afac8105155c87f3b" title="tr_update_cs" alt="" coords="313,816,411,843"/>
+</map>

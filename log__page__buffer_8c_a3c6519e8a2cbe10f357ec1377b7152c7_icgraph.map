@@ -1,0 +1,6 @@
+<map id="logpb_dump_to_flush_page" name="logpb_dump_to_flush_page">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a65f13ec63904f41531ee152c2939ba5a" title="logpb_dump" alt="" coords="233,64,325,91"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#a5ea6483fb4af95ef44ff7eb9d6d35a05" title="logpb_finalize_pool" alt="" coords="388,5,520,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="375,57,533,98"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a37b5bd7f498c7a0d38b1ed23c6474167" title="logpb_flush_log_for_wal" alt="" coords="373,123,535,149"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="check_power_savings" name="check_power_savings">
+<area shape="rect" id="node2" href="$tsc__timer_8h.html#a9c46e528e5efc74e5212125836663b35" title="tsc_init" alt="" coords="204,132,268,159"/>
+<area shape="rect" id="node3" href="$utility_8h.html#afcca051358c81f7c4f159aa6859bcad2" title="patchdb" alt="" coords="364,5,432,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="329,56,467,83"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="333,107,463,133"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="323,157,473,184"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="331,208,465,235"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="316,259,480,285"/>
+</map>

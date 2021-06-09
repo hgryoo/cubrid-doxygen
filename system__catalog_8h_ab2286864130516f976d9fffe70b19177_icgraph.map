@@ -1,0 +1,16 @@
+<map id="catalog_start_access_with_dir_oid" name="catalog_start_access_with_dir_oid">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#ade6c3fc1349d8627c3330c0ed25a8021" title="catalog_add_class_info" alt="" coords="229,243,387,270"/>
+<area shape="rect" id="node3" href="$system__catalog_8h.html#a7c49464b033a396eff006176ea599c62" title="catalog_get_representation" alt="" coords="464,142,643,168"/>
+<area shape="rect" id="node4" href="$system__catalog_8h.html#a100bcfca99e5727696649825edb96264" title="catalog_get_cardinality" alt="" coords="695,120,850,147"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#ab1ab7fb8555267660219331c3222374a" title="qexec_execute_build\l_indexes" alt="" coords="913,62,1057,104"/>
+<area shape="rect" id="node6" href="$statistics__sr_8c.html#a87537ae40bfb987f6d7be9eff99352cd" title="stats_update_partitioned\l_statistics" alt="" coords="691,308,855,349"/>
+<area shape="rect" id="node7" href="$statistics__sr_8c.html#a502d831d7f2d3b593c5d107748aae384" title="xstats_update_statistics" alt="" coords="903,315,1067,342"/>
+<area shape="rect" id="node8" href="$statistics__sr_8c.html#a197b8a66e5cc0b46843f790c5c865c09" title="xstats_get_statistics\l_from_server" alt="" coords="701,532,844,573"/>
+<area shape="rect" id="node10" href="$system__catalog_8h.html#a33bd784cfe3eb47580d2593b97a12fdf" title="catalog_add_representation" alt="" coords="217,420,399,447"/>
+<area shape="rect" id="node11" href="$system__catalog_8c.html#a515d81b22c759898776e4c36017f09e2" title="catalog_drop" alt="" coords="260,648,356,675"/>
+<area shape="rect" id="node12" href="$system__catalog_8c.html#a7427dedb4e841a0b70a7a11476e537f1" title="catalog_drop_all_representation\l_and_class" alt="" coords="205,700,411,741"/>
+<area shape="rect" id="node13" href="$system__catalog_8h.html#a4dce6236aa7369102102ae1429aadb7e" title="catalog_drop_old_representations" alt="" coords="200,766,416,792"/>
+<area shape="rect" id="node14" href="$system__catalog_8h.html#a0902e9960fee85e7288b4039adc64ce4" title="catalog_get_class_info" alt="" coords="476,496,631,523"/>
+<area shape="rect" id="node15" href="$system__catalog_8h.html#aa17c0fb2e8eda2108b37a57d26fba19f" title="catalog_update_class_info" alt="" coords="220,816,396,843"/>
+<area shape="rect" id="node9" href="$system__catalog_8h.html#a61ad207a6558c26bb9c3b3117ba7e599" title="catalog_insert" alt="" coords="502,344,605,371"/>
+</map>

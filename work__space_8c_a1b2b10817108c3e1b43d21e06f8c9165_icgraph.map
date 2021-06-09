@@ -1,0 +1,12 @@
+<map id="ws_map_class" name="ws_map_class">
+<area shape="rect" id="node2" href="$locator__cl_8h.html#a5552c2c46fc1a310ec705a9b9982a2bd" title="locator_decache_all\l_lock_instances" alt="" coords="187,64,325,105"/>
+<area shape="rect" id="node6" href="$locator__cl_8h.html#af0c4194863687ace802ef085afa02605" title="locator_flush_all_instances" alt="" coords="397,261,576,287"/>
+<area shape="rect" id="node8" href="$locator__cl_8h.html#a8b5908d96abd8f8b5384e9d4e597a309" title="locator_remove_class" alt="" coords="412,199,561,226"/>
+<area shape="rect" id="node9" href="$schema__manager_8h.html#afb4efe77481bada99d304564e7e3c5ec" title="sm_decache_instances\l_after_query_executed\l_with_commit" alt="" coords="177,231,335,287"/>
+<area shape="rect" id="node10" href="$virtual__object_8h.html#a1f5e9039c502ee6d78d9fe3ce28197d9" title="vid_flush_all_instances" alt="" coords="177,311,335,338"/>
+<area shape="rect" id="node11" href="$work__space_8h.html#a04b4701f29cf3888896cc2b4066d45d4" title="ws_mark_instances_deleted" alt="" coords="163,362,349,389"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a090ec522bafd813b8ba255a9af927ba3" title="unloaddb" alt="" coords="449,71,524,98"/>
+<area shape="rect" id="node4" href="$locator__cl_8c.html#a9175d2c0dcdfa3dd4bbdae59d96c1b67" title="locator_cache_object\l_class" alt="" coords="414,123,559,164"/>
+<area shape="rect" id="node5" href="$locator__cl_8c.html#adaea69a8795c019ccc5b3af0052226f4" title="locator_cache_not_have\l_object" alt="" coords="405,5,568,47"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="624,286,776,313"/>
+</map>

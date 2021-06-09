@@ -1,0 +1,21 @@
+<map id="ws_mop_compare" name="ws_mop_compare">
+<area shape="rect" id="node2" href="$locator__cl_8h.html#aae65b27cb3e7bb22c030e86824ff3112" title="locator_is_root" alt="" coords="200,376,307,403"/>
+<area shape="rect" id="node17" href="$schema__manager_8h.html#afedbbfd0803dddf62f4c829ba528131e" title="sm_find_subclass_in\l_hierarchy" alt="" coords="181,697,325,738"/>
+<area shape="rect" id="node18" href="$trigger__manager_8h.html#ad89d5f60cc42a200b24266423ad11f9d" title="tr_validate_schema\l_cache" alt="" coords="403,755,538,797"/>
+<area shape="rect" id="node19" href="$execute__statement_8c.html#a7ff55edca9d93dd271aa98b76e7e3605" title="update_object_tuple" alt="" coords="184,813,323,840"/>
+<area shape="rect" id="node20" href="$work__space_8c.html#a1f429cc74471beefd3c94efc72c04f57" title="ws_print_oid" alt="" coords="206,864,301,891"/>
+<area shape="rect" id="node3" href="$authenticate_8c.html#ad344b82428cb3b190de51c9148c8b657" title="au_fetch_class_internal" alt="" coords="391,173,550,200"/>
+<area shape="rect" id="node4" href="$structclass__description.html#a061e86b25df4183c88c2916d295cd6f6" title="class_description::init" alt="" coords="842,249,990,276"/>
+<area shape="rect" id="node5" href="$object__print_8h.html#abada67940a11d79dbd1b4c20c98b8741" title="help_print_obj" alt="" coords="865,351,967,377"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#afa9adf1acd9cb07da6f1a51985701541" title="sm_is_partitioned_class" alt="" coords="835,427,997,453"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#afb4efe77481bada99d304564e7e3c5ec" title="sm_decache_instances\l_after_query_executed\l_with_commit" alt="" coords="622,488,781,544"/>
+<area shape="rect" id="node8" href="$locator__cl_8h.html#a3f61445c1c1ed7a0b4327507a71ac023" title="locator_is_class" alt="" coords="643,325,759,352"/>
+<area shape="rect" id="node9" href="$locator__cl_8c.html#aa9b2575ef9c7cfbc4377e1f05699d324" title="locator_cache_lock_set" alt="" coords="391,5,550,32"/>
+<area shape="rect" id="node10" href="$locator__cl_8h.html#a807841a659df9ea7613f212dca2e61d2" title="locator_get_cache_coherency\l_number" alt="" coords="373,57,568,98"/>
+<area shape="rect" id="node11" href="$locator__cl_8h.html#a3f8277df885969c594d6529043245e1a" title="locator_fetch_object" alt="" coords="401,275,540,301"/>
+<area shape="rect" id="node12" href="$locator__cl_8h.html#a43345128717d8aad9ff84393a6bfd367" title="locator_fetch_class" alt="" coords="403,579,538,605"/>
+<area shape="rect" id="node13" href="$locator__cl_8h.html#ad48df9b93687b92ebd22902a680b9409" title="locator_fetch_instance" alt="" coords="625,579,778,605"/>
+<area shape="rect" id="node14" href="$locator__cl_8h.html#ade80af1d3fd54684473ab8557319d1a8" title="locator_fetch_nested" alt="" coords="630,629,773,656"/>
+<area shape="rect" id="node15" href="$locator__cl_8c.html#acd38be0f3e44fcfee66192c3f48c7ca0" title="locator_fun_get_all_mops" alt="" coords="616,680,787,707"/>
+<area shape="rect" id="node16" href="$locator__cl_8c.html#a560893c04f2f0dcff4797a25fc657376" title="locator_save_nested_mops" alt="" coords="380,123,561,149"/>
+</map>

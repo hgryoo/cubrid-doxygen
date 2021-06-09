@@ -1,0 +1,21 @@
+<map id="numeric_coerce_int_to_num" name="numeric_coerce_int_to_num">
+<area shape="rect" id="node2" href="$boot__cl_8c.html#a581c1cb9154958b479ff5d26e670c010" title="boot_define_serial" alt="" coords="211,153,338,180"/>
+<area shape="rect" id="node4" href="$numeric__opfunc_8h.html#a0c8b7a20a9a7b79d2c7a94052ca159ab" title="numeric_coerce_dec\l_str_to_num" alt="" coords="203,353,346,394"/>
+<area shape="rect" id="node17" href="$numeric__opfunc_8h.html#ae53355e5ddddd426d6e4f17a95f2ffa3" title="numeric_db_value_coerce\l_to_num" alt="" coords="188,482,361,523"/>
+<area shape="rect" id="node18" href="$numeric__opfunc_8c.html#af53df31fc108418e9d3d8ad21c17e866" title="numeric_div" alt="" coords="441,664,533,691"/>
+<area shape="rect" id="node19" href="$numeric__opfunc_8c.html#a9954e64be00f3e85b2051d188e44af09" title="numeric_long_div" alt="" coords="213,599,336,625"/>
+<area shape="rect" id="node20" href="$serial_8c.html#a1e3bce9c0b2265c69b2d3a1fe5e6a1d2" title="serial_get_nth_value" alt="" coords="204,649,345,676"/>
+<area shape="rect" id="node3" href="$boot__cl_8c.html#a7eaf0d2efc017f59ba6a98f77e1a344e" title="catcls_class_install" alt="" coords="419,5,555,32"/>
+<area shape="rect" id="node5" href="$cnv_8c.html#a648b783d4dba139a4eb2b7d76e96f97f" title="bfmt_print" alt="" coords="447,56,527,83"/>
+<area shape="rect" id="node6" href="$dbtype__function_8h.html#ac2066a6dc6d26bb109e9e4c380860043" title="db_value_domain_min" alt="" coords="412,107,563,133"/>
+<area shape="rect" id="node7" href="$dbtype__function_8h.html#abf0a2dccbb337bbcb8f59ced04b8dc6d" title="db_value_domain_max" alt="" coords="410,157,565,184"/>
+<area shape="rect" id="node8" href="$dbtype__function_8h.html#a4c2b23cd6fc1c2d73ce14dd5cbc7059a" title="db_value_domain_zero" alt="" coords="410,208,565,235"/>
+<area shape="rect" id="node9" href="$namespacecubload.html#a06ce3764d64877e8885da07cb52d5d14" title="cubload::to_db_bigint" alt="" coords="415,259,560,285"/>
+<area shape="rect" id="node10" href="$namespacecubload.html#a5c55b37ca45ea6cf3f004e0bc558c0bc" title="cubload::to_int_generic" alt="" coords="409,309,565,336"/>
+<area shape="rect" id="node11" href="$load__sa__loader_8cpp.html#a843e7b41907a7612b59500152cbd4889" title="ldr_int_elem" alt="" coords="441,360,533,387"/>
+<area shape="rect" id="node12" href="$load__sa__loader_8cpp.html#a224f9bc2a6a7e11916724f38e35d93b6" title="ldr_int_db_bigint" alt="" coords="429,411,545,437"/>
+<area shape="rect" id="node13" href="$arithmetic_8h.html#ad9378ae2c0b068c4a537e3c1ea67fa12" title="db_floor_dbval" alt="" coords="434,461,541,488"/>
+<area shape="rect" id="node14" href="$arithmetic_8h.html#a0535b866d5962b1e6a7577444d977abf" title="db_ceil_dbval" alt="" coords="437,512,538,539"/>
+<area shape="rect" id="node15" href="$arithmetic_8h.html#a2ca1b6f705b0fbbcc8406fdc5d157d29" title="db_round_dbval" alt="" coords="431,563,544,589"/>
+<area shape="rect" id="node16" href="$arithmetic_8h.html#ad0311a523d0853262727aadf322d144d" title="db_trunc_dbval" alt="" coords="432,613,543,640"/>
+</map>

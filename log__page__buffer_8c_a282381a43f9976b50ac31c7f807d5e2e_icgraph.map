@@ -1,0 +1,6 @@
+<map id="logpb_find_volume_info_exist" name="logpb_find_volume_info_exist">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#aecaca38f18cb794661915d733c632a0a" title="boot_mount" alt="" coords="212,56,303,83"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="351,5,524,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="370,56,505,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="355,107,519,133"/>
+</map>

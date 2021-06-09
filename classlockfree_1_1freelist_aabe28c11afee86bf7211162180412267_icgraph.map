@@ -1,0 +1,6 @@
+<map id="lockfree::freelist::swap_backbuffer" name="lockfree::freelist::swap_backbuffer">
+<area shape="rect" id="node2" href="$classlockfree_1_1freelist.html#a806d42cde415b3c618b703eff2560614" title="lockfree::freelist\l::claim" alt="" coords="183,37,297,79"/>
+<area shape="rect" id="node5" href="$classlockfree_1_1freelist.html#ab0f5e842879c263573affd159139cd53" title="lockfree::freelist\l::freelist" alt="" coords="183,103,297,144"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1freelist.html#af5a1aeac1b8815263e1f59094c51b13e" title="lockfree::freelist\l::claim" alt="" coords="357,5,471,47"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1hashmap.html#aa84d2f30a6f3bb4b2f541870bc5c198d" title="lockfree::hashmap::\lfreelist_claim" alt="" coords="345,71,483,112"/>
+</map>

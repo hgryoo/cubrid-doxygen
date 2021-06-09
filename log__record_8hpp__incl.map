@@ -1,0 +1,12 @@
+<map id="src/transaction/log_record.hpp" name="src/transaction/log_record.hpp">
+<area shape="rect" id="node2" href="$client__credentials_8hpp.html" title="client_credentials.hpp" alt="" coords="666,95,814,121"/>
+<area shape="rect" id="node7" href="$log__lsa_8hpp.html" title="log_lsa.hpp" alt="" coords="496,169,584,196"/>
+<area shape="rect" id="node11" href="$recovery_8h.html" title="recovery.h" alt="" coords="239,95,322,121"/>
+<area shape="rect" id="node14" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="151,244,284,271"/>
+<area shape="rect" id="node3" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="205,319,302,345"/>
+<area shape="rect" id="node4" href="$db__client__type_8hpp.html" title="db_client_type.hpp" alt="" coords="904,169,1035,196"/>
+<area shape="rect" id="node5" href="$packable__object_8hpp.html" title="packable_object.hpp" alt="" coords="608,169,750,196"/>
+<area shape="rect" id="node12" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="148,169,264,196"/>
+<area shape="rect" id="node13" href="$log__comm_8h.html" title="log_comm.h" alt="" coords="30,169,123,196"/>
+<area shape="rect" id="node16" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="288,169,422,196"/>
+</map>

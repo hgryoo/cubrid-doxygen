@@ -1,0 +1,7 @@
+<map id="adjust_partition_size" name="adjust_partition_size">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a8f5b820167cb22e7617a62284be30225" title="do_coalesce_partition_pre" alt="" coords="195,5,368,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a71e57012993f98148b4b9bb1236f7daa" title="do_create_partition" alt="" coords="215,56,347,83"/>
+<area shape="rect" id="node5" href="$execute__schema_8h.html#a8d9a955e21fdad284b4980448aba4ce8" title="do_drop_partition_list" alt="" coords="209,107,354,133"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#aedeb2a4d7196782cc611f23eb45aa388" title="do_promote_partition_list" alt="" coords="198,157,365,184"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a3d065088ea9aebd736b48d0427c4c604" title="do_alter_partitioning_pre" alt="" coords="416,81,579,108"/>
+</map>

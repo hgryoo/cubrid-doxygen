@@ -1,0 +1,9 @@
+<map id="btree_node_scan" name="btree_node_scan">
+<area shape="rect" id="node2" href="$structbtid__int.html" title="{btid_int\n|+ unique_pk\l+ part_key_desc\l+ copy_buf\l+ copy_buf_len\l+ rev_level\l|}" alt="" coords="352,476,470,612"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="33,5,125,112"/>
+<area shape="rect" id="node5" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="132,175,266,399"/>
+<area shape="rect" id="node4" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="420,13,482,105"/>
+<area shape="rect" id="node6" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="476,248,578,325"/>
+<area shape="rect" id="node7" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="622,241,694,333"/>
+<area shape="rect" id="node8" href="$structbtree__node__scan__queue__item.html" title="{btree_node_scan_queue_item\n||}" alt="" coords="619,505,814,583"/>
+</map>

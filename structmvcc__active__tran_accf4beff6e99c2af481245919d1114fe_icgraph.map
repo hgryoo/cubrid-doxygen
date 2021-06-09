@@ -1,0 +1,15 @@
+<map id="mvcc_active_tran::get_unit_of" name="mvcc_active_tran::get_unit_of">
+<area shape="rect" id="node2" href="$structmvcc__active__tran.html#a4c2526be5bf36f5dc2cd9877345d5bba" title="mvcc_active_tran::check\l_valid" alt="" coords="213,208,381,249"/>
+<area shape="rect" id="node5" href="$structmvcc__active__tran.html#affcc854b119d8a202e6429e97fbdb82f" title="mvcc_active_tran::set\l_bitarea_mvccid" alt="" coords="695,361,846,403"/>
+<area shape="rect" id="node10" href="$structmvcc__active__tran.html#a52a41b9bb1d191152cd5df74c166a56c" title="mvcc_active_tran::compute\l_highest_completed_mvccid" alt="" coords="204,37,391,79"/>
+<area shape="rect" id="node11" href="$structmvcc__active__tran.html#aed644094dde55fc5f0de9e073ea05e2b" title="mvcc_active_tran::compute\l_lowest_active_mvccid" alt="" coords="206,471,389,512"/>
+<area shape="rect" id="node13" href="$structmvcc__active__tran.html#a6d9dd7835fbd83ba24d4b063eee69c2e" title="mvcc_active_tran::is_set" alt="" coords="213,537,381,563"/>
+<area shape="rect" id="node3" href="$classmvcctable.html#abb49acd267780e611121af87fcaf1431" title="mvcctable::build_mvcc_info" alt="" coords="679,18,863,45"/>
+<area shape="rect" id="node4" href="$structmvcc__active__tran.html#abdd9a7a8307b06e7ea1dcf180be5a2ea" title="mvcc_active_tran::cleanup\l_migrate_to_long_transations" alt="" coords="439,237,631,279"/>
+<area shape="rect" id="node6" href="$structmvcc__active__tran.html#a9821943954e3266bf1fa5971df43341d" title="mvcc_active_tran::copy_to" alt="" coords="445,69,624,95"/>
+<area shape="rect" id="node7" href="$structmvcc__active__tran.html#abd8aaed9ff5cb35624468a91fa06072b" title="mvcc_active_tran::remove\l_long_transaction" alt="" coords="447,120,623,161"/>
+<area shape="rect" id="node8" href="$structmvcc__active__tran.html#ab45c2bd2755f7760f372e337dd4f301c" title="mvcc_active_tran::reset" alt="" coords="453,186,616,213"/>
+<area shape="rect" id="node9" href="$structmvcc__active__tran.html#a992754c8367b04a82703918ba7671d95" title="mvcc_active_tran::reset\l_start_mvccid" alt="" coords="453,303,616,344"/>
+<area shape="rect" id="node12" href="$classmvcctable.html#abe1fe9fb2ba6d076dfad17edeec315fa" title="mvcctable::complete_mvcc" alt="" coords="443,478,626,505"/>
+<area shape="rect" id="node14" href="$structmvcc__active__tran.html#a8f8fb1faaf7f82e34d039ab188b30009" title="mvcc_active_tran::is\l_active" alt="" coords="463,529,606,571"/>
+</map>

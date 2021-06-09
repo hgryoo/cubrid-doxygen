@@ -1,0 +1,12 @@
+<map id="db_get_user_name" name="db_get_user_name">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a8d753785735f3c84472ddbc0ff23aacd" title="au_login_method" alt="" coords="221,5,341,32"/>
+<area shape="rect" id="node3" href="$checksumdb_8c.html#a04927c76d33801730313b5de22c1f72d" title="chksum_set_repl_info\l_and_demote_table_lock" alt="" coords="198,57,365,98"/>
+<area shape="rect" id="node5" href="$db__stub_8c.html#a77bd95c7f71d0f419d0f69a3090c4836" title="conn_restart_client" alt="" coords="215,123,347,149"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#af93fef82828c8a60e6c4ca86d41e3391" title="db_get_user_and_host_name" alt="" coords="185,173,377,200"/>
+<area shape="rect" id="node10" href="$execute__statement_8h.html#a808d1caf2a1fe3f468169c9e18fdafcd" title="do_evaluate_default_expr" alt="" coords="437,257,608,284"/>
+<area shape="rect" id="node11" href="$execute__statement_8h.html#a7678026f301f44b98212d64a0ce6ea1e" title="do_replicate_statement" alt="" coords="203,275,360,301"/>
+<area shape="rect" id="node4" href="$checksumdb_8c.html#a88ba834d966e0c76a848557458f27995" title="chksum_calculate_checksum" alt="" coords="425,31,620,57"/>
+<area shape="rect" id="node6" href="$db__stub_8c.html#a725de860a647ad79fee0d5ce1b1f5143" title="ci_conn_connect_impl" alt="" coords="447,81,598,108"/>
+<area shape="rect" id="node8" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="433,132,613,159"/>
+<area shape="rect" id="node9" href="$xasl__generation_8h.html#afe16617c99177ca7cb6d411d9e5e5713" title="pt_to_regu_variable" alt="" coords="455,207,590,233"/>
+</map>

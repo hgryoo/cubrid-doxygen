@@ -1,0 +1,5 @@
+<map id="pgbuf_compare_hold_vpid_for_sort" name="pgbuf_compare_hold_vpid_for_sort">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#a23ed9215538e5987d6faaa85f4b87134" title="pgbuf_get_condition\l_for_ordered_fix" alt="" coords="210,5,349,47"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#afe78724b7abcc4efb6d4b28c49a46ebc" title="pgbuf_ordered_fix_debug" alt="" coords="196,71,363,98"/>
+<area shape="rect" id="node3" href="$vacuum_8c.html#ae4d0b3228906bd4b0c0a9c8b8d2fdc35" title="vacuum_heap_prepare\l_record" alt="" coords="411,5,564,47"/>
+</map>

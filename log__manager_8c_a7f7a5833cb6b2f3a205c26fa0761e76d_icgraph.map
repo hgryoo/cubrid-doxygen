@@ -1,0 +1,8 @@
+<map id="log_change_tran_as_completed" name="log_change_tran_as_completed">
+<area shape="rect" id="node2" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="205,81,328,107"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a205cb9f31defd227b8340f7f4bd24a09" title="log_complete" alt="" coords="217,133,316,159"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="192,30,341,57"/>
+<area shape="rect" id="node3" href="$log__2pc_8c.html#a8f0d3e711958d90183e5813a073b4696" title="log_2pc_commit_second\l_phase" alt="" coords="393,71,560,112"/>
+<area shape="rect" id="node4" href="$log__2pc_8c.html#a2c2f7703db38e95affce3b8302fdc868" title="log_2pc_recovery_commit\l_decision" alt="" coords="389,5,564,47"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a390852f8765cd90576d47d02ef0d10b6" title="log_commit" alt="" coords="432,137,521,163"/>
+</map>

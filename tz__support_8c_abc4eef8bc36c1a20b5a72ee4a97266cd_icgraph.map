@@ -1,0 +1,13 @@
+<map id="tz_load_data_from_lib" name="tz_load_data_from_lib">
+<area shape="rect" id="node2" href="$tz__support_8h.html#a72fa5373bcd739cf8cb3cc6310886a45" title="tz_load" alt="" coords="255,208,319,235"/>
+<area shape="rect" id="node11" href="$tz__support_8h.html#add2d634f82f284ce79c61210e1163912" title="tz_load_with_library_path" alt="" coords="203,335,372,361"/>
+<area shape="rect" id="node3" href="$system__parameter_8c.html#aeb766c3f75b6f9f14c54acc8fa40bab3" title="prm_load_by_section" alt="" coords="423,5,568,32"/>
+<area shape="rect" id="node4" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="626,167,742,193"/>
+<area shape="rect" id="node5" href="$utility_8h.html#a782e5c7e88490d6faaf37d0c32511675" title="createdb" alt="" coords="459,107,531,133"/>
+<area shape="rect" id="node6" href="$utility_8h.html#aa6af9cd5dcec4fa5c2c592e199958744" title="dump_tz" alt="" coords="459,157,531,184"/>
+<area shape="rect" id="node7" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="431,208,560,235"/>
+<area shape="rect" id="node8" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="420,259,571,285"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="428,309,563,336"/>
+<area shape="rect" id="node10" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="619,327,749,369"/>
+<area shape="rect" id="node12" href="$tz__compile_8c.html#a2072377efd9b9cfb5057210e6f2c8683" title="init_tz_name" alt="" coords="447,411,543,437"/>
+</map>

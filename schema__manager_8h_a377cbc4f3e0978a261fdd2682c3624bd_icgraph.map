@@ -1,0 +1,9 @@
+<map id="sm_virtual_queries" name="sm_virtual_queries">
+<area shape="rect" id="node2" href="$view__transform_8c.html#a88d6ff0ad20516faa5100141956e71b2" title="mq_fetch_attributes" alt="" coords="189,130,326,157"/>
+<area shape="rect" id="node7" href="$view__transform_8c.html#a5a6c9bacc8d25c691f54840c13c98467" title="mq_fetch_subqueries" alt="" coords="184,187,331,214"/>
+<area shape="rect" id="node8" href="$view__transform_8c.html#af1900d43029fe9713f1a36feb588bd69" title="mq_fetch_subqueries\l_for_update_local" alt="" coords="184,239,331,280"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#a89d84e37c7119a04cd2d58f000054e9b" title="mq_substitute_select\l_in_statement" alt="" coords="389,5,535,47"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#a5576d6bd4b9f09117889b52631872866" title="mq_update_order_by" alt="" coords="391,71,533,98"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#a7efe744a4bc0fbff79b20596b7208986" title="mq_rewrite_vclass_spec\l_as_derived" alt="" coords="379,188,545,229"/>
+<area shape="rect" id="node6" href="$view__transform_8c.html#a04b11576d50d2048e602e79d35e46e09" title="mq_fetch_expression\l_for_real_class_update" alt="" coords="384,123,540,164"/>
+</map>

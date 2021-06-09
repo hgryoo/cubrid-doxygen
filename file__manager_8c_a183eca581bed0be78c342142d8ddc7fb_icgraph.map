@@ -1,0 +1,7 @@
+<map id="file_create" name="file_create">
+<area shape="rect" id="node2" href="$file__manager_8h.html#aa6e3dfe54417c209a4ceaf419a916848" title="file_create_ehash" alt="" coords="157,5,281,32"/>
+<area shape="rect" id="node4" href="$file__manager_8h.html#ac26203672282f7ce035695376bcfe3ca" title="file_create_ehash_dir" alt="" coords="147,56,292,83"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a64196cd150853d3b210a8f55740f0839" title="file_create_temp_internal" alt="" coords="136,107,303,133"/>
+<area shape="rect" id="node6" href="$file__manager_8h.html#a76b48022b881809b35f193418dcc8aba" title="file_create_with_npages" alt="" coords="138,157,301,184"/>
+<area shape="rect" id="node3" href="$extendible__hash_8c.html#a7b16d2b1c129e751459ad1e9707b4e1b" title="ehash_create_helper" alt="" coords="351,31,493,57"/>
+</map>

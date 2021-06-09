@@ -1,0 +1,4 @@
+<map id="tran_server_2pc_start" name="tran_server_2pc_start">
+<area shape="rect" id="node2" href="$transaction__cl_8h.html#aeea3152e2284eeb6655c0c2ffa4a3d54" title="tran_2pc_start" alt="" coords="201,5,307,32"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ab08e0d7eb5f300094214959abdf8d71c" title="db_2pc_start_transaction" alt="" coords="355,5,523,32"/>
+</map>

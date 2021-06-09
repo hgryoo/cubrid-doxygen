@@ -1,0 +1,5 @@
+<map id="init_batch_rs_structure" name="init_batch_rs_structure">
+<area shape="rect" id="node2" href="$db__stub_8c.html#a61c44b6fd089d496436ba964e3b9a6b5" title="stmt_batch_alloc_and\l_bind_new_result" alt="" coords="208,39,357,80"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a1413ba1452b828fbb08425face08a290" title="stmt_exec_prepared\l_batch_internal" alt="" coords="416,5,556,47"/>
+<area shape="rect" id="node4" href="$db__stub_8c.html#a1270305253397f2df6f248228ca271c1" title="stmt_exec_batch_query\l_internal" alt="" coords="405,71,567,112"/>
+</map>

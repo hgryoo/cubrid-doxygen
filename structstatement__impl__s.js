@@ -1,0 +1,25 @@
+var structstatement__impl__s =
+[
+    [ "affected_rows", "structstatement__impl__s.html#adcf4b144be594f8923672eb9f612c4eb", null ],
+    [ "batch", "structstatement__impl__s.html#ad0bf0f318d5bf6625d2cf5d16e14daf9", null ],
+    [ "BR", "structstatement__impl__s.html#aaf76a913c1f0acf26f56dfc573dfa4e5", null ],
+    [ "bres_handle", "structstatement__impl__s.html#a6f358b6d74f75ed791e51d1b3950d8c0", null ],
+    [ "cmd_type", "structstatement__impl__s.html#a6ce0f4a5b5488e567982ded9e83ab07f", null ],
+    [ "col_info", "structstatement__impl__s.html#a11e60149710bbe21fb697b4dd2bf2d2f", null ],
+    [ "COMMON_API_STRUCTURE_HEADER", "structstatement__impl__s.html#a2e0aed07f3351e3f9f643c4eb6817ff2", null ],
+    [ "curr_query_result_index", "structstatement__impl__s.html#a90b966ce52a8494fefdeaab8686c52c7", null ],
+    [ "got_pm_handle", "structstatement__impl__s.html#a547b9dde4220d594d467bdb369e23124", null ],
+    [ "has_resultset", "structstatement__impl__s.html#a3d57839c3ddec98f5323a503ba18024a", null ],
+    [ "num_batch", "structstatement__impl__s.html#ad05f3f6abc36d7890187bfbef64167df", null ],
+    [ "num_col", "structstatement__impl__s.html#af1847f817956c6b3241f5f86a6dd833b", null ],
+    [ "num_query", "structstatement__impl__s.html#a8938ae8082b7dbb4c2f074a4e2429019", null ],
+    [ "opt_updatable_result", "structstatement__impl__s.html#a63dd6fd76d95fd79fa88fff8303e9e1f", null ],
+    [ "params", "structstatement__impl__s.html#ad2a01dbe33d75adb57647687e80fbf9d", null ],
+    [ "pconn", "structstatement__impl__s.html#a6538c9732e0e0ac6b4cd6f53a1c9d57c", null ],
+    [ "PM", "structstatement__impl__s.html#a44d75ab6f8ac8aa65a2026fc06300fbb", null ],
+    [ "pm_handle", "structstatement__impl__s.html#aa81700706de33ba081b865c574afb307", null ],
+    [ "query_result", "structstatement__impl__s.html#ad260d0278eb9da89869f2db6ba8d786b", null ],
+    [ "req_handle", "structstatement__impl__s.html#a3dde6b14330694a04a3780f67d69ef26", null ],
+    [ "res_handle", "structstatement__impl__s.html#a398d1288e230a38ab1883d8a3cadba03", null ],
+    [ "status", "structstatement__impl__s.html#ad73f0474a0dc6ddfbee648c889ea85c2", null ]
+];

@@ -1,0 +1,7 @@
+<map id="btree_root_header" name="btree_root_header">
+<area shape="rect" id="node2" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,175,97,281"/>
+<area shape="rect" id="node3" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="137,182,198,274"/>
+<area shape="rect" id="node4" href="$structbtree__node__header.html" title="{btree_node_header\n|+ node_level\l+ max_key_len\l|}" alt="" coords="223,182,355,274"/>
+<area shape="rect" id="node5" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="186,5,258,97"/>
+<area shape="rect" id="node6" href="$structbtree__node__split__info.html" title="{btree_node_split_info\n|+ pivot\l+ index\l|}" alt="" coords="283,5,428,97"/>
+</map>

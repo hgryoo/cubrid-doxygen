@@ -1,0 +1,21 @@
+<map id="fileio_make_log_archive_name" name="fileio_make_log_archive_name">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a90d88a6187c9ad197c3d656eb5a9b25d" title="la_find_archive_num" alt="" coords="503,130,644,157"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a0aaff7042c0765bd3eeff3d94545ce1b" title="la_log_fetch_from_archive" alt="" coords="712,134,887,161"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#ac30f1c46cfdcddf0f4e6b971b73850e6" title="la_remove_archive_logs" alt="" coords="718,84,881,110"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#ad94b4289fc6b2a6f006236d3f8761ed1" title="la_find_last_deleted\l_arv_num" alt="" coords="731,18,868,59"/>
+<area shape="rect" id="node7" href="$log__applier_8c.html#acc0c686529a6be2f0554e86f0b03398f" title="la_get_range_of_archive" alt="" coords="263,177,425,204"/>
+<area shape="rect" id="node8" href="$log__recovery_8c.html#aa052beef5218dd83b7f071eae3e8091e" title="log_recovery_notpartof\l_archives" alt="" coords="267,279,421,320"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#afa64df20d157259c45c448a377222029" title="logpb_append_archives\l_removed_to_log_info" alt="" coords="265,344,423,386"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#afa331753cdb3a068631690da37a47d6e" title="logpb_remove_archive\l_logs_internal" alt="" coords="497,374,649,415"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="489,486,657,513"/>
+<area shape="rect" id="node12" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="512,649,635,676"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html#a45020463486a6bde25e2428528cb5654" title="logpb_delete" alt="" coords="297,562,391,589"/>
+<area shape="rect" id="node14" href="$log__page__buffer_8c.html#a5d98688d5706fd68216d7931e5638a3b" title="logpb_fatal_error_internal" alt="" coords="261,613,427,640"/>
+<area shape="rect" id="node15" href="$log__page__buffer_8c.html#ad2a4086ead560587d249dcefe4a943e4" title="logpb_fetch_from_archive" alt="" coords="259,512,429,538"/>
+<area shape="rect" id="node16" href="$log__page__buffer_8c.html#a29e0ca657f7424a668b65e578857ae68" title="logpb_find_oldest_available\l_arv_num" alt="" coords="253,715,435,756"/>
+<area shape="rect" id="node17" href="$log__page__buffer_8c.html#aca52bf7ea3cda88146355cbbbf9a4d87" title="logpb_find_oldest_available\l_page_id" alt="" coords="483,730,664,771"/>
+<area shape="rect" id="node18" href="$log__page__buffer_8c.html#ac00c2c1a1a425f0169d91694144a193a" title="logpb_is_log_active\l_from_backup_useful" alt="" coords="271,832,417,874"/>
+<area shape="rect" id="node19" href="$log__page__buffer_8c.html#ae4e8d582d0a9a203bde7da29096cb726" title="logpb_remove_all_in\l_log_path" alt="" coords="274,898,414,939"/>
+<area shape="rect" id="node20" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="255,963,433,1004"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a9180654b6a7f8977c97f70878cf57d3d" title="la_log_page_check" alt="" coords="935,80,1068,106"/>
+</map>

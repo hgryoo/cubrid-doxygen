@@ -1,0 +1,10 @@
+<map id="init_user_locales" name="init_user_locales">
+<area shape="rect" id="node2" href="$language__support_8h.html#aacb13171682312ef3352667c25db37e7" title="lang_init" alt="" coords="172,146,243,172"/>
+<area shape="rect" id="node3" href="$release__string_8h.html#af0a01fb453436b57b58073bffaa20cb9" title="rel_build_type" alt="" coords="321,44,424,71"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="503,19,653,46"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="511,95,645,122"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="701,113,832,154"/>
+<area shape="rect" id="node7" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="303,196,442,223"/>
+<area shape="rect" id="node8" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="308,247,437,274"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="291,298,455,324"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="xserial_get_current_value_internal" name="xserial_get_current_value_internal">
+<area shape="rect" id="node2" href="$serial_8h.html#af7133207bc745c5bf5eb43971723e6a7" title="xserial_get_current\l_value" alt="" coords="185,71,317,112"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a8ec24f22a197b9519074148585811584" title="serial_get_current\l_value" alt="" coords="369,5,494,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#adb78b7f7e8f4e8d794cbd1a858f019d2" title="sserial_get_current\l_value" alt="" coords="365,71,497,112"/>
+<area shape="rect" id="node5" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="372,137,491,163"/>
+</map>

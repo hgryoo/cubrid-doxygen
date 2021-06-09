@@ -1,0 +1,7 @@
+<map id="logddl_write" name="logddl_write">
+<area shape="rect" id="node2" href="$ddl__log_8h.html#adc594c621b3fd1fce3dd7d46df9a79b7" title="logddl_write_end" alt="" coords="144,56,263,83"/>
+<area shape="rect" id="node4" href="$cas__execute_8h.html#a58deea8c335da5c20867f4664eeb7e5f" title="ux_execute_batch" alt="" coords="332,5,460,32"/>
+<area shape="rect" id="node3" href="$cas_8c.html#a82a4271444049b1bd9184b82dcd506b4" title="process_request" alt="" coords="337,56,455,83"/>
+<area shape="rect" id="node5" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="311,107,481,133"/>
+<area shape="rect" id="node6" href="$load__db_8c.html#a23f7dd8322d469075360a3461ff250e0" title="loaddb_internal" alt="" coords="341,157,451,184"/>
+</map>

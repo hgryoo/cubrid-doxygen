@@ -1,0 +1,17 @@
+<map id="pt_get_collation_info" name="pt_get_collation_info">
+<area shape="rect" id="node2" href="$classfunc__type_1_1Node.html#aee04c2de1c380cbcf1ed55e684fe75af" title="func_type::Node::check\l_arg_compat" alt="" coords="205,5,367,47"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#afab59b9d3dce837b4c095111e8506c88" title="pt_assignment_compatible" alt="" coords="197,71,375,98"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#a06007d90431b174a63875bf60871f3a7" title="pt_check_expr_collation" alt="" coords="205,122,367,149"/>
+<area shape="rect" id="node6" href="$type__checking_8c.html#a3623841cbeb65f9186dabf2ca6eab6bd" title="pt_check_function_collation" alt="" coords="195,173,377,199"/>
+<area shape="rect" id="node7" href="$type__checking_8c.html#a34a6c33848010ae7689e2d1f7c9ae87a" title="pt_eval_function_type_old" alt="" coords="432,198,605,225"/>
+<area shape="rect" id="node8" href="$type__checking_8c.html#a5cb74d4c3df825798c559ea8a75a548b" title="pt_check_recursive\l_expr_collation" alt="" coords="219,275,353,316"/>
+<area shape="rect" id="node9" href="$type__checking_8c.html#a7e95ac0522aada661a88c876786dddfa" title="pt_fold_const_expr" alt="" coords="220,341,352,367"/>
+<area shape="rect" id="node10" href="$semantic__check_8c.html#ac62db67592aa52f46cd4f75ba9cb8735" title="pt_get_compatible_info\l_from_node" alt="" coords="208,392,364,433"/>
+<area shape="rect" id="node16" href="$classfunc__type_1_1Node.html#acdef77e4e64ce753027eba47a5d21937" title="func_type::Node::set\l_return_type" alt="" coords="214,457,358,499"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#a72fab3ec678b321a3b20f3c8d035c43b" title="pt_coerce_insert_values" alt="" coords="437,71,600,98"/>
+<area shape="rect" id="node11" href="$semantic__check_8c.html#aa6896991bcf6e76a0984eec801f87a91" title="pt_apply_union_select\l_list_collation" alt="" coords="443,275,594,316"/>
+<area shape="rect" id="node12" href="$semantic__check_8c.html#a8b412bfe9c322bf797e32e141a7ea1f7" title="pt_combine_compatible_info" alt="" coords="425,341,612,367"/>
+<area shape="rect" id="node13" href="$semantic__check_8c.html#a10df2150a93a8e9d732384eca22f95fa" title="pt_get_common_type\l_for_union" alt="" coords="445,392,592,433"/>
+<area shape="rect" id="node14" href="$semantic__check_8c.html#af8d460da97a9c615076d543d77089390" title="pt_get_select_list\l_coll_compat" alt="" coords="457,457,581,499"/>
+<area shape="rect" id="node15" href="$semantic__check_8c.html#a07158031a22b6ab95047694786f3fc16" title="pt_union_compatible" alt="" coords="448,523,589,550"/>
+</map>

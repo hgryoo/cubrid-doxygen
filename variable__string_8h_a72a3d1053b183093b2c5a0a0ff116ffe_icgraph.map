@@ -1,0 +1,17 @@
+<map id="vs_sprintf" name="vs_sprintf">
+<area shape="rect" id="node2" href="$esql__host__variable_8c.html#afb57541a887b6bfcb39dfced17320be4" title="pp_addr_expr" alt="" coords="153,119,253,145"/>
+<area shape="rect" id="node8" href="$esql__host__variable_8h.html#a81eb6c2e3ba00d6746bf32cfe7b1833b" title="pp_get_input_size" alt="" coords="139,245,266,272"/>
+<area shape="rect" id="node9" href="$esql__host__variable_8h.html#a8c2f9c513c02a8c433b3fb05a844c330" title="pp_get_output_size" alt="" coords="329,321,463,348"/>
+<area shape="rect" id="node11" href="$esql__host__variable_8h.html#a96589f8ce96f8e04abad676e5c5ed187" title="pp_get_precision" alt="" coords="143,17,263,44"/>
+<area shape="rect" id="node12" href="$esql__symbol__table_8c.html#ae81d0f1509405e0a9dbc00c5f36abf1e" title="pp_new_pseudo_def" alt="" coords="132,372,273,399"/>
+<area shape="rect" id="node14" href="$esql__declare_8c.html#a52161f213df3f2245dea10e29bce987b" title="pp_print_link" alt="" coords="155,448,250,475"/>
+<area shape="rect" id="node3" href="$esql__host__variable_8h.html#aae03ee812aca5368889a4cbd9531dfb6" title="pp_get_addr_expr" alt="" coords="333,68,459,95"/>
+<area shape="rect" id="node7" href="$esql__host__variable_8h.html#a93a56b84da157c95dd8843ce2ffe26b8" title="pp_get_ind_addr_expr" alt="" coords="321,119,471,145"/>
+<area shape="rect" id="node4" href="$esql__translate_8c.html#a008d955f15bf6a40cf083d6383c1e86d" title="get_quasi_string" alt="" coords="525,132,643,159"/>
+<area shape="rect" id="node5" href="$esql__translate_8c.html#a82726934301d0cbe7370c853a0e24e2f" title="emit_put_db_value" alt="" coords="519,43,649,69"/>
+<area shape="rect" id="node6" href="$esql__translate_8c.html#a1f2325449257c868dfcb8b4bddd62069" title="emit_get_db_value" alt="" coords="519,227,649,253"/>
+<area shape="rect" id="node10" href="$esql__host__variable_8h.html#a41ccf72bf12015ae6aa99b028598db74" title="pp_print_host_ref" alt="" coords="335,220,457,247"/>
+<area shape="rect" id="node13" href="$esql__misc_8h.html#a3250a026bf3c13a75574a4981b7569c8" title="pp_add_spec_to_decl" alt="" coords="322,372,470,399"/>
+<area shape="rect" id="node15" href="$esql__declare_8c.html#a286dbcf569b90d170671160ac8b9d1a2" title="pp_print_decl" alt="" coords="347,473,445,500"/>
+<area shape="rect" id="node16" href="$esql__misc_8h.html#a95f0f6b835399e415cca2f5387af78eb" title="pp_print_specs" alt="" coords="341,423,451,449"/>
+</map>

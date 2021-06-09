@@ -1,0 +1,20 @@
+<map id="fileio_min_temporary_volumes" name="fileio_min_temporary_volumes">
+<area shape="rect" id="node2" href="$file__io_8c.html#a4756450084f251e83a14fbe2c835e4d9" title="fileio_map_mounted" alt="" coords="211,173,349,199"/>
+<area shape="rect" id="node9" href="$file__io_8c.html#aad7af3b09bec5c7b16e05c88fa54857e" title="fileio_reverse_traverse\l_temporary_volume" alt="" coords="203,341,357,383"/>
+<area shape="rect" id="node12" href="$file__io_8c.html#a66f83b9a4b72d3b2e93815cf201d2d99" title="fileio_traverse_temporary\l_volume" alt="" coords="196,568,364,609"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#aa37caaaf8ed95bba4b716979206f2004" title="disk_cache_load_all\l_volumes" alt="" coords="420,5,559,47"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a31a83751de67979bfe1fc97e5d93cce8" title="disk_dump_all" alt="" coords="437,71,542,98"/>
+<area shape="rect" id="node5" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="768,147,911,174"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="619,173,715,199"/>
+<area shape="rect" id="node7" href="$log__recovery_8c.html#a94f1505b0a4e2ec34df15da4fb8e0395" title="log_recovery_notpartof\l_volumes" alt="" coords="412,224,567,265"/>
+<area shape="rect" id="node8" href="$disk__manager_8c.html#a221766692c9b76db3e5ffdc7e3f2c1fe" title="xdisk_is_volume_exist" alt="" coords="412,290,567,317"/>
+<area shape="rect" id="node10" href="$file__io_8h.html#a0a289339d4e63bad13a97f323afd83bd" title="fileio_find_previous\l_temp_volume" alt="" coords="423,341,556,383"/>
+<area shape="rect" id="node11" href="$file__io_8c.html#ac4dfbfc1389fac0209015c5392d8f9b9" title="fileio_decache" alt="" coords="615,378,720,405"/>
+<area shape="rect" id="node13" href="$file__io_8h.html#a2bf5edd8dab8f012553391fc2c6dc67f" title="fileio_dismount_all" alt="" coords="425,458,554,485"/>
+<area shape="rect" id="node14" href="$file__io_8c.html#aca6d2f0fa8db31627a725fcb74139310" title="pwrite_with_injected\l_fault" alt="" coords="419,509,559,551"/>
+<area shape="rect" id="node15" href="$file__io_8c.html#a554de8378a7521353faf914373e9cd42" title="fileio_get_volume_id" alt="" coords="419,575,559,602"/>
+<area shape="rect" id="node16" href="$file__io_8h.html#a187bdd15c6b238b8799a1e5efa1e382d" title="fileio_find_volume\l_id_with_label" alt="" coords="426,627,553,668"/>
+<area shape="rect" id="node17" href="$file__io_8h.html#a11b5397c8046c01396c65e0782d42941" title="fileio_is_temp_volume" alt="" coords="414,693,565,719"/>
+<area shape="rect" id="node18" href="$file__io_8h.html#a047c759e96f14a6bec04960931a454ed" title="fileio_find_volume\l_descriptor_with_label" alt="" coords="414,744,565,785"/>
+<area shape="rect" id="node19" href="$file__io_8c.html#af48f5d6e407feaa0f2aa356b1a55ce74" title="fileio_get_lockf_type" alt="" coords="419,810,560,837"/>
+</map>

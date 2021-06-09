@@ -1,0 +1,8 @@
+<map id="event_log_bind_values" name="event_log_bind_values">
+<area shape="rect" id="node2" href="$network__interface__sr_8c.html#a0eb59ade53933c2873e28f2b7456cafc" title="event_log_many_ioreads" alt="" coords="208,5,375,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8c.html#aa5c954ff181513db7f09d533b4db9c47" title="event_log_slow_query" alt="" coords="216,56,367,83"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8c.html#a4a3b1e68dea5e0cb9fc930812c1a2407" title="event_log_temp_expand\l_pages" alt="" coords="210,107,373,149"/>
+<area shape="rect" id="node6" href="$lock__manager_8h.html#a599d30dae661fe8e9c5046fbb7475554" title="lock_wait_state_to\l_string" alt="" coords="226,173,357,214"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="437,56,587,83"/>
+<area shape="rect" id="node7" href="$show__scan_8c.html#ac935acc5511bb4405f0dc4d8d9e7014e" title="showstmt_array_end_scan" alt="" coords="423,180,601,207"/>
+</map>

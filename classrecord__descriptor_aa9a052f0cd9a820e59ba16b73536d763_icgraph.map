@@ -1,0 +1,13 @@
+<map id="record_descriptor::is_mutable" name="record_descriptor::is_mutable">
+<area shape="rect" id="node2" href="$classrecord__descriptor.html#ab823e24e3566a757a0b5ac2602960cc6" title="record_descriptor::\lcheck_changes_are_permitted" alt="" coords="184,195,383,236"/>
+<area shape="rect" id="node10" href="$classrecord__descriptor.html#a1ad34276bcfd9e1d0b704e40c1af5518" title="record_descriptor::\lresize_buffer" alt="" coords="218,355,349,396"/>
+<area shape="rect" id="node3" href="$classrecord__descriptor.html#a20c8d840e413925a46eba38e7d04390c" title="record_descriptor::\ldelete_data" alt="" coords="641,224,771,265"/>
+<area shape="rect" id="node4" href="$classrecord__descriptor.html#a1dddafad68961fb22c10d17b756d38c8" title="record_descriptor::\lget_data_for_modify" alt="" coords="435,136,575,177"/>
+<area shape="rect" id="node6" href="$classrecord__descriptor.html#a3cb6a0358a85e7f3cfaf4df21be3f62e" title="record_descriptor::\lmodify_data" alt="" coords="641,333,771,375"/>
+<area shape="rect" id="node7" href="$classrecord__descriptor.html#af830e08e7e408f051ffeb3bce0b64e10" title="record_descriptor::\lmove_data" alt="" coords="439,355,570,396"/>
+<area shape="rect" id="node8" href="$classrecord__descriptor.html#a7e47a4397b1cebee77dbc615d2d2301e" title="record_descriptor::\lset_record_length" alt="" coords="439,71,570,112"/>
+<area shape="rect" id="node9" href="$classrecord__descriptor.html#adae626e14728802c92e37bd30acefe6a" title="record_descriptor::\lset_type" alt="" coords="439,5,570,47"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a550ba39ad01765a4f0b7115fbb43f60c" title="heap_attrinfo_transform\l_to_disk_internal" alt="" coords="627,136,785,177"/>
+<area shape="rect" id="node11" href="$classrecord__descriptor.html#a8e0d6f0a0ff4411851b82e93f0f80b2c" title="record_descriptor::get" alt="" coords="431,486,579,513"/>
+<area shape="rect" id="node12" href="$classrecord__descriptor.html#abe3a4a094e61314dcf9a9c8fa14f4495" title="record_descriptor::\lunpack" alt="" coords="439,420,570,461"/>
+</map>

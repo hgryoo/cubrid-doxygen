@@ -1,0 +1,12 @@
+<map id="rel_build_type" name="rel_build_type">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="168,123,303,149"/>
+<area shape="rect" id="node7" href="$release__string_8h.html#abdb6702613b13d108599dd057e4fd22f" title="rel_copy_version_string" alt="" coords="156,260,315,287"/>
+<area shape="rect" id="node10" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="160,336,311,363"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="377,5,493,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="369,57,500,98"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="363,123,506,149"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="390,197,479,224"/>
+<area shape="rect" id="node8" href="$cubrid__version_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="409,248,460,275"/>
+<area shape="rect" id="node9" href="$util__service_8c.html#ad7d0c9443829e9ed7e5293a9da8dc2f9" title="util_service_version" alt="" coords="366,299,503,325"/>
+<area shape="rect" id="node11" href="$network__interface__cl_8h.html#af7fc2ae37e95cfeb4a29cd212b403f3d" title="boot_initialize_server" alt="" coords="363,349,507,376"/>
+</map>

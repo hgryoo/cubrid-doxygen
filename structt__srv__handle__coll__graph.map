@@ -1,0 +1,5 @@
+<map id="t_srv_handle" name="t_srv_handle">
+<area shape="rect" id="node2" href="$structt__query__result.html" title="{t_query_result\n|+ result\l+ null_type_column\l+ column_info\l+ copied\l+ tuple_count\l+ stmt_id\l+ num_column\l+ stmt_type\l+ col_updatable\l+ include_oid\l+ is_holdable\l|}" alt="" coords="5,175,140,399"/>
+<area shape="rect" id="node3" href="$structt__col__update__info.html" title="{t_col_update_info\n|+ attr_name\l+ class_name\l+ updatable\l|}" alt="" coords="11,5,135,112"/>
+<area shape="rect" id="node4" href="$structt__prepare__call__info.html" title="{t_prepare_call_info\n|+ dbval_ret\l+ dbval_args\l+ param_mode\l+ num_args\l+ is_first_out\l|}" alt="" coords="165,219,295,355"/>
+</map>

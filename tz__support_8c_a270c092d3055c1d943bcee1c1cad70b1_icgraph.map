@@ -1,0 +1,10 @@
+<map id="tz_str_read_number" name="tz_str_read_number">
+<area shape="rect" id="node2" href="$tz__compile_8c.html#ae4e44c7e7937f37d786b553b6e8813a8" title="str_read_day_var" alt="" coords="191,91,313,118"/>
+<area shape="rect" id="node3" href="$tz__compile_8c.html#a1a01a8f8e889ba9bed122e8ee37afaaf" title="str_to_offset_rule\l_until" alt="" coords="385,33,508,74"/>
+<area shape="rect" id="node4" href="$tz__compile_8c.html#a40a191630134a1a2d9ec77c95fba84e2" title="tzc_add_offset_rule" alt="" coords="580,40,716,67"/>
+<area shape="rect" id="node6" href="$tz__compile_8c.html#a71e1fae606536d3f5c31ddc1e92d60dc" title="tzc_add_ds_rule" alt="" coords="589,150,707,176"/>
+<area shape="rect" id="node7" href="$tz__support_8h.html#a5df952dc752e1011da434cc670d1d633" title="tz_str_read_time" alt="" coords="193,142,311,168"/>
+<area shape="rect" id="node8" href="$tz__compile_8c.html#ade7cebc2c08f5ed88eabbd4fef8f0d05" title="tzc_load_leap_secs" alt="" coords="378,200,515,227"/>
+<area shape="rect" id="node5" href="$tz__compile_8c.html#abd879e6783066aac29a552d4c1ef096b" title="tzc_parse_ds_change_on" alt="" coords="361,150,532,176"/>
+<area shape="rect" id="node9" href="$tz__support_8h.html#a609ef8e7780c394020e76688129a1c83" title="tz_str_to_seconds" alt="" coords="382,99,511,126"/>
+</map>

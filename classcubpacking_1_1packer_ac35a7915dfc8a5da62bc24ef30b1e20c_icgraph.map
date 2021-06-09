@@ -1,0 +1,5 @@
+<map id="cubpacking::packer::pack_bool" name="cubpacking::packer::pack_bool">
+<area shape="rect" id="node2" href="$structcubload_1_1load__args.html#acfedb70763ae6a71f56ee7c2ec8be5b0" title="cubload::load_args\l::pack" alt="" coords="194,5,325,47"/>
+<area shape="rect" id="node3" href="$classcubload_1_1load__status.html#a3587d8c2ba1ff786e01c2660d98ba9f1" title="cubload::load_status\l::pack" alt="" coords="188,71,331,112"/>
+<area shape="rect" id="node4" href="$classcubpacking_1_1packer.html#a727dfe15c65e9c9474869fa53842e781" title="cubpacking::packer\l::pack_overloaded" alt="" coords="192,136,327,177"/>
+</map>

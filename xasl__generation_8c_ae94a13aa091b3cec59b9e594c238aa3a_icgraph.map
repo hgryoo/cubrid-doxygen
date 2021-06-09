@@ -1,0 +1,11 @@
+<map id="pt_make_identity_offsets" name="pt_make_identity_offsets">
+<area shape="rect" id="node2" href="$xasl__generation_8c.html#a27b378c84e037826e15488be63b31375" title="pt_make_aptr_parent_node" alt="" coords="221,107,400,133"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#addc570adcc714e2710c075a3c1661bcc" title="pt_make_regu_list_from\l_value_list" alt="" coords="230,158,391,199"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#ac00afe3347320f27638ab8dbd860fa5c" title="pt_to_buildlist_proc" alt="" coords="243,224,378,251"/>
+<area shape="rect" id="node10" href="$xasl__generation_8h.html#a728da7d5b9b5550603a615d3ac24bb7a" title="ptqo_to_list_scan_proc" alt="" coords="233,275,389,301"/>
+<area shape="rect" id="node3" href="$xasl__generation_8h.html#a4ffda647bdf164dbc2ed5f4e418c7ff3" title="pt_to_delete_xasl" alt="" coords="471,5,595,32"/>
+<area shape="rect" id="node4" href="$xasl__generation_8h.html#aa08e377a0433d0f9d3167b1bb6bb0b1e" title="pt_to_insert_xasl" alt="" coords="473,56,594,83"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#aaec21ce3a085c64cbd1f04cc22bb43d1" title="pt_to_merge_insert_xasl" alt="" coords="451,107,615,133"/>
+<area shape="rect" id="node6" href="$xasl__generation_8c.html#ad40a4696a329c337de0d1b4cec048d27" title="pt_to_merge_update_xasl" alt="" coords="448,157,619,184"/>
+<area shape="rect" id="node7" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="469,208,597,235"/>
+</map>

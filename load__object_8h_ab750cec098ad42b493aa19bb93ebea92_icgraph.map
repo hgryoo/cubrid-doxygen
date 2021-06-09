@@ -1,0 +1,12 @@
+<map id="text_print" name="text_print">
+<area shape="rect" id="node2" href="$unloaddb_8h.html#a8f06d201be33ae14bcdaf8d8bfffb36f" title="extract_objects" alt="" coords="1137,68,1248,95"/>
+<area shape="rect" id="node4" href="$load__object_8c.html#ab8d2ab5a5b630961a292bb1640ea5b66" title="fprint_special_set" alt="" coords="303,97,427,124"/>
+<area shape="rect" id="node6" href="$unload__object_8c.html#aa226f526afebfa0453ddff08a5b7ca61" title="process_value" alt="" coords="669,233,776,260"/>
+<area shape="rect" id="node7" href="$unload__object_8c.html#a2d6b1c55f19dd43e6665301e1cb323fb" title="process_class" alt="" coords="983,195,1089,221"/>
+<area shape="rect" id="node8" href="$unload__object_8c.html#a2981745aa6953a1889b17834db3cf238" title="process_object" alt="" coords="824,169,935,196"/>
+<area shape="rect" id="node9" href="$unload__object_8c.html#a282294be2fcd18d3421a078ebba25d66" title="process_set" alt="" coords="833,271,926,297"/>
+<area shape="rect" id="node10" href="$load__object_8c.html#a2e8fb090097839cea5ba3d3999a093fd" title="fprint_special_strings" alt="" coords="292,148,437,175"/>
+<area shape="rect" id="node11" href="$load__object_8c.html#abd8970dbebdbcc69dc1b0b1845c57638" title="print_quoted_str" alt="" coords="129,195,244,221"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a090ec522bafd813b8ba255a9af927ba3" title="unloaddb" alt="" coords="1296,68,1371,95"/>
+<area shape="rect" id="node5" href="$load__object_8h.html#a893ad841c24089f4e04f7dae8a9cd7f3" title="desc_value_special\l_fprint" alt="" coords="485,117,621,158"/>
+</map>

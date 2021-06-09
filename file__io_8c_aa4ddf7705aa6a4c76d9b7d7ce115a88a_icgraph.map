@@ -1,0 +1,13 @@
+<map id="fileio_is_system_volume_label_equal" name="fileio_is_system_volume_label_equal">
+<area shape="rect" id="node2" href="$file__io_8h.html#a047c759e96f14a6bec04960931a454ed" title="fileio_find_volume\l_descriptor_with_label" alt="" coords="219,217,369,259"/>
+<area shape="rect" id="node10" href="$file__io_8h.html#a187bdd15c6b238b8799a1e5efa1e382d" title="fileio_find_volume\l_id_with_label" alt="" coords="231,415,357,456"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a9db5c7116e17a33a0e3a7c2a566360a3" title="disk_rv_redo_dboutside\l_newvol" alt="" coords="417,5,576,47"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#a4e56e244f9d5c2cf42106670fa58d101" title="disk_can_overwrite\l_data_volume" alt="" coords="429,71,564,112"/>
+<area shape="rect" id="node5" href="$file__io_8c.html#addc9d05dedccecd27deedf9f6d311f74" title="fileio_create" alt="" coords="451,137,543,163"/>
+<area shape="rect" id="node6" href="$file__io_8h.html#ae8339bbff475b080006577c25c1148df" title="fileio_unformat_and\l_rename" alt="" coords="429,188,564,229"/>
+<area shape="rect" id="node7" href="$file__io_8h.html#a84fbe8f4420d7decc0fe88516373e5a8" title="fileio_mount" alt="" coords="451,254,543,281"/>
+<area shape="rect" id="node8" href="$file__io_8h.html#a4613320b9f2d0c974146566c1766d2fc" title="fileio_is_volume_exist" alt="" coords="421,305,572,331"/>
+<area shape="rect" id="node9" href="$file__io_8h.html#a6559b27bec0047f1bc44a9373b889890" title="fileio_is_volume_exist\l_and_file" alt="" coords="421,356,572,397"/>
+<area shape="rect" id="node11" href="$dbi__compat_8h.html#a956a5949558feb36e06422fe43259661" title="db_warnspace" alt="" coords="443,422,550,449"/>
+<area shape="rect" id="node12" href="$disk__manager_8h.html#a9bb177a50cfef0adc1cc83b5e141f721" title="disk_unformat" alt="" coords="445,473,549,499"/>
+</map>

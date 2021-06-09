@@ -1,0 +1,13 @@
+<map id="css_windows_blocking_hook" name="css_windows_blocking_hook">
+<area shape="rect" id="node2" href="$wintcp_8h.html#a44b284a1454b07609f408210ce67702b" title="css_windows_startup" alt="" coords="244,218,392,245"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="679,41,795,68"/>
+<area shape="rect" id="node4" href="$client__support_8h.html#a21a96408ff489b345b02324da654c7fc" title="css_client_init" alt="" coords="483,41,588,68"/>
+<area shape="rect" id="node5" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="502,92,569,118"/>
+<area shape="rect" id="node6" href="$wintcp_8c.html#a375c80e33f41c163e69dbdd556242115" title="css_gethostname" alt="" coords="473,142,598,169"/>
+<area shape="rect" id="node7" href="$wintcp_8c.html#a2d777e6bb063cfaefd4aac78ef1835ec" title="css_gethostid" alt="" coords="484,193,587,220"/>
+<area shape="rect" id="node8" href="$wintcp_8c.html#a5dd15a1a84c4f9c294a57a44434a4829" title="css_tcp_master_open" alt="" coords="460,244,611,270"/>
+<area shape="rect" id="node9" href="$wintcp_8c.html#a7ad6f048070d17dc2631471b8fcb9e28" title="css_open_server_connection\l_socket" alt="" coords="440,295,631,336"/>
+<area shape="rect" id="node10" href="$wintcp_8c.html#a926921f6df9beace4a10d3a1e4f62bca" title="css_hostname_to_ip" alt="" coords="464,361,607,388"/>
+<area shape="rect" id="node11" href="$commdb_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="510,412,561,438"/>
+<area shape="rect" id="node12" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="471,462,600,489"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="lockfree::freelist::free_node::reset_freelist_next" name="lockfree::freelist::free_node::reset_freelist_next">
+<area shape="rect" id="node2" href="$classlockfree_1_1freelist.html#ab6831629bcc42ecf364ceb7828911b03" title="lockfree::freelist\l::pop_from_available" alt="" coords="256,5,399,47"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1freelist.html#a806d42cde415b3c618b703eff2560614" title="lockfree::freelist\l::claim" alt="" coords="447,5,561,47"/>
+</map>

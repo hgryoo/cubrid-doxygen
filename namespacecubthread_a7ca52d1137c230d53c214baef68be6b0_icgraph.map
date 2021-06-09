@@ -1,0 +1,8 @@
+<map id="cubthread::wp_worker_statset_time_and_increment" name="cubthread::wp_worker_statset_time_and_increment">
+<area shape="rect" id="node2" href="$classcubthread_1_1worker__pool_1_1core_1_1worker.html#a9999bcd12d4d480579dc7c6cf2c337bc" title="cubthread::worker_pool\l::core::worker::execute\l_current_task" alt="" coords="478,31,635,87"/>
+<area shape="rect" id="node4" href="$classcubthread_1_1worker__pool_1_1core_1_1worker.html#af4f1706061161650d7e0c358be7d9b12" title="cubthread::worker_pool\l::core::worker::finish_run" alt="" coords="247,110,413,152"/>
+<area shape="rect" id="node5" href="$classcubthread_1_1worker__pool_1_1core_1_1worker.html#ae240e3268bb827d81130f481cb71cdfa" title="cubthread::worker_pool\l::core::worker::get_new_task" alt="" coords="461,122,652,164"/>
+<area shape="rect" id="node6" href="$classcubthread_1_1worker__pool_1_1core_1_1worker.html#a4a8706a0a5534b99b1d30657cc59745b" title="cubthread::worker_pool\l::core::worker::init_run" alt="" coords="478,209,635,250"/>
+<area shape="rect" id="node7" href="$classcubthread_1_1worker__pool_1_1core_1_1worker.html#ab5a547c78572b2176b3c68eb9734b972" title="cubthread::worker_pool\l::core::worker::retire\l_current_task" alt="" coords="251,31,409,87"/>
+<area shape="rect" id="node3" href="$classcubthread_1_1worker__pool_1_1core_1_1worker.html#a7d6a2579169078093a718edb4f0a8758" title="cubthread::worker_pool\l::core::worker::run" alt="" coords="700,122,857,164"/>
+</map>

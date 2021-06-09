@@ -1,0 +1,13 @@
+<map id="varbit_compare" name="varbit_compare">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#afea43886dad38baf3d63edb593f90fe8" title="db_string_compare" alt="" coords="183,93,315,120"/>
+<area shape="rect" id="node7" href="$string__opfunc_8c.html#a20eac553b53f78047f358aba208a43a1" title="db_string_prefix_compare" alt="" coords="164,168,335,195"/>
+<area shape="rect" id="node8" href="$object__primitive_8c.html#a72c6736f4cddee6279eb9cd14ec76ca5" title="mr_cmpval_varbit" alt="" coords="405,219,531,245"/>
+<area shape="rect" id="node10" href="$object__primitive_8c.html#a543b807e15ffe14e7a501bf2db389f8e" title="mr_cmpval_varbit2" alt="" coords="402,269,534,296"/>
+<area shape="rect" id="node11" href="$object__primitive_8c.html#ad1a539a33004073f477d5284a5048b75" title="mr_data_cmpdisk_varbit" alt="" coords="167,320,331,347"/>
+<area shape="rect" id="node3" href="$string__opfunc_8h.html#ac3ffef8e5b26f9eb37244803008304fc" title="db_string_index_prefix" alt="" coords="601,43,753,69"/>
+<area shape="rect" id="node4" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="832,81,951,108"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="801,5,981,32"/>
+<area shape="rect" id="node6" href="$string__opfunc_8h.html#aeecf424ab8d6e1b981aa7664954c5843" title="db_string_unique_prefix" alt="" coords="389,168,547,195"/>
+<area shape="rect" id="node9" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="607,287,747,329"/>
+<area shape="rect" id="node12" href="$object__primitive_8c.html#a8c40ee8ef5a85905f5c9c7b3ff204aba" title="mr_index_cmpdisk_varbit" alt="" coords="383,371,553,397"/>
+</map>

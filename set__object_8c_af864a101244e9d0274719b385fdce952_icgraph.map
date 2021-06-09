@@ -1,0 +1,9 @@
+<map id="setobj_drop_seq_element" name="setobj_drop_seq_element">
+<area shape="rect" id="node2" href="$set__object_8h.html#a884728db3caa20602f8654ac45ef3b07" title="set_drop_seq_element" alt="" coords="224,132,377,159"/>
+<area shape="rect" id="node3" href="$db__set__function_8h.html#af0e151f4fbb17a147402640807a110a3" title="db_seq_drop" alt="" coords="451,5,547,32"/>
+<area shape="rect" id="node4" href="$db__set__function_8h.html#ae32b022a8634c1f0338b55d55fed77fb" title="db_col_drop_element" alt="" coords="427,56,572,83"/>
+<area shape="rect" id="node5" href="$authenticate_8c.html#a228492feb4c2daa9e6169c65e614f8c5" title="drop_grant_entry" alt="" coords="440,107,559,133"/>
+<area shape="rect" id="node6" href="$class__object_8h.html#ae98d3a5605742b3c41321b77707a48dd" title="classobj_drop_prop" alt="" coords="432,157,567,184"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#ad7caf861302e1ceb2634622dbd8ba53a" title="classobj_drop_foreign\l_key_ref" alt="" coords="425,209,573,250"/>
+<area shape="rect" id="node8" href="$trigger__manager_8c.html#ac191f2fc3c526077eafffef44bc6923b" title="trigger_table_drop" alt="" coords="437,275,562,301"/>
+</map>

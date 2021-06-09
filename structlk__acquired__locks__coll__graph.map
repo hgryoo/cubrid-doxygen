@@ -1,0 +1,4 @@
+<map id="lk_acquired_locks" name="lk_acquired_locks">
+<area shape="rect" id="node2" href="$structlk__acqobj__lock.html" title="{lk_acqobj_lock\n|+ lock\l|}" alt="" coords="15,189,123,267"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="23,5,115,112"/>
+</map>

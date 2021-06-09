@@ -1,0 +1,8 @@
+<map id="db_drop_class_ex" name="db_drop_class_ex">
+<area shape="rect" id="node2" href="$db__class_8c.html#aff0a09aee1111dc26d5bc26ea87fcf2a" title="db_drop_class" alt="" coords="189,56,295,83"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a3cf970a0d744167f782960b61770d20a" title="drop_class_name" alt="" coords="180,107,304,133"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="385,5,462,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8c.html#a1c906d817cb0b45ca6b099228f903201" title="catcls_vclass_install" alt="" coords="352,56,495,83"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#aae1539d206b9d13f6d085bb9e56af235" title="do_drop" alt="" coords="389,107,457,133"/>
+<area shape="rect" id="node7" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="364,157,483,184"/>
+</map>

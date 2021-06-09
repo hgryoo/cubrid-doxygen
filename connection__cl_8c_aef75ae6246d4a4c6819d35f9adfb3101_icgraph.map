@@ -1,0 +1,8 @@
+<map id="css_receive_error" name="css_receive_error">
+<area shape="rect" id="node2" href="$connection__cl_8h.html#a7bb87f7c020bc88c88c5729fe1a339d1" title="css_connect_to_cubrid\l_server" alt="" coords="179,11,335,53"/>
+<area shape="rect" id="node4" href="$client__support_8h.html#a9470568c2d2320cdc9432cf9c6d8d1c1" title="css_receive_data_from\l_server_with_timeout" alt="" coords="179,102,336,143"/>
+<area shape="rect" id="node3" href="$client__support_8h.html#a21a96408ff489b345b02324da654c7fc" title="css_client_init" alt="" coords="410,5,515,32"/>
+<area shape="rect" id="node5" href="$client__support_8h.html#a0e3b4a0b75e59666afaa922f0b8a233c" title="css_receive_data_from\l_server" alt="" coords="384,57,541,98"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#a11851604e65969550db2efc5f3fe820e" title="net_client_request\l_with_logwr_context" alt="" coords="589,86,731,127"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#af95381350be5c0a0cda9b753f96704a7" title="net_client_ping_server" alt="" coords="387,173,539,200"/>
+</map>

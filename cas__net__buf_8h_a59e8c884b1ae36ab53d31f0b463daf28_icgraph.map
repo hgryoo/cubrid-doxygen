@@ -1,0 +1,21 @@
+<map id="net_buf_column_info_set" name="net_buf_column_info_set">
+<area shape="rect" id="node2" href="$cas__execute_8c.html#a776ecaee0a6b29bfcd6665c7b1459a2d" title="oid_attr_info_set" alt="" coords="251,5,370,32"/>
+<area shape="rect" id="node4" href="$cas__execute_8c.html#ab8325302e8898d7491398775714bf061" title="prepare_column_info_set" alt="" coords="227,56,394,83"/>
+<area shape="rect" id="node7" href="$cas__schema__info_8h.html#a85fd07f92e990edd93379c548e5293b4" title="schema_attr_meta" alt="" coords="245,107,376,133"/>
+<area shape="rect" id="node8" href="$cas__schema__info_8h.html#a8bd617d4f0191398a227f76aba6cde18" title="schema_attrpriv_meta" alt="" coords="235,157,386,184"/>
+<area shape="rect" id="node9" href="$cas__schema__info_8h.html#aa1ba4e3eee65ed556c21722855e57e6c" title="schema_classpriv_meta" alt="" coords="229,208,392,235"/>
+<area shape="rect" id="node10" href="$cas__schema__info_8h.html#a3390f6d9a2b3b9344b1ce3d64578d31a" title="schema_constraint_meta" alt="" coords="227,259,395,285"/>
+<area shape="rect" id="node11" href="$cas__schema__info_8h.html#ad847138c371bd3d7bc7e07f49be2c074" title="schema_directsuper_meta" alt="" coords="223,309,398,336"/>
+<area shape="rect" id="node12" href="$cas__schema__info_8h.html#a872589a8358dd055847198b95a7936ab" title="schema_fk_info_meta" alt="" coords="235,360,386,387"/>
+<area shape="rect" id="node13" href="$cas__schema__info_8h.html#a319a1bb8dfe0f65e620f5354238ac6af" title="schema_method_meta" alt="" coords="233,411,388,437"/>
+<area shape="rect" id="node14" href="$cas__schema__info_8h.html#aea9c829ebc78d88901d4574ad4a60a77" title="schema_methodfile_meta" alt="" coords="225,461,396,488"/>
+<area shape="rect" id="node15" href="$cas__schema__info_8h.html#a44664081e178282acacc5c92aaa608e8" title="schema_primarykey_meta" alt="" coords="223,512,398,539"/>
+<area shape="rect" id="node16" href="$cas__schema__info_8h.html#a23421733876041ecf026e24667b9ee91" title="schema_query_spec_meta" alt="" coords="221,563,400,589"/>
+<area shape="rect" id="node17" href="$cas__schema__info_8h.html#ac3ca85ffc55571a153ed8590c92550d7" title="schema_superclasss_meta" alt="" coords="220,613,401,640"/>
+<area shape="rect" id="node18" href="$cas__schema__info_8h.html#ab384f2827ae8c732e3ab60c30cd82bac" title="schema_table_meta" alt="" coords="241,664,380,691"/>
+<area shape="rect" id="node19" href="$cas__schema__info_8h.html#aa8dc9f1167de8d694db96c17ebb6308f" title="schema_trigger_meta" alt="" coords="237,715,384,741"/>
+<area shape="rect" id="node20" href="$cas__execute_8h.html#a09f36de4c7844474d929c4c03b0a2c26" title="ux_col_get" alt="" coords="268,765,353,792"/>
+<area shape="rect" id="node3" href="$cas__execute_8h.html#a0de2497a6df43aa3169e485b3f6d0f5b" title="ux_oid_get" alt="" coords="465,5,551,32"/>
+<area shape="rect" id="node5" href="$cas__execute_8c.html#a977259b8d253fa1f9cd18f4e46ef726b" title="prepare_column_list\l_info_set" alt="" coords="615,74,753,115"/>
+<area shape="rect" id="node6" href="$cas__execute_8c.html#a58162a8832b5babaa9cd14e536c2ca45" title="set_column_info" alt="" coords="449,107,567,133"/>
+</map>

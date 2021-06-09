@@ -1,0 +1,19 @@
+<map id="object_resultset_s_" name="object_resultset_s_">
+<area shape="rect" id="node14" href="$structobject__res__bind__s.html" title="{object_res_bind_s\n||}" alt="" coords="1430,1849,1557,1927"/>
+<area shape="rect" id="node16" href="$structobject__rm__bind__s.html" title="{object_rm_bind_s\n||}" alt="" coords="1233,1849,1357,1927"/>
+<area shape="rect" id="node2" href="$structsm__attribute.html" title="{sm_attribute\n|+ id\l+ offset\l+ on_update_default_expr\l+ flags\l+ order\l+ storage_order\l+ comment\l|}" alt="" coords="703,1408,875,1573"/>
+<area shape="rect" id="node3" href="$structtr__schema__cache.html" title="{tr_schema_cache\n|+ compiled\l+ array_length\l|}" alt="" coords="1177,960,1303,1052"/>
+<area shape="rect" id="node4" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="81,5,255,259"/>
+<area shape="rect" id="node6" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="363,321,496,545"/>
+<area shape="rect" id="node9" href="$structdb__set.html" title="{db_set\n|+ disk_set\l+ attribute\l+ ref_count\l+ disk_size\l+ need_clear\l|}" alt="" coords="310,938,407,1074"/>
+<area shape="rect" id="node5" href="$structsm__default__value.html" title="{sm_default_value\n||}" alt="" coords="162,967,286,1045"/>
+<area shape="rect" id="node8" href="$structpr__type.html" title="{pr_type\n|+ name\l+ id\l+ variable_p\l+ size\l+ disksize\l+ alignment\l# f_freemem\l|+ pr_type()\l+ pr_type()\l+ get_name()\l+ get_id()\l+ get_alignment()\l+ set_data_cmpdisk_function()\l+ get_data_cmpdisk_function()\l+ set_cmpval_function()\l+ get_cmpval_function()\l+ is_always_variable()\l+ is_size_computed()\l+ get_mem_size_of_mem()\l+ get_disk_size_of_mem()\l+ get_index_size_of_mem()\l+ get_mem_size_of_value()\l+ get_disk_size_of_value()\l+ get_index_size_of_value()\l+ initmem()\l+ setmem()\l+ getmem()\l+ freemem()\l+ initval()\l+ setval()\l+ cmpval()\l+ data_writemem()\l+ data_readmem()\l+ data_writeval()\l+ data_readval()\l+ data_cmpdisk()\l+ index_writeval()\l+ index_readval()\l+ index_cmpdisk()\l}" alt="" coords="510,696,711,1316"/>
+<area shape="rect" id="node7" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="1154,79,1246,185"/>
+<area shape="rect" id="node10" href="$structsm__constraint.html" title="{sm_constraint\n|+ name\l+ type\l+ has_function\l|}" alt="" coords="735,953,843,1059"/>
+<area shape="rect" id="node11" href="$structsm__component.html" title="{sm_component\n|+ name\l+ name_space\l|}" alt="" coords="981,960,1091,1052"/>
+<area shape="rect" id="node12" href="$structvalue__bind__table__s.html" title="{value_bind_table_s\n||}" alt="" coords="1449,1452,1583,1529"/>
+<area shape="rect" id="node13" href="$structvalue__bind__table__ifs__s.html" title="{value_bind_table_ifs_s\n|+ get_value\l+ set_value\l+ get_value_by_name\l+ set_value_by_name\l+ apply_updates\l+ reset\l+ destroy\l|}" alt="" coords="1465,923,1620,1089"/>
+<area shape="rect" id="node15" href="$structapi__resultset__s.html" title="{api_resultset_s\n|+ COMMON_RESULTSET_HEADER\l|}" alt="" coords="1503,1695,1750,1772"/>
+<area shape="rect" id="node17" href="$structapi__resultset__meta__s.html" title="{api_resultset_meta_s\n|+ COMMON_RESULTSET_META\l_HEADER\l|}" alt="" coords="1093,1687,1320,1779"/>
+<area shape="rect" id="node18" href="$structbh__interface__s.html" title="{bh_interface_s\n|+ alloc_handle\l+ destroy_handle\l+ lookup\l+ bind_to_handle\l+ bind_get_parent\l+ bind_prune\l+ bind_graft\l+ bind_get_first_child\l+ bind_get_next_sibling\l+ bind_map\l+ destroy\l|}" alt="" coords="1607,1379,1766,1603"/>
+</map>

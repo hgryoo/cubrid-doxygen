@@ -1,0 +1,6 @@
+<map id="dwb_destroy_internal" name="dwb_destroy_internal">
+<area shape="rect" id="node2" href="$double__write__buffer_8h.html#a5f895a64d283260b4d3b6147b49c17c0" title="dwb_destroy" alt="" coords="201,31,297,57"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8h.html#a73fd65b5e5208dc676dab35b729a84fc" title="dwb_recreate" alt="" coords="199,81,299,108"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="347,5,507,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="353,56,501,83"/>
+</map>

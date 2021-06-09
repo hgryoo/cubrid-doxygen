@@ -1,0 +1,9 @@
+<map id="lf_stack_pop" name="lf_stack_pop">
+<area shape="rect" id="node2" href="$lock__free_8h.html#a68d6d9f31aedc2635b42148895cac674" title="lf_freelist_claim" alt="" coords="149,147,263,174"/>
+<area shape="rect" id="node3" href="$classlf__hash__table__cpp.html#a5aebc4382dc46fbb3d47e280d0f96967" title="lf_hash_table_cpp::\lfreelist_claim" alt="" coords="319,5,453,47"/>
+<area shape="rect" id="node4" href="$lock__free_8c.html#a18af93f8c02190c692007b889f487500" title="lf_list_insert_internal" alt="" coords="315,71,457,98"/>
+<area shape="rect" id="node5" href="$lock__manager_8h.html#a039adf79f7b8839277c035670e009fd9" title="lock_rep_read_tran" alt="" coords="320,122,452,149"/>
+<area shape="rect" id="node6" href="$list__file_8h.html#abe67de63e0c3bdf78981c0dca64ece60" title="qfile_allocate_sort_list" alt="" coords="311,173,461,199"/>
+<area shape="rect" id="node7" href="$unittests__lf_8c.html#a2268dc8b698fc7e8b31517a46488a762" title="test_freelist_proc" alt="" coords="509,253,632,279"/>
+<area shape="rect" id="node8" href="$unittests__lf_8c.html#aaf441e6b6e06232e972039a0bf4198b0" title="test_freelist_proc\l_local_tran" alt="" coords="325,275,447,316"/>
+</map>

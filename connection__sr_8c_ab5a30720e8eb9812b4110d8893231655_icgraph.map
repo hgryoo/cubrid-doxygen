@@ -1,0 +1,8 @@
+<map id="css_free_wait_queue_entry" name="css_free_wait_queue_entry">
+<area shape="rect" id="node2" href="$connection__sr_8c.html#af071f6e6432663f8ed4c61c8605fb748" title="clear_wait_queue_entry\l_and_free_buffer" alt="" coords="201,5,359,47"/>
+<area shape="rect" id="node4" href="$connection__sr_8c.html#acca77d961ddea1869c0f9c1b7058e8d6" title="css_queue_data_packet" alt="" coords="199,71,361,98"/>
+<area shape="rect" id="node6" href="$connection__sr_8c.html#a76266027214c0261af26a2377f99d7d3" title="css_remove_and_free\l_wait_queue_entry" alt="" coords="205,123,355,164"/>
+<area shape="rect" id="node3" href="$connection__sr_8c.html#a4ae98ca7720529ffbc7f83697630ca18" title="css_return_queued_data\l_timeout" alt="" coords="421,5,585,47"/>
+<area shape="rect" id="node5" href="$connection__sr_8c.html#a7b14f5dcb61f10200379c033f8d47156" title="css_queue_packet" alt="" coords="437,71,568,98"/>
+<area shape="rect" id="node7" href="$connection__sr_8c.html#a0fa48e7c9685ffafc98bf361e99cd039" title="css_remove_all_unexpected\l_packets" alt="" coords="409,123,596,164"/>
+</map>

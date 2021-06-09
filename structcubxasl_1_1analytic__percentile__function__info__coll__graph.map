@@ -1,0 +1,7 @@
+<map id="cubxasl::analytic_percentile_function_info" name="cubxasl::analytic_percentile_function_info">
+<area shape="rect" id="node2" href="$classregu__variable__node.html" title="{regu_variable_node\n|+ type\l+ flags\l|+ regu_variable_node()\l+ map_regu()\l+ map_regu_and_xasl()\l+ clear_xasl()\l&#45; map_regu()\l&#45; clear_xasl_local()\l}" alt="" coords="284,784,443,949"/>
+<area shape="rect" id="node3" href="$structxasl__node.html" title="{xasl_node\n|+ type\l+ flag\l+ orderby_limit\l+ ordbynum_flag\l+ is_single_tuple\l+ option\l+ limit_offset\l+ limit_row_count\l+ level_regu\l+ isleaf_regu\l+ iscycle_regu\l+ instnum_flag\l+ next_scan_on\l+ next_scan_block_on\l+ cat_fetched\l+ query_in_progress\l+ scan_op_type\l+ upd_del_class_cnt\l+ mvcc_reev_extra_cls_cnt\l+ proc\l+ cardinality\l+ projected_size\l+ n_oid_list\l+ class_locks\l+ tcard_list\l+ query_alias\l+ dbval_cnt\l+ iscan_oid_order\l+ max_iterations\l|}" alt="" coords="158,219,340,707"/>
+<area shape="rect" id="node4" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="200,5,298,83"/>
+<area shape="rect" id="node5" href="$unionregu__variable__node_1_1regu__data__value.html" title="{regu_variable_node\l::regu_data_value\n|+ val_pos\l|}" alt="" coords="490,417,624,509"/>
+<area shape="rect" id="node6" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="649,351,782,575"/>
+</map>

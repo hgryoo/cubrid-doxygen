@@ -1,0 +1,10 @@
+<map id="smt_add_method_any" name="smt_add_method_any">
+<area shape="rect" id="node2" href="$db__class_8c.html#ad70d5fcc3ceff89fe0d7d5f029d0d17e" title="add_method_internal" alt="" coords="213,31,355,57"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a5a6a648dde8275a4340f80e248017608" title="dbt_add_class_method" alt="" coords="206,81,362,108"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#a8bd80ccdc64fdd0212864d83d00c97b8" title="dbt_add_method" alt="" coords="225,132,343,159"/>
+<area shape="rect" id="node8" href="$schema__template_8h.html#aa1dea970f31167a122cf54710404d016" title="smt_add_class_method" alt="" coords="204,183,364,209"/>
+<area shape="rect" id="node9" href="$schema__template_8h.html#a41217b65bf60d51e53ed11647e980009" title="smt_add_method" alt="" coords="223,233,345,260"/>
+<area shape="rect" id="node3" href="$db__class_8c.html#a5290b9ce8ff9f60829971e43ac574cad" title="db_add_class_method" alt="" coords="412,5,564,32"/>
+<area shape="rect" id="node4" href="$db__class_8c.html#a454357133b4cc03908deae256c27b639" title="db_add_method" alt="" coords="431,56,545,83"/>
+<area shape="rect" id="node6" href="$execute__schema_8h.html#aa5d1dee3966bdbe30a7ce6cfa3023302" title="do_add_methods" alt="" coords="427,119,549,145"/>
+</map>

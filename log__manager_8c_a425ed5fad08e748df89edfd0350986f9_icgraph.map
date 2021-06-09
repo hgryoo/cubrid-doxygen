@@ -1,0 +1,7 @@
+<map id="log_restart_emergency" name="log_restart_emergency">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="208,56,381,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="213,107,377,133"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a6dc8b536b7d535d54c1471a87b76f2c2" title="xboot_delete" alt="" coords="460,5,556,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="433,56,583,83"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#ad5a0894d25fa1b98981a8cfceaa6ed33" title="boot_emergency_patch" alt="" coords="429,107,587,133"/>
+</map>

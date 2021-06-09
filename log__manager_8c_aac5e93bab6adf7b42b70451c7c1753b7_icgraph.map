@@ -1,0 +1,9 @@
+<map id="log_do_postpone" name="log_do_postpone">
+<area shape="rect" id="node2" href="$log__recovery_8c.html#a766a771dfebf096e54eca48d411cf0d0" title="log_recovery_finish\l_postpone" alt="" coords="407,5,541,47"/>
+<area shape="rect" id="node4" href="$log__recovery_8c.html#a9644e05051274672439fd862fee704f7" title="log_recovery_finish\l_sysop_postpone" alt="" coords="187,68,322,109"/>
+<area shape="rect" id="node6" href="$log__manager_8c.html#aff36e63affe3029989477fa08770329b" title="log_sysop_do_postpone" alt="" coords="173,134,336,161"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html#a2f223d57ca61e8009df26a1e0efc2795" title="log_tran_do_postpone" alt="" coords="180,185,329,211"/>
+<area shape="rect" id="node3" href="$log__recovery_8c.html#a7cd77afe60c89a9a3105fb7501aa2097" title="log_recovery_finish\l_all_postpone" alt="" coords="612,5,747,47"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a07a855b72fc0ff63467c083942f3e49a" title="log_recovery_abort\l_atomic_sysop" alt="" coords="408,71,540,112"/>
+<area shape="rect" id="node7" href="$log__manager_8c.html#a1e4500b198cf9f51121a641472d9cddc" title="log_sysop_commit_internal" alt="" coords="384,137,564,163"/>
+</map>

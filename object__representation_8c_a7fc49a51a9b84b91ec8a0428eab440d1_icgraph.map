@@ -1,0 +1,8 @@
+<map id="or_packed_put_varchar" name="or_packed_put_varchar">
+<area shape="rect" id="node2" href="$object__primitive_8c.html#a132caabc15ad068083b0fdfb965432ae" title="mr_data_writemem_string" alt="" coords="455,5,627,32"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a7f31b717552e34b586ee9f2b9e5e5444" title="mr_data_writemem_varnchar" alt="" coords="211,56,401,83"/>
+<area shape="rect" id="node5" href="$object__primitive_8c.html#a7f960851492e52fc5a405f22e52a8923" title="mr_writeval_varnchar\l_internal" alt="" coords="233,129,379,170"/>
+<area shape="rect" id="node3" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="681,99,821,141"/>
+<area shape="rect" id="node6" href="$object__primitive_8c.html#a0a1e13a061ca72f2a979b08dacb1a8fd" title="mr_data_writeval_varnchar" alt="" coords="452,157,631,184"/>
+<area shape="rect" id="node7" href="$object__primitive_8c.html#a3d011cda8556adcd34c033789a3bfc1f" title="mr_index_writeval_varnchar" alt="" coords="449,208,633,235"/>
+</map>

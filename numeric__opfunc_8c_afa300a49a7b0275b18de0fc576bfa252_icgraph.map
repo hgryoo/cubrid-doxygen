@@ -1,0 +1,11 @@
+<map id="numeric_increase_long" name="numeric_increase_long">
+<area shape="rect" id="node2" href="$numeric__opfunc_8c.html#a2803573882b7d641ced267fc5501b1bb" title="numeric_increase" alt="" coords="415,101,539,128"/>
+<area shape="rect" id="node7" href="$numeric__opfunc_8c.html#aef07211e5d847640c51b550ff27c4a03" title="numeric_negate_long" alt="" coords="208,232,353,258"/>
+<area shape="rect" id="node3" href="$numeric__opfunc_8h.html#a047b26a933d0a5a7c76cf8284ccc202b" title="numeric_coerce_num\l_to_bigint" alt="" coords="619,94,766,135"/>
+<area shape="rect" id="node4" href="$numeric__opfunc_8h.html#ae91a2b4fb055032ad2b0dac7c97f4e42" title="numeric_coerce_num\l_to_num" alt="" coords="619,159,766,200"/>
+<area shape="rect" id="node5" href="$numeric__opfunc_8h.html#adc92df2237df745a925b2bffdc1f2738" title="numeric_db_value_div" alt="" coords="832,225,983,252"/>
+<area shape="rect" id="node6" href="$numeric__opfunc_8h.html#aeb96ad9df330193b5bc7b8044ecb10c4" title="numeric_db_value_increase" alt="" coords="601,42,784,69"/>
+<area shape="rect" id="node8" href="$numeric__opfunc_8c.html#af77cb063ee467d6b80a046a6fb237fdf" title="numeric_negate" alt="" coords="420,206,535,233"/>
+<area shape="rect" id="node9" href="$numeric__opfunc_8c.html#a9954e64be00f3e85b2051d188e44af09" title="numeric_long_div" alt="" coords="631,276,754,302"/>
+<area shape="rect" id="node10" href="$numeric__opfunc_8c.html#a6b9d8b6235e18e94b5106968108e4cc6" title="numeric_scale_by_ten" alt="" coords="401,308,553,334"/>
+</map>

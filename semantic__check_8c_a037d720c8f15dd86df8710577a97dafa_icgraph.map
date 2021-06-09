@@ -1,0 +1,11 @@
+<map id="pt_check_with_info" name="pt_check_with_info">
+<area shape="rect" id="node2" href="$semantic__check_8h.html#a6dca0fd158b0b8bf89b6a5a5cd0abeb2" title="pt_semantic_check" alt="" coords="188,216,323,243"/>
+<area shape="rect" id="node3" href="$parser_8h.html#a60bdeaf2c9959a852a6b36a87905620a" title="pt_compile" alt="" coords="425,5,511,32"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#ad3fdd6cb586a725778ba7e2192129d28" title="pt_check_vclass_query_spec" alt="" coords="371,56,565,83"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#a2f72b1c989980fdf7907db4383e9f46d" title="pt_check_create_view" alt="" coords="613,107,765,133"/>
+<area shape="rect" id="node6" href="$semantic__check_8c.html#a24bc4f0a91e527103132bf36d7bbfca6" title="pt_check_create_entity" alt="" coords="813,157,971,184"/>
+<area shape="rect" id="node7" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="397,209,539,250"/>
+<area shape="rect" id="node8" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="409,275,527,301"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html#ad22f2359217e110cbb0dc82891c25414" title="check_default_on_update\l_clause" alt="" coords="383,326,553,367"/>
+<area shape="rect" id="node10" href="$execute__schema_8c.html#a38f878be1e2e058229cfef91516d5880" title="get_att_default_from_def" alt="" coords="385,392,551,419"/>
+</map>

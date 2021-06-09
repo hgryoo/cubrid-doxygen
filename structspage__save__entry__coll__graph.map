@@ -1,0 +1,4 @@
+<map id="spage_save_entry" name="spage_save_entry">
+<area shape="rect" id="node2" href="$structspage__save__head.html" title="{spage_save_head\n|+ mutex\l+ del_id\l+ total_saved\l|+ spage_save_head()\l+ ~spage_save_head()\l}" alt="" coords="57,160,212,281"/>
+<area shape="rect" id="node3" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="283,5,355,97"/>
+</map>

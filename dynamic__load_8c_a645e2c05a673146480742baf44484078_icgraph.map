@@ -1,0 +1,7 @@
+<map id="dl_is_valid_image_file" name="dl_is_valid_image_file">
+<area shape="rect" id="node2" href="$dynamic__load_8h.html#a8c4d916bd0044924187662dc279ec41d" title="dl_destroy_module" alt="" coords="203,38,333,65"/>
+<area shape="rect" id="node6" href="$dynamic__load_8h.html#a00ccea133140dcd8ef3ab1590caa4a65" title="dl_initiate_module" alt="" coords="395,126,521,153"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="583,25,721,51"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="587,75,717,102"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="381,25,535,51"/>
+</map>

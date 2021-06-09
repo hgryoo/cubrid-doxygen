@@ -1,0 +1,12 @@
+<map id="LOG_CS_ENTER_READ_MODE" name="LOG_CS_ENTER_READ_MODE">
+<area shape="rect" id="node2" href="$server__support_8c.html#a48a983c343682b67779fffd257ac84f2" title="css_process_get_eof\l_request" alt="" coords="289,5,435,47"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#afccabc79e094d4f573bb480f3b3e24ca" title="log_active_log_header\l_start_scan" alt="" coords="287,71,437,112"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a3e0182aa5d5810429c559da1e8d347ff" title="logpb_copy_page" alt="" coords="527,150,650,177"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#ad74efce30d8c2aaa856f0d975fb61430" title="logpb_copy_page_from_file" alt="" coords="499,213,679,239"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a721f75e714fb216eb1c86e38c1640644" title="logpb_read_page_from_file" alt="" coords="273,187,451,214"/>
+<area shape="rect" id="node11" href="$vacuum_8h.html#a08404cf4bad99999d68542d216846597" title="xvacuum_dump" alt="" coords="305,289,419,315"/>
+<area shape="rect" id="node3" href="$server__support_8c.html#a2934109a790ef10943951a8dd1a2f63c" title="css_process_master\l_request" alt="" coords="517,5,660,47"/>
+<area shape="rect" id="node5" href="$show__scan_8c.html#aecf736200d67937c5e8b499d2570ea1d" title="showstmt_scan_init" alt="" coords="519,78,658,105"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a7960a034a57d6eed6cccbdd3261db6d7" title="logpb_fetch_page" alt="" coords="743,121,867,147"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#aab023e1a9bbef2bdff8c2da6a017a14e" title="logpb_copy_page_from\l_log_buffer" alt="" coords="727,172,883,213"/>
+</map>

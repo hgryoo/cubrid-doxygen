@@ -1,0 +1,9 @@
+<map id="log_postpone_cache::reset" name="log_postpone_cache::reset">
+<area shape="rect" id="node2" href="$classlog__postpone__cache.html#a3640e54783cc219f708e146703059e88" title="log_postpone_cache\l::do_postpone" alt="" coords="195,10,336,51"/>
+<area shape="rect" id="node5" href="$log__manager_8c.html#a95f9d78f6596d07a91842fab70321950" title="log_rollback" alt="" coords="220,76,311,103"/>
+<area shape="rect" id="node6" href="$log__tran__table_8c.html#a6c5edebbae75e1a92360baf780ce8377" title="logtb_clear_tdes" alt="" coords="207,127,324,153"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#af367ea7ca740da91a90b19b7fb7a867b" title="logtb_set_tdes" alt="" coords="212,177,319,204"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#aff36e63affe3029989477fa08770329b" title="log_sysop_do_postpone" alt="" coords="384,5,547,32"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#a2f223d57ca61e8009df26a1e0efc2795" title="log_tran_do_postpone" alt="" coords="391,56,540,83"/>
+<area shape="rect" id="node7" href="$log__tran__table_8c.html#a3bc8e667a4001db19a340b7f600ba3ae" title="logtb_allocate_tran\l_index" alt="" coords="400,133,531,174"/>
+</map>

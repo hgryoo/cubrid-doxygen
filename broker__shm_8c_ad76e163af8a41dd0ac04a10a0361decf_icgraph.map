@@ -1,0 +1,5 @@
+<map id="shard_shm_set_shard_conn_info" name="shard_shm_set_shard_conn_info">
+<area shape="rect" id="node2" href="$broker__shm_8h.html#a24df11406fa94ab2f52629d64864c6bc" title="broker_shm_initialize\l_shm_as" alt="" coords="204,23,348,65"/>
+<area shape="rect" id="node3" href="$broker__admin__pub_8h.html#ad2b7e17f9a9fe16d07b20db49cea8f6b" title="admin_start_cmd" alt="" coords="396,5,519,32"/>
+<area shape="rect" id="node4" href="$broker__admin__pub_8h.html#a21e0332265b07017b4f3211c3f455640" title="admin_on_cmd" alt="" coords="402,56,513,83"/>
+</map>

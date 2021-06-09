@@ -1,0 +1,9 @@
+<map id="qfile_delete_list_cache_entry" name="qfile_delete_list_cache_entry">
+<area shape="rect" id="node2" href="$list__file_8h.html#aa331b0ca76c4956bcaf77d84e4c6323d" title="qfile_end_use_of_list\l_cache_entry" alt="" coords="215,136,359,177"/>
+<area shape="rect" id="node7" href="$list__file_8h.html#a744ee07fc469b2a5438abf874a7195af" title="qfile_lookup_list_cache\l_entry" alt="" coords="209,5,366,47"/>
+<area shape="rect" id="node8" href="$list__file_8h.html#abc17ed70916eb928bd01032874ddb1c2" title="qfile_update_list_cache\l_entry" alt="" coords="208,71,367,112"/>
+<area shape="rect" id="node3" href="$list__file_8c.html#ad1dd3912e8ccf265de025d7cf97b279b" title="qfile_end_use_of_list\l_cache_entry_local" alt="" coords="430,103,574,144"/>
+<area shape="rect" id="node4" href="$query__manager_8c.html#acca53c25556757b153c16afc23f6ccd4" title="xqmgr_execute_query" alt="" coords="427,51,577,78"/>
+<area shape="rect" id="node5" href="$query__manager_8c.html#a0382e2abbf209165a152f42248749e82" title="xqmgr_end_query" alt="" coords="439,169,565,195"/>
+<area shape="rect" id="node6" href="$query__manager_8h.html#ace099a1e6a1109b25e6923004dcf2e05" title="qmgr_clear_trans_wakeup" alt="" coords="415,219,589,246"/>
+</map>

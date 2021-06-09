@@ -1,0 +1,7 @@
+<map id="qo_planner_free" name="qo_planner_free">
+<area shape="rect" id="node2" href="$query__graph_8h.html#a32ade5961e7b50154caa97c0d987c138" title="qo_env_free" alt="" coords="168,81,261,108"/>
+<area shape="rect" id="node3" href="$query__graph_8c.html#a9018af8273e327b586c695f0820fdb02" title="qo_env_init" alt="" coords="333,5,421,32"/>
+<area shape="rect" id="node4" href="$query__graph_8c.html#abb5a39b3d2de454622124dd59b641539" title="qo_optimize_query" alt="" coords="492,56,623,83"/>
+<area shape="rect" id="node5" href="$query__graph_8c.html#a36e513d9217f9a2e0c5d27f73f300a14" title="qo_optimize_helper" alt="" coords="309,107,444,133"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#aafe5eacf625de18374b090f903dda377" title="qo_plan_discard" alt="" coords="319,157,435,184"/>
+</map>

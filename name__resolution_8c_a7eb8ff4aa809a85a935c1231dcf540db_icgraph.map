@@ -1,0 +1,7 @@
+<map id="pt_insert_conjunct" name="pt_insert_conjunct">
+<area shape="rect" id="node2" href="$semantic__check_8h.html#af050ef8ce873864b998ae6c827c7b72a" title="pt_insert_entity" alt="" coords="181,81,292,108"/>
+<area shape="rect" id="node3" href="$name__resolution_8c.html#a1aa9eb98e4c2e318951dcdc1cb238944" title="pt_get_resolution" alt="" coords="363,5,484,32"/>
+<area shape="rect" id="node4" href="$name__resolution_8c.html#a92cc6ce38b6dbfcd399d603afa197cfd" title="pt_expand_external_path" alt="" coords="340,56,507,83"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#abcff25b3a27a3983b4ceff20666d069e" title="mq_push_arg2" alt="" coords="370,107,477,133"/>
+<area shape="rect" id="node6" href="$view__transform_8c.html#aeb4df161e95664d5813ac0f5ed5aff6d" title="mq_push_dot_in_query" alt="" coords="345,157,501,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="log_rv_copy_char" name="log_rv_copy_char">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a11c0f285080de4a726add2b851dac9c1" title="disk_rv_redo_format" alt="" coords="209,5,349,32"/>
+<area shape="rect" id="node3" href="$extendible__hash_8h.html#a0dfd08f486b12ace87157082fa39c51c" title="ehash_rv_init_dir_redo" alt="" coords="203,56,355,83"/>
+<area shape="rect" id="node4" href="$overflow__file_8h.html#a441a8ed08a484288bf6c8f5b7927a03f" title="overflow_rv_newpage\l_insert_redo" alt="" coords="205,107,353,149"/>
+<area shape="rect" id="node5" href="$overflow__file_8h.html#a2c940fb4586a0d192b82175c4c4a0a34" title="overflow_rv_page_update_redo" alt="" coords="177,173,380,200"/>
+</map>

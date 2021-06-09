@@ -1,0 +1,6 @@
+<map id="linkchunk" name="linkchunk">
+<area shape="rect" id="node2" href="$structlink.html" title="{link\n|+ class_\l+ decl\l|}" alt="" coords="200,5,272,97"/>
+<area shape="rect" id="node4" href="$structsymbol.html" title="{symbol\n|+ name\l+ level\l|}" alt="" coords="236,175,303,267"/>
+<area shape="rect" id="node3" href="$structspecifier.html" title="{specifier\n|+ noun\l+ sclass\l+ is_long\l+ is_short\l+ is_unsigned\l+ is_static\l+ is_extern\l+ is_volatile\l+ is_const\l+ is_auto\l+ is_register\l+ is_by_name\l+ v_int\l+ v_uint\l+ v_long\l+ v_ulong\l+ val\l|}" alt="" coords="175,329,279,641"/>
+<area shape="rect" id="node5" href="$structdeclarator.html" title="{declarator\n|+ dcl_type\l+ num_ele\l|}" alt="" coords="320,439,403,531"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="pp_discard_structdef" name="pp_discard_structdef">
+<area shape="rect" id="node2" href="$esql__misc_8h.html#a59939d01305230620b30ddaa0355a80d" title="pp_add_struct_spec" alt="" coords="198,5,337,32"/>
+<area shape="rect" id="node4" href="$esql__symbol__table_8c.html#ab9b86cc892d531fb9b5eca55dd475597" title="pp_discard_structdef\l_chain" alt="" coords="196,57,339,98"/>
+<area shape="rect" id="node6" href="$esql__symbol__table_8c.html#a7767d9cfecfc56f2ad8ef41535d8cb68" title="pp_symbol_finish" alt="" coords="206,123,329,149"/>
+<area shape="rect" id="node3" href="$esql__host__variable_8c.html#a90bc4609272246ecd80d2e014d846048" title="pp_add_dummy_structdef" alt="" coords="387,5,559,32"/>
+<area shape="rect" id="node5" href="$esql__misc_8h.html#a7d6e410599e6f778609de9c054516e6a" title="pp_pop_name_scope" alt="" coords="400,64,545,91"/>
+<area shape="rect" id="node7" href="$esql__misc_8h.html#a14a76048927a5cb865f036dbb4d1988e" title="pp_finish" alt="" coords="435,123,510,149"/>
+</map>

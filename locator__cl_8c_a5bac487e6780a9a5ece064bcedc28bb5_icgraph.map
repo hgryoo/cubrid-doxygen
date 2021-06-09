@@ -1,0 +1,8 @@
+<map id="locator_add_oidset_object" name="locator_add_oidset_object">
+<area shape="rect" id="node2" href="$set__object_8h.html#ac7f17820da488a80242541a4e1c3471a" title="col_permanent_oids" alt="" coords="199,5,337,32"/>
+<area shape="rect" id="node3" href="$set__object_8h.html#aed4de30fed32480ab002bdfaf177e0e6" title="setobj_sort" alt="" coords="435,31,522,57"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#a555f3bf9d675006f81a7e6e1489620fe" title="ldr_assign_all_perm_oids" alt="" coords="184,107,352,133"/>
+<area shape="rect" id="node5" href="$locator__cl_8c.html#a042cf606b12c1f7f2ca71fd23ce78cbe" title="locator_add_to_oidset\l_when_temp_oid" alt="" coords="193,158,343,199"/>
+<area shape="rect" id="node6" href="$transform__cl_8c.html#aa152b8e1a2d679093bbe9de9cd1086bb" title="tf_add_fixup" alt="" coords="221,224,315,251"/>
+<area shape="rect" id="node7" href="$transform__cl_8h.html#aac6514b75db92aac077297cf9e6d72e1" title="tf_need_permanent_oid" alt="" coords="400,224,557,251"/>
+</map>

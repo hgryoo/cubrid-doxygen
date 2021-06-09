@@ -1,0 +1,11 @@
+<map id="or_index" name="or_index">
+<area shape="rect" id="node2" href="$structor__attribute.html" title="{or_attribute\n|+ id\l+ type\l+ def_order\l+ location\l+ position\l+ on_update_expr\l+ n_btids\l+ max_btids\l+ is_fixed\l+ is_autoincrement\l+ is_notnull\l|}" alt="" coords="447,491,580,715"/>
+<area shape="rect" id="node3" href="$structor__default__value.html" title="{or_default_value\n|+ value\l+ val_length\l|}" alt="" coords="260,241,377,333"/>
+<area shape="rect" id="node4" href="$structor__auto__increment.html" title="{or_auto_increment\n|+ serial_obj\l|}" alt="" coords="411,248,541,325"/>
+<area shape="rect" id="node5" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="551,5,643,112"/>
+<area shape="rect" id="node6" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="5,175,139,399"/>
+<area shape="rect" id="node10" href="$structor__foreign__key.html" title="{or_foreign_key\n|+ fkname\l+ del_action\l+ upd_action\l|}" alt="" coords="784,549,891,656"/>
+<area shape="rect" id="node7" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="683,248,784,325"/>
+<area shape="rect" id="node8" href="$structor__predicate.html" title="{or_predicate\n|+ pred_string\l+ pred_stream\l+ pred_stream_size\l|}" alt="" coords="977,549,1114,656"/>
+<area shape="rect" id="node9" href="$structor__function__index.html" title="{or_function_index\n|+ expr_string\l+ expr_stream\l+ expr_stream_size\l+ col_id\l+ attr_index_start\l|}" alt="" coords="1138,535,1275,671"/>
+</map>

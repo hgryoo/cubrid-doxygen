@@ -1,0 +1,21 @@
+<map id="tz_datetime_utc_conv" name="tz_datetime_utc_conv">
+<area shape="rect" id="node2" href="$tz__support_8h.html#a34584b6895166131882fe49b65840cc3" title="conv_tz" alt="" coords="501,33,569,60"/>
+<area shape="rect" id="node4" href="$tz__support_8c.html#a71bba8930c5ff3e6e755f3a2647857a1" title="tz_conv_tz_datetime\l_w_zone_info" alt="" coords="229,120,371,162"/>
+<area shape="rect" id="node6" href="$tz__support_8h.html#a13e90a29c9b8f017a1aa83c41c06fe16" title="tz_create_datetimetz" alt="" coords="228,237,372,264"/>
+<area shape="rect" id="node10" href="$tz__support_8h.html#a62ce2e5776cfad5d85b8b6bb647178f0" title="tz_create_datetimetz\l_from_offset" alt="" coords="228,339,372,380"/>
+<area shape="rect" id="node11" href="$tz__support_8h.html#a78f5630f2ffb6352788675868972153a" title="tz_create_datetimetz\l_from_ses" alt="" coords="463,339,607,380"/>
+<area shape="rect" id="node12" href="$tz__support_8h.html#a4586552b12b0bd9621e8ed86ab89cc49" title="tz_create_datetimetz\l_from_utc" alt="" coords="228,404,372,446"/>
+<area shape="rect" id="node13" href="$tz__support_8h.html#ac19b8dfe14dcc9250868d0a6120bcc0d" title="tz_create_datetimetz\l_from_zoneid_and_tzd" alt="" coords="223,470,377,511"/>
+<area shape="rect" id="node14" href="$tz__support_8h.html#a355bc2e5c1cde2e2e6eac0db46058b2f" title="tz_create_session_tzid\l_for_datetime" alt="" coords="222,55,378,96"/>
+<area shape="rect" id="node15" href="$tz__support_8h.html#ab560f0c88bb1a3c8b4437ee6437e153d" title="tz_create_timestamptz" alt="" coords="223,186,377,213"/>
+<area shape="rect" id="node16" href="$tz__support_8h.html#a041994b3e7f7c263836f14d25f9be4c7" title="tz_create_timestamptz\l_from_offset" alt="" coords="223,535,377,576"/>
+<area shape="rect" id="node17" href="$tz__support_8h.html#a4337c66eb8d7cf34115ec184466071cc" title="tz_create_timestamptz\l_from_zoneid_and_tzd" alt="" coords="223,600,377,642"/>
+<area shape="rect" id="node18" href="$tz__support_8h.html#ae43592cae3d8ac669f19dc7ffd3694da" title="tz_datetimetz_fix_zone" alt="" coords="221,666,379,693"/>
+<area shape="rect" id="node19" href="$tz__support_8h.html#a10e0075d23b9c8a3ad81d8524058f65f" title="tz_full_timezones_start_scan" alt="" coords="204,717,396,744"/>
+<area shape="rect" id="node20" href="$tz__support_8h.html#a26537640fc31e9b318c56123aa543f96" title="tz_get_timezone_offset" alt="" coords="221,768,379,794"/>
+<area shape="rect" id="node3" href="$string__opfunc_8h.html#a3e5cc61d939d3d58fe7bff5362da1959" title="db_conv_tz" alt="" coords="733,33,822,60"/>
+<area shape="rect" id="node5" href="$tz__support_8h.html#aba11d8c6f9034cb5c58291db80b5e417" title="tz_conv_tz_datetime\l_w_region" alt="" coords="464,120,607,162"/>
+<area shape="rect" id="node7" href="$cas__execute_8c.html#a235ed61a310d3fc128b8c64464ce6c47" title="netval_to_dbval" alt="" coords="479,186,592,213"/>
+<area shape="rect" id="node8" href="$db__date_8h.html#a1da845352827440e4f958a4ae7f9b76f" title="db_string_to_datetimetz_ex" alt="" coords="444,288,627,314"/>
+<area shape="rect" id="node9" href="$string__opfunc_8c.html#a04f48c011fb94e50ab89fb30d82ff11e" title="db_date_add_sub_interval_expr" alt="" coords="675,288,880,314"/>
+</map>

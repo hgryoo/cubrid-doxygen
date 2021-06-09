@@ -1,0 +1,7 @@
+<map id="prm_get_commit_on_shutdown" name="prm_get_commit_on_shutdown">
+<area shape="rect" id="node2" href="$csql_8c.html#a683c35075b379a8c2b9801cbc6a6bced" title="csql_exit_session" alt="" coords="256,5,383,32"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#a288ea5272d6f511fcc93bf1b974af1e6" title="uci_disconnect" alt="" coords="265,56,374,83"/>
+<area shape="rect" id="node3" href="$csql_8c.html#a5a64da02076e414cb5f4ebdeb89248b4" title="start_csql" alt="" coords="437,5,516,32"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#a757dbaafd04d15630e854f52bdf858a4" title="uci_stop" alt="" coords="441,56,512,83"/>
+<area shape="rect" id="node6" href="$esql__cli_8c.html#a7ea0c0c414f93998422d83c65c7c8e32" title="uci_connect" alt="" coords="431,107,523,133"/>
+</map>

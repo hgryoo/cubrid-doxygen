@@ -1,0 +1,5 @@
+<map id="heap_vpid_alloc" name="heap_vpid_alloc">
+<area shape="rect" id="node2" href="$heap__file_8c.html#af256d9deeaf7200651bfe15fc3b12207" title="heap_stats_find_best_page" alt="" coords="168,46,349,73"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#a3329393383b9a92ce790befa0b562618" title="heap_find_location\l_and_insert_rec_newhome" alt="" coords="397,5,575,47"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#acdbe82c4e3f3d9c4a543094ff6d27311" title="heap_get_insert_location\l_with_lock" alt="" coords="403,71,569,112"/>
+</map>

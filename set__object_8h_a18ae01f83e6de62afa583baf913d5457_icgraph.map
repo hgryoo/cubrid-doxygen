@@ -1,0 +1,12 @@
+<map id="setobj_cardinality" name="setobj_cardinality">
+<area shape="rect" id="node2" href="$set__object_8h.html#a9c04b99d13ccf5cfeaca4369936ebdcd" title="set_cardinality" alt="" coords="176,196,283,223"/>
+<area shape="rect" id="node3" href="$authenticate_8c.html#a9fac41a8452d6f3a08f30fb13ad96f2b" title="au_add_direct_groups" alt="" coords="331,44,480,71"/>
+<area shape="rect" id="node4" href="$authenticate_8c.html#aaf9859e56ac7f259cde7f167e1e0a609" title="au_compute_groups" alt="" coords="528,19,667,45"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a432ae2e4cbf4a4657fc1165dd0f553a7" title="au_drop_user" alt="" coords="547,81,647,108"/>
+<area shape="rect" id="node6" href="$authenticate_8h.html#afa9e1997f61ce12d24206b20e3990378" title="au_dump_user" alt="" coords="352,145,459,172"/>
+<area shape="rect" id="node7" href="$authenticate_8h.html#a5cfe0a7ffd242da92334d64fce12f629" title="au_export_users" alt="" coords="346,196,465,223"/>
+<area shape="rect" id="node8" href="$db__set__function_8h.html#abd6c05bfc1aa2df5dafa5d2d4cc7f0b7" title="db_col_cardinality" alt="" coords="342,247,469,273"/>
+<area shape="rect" id="node9" href="$db__set__function_8h.html#a0b3661bd88ea0497a93913c9de96b952" title="db_seq_cardinality" alt="" coords="340,297,471,324"/>
+<area shape="rect" id="node10" href="$db__set__function_8h.html#a779e26c703e48a83c86e9962eba551f1" title="db_set_cardinality" alt="" coords="342,348,469,375"/>
+<area shape="rect" id="node11" href="$authenticate_8c.html#adf983ab6951322d3850ce69b0f114b15" title="update_cache" alt="" coords="354,399,457,425"/>
+</map>

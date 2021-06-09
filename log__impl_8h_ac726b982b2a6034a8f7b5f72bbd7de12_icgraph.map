@@ -1,0 +1,8 @@
+<map id="logtb_slam_transaction" name="logtb_slam_transaction">
+<area shape="rect" id="node2" href="$server__support_8h.html#a5692baaa6c9df9b84010366971aac54c" title="css_change_ha_server\l_state" alt="" coords="209,70,365,111"/>
+<area shape="rect" id="node6" href="$log__tran__table_8c.html#ab02994b89f22de6b5346a2e448282d87" title="xlogtb_kill_tran_index" alt="" coords="214,148,361,175"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="433,5,568,32"/>
+<area shape="rect" id="node4" href="$server__support_8c.html#ae58c62456655b0400a42763aa98b0232" title="css_process_change\l_server_ha_mode_request" alt="" coords="413,57,588,98"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#ab275afe2b2e11383cae924c9b34cd50f" title="sboot_change_ha_mode" alt="" coords="419,123,582,149"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#ae9b1abfc01e65477cfe62b02c99c3e8f" title="sthread_kill_tran_index" alt="" coords="423,173,578,200"/>
+</map>

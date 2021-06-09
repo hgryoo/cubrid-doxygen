@@ -1,0 +1,21 @@
+<map id="db_value_free" name="db_value_free">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#ad83c26cf50e690ff017b73dc83d62521" title="adjust_partition_range" alt="" coords="175,56,324,83"/>
+<area shape="rect" id="node6" href="$db__collection_8c.html#aecee42434d51c5e7ae388b0baa9a5e03" title="col_api_delete" alt="" coords="197,107,302,133"/>
+<area shape="rect" id="node7" href="$db__collection_8c.html#a5339f2e3e27d3e6073e00d92898f00e4" title="col_api_insert" alt="" coords="198,157,301,184"/>
+<area shape="rect" id="node8" href="$db__collection_8c.html#a9e67363c4553266ea70015349ff0d269" title="col_dtorf" alt="" coords="213,208,285,235"/>
+<area shape="rect" id="node10" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="173,259,325,301"/>
+<area shape="rect" id="node11" href="$db__query_8h.html#a6a4521eb40759d66fbfeb0131a2edf0f" title="db_free_query_result" alt="" coords="178,325,321,352"/>
+<area shape="rect" id="node12" href="$db__collection_8c.html#adf9367b6acdab9210b73a871fcddf6b8" title="fill_collection" alt="" coords="201,376,298,403"/>
+<area shape="rect" id="node13" href="$parse__evaluate_8c.html#ac38bf10ba27dc32abcb58f7de1ba0f58" title="pt_associate_label\l_with_value" alt="" coords="184,427,315,469"/>
+<area shape="rect" id="node14" href="$parse__evaluate_8c.html#a8c4be930836f528e1f5dea8ef14f7767" title="pt_evaluate_tree_internal" alt="" coords="166,493,333,520"/>
+<area shape="rect" id="node15" href="$parser_8h.html#a81fed221e67fa0719c7067ac2837b042" title="pt_exec_trigger_stmt" alt="" coords="177,544,321,571"/>
+<area shape="rect" id="node16" href="$parse__evaluate_8c.html#a116682f35ec7d006dc4f638c7462e8ee" title="pt_free_label" alt="" coords="201,595,297,621"/>
+<area shape="rect" id="node17" href="$query__executor_8c.html#a547705e13937c4284a037ad2a42983b7" title="qexec_gby_clear_group_dim" alt="" coords="156,645,343,672"/>
+<area shape="rect" id="node18" href="$db__value__table_8c.html#acc3991f04f8f9363c4dce30d5a1f795f" title="vbt_dtor" alt="" coords="215,696,284,723"/>
+<area shape="rect" id="node19" href="$db__value__table_8c.html#a6e8b182b982e0780e5cf8ff1ad758773" title="vbt_lazy_init_db_value" alt="" coords="172,747,327,773"/>
+<area shape="rect" id="node20" href="$db__value__table_8c.html#a430b427f8a39f77c28fa300c8336c570" title="vbt_resetf_map" alt="" coords="193,797,305,824"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a71e57012993f98148b4b9bb1236f7daa" title="do_create_partition" alt="" coords="408,5,540,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8h.html#a8d9a955e21fdad284b4980448aba4ce8" title="do_drop_partition_list" alt="" coords="401,56,547,83"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#aedeb2a4d7196782cc611f23eb45aa388" title="do_promote_partition_list" alt="" coords="391,107,557,133"/>
+<area shape="rect" id="node9" href="$db__collection_8c.html#aad60317154aca631ca766f66cb527c47" title="col_api_destroy" alt="" coords="417,208,531,235"/>
+</map>

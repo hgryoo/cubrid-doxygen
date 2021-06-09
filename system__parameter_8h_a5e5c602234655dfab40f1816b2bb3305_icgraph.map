@@ -1,0 +1,11 @@
+<map id="sysprm_reload_and_init" name="sysprm_reload_and_init">
+<area shape="rect" id="node2" href="$master__heartbeat_8h.html#ad3854f3310ba585c385d71a4c1616b09" title="hb_master_init" alt="" coords="232,56,339,83"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#abcba91f0e0527d2a12822ed9953835fc" title="hb_reload_config" alt="" coords="225,107,345,133"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a1bfabe29d0a3621d3f9d12f3e77cd3ee" title="log_get_io_page_size" alt="" coords="212,183,359,209"/>
+<area shape="rect" id="node3" href="$master_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="468,5,519,32"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8h.html#a999a7f2aa0e2d8c439e0f1eef111a1c0" title="hb_activate_heartbeat" alt="" coords="418,56,569,83"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8h.html#a6f9ed497c283816e8d6612d968519cd4" title="hb_reconfig_heartbeat" alt="" coords="418,107,569,133"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="426,157,561,184"/>
+<area shape="rect" id="node9" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="407,208,580,235"/>
+<area shape="rect" id="node10" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="411,259,575,285"/>
+</map>

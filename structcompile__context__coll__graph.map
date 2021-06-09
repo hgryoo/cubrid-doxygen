@@ -1,0 +1,21 @@
+<map id="compile_context" name="compile_context">
+<area shape="rect" id="node2" href="$structSHA1Hash.html" title="{SHA1Hash\n|+ h\l|}" alt="" coords="594,681,682,759"/>
+<area shape="rect" id="node3" href="$structxasl__node.html" title="{xasl_node\n|+ type\l+ flag\l+ orderby_limit\l+ ordbynum_flag\l+ is_single_tuple\l+ option\l+ limit_offset\l+ limit_row_count\l+ level_regu\l+ isleaf_regu\l+ iscycle_regu\l+ instnum_flag\l+ next_scan_on\l+ next_scan_block_on\l+ cat_fetched\l+ query_in_progress\l+ scan_op_type\l+ upd_del_class_cnt\l+ mvcc_reev_extra_cls_cnt\l+ proc\l+ cardinality\l+ projected_size\l+ n_oid_list\l+ class_locks\l+ tcard_list\l+ query_alias\l+ dbval_cnt\l+ iscan_oid_order\l+ max_iterations\l|}" alt="" coords="1025,476,1208,964"/>
+<area shape="rect" id="node4" href="$structunion__proc__node.html" title="{union_proc_node\n||}" alt="" coords="1151,1093,1271,1170"/>
+<area shape="rect" id="node11" href="$structbuildlist__proc__node.html" title="{buildlist_proc_node\n|+ g_grbynum_flag\l+ g_with_rollup\l+ g_hash_eligible\l+ g_output_first_tuple\l+ g_hkey_size\l+ g_func_count\l+ g_agg_domains_resolved\l|}" alt="" coords="1755,1049,1937,1214"/>
+<area shape="rect" id="node14" href="$structmerge__proc__node.html" title="{merge_proc_node\n|+ has_delete\l|}" alt="" coords="778,1093,903,1170"/>
+<area shape="rect" id="node19" href="$structcte__proc__node.html" title="{cte_proc_node\n||}" alt="" coords="930,1093,1037,1170"/>
+<area shape="rect" id="node20" href="$structmergelist__proc__node.html" title="{mergelist_proc_node\n||}" alt="" coords="1359,1093,1501,1170"/>
+<area shape="rect" id="node5" href="$structsort__list.html" title="{sort_list\n|+ del_id\l+ s_order\l+ s_nulls\l|}" alt="" coords="2031,5,2109,112"/>
+<area shape="rect" id="node13" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="1995,189,2145,355"/>
+<area shape="rect" id="node6" href="$structinsert__proc__node.html" title="{insert_proc_node\n|+ num_vals\l+ num_default_expr\l+ att_id\l+ has_uniques\l+ wait_msecs\l+ no_logging\l+ do_replace\l+ pruning_type\l+ num_val_lists\l|}" alt="" coords="1219,175,1356,369"/>
+<area shape="rect" id="node7" href="$structcubxasl_1_1pred__expr.html" title="{cubxasl::pred_expr\n|+ pe\l+ type\l|+ clear_xasl()\l}" alt="" coords="380,13,512,105"/>
+<area shape="rect" id="node10" href="$structbuildvalue__proc__node.html" title="{buildvalue_proc_node\n|+ is_always_false\l+ agg_domains_resolved\l|}" alt="" coords="507,226,673,318"/>
+<area shape="rect" id="node16" href="$structupdate__proc__node.html" title="{update_proc_node\n|+ num_classes\l+ num_assigns\l+ wait_msecs\l+ no_logging\l+ num_orderby_keys\l+ num_assign_reev_classes\l+ num_reev_classes\l+ mvcc_reev_classes\l|}" alt="" coords="5,182,193,362"/>
+<area shape="rect" id="node17" href="$structfetch__proc__node.html" title="{fetch_proc_node\n|+ fetch_res\l+ ql_flag\l|}" alt="" coords="217,226,336,318"/>
+<area shape="rect" id="node8" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="1065,5,1157,112"/>
+<area shape="rect" id="node18" href="$structselupd__list.html" title="{selupd_list\n|+ select_list_size\l+ wait_msecs\l|}" alt="" coords="1009,226,1133,318"/>
+<area shape="rect" id="node9" href="$structvalptr__list__node.html" title="{valptr_list_node\n|+ valptr_cnt\l|+ valptr_list_node()\l}" alt="" coords="1338,20,1471,97"/>
+<area shape="rect" id="node12" href="$structval__list__node.html" title="{val_list_node\n|+ val_cnt\l|+ val_list_node()\l}" alt="" coords="1644,233,1763,311"/>
+<area shape="rect" id="node15" href="$structdelete__proc__node.html" title="{delete_proc_node\n|+ num_classes\l+ wait_msecs\l+ no_logging\l+ num_reev_classes\l+ mvcc_reev_classes\l|}" alt="" coords="697,204,848,340"/>
+</map>

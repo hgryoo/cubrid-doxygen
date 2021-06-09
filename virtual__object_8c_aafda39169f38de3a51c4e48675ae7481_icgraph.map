@@ -1,0 +1,5 @@
+<map id="vid_decache_instance" name="vid_decache_instance">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#ac4e06bff6acdb866e955adf11cc71d45" title="sm_decache_mop" alt="" coords="204,39,332,65"/>
+<area shape="rect" id="node3" href="$locator__cl_8c.html#ac4aa1cdfdeb6a0d65e7a7fd4e1194e69" title="locator_mflush" alt="" coords="406,5,513,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#afb4efe77481bada99d304564e7e3c5ec" title="sm_decache_instances\l_after_query_executed\l_with_commit" alt="" coords="380,56,539,112"/>
+</map>

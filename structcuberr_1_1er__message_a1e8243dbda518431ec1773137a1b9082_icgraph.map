@@ -1,0 +1,11 @@
+<map id="cuberr::er_message::reserve_message_area" name="cuberr::er_message::reserve_message_area">
+<area shape="rect" id="node2" href="$error__manager_8h.html#a91814d78d642bd9969436da4436add63" title="er_set_area_error" alt="" coords="219,143,341,170"/>
+<area shape="rect" id="node7" href="$error__manager_8c.html#ac7f74b30bacfef84dba1b02f20f12aa2" title="er_set_internal" alt="" coords="227,278,333,305"/>
+<area shape="rect" id="node3" href="$connection__cl_8h.html#a7bb87f7c020bc88c88c5729fe1a339d1" title="css_connect_to_cubrid\l_server" alt="" coords="389,5,545,47"/>
+<area shape="rect" id="node4" href="$server__support_8c.html#a6c2f1481ccaaffb4eaac24f46f2aaaf6" title="css_test_for_client\l_errors" alt="" coords="401,71,533,112"/>
+<area shape="rect" id="node5" href="$client__support_8c.html#a72aeba68d635f30a28376a00ddf4b554" title="css_test_for_server\l_errors" alt="" coords="399,136,536,177"/>
+<area shape="rect" id="node6" href="$query__manager_8h.html#a5de73a5fa215d2f58935a2a5015e555d" title="qmgr_free_list_temp_file" alt="" coords="593,227,757,254"/>
+<area shape="rect" id="node8" href="$error__manager_8h.html#afdaf87ce30f2f557802a185ab85b6599" title="er_set" alt="" coords="438,253,497,279"/>
+<area shape="rect" id="node9" href="$error__manager_8h.html#abba5454f0cca3ebcd15fc170f0caf528" title="er_set_with_file" alt="" coords="411,303,524,330"/>
+<area shape="rect" id="node10" href="$error__manager_8h.html#ae4dfdf0d17782bd51e4612e68fc18c68" title="er_set_with_oserror" alt="" coords="399,354,535,381"/>
+</map>

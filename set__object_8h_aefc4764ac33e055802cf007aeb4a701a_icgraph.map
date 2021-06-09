@@ -1,0 +1,9 @@
+<map id="set_drop_element" name="set_drop_element">
+<area shape="rect" id="node2" href="$db__set__function_8h.html#a27ba4d145638bb0fc4059edbf27e460a" title="db_col_drop" alt="" coords="210,5,302,32"/>
+<area shape="rect" id="node3" href="$db__set__function_8h.html#adc56f01246bec62337298fd58df633cd" title="db_col_drop_nulls" alt="" coords="193,56,319,83"/>
+<area shape="rect" id="node4" href="$db__set__function_8h.html#adcd3f27ebf30db498086899fc5d101d1" title="db_set_drop" alt="" coords="209,107,303,133"/>
+<area shape="rect" id="node7" href="$trigger__manager_8c.html#a2b293d32494648b1e2ef15c887d157dc" title="unregister_user_trigger" alt="" coords="179,157,333,184"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#aa0c24965d6f0630211fb1e4e1f6769d2" title="au_drop_member" alt="" coords="397,56,520,83"/>
+<area shape="rect" id="node6" href="$cas__execute_8h.html#a5b2ae47bc051f496bb515a090ac3460d" title="ux_col_set_drop" alt="" coords="400,107,517,133"/>
+<area shape="rect" id="node8" href="$trigger__manager_8c.html#ad22e88534246991be186e6d3121cbd7c" title="tr_drop_trigger_internal" alt="" coords="381,157,536,184"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="analytic_function_state" name="analytic_function_state">
+<area shape="rect" id="node2" href="$structrecdes.html" title="{recdes\n|+ area_size\l+ length\l+ type\l+ data\l|}" alt="" coords="5,637,96,759"/>
+<area shape="rect" id="node3" href="$structqfile__list__scan__id.html" title="{qfile_list_scan_id\n|+ status\l+ position\l+ curr_pgptr\l+ curr_tpl\l+ keep_page_on_finish\l+ curr_offset\l+ curr_tplno\l|}" alt="" coords="262,615,418,781"/>
+<area shape="rect" id="node4" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="136,71,208,163"/>
+<area shape="rect" id="node5" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="213,307,363,472"/>
+<area shape="rect" id="node8" href="$structcubxasl_1_1analytic__list__node.html" title="{cubxasl::analytic_list_node\n|+ function\l+ option\l+ opr_dbtype\l+ original_opr_dbtype\l+ flag\l+ sort_prefix_size\l+ sort_list_size\l+ offset_idx\l+ default_idx\l+ from_last\l+ ignore_nulls\l+ is_const_operand\l+ curr_cnt\l+ is_first_exec_time\l|+ init()\l}" alt="" coords="725,564,904,832"/>
+<area shape="rect" id="node6" href="$structqfile__tuple__record.html" title="{qfile_tuple_record\n|+ tpl\l+ size\l|}" alt="" coords="393,343,517,435"/>
+<area shape="rect" id="node7" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="625,79,722,156"/>
+<area shape="rect" id="node10" href="$classregu__variable__node.html" title="{regu_variable_node\n|+ type\l+ flags\l|+ regu_variable_node()\l+ map_regu()\l+ map_regu_and_xasl()\l+ clear_xasl()\l&#45; map_regu()\l&#45; clear_xasl_local()\l}" alt="" coords="993,307,1151,472"/>
+<area shape="rect" id="node9" href="$unioncubxasl_1_1analytic__function__info.html" title="{cubxasl::analytic_function_info\n||}" alt="" coords="767,351,969,428"/>
+<area shape="rect" id="node11" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="1071,5,1204,229"/>
+</map>

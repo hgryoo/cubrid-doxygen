@@ -1,0 +1,16 @@
+<map id="classobj_free_query_spec" name="classobj_free_query_spec">
+<area shape="rect" id="node2" href="$class__object_8h.html#ab7d92672c617747d7da2d6567e1c269b" title="classobj_free_class" alt="" coords="449,119,587,145"/>
+<area shape="rect" id="node8" href="$class__object_8h.html#a145685b1468b99b25b33dff9e869a484" title="classobj_free_template" alt="" coords="233,169,389,196"/>
+<area shape="rect" id="node9" href="$class__object_8h.html#a3220191cf2a26a22f94e71692b1a5032" title="classobj_install_template" alt="" coords="227,220,395,247"/>
+<area shape="rect" id="node10" href="$schema__template_8h.html#a93573b56585aa364a9823afddf213204" title="smt_change_query_spec" alt="" coords="227,271,394,297"/>
+<area shape="rect" id="node11" href="$schema__template_8h.html#a6d9be443148e93e5dcaf83a4e4963e73" title="smt_drop_query_spec" alt="" coords="235,321,386,348"/>
+<area shape="rect" id="node14" href="$schema__template_8h.html#a54ec239f98b56a165b368590a1a0796c" title="smt_reset_query_spec" alt="" coords="233,372,388,399"/>
+<area shape="rect" id="node3" href="$transform__cl_8c.html#a7e9edf7ef6d40f43dc2b1c5dcca4594d" title="disk_to_class" alt="" coords="641,5,744,32"/>
+<area shape="rect" id="node4" href="$transform__cl_8h.html#a30a26dd49369865b7a1e50a4bdfeffb9" title="tf_disk_to_class" alt="" coords="792,31,909,57"/>
+<area shape="rect" id="node5" href="$schema__manager_8c.html#af5d108d7bc0dbdecea7edd27580dbfe0" title="update_class" alt="" coords="643,208,742,235"/>
+<area shape="rect" id="node6" href="$work__space_8h.html#a86a6f71a36aecbfb409f7253c5c53f58" title="ws_cache" alt="" coords="652,107,733,133"/>
+<area shape="rect" id="node7" href="$work__space_8h.html#a8a91f874e3655eb45524ef40c177f417" title="ws_decache" alt="" coords="645,157,740,184"/>
+<area shape="rect" id="node12" href="$dbi__compat_8h.html#ac8c81093e396f1501fa0ac1d36673d03" title="dbt_drop_query_spec" alt="" coords="445,271,591,297"/>
+<area shape="rect" id="node13" href="$dbi__compat_8h.html#aeab41674fab5b46af334e7844d46d89e" title="db_drop_query_spec" alt="" coords="447,321,589,348"/>
+<area shape="rect" id="node15" href="$dbi_8h.html#a59ae6141e727f51fb50c44bedc361d0b" title="dbt_reset_query_spec" alt="" coords="443,372,593,399"/>
+</map>

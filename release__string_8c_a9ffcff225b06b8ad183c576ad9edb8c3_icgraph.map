@@ -1,0 +1,21 @@
+<map id="rel_release_string" name="rel_release_string">
+<area shape="rect" id="node2" href="$master__request_8c.html#a2d8a319ce665c43cdddcbc46e925bafd" title="css_process_shutdown\l_time_info" alt="" coords="197,19,356,61"/>
+<area shape="rect" id="node4" href="$file__io_8c.html#a75de3fb1bd3a4ce20808ae371e5bdca6" title="fileio_continue_restore" alt="" coords="201,107,353,133"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#adaf3756eb46d2f608fb945c678a665c8" title="logpb_restore" alt="" coords="674,157,774,184"/>
+<area shape="rect" id="node8" href="$file__io_8h.html#a8d17e5474825c3a1c56afea7769dce18" title="fileio_start_backup" alt="" coords="211,237,342,264"/>
+<area shape="rect" id="node10" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="440,427,583,453"/>
+<area shape="rect" id="node14" href="$log__page__buffer_8c.html#a63a720215fa477b0b24287fe33f11464" title="logpb_find_header_parameters" alt="" coords="177,303,376,329"/>
+<area shape="rect" id="node17" href="$log__page__buffer_8c.html#a3a7892fc280ade1dfd26f3e21ac3da16" title="logpb_initialize_header" alt="" coords="200,404,353,431"/>
+<area shape="rect" id="node19" href="$network__interface__cl_8h.html#a669e1ce0f8fe4fd698271b150702ac6b" title="net_client_ping_server\l_with_handshake" alt="" coords="201,455,353,497"/>
+<area shape="rect" id="node20" href="$network__interface__sr_8h.html#ad9d584fa39ad4b97df4f2d58e5e8a8b2" title="server_ping_with_handshake" alt="" coords="181,521,372,548"/>
+<area shape="rect" id="node3" href="$master__request_8h.html#a0d0d71b7f22a154bc9f7522d09a17429" title="css_process_info_request" alt="" coords="424,5,599,32"/>
+<area shape="rect" id="node5" href="$file__io_8c.html#a66c6de07286da1c9850e69522a423fd4" title="fileio_read_restore" alt="" coords="447,56,575,83"/>
+<area shape="rect" id="node6" href="$file__io_8h.html#ae03fe0d348dc4382d997df5f33a209bc" title="fileio_start_restore" alt="" coords="447,107,576,133"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="460,208,563,235"/>
+<area shape="rect" id="node11" href="$log__manager_8h.html#a95f060b401ef97e5ff9be51b7a304a5b" title="log_initialize" alt="" coords="677,376,771,403"/>
+<area shape="rect" id="node12" href="$log__manager_8h.html#a425ed5fad08e748df89edfd0350986f9" title="log_restart_emergency" alt="" coords="647,427,801,453"/>
+<area shape="rect" id="node13" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="677,477,771,504"/>
+<area shape="rect" id="node15" href="$log__manager_8h.html#a1bfabe29d0a3621d3f9d12f3e77cd3ee" title="log_get_io_page_size" alt="" coords="438,259,585,285"/>
+<area shape="rect" id="node16" href="$log__manager_8h.html#a0cb138cb6e789ecf8abb67698e42abd2" title="log_get_charset_from\l_header_page" alt="" coords="438,310,585,351"/>
+<area shape="rect" id="node18" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="446,477,577,504"/>
+</map>

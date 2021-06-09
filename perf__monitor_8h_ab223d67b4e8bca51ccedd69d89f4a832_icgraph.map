@@ -1,0 +1,5 @@
+<map id="perfmon_pack_stats" name="perfmon_pack_stats">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#a0ecddb0590c2feac8457be434a4bf1ca" title="smnt_server_copy_global\l_stats" alt="" coords="193,5,364,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#ac9811e7409f7f54a1e425de795dacee7" title="smnt_server_copy_stats" alt="" coords="196,71,361,98"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="412,42,519,69"/>
+</map>

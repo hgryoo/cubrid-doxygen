@@ -1,0 +1,9 @@
+<map id="locator_update_class" name="locator_update_class">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#a03dd3817bfa2054e8de4857679583815" title="allocate_disk_structures" alt="" coords="205,5,368,32"/>
+<area shape="rect" id="node5" href="$authenticate_8c.html#a36a9f9bf7e05bbf33f03c101747cc11c" title="fetch_class" alt="" coords="242,56,331,83"/>
+<area shape="rect" id="node6" href="$schema__manager_8c.html#a9d014b3ebeaf0ce2c4ba47922277f5e7" title="install_new_representation" alt="" coords="199,107,375,133"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#a46905b698e1a61916384860ef3f740ce" title="sm_drop_index" alt="" coords="435,207,545,233"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="230,232,343,259"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#af5d108d7bc0dbdecea7edd27580dbfe0" title="update_class" alt="" coords="605,56,704,83"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#abf471e77adf42a9be5ff53dc9d51cd76" title="update_subclasses" alt="" coords="423,56,557,83"/>
+</map>

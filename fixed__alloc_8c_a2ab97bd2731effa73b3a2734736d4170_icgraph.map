@@ -1,0 +1,21 @@
+<map id="db_create_fixed_heap" name="db_create_fixed_heap">
+<area shape="rect" id="node2" href="$locator__sr_8c.html#a1c86618c7927424311607b824cb2d636" title="locator_all_reference\l_lockset" alt="" coords="380,5,523,47"/>
+<area shape="rect" id="node4" href="$memory__hash_8h.html#a7b3a79a9b238f019bc78e4c6bbbf539a" title="mht_create" alt="" coords="215,399,301,426"/>
+<area shape="rect" id="node20" href="$memory__hash_8h.html#a4e7b1fbfde9ed464e0cadad76d4e181e" title="mht_create_hls" alt="" coords="203,450,313,477"/>
+<area shape="rect" id="node3" href="$locator__sr_8c.html#a54d381653cbf99abc339437c280e0575" title="xlocator_fetch_all\l_reference_lockset" alt="" coords="589,5,721,47"/>
+<area shape="rect" id="node5" href="$error__manager_8c.html#a1386dba61dd07f68ed3214124cfc2fcf" title="er_call_stack_init" alt="" coords="390,71,513,98"/>
+<area shape="rect" id="node6" href="$shard__statement_8h.html#af77fe89a17aa1d70f2c3484b5ad5b548" title="shard_stmt_initialize" alt="" coords="381,122,522,149"/>
+<area shape="rect" id="node7" href="$unittests__snapshot_8c.html#acefdd54e934f99584cb80f438c4c5795" title="logtb_initialize_tdes\l_for_mvcc_testing" alt="" coords="383,173,519,215"/>
+<area shape="rect" id="node8" href="$trigger__manager_8h.html#a72f1dcb1d7aade1a9d3a0988ac081206" title="tr_init" alt="" coords="424,239,479,266"/>
+<area shape="rect" id="node9" href="$work__space_8h.html#a7f356c42f2ee46cc4ff3f8cd9a06f0f7" title="ws_init" alt="" coords="420,290,483,317"/>
+<area shape="rect" id="node10" href="$name__resolution_8c.html#a39d82df2f4483cbce5f6f6fb064469be" title="pt_make_subclass_list" alt="" coords="374,341,529,367"/>
+<area shape="rect" id="node11" href="$parse__evaluate_8c.html#ac38bf10ba27dc32abcb58f7de1ba0f58" title="pt_associate_label\l_with_value" alt="" coords="386,392,517,433"/>
+<area shape="rect" id="node12" href="$list__file_8h.html#af7add2e6af06ebc6cfe4c1f0c989513f" title="qfile_initialize_list\l_cache" alt="" coords="389,457,513,499"/>
+<area shape="rect" id="node13" href="$partition__sr_8h.html#a09bc594af4326653f6d3e64a1ba4e319" title="partition_cache_init" alt="" coords="384,523,519,550"/>
+<area shape="rect" id="node14" href="$query__executor_8c.html#af5f9520767bb565b883b5b96fe41bd39" title="qexec_alloc_agg_hash\l_context" alt="" coords="374,575,529,616"/>
+<area shape="rect" id="node15" href="$serial_8h.html#aeac3d01d696bc5d57030cae77e38eb58" title="serial_initialize_cache_pool" alt="" coords="361,641,541,667"/>
+<area shape="rect" id="node16" href="$catalog__class_8c.html#afd4aaf02e4327588eeb7d9ddf842531a" title="catcls_initialize_class\l_oid_to_oid_hash_table" alt="" coords="372,692,531,733"/>
+<area shape="rect" id="node17" href="$heap__file_8c.html#a8f66c7ca2e74dffde318cba3280a340b" title="heap_chkreloc_start" alt="" coords="382,758,521,785"/>
+<area shape="rect" id="node18" href="$heap__file_8c.html#a703d3215a6e96a95b300fdf291e1e8f6" title="heap_chnguess_initialize" alt="" coords="368,809,535,835"/>
+<area shape="rect" id="node19" href="$heap__file_8c.html#ae964f616d8572d31c9fcec0926240bdb" title="heap_stats_bestspace\l_initialize" alt="" coords="375,860,528,901"/>
+</map>

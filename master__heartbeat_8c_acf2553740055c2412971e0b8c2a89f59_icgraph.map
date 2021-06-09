@@ -1,0 +1,8 @@
+<map id="hb_add_timeval" name="hb_add_timeval">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#afae97059541b24ff21d704b9de112896" title="hb_job_queue" alt="" coords="193,56,295,83"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#ad41a045d565bf07da57d8f9854d4c77b" title="hb_job_set_expire_and\l_reorder" alt="" coords="167,107,321,149"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#adb1c258f32a3f53957192c758dfa7c1e" title="hb_cluster_job_queue" alt="" coords="375,5,523,32"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#ad784d96fb20cea0bf650dde8f428d56d" title="hb_resource_job_queue" alt="" coords="369,56,528,83"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8c.html#a36c565c7a5cfab9cea7d2503a03e586f" title="hb_cluster_job_set\l_expire_and_reorder" alt="" coords="379,107,518,149"/>
+<area shape="rect" id="node7" href="$master__heartbeat_8c.html#a0717d75d7bc6f98073dd5db1abec72ee" title="hb_resource_job_set\l_expire_and_reorder" alt="" coords="377,173,520,214"/>
+</map>

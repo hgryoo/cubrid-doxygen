@@ -1,0 +1,4 @@
+<map id="fileio_backup_header" name="fileio_backup_header">
+<area shape="rect" id="node2" href="$structfileio__backup__record__info.html" title="{fileio_backup_record_info\n|+ at_time\l|}" alt="" coords="120,307,289,384"/>
+<area shape="rect" id="node3" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="28,5,133,244"/>
+</map>

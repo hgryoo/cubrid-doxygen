@@ -1,0 +1,8 @@
+<map id="src/transaction/log_system_tran.hpp" name="src/transaction/log_system_tran.hpp">
+<area shape="rect" id="node2" href="$thread__entry_8cpp.html" title="src/thread/thread_entry.cpp" alt="" coords="5,102,187,129"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html" title="src/transaction/log\l_manager.c" alt="" coords="211,95,341,136"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html" title="src/transaction/log\l_page_buffer.c" alt="" coords="365,95,494,136"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html" title="src/transaction/log\l_recovery.c" alt="" coords="518,95,647,136"/>
+<area shape="rect" id="node6" href="$log__system__tran_8cpp.html" title="src/transaction/log\l_system_tran.cpp" alt="" coords="671,95,801,136"/>
+<area shape="rect" id="node7" href="$log__tran__table_8c.html" title="src/transaction/log\l_tran_table.c" alt="" coords="825,95,954,136"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="la_free_all_repl_items_except_head" name="la_free_all_repl_items_except_head">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a65cc034a42038311deb53417606963f3" title="la_free_all_repl_items" alt="" coords="201,31,349,57"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a35df2910fea95b3a5bd61ea136809ed1" title="la_set_repl_log" alt="" coords="221,81,330,108"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a7ba25f44bcecbaa522dd022fb722f0c5" title="la_apply_repl_log" alt="" coords="597,5,720,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#acad5b835c2657fd28047decc477207e8" title="la_clear_applied_info" alt="" coords="402,31,545,57"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#ae29a327cb902156f5431da85b865f21b" title="la_log_record_process" alt="" coords="397,81,549,108"/>
+</map>

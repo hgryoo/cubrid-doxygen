@@ -1,0 +1,12 @@
+<map id="db_value_alter_type" name="db_value_alter_type">
+<area shape="rect" id="node2" href="$object__primitive_8c.html#a345362f97cfe7ca5057d93376435c13a" title="mr_data_readval_vobj" alt="" coords="201,5,350,32"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#adc3d29fa11c314f5c41c481c3b71d711" title="mr_setval_vobj" alt="" coords="220,56,331,83"/>
+<area shape="rect" id="node5" href="$parser_8h.html#a2ec0c565180360fd5b91fe6a2484b39f" title="pt_db_value_initialize" alt="" coords="202,107,349,133"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#a9361d7d1b6a9aa17eb833fa7fc6ee829" title="qdata_convert_dbvals\l_to_set" alt="" coords="201,158,350,199"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#ad18613777002d4972fc7189371e04782" title="regu_make_constant_vid" alt="" coords="192,224,359,251"/>
+<area shape="rect" id="node9" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="199,275,351,301"/>
+<area shape="rect" id="node10" href="$virtual__object_8c.html#a4cee73285967c01f96531d5c4bc46794" title="vid_make_vid" alt="" coords="224,325,327,352"/>
+<area shape="rect" id="node11" href="$virtual__object_8h.html#a5e7e604b705f665bd1532f4248f5fe1c" title="vid_make_vobj" alt="" coords="221,376,330,403"/>
+<area shape="rect" id="node3" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="407,19,547,61"/>
+<area shape="rect" id="node6" href="$parser_8h.html#ac9aa04940c9e86ca7b21642e2c304762" title="pt_value_to_db" alt="" coords="421,107,532,133"/>
+</map>

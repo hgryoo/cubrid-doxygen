@@ -1,0 +1,4 @@
+<map id="CRC::Table::GetParameters" name="CRC::Table::GetParameters">
+<area shape="rect" id="node2" href="$classCRC.html#a82d8aa1552599d285a883c55f45dd59e" title="Computes a CRC via a lookup table. " alt="" coords="273,5,388,32"/>
+<area shape="rect" id="node3" href="$classCRC.html#a299e6466d0a6c91a510732880b2f7550" title="Computes a CRC remainder using lookup table. " alt="" coords="241,56,420,83"/>
+</map>

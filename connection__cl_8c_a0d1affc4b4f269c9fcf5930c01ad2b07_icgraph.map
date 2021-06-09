@@ -1,0 +1,12 @@
+<map id="css_common_connect" name="css_common_connect">
+<area shape="rect" id="node2" href="$heartbeat_8c.html#a243855ba97faaf9001fe4061d0fa8ad2" title="css_connect_to_master\l_server" alt="" coords="207,86,368,127"/>
+<area shape="rect" id="node6" href="$connection__cl_8h.html#a482eb768590c72960b206628302aaf0b" title="css_connect_to_master\l_timeout" alt="" coords="207,187,368,229"/>
+<area shape="rect" id="node9" href="$connection__cl_8c.html#a35010916428582d33de48b7430cb3e6a" title="css_server_connect" alt="" coords="218,253,357,280"/>
+<area shape="rect" id="node11" href="$connection__cl_8c.html#ab25efa35368d6684e0c29e18f691ea10" title="css_server_connect\l_part_two" alt="" coords="218,305,357,346"/>
+<area shape="rect" id="node3" href="$heartbeat_8c.html#a4e028ec59dd614d71e4b6bd53c4c04f1" title="hb_connect_to_master" alt="" coords="430,5,585,32"/>
+<area shape="rect" id="node4" href="$server__support_8c.html#ad772b0426d828c02505439b6b628178e" title="css_reestablish_connection\l_to_master" alt="" coords="416,57,599,98"/>
+<area shape="rect" id="node5" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="474,123,541,149"/>
+<area shape="rect" id="node7" href="$broker_8c.html#abb8c4e39a56d807df5469d5d88c9b73e" title="connect_to_master_for\l_server_monitor" alt="" coords="430,174,585,215"/>
+<area shape="rect" id="node8" href="$connection__cl_8h.html#ac12380a0724c3c03046e31a9af3cc1c9" title="css_connect_to_master\l_for_info" alt="" coords="427,239,588,281"/>
+<area shape="rect" id="node10" href="$connection__cl_8h.html#a7bb87f7c020bc88c88c5729fe1a339d1" title="css_connect_to_cubrid\l_server" alt="" coords="429,305,585,346"/>
+</map>

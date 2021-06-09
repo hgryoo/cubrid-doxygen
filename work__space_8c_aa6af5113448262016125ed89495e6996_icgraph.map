@@ -1,0 +1,13 @@
+<map id="ml_append" name="ml_append">
+<area shape="rect" id="node2" href="$unload__schema_8c.html#ae700ca8c1f790a3eefa5e3b57d926fa7" title="emit_query_specs" alt="" coords="164,5,292,32"/>
+<area shape="rect" id="node4" href="$transform__cl_8c.html#a352a819670078925f67dbf41f46c6a94" title="get_object_set" alt="" coords="175,56,281,83"/>
+<area shape="rect" id="node7" href="$schema__manager_8c.html#a9d6de365522c5a197b11f4d2332fbcf5" title="lock_supers" alt="" coords="182,107,274,133"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#aaa2b2a5611834340c7390439b990d3d0" title="sm_fetch_all_base_classes" alt="" coords="365,195,548,221"/>
+<area shape="rect" id="node9" href="$schema__manager_8h.html#af6b111bde96e6d852443ac2d8aeca35d" title="sm_fetch_all_classes" alt="" coords="154,208,302,235"/>
+<area shape="rect" id="node10" href="$schema__template_8h.html#a6f39306d350f3c33059e10069b5cfc99" title="smt_add_super" alt="" coords="173,259,283,285"/>
+<area shape="rect" id="node11" href="$schema__template_8h.html#a4cf5c22378f5431322fac7467aa6b924" title="smt_delete_super_connect" alt="" coords="139,309,317,336"/>
+<area shape="rect" id="node12" href="$schema__manager_8c.html#a024a58bdb26f6789b0e3cd7e10220ece" title="update_supers" alt="" coords="175,360,281,387"/>
+<area shape="rect" id="node3" href="$unload__schema_8c.html#a7f79130b2669758e935be8a5b57261c1" title="emit_schema" alt="" coords="407,5,507,32"/>
+<area shape="rect" id="node5" href="$transform__cl_8c.html#abbfdce0d1a4eb0e066a1f503161fa721" title="disk_to_attribute" alt="" coords="397,56,516,83"/>
+<area shape="rect" id="node6" href="$transform__cl_8c.html#a7e9edf7ef6d40f43dc2b1c5dcca4594d" title="disk_to_class" alt="" coords="596,81,699,108"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="stmt_batch_result_free" name="stmt_batch_result_free">
+<area shape="rect" id="node2" href="$db__stub_8c.html#a1270305253397f2df6f248228ca271c1" title="stmt_exec_batch_query\l_internal" alt="" coords="208,5,369,47"/>
+<area shape="rect" id="node4" href="$db__stub_8c.html#a1413ba1452b828fbb08425face08a290" title="stmt_exec_prepared\l_batch_internal" alt="" coords="219,71,359,112"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a825f035965741e240c04731988f1e1b2" title="ci_stmt_execute_batch_impl" alt="" coords="417,46,605,73"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="set_msg_lang_from_env" name="set_msg_lang_from_env">
+<area shape="rect" id="node2" href="$language__support_8h.html#aad427ce503324d9dbb97bb27d0752e90" title="lang_get_msg_Loc_name" alt="" coords="217,56,388,83"/>
+<area shape="rect" id="node5" href="$language__support_8h.html#a40d77c7475b664ba0d6cccd50268bb77" title="lang_init_builtin" alt="" coords="247,107,358,133"/>
+<area shape="rect" id="node3" href="$message__catalog_8h.html#ab68b228cc31bc2b0c35a1fcc469cf439" title="msgcat_open" alt="" coords="448,5,548,32"/>
+<area shape="rect" id="node4" href="$message__catalog_8h.html#a145eddc1ef212c34facacbc62987a655" title="msgcat_open_file" alt="" coords="436,56,560,83"/>
+<area shape="rect" id="node6" href="$language__support_8h.html#aacb13171682312ef3352667c25db37e7" title="lang_init" alt="" coords="463,107,533,133"/>
+<area shape="rect" id="node7" href="$utility_8h.html#ad5781c1e37add771dc67bc370ecf8e4e" title="genlocale" alt="" coords="459,157,537,184"/>
+</map>

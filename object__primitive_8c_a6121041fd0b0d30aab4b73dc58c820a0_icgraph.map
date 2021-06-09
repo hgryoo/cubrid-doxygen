@@ -1,0 +1,5 @@
+<map id="readval_elo_with_type" name="readval_elo_with_type">
+<area shape="rect" id="node2" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="401,15,541,57"/>
+<area shape="rect" id="node3" href="$object__primitive_8c.html#a22c0143a9c8fb2a3ab1fa3ff20d01bee" title="mr_data_readval_blob" alt="" coords="204,23,353,49"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a1ce9e5c6dfc2577c02559b65c2ed1cca" title="mr_data_readval_clob" alt="" coords="204,73,353,100"/>
+</map>

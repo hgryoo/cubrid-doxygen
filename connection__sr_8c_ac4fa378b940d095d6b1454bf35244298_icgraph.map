@@ -1,0 +1,7 @@
+<map id="css_dealloc_conn" name="css_dealloc_conn">
+<area shape="rect" id="node2" href="$connection__sr_8h.html#a4e5cff26b4a95e909bb2f1b7f69418ad" title="css_final_conn_list" alt="" coords="180,31,313,57"/>
+<area shape="rect" id="node5" href="$connection__sr_8c.html#ace8be06bb48b5cfb6930cd25aa803ad6" title="css_free_conn" alt="" coords="193,85,300,112"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="571,5,687,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="375,31,509,57"/>
+<area shape="rect" id="node6" href="$connection__sr_8c.html#a243855ba97faaf9001fe4061d0fa8ad2" title="css_connect_to_master\l_server" alt="" coords="361,82,523,123"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="locator_reserve_class_name" name="locator_reserve_class_name">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#ac9f92fa6a5c28a01e0bdb4f8c4b0ec95" title="db_create_class" alt="" coords="247,56,365,83"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#aae39b1feccfef8822105fb8e91a66307" title="db_create_vclass" alt="" coords="244,428,368,455"/>
+<area shape="rect" id="node19" href="$db__temp_8c.html#a555a16efc6790eec2c32519266292eca" title="dbt_reserve_name" alt="" coords="241,479,371,505"/>
+<area shape="rect" id="node20" href="$locator__cl_8h.html#a913d82589353ffbe520b7c01f8665cf0" title="locator_add_root" alt="" coords="247,529,365,556"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="482,5,559,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8c.html#a7eaf0d2efc017f59ba6a98f77e1a344e" title="catcls_class_install" alt="" coords="453,56,589,83"/>
+<area shape="rect" id="node6" href="$boot__cl_8c.html#a8a92fabaf098a2519be1ea8fb62e3491" title="boot_define_view_attribute" alt="" coords="432,107,609,133"/>
+<area shape="rect" id="node7" href="$boot__cl_8c.html#a83bd7674f5621e79c82f7d9060489cc4" title="boot_define_view_attribute\l_set_domain" alt="" coords="432,158,609,199"/>
+<area shape="rect" id="node8" href="$boot__cl_8c.html#a419cb52e671dcd7e71fae8109bdb0808" title="boot_define_view_authorization" alt="" coords="419,224,623,251"/>
+<area shape="rect" id="node9" href="$boot__cl_8c.html#a67c067fc2db390d9289a42ed66fb958f" title="boot_define_view_class" alt="" coords="440,275,601,301"/>
+<area shape="rect" id="node10" href="$boot__cl_8c.html#a5ee22c0c82bc149576831660465c2916" title="boot_define_view_db\l_charset" alt="" coords="449,326,593,367"/>
+<area shape="rect" id="node11" href="$boot__cl_8c.html#a74159c51f6a6b00cee0ea619faee63d8" title="boot_define_view_db\l_collation" alt="" coords="449,391,593,433"/>
+<area shape="rect" id="node12" href="$boot__cl_8c.html#a864edb20af8541130535690e2e075b29" title="boot_define_view_index" alt="" coords="440,457,601,484"/>
+<area shape="rect" id="node13" href="$boot__cl_8c.html#add2d127d43305cac646b88f119f77bc9" title="boot_define_view_index_key" alt="" coords="426,508,615,535"/>
+<area shape="rect" id="node14" href="$boot__cl_8c.html#a2888aaae43d3ad0542e1bab49d76cfc8" title="boot_define_view_method" alt="" coords="434,559,607,585"/>
+<area shape="rect" id="node15" href="$boot__cl_8c.html#a89fa5be5acb7e3aa91c0328260119fb1" title="boot_define_view_method\l_argument" alt="" coords="434,610,607,651"/>
+<area shape="rect" id="node16" href="$boot__cl_8c.html#a331e4298fbdca6c5302e824a8cd3e391" title="boot_define_view_method\l_argument_set_domain" alt="" coords="434,675,607,717"/>
+<area shape="rect" id="node17" href="$boot__cl_8c.html#ad0658419aaf5d9b034fc9420ce06d9f8" title="boot_define_view_method_file" alt="" coords="422,741,619,768"/>
+<area shape="rect" id="node18" href="$boot__cl_8c.html#afa017e4140751890da5d3b790c6dca06" title="boot_define_view_partition" alt="" coords="433,792,609,819"/>
+</map>

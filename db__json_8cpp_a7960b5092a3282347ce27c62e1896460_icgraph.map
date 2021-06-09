@@ -1,0 +1,7 @@
+<map id="db_json_add_element_to_array" name="db_json_add_element_to_array">
+<area shape="rect" id="node2" href="$arithmetic_8h.html#a73f4e36249fbb64ee27f839a63933ab7" title="db_accumulate_json\l_arrayagg" alt="" coords="220,5,361,47"/>
+<area shape="rect" id="node4" href="$arithmetic_8h.html#a23c1b7046e18ce62416c9e2fe2ad1fb5" title="db_evaluate_json_array" alt="" coords="211,71,370,98"/>
+<area shape="rect" id="node5" href="$arithmetic_8h.html#a65e64aae3fa55ed07a45453324f048ca" title="db_evaluate_json_search" alt="" coords="206,122,375,149"/>
+<area shape="rect" id="node6" href="$db__json_8cpp.html#a53889ac35a8bbded0e9b6ac0c2871e0c" title="db_json_extract_document\l_from_path" alt="" coords="201,173,380,215"/>
+<area shape="rect" id="node3" href="$query__aggregate_8cpp.html#ae648488289a189182d88cdf6ec9eb4d8" title="qdata_aggregate_value\l_to_accumulator" alt="" coords="428,5,584,47"/>
+</map>

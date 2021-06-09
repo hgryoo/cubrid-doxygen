@@ -1,0 +1,9 @@
+<map id="show_request" name="show_request">
+<area shape="rect" id="node2" href="$structcursor.html" title="{cursor\n|+ file_id\l+ no\l+ num_stmt_ids\l+ last_stmt_id\l+ fetched_tuples\l+ num_columns\l+ curr_column\l+ num_pointers\l+ name\l+ cid\l+ level\l+ static_stmt\l+ stmtLength\l|}" alt="" coords="208,373,327,627"/>
+<area shape="rect" id="node3" href="$structcs__stmt__id.html" title="{cs_stmt_id\n|+ no\l+ stmt_id\l|}" alt="" coords="625,182,712,274"/>
+<area shape="rect" id="node4" href="$structstmt.html" title="{stmt\n|+ name\l+ sid\l|}" alt="" coords="65,182,131,274"/>
+<area shape="rect" id="node5" href="$structpointer.html" title="{pointer\n||}" alt="" coords="155,189,217,267"/>
+<area shape="rect" id="node6" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="5,5,103,83"/>
+<area shape="rect" id="node7" href="$structhost__lod.html" title="{host_lod\n|+ desc\l+ n_refs\l+ max_refs\l+ n_real_refs\l|}" alt="" coords="241,167,339,289"/>
+<area shape="rect" id="node8" href="$structdb__query__result.html" title="{db_query_result\n|+ type\l+ status\l+ col_cnt\l+ oid_included\l+ type_cnt\l+ qtable_ind\l+ res\l|}" alt="" coords="425,145,539,311"/>
+</map>

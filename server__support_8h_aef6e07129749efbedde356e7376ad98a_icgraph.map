@@ -1,0 +1,6 @@
+<map id="css_get_client_id" name="css_get_client_id">
+<area shape="rect" id="node2" href="$server__support_8h.html#aa9d4922ce427909a91784770a99a3b16" title="css_notify_ha_log_applier\l_state" alt="" coords="176,64,348,105"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8h.html#a47ea7b1b99660de36dc085d0d263e673" title="sboot_notify_ha_log\l_applier_state" alt="" coords="405,5,543,47"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="403,71,545,98"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#ab5d8cbe4258cd66e61a0da4e4a87614f" title="xboot_unregister_client" alt="" coords="396,122,552,149"/>
+</map>

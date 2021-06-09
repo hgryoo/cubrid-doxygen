@@ -1,0 +1,27 @@
+var structbtree__delete__helper =
+[
+    [ "btree_delete_helper", "structbtree__delete__helper.html#a479636f481ea26f0da3154d07473db4e", null ],
+    [ "buffered_key", "structbtree__delete__helper.html#aeb9a1709c79139cb42b087c9b344bd73", null ],
+    [ "check_key_deleted", "structbtree__delete__helper.html#a073199d1463d1117c3c3387af377fbba", null ],
+    [ "is_first_search", "structbtree__delete__helper.html#a0e2ee78e104dc2ce351759344103fdea", null ],
+    [ "is_key_deleted", "structbtree__delete__helper.html#ae762c901687b92d264fa4f3588aa7ea4", null ],
+    [ "is_root", "structbtree__delete__helper.html#a7afaec8b46c0de1095aeaa5d07dd682c", null ],
+    [ "is_system_op_started", "structbtree__delete__helper.html#aff7cd72acd11e33953d4d1535ad4fa17", null ],
+    [ "leaf_addr", "structbtree__delete__helper.html#a0ec77ba66693e7c8e260d29aaac64717", null ],
+    [ "log_operations", "structbtree__delete__helper.html#aafa216f92113070e1f446b157bd2f6d8", null ],
+    [ "match_mvccinfo", "structbtree__delete__helper.html#a959d77ea4462d242eaa17974e853f149", null ],
+    [ "nonleaf_latch_mode", "structbtree__delete__helper.html#a0bff13b3cf872eab7e6f8a53d55613e7", null ],
+    [ "object_info", "structbtree__delete__helper.html#aa8ef470b3ed7f58a316e93c2cc40240e", null ],
+    [ "op_type", "structbtree__delete__helper.html#a81cf37e04b1f69eec4cf35210beafe2b", null ],
+    [ "printed_key", "structbtree__delete__helper.html#a3fad09cf0eaec25cee6f09700b892a93", null ],
+    [ "printed_key_sha1", "structbtree__delete__helper.html#a1f8a84d575d9793857b6ebf30c311e20", null ],
+    [ "purpose", "structbtree__delete__helper.html#aaf91442626a1cd7194c9ab849b818c6f", null ],
+    [ "reference_lsa", "structbtree__delete__helper.html#a5d0ab2d48378d1b853854b8bcf478faa", null ],
+    [ "rv_keyval_data", "structbtree__delete__helper.html#a2e3714c76b308bfa5696f607bc76629d", null ],
+    [ "rv_keyval_data_length", "structbtree__delete__helper.html#a9871ad8d3abfdbc9d6bdab57c623bdeb", null ],
+    [ "rv_redo_data", "structbtree__delete__helper.html#a2a6bd1653cb817ca095d569278f9fad0", null ],
+    [ "rv_redo_data_ptr", "structbtree__delete__helper.html#a93c74188cca926aab68b38b380240672", null ],
+    [ "second_object_info", "structbtree__delete__helper.html#a490ada21f81db5c34e6395e1bb4bc522", null ],
+    [ "time_track", "structbtree__delete__helper.html#a13eef7e31af1a8a23317dbe00e9ed72d", null ],
+    [ "unique_stats_info", "structbtree__delete__helper.html#a19b5f8858163c6a2dee9a79739fc56d2", null ]
+];

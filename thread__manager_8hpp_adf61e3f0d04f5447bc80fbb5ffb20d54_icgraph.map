@@ -1,0 +1,21 @@
+<map id="thread_get_manager" name="thread_get_manager">
+<area shape="rect" id="node2" href="$critical__section_8h.html#abcb762f323e34e01fdf97492bf2f6f8f" title="csect_start_scan" alt="" coords="223,33,346,60"/>
+<area shape="rect" id="node3" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="482,5,549,32"/>
+<area shape="rect" id="node5" href="$server__support_8h.html#adc1b9bc6e1d670a3eacb31fc3c953820" title="css_push_external_task" alt="" coords="203,135,366,161"/>
+<area shape="rect" id="node9" href="$server__support_8c.html#a97e8a0e12b0a7ad7c2eb58132635e224" title="css_push_server_task" alt="" coords="208,185,361,212"/>
+<area shape="rect" id="node11" href="$lock__manager_8c.html#a104e521b5f958d944f9443a0aff23348" title="lock_detect_local_deadlock" alt="" coords="193,236,376,263"/>
+<area shape="rect" id="node12" href="$lock__manager_8h.html#a39894afba679cc8ff708080ea5ae6ac8" title="lock_initialize" alt="" coords="465,291,565,317"/>
+<area shape="rect" id="node13" href="$lock__manager_8c.html#a3e9358bbb79594551fff768dbba6232d" title="lock_get_transaction\l_lock_waiting_threads" alt="" coords="209,338,360,379"/>
+<area shape="rect" id="node15" href="$log__tran__table_8c.html#a7b98c8847e5cfea9a84d14ef8fb5732a" title="logtb_find_thread_by\l_tran_index" alt="" coords="213,403,356,445"/>
+<area shape="rect" id="node16" href="$log__tran__table_8c.html#a0f1b29352d4d268c0ec15f2fc30b117f" title="logtb_find_thread_by\l_tran_index_except_me" alt="" coords="205,469,365,510"/>
+<area shape="rect" id="node18" href="$btree__load_8c.html#a72589bdf8ecdb8521c23103b862503c0" title="online_index_builder" alt="" coords="215,535,354,561"/>
+<area shape="rect" id="node19" href="$show__scan_8h.html#a1d2179107b8b46c72de5ece00c80e845" title="thread_start_scan" alt="" coords="221,585,348,612"/>
+<area shape="rect" id="node20" href="$tz__support_8h.html#a1dad9d5a8847942e0f919f457a336767" title="tz_get_client_tz_region\l_session" alt="" coords="207,637,363,678"/>
+<area shape="rect" id="node4" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="655,201,771,228"/>
+<area shape="rect" id="node6" href="$file__io_8c.html#a6e1abcb3cd753e4b49625501fe6b7fd3" title="fileio_write_backup_node" alt="" coords="431,56,599,83"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a43c3e6965dc07096503c8de506a1069f" title="log_abort_all_active\l_transaction" alt="" coords="447,107,584,149"/>
+<area shape="rect" id="node8" href="$external__sort_8c.html#acb22f46db2a4675bb23bedb6bfbd0e22" title="px_sort_assign" alt="" coords="460,173,571,200"/>
+<area shape="rect" id="node10" href="$server__support_8c.html#a9d7ca6dc124394595a8891d9e758034a" title="css_connection_handler\l_thread" alt="" coords="434,225,597,266"/>
+<area shape="rect" id="node14" href="$lock__manager_8h.html#a87cb3f1a3258ced58be6e9d6f721ded4" title="lock_is_waiting_transaction" alt="" coords="424,345,607,372"/>
+<area shape="rect" id="node17" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="437,436,593,463"/>
+</map>

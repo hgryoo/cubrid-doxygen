@@ -1,0 +1,6 @@
+<map id="cfg_update_db" name="cfg_update_db">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="160,5,311,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#acb0127ed69984740febd2060f7086821" title="xboot_soft_rename" alt="" coords="169,56,302,83"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#af7fc2ae37e95cfeb4a29cd212b403f3d" title="boot_initialize_server" alt="" coords="359,5,503,32"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#a794a44f2e9de2660440c1ed06138ce56" title="boot_soft_rename" alt="" coords="367,56,494,83"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="lf_freelist_transport" name="lf_freelist_transport">
+<area shape="rect" id="node2" href="$lock__free_8h.html#a68d6d9f31aedc2635b42148895cac674" title="lf_freelist_claim" alt="" coords="187,173,300,200"/>
+<area shape="rect" id="node9" href="$lock__free_8h.html#abfef9c61b95d0550278dfdb024bdea95" title="lf_freelist_retire" alt="" coords="188,316,299,343"/>
+<area shape="rect" id="node3" href="$lock__free_8c.html#a18af93f8c02190c692007b889f487500" title="lf_list_insert_internal" alt="" coords="353,173,494,200"/>
+<area shape="rect" id="node4" href="$classlf__hash__table__cpp.html#a5aebc4382dc46fbb3d47e280d0f96967" title="lf_hash_table_cpp::\lfreelist_claim" alt="" coords="356,57,491,98"/>
+<area shape="rect" id="node5" href="$unittests__lf_8c.html#a2268dc8b698fc7e8b31517a46488a762" title="test_freelist_proc" alt="" coords="547,232,669,259"/>
+<area shape="rect" id="node6" href="$unittests__lf_8c.html#aaf441e6b6e06232e972039a0bf4198b0" title="test_freelist_proc\l_local_tran" alt="" coords="362,225,485,266"/>
+<area shape="rect" id="node7" href="$list__file_8h.html#abe67de63e0c3bdf78981c0dca64ece60" title="qfile_allocate_sort_list" alt="" coords="348,5,499,32"/>
+<area shape="rect" id="node8" href="$lock__manager_8h.html#a039adf79f7b8839277c035670e009fd9" title="lock_rep_read_tran" alt="" coords="357,291,489,317"/>
+<area shape="rect" id="node10" href="$lock__free_8h.html#af023551b0f4f4e9765a1abb0a0deae31" title="lf_list_delete" alt="" coords="376,392,471,419"/>
+<area shape="rect" id="node11" href="$classlf__hash__table__cpp.html#ae626c616e22a158cf972777c108e0589" title="lf_hash_table_cpp::\lfreelist_retire" alt="" coords="356,443,491,485"/>
+<area shape="rect" id="node12" href="$list__file_8h.html#aff23e96127c3293df96eb028de2f5261" title="qfile_free_sort_list" alt="" coords="359,509,487,536"/>
+</map>

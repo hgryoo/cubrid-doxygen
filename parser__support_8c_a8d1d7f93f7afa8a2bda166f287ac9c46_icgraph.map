@@ -1,0 +1,7 @@
+<map id="pt_is_method_call" name="pt_is_method_call">
+<area shape="rect" id="node2" href="$semantic__check_8c.html#ad3b4c87c49baa1750c11545deb557332" title="pt_check_and_replace\l_hostvar" alt="" coords="180,49,332,90"/>
+<area shape="rect" id="node6" href="$query__result_8c.html#abf306fa5ab8d1d900c8dbc19db9d158b" title="pt_fillin_type_size" alt="" coords="193,115,319,141"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#ab5db455025783dc63b0964bb283a1115" title="pt_check_partitions" alt="" coords="393,5,527,32"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#a5843229c5e01ec51876cbfc885b6377a" title="pt_check_alter_partition" alt="" coords="380,56,540,83"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#a037d720c8f15dd86df8710577a97dafa" title="pt_check_with_info" alt="" coords="393,107,527,133"/>
+</map>

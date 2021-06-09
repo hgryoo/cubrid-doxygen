@@ -1,0 +1,9 @@
+<map id="cas_ftruncate" name="cas_ftruncate">
+<area shape="rect" id="node2" href="$cas__log_8h.html#aa77e085534c41aa445f320379de53363" title="cas_log_close" alt="" coords="155,125,260,152"/>
+<area shape="rect" id="node3" href="$cas_8c.html#ac8849983c74ee222d58f8f17b887755a" title="shard_cas_main" alt="" coords="459,5,576,32"/>
+<area shape="rect" id="node4" href="$cas_8c.html#a860d9ee786081f5655e997ed55d494e8" title="cas_main" alt="" coords="478,68,557,95"/>
+<area shape="rect" id="node5" href="$cas_8c.html#a0ba66b0db4e9fdbf12bf88f9b275b8df" title="cas_free" alt="" coords="323,252,395,279"/>
+<area shape="rect" id="node6" href="$cas__log_8h.html#a839ba5a790ee22bdf30969561348cd27" title="cas_log_open" alt="" coords="308,100,411,127"/>
+<area shape="rect" id="node7" href="$cas__log_8h.html#aa9b37f939cc2c25c96fa47b286497f0a" title="cas_log_reset" alt="" coords="466,144,569,171"/>
+<area shape="rect" id="node8" href="$cas__log_8h.html#a88de7b3c3a3819a49cd818c95849426d" title="cas_log_end" alt="" coords="470,195,565,221"/>
+</map>

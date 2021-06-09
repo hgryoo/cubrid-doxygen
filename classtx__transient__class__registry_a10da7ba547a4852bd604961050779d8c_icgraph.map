@@ -1,0 +1,5 @@
+<map id="tx_transient_class_registry::has_class" name="tx_transient_class_registry::has_class">
+<area shape="rect" id="node2" href="$log__manager_8h.html#ab903fb10f0ff9d3073f703ab991cf8a3" title="log_is_class_being\l_modified" alt="" coords="192,39,324,80"/>
+<area shape="rect" id="node3" href="$partition_8c.html#a5036b6824d8ee5fd574187c5c83e2c31" title="partition_cache_pruning\l_context" alt="" coords="372,5,531,47"/>
+<area shape="rect" id="node4" href="$partition_8c.html#a72622382f9bc27b0abd70dab2add61f4" title="partition_load_context\l_from_cache" alt="" coords="377,71,526,112"/>
+</map>

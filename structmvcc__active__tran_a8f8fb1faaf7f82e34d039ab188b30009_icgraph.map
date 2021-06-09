@@ -1,0 +1,5 @@
+<map id="mvcc_active_tran::is_active" name="mvcc_active_tran::is_active">
+<area shape="rect" id="node2" href="$classmvcctable.html#a450520b79a5aecc3490a3ddc22298ccb" title="mvcctable::is_active" alt="" coords="207,5,350,32"/>
+<area shape="rect" id="node4" href="$mvcc_8c.html#a1ab8344021e84d594408d9255aecd85f" title="mvcc_is_id_in_snapshot" alt="" coords="196,56,361,83"/>
+<area shape="rect" id="node3" href="$mvcc_8c.html#a26421e3c624552ed3c05818be324e00b" title="mvcc_is_active_id" alt="" coords="409,5,540,32"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="numeric_get_pow_of_10" name="numeric_get_pow_of_10">
+<area shape="rect" id="node2" href="$numeric__opfunc_8h.html#a047b26a933d0a5a7c76cf8284ccc202b" title="numeric_coerce_num\l_to_bigint" alt="" coords="216,201,363,242"/>
+<area shape="rect" id="node11" href="$numeric__opfunc_8c.html#a64ba3935bc690474fb14a2e83e6e755f" title="numeric_overflow" alt="" coords="227,416,351,443"/>
+<area shape="rect" id="node3" href="$namespacecubload.html#a06ce3764d64877e8885da07cb52d5d14" title="cubload::to_db_bigint" alt="" coords="425,5,570,32"/>
+<area shape="rect" id="node4" href="$namespacecubload.html#a5c55b37ca45ea6cf3f004e0bc558c0bc" title="cubload::to_int_generic" alt="" coords="419,56,575,83"/>
+<area shape="rect" id="node5" href="$load__sa__loader_8cpp.html#a843e7b41907a7612b59500152cbd4889" title="ldr_int_elem" alt="" coords="451,107,543,133"/>
+<area shape="rect" id="node6" href="$load__sa__loader_8cpp.html#a224f9bc2a6a7e11916724f38e35d93b6" title="ldr_int_db_bigint" alt="" coords="439,157,555,184"/>
+<area shape="rect" id="node7" href="$numeric__opfunc_8c.html#af53df31fc108418e9d3d8ad21c17e866" title="numeric_div" alt="" coords="451,208,543,235"/>
+<area shape="rect" id="node9" href="$numeric__opfunc_8h.html#a2934147eb85e158f40bb51be6d46cad1" title="numeric_db_value_coerce\l_from_num" alt="" coords="411,259,584,301"/>
+<area shape="rect" id="node10" href="$numeric__opfunc_8h.html#af43f488f1fb95c537501c690b0133562" title="numeric_db_value_coerce\l_from_num_strict" alt="" coords="411,325,584,366"/>
+<area shape="rect" id="node8" href="$numeric__opfunc_8h.html#adc92df2237df745a925b2bffdc1f2738" title="numeric_db_value_div" alt="" coords="632,300,783,327"/>
+<area shape="rect" id="node12" href="$numeric__opfunc_8h.html#ae274b14fc2a3f23b786f8bb4a7478b3d" title="numeric_db_value_add" alt="" coords="420,441,575,468"/>
+<area shape="rect" id="node13" href="$numeric__opfunc_8h.html#a2432eab90a30717411deb3684ec6ba92" title="numeric_db_value_sub" alt="" coords="420,492,575,519"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="uw_shm_create" name="uw_shm_create">
+<area shape="rect" id="node2" href="$broker__shm_8h.html#a24df11406fa94ab2f52629d64864c6bc" title="broker_shm_initialize\l_shm_as" alt="" coords="168,147,312,188"/>
+<area shape="rect" id="node6" href="$broker__shm_8h.html#a803253986b5a68fa9b0b9a5946052d1e" title="broker_shm_initialize\l_shm_broker" alt="" coords="168,5,312,47"/>
+<area shape="rect" id="node7" href="$shard__shm_8h.html#aa31064381c38dbbc92b999ce9f24b966" title="shard_shm_initialize\l_shm_proxy" alt="" coords="170,81,310,123"/>
+<area shape="rect" id="node8" href="$broker__shm_8h.html#afc949fb3fc7533a702cb2a8836398c0e" title="uw_shm_open" alt="" coords="187,463,293,490"/>
+<area shape="rect" id="node3" href="$broker__admin__pub_8h.html#ad2b7e17f9a9fe16d07b20db49cea8f6b" title="admin_start_cmd" alt="" coords="549,109,672,135"/>
+<area shape="rect" id="node5" href="$broker__admin__pub_8h.html#a21e0332265b07017b4f3211c3f455640" title="admin_on_cmd" alt="" coords="371,159,482,186"/>
+<area shape="rect" id="node4" href="$broker__admin_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="728,463,779,490"/>
+<area shape="rect" id="node9" href="$broker_8c.html#a6ef39b1e633799ddffac6c57a51dbc80" title="broker_init_shm" alt="" coords="369,666,484,693"/>
+<area shape="rect" id="node10" href="$broker__admin__pub_8c.html#af17ea2570fea28f1d68047eefa59996a" title="broker_create_dir" alt="" coords="365,210,488,237"/>
+<area shape="rect" id="node11" href="$broker__admin__pub_8h.html#a82a639bb8c175fa144c5a62734b57669" title="admin_conf_change" alt="" coords="541,247,680,274"/>
+<area shape="rect" id="node12" href="$broker__admin__pub_8h.html#aea3392ab9991db755b0a823eb606be60" title="admin_stop_cmd" alt="" coords="550,514,671,541"/>
+<area shape="rect" id="node13" href="$broker__admin__pub_8h.html#a46a0862b555218265c199ee06a187a09" title="admin_add_cmd" alt="" coords="552,565,669,591"/>
+<area shape="rect" id="node14" href="$broker__admin__pub_8h.html#af8e8e279d05d6361203a52304e19eeff" title="admin_restart_cmd" alt="" coords="544,615,677,642"/>
+<area shape="rect" id="node15" href="$broker__admin__pub_8h.html#a5a0c2bf4ce551d4490292f4ed4f1904c" title="admin_drop_cmd" alt="" coords="550,691,671,718"/>
+<area shape="rect" id="node16" href="$broker__admin__pub_8h.html#a14999819eaeeb81cb1aa69aef429116f" title="admin_off_cmd" alt="" coords="555,793,666,819"/>
+<area shape="rect" id="node17" href="$broker__admin__pub_8h.html#a68128996505cf879bc8a0a6c35b7c978" title="admin_reset_cmd" alt="" coords="364,311,489,338"/>
+<area shape="rect" id="node18" href="$broker__admin__pub_8h.html#a20e8ec79374e9767968058789810bc31" title="admin_info_cmd" alt="" coords="368,362,485,389"/>
+<area shape="rect" id="node19" href="$broker__admin__pub_8h.html#a8c0b17f2f0ade79a52a47448a892a76d" title="admin_getid_cmd" alt="" coords="365,413,489,439"/>
+<area shape="rect" id="node20" href="$broker__admin__pub_8h.html#a3bc76d2861da553cdc43441b950294a1" title="admin_del_cas_log" alt="" coords="360,767,493,794"/>
+</map>

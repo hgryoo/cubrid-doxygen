@@ -1,0 +1,6 @@
+<map id="btree_insert_list" name="btree_insert_list">
+<area shape="rect" id="node2" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="23,5,115,112"/>
+<area shape="rect" id="node5" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="117,189,250,413"/>
+<area shape="rect" id="node3" href="$structpage__key__boundary.html" title="{page_key_boundary\n|+ m_is_inf_left_key\l+ m_is_inf_right_key\l|+ page_key_boundary()\l+ ~page_key_boundary()\l+ set_value()\l+ set_value()\l+ set_value()\l+ update_boundary_eq()\l+ update_boundary_lt()\l+ update_boundary_gt\l_or_eq()\l}" alt="" coords="502,197,668,406"/>
+<area shape="rect" id="node4" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="404,20,502,97"/>
+</map>

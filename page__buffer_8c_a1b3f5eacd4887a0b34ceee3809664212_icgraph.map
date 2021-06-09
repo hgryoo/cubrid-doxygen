@@ -1,0 +1,16 @@
+<map id="pgbuf_remove_from_lru_list" name="pgbuf_remove_from_lru_list">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a7cc1c686b4d3e0a9de41d12d4bfa26b7" title="pgbuf_get_victim_from\l_lru_list" alt="" coords="1084,35,1239,77"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a30de612d32bf24eec316c94bad440a6a" title="pgbuf_lru_boost_bcb" alt="" coords="1090,195,1233,221"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#afefe190b536faf7fecddcd0bff83e6e7" title="pgbuf_lru_fall_bcb\l_to_zone_3" alt="" coords="693,74,819,115"/>
+<area shape="rect" id="node11" href="$page__buffer_8c.html#a10517209eae529f43203d575af64ed97" title="pgbuf_lru_remove_bcb" alt="" coords="263,245,416,272"/>
+<area shape="rect" id="node15" href="$page__buffer_8c.html#a8c129e83675a9f0d02325c18ca54f52f" title="pgbuf_move_bcb_to_bottom_lru" alt="" coords="236,329,443,356"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#ae3559936e3204102a7a9a4fee6087017" title="pgbuf_get_victim" alt="" coords="1501,43,1623,69"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a1869e0a6005a3553cf95f4573a52b4c0" title="pgbuf_lfcq_get_victim\l_from_private_lru" alt="" coords="1295,35,1445,77"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#ad6a87f13e7f04e7143483b3737eb6c86" title="pgbuf_lfcq_get_victim\l_from_shared_lru" alt="" coords="1295,101,1445,142"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="1287,263,1453,305"/>
+<area shape="rect" id="node9" href="$page__buffer_8c.html#a15c09d47288ba8619d6a1fb68c0985ad" title="pgbuf_lru_adjust_zone2" alt="" coords="877,93,1036,120"/>
+<area shape="rect" id="node10" href="$page__buffer_8c.html#a71472951a1a3c3fc25291339157cbb8a" title="pgbuf_lru_adjust_zones" alt="" coords="877,43,1036,69"/>
+<area shape="rect" id="node12" href="$page__buffer_8c.html#aacfdde3e346ff6e9ecf80711fbcf3285" title="pgbuf_assign_direct\l_victim" alt="" coords="493,129,632,170"/>
+<area shape="rect" id="node13" href="$page__buffer_8c.html#a32645b0c2aace57799af8b647423a493" title="pgbuf_invalidate_bcb" alt="" coords="491,296,635,323"/>
+<area shape="rect" id="node14" href="$page__buffer_8c.html#a76e301b78b2f0d65de56d7b2f57106e0" title="pgbuf_lru_move_from\l_private_to_shared" alt="" coords="683,297,829,338"/>
+</map>

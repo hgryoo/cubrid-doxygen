@@ -1,0 +1,7 @@
+<map id="pgbuf_bcb_is_to_vacuum" name="pgbuf_bcb_is_to_vacuum">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#afefe190b536faf7fecddcd0bff83e6e7" title="pgbuf_lru_fall_bcb\l_to_zone_3" alt="" coords="231,45,358,86"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a88151b978de695fc8c76f011b0996962" title="pgbuf_victimize_bcb" alt="" coords="224,111,365,137"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a15c09d47288ba8619d6a1fb68c0985ad" title="pgbuf_lru_adjust_zone2" alt="" coords="413,5,572,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a71472951a1a3c3fc25291339157cbb8a" title="pgbuf_lru_adjust_zones" alt="" coords="413,56,572,83"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#ad52a19e58500feeaa168bde701246375" title="pgbuf_allocate_bcb" alt="" coords="425,111,560,137"/>
+</map>

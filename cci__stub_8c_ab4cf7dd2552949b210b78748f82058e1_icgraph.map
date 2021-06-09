@@ -1,0 +1,13 @@
+<map id="bind_api_structure" name="bind_api_structure">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#a35a8704ade4e226e370672f262cecf61" title="ci_conn_create_statement_impl" alt="" coords="181,5,388,32"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#a9f506c749a42c53c4bfcd4737b97a0e3" title="ci_create_connection_impl" alt="" coords="197,56,373,83"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#a4427c16b928d7d4d79d704725430be4c" title="ci_stmt_execute_batch_impl" alt="" coords="191,107,379,133"/>
+<area shape="rect" id="node5" href="$cci__stub_8c.html#aa15e4008404246b9657f18091da6f840" title="create_resultset_impl" alt="" coords="211,157,358,184"/>
+<area shape="rect" id="node8" href="$cci__stub_8c.html#a4360e8cdb0b9539a7946ac9b49c65498" title="lazy_bind_pstmt_pmeta" alt="" coords="205,212,365,239"/>
+<area shape="rect" id="node10" href="$cci__stub_8c.html#a7f580e78df43a343a9379c67d3b06a76" title="lazy_bind_qres_rmeta" alt="" coords="210,279,359,305"/>
+<area shape="rect" id="node6" href="$cci__stub_8c.html#ace52a2c278ffeac2c673ca3a430b6f8b" title="statement_get_reshandle\l_or_affectedrows" alt="" coords="436,89,604,130"/>
+<area shape="rect" id="node7" href="$cci__stub_8c.html#a7fe23bc05d8135ec88a999af0dd1357f" title="create_cci_object" alt="" coords="458,155,582,181"/>
+<area shape="rect" id="node9" href="$cci__stub_8c.html#a7a7194dd208d773500e22f4d9b818cc3" title="ci_stmt_get_parameter\l_metadata_impl" alt="" coords="443,206,597,247"/>
+<area shape="rect" id="node11" href="$cci__stub_8c.html#a0fe1adb5c8d2379b322c00d9d1d18b33" title="api_qres_get_resultset\l_metadata" alt="" coords="443,271,597,313"/>
+<area shape="rect" id="node12" href="$cci__stub_8c.html#a4161619dc9bd8b8dddc33b4b118d9623" title="ci_stmt_get_resultset\l_metadata_impl" alt="" coords="447,337,593,378"/>
+</map>

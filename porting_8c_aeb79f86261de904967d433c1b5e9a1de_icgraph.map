@@ -1,0 +1,14 @@
+<map id="strlcpy" name="strlcpy">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="119,123,253,149"/>
+<area shape="rect" id="node7" href="$message__catalog_8c.html#ae958fb680cb69a9b3ca2d0606eb6b320" title="cub_catopen" alt="" coords="138,248,234,275"/>
+<area shape="rect" id="node9" href="$environment__variable_8h.html#a59030dd6b5c33d6b7d18332392e3c526" title="envvar_expand" alt="" coords="131,299,241,325"/>
+<area shape="rect" id="node11" href="$es__posix_8h.html#aa2745846252fb207df6b438aa3951536" title="es_posix_init" alt="" coords="137,349,235,376"/>
+<area shape="rect" id="node12" href="$transaction__transient_8hpp.html#aa3c2ef0d11d1d8545e613be8596d8eb7" title="xtx_add_lob_locator" alt="" coords="117,400,255,427"/>
+<area shape="rect" id="node13" href="$transaction__transient_8hpp.html#a93cd9a48b34f765ecc98df18a611f2a6" title="xtx_change_state_of\l_locator" alt="" coords="115,451,257,493"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="333,5,449,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="325,57,456,98"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="319,123,462,149"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="346,197,435,224"/>
+<area shape="rect" id="node8" href="$message__catalog_8h.html#ab68b228cc31bc2b0c35a1fcc469cf439" title="msgcat_open" alt="" coords="341,248,441,275"/>
+<area shape="rect" id="node10" href="$schema__manager_8c.html#aa4901474b517cfed9dc9bd95e288c957" title="sm_expand_method_files" alt="" coords="305,299,476,325"/>
+</map>

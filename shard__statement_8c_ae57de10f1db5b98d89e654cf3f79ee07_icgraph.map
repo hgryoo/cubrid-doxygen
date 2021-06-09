@@ -1,0 +1,10 @@
+<map id="shard_stmt_del_all_srv_h_id_for_shard_cas" name="shard_stmt_del_all_srv_h_id_for_shard_cas">
+<area shape="rect" id="node2" href="$shard__proxy__io_8c.html#afd8b3006c4a294f7b125f3d11a9a5180" title="proxy_cas_io_free" alt="" coords="243,97,371,123"/>
+<area shape="rect" id="node6" href="$shard__proxy__io_8c.html#acd4c8208e5e6aac1121f57709338637f" title="proxy_cas_io_free_by_ctx" alt="" coords="220,181,395,207"/>
+<area shape="rect" id="node8" href="$shard__proxy__io_8c.html#aa9229ea15f33067b00ac5a272f78d428" title="proxy_set_conn_info" alt="" coords="236,235,379,262"/>
+<area shape="rect" id="node3" href="$shard__proxy__io_8c.html#a6cd5f4c2ee4e3bbc10ac11b912d93d09" title="proxy_process_cas_conn\l_error" alt="" coords="455,5,625,47"/>
+<area shape="rect" id="node4" href="$shard__proxy__io_8c.html#aafb0cf99242ce0ad1674778debf4dc3e" title="proxy_process_cas_register" alt="" coords="447,71,633,98"/>
+<area shape="rect" id="node5" href="$shard__proxy__io_8c.html#a70f18e9cbd54b9090ae417ed4a1240d2" title="proxy_process_cas_response" alt="" coords="443,122,637,149"/>
+<area shape="rect" id="node7" href="$shard__proxy__handler_8c.html#a57d8b1826ce543874e720e82819ed5c2" title="proxy_context_free\l_shard" alt="" coords="473,173,607,215"/>
+<area shape="rect" id="node9" href="$shard__proxy__io_8h.html#aa34e072553d768be5d8a6f7117edf722" title="proxy_cas_alloc_by_ctx" alt="" coords="459,239,621,266"/>
+</map>

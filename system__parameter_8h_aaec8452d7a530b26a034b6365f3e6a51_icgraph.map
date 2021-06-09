@@ -1,0 +1,8 @@
+<map id="sysprm_tune_client_parameters" name="sysprm_tune_client_parameters">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="580,31,709,57"/>
+<area shape="rect" id="node5" href="$system__parameter_8c.html#a4ec31a9cb79fca746211d6033d5d9b8c" title="prm_tune_parameters" alt="" coords="188,56,336,83"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a77bd95c7f71d0f419d0f69a3090c4836" title="conn_restart_client" alt="" coords="757,5,889,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a4f475937ff6abf40ab472a149d37ae11" title="db_restart" alt="" coords="783,56,863,83"/>
+<area shape="rect" id="node6" href="$system__parameter_8h.html#af9b44c01696a47f1389b95b7ce8e57b1" title="sysprm_final" alt="" coords="410,56,506,83"/>
+<area shape="rect" id="node7" href="$system__parameter_8c.html#a29f727e670076ae114900fc05365ae17" title="sysprm_load_and_init\l_internal" alt="" coords="384,107,532,149"/>
+</map>

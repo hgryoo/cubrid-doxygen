@@ -1,0 +1,21 @@
+<map id="cubbase::restrack_assert" name="cubbase::restrack_assert">
+<area shape="rect" id="node2" href="$classcubbase_1_1resource__tracker.html#a7c8a18d6da9eecbf46dcbc9a864ee1c2" title="cubbase::resource_tracker\l::clear_all" alt="" coords="490,75,666,116"/>
+<area shape="rect" id="node3" href="$classcubbase_1_1resource__tracker.html#a6433cc43662fddb4e3003ee39ed85079" title="cubbase::resource_tracker\l::~resource_tracker" alt="" coords="765,16,941,58"/>
+<area shape="rect" id="node5" href="$namespacecubsync.html#ae7165273f9e21a0cf9d642e4b572bea9" title="cubsync::cstrack_assert" alt="" coords="228,382,393,409"/>
+<area shape="rect" id="node15" href="$classcubbase_1_1resource__tracker.html#a6b1f9ced7f2d0af6c5f3ef04d7fbc6bb" title="cubbase::resource_tracker\l::decrement" alt="" coords="223,680,399,722"/>
+<area shape="rect" id="node19" href="$classcubbase_1_1resource__tracker.html#ad22b0c4a377be2b2c23eeaa87ff3f5c3" title="cubbase::resource_tracker\l::increment" alt="" coords="223,771,399,812"/>
+<area shape="rect" id="node20" href="$classcubbase_1_1resource__tracker.html#aa811ad505dbc0161792ef40ea1fd5300" title="cubbase::resource_tracker\l::pop_track" alt="" coords="223,134,399,175"/>
+<area shape="rect" id="node4" href="$classcubthread_1_1entry.html#ac22f48e3bf5fa056103e90a3ee8fc033" title="cubthread::entry::end\l_resource_tracks" alt="" coords="780,82,925,123"/>
+<area shape="rect" id="node6" href="$classcubsync_1_1critical__section__tracker.html#a15e358080803dd16f7e05ecf4f336207" title="cubsync::critical_section\l_tracker::on_enter_as_reader" alt="" coords="757,280,948,322"/>
+<area shape="rect" id="node7" href="$classcubsync_1_1critical__section__tracker.html#abbf0683f84ed3f9e1c1a38055302cd43" title="cubsync::critical_section\l_tracker::on_enter_as_writer" alt="" coords="759,488,946,530"/>
+<area shape="rect" id="node8" href="$classcubsync_1_1critical__section__tracker.html#a66b92b3595c21a2ca3e4f85deee39dd2" title="cubsync::critical_section\l_tracker::on_promote" alt="" coords="495,375,661,416"/>
+<area shape="rect" id="node9" href="$classcubsync_1_1critical__section__tracker.html#aa3dbf8f4eb9f53453b2dbec57f4834b6" title="cubsync::critical_section\l_tracker::on_demote" alt="" coords="495,440,661,482"/>
+<area shape="rect" id="node10" href="$classcubsync_1_1critical__section__tracker.html#a4f5cae8f309d32c418506c164ff6868c" title="cubsync::critical_section\l_tracker::on_exit" alt="" coords="495,506,661,547"/>
+<area shape="rect" id="node11" href="$classcubsync_1_1critical__section__tracker.html#a5dc8f66fc3e64e11d5a2be7aad13301c" title="cubsync::critical_section\l_tracker::check_csect_interdependencies" alt="" coords="447,310,709,351"/>
+<area shape="rect" id="node12" href="$classcubsync_1_1critical__section__tracker.html#aff1bc1bd2d132e0e8c588e63621221b7" title="cubsync::critical_section\l_tracker::stop" alt="" coords="495,192,661,234"/>
+<area shape="rect" id="node14" href="$classcubsync_1_1critical__section__tracker.html#a9127df46b873b58917b7d11449f7b543" title="cubsync::critical_section\l_tracker::check" alt="" coords="495,571,661,612"/>
+<area shape="rect" id="node13" href="$classcubthread_1_1entry.html#a4072911b45ba04409b0283b3c9032e2f" title="cubthread::entry::pop\l_resource_tracks" alt="" coords="780,170,925,211"/>
+<area shape="rect" id="node16" href="$memory__alloc_8h.html#a377f2d890a557f9ddbe01f8f305f5fcb" title="db_private_realloc\l_debug" alt="" coords="515,739,641,780"/>
+<area shape="rect" id="node18" href="$memory__alloc_8h.html#a90468d1f03d2f4aea23e7bd7b161fc0c" title="db_private_realloc\l_external" alt="" coords="789,739,916,780"/>
+<area shape="rect" id="node17" href="$memory__alloc_8h.html#a4d50846166aa74ad4236a840d9ef9d01" title="db_private_alloc_debug" alt="" coords="773,830,932,857"/>
+</map>

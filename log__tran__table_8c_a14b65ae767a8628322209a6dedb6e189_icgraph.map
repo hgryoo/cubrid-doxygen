@@ -1,0 +1,9 @@
+<map id="logtb_tran_reset_count_optim_state" name="logtb_tran_reset_count_optim_state">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#abced029cdab388279dc4b134179929c3" title="logtb_complete_mvcc" alt="" coords="235,81,385,108"/>
+<area shape="rect" id="node6" href="$log__tran__table_8c.html#a95ba237812e6f9b8aec2e12fb661575e" title="logtb_invalidate_snapshot_data" alt="" coords="208,157,412,184"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="493,5,602,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="486,56,609,83"/>
+<area shape="rect" id="node5" href="$unittests__snapshot_8c.html#a6e94852860f51ea0f1b3cfd809ee8f00" title="test_new_mvcc_complete" alt="" coords="460,107,635,133"/>
+<area shape="rect" id="node7" href="$network__sr_8c.html#ae411c65a8239aaf3abb5a8524667b9db" title="net_server_request" alt="" coords="481,157,614,184"/>
+<area shape="rect" id="node8" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="482,209,613,250"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="cubmem::extensible_block::get_size" name="cubmem::extensible_block::get_size">
+<area shape="rect" id="node2" href="$classstring__buffer.html#a217cf0d569917d2babadfaf98f183674" title="string_buffer::operator()" alt="" coords="196,5,353,32"/>
+<area shape="rect" id="node5" href="$classstring__buffer.html#ab65e08ba173ae7502dad388fd3d187c8" title="string_buffer::operator+=" alt="" coords="192,56,357,83"/>
+<area shape="rect" id="node6" href="$classrecord__descriptor.html#ace796c18705edf4a94ad397dfd648055" title="record_descriptor::\lrelease_buffer" alt="" coords="209,107,340,149"/>
+<area shape="rect" id="node8" href="$classlog__postpone__cache.html#a58059eb7b85a3e6dbe1a6a80fc2a36bb" title="log_postpone_cache\l::reset" alt="" coords="204,231,345,273"/>
+<area shape="rect" id="node3" href="$classstring__buffer.html#a1fc146ac1f70e85dd051145b217deaaa" title="string_buffer::hex_dump" alt="" coords="407,5,570,32"/>
+<area shape="rect" id="node4" href="$classstring__buffer.html#a109bdda52cca0533debc5c3aef4564bd" title="string_buffer::release_ptr" alt="" coords="405,56,572,83"/>
+<area shape="rect" id="node7" href="$locator__sr_8h.html#aed9949860d03e24a533cf63afe02f0a5" title="locator_allocate_copy\l_area_by_attr_info" alt="" coords="415,107,563,149"/>
+<area shape="rect" id="node9" href="$classlog__postpone__cache.html#a3640e54783cc219f708e146703059e88" title="log_postpone_cache\l::do_postpone" alt="" coords="418,173,559,214"/>
+<area shape="rect" id="node10" href="$log__manager_8c.html#a95f9d78f6596d07a91842fab70321950" title="log_rollback" alt="" coords="443,239,534,265"/>
+<area shape="rect" id="node11" href="$log__tran__table_8c.html#a6c5edebbae75e1a92360baf780ce8377" title="logtb_clear_tdes" alt="" coords="430,289,547,316"/>
+<area shape="rect" id="node12" href="$log__tran__table_8c.html#af367ea7ca740da91a90b19b7fb7a867b" title="logtb_set_tdes" alt="" coords="435,340,542,367"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="db_get_date_format" name="db_get_date_format">
+<area shape="rect" id="node2" href="$arithmetic_8c.html#a89c4cee2bccdb4a5d6b312d112112f31" title="round_date" alt="" coords="198,5,285,32"/>
+<area shape="rect" id="node4" href="$arithmetic_8c.html#a6862ca918413f4b587a38af98a6abf1d" title="truncate_date" alt="" coords="191,56,292,83"/>
+<area shape="rect" id="node3" href="$arithmetic_8h.html#a2ca1b6f705b0fbbcc8406fdc5d157d29" title="db_round_dbval" alt="" coords="340,5,453,32"/>
+<area shape="rect" id="node5" href="$arithmetic_8h.html#ad0311a523d0853262727aadf322d144d" title="db_trunc_dbval" alt="" coords="341,56,452,83"/>
+</map>

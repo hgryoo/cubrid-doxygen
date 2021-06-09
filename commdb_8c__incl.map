@@ -1,0 +1,13 @@
+<map id="src/executables/commdb.c" name="src/executables/commdb.c">
+<area shape="rect" id="node10" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="860,155,988,181"/>
+<area shape="rect" id="node12" href="$porting_8h.html" title="porting.h" alt="" coords="855,304,927,331"/>
+<area shape="rect" id="node13" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="261,229,377,256"/>
+<area shape="rect" id="node14" href="$connection__cl_8h.html" title="connection_cl.h" alt="" coords="726,80,840,107"/>
+<area shape="rect" id="node15" href="$heartbeat_8h.html" title="heartbeat.h" alt="" coords="864,80,950,107"/>
+<area shape="rect" id="node16" href="$master__util_8h.html" title="master_util.h" alt="" coords="974,80,1072,107"/>
+<area shape="rect" id="node17" href="$message__catalog_8h.html" title="message_catalog.h" alt="" coords="1093,155,1228,181"/>
+<area shape="rect" id="node18" href="$utility_8h.html" title="utility.h" alt="" coords="1259,155,1323,181"/>
+<area shape="rect" id="node19" href="$cubrid__getopt_8h.html" title="cubrid_getopt.h" alt="" coords="1280,229,1390,256"/>
+<area shape="rect" id="node20" href="$util__support_8h.html" title="util_support.h" alt="" coords="1249,80,1349,107"/>
+<area shape="rect" id="node11" href="$boot_8h.html" title="boot.h" alt="" coords="928,229,987,256"/>
+</map>

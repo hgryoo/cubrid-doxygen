@@ -1,0 +1,5 @@
+<map id="hb_remove_ping_host" name="hb_remove_ping_host">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#ac1bfaf1d84fd7855099cd1a0b6e4021d" title="hb_cluster_remove_all\l_ping_hosts" alt="" coords="203,23,355,65"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#a25db7817bb427ccd2146827091c889b1" title="hb_cluster_cleanup" alt="" coords="403,5,537,32"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#abcba91f0e0527d2a12822ed9953835fc" title="hb_reload_config" alt="" coords="410,56,530,83"/>
+</map>

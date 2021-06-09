@@ -1,0 +1,6 @@
+<map id="stx_map_stream_to_filter_pred" name="stx_map_stream_to_filter_pred">
+<area shape="rect" id="node2" href="$filter__pred__cache_8h.html#a4403ac69dd4d9d07557cc62ebb4e81cd" title="fpcache_claim" alt="" coords="267,13,373,39"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="257,63,383,90"/>
+<area shape="rect" id="node5" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="255,115,385,156"/>
+<area shape="rect" id="node3" href="$locator__sr_8c.html#a7cc9e4622ed91c4519bfc685e106366a" title="locator_eval_filter\l_predicate" alt="" coords="433,5,557,47"/>
+</map>

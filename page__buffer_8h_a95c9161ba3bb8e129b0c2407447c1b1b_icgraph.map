@@ -1,0 +1,21 @@
+<map id="pgbuf_set_lsa" name="pgbuf_set_lsa">
+<area shape="rect" id="node2" href="$btree_8h.html#a5f3c55ed7fc42993113e68e617d03de5" title="btree_reflect_global\l_unique_statistics" alt="" coords="175,5,310,47"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#af9eab79304e58db6d98885f7a771b20c" title="log_append_compensate\l_internal" alt="" coords="159,71,326,112"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#ad39dc10a11df5427f5af4c203e9d98a6" title="log_append_redo_crumbs" alt="" coords="383,710,553,737"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a487dabcb7a4dc15bab76299fb5ff1660" title="log_append_undoredo\l_crumbs" alt="" coords="607,281,755,323"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#ab82d5be060189c3aa56e57399a458e3a" title="log_append_run_postpone" alt="" coords="156,238,329,265"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#a9ba19c0baec377fbab0da02a75c7260d" title="log_append_undo_crumbs" alt="" coords="381,238,555,265"/>
+<area shape="rect" id="node9" href="$log__recovery_8c.html#ac8b688935ca41cc96e536f5a162323d7" title="log_rv_redo_record" alt="" coords="177,187,309,214"/>
+<area shape="rect" id="node11" href="$log__manager_8h.html#af7bfbd98d66410cc6e3d1d050cec24ec" title="log_skip_logging" alt="" coords="183,390,302,417"/>
+<area shape="rect" id="node19" href="$log__manager_8h.html#a710b4ca5cba1f04821a8bd736e64b485" title="log_skip_logging_set_lsa" alt="" coords="159,491,326,518"/>
+<area shape="rect" id="node20" href="$page__buffer_8h.html#afde1751ceb069fe468ffa1b51283033f" title="pgbuf_unfix_debug" alt="" coords="177,542,308,569"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#ac81ee2d37e00a5343e7213b8280f3b53" title="logtb_reflect_global\l_unique_stats_to_btree" alt="" coords="389,5,547,47"/>
+<area shape="rect" id="node10" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="404,187,532,214"/>
+<area shape="rect" id="node12" href="$list__file_8c.html#a35b00173b06eddbf2db92d9dbe9b5403" title="qfile_set_dirty_page\l_and_skip_logging" alt="" coords="399,593,537,635"/>
+<area shape="rect" id="node13" href="$query__manager_8h.html#a45919f750ef4a04f9e35809f1e5295b5" title="qmgr_set_dirty_page" alt="" coords="397,659,539,686"/>
+<area shape="rect" id="node14" href="$disk__manager_8h.html#a38360128ad8b10ad2b681ca334f6c369" title="disk_set_creation" alt="" coords="406,339,530,366"/>
+<area shape="rect" id="node15" href="$disk__manager_8h.html#a2bab7d4af00d351387c2eb202700d58d" title="disk_set_link" alt="" coords="419,390,517,417"/>
+<area shape="rect" id="node16" href="$disk__manager_8h.html#a0de0cdac61f83db678921e1d7efde449" title="disk_set_checkpoint" alt="" coords="397,441,539,467"/>
+<area shape="rect" id="node17" href="$heap__file_8c.html#a558d054d900877ca3d0722fa5898eb0e" title="heap_stats_update_internal" alt="" coords="377,491,559,518"/>
+<area shape="rect" id="node18" href="$heap__file_8c.html#af256d9deeaf7200651bfe15fc3b12207" title="heap_stats_find_best_page" alt="" coords="377,542,559,569"/>
+</map>

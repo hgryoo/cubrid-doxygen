@@ -1,0 +1,11 @@
+<map id="db_query_result" name="db_query_result">
+<area shape="rect" id="node2" href="$structdb__select__result.html" title="{db_select_result\n|+ query_id\l+ stmt_id\l+ stmt_type\l+ holdable\l|}" alt="" coords="159,497,277,619"/>
+<area shape="rect" id="node3" href="$structcursor__id.html" title="{cursor_id\n|+ query_id\l+ oid_ent_count\l+ position\l+ on_overflow\l+ tuple_no\l+ buffer\l+ buffer_area\l+ buffer_filled_size\l+ buffer_tuple_count\l+ current_tuple_no\l+ current_tuple_offset\l+ current_tuple_p\l+ oid_col_no\l+ current_tuple_length\l+ oid_col_no_cnt\l+ prefetch_lock_mode\l+ current_tuple_value\l_index\l+ current_tuple_value_p\l+ is_updatable\l+ is_oid_included\l+ is_copy_tuple_value\l|}" alt="" coords="5,5,167,391"/>
+<area shape="rect" id="node4" href="$structcache__time.html" title="{cache_time\n|+ sec\l+ usec\l|}" alt="" coords="191,152,280,244"/>
+<area shape="rect" id="node5" href="$structdb__get__result.html" title="{db_get_result\n|+ crs_pos\l+ tpl_idx\l+ n_tuple\l|}" alt="" coords="300,505,400,611"/>
+<area shape="rect" id="node6" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="427,159,524,237"/>
+<area shape="rect" id="node7" href="$structdb__call__result.html" title="{db_call_result\n|+ crs_pos\l|}" alt="" coords="424,519,527,597"/>
+<area shape="rect" id="node8" href="$structdb__objfetch__result.html" title="{db_objfetch_result\n|+ crs_pos\l|}" alt="" coords="551,519,679,597"/>
+<area shape="rect" id="node9" href="$structdb__query__type.html" title="{db_query_type\n|+ col_type\l+ name\l+ attr_name\l+ spec_name\l+ original_name\l+ db_type\l+ size\l+ visible_type\l|}" alt="" coords="703,468,818,648"/>
+<area shape="rect" id="node10" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="694,86,827,310"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="file_track_item" name="file_track_item">
+<area shape="rect" id="node2" href="$unionfile__track__metadata.html" title="{file_track_metadata\n|+ metadata_size_tracker\l|}" alt="" coords="7,160,174,237"/>
+<area shape="rect" id="node3" href="$structfile__track__heap__metadata.html" title="{file_track_heap_metadata\n|+ is_marked_deleted\l+ dummy\l|}" alt="" coords="5,5,176,97"/>
+</map>

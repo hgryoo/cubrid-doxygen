@@ -1,0 +1,5 @@
+<map id="cursor_get_list_file_page" name="cursor_get_list_file_page">
+<area shape="rect" id="node2" href="$cursor_8c.html#a7c4e23f959a91d5cc3afde517ab4cb5a" title="cursor_buffer_last_page" alt="" coords="220,5,381,32"/>
+<area shape="rect" id="node4" href="$cursor_8c.html#a118be676b1be9470809985d2e0420b20" title="cursor_construct_tuple\l_from_overflow_pages" alt="" coords="223,57,378,98"/>
+<area shape="rect" id="node3" href="$cursor_8h.html#a84dfa260db77ce4614b496d1f7761961" title="cursor_fetch_page_having\l_tuple" alt="" coords="429,27,604,69"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="bit64_count_ones" name="bit64_count_ones">
+<area shape="rect" id="node2" href="$bit_8h.html#a67532e3f2584218f4eb4701e0747d784" title="bit64_count_zeros" alt="" coords="203,56,331,83"/>
+<area shape="rect" id="node3" href="$unittests__bit_8c.html#a60d26ef9d4a5be77ee84ae6929cf8985" title="main" alt="" coords="452,5,503,32"/>
+<area shape="rect" id="node5" href="$disk__manager_8h.html#a1fac11dc8d5a41e19a5efcc5c81a4c4e" title="disk_rv_reserve_sectors" alt="" coords="185,107,349,133"/>
+<area shape="rect" id="node6" href="$disk__manager_8h.html#a58d0c09f77d2f72b4faee4162764f195" title="disk_rv_unreserve_sectors" alt="" coords="177,157,356,184"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#ab3c87170a33f0da79ef346732de2693c" title="disk_stab_count_free" alt="" coords="404,56,551,83"/>
+</map>

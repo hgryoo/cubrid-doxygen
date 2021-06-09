@@ -1,0 +1,21 @@
+<map id="tz_get_data" name="tz_get_data">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="174,5,309,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a877f98e0af300da5022a243a77c00b20" title="boot_set_server_session_key" alt="" coords="144,56,339,83"/>
+<area shape="rect" id="node5" href="$utility_8h.html#a782e5c7e88490d6faaf37d0c32511675" title="createdb" alt="" coords="205,107,277,133"/>
+<area shape="rect" id="node6" href="$utility_8h.html#aa6af9cd5dcec4fa5c2c592e199958744" title="dump_tz" alt="" coords="205,157,277,184"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a301582fdfaae3b760c18fc1d8a4167bc" title="sboot_get_timezone\l_checksum" alt="" coords="172,209,311,250"/>
+<area shape="rect" id="node8" href="$tz__support_8c.html#a20103470a6d7ade7a46187178e390917" title="starts_with" alt="" coords="198,275,285,301"/>
+<area shape="rect" id="node9" href="$tz__support_8h.html#a34727534d4827fb560720d634946651f" title="tz_get_best_match_zone" alt="" coords="399,300,567,327"/>
+<area shape="rect" id="node10" href="$system__parameter_8h.html#af9b44c01696a47f1389b95b7ce8e57b1" title="sysprm_final" alt="" coords="627,503,723,529"/>
+<area shape="rect" id="node11" href="$tz__support_8c.html#a43858412ed696c90ec902fba8d60fe29" title="tz_datetime_utc_conv" alt="" coords="166,427,317,453"/>
+<area shape="rect" id="node12" href="$tz__support_8h.html#a10e0075d23b9c8a3ad81d8524058f65f" title="tz_full_timezones_start_scan" alt="" coords="387,465,579,492"/>
+<area shape="rect" id="node13" href="$tz__support_8c.html#a5e15e241461b67dc555fd841fa1e8bad" title="tz_decode_tz_id" alt="" coords="183,528,300,555"/>
+<area shape="rect" id="node14" href="$tz__support_8h.html#a5fa1223f4ade93a0b2d930ee916a3523" title="tz_explain_tz_id" alt="" coords="425,541,541,568"/>
+<area shape="rect" id="node15" href="$tz__support_8c.html#a49318409fcbc255d7438a8950561e921" title="tz_get_zone_id_by_name" alt="" coords="156,629,327,656"/>
+<area shape="rect" id="node16" href="$tz__support_8h.html#a959b0ed0ac3beb5e8fc645e270ca3fe7" title="tz_resolve_os_timezone" alt="" coords="401,629,564,656"/>
+<area shape="rect" id="node17" href="$tz__support_8c.html#ad15848d5b01ba8353308a4f2397c6441" title="tz_timestamp_decode\l_leap_sec_adj" alt="" coords="166,731,317,773"/>
+<area shape="rect" id="node18" href="$tz__support_8h.html#adb712256332113b3207b4a8791b70de7" title="tz_timestamp_encode\l_leap_sec_adj" alt="" coords="166,797,317,838"/>
+<area shape="rect" id="node19" href="$tz__support_8h.html#a95ffa555376983b5e9be918a1571262f" title="tz_timezones_start_scan" alt="" coords="157,863,325,889"/>
+<area shape="rect" id="node20" href="$tz__support_8c.html#a631acf5933312c5965e65d5c7a50b82d" title="tz_zone_info_to_str" alt="" coords="173,913,309,940"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="425,5,541,32"/>
+</map>

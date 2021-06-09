@@ -1,0 +1,11 @@
+<map id="xvacuum" name="xvacuum">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="128,123,263,149"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#a4ddd3694ee7effd5a8477603cadec249" title="cvacuum" alt="" coords="158,248,233,275"/>
+<area shape="rect" id="node10" href="$network__interface__sr_8h.html#a9a3181c08916a72b1163c260ca7de7e5" title="svacuum" alt="" coords="158,299,233,325"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="324,5,440,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="317,57,447,98"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="311,123,453,149"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="337,197,427,224"/>
+<area shape="rect" id="node8" href="$execute__statement_8c.html#a5ec358f575f38de7795a58752532aaea" title="do_vacuum" alt="" coords="337,248,427,275"/>
+<area shape="rect" id="node9" href="$utility_8h.html#a69d8b97e3258dcdbbc336a3316c560b3" title="vacuumdb" alt="" coords="341,299,423,325"/>
+</map>

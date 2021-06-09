@@ -1,0 +1,18 @@
+<map id="xml_get_att_value" name="xml_get_att_value">
+<area shape="rect" id="node2" href="$locale__support_8c.html#a2634ff3fdb510c7eaa5d02af4bc3e329" title="start_collation_cubrid\l_rule_set_wr" alt="" coords="190,5,335,47"/>
+<area shape="rect" id="node3" href="$locale__support_8c.html#aa08bfebc635106595c17a5938f23e23a" title="start_collation_reset" alt="" coords="193,71,332,98"/>
+<area shape="rect" id="node4" href="$locale__support_8c.html#a988600a28715d0849a005ad9cf79d1bd" title="start_collation_settings" alt="" coords="185,122,341,149"/>
+<area shape="rect" id="node5" href="$locale__support_8c.html#ac3c5b8f915b6d74dfe7fdbbba6107ab8" title="start_collations" alt="" coords="207,173,318,199"/>
+<area shape="rect" id="node6" href="$locale__support_8c.html#ae59cf26896cd64595b2ab52dc329709f" title="start_consoleconversion" alt="" coords="181,223,344,250"/>
+<area shape="rect" id="node7" href="$locale__support_8c.html#a475ba88dbe23ddef89a83158be965e17" title="start_currency" alt="" coords="210,274,315,301"/>
+<area shape="rect" id="node8" href="$locale__support_8c.html#a033446bc8028fcd8407096a643163ab5" title="start_day" alt="" coords="225,325,301,351"/>
+<area shape="rect" id="node10" href="$locale__support_8c.html#a3484032c91dc6cd104e888b1c0998b86" title="start_dayPeriod" alt="" coords="206,375,319,402"/>
+<area shape="rect" id="node11" href="$locale__support_8c.html#a108bd2a051755e9d952a88137488b5ee" title="start_include_collation" alt="" coords="187,426,338,453"/>
+<area shape="rect" id="node12" href="$locale__support_8c.html#a06f370f134ffeb49f9ef97410dcf9cad" title="start_month" alt="" coords="217,477,308,503"/>
+<area shape="rect" id="node13" href="$locale__support_8c.html#ad04338d99a522fecfbda4cd7db698026" title="start_one_alphabet" alt="" coords="197,527,329,554"/>
+<area shape="rect" id="node14" href="$locale__support_8c.html#a55726545197e6043e6c0854af4529d8a" title="start_one_collation" alt="" coords="197,578,328,605"/>
+<area shape="rect" id="node15" href="$locale__support_8c.html#aa9ee128521a1089203683c5f20d23afa" title="start_unicode_file" alt="" coords="201,629,325,655"/>
+<area shape="rect" id="node16" href="$tz__compile_8c.html#a8456ba57c06784545e44622c69d89570" title="tzc_summary" alt="" coords="212,679,313,706"/>
+<area shape="rect" id="node9" href="$string__opfunc_8h.html#ad443a7cffa2c3fefe53e8a3a88edc767" title="db_months_between" alt="" coords="405,401,548,427"/>
+<area shape="rect" id="node17" href="$tz__compile_8c.html#a3e3791af5ad03139e9fd0fda81dd8193" title="tzc_check_new_package\l_validity" alt="" coords="392,672,561,713"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="au_drop_user" name="au_drop_user">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a7a4c57c9fc9c28036944c6f86d97bbf9" title="au_drop_user_method" alt="" coords="153,5,304,32"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="190,56,267,83"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a8e733fb4ae710fdf6a7feb4593c364f1" title="db_drop_user" alt="" coords="179,107,279,133"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="352,56,491,83"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#ad2499b5620c0af807ab5765e124b5513" title="do_drop_user" alt="" coords="371,107,471,133"/>
+</map>

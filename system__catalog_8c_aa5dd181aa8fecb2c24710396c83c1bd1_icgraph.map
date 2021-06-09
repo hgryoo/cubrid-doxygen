@@ -1,0 +1,9 @@
+<map id="catalog_initialize_max_space" name="catalog_initialize_max_space">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#ac9b4d424db02d5d385762fb4d682853f" title="catalog_create" alt="" coords="196,5,303,32"/>
+<area shape="rect" id="node4" href="$system__catalog_8h.html#a0235b56fdf5dfaad97dda55408c328e4" title="catalog_initialize" alt="" coords="190,56,309,83"/>
+<area shape="rect" id="node7" href="$system__catalog_8h.html#a8573879ea5efec96a7e338d4ed127600" title="catalog_reclaim_space" alt="" coords="172,132,327,159"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="375,5,541,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="391,56,525,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="376,107,540,133"/>
+<area shape="rect" id="node8" href="$compactdb_8c.html#af0c3d428686aedb5273a5e83379cf791" title="compactdb_start" alt="" coords="399,157,517,184"/>
+</map>

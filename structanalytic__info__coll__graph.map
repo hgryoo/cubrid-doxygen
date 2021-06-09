@@ -1,0 +1,11 @@
+<map id="analytic_info" name="analytic_info">
+<area shape="rect" id="node2" href="$structval__list__node.html" title="{val_list_node\n|+ val_cnt\l|+ val_list_node()\l}" alt="" coords="217,964,335,1041"/>
+<area shape="rect" id="node3" href="$structqproc__db__value__list.html" title="{qproc_db_value_list\n||+ qproc_db_value_list()\l}" alt="" coords="139,314,296,391"/>
+<area shape="rect" id="node4" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="157,5,291,229"/>
+<area shape="rect" id="node5" href="$structparser__node.html" title="{parser_node\n|+ node_type\l+ parser_id\l+ line_number\l+ column_number\l+ buffer_pos\l+ sql_user_text\l+ sql_user_text_len\l+ etc\l+ spec_ident\l+ alias_print\l+ type_enum\l+ recompile\l+ cannot_prepare\l+ partition_pruned\l+ si_datetime\l+ si_tran_id\l+ clt_cache_check\l+ clt_cache_reusable\l+ use_plan_cache\l+ use_query_cache\l+ is_hidden_column\l+ is_paren\l+ with_rollup\l+ force_auto_parameterize\l+ do_not_fold\l+ is_cnf_start\l+ is_click_counter\l+ is_value_query\l+ do_not_replace_orderby\l+ is_added_by_parser\l+ is_alias_enabled_expr\l+ is_wrapped_res_for_coll\l+ is_system_generated_stmt\l+ use_auto_commit\l+ flag\l|}" alt="" coords="581,715,771,1291"/>
+<area shape="rect" id="node10" href="$structcubxasl_1_1analytic__list__node.html" title="{cubxasl::analytic_list_node\n|+ function\l+ option\l+ opr_dbtype\l+ original_opr_dbtype\l+ flag\l+ sort_prefix_size\l+ sort_list_size\l+ offset_idx\l+ default_idx\l+ from_last\l+ ignore_nulls\l+ is_const_operand\l+ curr_cnt\l+ is_first_exec_time\l|+ init()\l}" alt="" coords="5,423,184,691"/>
+<area shape="rect" id="node6" href="$unionpt__statement__info.html" title="{pt_statement_info\n||}" alt="" coords="545,314,671,391"/>
+<area shape="rect" id="node7" href="$structcache__time.html" title="{cache_time\n|+ sec\l+ usec\l|}" alt="" coords="746,71,835,163"/>
+<area shape="rect" id="node9" href="$structxasl__id.html" title="{xasl_id\n|+ cache_flag\l|}" alt="" coords="695,314,793,391"/>
+<area shape="rect" id="node8" href="$structparser__varchar.html" title="{parser_varchar\n|+ length\l+ bytes\l|}" alt="" coords="946,307,1054,399"/>
+</map>

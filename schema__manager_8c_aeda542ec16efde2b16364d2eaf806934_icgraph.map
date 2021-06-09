@@ -1,0 +1,21 @@
+<map id="sm_update_class_auto" name="sm_update_class_auto">
+<area shape="rect" id="node2" href="$db__class_8c.html#ad70d5fcc3ceff89fe0d7d5f029d0d17e" title="add_method_internal" alt="" coords="223,56,365,83"/>
+<area shape="rect" id="node5" href="$db__class_8c.html#a1b54410ee48b0433ee25364819e2c10e" title="db_add_attribute_internal" alt="" coords="211,132,377,159"/>
+<area shape="rect" id="node9" href="$db__class_8c.html#acea023dbad7432b698fa1d269ae51fae" title="db_add_class_resolution" alt="" coords="211,183,377,209"/>
+<area shape="rect" id="node10" href="$db__class_8c.html#ad17afe05e65e8c8f695f5253793329a7" title="db_add_resolution" alt="" coords="231,233,357,260"/>
+<area shape="rect" id="node11" href="$db__class_8c.html#a916f111cd43a770b915bf225113c7961" title="db_add_super_internal" alt="" coords="218,284,370,311"/>
+<area shape="rect" id="node13" href="$db__class_8c.html#a4500d29ed8fe12aaf8b7bed19a72105d" title="db_drop_class_resolution" alt="" coords="209,335,379,361"/>
+<area shape="rect" id="node14" href="$db__class_8c.html#ae959840c3c6e1183d707e09a0a9ffd6b" title="db_drop_resolution" alt="" coords="229,385,359,412"/>
+<area shape="rect" id="node15" href="$db__class_8c.html#a7838553ddc8f87086e854564fe5d3775" title="db_drop_super" alt="" coords="241,436,347,463"/>
+<area shape="rect" id="node16" href="$db__class_8c.html#ad21d73f0e68a31d894782886230ea4fe" title="db_drop_super_connect" alt="" coords="214,487,374,513"/>
+<area shape="rect" id="node17" href="$db__class_8c.html#a13a67a46ca599aff906ed9c525fd64f7" title="db_rename_internal" alt="" coords="227,537,361,564"/>
+<area shape="rect" id="node20" href="$db__class_8c.html#a381d837913fd352d29054ab33c8bbf60" title="drop_internal" alt="" coords="246,588,342,615"/>
+<area shape="rect" id="node3" href="$db__class_8c.html#a5290b9ce8ff9f60829971e43ac574cad" title="db_add_class_method" alt="" coords="433,5,585,32"/>
+<area shape="rect" id="node4" href="$db__class_8c.html#a454357133b4cc03908deae256c27b639" title="db_add_method" alt="" coords="451,56,566,83"/>
+<area shape="rect" id="node6" href="$db__class_8c.html#a29910e032892dec4bc1515705b3e5209" title="db_add_attribute" alt="" coords="449,107,568,133"/>
+<area shape="rect" id="node7" href="$db__class_8c.html#abc6afdd2f9609305ea1b7c0c41394f40" title="db_add_class_attribute" alt="" coords="431,157,587,184"/>
+<area shape="rect" id="node8" href="$db__class_8c.html#a1d151af016f75d33744ffb24c2516787" title="db_add_shared_attribute" alt="" coords="427,208,591,235"/>
+<area shape="rect" id="node12" href="$db__class_8c.html#a373452d8c929f0de4e021e9f4ed1aa66" title="db_add_super" alt="" coords="457,284,560,311"/>
+<area shape="rect" id="node18" href="$db__class_8c.html#a74da81a3aaf4928883d2c52e290dde10" title="db_rename" alt="" coords="465,512,552,539"/>
+<area shape="rect" id="node19" href="$db__class_8c.html#a1317c2e0059caad9567e59cc828ccd06" title="db_rename_attribute" alt="" coords="439,563,579,589"/>
+</map>

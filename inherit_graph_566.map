@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classHL_1_1AddHeap.html" title="HL::AddHeap\&lt; Add, SuperHeap \&gt;" alt="" coords="140,5,361,32"/>
+<area shape="rect" id="node3" href="$classHL_1_1FreelistHeap.html" title="HL::FreelistHeap\&lt; SuperHeap \&gt;" alt="" coords="145,56,356,83"/>
+<area shape="rect" id="node4" href="$classHL_1_1ObstackHeap.html" title="HL::ObstackHeap\&lt; ChunkSize,\l SuperHeap \&gt;" alt="" coords="147,107,354,149"/>
+<area shape="rect" id="node5" href="$classHL_1_1SizeHeap.html" title="Allocates extra room for the size of an object. " alt="" coords="154,173,347,200"/>
+<area shape="rect" id="node6" href="$classHL_1_1ZoneHeap.html" title="HL::ZoneHeap\&lt; SuperHeap,\l ChunkSize \&gt;" alt="" coords="157,225,345,266"/>
+</map>

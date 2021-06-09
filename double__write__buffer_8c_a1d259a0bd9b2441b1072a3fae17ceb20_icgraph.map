@@ -1,0 +1,9 @@
+<map id="dwb_ends_structure_modification" name="dwb_ends_structure_modification">
+<area shape="rect" id="node2" href="$double__write__buffer_8h.html#acba78f5f185d579f9bc108af1713519c" title="dwb_create" alt="" coords="197,71,287,98"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8h.html#a5f895a64d283260b4d3b6147b49c17c0" title="dwb_destroy" alt="" coords="194,122,290,149"/>
+<area shape="rect" id="node8" href="$double__write__buffer_8h.html#a73fd65b5e5208dc676dab35b729a84fc" title="dwb_recreate" alt="" coords="192,173,292,199"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="346,5,501,47"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="340,71,507,98"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="343,122,503,149"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="349,173,497,199"/>
+</map>

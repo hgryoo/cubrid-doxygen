@@ -1,0 +1,5 @@
+<map id="heap_stats_get_second_best" name="heap_stats_get_second_best">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a320a296b462305ebbf9f0cbef9b52029" title="heap_stats_sync_bestspace" alt="" coords="245,31,433,57"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#af256d9deeaf7200651bfe15fc3b12207" title="heap_stats_find_best_page" alt="" coords="481,5,663,32"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#ae7c1d5ed9bdd2f239cbfca947c2b69cd" title="heap_get_num_objects" alt="" coords="494,56,650,83"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="pt_statement_info" name="pt_statement_info">
+<area shape="rect" id="node2" href="$structpt__stored__proc__info.html" title="{pt_stored_proc_info\n|+ type\l+ or_replace\l+ ret_type\l|}" alt="" coords="5,101,141,207"/>
+<area shape="rect" id="node3" href="$structpt__attr__ordering__info.html" title="{pt_attr_ordering_info\n|+ first\l|}" alt="" coords="166,115,306,193"/>
+<area shape="rect" id="node4" href="$structpt__sort__spec__info.html" title="{pt_sort_spec_info\n|+ asc_or_desc\l+ nulls_first_or_last\l|}" alt="" coords="331,108,467,200"/>
+<area shape="rect" id="node5" href="$structpt__method__def__info.html" title="{pt_method_def_info\n|+ mthd_type\l|}" alt="" coords="491,115,627,193"/>
+<area shape="rect" id="node6" href="$structpt__event__target__info.html" title="{pt_event_target_info\n||}" alt="" coords="651,115,791,193"/>
+<area shape="rect" id="node7" href="$structpt__trigger__action__info.html" title="{pt_trigger_action_info\n|+ action_type\l|}" alt="" coords="816,115,963,193"/>
+<area shape="rect" id="node8" href="$structpt__stored__proc__param__info.html" title="{pt_stored_proc_param_info\n|+ mode\l|}" alt="" coords="987,115,1165,193"/>
+<area shape="rect" id="node9" href="$structpt__set__session__variable__info.html" title="{pt_set_session_variable_info\n||}" alt="" coords="1190,115,1381,193"/>
+<area shape="rect" id="node10" href="$structpt__serial__info.html" title="{pt_serial_info\n|+ cyclic\l+ no_max\l+ no_min\l+ no_cyclic\l+ no_cache\l+ if_exists\l|}" alt="" coords="1405,79,1504,229"/>
+<area shape="rect" id="node11" href="$structpt__merge__info.html" title="{pt_merge_info\n|+ do_class_attrs\l+ has_delete\l+ update\l+ value_clauses\l+ insert\l+ hint\l+ flags\l|}" alt="" coords="1529,71,1647,237"/>
+<area shape="rect" id="node12" href="$structpt__do__info.html" title="{pt_do_info\n||}" alt="" coords="1671,115,1753,193"/>
+<area shape="rect" id="node13" href="$structpt__cte__info.html" title="{pt_cte_info\n|+ only_all\l+ xasl\l|}" alt="" coords="1778,108,1865,200"/>
+<area shape="rect" id="node14" href="$structpt__create__trigger__info.html" title="{pt_create_trigger_info\n|+ trigger_status\l+ condition_time\l+ action_time\l|}" alt="" coords="1889,101,2036,207"/>
+<area shape="rect" id="node15" href="$structpt__check__option__info.html" title="{pt_check_option_info\n|+ spec_id\l|}" alt="" coords="2061,115,2206,193"/>
+<area shape="rect" id="node16" href="$structpt__attr__def__info.html" title="{pt_attr_def_info\n|+ on_update\l+ attr_type\l+ size_constraint\l+ constrain_not_null\l|}" alt="" coords="2231,93,2369,215"/>
+<area shape="rect" id="node17" href="$structpt__spec__info.html" title="{pt_spec_info\n|+ entity_name\l+ except_list\l+ derived_table\l+ as_attr_list\l+ path_entities\l+ method_list\l+ id\l+ only_all\l+ meta_class\l+ derived_table_type\l+ flavor\l+ join_type\l+ location\l+ natural\l+ auth_bypass_mask\l+ flag\l|}" alt="" coords="2393,5,2540,303"/>
+<area shape="rect" id="node18" href="$structpt__set__opt__lvl__info.html" title="{pt_set_opt_lvl_info\n|+ option\l|}" alt="" coords="2564,115,2695,193"/>
+<area shape="rect" id="node19" href="$structpt__create__user__info.html" title="{pt_create_user_info\n||}" alt="" coords="2719,115,2855,193"/>
+<area shape="rect" id="node20" href="$structpt__showstmt__info.html" title="{pt_showstmt_info\n|+ show_type\l|}" alt="" coords="2879,115,3004,193"/>
+</map>

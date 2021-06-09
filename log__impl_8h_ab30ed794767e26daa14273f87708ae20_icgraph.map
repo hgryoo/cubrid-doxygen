@@ -1,0 +1,12 @@
+<map id="logpb_get_archive_number" name="logpb_get_archive_number">
+<area shape="rect" id="node2" href="$log__recovery_8c.html#a6e4cb0fa20df20ef22e01e5bae16b885" title="log_recovery_resetlog" alt="" coords="247,56,397,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="681,157,784,184"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a850e6db878c034a88e735606f63fa477" title="logpb_remove_archive_logs" alt="" coords="231,157,413,184"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a99e07d445f133a194b23cf7effd85c08" title="logpb_remove_archive\l_logs_exceed_limit" alt="" coords="246,209,398,250"/>
+<area shape="rect" id="node11" href="$vacuum_8h.html#a08404cf4bad99999d68542d216846597" title="xvacuum_dump" alt="" coords="265,275,379,301"/>
+<area shape="rect" id="node3" href="$log__recovery_8c.html#a57545124a0b490108e49a8ca77acf2d7" title="log_rv_analysis_complete" alt="" coords="461,5,633,32"/>
+<area shape="rect" id="node4" href="$log__recovery_8c.html#afd45fb1ef67df793b067695e37d91623" title="log_recovery_analysis" alt="" coords="472,56,623,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#af38a549f999967427ff62509d3092c7d" title="xboot_backup" alt="" coords="832,157,935,184"/>
+<area shape="rect" id="node9" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="463,209,631,250"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="463,275,631,301"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="partition_prune_unique_btid" name="partition_prune_unique_btid">
+<area shape="rect" id="node2" href="$btree_8h.html#a4664a4220d7c646d3c508225dcdc284b" title="btree_check_foreign_key" alt="" coords="239,5,405,32"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#a3a58f0efdf76a4d2a1e8bc8b915ed0b1" title="btree_load_check_fk" alt="" coords="251,56,393,83"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#ae6813da76ea952fcffc0263b60099e8b" title="locator_check_foreign_key" alt="" coords="233,107,411,133"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#aa21867168640201b25f7aeaf72c203cd" title="qexec_oid_of_duplicate\l_key_update" alt="" coords="243,158,401,199"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#a330cfcba16e2910848ac1ae251d50dc1" title="qexec_remove_duplicates\l_for_replace" alt="" coords="235,223,409,265"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a2e7915ece5fd5cc886b764284234b627" title="xbtree_find_multi_uniques" alt="" coords="235,289,409,316"/>
+<area shape="rect" id="node3" href="$locator__sr_8c.html#a2889b8117cdeaf4663e1afb56d037037" title="xlocator_check_fk_validity" alt="" coords="459,5,635,32"/>
+</map>

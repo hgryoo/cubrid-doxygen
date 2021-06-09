@@ -1,0 +1,4 @@
+<map id="log_rec_run_postpone" name="log_rec_run_postpone">
+<area shape="rect" id="node2" href="$structlog__data.html" title="{log_data\n|+ rcvindex\l+ pageid\l+ offset\l+ volid\l|}" alt="" coords="5,64,88,185"/>
+<area shape="rect" id="node3" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="111,5,217,244"/>
+</map>

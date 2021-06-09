@@ -1,0 +1,8 @@
+<map id="cuberr::context::get_thread_local_error" name="cuberr::context::get_thread_local_error">
+<area shape="rect" id="node2" href="$error__manager_8h.html#aff251d10a05f81ce2422c30da7a36e54" title="er_stack_pop_and_keep\l_error" alt="" coords="188,99,351,141"/>
+<area shape="rect" id="node3" href="$error__manager_8h.html#a31ea03b55d632c816175c935fa9565b2" title="er_restore_last_error" alt="" coords="399,5,540,32"/>
+<area shape="rect" id="node4" href="$error__manager_8h.html#a4a8edb25a5e6e6d0904b847dbea7997b" title="er_stack_clearall" alt="" coords="409,56,529,83"/>
+<area shape="rect" id="node5" href="$authenticate_8c.html#aa6d4e0780e283109d66ee48da074b8fd" title="get_grants" alt="" coords="428,107,511,133"/>
+<area shape="rect" id="node6" href="$locator__cl_8h.html#a3f61445c1c1ed7a0b4327507a71ac023" title="locator_is_class" alt="" coords="411,157,527,184"/>
+<area shape="rect" id="node7" href="$authenticate_8c.html#adf983ab6951322d3850ce69b0f114b15" title="update_cache" alt="" coords="418,208,521,235"/>
+</map>

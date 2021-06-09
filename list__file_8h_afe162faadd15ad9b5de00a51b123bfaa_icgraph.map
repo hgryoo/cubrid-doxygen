@@ -1,0 +1,8 @@
+<map id="qfile_copy_tuple_descr_to_tuple" name="qfile_copy_tuple_descr_to_tuple">
+<area shape="rect" id="node2" href="$query__aggregate_8hpp.html#a180603e6448ef4e047a26eff860f1e32" title="qdata_save_agg_hentry\l_to_list" alt="" coords="208,64,368,105"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#a6394d4bb03d48d1a78d2d365c297a7ab" title="qexec_analytic_finalize\l_group" alt="" coords="209,129,367,171"/>
+<area shape="rect" id="node3" href="$query__aggregate_8hpp.html#a0c1a0d4736264858be8213e6ab677231" title="qdata_save_agg_htable\l_to_list" alt="" coords="425,35,584,76"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a17faac1fcc1657c08eccb5e91adfc86a" title="qexec_hash_gby_agg\l_tuple" alt="" coords="641,5,789,47"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#aeb8bf568b044802bdc42d5e200d45f27" title="qexec_groupby" alt="" coords="660,101,771,127"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#ace26f0b2682d1facc2561230e6f7b44d" title="qexec_hash_gby_put_next" alt="" coords="416,151,593,178"/>
+</map>

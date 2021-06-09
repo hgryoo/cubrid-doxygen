@@ -1,0 +1,8 @@
+<map id="log_2pc_free_coord_info" name="log_2pc_free_coord_info">
+<area shape="rect" id="node2" href="$log__2pc_8h.html#ab41078f2435749214f54b8b9c7bfe7cc" title="log_2pc_clear_and_is\l_tran_distributed" alt="" coords="221,49,368,90"/>
+<area shape="rect" id="node5" href="$log__2pc_8c.html#a622564692e59c475e5b0d7b411bab3f9" title="log_2pc_recovery_start" alt="" coords="216,115,373,141"/>
+<area shape="rect" id="node7" href="$log__tran__table_8c.html#a6c5edebbae75e1a92360baf780ce8377" title="logtb_clear_tdes" alt="" coords="236,165,353,192"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="473,5,548,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a390852f8765cd90576d47d02ef0d10b6" title="log_commit" alt="" coords="466,56,555,83"/>
+<area shape="rect" id="node6" href="$log__2pc_8c.html#aa731e03ca3e829eadad4f39dd1f91503" title="log_2pc_recovery_analysis\l_record" alt="" coords="421,107,600,149"/>
+</map>

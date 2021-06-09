@@ -1,0 +1,9 @@
+<map id="proxy_log_close" name="proxy_log_close">
+<area shape="rect" id="node2" href="$shard__proxy__log_8h.html#a64f92ea4edccc28895359e7592c11b75" title="proxy_log_end" alt="" coords="335,5,441,32"/>
+<area shape="rect" id="node4" href="$shard__proxy__log_8h.html#a894e483037b05b3045dacc969d00a26a" title="proxy_log_open" alt="" coords="169,56,283,83"/>
+<area shape="rect" id="node5" href="$shard__proxy__log_8c.html#a6adbe84e39c8173a95ea7c3d57c91be9" title="proxy_log_reset" alt="" coords="331,107,445,133"/>
+<area shape="rect" id="node6" href="$shard__proxy__io_8c.html#af8dabac7299257b7ee280e9b9df2e7d2" title="proxy_term" alt="" coords="183,157,269,184"/>
+<area shape="rect" id="node3" href="$shard__proxy__log_8h.html#ad4623e613a698785806562c6ce132c63" title="proxy_log_write" alt="" coords="493,56,607,83"/>
+<area shape="rect" id="node7" href="$shard__proxy_8c.html#a7bcc474b7fe83d33f3ca92a93bb61403" title="cleanup" alt="" coords="355,157,421,184"/>
+<area shape="rect" id="node8" href="$shard__proxy_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="525,183,575,209"/>
+</map>

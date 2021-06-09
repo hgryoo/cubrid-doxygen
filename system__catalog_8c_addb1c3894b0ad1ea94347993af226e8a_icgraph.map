@@ -1,0 +1,13 @@
+<map id="catalog_put_record_into_page" name="catalog_put_record_into_page">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a33bd784cfe3eb47580d2593b97a12fdf" title="catalog_add_representation" alt="" coords="595,114,776,141"/>
+<area shape="rect" id="node8" href="$system__catalog_8c.html#a4160295aef8488392d53f13c5b9a28e6" title="catalog_store_attribute\l_value" alt="" coords="392,41,547,83"/>
+<area shape="rect" id="node9" href="$system__catalog_8c.html#a8b62127ad07f689746e8435fdee3780a" title="catalog_write_unwritten\l_portion" alt="" coords="185,107,344,148"/>
+<area shape="rect" id="node3" href="$statistics__sr_8c.html#a502d831d7f2d3b593c5d107748aae384" title="xstats_update_statistics" alt="" coords="824,13,988,39"/>
+<area shape="rect" id="node4" href="$statistics__sr_8c.html#a87537ae40bfb987f6d7be9eff99352cd" title="stats_update_partitioned\l_statistics" alt="" coords="1036,5,1200,47"/>
+<area shape="rect" id="node5" href="$system__catalog_8c.html#aee9e18e1a8746989ec8657d9ed6ccc4a" title="xcatalog_check_rep_dir" alt="" coords="827,114,985,141"/>
+<area shape="rect" id="node6" href="$system__catalog_8h.html#a61ad207a6558c26bb9c3b3117ba7e599" title="catalog_insert" alt="" coords="855,165,957,191"/>
+<area shape="rect" id="node7" href="$system__catalog_8h.html#a4ea20d720ec7634b5a5004ca53bad45e" title="catalog_update" alt="" coords="851,215,961,242"/>
+<area shape="rect" id="node10" href="$system__catalog_8c.html#a4b48237e80ae407631dca42a9a143f8d" title="catalog_store_disk\l_representation" alt="" coords="404,107,535,148"/>
+<area shape="rect" id="node11" href="$system__catalog_8c.html#a6731642613e4ada3cf47283573eef224" title="catalog_store_disk\l_attribute" alt="" coords="404,172,535,213"/>
+<area shape="rect" id="node12" href="$system__catalog_8c.html#a5f908deb5339b7d3ffcf035c91c4e072" title="catalog_store_btree\l_statistics" alt="" coords="401,237,537,279"/>
+</map>

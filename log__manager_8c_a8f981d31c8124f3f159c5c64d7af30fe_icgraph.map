@@ -1,0 +1,21 @@
+<map id="log_append_sysop_end" name="log_append_sysop_end">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a8ba8a8666ca892dac7b456367d153965" title="log_sysop_abort" alt="" coords="243,474,361,501"/>
+<area shape="rect" id="node20" href="$log__manager_8c.html#a1e4500b198cf9f51121a641472d9cddc" title="log_sysop_commit_internal" alt="" coords="212,525,392,551"/>
+<area shape="rect" id="node3" href="$classcubload_1_1server__object__loader.html#a59e168f3f9d0312d95c9fe90786e5729" title="cubload::server_object\l_loader::flush_records" alt="" coords="455,5,608,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#acd4533cedf2007a5f83ab33c5281c081" title="qexec_execute_selupd_list" alt="" coords="442,71,621,98"/>
+<area shape="rect" id="node5" href="$serial_8c.html#aedd39ef4c027b8c4568faa44f288ea1a" title="serial_update_serial\l_object" alt="" coords="463,123,600,164"/>
+<area shape="rect" id="node6" href="$vacuum_8c.html#ab08a1e44f9d9db235a21e9fc4cde9992" title="vacuum_heap_record" alt="" coords="458,189,605,215"/>
+<area shape="rect" id="node7" href="$vacuum_8c.html#afe49168ac33babb418958578cae1bcbf" title="vacuum_data_empty_page" alt="" coords="442,239,621,266"/>
+<area shape="rect" id="node8" href="$vacuum_8h.html#a503bfb46b513078cca18c570df9907a6" title="vacuum_consume_buffer\l_log_blocks" alt="" coords="447,291,615,332"/>
+<area shape="rect" id="node9" href="$btree_8c.html#ac6cf5583334e01375cf6f96c1db3dd7f" title="xbtree_add_index" alt="" coords="469,357,593,383"/>
+<area shape="rect" id="node10" href="$btree_8c.html#abe79504ac909c0ca86fb150d0bf97fdb" title="btree_repair_prev_link\l_by_btid" alt="" coords="457,408,606,449"/>
+<area shape="rect" id="node11" href="$btree_8c.html#ae76900aeda71256f1f0389b8977d3b86" title="btree_delete_key_from_leaf" alt="" coords="440,474,623,501"/>
+<area shape="rect" id="node12" href="$btree_8c.html#a748a60d980be800bbef3524a564d3fc0" title="btree_replace_first\l_oid_with_ovfl_oid" alt="" coords="467,525,596,567"/>
+<area shape="rect" id="node13" href="$btree_8c.html#a1cfca91bee50811416d845ebc3bac695" title="btree_key_append_object\l_as_new_overflow" alt="" coords="446,591,617,632"/>
+<area shape="rect" id="node14" href="$btree_8c.html#a7a1974789f71aceef777e399fbdf8e8d" title="btree_split_test" alt="" coords="476,657,587,683"/>
+<area shape="rect" id="node15" href="$btree_8c.html#afdb8b30043a26fc4ea1042eda91a2220" title="btree_fix_root_for\l_insert" alt="" coords="470,708,593,749"/>
+<area shape="rect" id="node16" href="$btree_8c.html#a044540db3ec67e88e9313f84c6b242ee" title="btree_split_node_and\l_advance" alt="" coords="459,773,604,815"/>
+<area shape="rect" id="node17" href="$btree_8c.html#a5af8ba4607057c98ad45f0d91b6f7160" title="btree_key_insert_new_key" alt="" coords="443,839,620,866"/>
+<area shape="rect" id="node18" href="$btree_8c.html#aa385b0e44659fdc7fd2857c32d14e78d" title="btree_key_relocate\l_last_into_ovf" alt="" coords="465,891,597,932"/>
+<area shape="rect" id="node19" href="$btree_8c.html#acea286eb82079783f298baa39d4cd373" title="btree_merge_node_and\l_advance" alt="" coords="453,956,610,997"/>
+</map>

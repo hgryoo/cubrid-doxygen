@@ -1,0 +1,6 @@
+<map id="session_is_queryid_idle" name="session_is_queryid_idle">
+<area shape="rect" id="node2" href="$query__manager_8c.html#a7b59555d1c26d0de35abfcc083ee0a2d" title="qmgr_allocate_query\l_entry" alt="" coords="213,49,356,90"/>
+<area shape="rect" id="node3" href="$query__manager_8h.html#a99f3abfeb89f2d173d999bfcace969e4" title="qmgr_get_query_entry" alt="" coords="423,5,574,32"/>
+<area shape="rect" id="node4" href="$query__manager_8c.html#acca53c25556757b153c16afc23f6ccd4" title="xqmgr_execute_query" alt="" coords="423,56,574,83"/>
+<area shape="rect" id="node5" href="$query__manager_8c.html#a55f2eab3bb1fa4d953fa300f40ff9708" title="xqmgr_prepare_and_execute\l_query" alt="" coords="404,107,593,149"/>
+</map>

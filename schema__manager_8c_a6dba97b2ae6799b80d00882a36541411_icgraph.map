@@ -1,0 +1,8 @@
+<map id="sm_fetch_all_objects_internal" name="sm_fetch_all_objects_internal">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#a86be980651877dddcadc45e82f60ebb4" title="sm_fetch_all_objects" alt="" coords="199,81,344,108"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#a7371b4630be2f1442e5a7142f3dd50cc" title="sm_fetch_all_objects\l_of_dirty_version" alt="" coords="199,133,344,174"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a8ef65722ebb74827d87fe0b28052e097" title="db_fetch_all_objects" alt="" coords="407,5,548,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a9a7126291b0a3a41ce98d78165bd9d80" title="db_get_all_objects" alt="" coords="412,56,543,83"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a4769056d3bd3c7640c48eb32a71bc95a" title="au_force_write_new_auth" alt="" coords="392,107,563,133"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#a59f430d45a56d62b7da95312a3fc072b" title="tr_get_class_name" alt="" coords="411,157,543,184"/>
+</map>

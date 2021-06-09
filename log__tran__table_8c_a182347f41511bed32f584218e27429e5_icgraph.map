@@ -1,0 +1,5 @@
+<map id="logtb_allocate_tdes_area" name="logtb_allocate_tdes_area">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a9d858c98e9a769b71176ddb505acddfd" title="logtb_expand_trantable" alt="" coords="220,46,376,73"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#ac27166ed5a81c72375cfccc620c702da" title="logtb_define_trantable\l_log_latch" alt="" coords="424,5,573,47"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#a3bc8e667a4001db19a340b7f600ba3ae" title="logtb_allocate_tran\l_index" alt="" coords="433,71,564,112"/>
+</map>

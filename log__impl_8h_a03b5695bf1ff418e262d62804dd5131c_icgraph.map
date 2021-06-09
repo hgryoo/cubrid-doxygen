@@ -1,0 +1,10 @@
+<map id="logpb_set_page_checksum" name="logpb_set_page_checksum">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="659,38,827,64"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="245,38,393,64"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#af82ae9aa46256f2446febdc4673bb15b" title="logpb_write_page_to_disk" alt="" coords="233,88,405,115"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#aff4e1c7df4260b5dc7ad3dd1b37e6baa" title="logpb_writev_append\l_pages" alt="" coords="247,140,391,181"/>
+<area shape="rect" id="node9" href="$log__writer_8h.html#af1e1368d8e63a233e503b44c7cad4f4e" title="logwr_log_ha_filestat\l_to_string" alt="" coords="247,205,391,246"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#a978997a75ba311ff9ab0e14bb43100e5" title="logpb_next_append_page" alt="" coords="875,88,1044,115"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="908,38,1011,64"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="453,81,611,122"/>
+</map>

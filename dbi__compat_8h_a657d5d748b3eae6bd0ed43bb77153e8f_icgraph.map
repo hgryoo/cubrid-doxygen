@@ -1,0 +1,5 @@
+<map id="db_number_of_input_markers" name="db_number_of_input_markers">
+<area shape="rect" id="node2" href="$esql__cli_8c.html#ae3202975f22cc48f7d50dd6943b61736" title="uci_execute_immediate" alt="" coords="192,5,351,32"/>
+<area shape="rect" id="node3" href="$esql__cli_8c.html#adc61dd435a4de08df9ddb2d62d6ad8ad" title="uci_open_cs" alt="" coords="224,56,319,83"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#a36d9c91b915ea0efce4be6271bb73e38" title="uci_prepare" alt="" coords="227,107,316,133"/>
+</map>

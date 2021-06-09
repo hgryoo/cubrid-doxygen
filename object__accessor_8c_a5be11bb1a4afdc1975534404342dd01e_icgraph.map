@@ -1,0 +1,7 @@
+<map id="obj_free_memory" name="obj_free_memory">
+<area shape="rect" id="node2" href="$transform__cl_8h.html#acdfc497b4405a9f6224940da1c8b4aae" title="tf_disk_to_mem" alt="" coords="204,5,319,32"/>
+<area shape="rect" id="node4" href="$virtual__object_8c.html#a4c83744f2982452b7daccec22c2e32f6" title="vid_build_non_upd_object" alt="" coords="176,56,347,83"/>
+<area shape="rect" id="node5" href="$work__space_8h.html#a86a6f71a36aecbfb409f7253c5c53f58" title="ws_cache" alt="" coords="221,107,302,133"/>
+<area shape="rect" id="node6" href="$work__space_8h.html#a8a91f874e3655eb45524ef40c177f417" title="ws_decache" alt="" coords="214,157,309,184"/>
+<area shape="rect" id="node3" href="$locator__cl_8c.html#a71f5ed6795357653b5af8200c7c2dd58" title="locator_cache_object\l_instance" alt="" coords="395,49,540,90"/>
+</map>

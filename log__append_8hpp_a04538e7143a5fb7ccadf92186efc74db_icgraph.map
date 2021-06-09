@@ -1,0 +1,9 @@
+<map id="prior_lsa_alloc_and_copy_crumbs" name="prior_lsa_alloc_and_copy_crumbs">
+<area shape="rect" id="node2" href="$log__manager_8h.html#ad39dc10a11df5427f5af4c203e9d98a6" title="log_append_redo_crumbs" alt="" coords="188,147,359,174"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a487dabcb7a4dc15bab76299fb5ff1660" title="log_append_undoredo\l_crumbs" alt="" coords="421,224,569,265"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#a9ba19c0baec377fbab0da02a75c7260d" title="log_append_undo_crumbs" alt="" coords="187,253,360,279"/>
+<area shape="rect" id="node3" href="$vacuum_8c.html#a40a671926422d15ed03b4baf6365c6ff" title="vacuum_log_cleanup\l_dropped_files" alt="" coords="423,5,567,47"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a76afb51129a3be19c2520daa64bebf9e" title="log_append_redo_data" alt="" coords="419,71,571,98"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#aac6bd2dc11adb08f6b6da5bcaf2986b3" title="log_append_redo_data2" alt="" coords="415,122,574,149"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#ada4567801f3c4fec0f0dcd8096408fd8" title="log_append_redo_recdes2" alt="" coords="408,173,581,199"/>
+</map>

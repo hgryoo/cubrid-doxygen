@@ -1,0 +1,5 @@
+<map id="sm_invalidate_trigger_cache" name="sm_invalidate_trigger_cache">
+<area shape="rect" id="node2" href="$trigger__manager_8h.html#a12bda517b4f25cb4c10d40c9e4abd742" title="tr_set_status" alt="" coords="199,31,297,57"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ac2b72496284a3b61ff60ae44fa6b563d" title="db_alter_trigger_status" alt="" coords="345,5,500,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a688689faf250a85805390314b667a2d9" title="do_alter_trigger" alt="" coords="367,56,478,83"/>
+</map>

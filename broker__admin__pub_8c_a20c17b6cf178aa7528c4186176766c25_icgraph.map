@@ -1,0 +1,10 @@
+<map id="make_env" name="make_env">
+<area shape="rect" id="node2" href="$broker__admin__pub_8h.html#a46a0862b555218265c199ee06a187a09" title="admin_add_cmd" alt="" coords="144,36,261,63"/>
+<area shape="rect" id="node5" href="$broker__admin__pub_8h.html#af8e8e279d05d6361203a52304e19eeff" title="admin_restart_cmd" alt="" coords="136,112,269,139"/>
+<area shape="rect" id="node7" href="$broker__admin__pub_8c.html#a9087cf842b2ab1a95fa788b7ebad3dc1" title="br_activate" alt="" coords="159,188,246,215"/>
+<area shape="rect" id="node3" href="$broker__admin_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="488,138,539,164"/>
+<area shape="rect" id="node4" href="$broker__admin__so_8h.html#a3bbf7c9e6e9b48bace56c4e0704d1563" title="uc_add" alt="" coords="347,36,411,63"/>
+<area shape="rect" id="node6" href="$broker__admin__so_8h.html#a0015af9eb547779a9d722f03ec278391" title="uc_restart" alt="" coords="339,138,419,164"/>
+<area shape="rect" id="node8" href="$broker__admin__pub_8h.html#a21e0332265b07017b4f3211c3f455640" title="admin_on_cmd" alt="" coords="323,188,434,215"/>
+<area shape="rect" id="node9" href="$broker__admin__pub_8h.html#ad2b7e17f9a9fe16d07b20db49cea8f6b" title="admin_start_cmd" alt="" coords="317,239,440,266"/>
+</map>

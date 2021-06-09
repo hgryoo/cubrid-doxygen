@@ -1,0 +1,9 @@
+<map id="update_proc_node" name="update_proc_node">
+<area shape="rect" id="node2" href="$structupddel__class__info.html" title="{upddel_class_info\n|+ num_subclasses\l+ num_attrs\l+ att_id\l+ needs_pruning\l+ has_uniques\l+ num_lob_attrs\l+ lob_attr_ids\l+ num_extra_assign_reev\l+ mvcc_extra_assign_reev\l|}" alt="" coords="5,175,184,369"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="101,5,193,112"/>
+<area shape="rect" id="node4" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="11,20,77,97"/>
+<area shape="rect" id="node5" href="$structcubxasl_1_1pred__expr.html" title="{cubxasl::pred_expr\n|+ pe\l+ type\l|+ clear_xasl()\l}" alt="" coords="413,226,545,318"/>
+<area shape="rect" id="node7" href="$structcubxasl_1_1pred.html" title="{cubxasl::pred\n|+ bool_op\l|}" alt="" coords="458,498,558,575"/>
+<area shape="rect" id="node6" href="$structcubxasl_1_1eval__term.html" title="{cubxasl::eval_term\n|+ et_type\l+ et\l|}" alt="" coords="413,13,545,105"/>
+<area shape="rect" id="node8" href="$structupdate__assignment.html" title="{update_assignment\n|+ cls_idx\l+ att_idx\l+ regu_var\l+ clear_value_at_clone\l_decache\l|}" alt="" coords="209,204,365,340"/>
+</map>

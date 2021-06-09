@@ -1,0 +1,7 @@
+<map id="pt_lambda_node" name="pt_lambda_node">
+<area shape="rect" id="node2" href="$parser_8h.html#acae963270913774168c4c9f59e13ba9f" title="pt_lambda_with_arg" alt="" coords="171,97,309,123"/>
+<area shape="rect" id="node3" href="$query__rewrite_8c.html#a6027a3cf4879608071864a8ef87ff41d" title="qo_reduce_equality\l_terms" alt="" coords="371,5,505,47"/>
+<area shape="rect" id="node4" href="$query__rewrite_8c.html#ab1242ea63cd0272ce608d14841dff2c7" title="qo_reduce_order_by_for" alt="" coords="357,71,519,98"/>
+<area shape="rect" id="node5" href="$query__rewrite_8c.html#aa35a234703e4e4ffe3c313867bff0734" title="qo_reduce_order_by" alt="" coords="567,97,705,123"/>
+<area shape="rect" id="node6" href="$parser_8h.html#a1ada4ab9004207669fdad0979b45e174" title="pt_lambda" alt="" coords="397,173,479,199"/>
+</map>

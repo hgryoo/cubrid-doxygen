@@ -1,0 +1,7 @@
+<map id="catalog_initialize_new_page" name="catalog_initialize_new_page">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#ac9b4d424db02d5d385762fb4d682853f" title="catalog_create" alt="" coords="196,5,303,32"/>
+<area shape="rect" id="node4" href="$system__catalog_8c.html#a28086c58514074fc209c4436ba876c86" title="catalog_get_new_page" alt="" coords="172,56,327,83"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="379,5,546,32"/>
+<area shape="rect" id="node5" href="$system__catalog_8c.html#ade4f4a3ba8b869d1c1b86ded150ca40b" title="catalog_find_optimal_page" alt="" coords="375,56,551,83"/>
+<area shape="rect" id="node6" href="$system__catalog_8c.html#addb1c3894b0ad1ea94347993af226e8a" title="catalog_put_record\l_into_page" alt="" coords="397,107,529,149"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="disk_unreserve_sectors_from_volume" name="disk_unreserve_sectors_from_volume">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#a9737b8e2cb747badc9a7450460935930" title="disk_unreserve_ordered\l_sectors_without_csect" alt="" coords="213,27,373,69"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="428,5,575,32"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#aa4a81a07fbb7afb874ef379c7f029cb3" title="disk_unreserve_ordered\l_sectors" alt="" coords="421,57,581,98"/>
+</map>

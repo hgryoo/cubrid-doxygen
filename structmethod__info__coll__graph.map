@@ -1,0 +1,11 @@
+<map id="method_info" name="method_info">
+<area shape="rect" id="node2" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="526,417,675,583"/>
+<area shape="rect" id="node3" href="$structqmgr__temp__file.html" title="{qmgr_temp_file\n|+ temp_file_type\l+ membuf_last\l+ membuf\l+ membuf_npages\l+ membuf_type\l+ preserved\l+ tde_encrypted\l|}" alt="" coords="114,167,244,333"/>
+<area shape="rect" id="node4" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="40,5,102,97"/>
+<area shape="rect" id="node5" href="$structsort__list.html" title="{sort_list\n|+ del_id\l+ s_order\l+ s_nulls\l|}" alt="" coords="330,197,407,303"/>
+<area shape="rect" id="node6" href="$structqfile__tuple__descriptor.html" title="{qfile_tuple_descriptor\n|+ item\l+ item_size\l+ tpl_size\l+ f_cnt\l+ clear_f_val_at_clone\l_decache\l+ sortkey_info\l+ sort_rec\l|}" alt="" coords="524,160,677,340"/>
+<area shape="rect" id="node7" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="702,204,774,296"/>
+<area shape="rect" id="node8" href="$structqfile__tuple__value__type__list.html" title="{qfile_tuple_value_type_list\n|+ type_cnt\l|}" alt="" coords="798,211,973,289"/>
+<area shape="rect" id="node9" href="$structmethod__sig__list.html" title="{method_sig_list\n|+ num_methods\l|+ method_sig_list()\l}" alt="" coords="827,461,960,539"/>
+<area shape="rect" id="node10" href="$structmethod__sig__node.html" title="{method_sig_node\n|+ method_name\l+ class_name\l+ method_type\l+ num_method_args\l+ method_arg_pos\l|+ method_sig_node()\l}" alt="" coords="998,182,1142,318"/>
+</map>

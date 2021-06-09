@@ -1,0 +1,11 @@
+<map id="setobj_clear" name="setobj_clear">
+<area shape="rect" id="node2" href="$set__object_8h.html#a59ce825a24948f80ccef216a558eb219" title="set_copy" alt="" coords="280,157,355,184"/>
+<area shape="rect" id="node10" href="$set__object_8h.html#a9e2328e53722d977aa25111aa8e9b365" title="setobj_free" alt="" coords="145,183,232,209"/>
+<area shape="rect" id="node3" href="$db__set__function_8h.html#a40868d021951c09b58da90fc8d6b3ae4" title="db_set_copy" alt="" coords="441,5,537,32"/>
+<area shape="rect" id="node4" href="$db__set__function_8h.html#ae43b24c00c2d52523e5ee937315d33a6" title="db_seq_copy" alt="" coords="440,56,539,83"/>
+<area shape="rect" id="node5" href="$db__set__function_8h.html#a74901ec1820bf3d53d61a832c1ebd220" title="db_col_copy" alt="" coords="442,107,537,133"/>
+<area shape="rect" id="node6" href="$class__object_8h.html#a7703722447201ba90b4514d1ae28076a" title="classobj_copy_props" alt="" coords="417,157,561,184"/>
+<area shape="rect" id="node7" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="413,208,565,235"/>
+<area shape="rect" id="node8" href="$object__primitive_8c.html#a35e752b8b6695c70b6300f052c136b3f" title="mr_setval_set_internal" alt="" coords="413,259,566,285"/>
+<area shape="rect" id="node9" href="$heap__file_8h.html#a8be7998db3e4e38d449f784b5650ca40" title="heap_get_class_partitions" alt="" coords="403,309,576,336"/>
+</map>

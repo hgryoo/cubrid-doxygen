@@ -1,0 +1,7 @@
+<map id="jsp_map_pt_misc_to_sp_type" name="jsp_map_pt_misc_to_sp_type">
+<area shape="rect" id="node2" href="$jsp__cl_8c.html#a12b7cdb428499b5990e60ffa51ff4d76" title="drop_stored_procedure" alt="" coords="208,56,363,83"/>
+<area shape="rect" id="node5" href="$jsp__cl_8c.html#a492fc77e32ed00bc045be5703c4aba55" title="jsp_add_stored_procedure" alt="" coords="198,5,373,32"/>
+<area shape="rect" id="node6" href="$jsp__cl_8h.html#a4c59e5f92e0554391810cce070799e8c" title="jsp_alter_stored_procedure" alt="" coords="196,107,375,133"/>
+<area shape="rect" id="node3" href="$jsp__cl_8h.html#a8771e1dbd7f121c9e507c5035e657792" title="jsp_create_stored_procedure" alt="" coords="423,5,612,32"/>
+<area shape="rect" id="node4" href="$jsp__cl_8h.html#ac41e88ec6abe2a73a35bf5dc921526b5" title="jsp_drop_stored_procedure" alt="" coords="428,56,607,83"/>
+</map>

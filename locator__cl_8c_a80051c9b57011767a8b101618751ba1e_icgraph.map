@@ -1,0 +1,19 @@
+<map id="locator_free_list_mops" name="locator_free_list_mops">
+<area shape="rect" id="node2" href="$compactdb_8c.html#af0c3d428686aedb5273a5e83379cf791" title="compactdb_start" alt="" coords="703,34,821,60"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#a15f2d145e5ea44a70019e58bff7bb5d3" title="db_get_all_chosen_classes" alt="" coords="671,538,853,564"/>
+<area shape="rect" id="node6" href="$compactdb__cl_8c.html#a3c96cc7b752912d6205b04479c0e0289" title="do_reclaim_class_addresses" alt="" coords="667,588,857,615"/>
+<area shape="rect" id="node8" href="$locator__cl_8c.html#acd38be0f3e44fcfee66192c3f48c7ca0" title="locator_fun_get_all_mops" alt="" coords="212,503,383,530"/>
+<area shape="rect" id="node10" href="$utility_8h.html#a090ec522bafd813b8ba255a9af927ba3" title="unloaddb" alt="" coords="725,135,799,162"/>
+<area shape="rect" id="node11" href="$schema__manager_8h.html#af6b111bde96e6d852443ac2d8aeca35d" title="sm_fetch_all_classes" alt="" coords="688,471,836,498"/>
+<area shape="rect" id="node12" href="$schema__manager_8h.html#aaa2b2a5611834340c7390439b990d3d0" title="sm_fetch_all_base_classes" alt="" coords="905,303,1088,330"/>
+<area shape="rect" id="node13" href="$schema__manager_8c.html#a6dba97b2ae6799b80d00882a36541411" title="sm_fetch_all_objects\l_internal" alt="" coords="689,186,835,228"/>
+<area shape="rect" id="node14" href="$schema__manager_8h.html#a53fdc435324cabc5e0eafff20725afa1" title="sm_mark_system_classes" alt="" coords="673,252,851,279"/>
+<area shape="rect" id="node15" href="$schema__manager_8h.html#afee992faddb9617993784f8f7763129e" title="sm_force_write_all\l_classes" alt="" coords="697,354,827,396"/>
+<area shape="rect" id="node16" href="$schema__template_8h.html#a93573b56585aa364a9823afddf213204" title="smt_change_query_spec" alt="" coords="679,420,845,447"/>
+<area shape="rect" id="node18" href="$locator__cl_8c.html#a560893c04f2f0dcff4797a25fc657376" title="locator_save_nested_mops" alt="" coords="207,655,388,682"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a06afe3266607d870e700d54e8dc0e007" title="compactdb" alt="" coords="953,34,1040,60"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#ab0892d93a6ac844399370110b38934be" title="db_get_all_vclasses" alt="" coords="927,538,1067,564"/>
+<area shape="rect" id="node7" href="$compactdb__cl_8c.html#ad3b2ec867203ae1e6e05d1b2e304ba01" title="do_reclaim_addresses" alt="" coords="921,588,1073,615"/>
+<area shape="rect" id="node9" href="$locator__cl_8h.html#a18b5f81625b707cfc04a034673b3b5a7" title="locator_get_all_mops" alt="" coords="455,300,600,327"/>
+<area shape="rect" id="node17" href="$locator__cl_8h.html#a8323c41a18c55f76df9bf13f91488375" title="locator_get_all_class_mops" alt="" coords="436,503,619,530"/>
+</map>

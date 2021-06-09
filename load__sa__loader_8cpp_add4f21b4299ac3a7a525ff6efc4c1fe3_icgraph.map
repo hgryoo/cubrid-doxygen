@@ -1,0 +1,21 @@
+<map id="ldr_abort" name="ldr_abort">
+<area shape="rect" id="node2" href="$classcubload_1_1sa__object__loader.html#a8a6c945de603337f5be66791eb05f554" title="cubload::sa_object\l_loader::finish_line" alt="" coords="527,355,657,397"/>
+<area shape="rect" id="node3" href="$load__sa__loader_8cpp.html#a59eb33718a871f6cf929118d2b2e75a5" title="ldr_act_add_argument" alt="" coords="517,40,667,67"/>
+<area shape="rect" id="node5" href="$load__sa__loader_8cpp.html#af3144eb2dc546ac311d12e80c693b3e8" title="ldr_act_add_attr" alt="" coords="342,73,457,100"/>
+<area shape="rect" id="node6" href="$load__sa__loader_8cpp.html#a3e1fcb98678dd52c064110a6da40fbec" title="ldr_act_add_class_all\l_attrs" alt="" coords="519,277,665,318"/>
+<area shape="rect" id="node8" href="$load__sa__loader_8cpp.html#a877e02b483583afded200a57fa8c696f" title="ldr_act_check_missing\l_non_null_attrs" alt="" coords="515,142,669,183"/>
+<area shape="rect" id="node9" href="$load__sa__loader_8cpp.html#a7fdb4a27a4f0f3c67db4730f416efcc9" title="ldr_act_init_context" alt="" coords="332,580,467,607"/>
+<area shape="rect" id="node11" href="$load__sa__loader_8cpp.html#a3b885f3329fd70251d54df60b25e4d52" title="ldr_act_set_constructor" alt="" coords="125,225,284,252"/>
+<area shape="rect" id="node12" href="$load__sa__loader_8cpp.html#aca59bfacb5f26cf531e097a1bd7aaabd" title="ldr_elo_ext_db_elo" alt="" coords="139,73,270,100"/>
+<area shape="rect" id="node13" href="$load__sa__loader_8cpp.html#a8bd9b94300dfb07ce334162f90c37073" title="ldr_finish_context" alt="" coords="143,567,267,593"/>
+<area shape="rect" id="node15" href="$load__sa__loader_8cpp.html#a0cbf3afe6ab20cfa4741d0d0928412cb" title="ldr_internal_error" alt="" coords="145,428,264,455"/>
+<area shape="rect" id="node20" href="$classcubload_1_1sa__object__loader.html#a68aaa7fcfb3738c4bfe34f1359aa466c" title="cubload::sa_object\l_loader::process_line" alt="" coords="132,618,277,659"/>
+<area shape="rect" id="node4" href="$classcubload_1_1sa__class__installer.html#af5f07aa77b5d16797563d946597178d7" title="cubload::sa_class_installer\l::install_class" alt="" coords="717,113,896,154"/>
+<area shape="rect" id="node7" href="$classcubload_1_1sa__class__installer.html#af5d0e14ddd2ffd64acf4f7355f85fe02" title="cubload::sa_class_installer\l::install_class" alt="" coords="717,411,896,453"/>
+<area shape="rect" id="node10" href="$load__sa__loader_8cpp.html#af41b16fc6c7965267350c2502f2bde99" title="ldr_init_loader" alt="" coords="541,479,643,505"/>
+<area shape="rect" id="node14" href="$load__sa__loader_8cpp.html#ad64700c984ccfd79eef78e162dbd8e6e" title="ldr_destroy" alt="" coords="356,631,443,657"/>
+<area shape="rect" id="node16" href="$load__sa__loader_8cpp.html#a46625edd9bf0aec4f6c5821b5711b2e1" title="ldr_class_oid_elem" alt="" coords="333,479,466,505"/>
+<area shape="rect" id="node17" href="$load__sa__loader_8cpp.html#af6e8dd35c38e90e165263c3cc8ff4a61" title="ldr_oid_elem" alt="" coords="352,428,447,455"/>
+<area shape="rect" id="node18" href="$load__sa__loader_8cpp.html#a72dc835cb2624c07f71edd376d6d0fc5" title="insert_instance" alt="" coords="344,377,455,404"/>
+<area shape="rect" id="node19" href="$load__sa__loader_8cpp.html#a7df88243620fab77ff6ba4f2134cb554" title="construct_instance" alt="" coords="333,529,465,556"/>
+</map>

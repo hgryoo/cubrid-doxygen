@@ -1,0 +1,19 @@
+<map id="fileio_synchronize_all" name="fileio_synchronize_all">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="984,216,1151,243"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8c.html#ab180db015df6cfbabb8c7e1692c00ab1" title="dwb_create_internal" alt="" coords="627,51,766,77"/>
+<area shape="rect" id="node7" href="$file__io_8c.html#a8e6c852e5b478288fab6c8d927ad682f" title="fileio_compensate_flush" alt="" coords="200,304,363,331"/>
+<area shape="rect" id="node9" href="$file__io_8h.html#a11b879a757fb73fd1e78b9d0e052fd28" title="fileio_finish_restore" alt="" coords="629,355,764,381"/>
+<area shape="rect" id="node10" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="851,304,921,331"/>
+<area shape="rect" id="node11" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="650,405,743,432"/>
+<area shape="rect" id="node12" href="$log__manager_8h.html#ac92df3fb17efd887483ccf4616f20f27" title="log_rv_outside_noop_redo" alt="" coords="610,456,783,483"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html#a850e6db878c034a88e735606f63fa477" title="logpb_remove_archive_logs" alt="" coords="605,507,788,533"/>
+<area shape="rect" id="node14" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="635,203,758,229"/>
+<area shape="rect" id="node15" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="838,152,934,179"/>
+<area shape="rect" id="node16" href="$log__page__buffer_8c.html#a5d98688d5706fd68216d7931e5638a3b" title="logpb_fatal_error_internal" alt="" coords="613,557,780,584"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="1199,255,1349,281"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8h.html#acba78f5f185d579f9bc108af1713519c" title="dwb_create" alt="" coords="841,51,931,77"/>
+<area shape="rect" id="node6" href="$double__write__buffer_8h.html#a73fd65b5e5208dc676dab35b729a84fc" title="dwb_recreate" alt="" coords="836,101,936,128"/>
+<area shape="rect" id="node8" href="$file__io_8h.html#a4571e2ee793cb5c067a638b4d23d0e49" title="fileio_synchronize_all" alt="" coords="411,304,557,331"/>
+<area shape="rect" id="node17" href="$file__io_8h.html#a61597c0696b4944261dadb90525296e9" title="fileio_write" alt="" coords="442,253,526,280"/>
+<area shape="rect" id="node18" href="$file__io_8h.html#a2951a1c5874f53c556ad42849d150d46" title="fileio_write_pages" alt="" coords="421,203,547,229"/>
+</map>

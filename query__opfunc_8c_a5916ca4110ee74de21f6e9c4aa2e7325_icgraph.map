@@ -1,0 +1,15 @@
+<map id="qdata_is_zero_value_date" name="qdata_is_zero_value_date">
+<area shape="rect" id="node2" href="$query__opfunc_8h.html#a9fa70ad6fa6a96385c1600dd2e37f203" title="qdata_add_dbval" alt="" coords="240,260,360,287"/>
+<area shape="rect" id="node14" href="$query__opfunc_8h.html#a994c370cfc8c103ea406a53ab82a0bf0" title="qdata_subtract_dbval" alt="" coords="227,81,373,108"/>
+<area shape="rect" id="node3" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="459,5,578,32"/>
+<area shape="rect" id="node4" href="$query__aggregate_8hpp.html#ab44b50dac7f00cac2fd85e2231977397" title="qdata_aggregate_accumulator\l_to_accumulator" alt="" coords="664,253,860,294"/>
+<area shape="rect" id="node5" href="$query__aggregate_8cpp.html#ae648488289a189182d88cdf6ec9eb4d8" title="qdata_aggregate_value\l_to_accumulator" alt="" coords="441,223,597,265"/>
+<area shape="rect" id="node6" href="$query__aggregate_8hpp.html#aa312cafed9e126f592fbb9d427cef4cd" title="qdata_evaluate_aggregate\l_hierarchy" alt="" coords="431,341,606,382"/>
+<area shape="rect" id="node7" href="$query__aggregate_8hpp.html#aaab4cfccc7f11e0574aaeb4a91ff5cdc" title="qdata_finalize_aggregate_list" alt="" coords="423,56,614,83"/>
+<area shape="rect" id="node8" href="$query__analytic_8hpp.html#a77694d66899ad7e3bfe752bc6a4201f6" title="qdata_evaluate_analytic_func" alt="" coords="421,407,616,433"/>
+<area shape="rect" id="node9" href="$query__analytic_8hpp.html#a60ac6e5d89053f1f38e3bd6caaaa4882" title="qdata_finalize_analytic_func" alt="" coords="425,107,612,133"/>
+<area shape="rect" id="node10" href="$query__opfunc_8c.html#a3ec9d3234d93207c1d0c3b04490aa537" title="qdata_subtract_utime\l_to_short_asymmetry" alt="" coords="445,458,593,499"/>
+<area shape="rect" id="node11" href="$query__opfunc_8c.html#ab46e3dc20f010565ce2d39099576cad1" title="qdata_subtract_utime\l_to_int_asymmetry" alt="" coords="445,523,592,565"/>
+<area shape="rect" id="node12" href="$query__opfunc_8c.html#a29b40c384d71d9370fd567a184abc464" title="qdata_subtract_utime\l_to_bigint_asymmetry" alt="" coords="443,589,594,630"/>
+<area shape="rect" id="node13" href="$query__opfunc_8c.html#acb514dd0078b920bbbd27d6e08a670a2" title="qdata_subtract_datetime\l_to_int_asymmetry" alt="" coords="436,158,601,199"/>
+</map>

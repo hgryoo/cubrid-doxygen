@@ -1,0 +1,7 @@
+<map id="spage_free_saved_spaces" name="spage_free_saved_spaces">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="237,74,347,101"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="231,17,353,43"/>
+<area shape="rect" id="node3" href="$log__2pc_8c.html#a8f0d3e711958d90183e5813a073b4696" title="log_2pc_commit_second\l_phase" alt="" coords="401,5,568,47"/>
+<area shape="rect" id="node4" href="$log__2pc_8c.html#acf5f3bbe0b21f92332c8b664cd39e251" title="log_2pc_recovery_abort\l_decision" alt="" coords="405,71,565,112"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="447,137,522,163"/>
+</map>

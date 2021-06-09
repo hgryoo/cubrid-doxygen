@@ -1,0 +1,5 @@
+<map id="locator_add_to_oidset_when_temp_oid" name="locator_add_to_oidset_when_temp_oid">
+<area shape="rect" id="node2" href="$locator__cl_8h.html#ac9c385d791975c7c8603cc0626723aae" title="locator_assign_all\l_permanent_oids" alt="" coords="203,23,329,65"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#acbd760c1942dbf1e164bde9ee1c473c9" title="do_execute_select" alt="" coords="385,5,516,32"/>
+<area shape="rect" id="node4" href="$transaction__cl_8h.html#a9c40d283320f0d63a7594e1f6d8b96bf" title="tran_flush_to_commit" alt="" coords="377,56,524,83"/>
+</map>

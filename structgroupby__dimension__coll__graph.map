@@ -1,0 +1,10 @@
+<map id="groupby_dimension" name="groupby_dimension">
+<area shape="rect" id="node2" href="$structcubxasl_1_1aggregate__list__node.html" title="{cubxasl::aggregate\l_list_node\n|+ function\l+ option\l+ opr_dbtype\l+ original_opr_dbtype\l+ flag_agg_optimize\l|}" alt="" coords="468,476,615,627"/>
+<area shape="rect" id="node3" href="$structsort__list.html" title="{sort_list\n|+ del_id\l+ s_order\l+ s_nulls\l|}" alt="" coords="36,5,114,112"/>
+<area shape="rect" id="node8" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="108,204,258,369"/>
+<area shape="rect" id="node4" href="$unioncubxasl_1_1aggregate__specific__function__info.html" title="{cubxasl::aggregate\l_specific_function_info\n||}" alt="" coords="282,241,436,333"/>
+<area shape="rect" id="node5" href="$structcubxasl_1_1aggregate__accumulator.html" title="{cubxasl::aggregate\l_accumulator\n|+ curr_cnt\l+ clear_value_at_clone\l_decache\l+ clear_value2_at_clone\l_decache\l|}" alt="" coords="460,211,623,362"/>
+<area shape="rect" id="node6" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="647,248,748,325"/>
+<area shape="rect" id="node7" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="772,175,906,399"/>
+<area shape="rect" id="node9" href="$structregu__variable__list__node.html" title="{regu_variable_list_node\n||}" alt="" coords="1028,248,1186,325"/>
+</map>

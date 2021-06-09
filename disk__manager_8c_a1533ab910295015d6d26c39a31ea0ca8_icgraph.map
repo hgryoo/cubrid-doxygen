@@ -1,0 +1,7 @@
+<map id="disk_get_volpurpose" name="disk_get_volpurpose">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a1fac11dc8d5a41e19a5efcc5c81a4c4e" title="disk_rv_reserve_sectors" alt="" coords="202,5,366,32"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a58d0c09f77d2f72b4faee4162764f195" title="disk_rv_unreserve_sectors" alt="" coords="195,56,373,83"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#a43ade412eaab56dc5d88600064f22dac" title="xdisk_get_purpose" alt="" coords="219,107,349,133"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a51435118cbaf666514e8127c17dae387" title="pgbuf_is_temporary\l_volume" alt="" coords="433,66,569,107"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a421fd50c31a6b7e87ada9559a39e22c5" title="logpb_check_and_reset\l_temp_lsa" alt="" coords="421,131,580,173"/>
+</map>

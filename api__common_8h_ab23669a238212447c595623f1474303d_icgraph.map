@@ -1,0 +1,9 @@
+<map id="list_indexer_create" name="list_indexer_create">
+<area shape="rect" id="node2" href="$db__collection_8c.html#a99fa12503572a682bd4a7d33cf01affe" title="apif_collection_create" alt="" coords="184,71,332,98"/>
+<area shape="rect" id="node5" href="$cci__stub_8c.html#a3087879d4a0601e131839260ea780f4a" title="xcol_create" alt="" coords="213,147,303,174"/>
+<area shape="rect" id="node3" href="$db__stub_8h.html#aaf95a2759091f1969373136514d8c8b0" title="api_collection_create\l_from_db_value" alt="" coords="386,5,530,47"/>
+<area shape="rect" id="node4" href="$db__stub_8h.html#ad43e04bfaafa89279ecbd01de52351f0" title="api_collection_create" alt="" coords="386,71,530,98"/>
+<area shape="rect" id="node6" href="$cci__stub_8c.html#a72d00d3a71b2949b3e52e57106476feb" title="cci_set_to_xcol" alt="" coords="401,122,515,149"/>
+<area shape="rect" id="node7" href="$cci__stub_8c.html#a4a7eb236de7abda6b2bed24d491d286e" title="xcol_copy" alt="" coords="417,173,499,199"/>
+<area shape="rect" id="node8" href="$cci__stub_8c.html#a9449cf872d07cc2ed918630c8dad2c00" title="ci_collection_new_impl" alt="" coords="380,223,536,250"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ws_vmop" name="ws_vmop">
+<area shape="rect" id="node2" href="$virtual__object_8h.html#a593c829934b8604934ec7da609924644" title="vid_build_virtual_mop" alt="" coords="132,31,279,57"/>
+<area shape="rect" id="node5" href="$virtual__object_8h.html#a987cc077d1aed3146651c8b5e72c5173" title="vid_fetch_instance" alt="" coords="140,81,271,108"/>
+<area shape="rect" id="node6" href="$virtual__object_8h.html#afc5fd51f4b31a8891a388fd3c2d19d45" title="vid_vobj_to_object" alt="" coords="140,156,271,183"/>
+<area shape="rect" id="node3" href="$execute__statement_8c.html#adeabf0d80a67d17b17da6575bbf79ad7" title="make_vmops" alt="" coords="359,5,459,32"/>
+<area shape="rect" id="node4" href="$virtual__object_8h.html#a63a98dc8f4a987b8c881421b11c201b4" title="vid_add_virtual_instance" alt="" coords="327,56,492,83"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="or_pad" name="or_pad">
+<area shape="rect" id="node2" href="$btree__load_8c.html#a39e0216f3f5cf51647f9a3d8cda8b7d2" title="btree_sort_get_next" alt="" coords="125,23,263,49"/>
+<area shape="rect" id="node4" href="$catalog__class_8c.html#a9cd84ca39c9d1a22cca02cea48c7a33a" title="catcls_put_or_value\l_into_buffer" alt="" coords="125,90,263,131"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#a550ba39ad01765a4f0b7115fbb43f60c" title="heap_attrinfo_transform\l_to_disk_internal" alt="" coords="115,187,273,229"/>
+<area shape="rect" id="node7" href="$object__representation_8c.html#abf37a5f19595abfeb1ad4858d74d3168" title="or_pack_mem_value" alt="" coords="123,253,265,280"/>
+<area shape="rect" id="node8" href="$object__representation_8c.html#ae81c9f71e012b1e96c1838aaf7a7221e" title="or_put_align32" alt="" coords="141,304,247,331"/>
+<area shape="rect" id="node14" href="$object__representation_8c.html#a84d1b3d5fff1943ae082a70644eed24b" title="or_put_set" alt="" coords="360,405,443,432"/>
+<area shape="rect" id="node15" href="$object__representation_8c.html#a56174c6512ce182e435a8719d7feb129" title="or_put_string_aligned" alt="" coords="121,456,267,483"/>
+<area shape="rect" id="node17" href="$object__representation_8c.html#a1d7a466f0aafaccaadbf0685f67e7946" title="or_put_value" alt="" coords="146,405,242,432"/>
+<area shape="rect" id="node18" href="$load__object_8c.html#ad1af19d7498db54eba70fd36b17a4752" title="put_attributes" alt="" coords="143,507,245,533"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#ad2eefeb3458e40648543c0ce0948b261" title="btree_index_sort" alt="" coords="342,5,461,32"/>
+<area shape="rect" id="node5" href="$catalog__class_8c.html#a42f64935f282f607d5ae8ce4dbb62a57" title="catcls_put_or_value\l_into_record" alt="" coords="332,57,471,98"/>
+<area shape="rect" id="node9" href="$object__primitive_8c.html#ab9bef018354912cb6b5a9e0989e14873" title="pr_write_compressed\l_string_to_buffer" alt="" coords="328,122,475,163"/>
+<area shape="rect" id="node10" href="$object__primitive_8c.html#a895e3444474f5236c1792bbce784e4c8" title="pr_write_uncompressed\l_string_to_buffer" alt="" coords="321,187,481,229"/>
+<area shape="rect" id="node11" href="$object__representation_8c.html#a9f902c14322621a3a63ea15d79b56e8a" title="or_put_varchar_internal" alt="" coords="323,253,480,280"/>
+<area shape="rect" id="node12" href="$object__representation_8c.html#ab8dd91cd589389b446d27d4356413da7" title="or_put_varbit_internal" alt="" coords="328,304,475,331"/>
+<area shape="rect" id="node13" href="$btree_8h.html#adcf574be2b1e0f2716970f3022bed902" title="btree_write_record" alt="" coords="337,355,466,381"/>
+<area shape="rect" id="node16" href="$object__primitive_8c.html#ae448200f6afdf5723c811a5dc017f6e7" title="mr_data_writemem_elo" alt="" coords="323,456,480,483"/>
+<area shape="rect" id="node19" href="$load__object_8h.html#a9d75c94d7a8cb332610ff2a82674ed89" title="desc_obj_to_disk" alt="" coords="340,507,463,533"/>
+</map>

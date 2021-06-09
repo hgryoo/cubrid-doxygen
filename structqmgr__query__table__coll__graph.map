@@ -1,0 +1,8 @@
+<map id="qmgr_query_table" name="qmgr_query_table">
+<area shape="rect" id="node2" href="$structoid__block__list.html" title="{oid_block_list\n|+ last_oid_idx\l|}" alt="" coords="387,292,489,369"/>
+<area shape="rect" id="node6" href="$structqmgr__tran__entry.html" title="{qmgr_tran_entry\n|+ trans_stat\l+ query_id_generator\l+ num_query_entries\l|}" alt="" coords="231,568,375,675"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="392,35,484,141"/>
+<area shape="rect" id="node4" href="$structqmgr__temp__file__list.html" title="{qmgr_temp_file_list\n|+ mutex\l+ count\l|}" alt="" coords="5,452,140,544"/>
+<area shape="rect" id="node5" href="$structqmgr__temp__file.html" title="{qmgr_temp_file\n|+ temp_file_type\l+ membuf_last\l+ membuf\l+ membuf_npages\l+ membuf_type\l+ preserved\l+ tde_encrypted\l|}" alt="" coords="45,5,175,171"/>
+<area shape="rect" id="node7" href="$structqmgr__query__entry.html" title="{qmgr_query_entry\n|+ query_id\l+ num_tmp\l+ total_count\l+ er_msg\l+ errid\l+ query_status\l+ query_flag\l+ is_holdable\l+ includes_tde_class\l|}" alt="" coords="105,233,251,428"/>
+</map>

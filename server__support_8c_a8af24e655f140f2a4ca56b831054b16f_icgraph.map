@@ -1,0 +1,8 @@
+<map id="css_check_ha_server_state_for_client" name="css_check_ha_server_state_for_client">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="209,56,352,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#ab5d8cbe4258cd66e61a0da4e4a87614f" title="xboot_unregister_client" alt="" coords="203,107,359,133"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a01c5641d7966ab43b12116327a2e6d4b" title="boot_register_client" alt="" coords="417,5,552,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a8e37c47455fc1ef6ebc9966c51cb64e1" title="sboot_register_client" alt="" coords="413,56,556,83"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#a13db15b7b8d3fb9f09f8d746dc649115" title="boot_unregister_client" alt="" coords="410,107,559,133"/>
+<area shape="rect" id="node7" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="407,157,563,184"/>
+</map>

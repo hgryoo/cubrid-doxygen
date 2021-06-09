@@ -1,0 +1,6 @@
+<map id="logtb_count_not_allowed_clients_in_maintenance_mode" name="logtb_count_not_allowed_clients_in_maintenance_mode">
+<area shape="rect" id="node2" href="$server__support_8h.html#a5692baaa6c9df9b84010366971aac54c" title="css_change_ha_server\l_state" alt="" coords="257,57,413,98"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="481,5,616,32"/>
+<area shape="rect" id="node4" href="$server__support_8c.html#ae58c62456655b0400a42763aa98b0232" title="css_process_change\l_server_ha_mode_request" alt="" coords="461,57,636,98"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#ab275afe2b2e11383cae924c9b34cd50f" title="sboot_change_ha_mode" alt="" coords="467,123,630,149"/>
+</map>

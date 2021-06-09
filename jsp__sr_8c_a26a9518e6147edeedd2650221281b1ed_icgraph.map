@@ -1,0 +1,8 @@
+<map id="jsp_server_port" name="jsp_server_port">
+<area shape="rect" id="node2" href="$javasp_8cpp.html#a8113f4fff2cf7fdeb187611c8c90718c" title="javasp_start_server" alt="" coords="167,9,303,36"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a2e5ae8f2d95867efb7e9e1866f2ee387" title="jsp_get_server_port" alt="" coords="167,64,303,91"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#a2bf97464685fe819385afe7ab72da189" title="sjsp_get_server_port" alt="" coords="164,119,307,145"/>
+<area shape="rect" id="node3" href="$javasp_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="397,5,447,32"/>
+<area shape="rect" id="node5" href="$jsp__cl_8c.html#a82999aceae550ba9ec2e56f798c0f3f9" title="jsp_execute_stored\l_procedure" alt="" coords="355,57,489,98"/>
+<area shape="rect" id="node7" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="369,123,475,149"/>
+</map>

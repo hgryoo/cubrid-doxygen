@@ -1,0 +1,6 @@
+<map id="log_is_log_flush_daemon_available" name="log_is_log_flush_daemon_available">
+<area shape="rect" id="node2" href="$log__manager_8h.html#ad7d852d6547ead2335b5cc6ce6360ea0" title="log_wakeup_log_flush\l_daemon" alt="" coords="221,71,372,112"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="428,5,559,47"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#aa91abaf89af63e703737ac5c00d7cd7d" title="logpb_flush_pages" alt="" coords="428,137,559,163"/>
+<area shape="rect" id="node4" href="$log__append_8cpp.html#a055967129308b00d1f5fab263f24da07" title="prior_lsa_next_record\l_internal" alt="" coords="420,71,567,112"/>
+</map>

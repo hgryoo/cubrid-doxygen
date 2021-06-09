@@ -1,0 +1,6 @@
+<map id="pt_get_expression_definition" name="pt_get_expression_definition">
+<area shape="rect" id="node2" href="$type__checking_8c.html#ad865d0cf36001c27c0dc1df5cca6304f" title="pt_apply_expressions\l_definition" alt="" coords="501,5,649,47"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#ae76bea7dda5843876a3fa90108706b9e" title="pt_fix_arguments_collation_flag" alt="" coords="240,67,445,94"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#a9e8ecf7badfa6534b66e5521881e1cc6" title="pt_eval_expr_type" alt="" coords="704,42,832,69"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#a06007d90431b174a63875bf60871f3a7" title="pt_check_expr_collation" alt="" coords="493,71,656,98"/>
+</map>

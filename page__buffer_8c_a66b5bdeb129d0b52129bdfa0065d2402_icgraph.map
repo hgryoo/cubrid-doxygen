@@ -1,0 +1,8 @@
+<map id="pgbuf_find_current_wait_msecs" name="pgbuf_find_current_wait_msecs">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#ac9a59dd7ac23cdbc22052a9e1ab496c4" title="pgbuf_block_bcb" alt="" coords="183,101,303,127"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="572,189,689,215"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#afe78724b7abcc4efb6d4b28c49a46ebc" title="pgbuf_ordered_fix_debug" alt="" coords="737,214,904,241"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a7b2dfb96a20574b1b57312f01a840fbe" title="pgbuf_bcb_safe_flush\l_internal" alt="" coords="363,5,512,47"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a1ad3b117720feb9f4798b6bc79cd3023" title="pgbuf_latch_bcb_upon_fix" alt="" coords="351,71,524,98"/>
+<area shape="rect" id="node7" href="$page__buffer_8h.html#a1bf1b7b6a62392916056f3c33e414f9d" title="pgbuf_promote_read\l_latch_debug" alt="" coords="367,123,507,164"/>
+</map>

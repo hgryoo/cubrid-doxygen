@@ -1,0 +1,8 @@
+<map id="remove_deferred_activity" name="remove_deferred_activity">
+<area shape="rect" id="node2" href="$trigger__manager_8h.html#a9da91e5b34adf260b4e9bad7e2e9cd79" title="tr_drop_deferred_activities" alt="" coords="221,81,396,108"/>
+<area shape="rect" id="node7" href="$trigger__manager_8h.html#af5246583905394c9c1a2e8de59dd0735" title="tr_execute_deferred\l_activities" alt="" coords="240,133,377,174"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ae34e48221e41f682fa1127da55c895c7" title="db_drop_deferred_activities" alt="" coords="444,5,625,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#ab86886b8498d463986948822d3086b33" title="tr_create_trigger" alt="" coords="477,56,593,83"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#a94fe1954d05e02fb4c78f222fea68ea6" title="tr_drop_trigger" alt="" coords="482,107,587,133"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#aa172af3cbf7a61be3cc4dcdc5e62cf11" title="do_remove_trigger" alt="" coords="470,157,599,184"/>
+</map>

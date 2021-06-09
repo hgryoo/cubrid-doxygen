@@ -1,0 +1,16 @@
+<map id="logtb_find_tranid" name="logtb_find_tranid">
+<area shape="rect" id="node2" href="$lock__manager_8h.html#a504786492af357a6a63b3b255364b4c6" title="lock_demote_class_lock" alt="" coords="179,71,345,98"/>
+<area shape="rect" id="node5" href="$lock__manager_8c.html#a104e521b5f958d944f9443a0aff23348" title="lock_detect_local_deadlock" alt="" coords="171,122,353,149"/>
+<area shape="rect" id="node7" href="$log__tran__table_8c.html#a6dfb3173df8230e8864e85522a3c7bcf" title="logtb_find_current\l_tranid" alt="" coords="199,317,325,359"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="435,5,566,47"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#ac2e34e4cec9ec7a7d4e8ccbfdc8557d6" title="xlocator_demote_class_lock" alt="" coords="407,71,594,98"/>
+<area shape="rect" id="node6" href="$lock__manager_8h.html#a39894afba679cc8ff708080ea5ae6ac8" title="lock_initialize" alt="" coords="451,122,551,149"/>
+<area shape="rect" id="node8" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="441,173,560,199"/>
+<area shape="rect" id="node9" href="$slotted__page_8h.html#ac74a0bc0d0e80b4bf43461d7ce00db7b" title="spage_check_slot_owner" alt="" coords="416,223,585,250"/>
+<area shape="rect" id="node10" href="$slotted__page_8h.html#ac4e01996e09e34fc3db406713fdd4aa6" title="spage_free_saved_spaces" alt="" coords="412,274,589,301"/>
+<area shape="rect" id="node11" href="$slotted__page_8c.html#a83316be5d6ae8c75e7341d6595a8033b" title="spage_get_saved_spaces" alt="" coords="414,325,587,351"/>
+<area shape="rect" id="node12" href="$slotted__page_8c.html#abf20303000c68e44e48f4fceed1d278c" title="spage_has_enough_total\l_space" alt="" coords="417,376,584,417"/>
+<area shape="rect" id="node13" href="$slotted__page_8c.html#a3700f5e689cad7c391ff448661f227bb" title="spage_insert_data" alt="" coords="437,442,565,469"/>
+<area shape="rect" id="node14" href="$slotted__page_8c.html#a175f857ba7d9a698b4cb1d3d4ceb62e8" title="spage_save_space" alt="" coords="433,493,568,519"/>
+<area shape="rect" id="node15" href="$transaction__sr_8h.html#ae26bf7cb11bb1ac2bfa7320cab501272" title="xtran_get_local_transaction_id" alt="" coords="401,543,600,570"/>
+</map>

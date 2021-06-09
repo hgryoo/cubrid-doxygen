@@ -1,0 +1,11 @@
+<map id="pp_strdup" name="pp_strdup">
+<area shape="rect" id="node2" href="$esql__hash_8c.html#ad4ede85720d7b4a18b1bd5da86df44c6" title="es_write_log" alt="" coords="140,31,235,57"/>
+<area shape="rect" id="node4" href="$esql__misc_8h.html#a8db4ccc59d3ce95a4f3262a5f9c32438" title="pp_check_type" alt="" coords="132,107,243,133"/>
+<area shape="rect" id="node5" href="$esql__symbol__table_8c.html#aafbdbd133911a5268898d704e819c685" title="pp_clone_type" alt="" coords="134,157,241,184"/>
+<area shape="rect" id="node7" href="$esql__symbol__table_8c.html#ae81d0f1509405e0a9dbc00c5f36abf1e" title="pp_new_pseudo_def" alt="" coords="487,56,628,83"/>
+<area shape="rect" id="node3" href="$esql__hash_8c.html#ab46d7accaa0703cabed61ae7918da462" title="es_ht_print_table" alt="" coords="304,5,425,32"/>
+<area shape="rect" id="node6" href="$esql__misc_8h.html#a3250a026bf3c13a75574a4981b7569c8" title="pp_add_spec_to_decl" alt="" coords="291,56,439,83"/>
+<area shape="rect" id="node8" href="$esql__misc_8h.html#a9bd260f7f30a6b5343351b1f542372a1" title="pp_new_host_var" alt="" coords="303,107,427,133"/>
+<area shape="rect" id="node9" href="$esql__misc_8h.html#a2c21eaf300da5fbd77b4d686a0196404" title="pp_struct_deref" alt="" coords="309,157,421,184"/>
+<area shape="rect" id="node10" href="$esql__symbol__table_8c.html#a02e8d2412dde67a6833ce771540492cb" title="pp_clone_symbol" alt="" coords="303,208,426,235"/>
+</map>

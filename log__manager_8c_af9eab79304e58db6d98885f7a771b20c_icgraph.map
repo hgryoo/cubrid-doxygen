@@ -1,0 +1,14 @@
+<map id="log_append_compensate_internal" name="log_append_compensate_internal">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a1b9d7ef3a0e157511a172c7dc6439ca5" title="log_append_compensate" alt="" coords="220,97,387,123"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#abb91bc4aca8cb9ed6264576e8102979e" title="log_append_compensate\l_with_undo_nxlsa" alt="" coords="220,337,387,379"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#acb67bc8b4ea65512b9abfac9cb9e3a7e" title="file_rv_user_page_unmark\l_delete_logical" alt="" coords="435,5,609,47"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#a9207223dc64d4badfed6fa1237931a6a" title="log_rollback_record" alt="" coords="455,71,589,98"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a4709cc43d55b85d001d933feb62b5f9e" title="log_rv_undo_record" alt="" coords="455,122,589,149"/>
+<area shape="rect" id="node7" href="$btree_8c.html#abb588d6393e8a8038772b43021ec89bd" title="btree_key_remove_object\l_and_keep_visible_first" alt="" coords="437,173,607,215"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a09260deab4a3214bafd81f921928652d" title="btree_key_remove_delete\l_mvccid_unique" alt="" coords="437,239,607,280"/>
+<area shape="rect" id="node9" href="$btree_8c.html#aaea2357741cd759064a0ff090912d13c" title="btree_key_remove_delete\l_mvccid_non_unique" alt="" coords="437,304,607,345"/>
+<area shape="rect" id="node10" href="$btree_8c.html#a816f2cc654d827707eaf081ea702627e" title="btree_rv_log_delete\l_object" alt="" coords="455,369,589,411"/>
+<area shape="rect" id="node11" href="$btree_8c.html#a81f5f51a93b214d6fbc55104fbb0e4c8" title="btree_rv_log_insert\l_object" alt="" coords="456,435,588,476"/>
+<area shape="rect" id="node12" href="$file__manager_8c.html#ab183f0bf393b355b7d612ca70fc6bc76" title="file_tracker_item_mark\l_heap_deleted" alt="" coords="445,500,599,541"/>
+<area shape="rect" id="node13" href="$page__buffer_8h.html#a85a0865a93ee4a93b91e9719a406ad7a" title="pgbuf_rv_dealloc_undo" alt="" coords="445,566,599,593"/>
+</map>

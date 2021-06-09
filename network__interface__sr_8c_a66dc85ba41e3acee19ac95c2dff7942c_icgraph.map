@@ -1,0 +1,6 @@
+<map id="stran_server_abort_internal" name="stran_server_abort_internal">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#ad419595852b0bb42079dc94f5b2f0b5f" title="stran_server_abort" alt="" coords="418,5,549,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8c.html#a2cdbe90c0a8a9e2a7c3a5958ed7a5d77" title="stran_server_auto_commit\l_or_abort" alt="" coords="184,54,360,95"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="607,32,713,59"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="408,57,559,84"/>
+</map>

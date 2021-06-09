@@ -1,0 +1,12 @@
+<map id="file_compare_track_items" name="file_compare_track_items">
+<area shape="rect" id="node2" href="$file__manager_8h.html#abd2cf9a006d83c726b746269814ba167" title="file_rv_tracker_mark\l_heap_deleted_compensate\l_or_run_postpone" alt="" coords="185,5,369,61"/>
+<area shape="rect" id="node3" href="$file__manager_8c.html#a7b1a9360526c4418f2baa40528f180dc" title="file_tracker_apply\l_to_file" alt="" coords="215,85,339,126"/>
+<area shape="rect" id="node5" href="$file__manager_8h.html#ac14281a291626798b900e0f1536a620c" title="file_tracker_interruptable\l_iterate" alt="" coords="195,150,359,191"/>
+<area shape="rect" id="node10" href="$file__manager_8c.html#a76460db46414569db5eb3042cf269782" title="file_tracker_register\l_internal" alt="" coords="209,215,345,257"/>
+<area shape="rect" id="node11" href="$file__manager_8c.html#ad81ce9083599f88ad373b8730a9b3ac2" title="file_tracker_unregister" alt="" coords="202,281,353,308"/>
+<area shape="rect" id="node4" href="$file__manager_8h.html#aafe6309c643959bb5ec0a5b4e4f35884" title="file_rv_tracker_mark\l_heap_deleted" alt="" coords="425,41,565,82"/>
+<area shape="rect" id="node6" href="$btree_8h.html#ab34ca7ee87eabdd2180f092066db543d" title="btree_repair_prev_link" alt="" coords="420,107,569,133"/>
+<area shape="rect" id="node7" href="$btree_8h.html#af27c203a145aacd4feb9d7c85ea2dac1" title="btree_check_all" alt="" coords="438,157,551,184"/>
+<area shape="rect" id="node8" href="$file__manager_8h.html#a733ef28a45bf34b7a6a2d863527db637" title="file_tracker_check" alt="" coords="431,208,559,235"/>
+<area shape="rect" id="node9" href="$heap__file_8h.html#af800f3bfd7690fa522c15142c2486142" title="heap_check_all_heaps" alt="" coords="417,259,572,285"/>
+</map>

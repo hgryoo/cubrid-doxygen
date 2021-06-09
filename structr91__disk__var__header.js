@@ -1,0 +1,27 @@
+var structr91__disk__var__header =
+[
+    [ "boot_hfid", "structr91__disk__var__header.html#a739d49bcf9171b688fe3d996e8ea8e39", null ],
+    [ "chkpt_lsa", "structr91__disk__var__header.html#ac1720a7098e1ece1a1b98d5945c23937", null ],
+    [ "db_creation", "structr91__disk__var__header.html#abae5703d1c4e6724fb0134d00ad8adcb", null ],
+    [ "dummy", "structr91__disk__var__header.html#af88b14d8dae08d6963a2ac520961d472", null ],
+    [ "free_pages", "structr91__disk__var__header.html#a7e690fd8e83d3439056c118af093dc25", null ],
+    [ "free_sects", "structr91__disk__var__header.html#a02cb315b4637c5d891cb81d9bda15dbe", null ],
+    [ "hint_allocsect", "structr91__disk__var__header.html#a190bd9ea431b39b8ac7b75aa3b591126", null ],
+    [ "iopagesize", "structr91__disk__var__header.html#a93bd5c72ec9c0fab5266cbd6e31eb360", null ],
+    [ "magic", "structr91__disk__var__header.html#aac6b239f9a5b2502fa6bd35d95eaa5e8", null ],
+    [ "max_npages", "structr91__disk__var__header.html#af2b1f158e32b3f733e2bd6554199982f", null ],
+    [ "offset_to_next_vol_fullname", "structr91__disk__var__header.html#a8d1c3ac3e4b1b5605abf668157429b06", null ],
+    [ "offset_to_vol_fullname", "structr91__disk__var__header.html#af3b11970f0aed047b5ca8c28598ab445", null ],
+    [ "offset_to_vol_remarks", "structr91__disk__var__header.html#a201a64395131fda4a2e061a070c3da75", null ],
+    [ "page_alloctb_npages", "structr91__disk__var__header.html#ad100b36c5bdf40bb3381d7f644cd6e5d", null ],
+    [ "page_alloctb_page1", "structr91__disk__var__header.html#ab708177c152dd5b2039ff2271fcc8f22", null ],
+    [ "purpose", "structr91__disk__var__header.html#a3323d421c890400d103cb72654a3d6a4", null ],
+    [ "sect_alloctb_npages", "structr91__disk__var__header.html#a079ba911c40a47abed0bccc35deb8379", null ],
+    [ "sect_alloctb_page1", "structr91__disk__var__header.html#a561a1e3fb8c353bcbde9d849db7572c5", null ],
+    [ "sect_npgs", "structr91__disk__var__header.html#a4113f2244516a546c1d12203be550aec", null ],
+    [ "sys_lastpage", "structr91__disk__var__header.html#aa9be602f431f941b4af8637861d811bb", null ],
+    [ "total_pages", "structr91__disk__var__header.html#a42024ea72e4dc71e7d88ff538b55c206", null ],
+    [ "total_sects", "structr91__disk__var__header.html#adfc7ffe8fa61b9afbecda62d8ec26c5e", null ],
+    [ "var_fields", "structr91__disk__var__header.html#a515db0c97011773f20f3b4d2f7149fff", null ],
+    [ "volid", "structr91__disk__var__header.html#a2d57f00ce05d3f9ff11f41f1d3e43e8e", null ]
+];

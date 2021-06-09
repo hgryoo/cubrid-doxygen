@@ -1,0 +1,15 @@
+<map id="srv_handle_content_free" name="srv_handle_content_free">
+<area shape="rect" id="node2" href="$cas__handle_8h.html#aac02c2eb831b5d075319fe5e8a716a0c" title="hm_srv_handle_free" alt="" coords="227,224,366,251"/>
+<area shape="rect" id="node11" href="$cas__handle_8h.html#ac34b8fe40af81ab47f940638dad53fd5" title="hm_srv_handle_free_all" alt="" coords="217,477,376,504"/>
+<area shape="rect" id="node3" href="$cas_8c.html#a860d9ee786081f5655e997ed55d494e8" title="cas_main" alt="" coords="657,427,736,453"/>
+<area shape="rect" id="node4" href="$cas__execute_8h.html#aee0aa1d2154b6630cb99732f71ad118a" title="ux_prepare" alt="" coords="460,224,547,251"/>
+<area shape="rect" id="node5" href="$cas__function_8c.html#a635a2b29ecc1cec25b1461301ca3aab6" title="fn_prepare_internal" alt="" coords="631,275,763,301"/>
+<area shape="rect" id="node6" href="$cas__function_8h.html#a22ed562385892154a3aff3f737225809" title="fn_prepare_and_execute" alt="" coords="811,300,975,327"/>
+<area shape="rect" id="node7" href="$cas__execute_8h.html#ace4faf20b5b8b588ceb0494b846ed4f3" title="ux_schema_info" alt="" coords="445,5,562,32"/>
+<area shape="rect" id="node8" href="$cas__execute_8c.html#af824690d93baaedcca4808c911d7d4c3" title="create_srv_handle_with\l_query_result" alt="" coords="424,57,583,98"/>
+<area shape="rect" id="node9" href="$cas__function_8h.html#a51889c28c390bb596087b827372c72dc" title="fn_close_req_handle" alt="" coords="433,123,574,149"/>
+<area shape="rect" id="node10" href="$cas__function_8h.html#a86aae9afd60e21af7c964ea5752ba309" title="fn_get_query_info" alt="" coords="441,173,566,200"/>
+<area shape="rect" id="node12" href="$cas_8c.html#ac8849983c74ee222d58f8f17b887755a" title="shard_cas_main" alt="" coords="638,528,755,555"/>
+<area shape="rect" id="node13" href="$cas_8c.html#a0ba66b0db4e9fdbf12bf88f9b275b8df" title="cas_free" alt="" coords="467,528,539,555"/>
+<area shape="rect" id="node14" href="$cas__execute_8h.html#a63d4ca3dff064a9218cda900acb82ed9" title="ux_end_tran" alt="" coords="457,477,550,504"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="lockfree::bitmap::init" name="lockfree::bitmap::init">
+<area shape="rect" id="node2" href="$area__alloc_8c.html#a6168b3ea550e6ba25ec24f8d6a87503e" title="area_alloc_block" alt="" coords="209,56,327,83"/>
+<area shape="rect" id="node5" href="$lock__free_8h.html#a79590d6130db9e0e66c8b3fefb2575a0" title="lf_tran_system_init" alt="" coords="202,173,334,200"/>
+<area shape="rect" id="node10" href="$classlockfree_1_1tran_1_1system.html#a8836137a5b18063b381b40abd9ea2311" title="lockfree::tran::system\l::system" alt="" coords="193,225,343,266"/>
+<area shape="rect" id="node3" href="$area__alloc_8h.html#ad7b44600fda4067dd1c9483c49657086" title="area_alloc" alt="" coords="427,5,509,32"/>
+<area shape="rect" id="node4" href="$area__alloc_8h.html#a80912e510c5339938721d1c315c08135" title="area_create" alt="" coords="423,56,513,83"/>
+<area shape="rect" id="node6" href="$lock__free_8h.html#a2f339994fbce9ba2c1a4db4c51d3dd6d" title="lf_initialize_transaction\l_systems" alt="" coords="391,107,545,149"/>
+<area shape="rect" id="node7" href="$unittests__lf_8c.html#ad3666233ef0269833253c74bd5afe6af" title="test_freelist" alt="" coords="423,173,513,200"/>
+<area shape="rect" id="node8" href="$unittests__lf_8c.html#a51584965e82a4d955594534bafdb90df" title="test_hash_iterator" alt="" coords="405,224,531,251"/>
+<area shape="rect" id="node9" href="$unittests__lf_8c.html#abe02ffc904471c0cf091cd8569247d99" title="test_hash_table" alt="" coords="411,275,525,301"/>
+</map>

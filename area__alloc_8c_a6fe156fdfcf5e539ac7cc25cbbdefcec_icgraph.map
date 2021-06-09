@@ -1,0 +1,21 @@
+<map id="area_validate" name="area_validate">
+<area shape="rect" id="node2" href="$work__space_8h.html#ae00c004632108c023331db46667d5c61" title="ml_ext_free" alt="" coords="152,436,243,463"/>
+<area shape="rect" id="node3" href="$cas__execute_8c.html#a8d1e4125473165ac7455afd4fb1ca9d6" title="sch_trigger" alt="" coords="339,5,425,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a67baa8512943b48474edeb7b70baccf3" title="db_objlist_free" alt="" coords="329,56,435,83"/>
+<area shape="rect" id="node5" href="$db__vdb_8c.html#a15f2d145e5ea44a70019e58bff7bb5d3" title="db_get_all_chosen_classes" alt="" coords="291,107,473,133"/>
+<area shape="rect" id="node6" href="$unload__schema_8c.html#a38e5979524fc917d4975785de16b7068" title="get_ordered_classes" alt="" coords="541,247,684,273"/>
+<area shape="rect" id="node7" href="$load__sa__loader_8cpp.html#a5387a1c0372e2ba1ffb7dc7fd1cb4f68" title="clist_final" alt="" coords="343,208,421,235"/>
+<area shape="rect" id="node8" href="$authenticate_8h.html#a4769056d3bd3c7640c48eb32a71bc95a" title="au_force_write_new_auth" alt="" coords="297,259,467,285"/>
+<area shape="rect" id="node9" href="$class__object_8h.html#a145685b1468b99b25b33dff9e869a484" title="classobj_free_template" alt="" coords="304,309,460,336"/>
+<area shape="rect" id="node10" href="$class__object_8h.html#abf5d7b23110fa22e0c127521c24a735c" title="classobj_free_descriptor" alt="" coords="301,360,463,387"/>
+<area shape="rect" id="node11" href="$schema__manager_8h.html#af6b111bde96e6d852443ac2d8aeca35d" title="sm_fetch_all_classes" alt="" coords="308,411,456,437"/>
+<area shape="rect" id="node12" href="$schema__manager_8h.html#aaa2b2a5611834340c7390439b990d3d0" title="sm_fetch_all_base_classes" alt="" coords="521,436,704,463"/>
+<area shape="rect" id="node13" href="$schema__manager_8c.html#a6dba97b2ae6799b80d00882a36541411" title="sm_fetch_all_objects\l_internal" alt="" coords="540,581,685,622"/>
+<area shape="rect" id="node14" href="$trigger__manager_8c.html#a9f341ff4ec84a560c6ff82709ba8b15a" title="get_user_trigger_objects" alt="" coords="300,563,464,589"/>
+<area shape="rect" id="node15" href="$trigger__manager_8c.html#a2cf118f2ffbccb0ad6860e0e9217f939" title="find_all_triggers" alt="" coords="325,613,439,640"/>
+<area shape="rect" id="node16" href="$trigger__manager_8c.html#a900c42123e2d2bf2f7d27a7ac48e8a40" title="get_schema_trigger\l_objects" alt="" coords="545,783,681,825"/>
+<area shape="rect" id="node17" href="$trigger__manager_8h.html#a59f430d45a56d62b7da95312a3fc072b" title="tr_get_class_name" alt="" coords="316,715,448,741"/>
+<area shape="rect" id="node18" href="$virtual__object_8h.html#a5005f7cde869fb7bab3295b4b98bd9cf" title="vid_getall_mops" alt="" coords="324,664,440,691"/>
+<area shape="rect" id="node19" href="$work__space_8h.html#a894109eb08f76092e423831353df8f56" title="ml_ext_copy" alt="" coords="334,765,430,792"/>
+<area shape="rect" id="node20" href="$execute__statement_8c.html#a185dcc4d824b05dc8e9080f19c1287f1" title="merge_mop_list_extension" alt="" coords="293,867,471,893"/>
+</map>

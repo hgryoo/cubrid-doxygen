@@ -1,0 +1,7 @@
+<map id="fileio_reverse_traverse_permanent_volume" name="fileio_reverse_traverse_permanent_volume">
+<area shape="rect" id="node2" href="$file__io_8h.html#afba1ced7ce17fcbde101b6a452937541" title="fileio_find_previous\l_perm_volume" alt="" coords="207,74,340,115"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="432,5,523,32"/>
+<area shape="rect" id="node4" href="$file__io_8c.html#ac4dfbfc1389fac0209015c5392d8f9b9" title="fileio_decache" alt="" coords="425,56,530,83"/>
+<area shape="rect" id="node5" href="$file__io_8h.html#af10927c1c82f7fe8c40e2ed37b742ba8" title="fileio_restore_volume" alt="" coords="405,107,550,133"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="388,158,567,199"/>
+</map>

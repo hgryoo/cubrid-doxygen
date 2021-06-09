@@ -1,0 +1,10 @@
+<map id="src/optimizer/optimizer.h" name="src/optimizer/optimizer.h">
+<area shape="rect" id="node4" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="83,80,199,107"/>
+<area shape="rect" id="node7" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="827,80,941,107"/>
+<area shape="rect" id="node17" href="$parser_8h.html" title="parser.h" alt="" coords="340,80,409,107"/>
+<area shape="rect" id="node20" href="$release__string_8h.html" title="release_string.h" alt="" coords="1177,80,1292,107"/>
+<area shape="rect" id="node6" href="$error__code_8h.html" title="error_code.h" alt="" coords="330,229,425,256"/>
+<area shape="rect" id="node8" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="578,155,675,181"/>
+<area shape="rect" id="node10" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="1137,155,1271,181"/>
+<area shape="rect" id="node19" href="$parse__tree_8h.html" title="parse_tree.h" alt="" coords="273,155,367,181"/>
+</map>

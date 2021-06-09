@@ -1,0 +1,5 @@
+<map id="lock_reacquire_crash_locks" name="lock_reacquire_crash_locks">
+<area shape="rect" id="node2" href="$log__2pc_8h.html#abb58c7ebfb0bc583c3dea8e3244c29e0" title="log_2pc_read_prepare" alt="" coords="199,31,348,57"/>
+<area shape="rect" id="node3" href="$log__2pc_8c.html#a565e8d3bfcf88367b603b8204db503e0" title="log_2pc_recovery_prepare" alt="" coords="396,5,571,32"/>
+<area shape="rect" id="node4" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="419,56,547,83"/>
+</map>

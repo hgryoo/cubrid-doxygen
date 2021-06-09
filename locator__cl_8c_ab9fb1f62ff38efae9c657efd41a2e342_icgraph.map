@@ -1,0 +1,12 @@
+<map id="locator_find_class_by_name" name="locator_find_class_by_name">
+<area shape="rect" id="node2" href="$locator__cl_8h.html#aebaee2b164ebf9718cf8e14384f9665f" title="locator_find_class" alt="" coords="180,199,307,225"/>
+<area shape="rect" id="node10" href="$locator__cl_8h.html#a0283c0d4fc1fce979be40e05fbb81db7" title="locator_find_class\l_with_purpose" alt="" coords="180,301,307,342"/>
+<area shape="rect" id="node3" href="$compactdb__common_8c.html#a84d1380306c1ce8a2344d9d3d0dcc8a7" title="get_class_mops" alt="" coords="378,5,495,32"/>
+<area shape="rect" id="node4" href="$unloaddb_8h.html#a786ece6cb0a4da23ebdc877b144e7a41" title="get_requested_classes" alt="" coords="359,56,515,83"/>
+<area shape="rect" id="node5" href="$util__cs_8c.html#a50be983891d3650858dfbc6ad0ee6d37" title="util_get_class_oids\l_and_index_btid" alt="" coords="370,107,503,149"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#a8220aac55c87364f3addedbd980f746f" title="sm_mark_system_class" alt="" coords="355,173,519,200"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#a4d3fffd7363cb0976a2bafdec2665132" title="sm_find_class" alt="" coords="383,224,490,251"/>
+<area shape="rect" id="node8" href="$boot__cl_8c.html#a1c906d817cb0b45ca6b099228f903201" title="catcls_vclass_install" alt="" coords="365,275,508,301"/>
+<area shape="rect" id="node9" href="$log__applier_8c.html#a390461d66ad3104850cb216ea17fc356" title="la_create_repl_filter" alt="" coords="369,325,504,352"/>
+<area shape="rect" id="node11" href="$schema__manager_8h.html#a44cd52f571ec698305c0b6baf96c76d8" title="sm_find_class_with\l_purpose" alt="" coords="368,377,505,418"/>
+</map>

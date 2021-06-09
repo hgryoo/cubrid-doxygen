@@ -1,0 +1,10 @@
+<map id="css_send_data_to_server" name="css_send_data_to_server">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a7178fe265609749a89d3bf52b834ad2f" title="net_client_send_data" alt="" coords="224,195,369,222"/>
+<area shape="rect" id="node3" href="$query__method_8c.html#a18094aaa76c18974c81b3ae04c8f923c" title="method_send_eof_to\l_server" alt="" coords="424,5,567,47"/>
+<area shape="rect" id="node4" href="$query__method_8h.html#a21c4eb28047dcd187a5c81b0d8370466" title="method_send_error_to\l_server" alt="" coords="420,71,571,112"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#a2deda16a5fdfddae06f2b7cd1b0775f9" title="net_client_request\l_with_callback" alt="" coords="621,100,749,141"/>
+<area shape="rect" id="node6" href="$query__method_8c.html#a8272f2f068150136e5f539f6c522aaed" title="method_send_value_to\l_server" alt="" coords="417,188,573,229"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#a46f4d7e26967738d9c14a4559b1d3a35" title="net_client_check_log\l_header" alt="" coords="423,253,567,295"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#aeeebf969b052fdb7f1c1fd0dd0860c3a" title="net_client_logwr_send\l_end_msg" alt="" coords="420,319,571,360"/>
+<area shape="rect" id="node9" href="$network__interface__cl_8h.html#a11851604e65969550db2efc5f3fe820e" title="net_client_request\l_with_logwr_context" alt="" coords="425,384,566,425"/>
+</map>

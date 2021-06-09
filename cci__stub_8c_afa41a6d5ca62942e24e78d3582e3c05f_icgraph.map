@@ -1,0 +1,15 @@
+<map id="xoid2oidstr" name="xoid2oidstr">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#a5bc20e0de022ece2999afd2670417c94" title="api_ores_apply_update" alt="" coords="561,120,716,147"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#ac4630f71f9973378054a45a4cddb8c1f" title="api_ores_delete_row" alt="" coords="143,153,284,180"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#a6ce5d0adf9fa064833973623bb5a4046" title="api_val_cci_bind_bind" alt="" coords="139,204,288,231"/>
+<area shape="rect" id="node11" href="$cci__stub_8c.html#a7fe23bc05d8135ec88a999af0dd1357f" title="create_cci_object" alt="" coords="151,280,275,307"/>
+<area shape="rect" id="node14" href="$cci__stub_8c.html#afebeb397e771a4749dabb49b43c2b8b8" title="opool_oid_delete" alt="" coords="154,381,273,408"/>
+<area shape="rect" id="node5" href="$cci__stub_8c.html#a009614bd368c15e1a1d9ee2afe86a1fb" title="api_val_bind_param" alt="" coords="356,36,493,63"/>
+<area shape="rect" id="node6" href="$cci__stub_8c.html#ad9e1ba0e363c1c6380c699d6ee6f4d92" title="api_val_cursor_update" alt="" coords="349,87,501,113"/>
+<area shape="rect" id="node7" href="$cci__stub_8c.html#aaea086744e8e056ed1576258d0704b0e" title="get_value_from_req\l_handle" alt="" coords="357,138,493,179"/>
+<area shape="rect" id="node8" href="$cci__stub_8c.html#a95650a1fa64b1ccfe75d60acdc301d4c" title="get_value_from_tset" alt="" coords="355,204,495,231"/>
+<area shape="rect" id="node9" href="$cci__stub_8c.html#ab49a4395bd111fb9d95a3f1af07d8fb9" title="ores_apply_updatef" alt="" coords="357,255,492,281"/>
+<area shape="rect" id="node10" href="$cci__stub_8c.html#aa8064778967fe1368462eee30cd75df9" title="xcol_elem_cci_bind_mapf" alt="" coords="339,305,511,332"/>
+<area shape="rect" id="node12" href="$cci__stub_8c.html#a403f9866eb677c6d2c0b31e8301197d8" title="opool_get_object_resultset" alt="" coords="336,356,513,383"/>
+<area shape="rect" id="node13" href="$cci__stub_8c.html#a932f66574162f8bb1bbed2db87096f0a" title="opool_create" alt="" coords="591,381,687,408"/>
+</map>

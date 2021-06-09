@@ -1,0 +1,11 @@
+<map id="sm_domain_alloc" name="sm_domain_alloc">
+<area shape="rect" id="node2" href="$query__result_8c.html#a64f5349ea89750fcf058c25aa9c910fd" title="pt_get_src_domain" alt="" coords="413,5,545,32"/>
+<area shape="rect" id="node4" href="$query__result_8c.html#add5ccbdbcfdac90720d0c66f19cebf1c" title="pt_set_domain_class_list" alt="" coords="176,56,345,83"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a9bf087e9416c2c86124cab0c19569025" title="sm_domain_copy" alt="" coords="199,144,323,171"/>
+<area shape="rect" id="node3" href="$query__result_8c.html#abf306fa5ab8d1d900c8dbc19db9d158b" title="pt_fillin_type_size" alt="" coords="613,5,739,32"/>
+<area shape="rect" id="node6" href="$db__query_8c.html#a7d986a3d874708031e8801c7a0bd7e4d" title="or_unpack_query_format" alt="" coords="396,56,561,83"/>
+<area shape="rect" id="node7" href="$db__query_8h.html#af1725ea4452f98af3935c71c966e41c8" title="db_init_query_result" alt="" coords="409,107,548,133"/>
+<area shape="rect" id="node8" href="$db__query_8c.html#af8d01b0d574ae570f449c10a2a90d638" title="db_cp_query_type_helper" alt="" coords="393,157,564,184"/>
+<area shape="rect" id="node9" href="$db__query_8h.html#a8816ec16c29d6abc04f3a8a1579da6c6" title="db_cp_query_type" alt="" coords="612,183,740,209"/>
+<area shape="rect" id="node10" href="$query__result_8c.html#a79ebd3ae15ff73e5c13716937dcaf7dc" title="db_object_describe" alt="" coords="411,259,546,285"/>
+</map>

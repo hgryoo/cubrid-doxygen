@@ -1,0 +1,6 @@
+<map id="tr_drop_trigger_internal" name="tr_drop_trigger_internal">
+<area shape="rect" id="node2" href="$trigger__manager_8h.html#afa0330b36f45069776820158359e133e" title="tr_check_rollback_triggers" alt="" coords="208,5,383,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#aed70ae6c883a57725cfef43cdc03d3c1" title="tr_delete_triggers\l_for_class" alt="" coords="234,57,357,98"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#a94fe1954d05e02fb4c78f222fea68ea6" title="tr_drop_trigger" alt="" coords="243,123,348,149"/>
+<area shape="rect" id="node3" href="$transaction__cl_8h.html#a1d5ef42a794f24bbb7d41f3eaf164e8f" title="tran_abort" alt="" coords="431,5,511,32"/>
+</map>

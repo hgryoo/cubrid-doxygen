@@ -1,0 +1,6 @@
+<map id="pgbuf_allocate_thrd_holder_entry" name="pgbuf_allocate_thrd_holder_entry">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a1ad3b117720feb9f4798b6bc79cd3023" title="pgbuf_latch_bcb_upon_fix" alt="" coords="387,5,560,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a898f265a8c842eef3887bea2b932e891" title="pgbuf_latch_idle_page" alt="" coords="188,31,339,57"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#a1bf1b7b6a62392916056f3c33e414f9d" title="pgbuf_promote_read\l_latch_debug" alt="" coords="193,82,333,123"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="608,5,725,32"/>
+</map>

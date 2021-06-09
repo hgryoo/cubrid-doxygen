@@ -1,0 +1,10 @@
+<map id="btree_verify_node" name="btree_verify_node">
+<area shape="rect" id="node2" href="$btree_8c.html#a418459de2ae077f698e4c4356d7c6070" title="btree_compress_node" alt="" coords="195,5,345,32"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a777512037cd84eb5b53cc6492a81447f" title="btree_split_node" alt="" coords="425,31,543,57"/>
+<area shape="rect" id="node4" href="$btree_8c.html#ae76900aeda71256f1f0389b8977d3b86" title="btree_delete_key_from_leaf" alt="" coords="179,107,361,133"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a5af8ba4607057c98ad45f0d91b6f7160" title="btree_key_insert_new_key" alt="" coords="181,157,359,184"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a55fc6982f1020bc221d9faf6cac59ad9" title="btree_key_insert_new\l_object" alt="" coords="409,175,559,217"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a1012b26ece22db26540906ab85b6ef30" title="btree_merge_node" alt="" coords="205,259,335,285"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a7e6a2a7c52c52fd7d265d9f1c4282382" title="btree_merge_root" alt="" coords="209,309,331,336"/>
+<area shape="rect" id="node9" href="$btree_8c.html#a29dab257ee803a595192321147caa5ed" title="btree_split_root" alt="" coords="215,360,325,387"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="thread_get_sort_stats_active" name="thread_get_sort_stats_active">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a8cbce269e04ed30279485fc77e786430" title="pgbuf_claim_bcb_for_fix" alt="" coords="201,5,364,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#a6b01f06784aac39287aeb3f0f4f3f348" title="pgbuf_copy_to_area" alt="" coords="213,56,352,83"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="412,5,529,32"/>
+<area shape="rect" id="node5" href="$external__sort_8c.html#a676a1cf3b5b359286a1c1fe17ea65d40" title="sort_read_area" alt="" coords="417,56,525,83"/>
+</map>

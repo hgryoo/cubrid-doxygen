@@ -1,0 +1,10 @@
+<map id="as_inactivate" name="as_inactivate">
+<area shape="rect" id="node2" href="$broker__admin__pub_8h.html#a5a0c2bf4ce551d4490292f4ed4f1904c" title="admin_drop_cmd" alt="" coords="152,36,273,63"/>
+<area shape="rect" id="node5" href="$broker__admin__pub_8c.html#a2069352d734d14eb117b09560ade8dcd" title="br_inactivate" alt="" coords="165,137,261,164"/>
+<area shape="rect" id="node3" href="$broker__admin_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="492,137,543,164"/>
+<area shape="rect" id="node4" href="$broker__admin__so_8h.html#a2ed2f306fb3f342bfd13df1fce553287" title="uc_drop" alt="" coords="349,36,417,63"/>
+<area shape="rect" id="node6" href="$broker__admin__pub_8h.html#ad2b7e17f9a9fe16d07b20db49cea8f6b" title="admin_start_cmd" alt="" coords="321,87,444,113"/>
+<area shape="rect" id="node7" href="$broker__admin__pub_8h.html#aea3392ab9991db755b0a823eb606be60" title="admin_stop_cmd" alt="" coords="322,137,443,164"/>
+<area shape="rect" id="node8" href="$broker__admin__pub_8h.html#a21e0332265b07017b4f3211c3f455640" title="admin_on_cmd" alt="" coords="327,188,438,215"/>
+<area shape="rect" id="node9" href="$broker__admin__pub_8h.html#a14999819eaeeb81cb1aa69aef429116f" title="admin_off_cmd" alt="" coords="327,239,438,265"/>
+</map>

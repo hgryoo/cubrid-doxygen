@@ -1,0 +1,8 @@
+<map id="classobj_find_class_primary_key" name="classobj_find_class_primary_key">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#a6e3193b38abe81986f726effc5c9bdca" title="classobj_is_exist_foreign\l_key_ref" alt="" coords="189,5,357,47"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="203,71,344,112"/>
+<area shape="rect" id="node5" href="$object__accessor_8h.html#a4d79bde3f9f4c80763293e8c310c7e0f" title="obj_find_object_by_pkey" alt="" coords="191,137,356,163"/>
+<area shape="rect" id="node6" href="$log__applier__sql__log_8c.html#a7c5198b29c1139750dbb2a4997403a15" title="sl_print_pk" alt="" coords="231,187,316,214"/>
+<area shape="rect" id="node7" href="$schema__template_8c.html#a453a9bee53daaced438ced16a81bba5d" title="smt_check_foreign_key" alt="" coords="193,238,353,265"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#a3ff533d629bcff4db58f79f702510735" title="allocate_foreign_key" alt="" coords="405,13,547,39"/>
+</map>

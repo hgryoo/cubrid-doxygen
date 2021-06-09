@@ -1,0 +1,7 @@
+<map id="cubload::semantic_helper" name="cubload::semantic_helper">
+<area shape="rect" id="node2" href="$structcubload_1_1constant__type.html" title="{cubload::constant_type\n|+ val\l+ type\l|+ constant_type()\l+ constant_type()\l+ ~constant_type()\l}" alt="" coords="5,343,163,465"/>
+<area shape="rect" id="node3" href="$structcubmem_1_1extensible__block.html" title="{cubmem::extensible\l_block\n||+ extensible_block()\l+ extensible_block()\l+ extensible_block()\l+ ~extensible_block()\l+ operator=()\l+ extend_by()\l+ extend_to()\l+ freemem()\l+ get_ptr()\l+ get_read_ptr()\l+ get_size()\l+ release_ptr()\l&#45; extensible_block()\l&#45; operator=()\l}" alt="" coords="248,263,395,545"/>
+<area shape="rect" id="node4" href="$structcubmem_1_1block.html" title="{cubmem::block\n|+ dim\l+ ptr\l|+ block()\l+ block()\l+ block()\l+ operator=()\l+ is_valid()\l+ move_ptr()\l&#45; block()\l&#45; operator=()\l}" alt="" coords="185,5,295,200"/>
+<area shape="rect" id="node5" href="$structcubmem_1_1block__allocator.html" title="{cubmem::block_allocator\n|+ m_alloc_f\l+ m_dealloc_f\l|+ block_allocator()\l+ block_allocator()\l+ operator=()\l}" alt="" coords="319,42,486,163"/>
+<area shape="rect" id="node6" href="$structcubload_1_1string__type.html" title="{cubload::string_type\n|+ val\l+ size\l+ need_free_val\l|+ string_type()\l+ string_type()\l+ ~string_type()\l+ destroy()\l}" alt="" coords="419,329,557,479"/>
+</map>

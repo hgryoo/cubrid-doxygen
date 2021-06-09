@@ -1,0 +1,21 @@
+<map id="pt_append_string_for" name="pt_append_string_for">
+<area shape="rect" id="node2" href="$parser_8h.html#a60f79a00cd63cfb855940873c4eee6cd" title="pt_append_string" alt="" coords="196,436,317,463"/>
+<area shape="rect" id="node3" href="$query__graph_8c.html#acf9ef5966054a85d0d1fa0402ace0630" title="qo_insert_segment" alt="" coords="399,5,531,32"/>
+<area shape="rect" id="node4" href="$parser_8h.html#a2b415f9c0bb03589f79f54d6b0954b2c" title="pt_compile_trigger_stmt" alt="" coords="384,56,545,83"/>
+<area shape="rect" id="node5" href="$name__resolution_8c.html#a92cc6ce38b6dbfcd399d603afa197cfd" title="pt_expand_external_path" alt="" coords="613,111,780,137"/>
+<area shape="rect" id="node6" href="$parser_8h.html#a01967e01d0d9a95076dc224b53a0e62c" title="pt_resolve_star" alt="" coords="641,168,752,195"/>
+<area shape="rect" id="node7" href="$name__resolution_8c.html#ae3545436a5c6579b919c393a9e53bf4e" title="pt_resolve_vclass_args" alt="" coords="385,309,544,336"/>
+<area shape="rect" id="node8" href="$name__resolution_8c.html#a5a68e55db8fcde8cfb48a055d78d0707" title="pt_get_unique_exposed_name" alt="" coords="365,360,564,387"/>
+<area shape="rect" id="node9" href="$name__resolution_8c.html#aa623568723a8b2f5e278d67f75cb6e58" title="pt_create_pt_name" alt="" coords="398,411,531,437"/>
+<area shape="rect" id="node10" href="$name__resolution_8c.html#a8cc076465adb688d1ee19f50aea01475" title="pt_mark_pt_name" alt="" coords="401,461,528,488"/>
+<area shape="rect" id="node11" href="$parse__tree__cl_8c.html#a139770abf09a3bc9df37b8885a636bbf" title="copy_node_in_tree_pre" alt="" coords="387,512,543,539"/>
+<area shape="rect" id="node12" href="$parser_8h.html#aeccbb4aecde0d908e19a01bd1b04284a" title="pt_record_error" alt="" coords="410,563,519,589"/>
+<area shape="rect" id="node13" href="$parser_8h.html#ace360af46c8b7ee0beb178d849d22dc7" title="pt_select_list_to_one_col" alt="" coords="612,256,781,283"/>
+<area shape="rect" id="node14" href="$parser__support_8c.html#a45f09b1902e1dd01c9ec51615e3a9fe8" title="pt_name" alt="" coords="429,157,501,184"/>
+<area shape="rect" id="node15" href="$parser__support_8c.html#a81f9f3675ae56bb7000e6b46f471f47a" title="pt_record_warning" alt="" coords="401,613,529,640"/>
+<area shape="rect" id="node16" href="$parser__support_8c.html#aa34acf45de5321c5214349a879c4e84d" title="pt_get_select_from_name" alt="" coords="379,715,551,741"/>
+<area shape="rect" id="node17" href="$parser__support_8c.html#a1f55da2054234eaff15718ad19feb4a3" title="pt_get_spec_name" alt="" coords="631,689,763,716"/>
+<area shape="rect" id="node18" href="$parser__support_8c.html#a91251f6594fd341b8b8af4fefc23d2f5" title="pt_set_update_object" alt="" coords="391,765,538,792"/>
+<area shape="rect" id="node19" href="$parser__support_8c.html#a642f8fecfa60a59c2d0c963fb629c4e9" title="pt_chop_trailing_dots" alt="" coords="392,816,537,843"/>
+<area shape="rect" id="node20" href="$parser__support_8c.html#a651e8d8f61336a90be9e4fc5c0cf28ca" title="pt_create_param_for\l_value" alt="" coords="394,867,535,909"/>
+</map>

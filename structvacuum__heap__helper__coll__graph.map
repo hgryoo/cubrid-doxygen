@@ -1,0 +1,9 @@
+<map id="vacuum_heap_helper" name="vacuum_heap_helper">
+<area shape="rect" id="node2" href="$structrecdes.html" title="{recdes\n|+ area_size\l+ length\l+ type\l+ data\l|}" alt="" coords="5,314,96,435"/>
+<area shape="rect" id="node3" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="137,329,209,421"/>
+<area shape="rect" id="node4" href="$structmvcc__rec__header.html" title="{mvcc_rec_header\n|+ mvcc_flag\l+ repid\l+ chn\l+ mvcc_ins_id\l+ mvcc_del_id\l|}" alt="" coords="233,307,359,443"/>
+<area shape="rect" id="node5" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="243,5,349,244"/>
+<area shape="rect" id="node6" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="383,321,475,428"/>
+<area shape="rect" id="node7" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="638,336,703,413"/>
+<area shape="rect" id="node8" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="540,79,601,171"/>
+</map>

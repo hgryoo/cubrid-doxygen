@@ -1,0 +1,5 @@
+<map id="vacuum_data_entry::set_job_in_progress" name="vacuum_data_entry::set_job_in_progress">
+<area shape="rect" id="node2" href="$classvacuum__job__cursor.html#a46c8539ef4fd7bc864964cc44db7f9e1" title="vacuum_job_cursor::\lstart_job_on_current_entry" alt="" coords="197,5,373,47"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#a0985ef0e8ea5f0590bf65f7303850a87" title="vacuum_rv_redo_start_job" alt="" coords="198,71,373,98"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="421,13,496,39"/>
+</map>

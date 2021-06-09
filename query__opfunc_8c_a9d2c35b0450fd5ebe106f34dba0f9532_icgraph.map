@@ -1,0 +1,8 @@
+<map id="qdata_subtract_utime" name="qdata_subtract_utime">
+<area shape="rect" id="node2" href="$query__opfunc_8c.html#a65d7000c3cc0a4ebd636845b24ce23c5" title="qdata_subtract_bigint\l_to_dbval" alt="" coords="200,68,347,109"/>
+<area shape="rect" id="node6" href="$query__opfunc_8c.html#a8b1212fea096969a5d5d83b053f1f335" title="qdata_subtract_timestamptz\l_to_dbval" alt="" coords="395,156,581,197"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#a08b59c02ec2f3e51e8200e2b6a60796f" title="qdata_subtract_utime\l_to_dbval" alt="" coords="629,214,776,256"/>
+<area shape="rect" id="node3" href="$query__opfunc_8h.html#a994c370cfc8c103ea406a53ab82a0bf0" title="qdata_subtract_dbval" alt="" coords="824,104,971,131"/>
+<area shape="rect" id="node4" href="$query__opfunc_8c.html#a95fbc5c896c0a2fddecf0f05fa9537d8" title="qdata_subtract_int\l_to_dbval" alt="" coords="423,38,553,80"/>
+<area shape="rect" id="node5" href="$query__opfunc_8c.html#a47a041a32718054b3f5ba2bcea214433" title="qdata_subtract_short\l_to_dbval" alt="" coords="631,97,775,138"/>
+</map>

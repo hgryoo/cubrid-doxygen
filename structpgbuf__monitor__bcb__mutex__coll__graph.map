@@ -1,0 +1,6 @@
+<map id="pgbuf_monitor_bcb_mutex" name="pgbuf_monitor_bcb_mutex">
+<area shape="rect" id="node2" href="$structpgbuf__bcb.html" title="{pgbuf_bcb\n|+ fcnt\l+ latch_mode\l+ flags\l+ tick_lru_list\l+ tick_lru3\l+ count_fix_and_avoid\l_dealloc\l+ hit_age\l|}" alt="" coords="133,307,287,487"/>
+<area shape="rect" id="node4" href="$structpgbuf__iopage__buffer.html" title="{pgbuf_iopage_buffer\n||}" alt="" coords="205,571,343,649"/>
+<area shape="rect" id="node3" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="118,79,190,171"/>
+<area shape="rect" id="node5" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="215,5,320,244"/>
+</map>

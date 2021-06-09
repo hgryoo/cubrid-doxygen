@@ -1,0 +1,7 @@
+<map id="session_free_prepared_statement" name="session_free_prepared_statement">
+<area shape="rect" id="node2" href="$session_8h.html#a1eb0d56a9ae045a550e3fc5f951cc4ad" title="session_create_prepared\l_statement" alt="" coords="207,5,373,47"/>
+<area shape="rect" id="node4" href="$session_8h.html#abf878206de625fb32c5656cc01773b5f" title="session_delete_prepared\l_statement" alt="" coords="207,71,373,112"/>
+<area shape="rect" id="node6" href="$session_8c.html#a2b7195f4d807a71e7290871accba1d81" title="session_state_uninit" alt="" coords="219,137,361,163"/>
+<area shape="rect" id="node3" href="$session__sr_8c.html#af8e965c59f0d728635c2dd3418f8f5fb" title="xsession_create_prepared\l_statement" alt="" coords="421,5,596,47"/>
+<area shape="rect" id="node5" href="$session__sr_8c.html#ae483773b2d305385631decbfa08e7e76" title="xsession_delete_prepared\l_statement" alt="" coords="422,71,595,112"/>
+</map>

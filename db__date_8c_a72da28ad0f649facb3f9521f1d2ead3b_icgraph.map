@@ -1,0 +1,13 @@
+<map id="get_current_year" name="get_current_year">
+<area shape="rect" id="node2" href="$db__date_8c.html#a3f712065322ded6f92d577d1b6fd3848" title="parse_date" alt="" coords="218,107,305,133"/>
+<area shape="rect" id="node7" href="$db__date_8c.html#a1aee5a51ae7ebc70aaa43d6a70472288" title="parse_date_separated" alt="" coords="186,299,337,325"/>
+<area shape="rect" id="node11" href="$db__date_8c.html#ad9cac9cbcbb66b11113428625cc7ef10" title="parse_explicit_mtime\l_compact" alt="" coords="189,222,334,263"/>
+<area shape="rect" id="node12" href="$db__date_8c.html#a89f205d63844fa8be872f84663e50dd0" title="parse_timestamp_compact" alt="" coords="172,375,351,401"/>
+<area shape="rect" id="node3" href="$db__date_8c.html#a2c8436c9bf404b1e0dbe867cc222b0a4" title="parse_for_timestamp" alt="" coords="425,56,569,83"/>
+<area shape="rect" id="node4" href="$db__date_8c.html#aff1cb1770513b65c52cdb3e08810171e" title="parse_datetime" alt="" coords="442,107,553,133"/>
+<area shape="rect" id="node5" href="$db__date_8h.html#a1272e41b346dcb988f492fa3c50ce5cc" title="db_string_check_explicit_date" alt="" coords="399,157,596,184"/>
+<area shape="rect" id="node6" href="$db__date_8h.html#ae64936dcd011778885729312b7db7be1" title="db_string_to_date_ex" alt="" coords="424,5,571,32"/>
+<area shape="rect" id="node8" href="$db__date_8c.html#ad73a1c6d74473d32c6f3e1f28f2a73e3" title="parse_timedate_separated" alt="" coords="410,309,585,336"/>
+<area shape="rect" id="node9" href="$db__date_8h.html#a3343f82a566270aaf12ccce9d5a06176" title="db_date_parse_time" alt="" coords="657,259,795,285"/>
+<area shape="rect" id="node10" href="$db__date_8h.html#acbe91b679ba2c8bbae6328d24464e594" title="db_date_parse_datetime\l_parts" alt="" coords="644,353,808,394"/>
+</map>

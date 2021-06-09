@@ -1,0 +1,21 @@
+<map id="prm_get_master_port_id" name="prm_get_master_port_id">
+<area shape="rect" id="node2" href="$util__service_8c.html#aed501613b4ef9669fc9b1e2fbb86857c" title="check_all_services\l_status" alt="" coords="475,122,608,163"/>
+<area shape="rect" id="node4" href="$util__service_8c.html#ae26a357e0abbd122e7a3e6cb8eb32cd0" title="process_service" alt="" coords="888,154,1005,181"/>
+<area shape="rect" id="node6" href="$broker_8c.html#abb8c4e39a56d807df5469d5d88c9b73e" title="connect_to_master_for\l_server_monitor" alt="" coords="237,358,391,399"/>
+<area shape="rect" id="node8" href="$tcp_8h.html#a937f3aa03d280e6fbfcff766378c3cad" title="css_get_master_domain_path" alt="" coords="216,424,412,450"/>
+<area shape="rect" id="node10" href="$heartbeat_8c.html#a4e028ec59dd614d71e4b6bd53c4c04f1" title="hb_connect_to_master" alt="" coords="237,474,391,501"/>
+<area shape="rect" id="node11" href="$util__service_8c.html#a7079d7863421c1ad53146f5d85e1d213" title="is_server_running" alt="" coords="252,154,376,181"/>
+<area shape="rect" id="node12" href="$util__service_8c.html#a1c65dc6858c8c7b9cf9146a3e618df7b" title="process_server" alt="" coords="486,205,597,232"/>
+<area shape="rect" id="node13" href="$master__util_8h.html#a38df842d9a53642bdd5c7f3db7f18e81" title="master_util_config\l_startup" alt="" coords="250,526,378,567"/>
+<area shape="rect" id="node14" href="$util__service_8c.html#a94b36ce0d66d201dd64b2bfead04166f" title="process_heartbeat_deregister" alt="" coords="217,592,411,618"/>
+<area shape="rect" id="node15" href="$util__service_8c.html#ae5f4c15b4aee78ceb71e031be0fd81a6" title="process_heartbeat_reload" alt="" coords="229,642,399,669"/>
+<area shape="rect" id="node16" href="$util__service_8c.html#aacb64393ad82784e02a9a7bc1c3fbf6f" title="process_heartbeat_replication" alt="" coords="217,693,411,720"/>
+<area shape="rect" id="node17" href="$util__service_8c.html#a4d372c6d302a9107f320db64b66fad4f" title="process_heartbeat_start" alt="" coords="460,306,623,333"/>
+<area shape="rect" id="node18" href="$util__service_8c.html#ab3fe9627df09451d685ed5df9c0509d3" title="process_heartbeat_status" alt="" coords="228,744,400,770"/>
+<area shape="rect" id="node19" href="$util__service_8c.html#ab0b1337fcf9e1cc6d6ba925d94583e0a" title="process_heartbeat_stop" alt="" coords="233,794,395,821"/>
+<area shape="rect" id="node20" href="$util__service_8c.html#a9ca350fe9160440f4be52982fc5bfe16" title="process_master" alt="" coords="257,256,371,282"/>
+<area shape="rect" id="node3" href="$util__service_8c.html#abf5b167075fcb42cf84a3ee1ab34ad09" title="are_all_services_running" alt="" coords="673,104,838,130"/>
+<area shape="rect" id="node5" href="$util__service_8c.html#a82347ae2dbb2e82d37e4ca590400f336" title="are_all_services_stopped" alt="" coords="671,154,840,181"/>
+<area shape="rect" id="node7" href="$broker_8c.html#a3c0fea810f127a7d3ea21e966b62d951" title="server_monitor_thr_f" alt="" coords="471,365,612,392"/>
+<area shape="rect" id="node9" href="$tcp_8c.html#affdd4950b49d08ab251a72b23b774da3" title="css_sockaddr" alt="" coords="490,424,593,450"/>
+</map>

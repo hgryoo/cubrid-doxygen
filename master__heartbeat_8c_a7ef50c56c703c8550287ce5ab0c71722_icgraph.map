@@ -1,0 +1,6 @@
+<map id="hb_thread_check_disk_failure" name="hb_thread_check_disk_failure">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#a445bfec33e06f7d759c35d6704382524" title="hb_thread_initialize" alt="" coords="605,34,739,61"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#aa39ce75bf6ca2ea860453562a95b00ca" title="hb_thread_resource\l_worker" alt="" coords="205,35,341,76"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8h.html#ad3854f3310ba585c385d71a4c1616b09" title="hb_master_init" alt="" coords="787,34,893,61"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#a001ab4383bc49a72a06eff3e87a5a056" title="hb_thread_cluster_reader" alt="" coords="389,85,557,111"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="ws_clear_hints" name="ws_clear_hints">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#ad22e88534246991be186e6d3121cbd7c" title="tr_drop_trigger_internal" alt="" coords="175,68,329,95"/>
+<area shape="rect" id="node6" href="$work__space_8h.html#a8b81b7a90bfd1cfb54ba372e8a73fd4d" title="ws_abort_mops" alt="" coords="195,148,309,175"/>
+<area shape="rect" id="node7" href="$work__space_8h.html#ac35b94dc2323a312912a509bbbed4f51" title="ws_clear_all_hints" alt="" coords="187,199,317,225"/>
+<area shape="rect" id="node11" href="$work__space_8h.html#a5df665c9ad8833dfdab8c2ea6bbaab97" title="ws_decache_allxlockmops\l_but_norealclasses" alt="" coords="163,250,341,291"/>
+<area shape="rect" id="node3" href="$trigger__manager_8h.html#afa0330b36f45069776820158359e133e" title="tr_check_rollback_triggers" alt="" coords="398,5,573,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#aed70ae6c883a57725cfef43cdc03d3c1" title="tr_delete_triggers\l_for_class" alt="" coords="424,57,547,98"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#a94fe1954d05e02fb4c78f222fea68ea6" title="tr_drop_trigger" alt="" coords="433,123,538,149"/>
+<area shape="rect" id="node8" href="$transaction__cl_8h.html#a7bfba1482cf01aa4a926674145c7e29e" title="tran_2pc_prepare" alt="" coords="424,173,547,200"/>
+<area shape="rect" id="node9" href="$transaction__cl_8h.html#a351fb6b676910a2ef50a2bf03980e724" title="tran_2pc_prepare_global_tran" alt="" coords="389,224,581,251"/>
+<area shape="rect" id="node10" href="$transaction__cl_8h.html#a901b4a89a27aa3bc5c8ffdcc1f9e3150" title="tran_commit" alt="" coords="438,275,533,301"/>
+</map>

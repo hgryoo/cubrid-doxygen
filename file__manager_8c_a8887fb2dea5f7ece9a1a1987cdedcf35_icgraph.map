@@ -1,0 +1,19 @@
+<map id="file_header_update_mark_deleted" name="file_header_update_mark_deleted">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a67263eaf010a14799dbb1527f9a1327d" title="file_dealloc" alt="" coords="218,405,305,432"/>
+<area shape="rect" id="node18" href="$file__manager_8c.html#af5423ddf6eaedabd0060fb5adbf411ee" title="file_rv_dealloc_internal" alt="" coords="184,456,339,483"/>
+<area shape="rect" id="node3" href="$vacuum_8c.html#afe49168ac33babb418958578cae1bcbf" title="vacuum_data_empty_page" alt="" coords="390,5,569,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#acea286eb82079783f298baa39d4cd373" title="btree_merge_node_and\l_advance" alt="" coords="401,57,558,98"/>
+<area shape="rect" id="node5" href="$btree_8c.html#ad196d2d5820bbc8c1390888d77b242ef" title="btree_overflow_remove\l_object" alt="" coords="401,122,558,163"/>
+<area shape="rect" id="node6" href="$extendible__hash_8c.html#a7364e0e8eda0562a7361ff12b60c6104" title="ehash_split_bucket" alt="" coords="412,188,547,215"/>
+<area shape="rect" id="node7" href="$extendible__hash_8c.html#a1c8176aed6a50a9ef5f8133c6c80a346" title="ehash_merge" alt="" coords="429,239,529,265"/>
+<area shape="rect" id="node8" href="$file__manager_8h.html#a42d4817a95b17e8b770bdd592e026db8" title="file_numerable_truncate" alt="" coords="399,289,559,316"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#ad81ce9083599f88ad373b8730a9b3ac2" title="file_tracker_unregister" alt="" coords="404,340,555,367"/>
+<area shape="rect" id="node10" href="$file__manager_8h.html#abd2cf9a006d83c726b746269814ba167" title="file_rv_tracker_mark\l_heap_deleted_compensate\l_or_run_postpone" alt="" coords="387,391,571,447"/>
+<area shape="rect" id="node11" href="$heap__file_8c.html#abd325e5117742a611e53e81b0a6efe82" title="heap_vpid_remove" alt="" coords="414,471,545,497"/>
+<area shape="rect" id="node12" href="$heap__file_8h.html#a28f6fc3308f6b6f0fb71222f8f5aa1a8" title="heap_remove_page_on\l_vacuum" alt="" coords="401,522,557,563"/>
+<area shape="rect" id="node13" href="$overflow__file_8h.html#acf0a82fadbaf6ca25f85cc615c5ceb1a" title="overflow_update" alt="" coords="421,588,538,615"/>
+<area shape="rect" id="node14" href="$overflow__file_8c.html#a22df95709a9131b9c08b0853d5ab21f3" title="overflow_delete_internal" alt="" coords="398,639,561,665"/>
+<area shape="rect" id="node15" href="$system__catalog_8c.html#a5788fcf5257fd1c11a183bb9d16a8a40" title="catalog_drop_representation\l_helper" alt="" coords="387,690,572,731"/>
+<area shape="rect" id="node16" href="$system__catalog_8h.html#a8573879ea5efec96a7e338d4ed127600" title="catalog_reclaim_space" alt="" coords="402,756,557,783"/>
+<area shape="rect" id="node17" href="$system__catalog_8h.html#a0204c6c4fe9d0e50750d42353437b7cf" title="catalog_rv_ovf_page\l_logical_insert_undo" alt="" coords="408,807,551,849"/>
+</map>

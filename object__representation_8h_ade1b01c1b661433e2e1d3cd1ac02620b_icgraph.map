@@ -1,0 +1,21 @@
+<map id="or_get_short" name="or_get_short">
+<area shape="rect" id="node2" href="$btree_8c.html#a1e3d75d2f39b14e2566348ee30e95a58" title="btree_delete_overflow_key" alt="" coords="163,31,341,57"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a5af8ba4607057c98ad45f0d91b6f7160" title="btree_key_insert_new_key" alt="" coords="163,81,341,108"/>
+<area shape="rect" id="node7" href="$btree_8c.html#aeecef0266a645e4069aa7e649e28703f" title="btree_leaf_get_vpid\l_for_overflow_oids" alt="" coords="185,133,319,174"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a6e0463c5abbbbcd6203fe9f45a06fb9b" title="btree_read_record_without\l_decompression" alt="" coords="408,177,583,218"/>
+<area shape="rect" id="node9" href="$btree_8c.html#a40fcbcc8bf6a5494bf24c2448b65cbe1" title="btree_read_fixed_portion\l_of_non_leaf_record_from_orbuf" alt="" coords="148,250,356,291"/>
+<area shape="rect" id="node10" href="$log__recovery_8c.html#a714f5a0c8ca696520eb1cf8b1b706d96" title="log_rv_undoredo_partial\l_changes_recursive" alt="" coords="173,315,331,357"/>
+<area shape="rect" id="node12" href="$object__primitive_8c.html#a97f5ffd529ab6145433a51f450d49de3" title="mr_data_readmem_enumeration" alt="" coords="148,381,356,408"/>
+<area shape="rect" id="node14" href="$object__primitive_8c.html#ac5e574473b9779274d2e59acee4f74a5" title="mr_data_readmem_short" alt="" coords="169,432,335,459"/>
+<area shape="rect" id="node15" href="$object__primitive_8c.html#aaf898aaa67e4e1bc11549dc6ffa6b80d" title="mr_data_readval_enumeration" alt="" coords="154,483,350,509"/>
+<area shape="rect" id="node16" href="$object__primitive_8c.html#a9a62a4549ae0e732789091cffaf887e1" title="mr_data_readval_short" alt="" coords="175,533,329,560"/>
+<area shape="rect" id="node17" href="$object__representation_8c.html#aafd94f545fbefa2e4024531b98b3394c" title="or_get_offset_internal" alt="" coords="179,584,325,611"/>
+<area shape="rect" id="node3" href="$btree_8c.html#ae76900aeda71256f1f0389b8977d3b86" title="btree_delete_key_from_leaf" alt="" coords="404,5,587,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#ada7a268ad5aa96c1b9011b9db1f2a717" title="btree_delete_meta_record" alt="" coords="409,56,581,83"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a1012b26ece22db26540906ab85b6ef30" title="btree_merge_node" alt="" coords="635,140,764,167"/>
+<area shape="rect" id="node11" href="$log__recovery_8c.html#ab58608b3311d02710479684964e3d417" title="log_rv_undoredo_record\l_partial_changes" alt="" coords="415,315,575,357"/>
+<area shape="rect" id="node13" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="425,446,565,487"/>
+<area shape="rect" id="node18" href="$load__object_8c.html#a7f25f6cc92cc5e6353f3dc5cee0ca13a" title="get_desc_current" alt="" coords="434,533,557,560"/>
+<area shape="rect" id="node19" href="$load__object_8c.html#ade6fa5893ed9950c176a2a0d4f4409aa" title="get_desc_old" alt="" coords="446,584,545,611"/>
+<area shape="rect" id="node20" href="$object__representation_8c.html#a2d4b39cd937ff568cfb10b039504d35c" title="or_get_offset" alt="" coords="446,635,545,661"/>
+</map>

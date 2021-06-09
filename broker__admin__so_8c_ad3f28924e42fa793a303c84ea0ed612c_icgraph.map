@@ -1,0 +1,9 @@
+<map id="admin_log_write" name="admin_log_write">
+<area shape="rect" id="node2" href="$broker__admin__so_8h.html#a3bbf7c9e6e9b48bace56c4e0704d1563" title="uc_add" alt="" coords="177,5,241,32"/>
+<area shape="rect" id="node3" href="$broker__admin__so_8h.html#a2ed2f306fb3f342bfd13df1fce553287" title="uc_drop" alt="" coords="175,56,243,83"/>
+<area shape="rect" id="node4" href="$broker__admin__so_8h.html#a4d672b8a19b59795b8378a4854782050" title="uc_off" alt="" coords="180,107,239,133"/>
+<area shape="rect" id="node5" href="$broker__admin__so_8h.html#a6c80b8cfc0cb9e9115e9050aaa233c57" title="uc_on" alt="" coords="181,157,238,184"/>
+<area shape="rect" id="node6" href="$broker__admin__so_8h.html#a0015af9eb547779a9d722f03ec278391" title="uc_restart" alt="" coords="169,208,249,235"/>
+<area shape="rect" id="node7" href="$broker__admin__so_8h.html#ac361a945adcacad1ba7294ff3f7700d9" title="uc_start" alt="" coords="175,259,244,285"/>
+<area shape="rect" id="node8" href="$broker__admin__so_8h.html#a7afad58d060fdba2a70dfa29e974e571" title="uc_stop" alt="" coords="175,309,243,336"/>
+</map>

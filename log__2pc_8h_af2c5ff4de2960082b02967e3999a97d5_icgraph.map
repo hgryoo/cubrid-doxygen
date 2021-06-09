@@ -1,0 +1,6 @@
+<map id="log_2pc_send_abort_decision" name="log_2pc_send_abort_decision">
+<area shape="rect" id="node2" href="$log__2pc_8c.html#a8f0d3e711958d90183e5813a073b4696" title="log_2pc_commit_second\l_phase" alt="" coords="196,5,363,47"/>
+<area shape="rect" id="node4" href="$log__2pc_8c.html#acf5f3bbe0b21f92332c8b664cd39e251" title="log_2pc_recovery_abort\l_decision" alt="" coords="199,71,359,112"/>
+<area shape="rect" id="node5" href="$log__2pc_8c.html#a7d6a6b9fe0b6a28683b065fdc629f7da" title="log_2pc_recovery_aborted\l_informing_participants" alt="" coords="192,136,367,177"/>
+<area shape="rect" id="node3" href="$log__2pc_8h.html#a401f2de61a2ae044dc3c206240f812b0" title="log_2pc_commit" alt="" coords="415,13,532,39"/>
+</map>

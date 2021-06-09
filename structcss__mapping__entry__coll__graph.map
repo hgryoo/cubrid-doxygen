@@ -1,0 +1,4 @@
+<map id="css_mapping_entry" name="css_mapping_entry">
+<area shape="rect" id="node2" href="$structcss__conn__entry.html" title="{css_conn_entry\n|+ fd\l+ request_id\l+ status\l+ invalidate_snapshot\l+ client_id\l+ db_error\l+ in_transaction\l+ reset_on_commit\l+ file\l+ cnxn\l+ session_id\l+ transaction_id\l|}" alt="" coords="5,307,155,545"/>
+<area shape="rect" id="node3" href="$structcss__queue__entry.html" title="{css_queue_entry\n|+ buffer\l+ key\l+ size\l+ rc\l+ transaction_id\l+ invalidate_snapshot\l+ db_error\l+ lock\l|}" alt="" coords="5,5,155,185"/>
+</map>

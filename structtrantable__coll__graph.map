@@ -1,0 +1,4 @@
+<map id="trantable" name="trantable">
+<area shape="rect" id="node2" href="$structlog__addr__tdesarea.html" title="{log_addr_tdesarea\n||}" alt="" coords="137,571,265,648"/>
+<area shape="rect" id="node3" href="$structlog__tdes.html" title="{log_tdes\n|+ tran_index\l+ trid\l+ isloose_end\l+ state\l+ isolation\l+ wait_msecs\l+ client_id\l+ gtrid\l+ num_unique_btrees\l+ max_unique_btrees\l+ interrupt\l+ num_transient_classnames\l+ num_repl_records\l+ cur_repl_record\l+ append_repl_recidx\l+ fl_mark_repl_recidx\l+ repl_records\l+ first_save_entry\l+ suppress_replication\l+ query_timeout\l+ query_start_time\l+ tran_start_time\l+ disable_modifications\l+ tran_abort_reason\l+ num_exec_queries\l+ num_log_records_written\l+ has_deadlock_priority\l+ block_global_oldest\l_active_until_commit\l+ is_user_active\l|}" alt="" coords="5,5,199,508"/>
+</map>

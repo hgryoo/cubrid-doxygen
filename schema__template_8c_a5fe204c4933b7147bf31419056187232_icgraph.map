@@ -1,0 +1,5 @@
+<map id="smt_drop_constraint_from_property" name="smt_drop_constraint_from_property">
+<area shape="rect" id="node2" href="$schema__template_8h.html#a729f3cf206dcd5a087846dc7bc4d552a" title="smt_drop_constraint" alt="" coords="193,31,333,57"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a694521513fe9f708721fd6a819ec063e" title="dbt_drop_constraint" alt="" coords="381,5,517,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#abd1979a808b3a290e4e35b3f3bf039e0" title="sm_drop_constraint" alt="" coords="381,56,517,83"/>
+</map>

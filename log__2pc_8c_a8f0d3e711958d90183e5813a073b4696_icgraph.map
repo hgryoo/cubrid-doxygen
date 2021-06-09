@@ -1,0 +1,6 @@
+<map id="log_2pc_commit_second_phase" name="log_2pc_commit_second_phase">
+<area shape="rect" id="node2" href="$log__2pc_8h.html#a401f2de61a2ae044dc3c206240f812b0" title="log_2pc_commit" alt="" coords="220,56,337,83"/>
+<area shape="rect" id="node3" href="$log__2pc_8h.html#a6ae2e71f9ebb8789390c01087bb8e947" title="log_2pc_prepare_global_tran" alt="" coords="385,5,572,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a390852f8765cd90576d47d02ef0d10b6" title="log_commit" alt="" coords="434,56,523,83"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="441,107,516,133"/>
+</map>

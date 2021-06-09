@@ -1,0 +1,13 @@
+<map id="db_json_value_wrap_as_array" name="db_json_value_wrap_as_array">
+<area shape="rect" id="node2" href="$db__json_8cpp.html#a18000ce7211c6e14e2257f3af1ddeffc" title="db_json_array_append_func" alt="" coords="193,22,377,49"/>
+<area shape="rect" id="node4" href="$db__json_8cpp.html#ad467b0886dbb7dd1e7ec82530ce4faeb" title="db_json_array_insert_func" alt="" coords="198,82,373,109"/>
+<area shape="rect" id="node6" href="$db__json_8cpp.html#aa2908c35a7123686c657aef684cda6db" title="db_json_insert_func" alt="" coords="216,137,355,163"/>
+<area shape="rect" id="node8" href="$db__json_8cpp.html#adbce10b70befb86d9bbcec36ad3868f0" title="db_json_merge_preserve\l_values" alt="" coords="202,200,369,241"/>
+<area shape="rect" id="node11" href="$db__json_8cpp.html#aec2de95a1636d698076c0e1782b50493" title="db_json_set_func" alt="" coords="223,291,347,318"/>
+<area shape="rect" id="node3" href="$arithmetic_8h.html#ab0934308cbf5ad9e2c6d5dcb70f9049e" title="db_evaluate_json_array\l_append" alt="" coords="445,5,604,47"/>
+<area shape="rect" id="node5" href="$arithmetic_8h.html#a9af1a166a342d2e992cae86c69a68c39" title="db_evaluate_json_array\l_insert" alt="" coords="445,71,604,112"/>
+<area shape="rect" id="node7" href="$arithmetic_8h.html#a3ae9cd1e0fa8addd77aab2929d9bc1f4" title="db_evaluate_json_insert" alt="" coords="443,137,606,163"/>
+<area shape="rect" id="node9" href="$db__json_8cpp.html#a4541b409341bd425d20f6bd3d15f7972" title="db_json_merge_preserve_func" alt="" coords="425,187,624,214"/>
+<area shape="rect" id="node10" href="$db__json_8cpp.html#ac053c78d576cfc723100131207d059c4" title="db_json_merge_two_json\l_objects_preserve" alt="" coords="440,239,609,280"/>
+<area shape="rect" id="node12" href="$arithmetic_8h.html#a03b2fc6c423f30ea11d8e7fc4ade194f" title="db_evaluate_json_set" alt="" coords="451,305,599,331"/>
+</map>

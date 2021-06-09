@@ -1,0 +1,21 @@
+<map id="indx_scan_id" name="indx_scan_id">
+<area shape="rect" id="node13" href="$structbtree__scan.html" title="{btree_scan\n|+ read_uncommitted\l+ P_page\l+ C_page\l+ O_page\l+ slot_id\l+ oid_pos\l+ clear_cur_key\l+ use_desc_index\l+ restart_scan\l+ read_keys\l+ qualified_keys\l+ common_prefix\l+ key_range_max_value\l_equal\l+ lock_mode\l+ need_to_check_null\l+ node_type\l+ offset\l+ key_status\l+ end_scan\l+ end_one_iteration\l+ is_interrupted\l+ is_key_partially_processed\l+ n_oids_read\l+ n_oids_read_last_iteration\l+ key_limit_lower\l+ key_limit_upper\l+ is_btid_int_valid\l+ is_scan_started\l+ force_restart_from_root\l+ time_track\l+ bts_other\l|}" alt="" coords="901,1487,1092,2019"/>
+<area shape="rect" id="node2" href="$structindx__cov.html" title="{indx_cov\n|+ query_id\l+ max_tuples\l+ func_index_col_id\l|}" alt="" coords="1342,774,1481,881"/>
+<area shape="rect" id="node3" href="$structval__descr.html" title="{val_descr\n|+ dbval_cnt\l+ sys_epochtime\l+ lrand\l+ drand\l|}" alt="" coords="1714,410,1837,531"/>
+<area shape="rect" id="node4" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="1869,189,1967,267"/>
+<area shape="rect" id="node18" href="$structkey__val__range.html" title="{key_val_range\n|+ range\l+ is_truncated\l+ num_index_term\l|}" alt="" coords="1934,577,2065,684"/>
+<area shape="rect" id="node5" href="$structqfile__list__scan__id.html" title="{qfile_list_scan_id\n|+ status\l+ position\l+ curr_pgptr\l+ curr_tpl\l+ keep_page_on_finish\l+ curr_offset\l+ curr_tplno\l|}" alt="" coords="1483,388,1639,553"/>
+<area shape="rect" id="node6" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="1486,145,1635,311"/>
+<area shape="rect" id="node7" href="$structqfile__tuple__value__type__list.html" title="{qfile_tuple_value_type_list\n|+ type_cnt\l|}" alt="" coords="1540,5,1715,83"/>
+<area shape="rect" id="node8" href="$structvalptr__list__node.html" title="{valptr_list_node\n|+ valptr_cnt\l|+ valptr_list_node()\l}" alt="" coords="1230,432,1363,509"/>
+<area shape="rect" id="node9" href="$structregu__variable__list__node.html" title="{regu_variable_list_node\n||}" alt="" coords="1011,189,1169,267"/>
+<area shape="rect" id="node17" href="$structscan__pred.html" title="{scan_pred\n||}" alt="" coords="942,592,1025,669"/>
+<area shape="rect" id="node10" href="$structheap__scancache.html" title="{heap_scancache\n|+ debug_initpattern\l+ page_latch\l+ cache_last_fix_page\l+ num_btids\l+ file_type\l|+ start_area()\l+ end_area()\l+ reserve_area()\l+ assign_recdes_to_area()\l+ is_recdes_assigned\l_to_area()\l+ get_area_block_allocator()\l&#45; alloc_area()\l}" alt="" coords="1910,708,2097,947"/>
+<area shape="rect" id="node11" href="$structbtree__iscan__oid__list.html" title="{btree_iscan_oid_list\n|+ oid_cnt\l+ max_oid_cnt\l+ capacity\l|}" alt="" coords="49,774,187,881"/>
+<area shape="rect" id="node12" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="327,417,419,524"/>
+<area shape="rect" id="node15" href="$structindx__info.html" title="{indx_info\n|+ coverage\l+ range_type\l+ orderby_desc\l+ groupby_desc\l+ use_desc_index\l+ orderby_skip\l+ groupby_skip\l+ use_iss\l+ func_idx_col_id\l+ ils_prefix_len\l|}" alt="" coords="655,723,783,932"/>
+<area shape="rect" id="node14" href="$structmulti__range__opt.html" title="{multi_range_opt\n|+ use\l+ has_null_domain\l+ cnt\l+ size\l+ num_attrs\l+ is_desc_order\l+ sort_att_idx\l|}" alt="" coords="297,745,427,910"/>
+<area shape="rect" id="node16" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="565,789,631,866"/>
+<area shape="rect" id="node19" href="$structindex__skip__scan.html" title="{index_skip_scan\n|+ use\l+ current_op\l|}" alt="" coords="808,781,927,873"/>
+<area shape="rect" id="node20" href="$structscan__attrs.html" title="{scan_attrs\n|+ attr_ids\l+ num_attrs\l|}" alt="" coords="951,781,1043,873"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="btree_key_find_and_insert_delete_mvccid" name="btree_key_find_and_insert_delete_mvccid">
+<area shape="rect" id="node2" href="$btree_8c.html#a47ec7c5cf4f83c21beeef6944fab8d27" title="btree_insert_internal" alt="" coords="205,81,344,108"/>
+<area shape="rect" id="node3" href="$btree_8h.html#ae40538eaed8d772ed2df4a8517c5fef4" title="btree_insert" alt="" coords="438,5,529,32"/>
+<area shape="rect" id="node4" href="$btree_8h.html#a63f3b3b178190d31e60e8a783cdc9477" title="btree_mvcc_delete" alt="" coords="417,56,549,83"/>
+<area shape="rect" id="node5" href="$btree_8h.html#a48d91a51517655798dc57076da7d44fa" title="btree_physical_delete" alt="" coords="409,107,557,133"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a5378676d479f2ca14f1a00a75b233b14" title="btree_undo_delete_physical" alt="" coords="392,157,575,184"/>
+</map>

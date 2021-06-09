@@ -1,0 +1,9 @@
+<map id="locator_fetch_set" name="locator_fetch_set">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a93c7945f42b42b68c8bf8e59b4f73136" title="acquire_locks_for_multiple\l_rename" alt="" coords="176,5,352,47"/>
+<area shape="rect" id="node4" href="$cursor_8c.html#a543a90c437d8995ef9696114c7b04693" title="cursor_fetch_oids" alt="" coords="201,71,327,98"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a604637b845d66f0ca9e30e7e8f5fbc7d" title="db_fetch_array" alt="" coords="210,122,318,149"/>
+<area shape="rect" id="node7" href="$unloaddb_8h.html#a8f06d201be33ae14bcdaf8d8bfffb36f" title="extract_objects" alt="" coords="209,173,319,199"/>
+<area shape="rect" id="node8" href="$db__admin_8c.html#aa5ae0d35e2fea1bae1d5280835b73e0b" title="fetch_set_internal" alt="" coords="201,223,327,250"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a105be134bc38bc82f9ce620f2186269f" title="do_rename" alt="" coords="405,13,491,39"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#ad6703f79d7e1a745613a54cd3d2abe5f" title="db_fetch_list" alt="" coords="400,122,496,149"/>
+</map>

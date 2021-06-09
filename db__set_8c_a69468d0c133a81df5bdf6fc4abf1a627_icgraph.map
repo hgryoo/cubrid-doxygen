@@ -1,0 +1,8 @@
+<map id="db_set_print" name="db_set_print">
+<area shape="rect" id="node2" href="$cursor_8h.html#a84dfa260db77ce4614b496d1f7761961" title="cursor_fetch_page_having\l_tuple" alt="" coords="147,74,321,115"/>
+<area shape="rect" id="node3" href="$db__query_8h.html#a0596989287a67c15297b26ce1df55b86" title="db_query_set_tplpos" alt="" coords="369,5,512,32"/>
+<area shape="rect" id="node4" href="$cursor_8h.html#a967606d5ded22590ae29f82f232595a3" title="cursor_next_tuple" alt="" coords="378,56,503,83"/>
+<area shape="rect" id="node5" href="$cursor_8h.html#a53d6ab8c21c0841923c642766e356a6a" title="cursor_prev_tuple" alt="" coords="378,107,503,133"/>
+<area shape="rect" id="node6" href="$cursor_8h.html#ab84998985fd7f9c1149cc1ec383f63af" title="cursor_first_tuple" alt="" coords="379,157,502,184"/>
+<area shape="rect" id="node7" href="$cursor_8h.html#ad7d6a971115013bf8a029469598103dc" title="cursor_last_tuple" alt="" coords="380,208,501,235"/>
+</map>

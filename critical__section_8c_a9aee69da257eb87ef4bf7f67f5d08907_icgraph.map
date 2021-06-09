@@ -1,0 +1,6 @@
+<map id="sync_return_sync_stats_to_pool" name="sync_return_sync_stats_to_pool">
+<area shape="rect" id="node2" href="$critical__section_8c.html#acd7b645284b830cee291884a425b2b3a" title="sync_deallocate_sync\l_stats" alt="" coords="215,64,365,105"/>
+<area shape="rect" id="node3" href="$critical__section_8h.html#a4330522480c7065ff991e6cb0917f2d5" title="csect_finalize_critical\l_section" alt="" coords="413,5,560,47"/>
+<area shape="rect" id="node4" href="$critical__section_8h.html#ade074582e09ea6793abeba8c656a576a" title="rmutex_finalize" alt="" coords="431,71,542,98"/>
+<area shape="rect" id="node5" href="$critical__section_8h.html#a05c68cbe27f5149da411f93e70af26b0" title="rwlock_finalize" alt="" coords="433,122,541,149"/>
+</map>

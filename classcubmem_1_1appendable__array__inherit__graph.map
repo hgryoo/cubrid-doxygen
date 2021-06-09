@@ -1,0 +1,5 @@
+<map id="cubmem::appendable_array&lt; T, S &gt;" name="cubmem::appendable_array&lt; T, S &gt;">
+<area shape="rect" id="node2" href="$classcubmem_1_1extensible__array.html" title="{cubmem::extensible\l_array\&lt; T, S \&gt;\n||+ extend_by()\l+ extend_to()\l+ get_array()\l# get_data_ptr()\l# get_memsize_for_count()\l}" alt="" coords="5,477,185,628"/>
+<area shape="rect" id="node3" href="$classcubmem_1_1extensible__stack__block.html" title="{cubmem::extensible\l_stack_block\&lt; sizeof\l(T)*Size \&gt;\n|&#45; m_stack\l&#45; m_ext_block\l&#45; m_use_stack\l|+ extensible_stack_block()\l+ extensible_stack_block()\l+ extend_by()\l+ extend_to()\l+ get_ptr()\l+ get_read_ptr()\l}" alt="" coords="25,5,203,215"/>
+<area shape="rect" id="node4" href="$classcubmem_1_1extensible__array.html" title="{cubmem::extensible\l_array\&lt; T, Size \&gt;\n||+ extend_by()\l+ extend_to()\l+ get_array()\l# get_data_ptr()\l# get_memsize_for_count()\l}" alt="" coords="112,264,292,415"/>
+</map>

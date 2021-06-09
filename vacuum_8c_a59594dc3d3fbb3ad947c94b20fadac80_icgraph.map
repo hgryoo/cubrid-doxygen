@@ -1,0 +1,9 @@
+<map id="vacuum_data_initialize_new_page" name="vacuum_data_initialize_new_page">
+<area shape="rect" id="node2" href="$vacuum_8c.html#aaafaf3cc9df4129f0ad6101227f5ce63" title="vacuum_init_data_page\l_with_last_blockid" alt="" coords="215,115,373,156"/>
+<area shape="rect" id="node8" href="$vacuum_8h.html#a738a93ce33c02f0bf41727245127bd2e" title="vacuum_rv_redo_initialize\l_data_page" alt="" coords="208,180,380,221"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a8d4b4c64e64da552b9bbb71f5415ee41" title="vacuum_create_file\l_for_vacuum_data" alt="" coords="455,5,590,47"/>
+<area shape="rect" id="node4" href="$vacuum_8c.html#afe49168ac33babb418958578cae1bcbf" title="vacuum_data_empty_page" alt="" coords="433,71,612,98"/>
+<area shape="rect" id="node5" href="$vacuum_8h.html#a503bfb46b513078cca18c570df9907a6" title="vacuum_consume_buffer\l_log_blocks" alt="" coords="665,144,833,185"/>
+<area shape="rect" id="node6" href="$vacuum_8c.html#ad75f199e0aaab8285837e9ffd5135f33" title="vacuum_data_empty_update\l_last_blockid" alt="" coords="428,173,617,215"/>
+<area shape="rect" id="node7" href="$vacuum_8h.html#aced5f71cdc4f742daed9800b70e6bf55" title="vacuum_reset_data_after\l_copydb" alt="" coords="438,239,607,280"/>
+</map>

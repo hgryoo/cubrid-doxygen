@@ -1,0 +1,7 @@
+<map id="pt_check_orderbynum_pre" name="pt_check_orderbynum_pre">
+<area shape="rect" id="node2" href="$semantic__check_8c.html#ae6d2d49f6f5e2a7ce58a870a49ecf9ae" title="pt_check_order_by" alt="" coords="231,31,363,57"/>
+<area shape="rect" id="node6" href="$query__rewrite_8c.html#aa35a234703e4e4ffe3c313867bff0734" title="qo_reduce_order_by" alt="" coords="228,81,367,108"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#a8ace6e3dcf7c5b1840dc5f4df6fed4b7" title="pt_semantic_check_local" alt="" coords="605,5,775,32"/>
+<area shape="rect" id="node4" href="$semantic__check_8h.html#a703f5383bb7dab76fd48a0b383fae63a" title="pt_fold_union" alt="" coords="437,31,535,57"/>
+<area shape="rect" id="node5" href="$xasl__generation_8h.html#a5922ed3fb3f0afecdb69ea391afa9826" title="pt_to_upd_del_query" alt="" coords="415,81,557,108"/>
+</map>

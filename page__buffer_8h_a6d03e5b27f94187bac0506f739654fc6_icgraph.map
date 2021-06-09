@@ -1,0 +1,6 @@
+<map id="pgbuf_watcher_init_debug" name="pgbuf_watcher_init_debug">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#afe78724b7abcc4efb6d4b28c49a46ebc" title="pgbuf_ordered_fix_debug" alt="" coords="184,13,351,39"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#a6794bee5f01bdb2291ab63e6c9c39002" title="pgbuf_ordered_unfix\l_debug" alt="" coords="198,64,337,105"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#a85bc7da253e81ef0a2669f7934c4b693" title="pgbuf_replace_watcher\l_debug" alt="" coords="189,129,345,171"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#a9b12f4a81c72a927263dbac8b1cfc032" title="heap_scan_pb_lock_and\l_fetch_debug" alt="" coords="399,5,564,47"/>
+</map>

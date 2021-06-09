@@ -1,0 +1,10 @@
+<map id="run_appl_server" name="run_appl_server">
+<area shape="rect" id="node2" href="$broker_8c.html#ace7842c01eac3ad3aef55c387ca1e293" title="broker_add_new_cas" alt="" coords="168,5,313,32"/>
+<area shape="rect" id="node5" href="$broker_8c.html#a3129ca5090c76a34f0f0f2f65b7f6008" title="cas_monitor_worker" alt="" coords="361,132,500,159"/>
+<area shape="rect" id="node7" href="$broker_8c.html#a04a97cd176b4d71f2ec755559b4ce750" title="connect_srv" alt="" coords="194,56,287,83"/>
+<area shape="rect" id="node8" href="$broker_8c.html#a707ee8142e767eaaf3e1460fec372dd6" title="restart_appl_server" alt="" coords="174,157,307,184"/>
+<area shape="rect" id="node9" href="$broker_8c.html#a914f00f785ce2015c98b7d3ea1ed176d" title="shard_broker_process" alt="" coords="548,195,699,221"/>
+<area shape="rect" id="node3" href="$broker_8c.html#a77e083913db2649c80bf10cf096cd684" title="dispatch_thr_f" alt="" coords="379,56,483,83"/>
+<area shape="rect" id="node4" href="$broker_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="747,132,797,159"/>
+<area shape="rect" id="node6" href="$broker_8c.html#a15e643aa0115b311014b2502179c3346" title="cas_monitor_thr_f" alt="" coords="560,132,687,159"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="log_append_redo_data" name="log_append_redo_data">
+<area shape="rect" id="node2" href="$btree_8c.html#ad4120a97c500c3e5925d571c3baf09c1" title="btree_key_online_index\l_IB_insert" alt="" coords="233,5,392,47"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a4677aa84bd5547452ceca59e56a738ae" title="btree_key_remove_insert\l_mvccid" alt="" coords="229,71,397,112"/>
+<area shape="rect" id="node5" href="$btree__load_8c.html#ac4d1803f9c522f79e1f43a67fa154a69" title="btree_log_page" alt="" coords="257,137,368,163"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a816f2cc654d827707eaf081ea702627e" title="btree_rv_log_delete\l_object" alt="" coords="245,188,380,229"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a81f5f51a93b214d6fbc55104fbb0e4c8" title="btree_rv_log_insert\l_object" alt="" coords="247,253,379,295"/>
+<area shape="rect" id="node8" href="$btree_8h.html#a3547d5deedbda4f882dba5219045bd3c" title="btree_rv_remove_unique\l_stats" alt="" coords="231,319,395,360"/>
+<area shape="rect" id="node9" href="$btree_8c.html#a5ca924a8f17851196c53379b3d2925a6" title="btree_start_overflow_page" alt="" coords="225,385,400,411"/>
+<area shape="rect" id="node10" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="267,435,358,462"/>
+<area shape="rect" id="node11" href="$file__manager_8c.html#ac343a3cc3946d542583ebbd53ee5d8e3" title="file_extdata_merge\l_pages" alt="" coords="247,487,379,528"/>
+<area shape="rect" id="node12" href="$heap__file_8c.html#a23cd5f642edebaad25e8fafd58600228" title="heap_create_internal" alt="" coords="476,603,619,630"/>
+<area shape="rect" id="node13" href="$heap__file_8h.html#a7c88473682641e0947e1106aa1cc3622" title="heap_ovf_find_vfid" alt="" coords="247,603,378,630"/>
+<area shape="rect" id="node14" href="$heap__file_8c.html#a1063293444bb398d29a2b95ccdcecd33" title="heap_reuse" alt="" coords="268,654,357,681"/>
+<area shape="rect" id="node15" href="$log__manager_8h.html#a853fd7ef5f6abc4a182d6e79f0a4846f" title="log_append_postpone" alt="" coords="239,705,387,731"/>
+<area shape="rect" id="node16" href="$overflow__file_8h.html#a0dea508c2a4861ae92f8a35813c01bfa" title="overflow_insert" alt="" coords="257,755,368,782"/>
+<area shape="rect" id="node17" href="$overflow__file_8h.html#acf0a82fadbaf6ca25f85cc615c5ceb1a" title="overflow_update" alt="" coords="254,806,371,833"/>
+<area shape="rect" id="node18" href="$classvacuum__job__cursor.html#a46c8539ef4fd7bc864964cc44db7f9e1" title="vacuum_job_cursor::\lstart_job_on_current_entry" alt="" coords="225,857,401,899"/>
+<area shape="rect" id="node19" href="$vacuum_8c.html#aabb99b59dedfe7597e28292bfc28d85e" title="vacuum_log_vacuum_heap_page" alt="" coords="205,923,420,950"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a0fde528436144f61d9ba16806b85b688" title="btree_key_online_index\l_IB_insert_list" alt="" coords="468,5,627,47"/>
+</map>

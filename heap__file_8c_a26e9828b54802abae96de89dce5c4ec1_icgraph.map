@@ -1,0 +1,11 @@
+<map id="heap_page_update_chain_after_mvcc_op" name="heap_page_update_chain_after_mvcc_op">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a48e332d6d0f5bf4ae0e7591dea610aea" title="heap_log_update_physical" alt="" coords="227,71,402,98"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#a966fab9a360a33f8c5d043332dc672e4" title="heap_mvcc_log_delete" alt="" coords="237,122,392,149"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#a3ea8fdc86c612ecaf022e9adc91fec32" title="heap_mvcc_log_home\l_change_on_delete" alt="" coords="239,173,391,215"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#a171d289a2c5029d01e0f38924208806e" title="heap_mvcc_log_home\l_no_change" alt="" coords="239,5,391,47"/>
+<area shape="rect" id="node9" href="$heap__file_8c.html#a1c8ac655e0ef2b622fa7d90219a3af33" title="heap_mvcc_log_insert" alt="" coords="239,239,391,266"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#a4c5e61f6e5f9eb0ec5fed855393047a0" title="heap_mvcc_log_redistribute" alt="" coords="223,290,407,317"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#a512d30dc792740a94604451092dc9493" title="heap_update_bigone" alt="" coords="463,63,605,90"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a0e14957c5684f34d4601bbcbbef56dc4" title="heap_update_home" alt="" coords="467,114,601,141"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#aad64b24fe26326bcf208fff0a228988b" title="heap_update_relocation" alt="" coords="455,13,613,39"/>
+</map>

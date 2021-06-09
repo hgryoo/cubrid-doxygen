@@ -1,0 +1,21 @@
+<map id="thread_sleep_for" name="thread_sleep_for">
+<area shape="rect" id="node2" href="$thread__manager_8hpp.html#ac617fc70870fb0af15f7eb889c856e2d" title="thread_sleep" alt="" coords="215,430,311,457"/>
+<area shape="rect" id="node19" href="$log__tran__table_8c.html#a6162cf50793bc050bab311ce4b8effa7" title="xlogtb_kill_or_interrupt_tran" alt="" coords="172,481,353,507"/>
+<area shape="rect" id="node20" href="$log__tran__table_8c.html#ab02994b89f22de6b5346a2e448282d87" title="xlogtb_kill_tran_index" alt="" coords="189,531,336,558"/>
+<area shape="rect" id="node3" href="$btree_8c.html#abe79504ac909c0ca86fb150d0bf97fdb" title="btree_repair_prev_link\l_by_btid" alt="" coords="405,5,555,47"/>
+<area shape="rect" id="node4" href="$classmvcctable.html#ab05916cd74f0d68b2966fd9aaa73570d" title="mvcctable::compute\l_oldest_visible_mvccid" alt="" coords="401,71,559,112"/>
+<area shape="rect" id="node5" href="$server__support_8h.html#a5692baaa6c9df9b84010366971aac54c" title="css_change_ha_server\l_state" alt="" coords="402,136,558,177"/>
+<area shape="rect" id="node6" href="$double__write__buffer_8c.html#aeb84f7839b7d88f97f762b74ecdce44f" title="dwb_file_sync_helper" alt="" coords="407,202,553,229"/>
+<area shape="rect" id="node7" href="$double__write__buffer_8c.html#a9990a5604abb5bdf77d643cd0023fe5b" title="dwb_flush_block" alt="" coords="421,253,539,279"/>
+<area shape="rect" id="node8" href="$double__write__buffer_8c.html#aa1c921b3d5e5877187b7b9207051e839" title="dwb_starts_structure\l_modification" alt="" coords="625,271,769,312"/>
+<area shape="rect" id="node9" href="$double__write__buffer_8h.html#a38ef0589ebaadb13a11f9bdf6ec322c7" title="dwb_flush_force" alt="" coords="421,354,539,381"/>
+<area shape="rect" id="node10" href="$file__io_8h.html#a6aef95977713b43fcfa1f809b4525c6d" title="fileio_initialize_pages" alt="" coords="407,405,553,431"/>
+<area shape="rect" id="node11" href="$file__io_8c.html#ac01d98f703a631a88b02b62545923aa9" title="fileio_read_backup" alt="" coords="415,455,545,482"/>
+<area shape="rect" id="node12" href="$log__manager_8h.html#a43c3e6965dc07096503c8de506a1069f" title="log_abort_all_active\l_transaction" alt="" coords="411,507,549,548"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="429,573,531,599"/>
+<area shape="rect" id="node14" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="402,623,558,650"/>
+<area shape="rect" id="node15" href="$btree__load_8c.html#a72589bdf8ecdb8521c23103b862503c0" title="online_index_builder" alt="" coords="411,674,549,701"/>
+<area shape="rect" id="node16" href="$page__buffer_8c.html#ac2390524b0573f69fb3e957717ff9243" title="pgbuf_flush_chkpt_seq_list" alt="" coords="607,750,787,777"/>
+<area shape="rect" id="node17" href="$page__buffer_8c.html#abd4eba7853551f4117e645cb8bfdf847" title="pgbuf_flush_seq_list" alt="" coords="409,775,551,802"/>
+<area shape="rect" id="node18" href="$log__append_8cpp.html#a055967129308b00d1f5fab263f24da07" title="prior_lsa_next_record\l_internal" alt="" coords="407,827,553,868"/>
+</map>

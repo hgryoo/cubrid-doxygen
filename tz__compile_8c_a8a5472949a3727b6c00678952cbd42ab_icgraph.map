@@ -1,0 +1,11 @@
+<map id="tzc_build_filepath" name="tzc_build_filepath">
+<area shape="rect" id="node2" href="$tz__compile_8c.html#a3e3791af5ad03139e9fd0fda81dd8193" title="tzc_check_new_package\l_validity" alt="" coords="605,103,775,145"/>
+<area shape="rect" id="node3" href="$tz__compile_8c.html#a26f2f943770630ee9b06f43420a5610f" title="tzc_get_timezones_dot\l_c_filepath" alt="" coords="400,74,557,115"/>
+<area shape="rect" id="node4" href="$tz__compile_8c.html#a21e6b1738169fdfc317627f102214cf0" title="tzc_load_backward_zones" alt="" coords="176,81,352,108"/>
+<area shape="rect" id="node6" href="$tz__compile_8c.html#a85eac3bb997fd97c2380c699f0c43042" title="tzc_load_countries" alt="" coords="199,132,329,159"/>
+<area shape="rect" id="node7" href="$tz__compile_8c.html#ade7cebc2c08f5ed88eabbd4fef8f0d05" title="tzc_load_leap_secs" alt="" coords="195,183,333,209"/>
+<area shape="rect" id="node8" href="$tz__compile_8c.html#afb099526f89b9fb6aa1b3badeafa65de" title="tzc_load_rule_file" alt="" coords="203,233,325,260"/>
+<area shape="rect" id="node9" href="$tz__compile_8c.html#a455b65e83c583ce60deb4cbcc019439d" title="tzc_load_zone_names" alt="" coords="188,284,340,311"/>
+<area shape="rect" id="node10" href="$tz__compile_8c.html#a8456ba57c06784545e44622c69d89570" title="tzc_summary" alt="" coords="428,263,529,289"/>
+<area shape="rect" id="node5" href="$tz__compile_8c.html#abca69f6ae4f604b251f40ce39d88e188" title="tzc_load_raw_data" alt="" coords="413,161,544,188"/>
+</map>

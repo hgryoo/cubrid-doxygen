@@ -1,0 +1,5 @@
+<map id="file_tempcache" name="file_tempcache">
+<area shape="rect" id="node2" href="$structspacedb__files.html" title="{spacedb_files\n|+ nfile\l+ npage_ftab\l+ npage_user\l+ npage_reserved\l|}" alt="" coords="5,160,132,281"/>
+<area shape="rect" id="node3" href="$structfile__tempcache__entry.html" title="{file_tempcache_entry\n|+ ftype\l|}" alt="" coords="157,182,303,259"/>
+<area shape="rect" id="node4" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="199,5,261,97"/>
+</map>

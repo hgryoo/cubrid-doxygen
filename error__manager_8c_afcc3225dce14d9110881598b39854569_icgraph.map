@@ -1,0 +1,6 @@
+<map id="er_log" name="er_log">
+<area shape="rect" id="node2" href="$error__manager_8c.html#a4b2ad853dfb91e291d3c0d46a034297d" title="er_emergency" alt="" coords="111,56,215,83"/>
+<area shape="rect" id="node3" href="$error__manager_8h.html#aefbe440effda7544df457fb8ed2eef51" title="er_init" alt="" coords="294,5,351,32"/>
+<area shape="rect" id="node4" href="$error__manager_8c.html#a37534c35d9a3c6c3250622a2e622483d" title="er_malloc_helper" alt="" coords="263,56,383,83"/>
+<area shape="rect" id="node5" href="$error__manager_8c.html#a134f1bc3746c5141e2a3f7187317fe1b" title="er_vsprintf" alt="" coords="281,107,364,133"/>
+</map>

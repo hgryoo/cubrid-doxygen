@@ -1,0 +1,5 @@
+<map id="cubmonitor::counter_timer_statistic::get_time" name="cubmonitor::counter_timer_statistic::get_time">
+<area shape="rect" id="node2" href="$classlockfree_1_1hashmap.html#acc8ce10dccf15e6b1632b8a0fa8bdb6e" title="lockfree::hashmap::\ldump_stat" alt="" coords="223,5,360,47"/>
+<area shape="rect" id="node3" href="$classcubmonitor_1_1counter__timer__statistic.html#a32d884893af04ff89098789cf2a87ffb" title="cubmonitor::counter\l_timer_statistic::get\l_average_time" alt="" coords="223,70,360,126"/>
+<area shape="rect" id="node4" href="$classcubmonitor_1_1counter__timer__statistic.html#a8332401c45dfab3933c58e8f80cb70a0" title="cubmonitor::counter\l_timer_statistic::register\l_to_monitor" alt="" coords="408,70,571,126"/>
+</map>

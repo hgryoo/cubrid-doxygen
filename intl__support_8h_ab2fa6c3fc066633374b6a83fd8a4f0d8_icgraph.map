@@ -1,0 +1,11 @@
+<map id="intl_mbs_ncpy" name="intl_mbs_ncpy">
+<area shape="rect" id="node2" href="$execute__statement_8c.html#a29a86890a1e8dc9ab7f19b5fee78e704" title="extract_att_name" alt="" coords="188,19,311,45"/>
+<area shape="rect" id="node4" href="$system__parameter_8h.html#ac7796181537381214e7eb913b58c45a0" title="sysprm_make_default\l_values" alt="" coords="174,83,325,125"/>
+<area shape="rect" id="node7" href="$system__parameter_8h.html#a24fbc1cc7a598e49b11916b7076d77eb" title="sysprm_obtain_parameters" alt="" coords="160,149,339,176"/>
+<area shape="rect" id="node9" href="$system__parameter_8h.html#ac98d47f74e37f6645e2c28b25d7e6000" title="sysprm_validate_change\l_parameters" alt="" coords="166,201,333,242"/>
+<area shape="rect" id="node3" href="$execute__statement_8c.html#a603c023a6fe1f14bf36b427f5c403bb5" title="make_cst_item_value" alt="" coords="403,5,553,32"/>
+<area shape="rect" id="node5" href="$dbi_8h.html#abd2d1be090b737e77e6ad72c8ef0a5e1" title="db_reset_system_parameters\l_from_assignments" alt="" coords="617,125,812,166"/>
+<area shape="rect" id="node6" href="$log__applier__sql__log_8h.html#ad9c921ee55ab854a69ab2c6a3f6603df" title="sl_write_statement_sql" alt="" coords="400,107,556,133"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#a25ec1e1ee1ed2ecd053a903feda6eaca" title="db_get_system_parameters" alt="" coords="387,157,569,184"/>
+<area shape="rect" id="node10" href="$dbi__compat_8h.html#af63ac188972f8891747005d487779079" title="db_set_system_parameters" alt="" coords="387,208,569,235"/>
+</map>

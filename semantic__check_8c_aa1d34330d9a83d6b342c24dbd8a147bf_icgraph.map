@@ -1,0 +1,6 @@
+<map id="pt_make_cast_with_compatible_info" name="pt_make_cast_with_compatible_info">
+<area shape="rect" id="node2" href="$semantic__check_8c.html#aa6896991bcf6e76a0984eec801f87a91" title="pt_apply_union_select\l_list_collation" alt="" coords="287,5,437,47"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#a984c58a8dce942b9fdbb5aa128d5f55d" title="pt_to_compatible_cast" alt="" coords="493,101,647,127"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#a2e380b6808468e06fbaf40911f9d2edc" title="pt_values_query_to\l_compatible_cast" alt="" coords="295,123,429,164"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#a8ace6e3dcf7c5b1840dc5f4df6fed4b7" title="pt_semantic_check_local" alt="" coords="485,13,655,39"/>
+</map>

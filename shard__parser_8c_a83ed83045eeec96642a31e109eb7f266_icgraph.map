@@ -1,0 +1,15 @@
+<map id="sp_destroy_parser" name="sp_destroy_parser">
+<area shape="rect" id="node2" href="$shard__statement_8h.html#a9bf2497644f25b5bfbab3af8e8752231" title="shard_stmt_destroy" alt="" coords="183,115,320,141"/>
+<area shape="rect" id="node4" href="$shard__statement_8h.html#ad794fa513234dc2ba369d25e1d537928" title="shard_stmt_free" alt="" coords="193,275,309,301"/>
+<area shape="rect" id="node3" href="$shard__proxy__io_8c.html#af8dabac7299257b7ee280e9b9df2e7d2" title="proxy_term" alt="" coords="420,5,507,32"/>
+<area shape="rect" id="node5" href="$shard__proxy__function_8h.html#a1129ea179bc5b956c36d68cb474abd99" title="fn_proxy_client_prepare" alt="" coords="383,56,543,83"/>
+<area shape="rect" id="node6" href="$shard__proxy__function_8h.html#ad8b98cbe0ac69b5c147cc24152cca1ab" title="fn_proxy_client_schema_info" alt="" coords="368,107,559,133"/>
+<area shape="rect" id="node7" href="$shard__proxy__function_8h.html#a311b744e4b544961d2d2f9e8e85bc6dc" title="fn_proxy_client_prepare\l_and_execute" alt="" coords="383,158,543,199"/>
+<area shape="rect" id="node8" href="$shard__proxy__function_8h.html#aecdb57a783bffc4f067a7931e8872525" title="fn_proxy_cas_prepare" alt="" coords="388,224,539,251"/>
+<area shape="rect" id="node9" href="$shard__proxy__function_8h.html#a818351d6751490b290d168f2fa604bba" title="fn_proxy_cas_schema_info" alt="" coords="373,275,554,301"/>
+<area shape="rect" id="node10" href="$shard__proxy__function_8h.html#ac888edbb86b1408f235a33d0132d610e" title="fn_proxy_cas_prepare\l_and_execute" alt="" coords="388,326,539,367"/>
+<area shape="rect" id="node11" href="$shard__proxy__handler_8c.html#a6983e3735299cf70641ac2509a4c751c" title="proxy_context_clear" alt="" coords="607,417,745,444"/>
+<area shape="rect" id="node12" href="$shard__proxy__handler_8h.html#a76203ead4a78a3ecbb485645e245ff34" title="proxy_context_free_stmt" alt="" coords="380,443,547,469"/>
+<area shape="rect" id="node13" href="$shard__proxy__handler_8h.html#a86838f575fd30c5fbbd1af7a5f3f577c" title="proxy_context_timeout" alt="" coords="386,493,541,520"/>
+<area shape="rect" id="node14" href="$shard__statement_8c.html#a75e0c7bd932262fc450b9bb2418a1f34" title="shard_stmt_new_internal" alt="" coords="380,544,547,571"/>
+</map>

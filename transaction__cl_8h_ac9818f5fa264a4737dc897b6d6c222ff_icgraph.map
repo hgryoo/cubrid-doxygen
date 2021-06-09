@@ -1,0 +1,5 @@
+<map id="tran_2pc_attach_global_tran" name="tran_2pc_attach_global_tran">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#ac19eb732181085ac547a44a001075a7d" title="db_2pc_attach_transaction" alt="" coords="239,31,417,57"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#aa315905b1afe38a9a64c6f0bd52f6a0f" title="do_attach" alt="" coords="481,5,560,32"/>
+<area shape="rect" id="node4" href="$cas__xa_8c.html#afc7445f1f25d3ee1b0428804168e52bc" title="fn_xa_end_tran" alt="" coords="465,56,576,83"/>
+</map>

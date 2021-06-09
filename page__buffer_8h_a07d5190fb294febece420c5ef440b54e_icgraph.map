@@ -1,0 +1,4 @@
+<map id="pgbuf_flush_control_from_dirty_ratio" name="pgbuf_flush_control_from_dirty_ratio">
+<area shape="rect" id="node2" href="$file__io_8c.html#aaa09a53ff775d98a26a56e058fbd9fe9" title="fileio_flush_control\l_get_desired_rate" alt="" coords="188,5,319,47"/>
+<area shape="rect" id="node3" href="$file__io_8h.html#a92f27b4835b098b0ca5bebf9db4460e7" title="fileio_flush_control\l_add_tokens" alt="" coords="367,5,497,47"/>
+</map>

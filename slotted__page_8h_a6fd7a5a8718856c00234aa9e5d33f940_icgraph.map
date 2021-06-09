@@ -1,0 +1,10 @@
+<map id="spage_insert_for_recovery" name="spage_insert_for_recovery">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a24584a544f145eac9e5da71596ccabba" title="catalog_rv_insert_redo" alt="" coords="257,5,410,32"/>
+<area shape="rect" id="node4" href="$extendible__hash_8h.html#a81495cad876b88261c0f0c710deb87c2" title="ehash_rv_insert_redo" alt="" coords="260,56,407,83"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a238f92269e079b85904e3572fcf6bb76" title="heap_rv_mvcc_redo_insert" alt="" coords="244,107,423,133"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#ae5a9d6ef4cfe9c3f947058bb6216c299" title="heap_rv_mvcc_redo_redistribute" alt="" coords="228,157,439,184"/>
+<area shape="rect" id="node7" href="$heap__file_8h.html#a2f173d4d697212726c3e4bf7f4e10414" title="heap_rv_redo_insert" alt="" coords="264,208,403,235"/>
+<area shape="rect" id="node3" href="$system__catalog_8h.html#ad167ffe60c9f379ceeb3a56f0feb0373" title="catalog_rv_delete_undo" alt="" coords="495,5,653,32"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#a6728a58d6b32d704d13dbe4980b9af51" title="heap_rv_undo_delete" alt="" coords="501,179,647,205"/>
+<area shape="rect" id="node9" href="$vacuum_8h.html#a108b77e96a35ae60e72747a2ad47c5c7" title="vacuum_rv_undo_vacuum\l_heap_record" alt="" coords="487,230,661,271"/>
+</map>

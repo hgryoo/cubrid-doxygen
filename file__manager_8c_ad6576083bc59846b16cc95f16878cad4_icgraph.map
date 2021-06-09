@@ -1,0 +1,21 @@
+<map id="file_partsect_is_bit_set" name="file_partsect_is_bit_set">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a12556c033545ba1fd43da7be7c2f9d61" title="file_check_vpid" alt="" coords="235,122,347,149"/>
+<area shape="rect" id="node7" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="457,407,540,434"/>
+<area shape="rect" id="node8" href="$file__manager_8h.html#a9db2cf7e69746367fcfc73918106e71b" title="file_destroy" alt="" coords="454,239,543,266"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#a79f7a888c767a63365c784d89c3b77bc" title="file_partial_table\l_item_dump" alt="" coords="233,291,349,332"/>
+<area shape="rect" id="node11" href="$file__manager_8c.html#a9b738c510efd57488364302f5f533a7c" title="file_partsect_clear_bit" alt="" coords="216,567,365,594"/>
+<area shape="rect" id="node14" href="$file__manager_8c.html#a9115d0ec504a461d44be61d8eb0a6e24" title="file_partsect_set_bit" alt="" coords="221,466,360,493"/>
+<area shape="rect" id="node16" href="$file__manager_8c.html#adc0db5dfc925dc493ef06a24997d87d1" title="file_perm_alloc" alt="" coords="648,525,757,551"/>
+<area shape="rect" id="node18" href="$file__manager_8c.html#a542b431e49b15a45a3508627f3cedca6" title="file_sector_map_dealloc" alt="" coords="209,239,372,266"/>
+<area shape="rect" id="node19" href="$file__manager_8c.html#a88a59ae38e1e2a42cadcb18284d5a60c" title="file_sector_map_pages" alt="" coords="421,677,577,703"/>
+<area shape="rect" id="node20" href="$file__manager_8c.html#ac63a358eb30b6f6bfe3caea74f8c0197" title="file_table_collector\l_has_page" alt="" coords="225,669,356,711"/>
+<area shape="rect" id="node3" href="$btree_8c.html#aaf6c3062cf639de8e75ce72e5ed9557e" title="btree_check_pages" alt="" coords="431,71,566,98"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a74f90f3011a14028be61f651827805d1" title="heap_check_all_pages\l_by_heapchain" alt="" coords="421,173,576,215"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a6c8e6a7c0e058271191fd35091b687f3" title="heap_check_all_pages" alt="" coords="625,151,780,178"/>
+<area shape="rect" id="node6" href="$system__catalog_8c.html#a052edf9ef6cd117282524a536245a4d2" title="catalog_check_class\l_consistency" alt="" coords="427,5,571,47"/>
+<area shape="rect" id="node10" href="$file__manager_8c.html#ac0a80290727e571c55386ce058db08b4" title="file_table_dump" alt="" coords="442,298,555,325"/>
+<area shape="rect" id="node12" href="$file__manager_8c.html#a809af1534543d29a6f24183047377085" title="file_perm_dealloc" alt="" coords="828,575,951,602"/>
+<area shape="rect" id="node13" href="$file__manager_8c.html#aa08ad11c1dfde490334cc8eae91dfc21" title="file_rv_partsect_update" alt="" coords="420,575,577,602"/>
+<area shape="rect" id="node15" href="$file__manager_8c.html#a38cea7b20a0b915620d344e2faf6f578" title="file_partsect_alloc" alt="" coords="435,525,562,551"/>
+<area shape="rect" id="node17" href="$file__manager_8c.html#ab4e6734f7b6120acd90f5d46d56e6700" title="file_table_collect\l_ftab_pages" alt="" coords="439,459,558,500"/>
+</map>

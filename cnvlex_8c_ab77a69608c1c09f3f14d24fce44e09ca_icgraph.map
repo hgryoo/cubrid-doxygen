@@ -1,0 +1,15 @@
+<map id="input" name="input">
+<area shape="rect" id="node2" href="$util__service_8c.html#ac565a166e4867d36e98ddb48ff6b260b" title="check_server" alt="" coords="117,221,217,248"/>
+<area shape="rect" id="node7" href="$util__service_8c.html#a8c5b83bea8e201b66e6c3920ceb737d7" title="is_javasp_running" alt="" coords="104,157,231,184"/>
+<area shape="rect" id="node11" href="$util__service_8c.html#a4611cb27b468dc9673472fa2ac1a8da6" title="is_manager_running" alt="" coords="287,5,426,32"/>
+<area shape="rect" id="node13" href="$util__service_8c.html#a9ca350fe9160440f4be52982fc5bfe16" title="process_master" alt="" coords="299,309,414,336"/>
+<area shape="rect" id="node3" href="$util__service_8c.html#a7079d7863421c1ad53146f5d85e1d213" title="is_server_running" alt="" coords="295,259,419,285"/>
+<area shape="rect" id="node4" href="$util__service_8c.html#aed501613b4ef9669fc9b1e2fbb86857c" title="check_all_services\l_status" alt="" coords="497,193,631,234"/>
+<area shape="rect" id="node5" href="$util__service_8c.html#a1c65dc6858c8c7b9cf9146a3e618df7b" title="process_server" alt="" coords="509,259,619,285"/>
+<area shape="rect" id="node6" href="$util__service_8c.html#ae26a357e0abbd122e7a3e6cb8eb32cd0" title="process_service" alt="" coords="693,259,811,285"/>
+<area shape="rect" id="node8" href="$util__service_8c.html#ab858c02aa2ee5c79047ef33550fc84d5" title="process_javasp_start" alt="" coords="283,56,430,83"/>
+<area shape="rect" id="node9" href="$util__service_8c.html#af48f2dbd1c2fe4810b9aefc027b809f2" title="process_javasp_stop" alt="" coords="284,107,429,133"/>
+<area shape="rect" id="node10" href="$util__service_8c.html#a7b3053f57d4bae32ba1ce1418c00716e" title="process_javasp_status" alt="" coords="279,157,435,184"/>
+<area shape="rect" id="node12" href="$util__service_8c.html#a42e7cfb17b5e7a6ef5de5a3c16935fe2" title="process_manager" alt="" coords="501,73,627,100"/>
+<area shape="rect" id="node14" href="$util__service_8c.html#a4d372c6d302a9107f320db64b66fad4f" title="process_heartbeat_start" alt="" coords="483,360,645,387"/>
+</map>

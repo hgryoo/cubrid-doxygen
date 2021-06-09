@@ -1,0 +1,6 @@
+<map id="log_tran_do_postpone" name="log_tran_do_postpone">
+<area shape="rect" id="node2" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="203,78,325,105"/>
+<area shape="rect" id="node3" href="$log__2pc_8c.html#a8f0d3e711958d90183e5813a073b4696" title="log_2pc_commit_second\l_phase" alt="" coords="377,5,544,47"/>
+<area shape="rect" id="node4" href="$log__2pc_8c.html#a2c2f7703db38e95affce3b8302fdc868" title="log_2pc_recovery_commit\l_decision" alt="" coords="373,71,548,112"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a390852f8765cd90576d47d02ef0d10b6" title="log_commit" alt="" coords="416,137,505,163"/>
+</map>

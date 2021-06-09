@@ -1,0 +1,17 @@
+<map id="src/transaction/log_system_tran.cpp" name="src/transaction/log_system_tran.cpp">
+<area shape="rect" id="node2" href="$log__system__tran_8hpp.html" title="log_system_tran.hpp" alt="" coords="51,95,193,121"/>
+<area shape="rect" id="node6" href="$log__impl_8h.html" title="log_impl.h" alt="" coords="852,95,933,121"/>
+<area shape="rect" id="node17" href="$thread__entry_8hpp.html" title="thread_entry.hpp" alt="" coords="1368,169,1487,196"/>
+<area shape="rect" id="node18" href="$thread__manager_8hpp.html" title="thread_manager.hpp" alt="" coords="1359,95,1499,121"/>
+<area shape="rect" id="node3" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="498,244,631,271"/>
+<area shape="rect" id="node7" href="$boot_8h.html" title="boot.h" alt="" coords="801,169,859,196"/>
+<area shape="rect" id="node8" href="$client__credentials_8hpp.html" title="client_credentials.hpp" alt="" coords="844,244,992,271"/>
+<area shape="rect" id="node9" href="$btree__unique_8hpp.html" title="btree_unique.hpp" alt="" coords="425,169,547,196"/>
+<area shape="rect" id="node10" href="$connection__globals_8h.html" title="connection_globals.h" alt="" coords="883,169,1027,196"/>
+<area shape="rect" id="node11" href="$critical__section_8h.html" title="critical_section.h" alt="" coords="1153,169,1273,196"/>
+<area shape="rect" id="node12" href="$es_8h.html" title="es.h" alt="" coords="1297,169,1344,196"/>
+<area shape="rect" id="node13" href="$file__io_8h.html" title="file_io.h" alt="" coords="571,169,638,196"/>
+<area shape="rect" id="node14" href="$lock__free_8h.html" title="lock_free.h" alt="" coords="160,169,247,196"/>
+<area shape="rect" id="node15" href="$lock__manager_8h.html" title="lock_manager.h" alt="" coords="662,169,777,196"/>
+<area shape="rect" id="node16" href="$log__2pc_8h.html" title="log_2pc.h" alt="" coords="271,169,349,196"/>
+</map>

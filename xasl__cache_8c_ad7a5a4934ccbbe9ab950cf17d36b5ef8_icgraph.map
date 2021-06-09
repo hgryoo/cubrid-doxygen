@@ -1,0 +1,5 @@
+<map id="xcache_entry_is_related_to_oid" name="xcache_entry_is_related_to_oid">
+<area shape="rect" id="node2" href="$xasl__cache_8h.html#a97fdab81b9f4e4724aa6c7da5b76a144" title="xcache_invalidate_qcaches" alt="" coords="216,13,399,39"/>
+<area shape="rect" id="node4" href="$xasl__cache_8h.html#abf5104a1d53762e1b5cc0339278199fd" title="xcache_remove_by_oid" alt="" coords="228,63,387,90"/>
+<area shape="rect" id="node3" href="$query__manager_8c.html#a510e047b9e60812816682197ccdd8e02" title="qmgr_clear_relative\l_cache_entries" alt="" coords="447,5,581,47"/>
+</map>

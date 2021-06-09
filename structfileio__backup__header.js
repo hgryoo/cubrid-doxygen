@@ -1,0 +1,25 @@
+var structfileio__backup__header =
+[
+    [ "bk_hdr_version", "structfileio__backup__header.html#abae9b81b48d1229c9155a8214123881f", null ],
+    [ "bkpagesize", "structfileio__backup__header.html#a6b4eb4e948356a4698831a4baa835895", null ],
+    [ "bkup_iosize", "structfileio__backup__header.html#aa8906545a2f850af9ffe3cd4c4a14d95", null ],
+    [ "chkpt_lsa", "structfileio__backup__header.html#a9acd26966a7060a35e7660bfdb2afbac", null ],
+    [ "db_compatibility", "structfileio__backup__header.html#a057c8ed682df206f10e8f41d0f81f187", null ],
+    [ "db_creation", "structfileio__backup__header.html#a2fc26c360beabca025e8678781af50b6", null ],
+    [ "db_fullname", "structfileio__backup__header.html#ace622a0a7724f91ee9f60bf7f9892683", null ],
+    [ "db_iopagesize", "structfileio__backup__header.html#a7e48e2832740cf4945f0c1ecf515a26f", null ],
+    [ "db_next_bkvolname", "structfileio__backup__header.html#a183611c282040fb1687e410346c16233", null ],
+    [ "db_prec_bkvolname", "structfileio__backup__header.html#ae13a4f160864cc39e0530bd01c4abd27", null ],
+    [ "db_release", "structfileio__backup__header.html#a48b34a1abf504f82bc70224ccd80aa7e", null ],
+    [ "end_time", "structfileio__backup__header.html#a1d98b8f7c27bbf345bd40ab4fcbda1ec", null ],
+    [ "iopageid", "structfileio__backup__header.html#a5c2357404c64e99b5252be0e7c0e4fb7", null ],
+    [ "level", "structfileio__backup__header.html#aaf1cb4484eb1a37ddd72d72fd0ec0ee8", null ],
+    [ "magic", "structfileio__backup__header.html#ac8e560c016992311c3932966b91cb203", null ],
+    [ "previnfo", "structfileio__backup__header.html#aef95c34826cb0e147999b1a50c016d6e", null ],
+    [ "skip_activelog", "structfileio__backup__header.html#a924145a817975a6a1f20d181a25f0500", null ],
+    [ "start_lsa", "structfileio__backup__header.html#a12aaec771197b96d639a7c4c1ea92d30", null ],
+    [ "start_time", "structfileio__backup__header.html#a60aa58ec9c6207fb62a16e92cf35290d", null ],
+    [ "unit_num", "structfileio__backup__header.html#aa77f15102a72801c4a95271ba94166b2", null ],
+    [ "zip_level", "structfileio__backup__header.html#adb24b746934245a3d076c0f0696a95f7", null ],
+    [ "zip_method", "structfileio__backup__header.html#aa653c0629e00a606ecb745f1fbed83c5", null ]
+];

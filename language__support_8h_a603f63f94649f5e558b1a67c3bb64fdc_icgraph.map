@@ -1,0 +1,6 @@
+<map id="lang_currency" name="lang_currency">
+<area shape="rect" id="node2" href="$dbtype__function_8h.html#aefeeabc1536a63f499304a49dfdd3ae5" title="db_get_currency_default" alt="" coords="156,5,320,32"/>
+<area shape="rect" id="node4" href="$language__support_8h.html#ac5a07f7064748562ed911fa9fba8b9de" title="lang_locale_currency" alt="" coords="166,56,310,83"/>
+<area shape="rect" id="node3" href="$cas__execute_8c.html#a235ed61a310d3fc128b8c64464ce6c47" title="netval_to_dbval" alt="" coords="369,5,482,32"/>
+<area shape="rect" id="node5" href="$string__opfunc_8c.html#a207bd6ef9c9d0c05b891afa65117a2bb" title="number_to_char" alt="" coords="368,56,483,83"/>
+</map>

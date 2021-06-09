@@ -1,0 +1,9 @@
+<map id="pgbuf_ordered_set_dirty_and_free" name="pgbuf_ordered_set_dirty_and_free">
+<area shape="rect" id="node2" href="$heap__file_8h.html#ae7c1d5ed9bdd2f239cbfca947c2b69cd" title="heap_get_num_objects" alt="" coords="227,31,383,58"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#af256d9deeaf7200651bfe15fc3b12207" title="heap_stats_find_best_page" alt="" coords="215,101,396,127"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#abd325e5117742a611e53e81b0a6efe82" title="heap_vpid_remove" alt="" coords="240,151,371,178"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#a2b0c3f9af6d7acec2a7c754c14acbdf4" title="xheap_reclaim_addresses" alt="" coords="446,202,619,229"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#aa01005f79f5116d7cff49a77ac2feeb2" title="xheap_get_class_num\l_objects_pages" alt="" coords="457,5,609,47"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a3329393383b9a92ce790befa0b562618" title="heap_find_location\l_and_insert_rec_newhome" alt="" coords="444,71,621,112"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#acdbe82c4e3f3d9c4a543094ff6d27311" title="heap_get_insert_location\l_with_lock" alt="" coords="449,136,616,177"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="or_pack_domain" name="or_pack_domain">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a51edac5fe8ae16268b3ae6b175534f26" title="btree_add_index" alt="" coords="197,5,315,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a733e33c36f6622401399e8875c111ac6" title="btree_load_index" alt="" coords="196,56,316,83"/>
+<area shape="rect" id="node5" href="$class__object_8c.html#a96a893803b9dde709e16f7903bbdc303" title="classobj_make_function\l_index_info_seq" alt="" coords="175,107,337,149"/>
+<area shape="rect" id="node6" href="$db__query_8h.html#a82a449e9711d4e5f4b38b6778a61ac96" title="db_pack_prepare_info" alt="" coords="409,195,559,221"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#a76e5be9373d385c224b1efcd837a7022" title="locator_check_fk_validity" alt="" coords="171,224,341,251"/>
+<area shape="rect" id="node8" href="$object__representation_8c.html#aaeea12e298ddfe523f2c093cb25dfe05" title="or_pack_listid" alt="" coords="205,325,307,352"/>
+<area shape="rect" id="node13" href="$db__query_8c.html#abc2231033a7bb7cf63a5582415577347" title="or_pack_query_format" alt="" coords="181,275,331,301"/>
+<area shape="rect" id="node14" href="$network__interface__sr_8h.html#a8094f50ee6395da44ecb32b722260068" title="sbtree_get_key_type" alt="" coords="185,376,327,403"/>
+<area shape="rect" id="node15" href="$statistics__sr_8c.html#a197b8a66e5cc0b46843f790c5c865c09" title="xstats_get_statistics\l_from_server" alt="" coords="185,427,327,469"/>
+<area shape="rect" id="node16" href="$xasl__to__stream_8c.html#a481159272489d1a2c13a8c62ba56e19f" title="xts_process" alt="" coords="209,493,303,520"/>
+<area shape="rect" id="node17" href="$xasl__to__stream_8c.html#a2eb67404bb0547b76917a10d020f5182" title="xts_save_db_value_array" alt="" coords="171,544,341,571"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#a763686da25436ca147ff96459ba0cc67" title="allocate_index" alt="" coords="431,31,537,57"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="409,256,559,283"/>
+<area shape="rect" id="node10" href="$network__interface__sr_8h.html#abe5a5fb9e7d4da29e0db82283a10503e" title="sqmgr_prepare_and_execute\l_query" alt="" coords="389,307,579,349"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#aa735aad48f111bd69fbd6c492dbe9c68" title="xs_send_method_call\l_info_to_client" alt="" coords="410,373,558,414"/>
+<area shape="rect" id="node12" href="$xasl__to__stream_8c.html#ab23b9f4e93b874ca8c50be441ebbdd4d" title="xts_process_list_id" alt="" coords="417,439,551,465"/>
+</map>

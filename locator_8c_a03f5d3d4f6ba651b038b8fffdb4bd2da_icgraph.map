@@ -1,0 +1,21 @@
+<map id="locator_recv_allocate_copyarea" name="locator_recv_allocate_copyarea">
+<area shape="rect" id="node2" href="$locator_8h.html#a3501836cb5226d72e063ce96e12bec51" title="locator_send_copy_area" alt="" coords="203,288,365,315"/>
+<area shape="rect" id="node10" href="$network__interface__sr_8h.html#ad65187f377a0026c2af8227b77aeb9dc" title="slocator_repl_force" alt="" coords="433,624,565,651"/>
+<area shape="rect" id="node15" href="$network__interface__cl_8h.html#a383e3f0b918645e1a5eb4e1b2d7d69a8" title="net_client_recv_copyarea" alt="" coords="199,389,369,416"/>
+<area shape="rect" id="node16" href="$network__interface__cl_8h.html#a5780d77262457477d69b7205385f3fb6" title="net_client_request\l_2recv_copyarea" alt="" coords="220,441,348,482"/>
+<area shape="rect" id="node17" href="$network__interface__cl_8h.html#aa42d9a17ce6a27c7ada7323caf0c1046" title="net_client_request\l_3_data_recv_copyarea" alt="" coords="204,95,364,137"/>
+<area shape="rect" id="node18" href="$network__interface__cl_8h.html#ab573cd7021cce8c0449068cada8cf14d" title="net_client_request\l_3recv_copyarea" alt="" coords="220,506,348,547"/>
+<area shape="rect" id="node19" href="$network__interface__cl_8h.html#a400c1cdd6251fc411dd235307ae5291b" title="net_client_request\l_recv_copyarea" alt="" coords="220,571,348,613"/>
+<area shape="rect" id="node20" href="$network__interface__sr_8h.html#a39438f04ddf6b4a0273eefef2bf2942a" title="slocator_force" alt="" coords="232,637,336,664"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a85473eda4217e5599e42ac5747afdd8e" title="locator_repl_force" alt="" coords="436,5,561,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a996791011d85ea533addb7ae59c30877" title="locator_force" alt="" coords="450,56,547,83"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#ad54c8df422b50d3a632d1c83a048a464" title="slocator_fetch" alt="" coords="447,107,551,133"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#ae50188bc8329d7dd7a1250983eeb93fe" title="slocator_get_class" alt="" coords="433,157,564,184"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a8e8e270747fa0a1d4703c06d53ccc880" title="slocator_fetch_all" alt="" coords="437,208,561,235"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#a79186ccdff23a4e8f11acc361e525f86" title="slocator_does_exist" alt="" coords="429,259,568,285"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#af145518f527269bec34841069d7769c5" title="slocator_notify_isolation\l_incons" alt="" coords="417,310,580,351"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#ab576a5707796c76521eed6869bb2dd65" title="slocator_fetch_lockset" alt="" coords="422,376,575,403"/>
+<area shape="rect" id="node12" href="$network__interface__sr_8h.html#a7de0b4c0d9ed4ce61aa75f4757aa9412" title="slocator_fetch_all\l_reference_lockset" alt="" coords="433,427,565,469"/>
+<area shape="rect" id="node13" href="$network__interface__sr_8h.html#a620f79b8a510f629de75a91353258a62" title="slocator_find_lockhint\l_class_oids" alt="" coords="425,493,573,534"/>
+<area shape="rect" id="node14" href="$network__interface__sr_8h.html#aa69fdc77b0c4a4abee0cc6efd9eb18b7" title="slocator_fetch_lockhint\l_classes" alt="" coords="421,558,577,599"/>
+</map>

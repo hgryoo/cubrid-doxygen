@@ -1,0 +1,7 @@
+<map id="btree_mvcc_info_from_heap_mvcc_header" name="btree_mvcc_info_from_heap_mvcc_header">
+<area shape="rect" id="node2" href="$btree__load_8c.html#a152e2fb9000bb23ccd9be5a7c9c5bfba" title="btree_construct_leafs" alt="" coords="384,5,531,32"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#a73b823ef7264be8b5bd32dae1e5fc8cf" title="btree_first_oid" alt="" coords="218,31,322,57"/>
+<area shape="rect" id="node5" href="$btree_8h.html#ae40538eaed8d772ed2df4a8517c5fef4" title="btree_insert" alt="" coords="225,81,315,108"/>
+<area shape="rect" id="node6" href="$btree_8h.html#a63f3b3b178190d31e60e8a783cdc9477" title="btree_mvcc_delete" alt="" coords="204,132,336,159"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="579,5,705,32"/>
+</map>

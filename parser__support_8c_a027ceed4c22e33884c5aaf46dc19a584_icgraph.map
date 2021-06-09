@@ -1,0 +1,9 @@
+<map id="pt_check_enum_data_type" name="pt_check_enum_data_type">
+<area shape="rect" id="node2" href="$semantic__check_8c.html#af508e79375458c0792a3a99e0c552992" title="pt_check_attribute\l_domain" alt="" coords="232,49,361,90"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a82ac841021e985e46534a3d42d9fd38a" title="validate_attribute\l_domain" alt="" coords="236,133,357,174"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#a74be8f892e6e90ed5692941e03bf1843" title="pt_check_alter" alt="" coords="451,5,558,32"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#a24bc4f0a91e527103132bf36d7bbfca6" title="pt_check_create_entity" alt="" coords="426,56,583,83"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#ac8eacd48feb9548404602a075d45b0a2" title="do_add_attribute" alt="" coords="445,107,564,133"/>
+<area shape="rect" id="node7" href="$execute__schema_8h.html#aa5d1dee3966bdbe30a7ce6cfa3023302" title="do_add_methods" alt="" coords="444,157,565,184"/>
+<area shape="rect" id="node8" href="$execute__schema_8c.html#a4b5c1edbe844b65f680fa8eceaa5683e" title="do_change_att_schema_only" alt="" coords="409,208,600,235"/>
+</map>

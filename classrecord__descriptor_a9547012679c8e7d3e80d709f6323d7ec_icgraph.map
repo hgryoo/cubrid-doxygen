@@ -1,0 +1,8 @@
+<map id="record_descriptor::get_recdes" name="record_descriptor::get_recdes">
+<area shape="rect" id="node2" href="$locator__sr_8h.html#aed9949860d03e24a533cf63afe02f0a5" title="locator_allocate_copy\l_area_by_attr_info" alt="" coords="184,93,332,135"/>
+<area shape="rect" id="node7" href="$serial_8c.html#aedd39ef4c027b8c4568faa44f288ea1a" title="serial_update_serial\l_object" alt="" coords="189,159,327,200"/>
+<area shape="rect" id="node3" href="$locator__sr_8h.html#a891018ca0e900f206c7635aa258af74b" title="locator_attribute_info\l_force" alt="" coords="392,5,535,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a330cfcba16e2910848ac1ae251d50dc1" title="qexec_remove_duplicates\l_for_replace" alt="" coords="595,35,768,76"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#ab623f9bf50158809fe229738392c62a9" title="locator_mvcc_reev_cond\l_assigns" alt="" coords="380,123,547,164"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#aa21867168640201b25f7aeaf72c203cd" title="qexec_oid_of_duplicate\l_key_update" alt="" coords="384,188,543,229"/>
+</map>

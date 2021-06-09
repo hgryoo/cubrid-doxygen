@@ -1,0 +1,6 @@
+<map id="dwb_signal_block_completion" name="dwb_signal_block_completion">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#a9990a5604abb5bdf77d643cd0023fe5b" title="dwb_flush_block" alt="" coords="248,56,367,83"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#ab2537553c0bc21020c4a4003916d89a5" title="dwb_add_page" alt="" coords="435,5,545,32"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8c.html#a371f8a6887e91534959cf058cfcf56d8" title="dwb_flush_next_block" alt="" coords="415,56,565,83"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8c.html#aa1c921b3d5e5877187b7b9207051e839" title="dwb_starts_structure\l_modification" alt="" coords="418,107,562,149"/>
+</map>

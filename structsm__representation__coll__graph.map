@@ -1,0 +1,4 @@
+<map id="sm_representation" name="sm_representation">
+<area shape="rect" id="node2" href="$structsm__repr__attribute.html" title="{sm_repr_attribute\n|+ attid\l+ typeid_\l|}" alt="" coords="11,292,133,384"/>
+<area shape="rect" id="node3" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="5,5,139,229"/>
+</map>

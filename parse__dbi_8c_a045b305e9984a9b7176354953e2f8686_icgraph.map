@@ -1,0 +1,17 @@
+<map id="pt_node_to_db_type" name="pt_node_to_db_type">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a47b00d7b10f970367f0f5eb53e33a95a" title="db_get_query_type_list" alt="" coords="203,195,359,221"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#a2926c5395a58f96cbe0339dac9e951c5" title="pt_attribute_to_regu" alt="" coords="213,456,350,483"/>
+<area shape="rect" id="node10" href="$xasl__generation_8h.html#afe16617c99177ca7cb6d411d9e5e5713" title="pt_to_regu_variable" alt="" coords="437,468,571,495"/>
+<area shape="rect" id="node11" href="$xasl__generation_8c.html#a1f7de786eb62ca96c52685e8986247f7" title="pt_to_pred_expr_local\l_with_arg" alt="" coords="638,457,787,498"/>
+<area shape="rect" id="node12" href="$xasl__generation_8c.html#ad46a88b888478204b4db5bda01620a1e" title="pt_to_aggregate_node" alt="" coords="637,545,788,572"/>
+<area shape="rect" id="node13" href="$xasl__generation_8c.html#afe41055180b81e8b73c45955db342003" title="pt_to_analytic_node" alt="" coords="643,596,782,623"/>
+<area shape="rect" id="node14" href="$semantic__check_8c.html#ad3b4c87c49baa1750c11545deb557332" title="pt_check_and_replace\l_hostvar" alt="" coords="205,659,357,701"/>
+<area shape="rect" id="node15" href="$parser__support_8c.html#a027ceed4c22e33884c5aaf46dc19a584" title="pt_check_enum_data_type" alt="" coords="192,725,371,752"/>
+<area shape="rect" id="node16" href="$xasl__generation_8c.html#a4cc7a435267cd055546f6828b3883866" title="pt_function_to_regu" alt="" coords="213,507,349,533"/>
+<area shape="rect" id="node3" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="419,5,589,32"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#a78481e1554c3d1807c07bcb8bfc7cd54" title="db_compile_and_execute\l_queries_internal" alt="" coords="419,57,589,98"/>
+<area shape="rect" id="node5" href="$cas__execute_8c.html#a977259b8d253fa1f9cd18f4e46ef726b" title="prepare_column_list\l_info_set" alt="" coords="435,122,573,163"/>
+<area shape="rect" id="node6" href="$db__stub_8c.html#adc3082e0315129d13d32476c3ab7331a" title="stmt_bind_resultset\l_meta_handle" alt="" coords="436,187,572,229"/>
+<area shape="rect" id="node7" href="$esql__cli_8c.html#a36d9c91b915ea0efce4be6271bb73e38" title="uci_prepare" alt="" coords="459,253,549,280"/>
+<area shape="rect" id="node8" href="$cas__execute_8c.html#ace493c88c381cec40bd3d9ebc6ba754e" title="ux_use_sp_out" alt="" coords="449,304,559,331"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="lockfree::tran::descriptor" name="lockfree::tran::descriptor">
+<area shape="rect" id="node2" href="$classlockfree_1_1tran_1_1table.html" title="{lockfree::tran::table\n|&#45; m_global_tranid\l&#45; m_min_active_tranid\l&#45; MATI_REFRESH_INTERVAL\l|+ table()\l+ ~table()\l+ get_descriptor()\l+ start_tran()\l+ end_tran()\l+ get_current_global\l_tranid()\l+ get_new_global_tranid()\l+ get_min_active_tranid()\l+ get_total_retire_count()\l+ get_total_reclaim_count()\l+ get_current_retire\l_count()\l&#45; compute_min_active\l_tranid()\l}" alt="" coords="122,652,329,964"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1tran_1_1system.html" title="{lockfree::tran::system\n|&#45; m_max_tran_per_table\l|+ system()\l+ system()\l+ ~system()\l+ assign_index()\l+ free_index()\l+ get_max_transaction\l_count()\l}" alt="" coords="5,321,168,487"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1tran_1_1reclaimable__node.html" title="{lockfree::tran::reclaimable_node\n|&#45; descriptor\l&#45; m_retire_tranid\l|+ reclaimable_node()\l+ ~reclaimable_node()\l+ reclaim()\l}" alt="" coords="193,5,399,127"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="or_get_classrep" name="or_get_classrep">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a62fe8d7c8e5221a75e124a628fc9d3fe" title="heap_classrepr_get\l_from_record" alt="" coords="187,5,321,47"/>
+<area shape="rect" id="node4" href="$object__representation__sr_8h.html#a1f570b088631b92db5171c2d286163ce" title="or_classrep_load_indexes" alt="" coords="168,71,340,98"/>
+<area shape="rect" id="node5" href="$object__representation__sr_8c.html#a6b11590f3c92f2ad1eabdd82805b2db6" title="or_get_hierarchy_helper" alt="" coords="174,122,334,149"/>
+<area shape="rect" id="node7" href="$object__representation__sr_8h.html#ace49868a6b745f0c127e22f4ce8d42f4" title="orc_diskrep_from_record" alt="" coords="171,173,337,199"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#afce4c33976304e76e124d48207e81a0b" title="heap_classrepr_get" alt="" coords="402,13,537,39"/>
+<area shape="rect" id="node6" href="$object__representation__sr_8h.html#a271ce8f2f1aede00847ee076b3d6b3bc" title="or_get_unique_hierarchy" alt="" coords="388,122,551,149"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="pgbuf_flush_all_unfixed" name="pgbuf_flush_all_unfixed">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a390852f8765cd90576d47d02ef0d10b6" title="log_commit" alt="" coords="254,56,343,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#af2f4679f1d456bc7b4eeb8aa5996c61a" title="logpb_backup_for_volume" alt="" coords="212,107,385,133"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#afdf53e4360c4332c6770c24fcdd49bc1" title="logpb_copy_volume" alt="" coords="230,157,367,184"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="459,5,552,32"/>
+<area shape="rect" id="node4" href="$transaction__sr_8c.html#af315497226787ae75ee124e68e92da04" title="xtran_server_commit" alt="" coords="433,56,577,83"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="454,107,557,133"/>
+</map>

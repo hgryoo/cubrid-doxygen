@@ -1,0 +1,21 @@
+<map id="disk_vhdr_get_vol_fullname" name="disk_vhdr_get_vol_fullname">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a9db5c7116e17a33a0e3a7c2a566360a3" title="disk_rv_redo_dboutside\l_newvol" alt="" coords="248,15,407,57"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a38360128ad8b10ad2b681ca334f6c369" title="disk_set_creation" alt="" coords="511,208,635,235"/>
+<area shape="rect" id="node8" href="$disk__manager_8h.html#aef6e1b1644dec76f855e6988e90fc332" title="disk_spacedb" alt="" coords="276,81,379,108"/>
+<area shape="rect" id="node11" href="$disk__manager_8c.html#a971276e3a06ae7991c85b248038f7c57" title="disk_vhdr_dump" alt="" coords="269,157,386,184"/>
+<area shape="rect" id="node14" href="$disk__manager_8c.html#ade5e349515a29ec2f54446a875db8fb2" title="disk_vhdr_set_vol_fullname" alt="" coords="236,263,419,289"/>
+<area shape="rect" id="node17" href="$disk__manager_8c.html#af932326f69e72d1feca8fd6c744a28ca" title="xdisk_get_fullname" alt="" coords="260,427,395,453"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#af10927c1c82f7fe8c40e2ed37b742ba8" title="fileio_restore_volume" alt="" coords="743,208,889,235"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="769,419,863,445"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#afdf53e4360c4332c6770c24fcdd49bc1" title="logpb_copy_volume" alt="" coords="747,259,885,285"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="727,142,905,183"/>
+<area shape="rect" id="node9" href="$network__interface__cl_8h.html#ad3838879f13711fb2058f1513d6da7a3" title="netcl_spacedb" alt="" coords="519,56,626,83"/>
+<area shape="rect" id="node10" href="$network__interface__sr_8h.html#ad090c800f95bb6c185e4a1298f81ef58" title="netsr_spacedb" alt="" coords="519,5,626,32"/>
+<area shape="rect" id="node12" href="$disk__manager_8c.html#ada59880f878d1cf9d3b102d47e29053a" title="disk_dump_volume_system_info" alt="" coords="467,157,679,184"/>
+<area shape="rect" id="node13" href="$disk__manager_8h.html#a1666d0b535e8cc5981b370194267bc10" title="disk_rv_dump_hdr" alt="" coords="509,107,637,133"/>
+<area shape="rect" id="node15" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="527,325,618,352"/>
+<area shape="rect" id="node16" href="$disk__manager_8h.html#a3a7be083b7c5ca1efab2b15a189c2df0" title="disk_rv_undoredo_set\l_creation_time" alt="" coords="498,259,647,301"/>
+<area shape="rect" id="node18" href="$network__interface__cl_8h.html#aeea0bd955ba247f6fd35af61cb4acadd" title="disk_get_fullname" alt="" coords="509,376,636,403"/>
+<area shape="rect" id="node19" href="$network__interface__sr_8h.html#aaaa5fb082ebadbd8de78bd3be96b867f" title="sdk_vlabel" alt="" coords="531,427,615,453"/>
+<area shape="rect" id="node20" href="$boot__sr_8c.html#aecaca38f18cb794661915d733c632a0a" title="boot_mount" alt="" coords="527,477,618,504"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cubbase::pinner::pin" name="cubbase::pinner::pin">
+<area shape="rect" id="node2" href="$classcubmem_1_1pinnable__buffer.html#a19b9da9f015dff7d5a7dd9861324ab42" title="cubmem::pinnable_buffer\l::init" alt="" coords="192,39,360,80"/>
+<area shape="rect" id="node3" href="$classcubmem_1_1pinnable__buffer.html#a9f59f91414e4acb4a96bab3de2c9ff86" title="cubmem::pinnable_buffer\l::pinnable_buffer" alt="" coords="408,5,576,47"/>
+<area shape="rect" id="node4" href="$classcubmem_1_1pinnable__buffer.html#a28761a868965ac76cb9280a1d9b7878f" title="cubmem::pinnable_buffer\l::get_buffer_size" alt="" coords="408,71,576,112"/>
+</map>

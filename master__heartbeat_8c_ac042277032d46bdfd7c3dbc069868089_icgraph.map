@@ -1,0 +1,9 @@
+<map id="hb_ping_result_string" name="hb_ping_result_string">
+<area shape="rect" id="node2" href="$master__heartbeat_8h.html#a44a4edf9a0f88b060a5c9496cb110683" title="hb_get_ping_host_info\l_string" alt="" coords="199,35,351,76"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#a349169a882179ae94fe8da4c8642b9a4" title="hb_help_sprint_ping\l_host_info" alt="" coords="206,129,343,171"/>
+<area shape="rect" id="node3" href="$master__request_8c.html#a0089eb50c64c93955163bfb60945999f" title="css_process_ha_ping\l_host_info" alt="" coords="404,5,552,47"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#a25da7a907be3816238efd8bd202fd0ee" title="hb_cluster_job_calc\l_score" alt="" coords="409,71,547,112"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8c.html#a704a964615589964ee691656c429033e" title="hb_cluster_job_demote" alt="" coords="400,137,556,163"/>
+<area shape="rect" id="node7" href="$master__heartbeat_8c.html#a9b50df1501f895dff43e0dfbeee020dc" title="hb_cluster_job_failback" alt="" coords="399,187,557,214"/>
+<area shape="rect" id="node8" href="$master__heartbeat_8c.html#a042b78dcb44ef5a2e6ca7c1c5f5d161c" title="hb_cluster_job_failover" alt="" coords="401,238,555,265"/>
+</map>

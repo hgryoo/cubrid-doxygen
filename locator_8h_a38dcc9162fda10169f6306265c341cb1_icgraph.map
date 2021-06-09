@@ -1,0 +1,21 @@
+<map id="locator_allocate_copy_area_by_length" name="locator_allocate_copy_area_by_length">
+<area shape="rect" id="node2" href="$locator__sr_8h.html#aed9949860d03e24a533cf63afe02f0a5" title="locator_allocate_copy\l_area_by_attr_info" alt="" coords="219,96,367,137"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#a996791011d85ea533addb7ae59c30877" title="locator_force" alt="" coords="244,198,341,225"/>
+<area shape="rect" id="node8" href="$locator_8c.html#a529112c2adb25c9cb9a75dd8a5bbd5c7" title="locator_free_packed" alt="" coords="223,249,362,275"/>
+<area shape="rect" id="node11" href="$locator__cl_8c.html#a7456748ee00f483eb3ef0160b16222b5" title="locator_mflush_reallocate\l_copy_area" alt="" coords="207,300,378,341"/>
+<area shape="rect" id="node13" href="$locator_8h.html#aebbedc964145b2b5fc35f36ea94b92aa" title="locator_reallocate\l_copy_area_by_length" alt="" coords="217,365,369,407"/>
+<area shape="rect" id="node14" href="$locator_8h.html#a03f5d3d4f6ba651b038b8fffdb4bd2da" title="locator_recv_allocate\l_copyarea" alt="" coords="220,431,365,472"/>
+<area shape="rect" id="node15" href="$locator__sr_8c.html#afb8c6532efffe86e1fa32584e00f193d" title="xlocator_fetch" alt="" coords="241,497,345,523"/>
+<area shape="rect" id="node16" href="$locator__sr_8c.html#a7d4468c551465a0acbae0f621c841197" title="xlocator_fetch_all" alt="" coords="231,547,355,574"/>
+<area shape="rect" id="node17" href="$locator__sr_8c.html#ac1db221d5d8f2910fc84a738e9c30491" title="xlocator_fetch_lockhint\l_classes" alt="" coords="215,599,371,640"/>
+<area shape="rect" id="node18" href="$locator__sr_8c.html#ab0245c26a24226f23c26bc80b86e4c4a" title="xlocator_fetch_lockset" alt="" coords="216,665,369,691"/>
+<area shape="rect" id="node19" href="$locator__sr_8c.html#a3c9a757e40e4fa7d69245a99289b3f35" title="xlocator_lock_and_fetch_all" alt="" coords="201,715,384,742"/>
+<area shape="rect" id="node20" href="$locator__sr_8c.html#af9f1aed4f891330c6301fee452c2961d" title="xlocator_notify_isolation\l_incons" alt="" coords="211,767,374,808"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a330cfcba16e2910848ac1ae251d50dc1" title="qexec_remove_duplicates\l_for_replace" alt="" coords="647,35,820,76"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#aa21867168640201b25f7aeaf72c203cd" title="qexec_oid_of_duplicate\l_key_update" alt="" coords="436,31,595,72"/>
+<area shape="rect" id="node5" href="$locator__sr_8h.html#a891018ca0e900f206c7635aa258af74b" title="locator_attribute_info\l_force" alt="" coords="444,96,587,137"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#ab623f9bf50158809fe229738392c62a9" title="locator_mvcc_reev_cond\l_assigns" alt="" coords="432,161,599,203"/>
+<area shape="rect" id="node9" href="$locator_8h.html#af2a21d806931aa6d9fa0005d193fb8a0" title="locator_free_lockhint" alt="" coords="444,227,587,254"/>
+<area shape="rect" id="node10" href="$locator_8h.html#a9f198d404460ecdc4efe9c217ff27964" title="locator_free_lockset" alt="" coords="446,278,585,305"/>
+<area shape="rect" id="node12" href="$locator__cl_8c.html#a831d49cf34bafb3f89a1a753664a1224" title="locator_mflush_initialize" alt="" coords="435,329,596,355"/>
+</map>

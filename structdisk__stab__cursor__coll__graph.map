@@ -1,0 +1,5 @@
+<map id="disk_stab_cursor" name="disk_stab_cursor">
+<area shape="rect" id="node2" href="$structdisk__volume__header.html" title="{disk_volume_header\n|+ magic\l+ iopagesize\l+ volid\l+ db_charset\l+ dummy1\l+ purpose\l+ type\l+ sect_npgs\l+ nsect_total\l+ nsect_max\l+ hint_allocsect\l+ stab_npages\l+ stab_first_page\l+ sys_lastpage\l+ dummy2\l+ db_creation\l+ reserved0\l+ reserved1\l+ reserved2\l+ reserved3\l+ next_volid\l+ offset_to_vol_fullname\l+ offset_to_next_vol\l_fullname\l+ offset_to_vol_remarks\l+ var_fields\l|}" alt="" coords="10,307,175,751"/>
+<area shape="rect" id="node3" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="5,86,71,163"/>
+<area shape="rect" id="node4" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="95,5,200,244"/>
+</map>

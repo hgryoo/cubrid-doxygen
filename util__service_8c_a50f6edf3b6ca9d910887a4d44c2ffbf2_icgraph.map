@@ -1,0 +1,8 @@
+<map id="us_hb_applylogdb_stop" name="us_hb_applylogdb_stop">
+<area shape="rect" id="node2" href="$util__service_8c.html#a600189435f4fb288aa3a8ec9d67fd60a" title="us_hb_process_applylogdb" alt="" coords="212,56,391,83"/>
+<area shape="rect" id="node5" href="$util__service_8c.html#a5a46ff9266676e86ed6a38fcda91a0e0" title="us_hb_process_stop" alt="" coords="230,107,373,133"/>
+<area shape="rect" id="node3" href="$util__service_8c.html#a3ba3a304fce4ed0835b25bae5b1f24a8" title="process_heartbeat_util" alt="" coords="459,5,613,32"/>
+<area shape="rect" id="node4" href="$util__service_8c.html#aacb64393ad82784e02a9a7bc1c3fbf6f" title="process_heartbeat_replication" alt="" coords="439,56,633,83"/>
+<area shape="rect" id="node6" href="$util__service_8c.html#a4d372c6d302a9107f320db64b66fad4f" title="process_heartbeat_start" alt="" coords="455,107,617,133"/>
+<area shape="rect" id="node7" href="$util__service_8c.html#ab0b1337fcf9e1cc6d6ba925d94583e0a" title="process_heartbeat_stop" alt="" coords="455,157,617,184"/>
+</map>

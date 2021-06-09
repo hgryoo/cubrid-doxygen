@@ -1,0 +1,21 @@
+<map id="au_fetch_class_internal" name="au_fetch_class_internal">
+<area shape="rect" id="node2" href="$authenticate_8h.html#afb055c9f05081642e252ff3163247692" title="au_fetch_class" alt="" coords="263,401,373,428"/>
+<area shape="rect" id="node19" href="$authenticate_8h.html#af568cad390cb9ed169decefe4d7ec09e" title="au_fetch_class_by_classmop" alt="" coords="221,452,415,479"/>
+<area shape="rect" id="node20" href="$authenticate_8h.html#adc13b6c0a95ad7a1b588894c76830773" title="au_fetch_class_by_instancemop" alt="" coords="212,503,424,529"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#acd8baed4b233daa483592d5e19e184fc" title="api_rmeta_get_info" alt="" coords="492,5,624,32"/>
+<area shape="rect" id="node4" href="$db__admin_8c.html#ae33c9c7659cf8cab5a54a450f6e04afe" title="db_check_authorization" alt="" coords="479,56,637,83"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#afc6e56da0c9c26546db7d6d355965a43" title="db_check_authorization\l_and_grant_option" alt="" coords="479,107,637,149"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a7c93fee482a4f3072ff47dc6249b808c" title="db_find_class_of_index" alt="" coords="479,173,637,200"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#ab56f48ab2ffe6157cc9658057eafd4a6" title="db_get_superclasses" alt="" coords="485,224,631,251"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#a93333cb8ddec02f8639bf80b5f060ede" title="db_get_subclasses" alt="" coords="491,275,625,301"/>
+<area shape="rect" id="node9" href="$dbi__compat_8h.html#a2f49bd386b31dfb8e4a48d062fe433ba" title="db_get_attribute" alt="" coords="501,325,615,352"/>
+<area shape="rect" id="node10" href="$dbi__compat_8h.html#afc9e4efac52f27f7fd7feea9fc2518a7" title="db_get_shared_attribute" alt="" coords="477,376,639,403"/>
+<area shape="rect" id="node11" href="$dbi__compat_8h.html#a07be4ed054707f5d3be618ee4649d283" title="db_get_class_attribute" alt="" coords="481,427,635,453"/>
+<area shape="rect" id="node12" href="$dbi__compat_8h.html#aa65a6b066824cb31ea746349fcb27c7c" title="db_get_attributes" alt="" coords="497,477,619,504"/>
+<area shape="rect" id="node13" href="$dbi__compat_8h.html#a603c5999177cc7108e095394ed567956" title="db_get_class_attributes" alt="" coords="478,528,638,555"/>
+<area shape="rect" id="node14" href="$dbi__compat_8h.html#a05d461ecc60980a32af47dc95e1e8b8b" title="db_get_ordered_attributes" alt="" coords="472,579,644,605"/>
+<area shape="rect" id="node15" href="$dbi__compat_8h.html#a8c42958434c9cc43cc11928cb22d4d35" title="db_get_method" alt="" coords="503,629,613,656"/>
+<area shape="rect" id="node16" href="$dbi__compat_8h.html#a61b306595d3baf5278aab7bb40a937ea" title="db_get_class_method" alt="" coords="483,680,633,707"/>
+<area shape="rect" id="node17" href="$dbi__compat_8h.html#a39a5d66afd60a70d850c567447f84687" title="db_get_methods" alt="" coords="499,731,617,757"/>
+<area shape="rect" id="node18" href="$dbi__compat_8h.html#a3984e58d377ca1eaa5e64d30ed8b0003" title="db_get_class_methods" alt="" coords="480,781,636,808"/>
+</map>

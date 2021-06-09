@@ -1,0 +1,16 @@
+<map id="logtb_define_trantable_log_latch" name="logtb_define_trantable_log_latch">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a1bfabe29d0a3621d3f9d12f3e77cd3ee" title="log_get_io_page_size" alt="" coords="453,123,600,149"/>
+<area shape="rect" id="node6" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="231,249,373,276"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#a45020463486a6bde25e2428528cb5654" title="logpb_delete" alt="" coords="479,376,574,403"/>
+<area shape="rect" id="node12" href="$log__page__buffer_8c.html#a63a720215fa477b0b24287fe33f11464" title="logpb_find_header_parameters" alt="" coords="203,68,401,95"/>
+<area shape="rect" id="node14" href="$log__page__buffer_8c.html#adaf3756eb46d2f608fb945c678a665c8" title="logpb_restore" alt="" coords="477,5,577,32"/>
+<area shape="rect" id="node15" href="$log__tran__table_8c.html#aea65dea16f0d4816ff1ff6f22019f660" title="logtb_define_trantable" alt="" coords="452,173,601,200"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="671,148,806,175"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="652,313,825,340"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="657,237,821,264"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a95f060b401ef97e5ff9be51b7a304a5b" title="log_initialize" alt="" coords="480,224,573,251"/>
+<area shape="rect" id="node9" href="$log__manager_8h.html#a425ed5fad08e748df89edfd0350986f9" title="log_restart_emergency" alt="" coords="449,325,604,352"/>
+<area shape="rect" id="node10" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="480,275,573,301"/>
+<area shape="rect" id="node8" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="655,376,822,403"/>
+<area shape="rect" id="node13" href="$log__manager_8h.html#a0cb138cb6e789ecf8abb67698e42abd2" title="log_get_charset_from\l_header_page" alt="" coords="453,57,600,98"/>
+</map>

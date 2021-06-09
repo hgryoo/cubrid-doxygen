@@ -1,0 +1,15 @@
+<map id="css_get_master_domain_path" name="css_get_master_domain_path">
+<area shape="rect" id="node2" href="$master__request_8h.html#a3253053c2f33d754a020e96342c2824d" title="css_master_cleanup" alt="" coords="261,180,404,207"/>
+<area shape="rect" id="node9" href="$master__request_8c.html#a00362c34efcc196361f2f1c3dbf1d659" title="css_process_kill_master" alt="" coords="249,293,416,320"/>
+<area shape="rect" id="node11" href="$tcp_8c.html#affdd4950b49d08ab251a72b23b774da3" title="css_sockaddr" alt="" coords="281,413,384,440"/>
+<area shape="rect" id="node14" href="$wintcp_8h.html#a5dd15a1a84c4f9c294a57a44434a4829" title="css_tcp_master_open" alt="" coords="257,68,408,95"/>
+<area shape="rect" id="node3" href="$master_8c.html#a2212a475aa3a9a6425fcf95959c320e3" title="css_master_init" alt="" coords="494,5,609,32"/>
+<area shape="rect" id="node4" href="$master_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="687,31,737,57"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#a55b1494e27be31b12f76a26f5776b2df" title="hb_resource_job_proc\l_start" alt="" coords="477,107,626,149"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8c.html#afce580b3d40ad7b45dfa5b528539c393" title="hb_resource_job_demote\l_confirm_shutdown" alt="" coords="468,173,635,214"/>
+<area shape="rect" id="node7" href="$master__heartbeat_8c.html#a100d19eab669365452290daddae38273" title="hb_resource_job_demote\l_start_shutdown" alt="" coords="468,238,635,279"/>
+<area shape="rect" id="node8" href="$master__heartbeat_8h.html#ab3345237d28e9527feaa7fe6b6c0e1cd" title="hb_start_util_process" alt="" coords="478,304,625,331"/>
+<area shape="rect" id="node10" href="$master__request_8h.html#a0d0d71b7f22a154bc9f7522d09a17429" title="css_process_info_request" alt="" coords="464,355,639,381"/>
+<area shape="rect" id="node12" href="$wintcp_8h.html#a69e00865f5c8127a90eba841ff15d42f" title="css_tcp_client_open\l_with_retry" alt="" coords="481,406,622,447"/>
+<area shape="rect" id="node13" href="$tcp_8h.html#a6af7acfd1884e8fc9af6be3ce1c88e16" title="css_tcp_client_open\l_with_timeout" alt="" coords="481,471,622,513"/>
+</map>

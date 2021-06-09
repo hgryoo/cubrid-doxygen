@@ -1,0 +1,7 @@
+<map id="log_pb_global_data" name="log_pb_global_data">
+<area shape="rect" id="node2" href="$structlog__page.html" title="{log_page\n|+ area\l|}" alt="" coords="366,197,441,274"/>
+<area shape="rect" id="node4" href="$structlogpb__partial__append.html" title="{logpb_partial_append\n|+ status\l+ buffer_log_page\l|}" alt="" coords="158,366,302,458"/>
+<area shape="rect" id="node6" href="$structlog__buffer.html" title="{log_buffer\n|+ pageid\l+ phy_pageid\l+ dirty\l|}" alt="" coords="515,359,615,465"/>
+<area shape="rect" id="node3" href="$structlog__hdrpage.html" title="{log_hdrpage\n|+ logical_pageid\l+ offset\l+ flags\l+ checksum\l|}" alt="" coords="345,5,461,127"/>
+<area shape="rect" id="node5" href="$structlog__rec__header.html" title="{log_rec_header\n|+ trid\l+ type\l|}" alt="" coords="5,189,116,281"/>
+</map>

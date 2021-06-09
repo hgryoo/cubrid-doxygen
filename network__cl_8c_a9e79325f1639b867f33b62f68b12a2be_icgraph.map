@@ -1,0 +1,4 @@
+<map id="check_server_capabilities" name="check_server_capabilities">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a669e1ce0f8fe4fd698271b150702ac6b" title="net_client_ping_server\l_with_handshake" alt="" coords="225,5,377,47"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="425,13,579,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ci_batch_result_s" name="ci_batch_result_s">
+<area shape="rect" id="node2" href="$structci__batch__result__info__s.html" title="{ci_batch_result_info_s\n|+ err_code\l+ err_msg\l|}" alt="" coords="37,175,189,267"/>
+<area shape="rect" id="node3" href="$structrs__meta__info.html" title="{rs_meta_info\n|+ sql_type\l+ has_result\l+ affected_row\l|}" alt="" coords="59,5,168,112"/>
+</map>

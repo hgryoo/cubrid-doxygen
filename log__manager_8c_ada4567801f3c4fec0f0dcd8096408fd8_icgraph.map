@@ -1,0 +1,12 @@
+<map id="log_append_redo_recdes2" name="log_append_redo_recdes2">
+<area shape="rect" id="node2" href="$system__catalog_8c.html#a9c2e081a1ad60c3c50ab5196538fe502" title="catalog_adjust_directory\l_count" alt="" coords="253,98,416,139"/>
+<area shape="rect" id="node4" href="$system__catalog_8c.html#adfbf222479a168c21ec18083794167eb" title="catalog_drop_representation_item" alt="" coords="763,160,980,187"/>
+<area shape="rect" id="node6" href="$system__catalog_8c.html#a6a2596b6bb09db04e0189d4d9fcf1903" title="catalog_put_representation_item" alt="" coords="766,33,977,60"/>
+<area shape="rect" id="node7" href="$system__catalog_8h.html#a4dce6236aa7369102102ae1429aadb7e" title="catalog_drop_old_representations" alt="" coords="227,236,443,263"/>
+<area shape="rect" id="node8" href="$system__catalog_8c.html#a5788fcf5257fd1c11a183bb9d16a8a40" title="catalog_drop_representation\l_helper" alt="" coords="242,287,427,329"/>
+<area shape="rect" id="node9" href="$system__catalog_8c.html#addb1c3894b0ad1ea94347993af226e8a" title="catalog_put_record\l_into_page" alt="" coords="269,353,401,394"/>
+<area shape="rect" id="node10" href="$system__catalog_8h.html#aa17c0fb2e8eda2108b37a57d26fba19f" title="catalog_update_class_info" alt="" coords="247,419,423,445"/>
+<area shape="rect" id="node11" href="$log__manager_8h.html#ad746664fdeb839dc9faf0d92e0623c3d" title="log_append_redo_recdes" alt="" coords="251,469,418,496"/>
+<area shape="rect" id="node3" href="$system__catalog_8c.html#aec316b7290fcf54222b9ab7bf86895f9" title="catalog_drop_directory" alt="" coords="526,135,679,161"/>
+<area shape="rect" id="node5" href="$system__catalog_8c.html#ae91c4d3ad90a56831581466096150876" title="catalog_insert_representation_item" alt="" coords="491,84,715,111"/>
+</map>

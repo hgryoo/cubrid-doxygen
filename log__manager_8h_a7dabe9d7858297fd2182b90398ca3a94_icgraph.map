@@ -1,0 +1,5 @@
+<map id="log_sysop_end_recovery_postpone" name="log_sysop_end_recovery_postpone">
+<area shape="rect" id="node2" href="$log__recovery_8c.html#a9644e05051274672439fd862fee704f7" title="log_recovery_finish\l_sysop_postpone" alt="" coords="220,39,355,80"/>
+<area shape="rect" id="node3" href="$log__recovery_8c.html#a766a771dfebf096e54eca48d411cf0d0" title="log_recovery_finish\l_postpone" alt="" coords="403,5,537,47"/>
+<area shape="rect" id="node4" href="$log__recovery_8c.html#a07a855b72fc0ff63467c083942f3e49a" title="log_recovery_abort\l_atomic_sysop" alt="" coords="404,71,536,112"/>
+</map>

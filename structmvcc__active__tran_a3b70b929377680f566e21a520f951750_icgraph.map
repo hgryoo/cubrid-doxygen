@@ -1,0 +1,12 @@
+<map id="mvcc_active_tran::get_mask_of" name="mvcc_active_tran::get_mask_of">
+<area shape="rect" id="node2" href="$structmvcc__active__tran.html#a4c2526be5bf36f5dc2cd9877345d5bba" title="mvcc_active_tran::check\l_valid" alt="" coords="204,186,372,227"/>
+<area shape="rect" id="node5" href="$structmvcc__active__tran.html#affcc854b119d8a202e6429e97fbdb82f" title="mvcc_active_tran::set\l_bitarea_mvccid" alt="" coords="677,157,827,198"/>
+<area shape="rect" id="node10" href="$structmvcc__active__tran.html#a6d9dd7835fbd83ba24d4b063eee69c2e" title="mvcc_active_tran::is_set" alt="" coords="204,453,372,480"/>
+<area shape="rect" id="node3" href="$classmvcctable.html#abb49acd267780e611121af87fcaf1431" title="mvcctable::build_mvcc_info" alt="" coords="660,21,844,48"/>
+<area shape="rect" id="node4" href="$structmvcc__active__tran.html#abdd9a7a8307b06e7ea1dcf180be5a2ea" title="mvcc_active_tran::cleanup\l_migrate_to_long_transations" alt="" coords="420,98,612,139"/>
+<area shape="rect" id="node6" href="$structmvcc__active__tran.html#a9821943954e3266bf1fa5971df43341d" title="mvcc_active_tran::copy_to" alt="" coords="427,47,605,73"/>
+<area shape="rect" id="node7" href="$structmvcc__active__tran.html#abd8aaed9ff5cb35624468a91fa06072b" title="mvcc_active_tran::remove\l_long_transaction" alt="" coords="428,215,604,257"/>
+<area shape="rect" id="node8" href="$structmvcc__active__tran.html#ab45c2bd2755f7760f372e337dd4f301c" title="mvcc_active_tran::reset" alt="" coords="435,281,597,308"/>
+<area shape="rect" id="node9" href="$structmvcc__active__tran.html#a992754c8367b04a82703918ba7671d95" title="mvcc_active_tran::reset\l_start_mvccid" alt="" coords="435,333,597,374"/>
+<area shape="rect" id="node11" href="$structmvcc__active__tran.html#a8f8fb1faaf7f82e34d039ab188b30009" title="mvcc_active_tran::is\l_active" alt="" coords="445,450,587,491"/>
+</map>

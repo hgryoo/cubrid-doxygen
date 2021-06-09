@@ -1,0 +1,8 @@
+<map id="heap_classrepr_cache" name="heap_classrepr_cache">
+<area shape="rect" id="node2" href="$structheap__classrepr__hash.html" title="{heap_classrepr_hash\n|+ hash_mutex\l+ idx\l|}" alt="" coords="470,263,615,355"/>
+<area shape="rect" id="node3" href="$structheap__classrepr__entry.html" title="{heap_classrepr_entry\n|+ mutex\l+ idx\l+ fcnt\l+ zone\l+ force_decache\l+ next_wait_thrd\l+ max_reprid\l+ last_reprid\l|}" alt="" coords="237,5,384,185"/>
+<area shape="rect" id="node5" href="$structheap__classrepr__LRU__list.html" title="{heap_classrepr_LRU_list\n|+ LRU_mutex\l|}" alt="" coords="5,270,173,347"/>
+<area shape="rect" id="node7" href="$structheap__classrepr__free__list.html" title="{heap_classrepr_free_list\n|+ free_mutex\l+ free_cnt\l|}" alt="" coords="197,263,360,355"/>
+<area shape="rect" id="node4" href="$structheap__classrepr__lock.html" title="{heap_classrepr_lock\n|+ next_wait_thrd\l|}" alt="" coords="516,57,657,134"/>
+<area shape="rect" id="node6" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="761,270,826,347"/>
+</map>

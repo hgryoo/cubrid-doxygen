@@ -1,0 +1,11 @@
+<map id="vacuum_verify_vacuum_data_page_fix_count" name="vacuum_verify_vacuum_data_page_fix_count">
+<area shape="rect" id="node2" href="$vacuum_8h.html#a503bfb46b513078cca18c570df9907a6" title="vacuum_consume_buffer\l_log_blocks" alt="" coords="223,98,391,139"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="699,34,774,61"/>
+<area shape="rect" id="node6" href="$vacuum_8h.html#a2cb21fa7816f2d0a4cf699cae9e7fd7b" title="vacuum_data_load_and\l_recover" alt="" coords="657,195,816,236"/>
+<area shape="rect" id="node8" href="$vacuum_8c.html#a036c930ecf40c2682d2cde7418589c5b" title="vacuum_data_mark_finished" alt="" coords="213,46,401,73"/>
+<area shape="rect" id="node9" href="$vacuum_8c.html#a25daab97104455e9fa805fc81e61e92f" title="vacuum_data_unload\l_first_and_last_page" alt="" coords="235,184,380,226"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a6a0c8157402f3361e437b601e511c6b8" title="vacuum_finalize" alt="" coords="471,85,587,112"/>
+<area shape="rect" id="node5" href="$vacuum_8c.html#a98dc5dfb2fca47a345da4f0f7c678554" title="vacuum_recover_lost\l_block_data" alt="" coords="456,136,603,178"/>
+<area shape="rect" id="node7" href="$structvacuum__data.html#a8d3ac9a3f174ae46ac29f6347dc5ebea" title="vacuum_data::update" alt="" coords="456,34,603,61"/>
+<area shape="rect" id="node10" href="$vacuum_8h.html#a8763d2485ae400a8f6779bc9549963bb" title="vacuum_sa_reflect_last\l_blockid" alt="" coords="449,254,609,295"/>
+</map>

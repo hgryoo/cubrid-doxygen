@@ -1,0 +1,7 @@
+<map id="serial_cache_pool" name="serial_cache_pool">
+<area shape="rect" id="node2" href="$structserial__cache__area.html" title="{serial_cache_area\n||}" alt="" coords="236,469,363,546"/>
+<area shape="rect" id="node3" href="$structserial__entry.html" title="{serial_entry\n|+ cached_num\l|}" alt="" coords="99,182,207,259"/>
+<area shape="rect" id="node4" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="7,5,99,112"/>
+<area shape="rect" id="node5" href="$structmht__table.html" title="{mht_table\n|+ hash_func\l+ cmp_func\l+ name\l+ size\l+ rehash_at\l+ nentries\l+ nprealloc_entries\l+ ncollisions\l+ heap_id\l+ build_lru_list\l|}" alt="" coords="448,403,580,612"/>
+<area shape="rect" id="node6" href="$structhentry.html" title="{hentry\n|+ key\l+ data\l|}" alt="" coords="485,175,543,267"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="do_process_deallocate_prepare" name="do_process_deallocate_prepare">
+<area shape="rect" id="node2" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="208,104,360,145"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ad6b414798f5f576f2df94299d7842810" title="db_execute_and_keep\l_statement" alt="" coords="422,5,574,47"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#a884a12ed3b75319fe569e73870bc485c" title="db_execute_statement\l_local" alt="" coords="421,71,575,112"/>
+<area shape="rect" id="node5" href="$db__vdb_8c.html#aa67900db91e4c062a739ff4d40d69a3c" title="do_recompile_and_execute\l_prepared_statement" alt="" coords="408,136,588,177"/>
+</map>

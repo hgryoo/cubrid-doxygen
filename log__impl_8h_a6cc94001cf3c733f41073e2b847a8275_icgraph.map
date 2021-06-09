@@ -1,0 +1,7 @@
+<map id="logtb_finalize_tdes" name="logtb_finalize_tdes">
+<area shape="rect" id="node2" href="$classlog__system__tdes.html#a83670aa1209e11d8d6865089376eb0a0" title="log_system_tdes::destroy\l_system_transactions" alt="" coords="184,57,356,98"/>
+<area shape="rect" id="node5" href="$log__tran__table_8c.html#af3b0bac26ee4d5867e1ae5fb093e798a" title="logtb_undefine_trantable" alt="" coords="189,5,351,32"/>
+<area shape="rect" id="node6" href="$classlog__system__tdes.html#ad16ad072f3512a8af5c777ac19d68869" title="log_system_tdes::~log\l_system_tdes" alt="" coords="193,122,347,163"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="439,5,509,32"/>
+<area shape="rect" id="node4" href="$classlog__system__tdes.html#a7623907e4bdbfea3a6b04f5e11e9a9aa" title="log_system_tdes::rv\l_final" alt="" coords="404,57,544,98"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="pr_data_compress_string" name="pr_data_compress_string">
+<area shape="rect" id="node2" href="$object__primitive_8h.html#a876dc426b90e07c042111db0275f20b3" title="pr_do_db_value_string\l_compression" alt="" coords="221,153,373,195"/>
+<area shape="rect" id="node7" href="$object__primitive_8h.html#ae12a8c594fad2fc0fab2db8c4b6a5d40" title="PRIM_SET_NULL" alt="" coords="433,267,563,294"/>
+<area shape="rect" id="node3" href="$object__primitive_8c.html#a3f96397eba1db014f74b7a28b1a2996a" title="mr_lengthval_string\l_internal" alt="" coords="431,5,565,47"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a3dc7ed3aa6f482bd8accdd35ab29ba09" title="mr_writeval_string\l_internal" alt="" coords="434,71,562,112"/>
+<area shape="rect" id="node5" href="$object__primitive_8c.html#a30a67f6680c33d66ac9a9176832b91ba" title="mr_lengthval_varnchar\l_internal" alt="" coords="421,136,575,177"/>
+<area shape="rect" id="node6" href="$object__primitive_8c.html#a7f960851492e52fc5a405f22e52a8923" title="mr_writeval_varnchar\l_internal" alt="" coords="425,201,571,243"/>
+</map>

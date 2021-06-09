@@ -1,0 +1,19 @@
+<map id="parser_alloc" name="parser_alloc">
+<area shape="rect" id="node2" href="$classparser__block__allocator.html#a867b91adf456cf0f1dbe30c60dcf98d4" title="parser_block_allocator\l::alloc" alt="" coords="153,5,305,47"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#aa8b1ba225fb2b9530e3e1b7a07530c39" title="db_parse_one_statement" alt="" coords="145,71,313,98"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#a28f6b1f88850c7fa382ddc105c5cc8ee" title="mq_conditionally_add\l_objects" alt="" coords="156,123,303,164"/>
+<area shape="rect" id="node7" href="$view__transform_8h.html#a67afca1985f6d6a00e0346692bd59e86" title="mq_get_expression" alt="" coords="162,189,297,215"/>
+<area shape="rect" id="node8" href="$view__transform_8c.html#a85a6baf509b2579b68e8324ace3b0398" title="mq_virtual_queries" alt="" coords="164,407,295,434"/>
+<area shape="rect" id="node10" href="$plan__generation_8c.html#a9b721cf191f625f7de25a42bc2b3179b" title="preserve_info" alt="" coords="179,239,279,266"/>
+<area shape="rect" id="node12" href="$semantic__check_8c.html#ad19ec3a1c9d3ada8d8cf8fc3c78c70a1" title="pt_json_str_codeset\l_normalization" alt="" coords="160,291,299,332"/>
+<area shape="rect" id="node14" href="$semantic__check_8c.html#a3ee51f23c7e3b761c2435f5f1cb66c05" title="pt_normalize_path" alt="" coords="165,357,293,383"/>
+<area shape="rect" id="node15" href="$xasl__generation_8c.html#a7ef91e0c976e74e0238c2fef4a538202" title="pt_plan_query" alt="" coords="178,458,281,485"/>
+<area shape="rect" id="node16" href="$parser_8h.html#a7a09d10f8bdab5e33177a1ca42c88b20" title="pt_push" alt="" coords="195,575,263,602"/>
+<area shape="rect" id="node18" href="$schema__manager_8c.html#ac55dba384d00a92cf5ad286808cc1e13" title="sm_save_nested_view\l_versions" alt="" coords="152,509,307,551"/>
+<area shape="rect" id="node4" href="$load__db_8c.html#a5671984042276ef3b0d96e39f9f1f02b" title="ldr_exec_query_from_file" alt="" coords="366,71,533,98"/>
+<area shape="rect" id="node6" href="$view__transform_8c.html#ae483dc0878a45d0bfa9f7d9c72a87a9f" title="mq_updatable_local" alt="" coords="381,130,518,157"/>
+<area shape="rect" id="node9" href="$schema__manager_8h.html#a377cbc4f3e0978a261fdd2682c3624bd" title="sm_virtual_queries" alt="" coords="384,431,515,458"/>
+<area shape="rect" id="node11" href="$plan__generation_8c.html#a5102adacf28a2cda8aa170e7b07af380" title="qo_to_xasl" alt="" coords="407,239,492,266"/>
+<area shape="rect" id="node13" href="$semantic__check_8c.html#acb9a926bc7c567ed5348e59f2c71576f" title="pt_check_json_table_node" alt="" coords="361,334,537,361"/>
+<area shape="rect" id="node17" href="$parser_8h.html#abe28d1962754efefef37b8125c54a12c" title="pt_rewrite_set_eq_set" alt="" coords="374,575,525,602"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="oid_get_serial_oid" name="oid_get_serial_oid">
+<area shape="rect" id="node2" href="$serial_8c.html#acabfa3fb1e3093657b1b510a21647ee7" title="serial_alloc_cache_area" alt="" coords="180,71,341,98"/>
+<area shape="rect" id="node4" href="$serial_8c.html#a5c7fadbb76bc3a179a711c6ffb135494" title="xserial_get_next_value\l_internal" alt="" coords="617,60,772,101"/>
+<area shape="rect" id="node6" href="$serial_8c.html#a53bcdc51c412d9f8688cb18b11a45bcf" title="serial_load_attribute\l_info_of_db_serial" alt="" coords="191,173,330,215"/>
+<area shape="rect" id="node7" href="$serial_8c.html#adacc815e233f8d121d445cf5239ed01f" title="serial_update_cur_val\l_of_serial" alt="" coords="187,239,335,280"/>
+<area shape="rect" id="node8" href="$serial_8c.html#aa31b9c9757cf765c4991a50856d242c4" title="xserial_get_current\l_value_internal" alt="" coords="195,304,327,345"/>
+<area shape="rect" id="node3" href="$serial_8c.html#a68a8e5d34969d7444ff1bb017cfdd37d" title="serial_alloc_cache\l_entry" alt="" coords="415,5,544,47"/>
+<area shape="rect" id="node5" href="$serial_8h.html#aeac3d01d696bc5d57030cae77e38eb58" title="serial_initialize_cache_pool" alt="" coords="389,71,569,98"/>
+</map>

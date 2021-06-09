@@ -1,0 +1,5 @@
+<map id="pt_statement_line_number" name="pt_statement_line_number">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#ac429c7a463e11a81a7c836d3c6e2f23a" title="db_get_start_line" alt="" coords="228,31,349,57"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a5edba87ec494b1ae4cd49030bf3454d4" title="ci_stmt_get_start_line_impl" alt="" coords="397,5,579,32"/>
+<area shape="rect" id="node4" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="403,56,573,83"/>
+</map>

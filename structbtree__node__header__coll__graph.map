@@ -1,0 +1,4 @@
+<map id="btree_node_header" name="btree_node_header">
+<area shape="rect" id="node2" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="5,5,77,97"/>
+<area shape="rect" id="node3" href="$structbtree__node__split__info.html" title="{btree_node_split_info\n|+ pivot\l+ index\l|}" alt="" coords="102,5,247,97"/>
+</map>

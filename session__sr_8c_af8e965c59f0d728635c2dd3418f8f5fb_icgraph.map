@@ -1,0 +1,6 @@
+<map id="xsession_create_prepared_statement" name="xsession_create_prepared_statement">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#ae5f00ea0bad93c48dfd7612c660a56c4" title="csession_create_prepared\l_statement" alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#ab8a5b28a22cda8bcfb1cee739100f6a3" title="ssession_create_prepared\l_statement" alt="" coords="228,71,403,112"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#ac69f13e43ae60dcbdb63c3e77ba2c017" title="do_process_prepare\l_statement" alt="" coords="451,5,589,47"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="467,78,573,105"/>
+</map>

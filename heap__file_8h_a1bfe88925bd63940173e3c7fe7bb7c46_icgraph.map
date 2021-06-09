@@ -1,0 +1,12 @@
+<map id="heap_update_logical" name="heap_update_logical">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#ae78f0cc7ae261f26c82ccecc0b6f6ec0" title="boot_db_parm_update_heap" alt="" coords="193,71,379,98"/>
+<area shape="rect" id="node6" href="$catalog__class_8c.html#af8c9df2e6063f9d7b49b65709fd1d3ca" title="catcls_insert_instance" alt="" coords="210,122,362,149"/>
+<area shape="rect" id="node7" href="$catalog__class_8c.html#a9fe7e4c1337f52799542ab02d0a0991c" title="catcls_update_instance" alt="" coords="207,173,365,199"/>
+<area shape="rect" id="node8" href="$compactdb_8c.html#ac2aa20765fca98fd78c448d2dbeb5aab" title="disk_update_instance" alt="" coords="212,223,360,250"/>
+<area shape="rect" id="node9" href="$locator__sr_8h.html#a4ef4e207374578272aab7839343e3837" title="locator_insert_force" alt="" coords="218,274,354,301"/>
+<area shape="rect" id="node10" href="$locator__sr_8c.html#aa94a327f45350804b2066385650abc9b" title="locator_update_force" alt="" coords="215,325,357,351"/>
+<area shape="rect" id="node11" href="$tde_8c.html#a6f32ef346b6e5ef64c4e4fdb746c7191" title="tde_update_keyinfo" alt="" coords="219,375,353,402"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a603e4c24c4ae4354d9cc8ac9321d07d5" title="boot_remove_all_temp\l_volumes" alt="" coords="441,5,594,47"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="434,71,601,98"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#af22273abf42535dc9e08de112e5b4034" title="boot_dbparm_save_volume" alt="" coords="427,122,608,149"/>
+</map>

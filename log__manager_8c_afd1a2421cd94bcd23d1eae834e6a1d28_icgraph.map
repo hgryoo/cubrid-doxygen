@@ -1,0 +1,12 @@
+<map id="log_sysop_end_logical_compensate" name="log_sysop_end_logical_compensate">
+<area shape="rect" id="node2" href="$btree_8c.html#a3942808b3c18d2e5b2fc7ddc01d72738" title="btree_delete_sysop_end" alt="" coords="227,93,389,120"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a7470968a8e89df012561ca87c68d767f" title="btree_insert_sysop_end" alt="" coords="228,144,388,171"/>
+<area shape="rect" id="node8" href="$file__manager_8c.html#af5423ddf6eaedabd0060fb5adbf411ee" title="file_rv_dealloc_internal" alt="" coords="231,195,385,221"/>
+<area shape="rect" id="node9" href="$file__manager_8h.html#a51fbe00714b6f6e4ae9a57c1e57a00ca" title="file_rv_tracker_unregister_undo" alt="" coords="207,245,409,272"/>
+<area shape="rect" id="node10" href="$log__manager_8c.html#a9207223dc64d4badfed6fa1237931a6a" title="log_rollback_record" alt="" coords="241,296,375,323"/>
+<area shape="rect" id="node11" href="$log__recovery_8c.html#a4709cc43d55b85d001d933feb62b5f9e" title="log_rv_undo_record" alt="" coords="241,347,375,373"/>
+<area shape="rect" id="node3" href="$btree_8c.html#ae76900aeda71256f1f0389b8977d3b86" title="btree_delete_key_from_leaf" alt="" coords="457,5,640,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a09260deab4a3214bafd81f921928652d" title="btree_key_remove_delete\l_mvccid_unique" alt="" coords="463,57,634,98"/>
+<area shape="rect" id="node5" href="$btree_8c.html#abb588d6393e8a8038772b43021ec89bd" title="btree_key_remove_object\l_and_keep_visible_first" alt="" coords="688,145,859,186"/>
+<area shape="rect" id="node6" href="$btree_8c.html#ad196d2d5820bbc8c1390888d77b242ef" title="btree_overflow_remove\l_object" alt="" coords="470,174,627,215"/>
+</map>

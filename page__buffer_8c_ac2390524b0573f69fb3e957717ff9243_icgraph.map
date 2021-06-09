@@ -1,0 +1,6 @@
+<map id="pgbuf_flush_chkpt_seq_list" name="pgbuf_flush_chkpt_seq_list">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#ad4ad85e0c34c5bb45a458a6b0294cdf7" title="pgbuf_flush_checkpoint" alt="" coords="233,56,392,83"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#a850e6db878c034a88e735606f63fa477" title="logpb_remove_archive_logs" alt="" coords="440,5,623,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="470,56,593,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a5d98688d5706fd68216d7931e5638a3b" title="logpb_fatal_error_internal" alt="" coords="448,107,615,133"/>
+</map>

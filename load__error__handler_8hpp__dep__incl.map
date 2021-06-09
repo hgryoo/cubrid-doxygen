@@ -1,0 +1,12 @@
+<map id="src/loaddb/load_error_handler.hpp" name="src/loaddb/load_error_handler.hpp">
+<area shape="rect" id="node2" href="$load__scanner_8hpp.html" title="src/loaddb/load_scanner.hpp" alt="" coords="263,95,451,121"/>
+<area shape="rect" id="node4" href="$load__error__handler_8cpp.html" title="src/loaddb/load_error\l_handler.cpp" alt="" coords="5,244,148,285"/>
+<area shape="rect" id="node5" href="$load__sa__loader_8cpp.html" title="src/loaddb/load_sa\l_loader.cpp" alt="" coords="171,244,302,285"/>
+<area shape="rect" id="node6" href="$load__server__loader_8cpp.html" title="src/loaddb/load_server\l_loader.cpp" alt="" coords="325,244,479,285"/>
+<area shape="rect" id="node9" href="$load__session_8hpp.html" title="src/loaddb/load_session.hpp" alt="" coords="631,169,818,196"/>
+<area shape="rect" id="node3" href="$load__driver_8hpp.html" title="src/loaddb/load_driver.hpp" alt="" coords="295,169,469,196"/>
+<area shape="rect" id="node7" href="$load__session_8cpp.html" title="src/loaddb/load_session.cpp" alt="" coords="503,251,690,278"/>
+<area shape="rect" id="node8" href="$load__worker__manager_8cpp.html" title="src/loaddb/load_worker\l_manager.cpp" alt="" coords="715,244,871,285"/>
+<area shape="rect" id="node10" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="873,333,1056,375"/>
+<area shape="rect" id="node11" href="$session_8h.html" title="src/session/session.h" alt="" coords="946,251,1095,278"/>
+</map>

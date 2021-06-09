@@ -1,0 +1,8 @@
+<map id="stx_restore_func_pred" name="stx_restore_func_pred">
+<area shape="rect" id="node2" href="$stream__to__xasl_8h.html#ab9526b9316b40723d47802a918975284" title="stx_map_stream_to_func_pred" alt="" coords="204,130,405,157"/>
+<area shape="rect" id="node3" href="$partition_8c.html#a0dcfd230a869923282f496fd2d2d867a" title="partition_load_partition\l_predicate" alt="" coords="453,5,605,47"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="466,71,593,98"/>
+<area shape="rect" id="node5" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="464,123,595,164"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#af40ef1310c09076dc7e3d3e718ff4523" title="heap_eval_function\l_index" alt="" coords="462,188,597,229"/>
+<area shape="rect" id="node7" href="$heap__file_8h.html#ab8fae5d7eacb4d85d1a8a9e1a025f011" title="heap_init_func_pred\l_unpack_info" alt="" coords="460,253,599,295"/>
+</map>

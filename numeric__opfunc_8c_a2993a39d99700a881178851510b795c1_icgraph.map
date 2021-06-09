@@ -1,0 +1,21 @@
+<map id="numeric_scale_dec" name="numeric_scale_dec">
+<area shape="rect" id="node2" href="$numeric__opfunc_8h.html#a0c8b7a20a9a7b79d2c7a94052ca159ab" title="numeric_coerce_dec\l_str_to_num" alt="" coords="195,378,338,419"/>
+<area shape="rect" id="node19" href="$numeric__opfunc_8c.html#add251a51fd34bf358468ed422006d663" title="numeric_common_prec\l_scale" alt="" coords="188,443,345,485"/>
+<area shape="rect" id="node20" href="$numeric__opfunc_8c.html#ae8b0a5b7094368db9cb84da38bdf7098" title="numeric_init_pow_of\l_10_helper" alt="" coords="196,509,337,550"/>
+<area shape="rect" id="node3" href="$cnv_8c.html#a648b783d4dba139a4eb2b7d76e96f97f" title="bfmt_print" alt="" coords="445,5,525,32"/>
+<area shape="rect" id="node4" href="$dbtype__function_8h.html#ac2066a6dc6d26bb109e9e4c380860043" title="db_value_domain_min" alt="" coords="409,56,560,83"/>
+<area shape="rect" id="node5" href="$dbtype__function_8h.html#abf0a2dccbb337bbcb8f59ced04b8dc6d" title="db_value_domain_max" alt="" coords="407,107,562,133"/>
+<area shape="rect" id="node6" href="$dbtype__function_8h.html#a4c2b23cd6fc1c2d73ce14dd5cbc7059a" title="db_value_domain_zero" alt="" coords="407,157,562,184"/>
+<area shape="rect" id="node7" href="$namespacecubload.html#a06ce3764d64877e8885da07cb52d5d14" title="cubload::to_db_bigint" alt="" coords="412,208,557,235"/>
+<area shape="rect" id="node8" href="$namespacecubload.html#a5c55b37ca45ea6cf3f004e0bc558c0bc" title="cubload::to_int_generic" alt="" coords="407,259,563,285"/>
+<area shape="rect" id="node9" href="$load__sa__loader_8cpp.html#a843e7b41907a7612b59500152cbd4889" title="ldr_int_elem" alt="" coords="439,309,531,336"/>
+<area shape="rect" id="node10" href="$load__sa__loader_8cpp.html#a224f9bc2a6a7e11916724f38e35d93b6" title="ldr_int_db_bigint" alt="" coords="427,360,543,387"/>
+<area shape="rect" id="node11" href="$arithmetic_8h.html#ad9378ae2c0b068c4a537e3c1ea67fa12" title="db_floor_dbval" alt="" coords="431,411,538,437"/>
+<area shape="rect" id="node12" href="$arithmetic_8h.html#a0535b866d5962b1e6a7577444d977abf" title="db_ceil_dbval" alt="" coords="434,461,535,488"/>
+<area shape="rect" id="node13" href="$arithmetic_8h.html#a2ca1b6f705b0fbbcc8406fdc5d157d29" title="db_round_dbval" alt="" coords="428,512,541,539"/>
+<area shape="rect" id="node14" href="$arithmetic_8h.html#ad0311a523d0853262727aadf322d144d" title="db_trunc_dbval" alt="" coords="429,563,540,589"/>
+<area shape="rect" id="node15" href="$numeric__opfunc_8c.html#afc7fcaa6e7e440034e0251fb06adf599" title="numeric_get_msb_for_dec" alt="" coords="397,613,572,640"/>
+<area shape="rect" id="node16" href="$numeric__opfunc_8c.html#a9cd83f2a696886e5f3d032ead3e1d69d" title="numeric_get_integral_part" alt="" coords="399,664,570,691"/>
+<area shape="rect" id="node17" href="$numeric__opfunc_8c.html#a3393974e7e6158f1cef9f6ec8dbdbe36" title="numeric_get_fractional_part" alt="" coords="393,715,576,741"/>
+<area shape="rect" id="node18" href="$numeric__opfunc_8c.html#a4352a7a90e2a82db8e72ac9c7ca485eb" title="numeric_internal_real\l_to_num" alt="" coords="412,766,557,807"/>
+</map>

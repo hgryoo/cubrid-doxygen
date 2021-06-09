@@ -1,0 +1,11 @@
+<map id="tr_find_trigger" name="tr_find_trigger">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a861ab4bce20c095297b9433051ff5ae0" title="au_change_trigger_owner\l_method" alt="" coords="155,5,325,47"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#a137656e3ac4d662912d32ca9f2e8e47a" title="convert_speclist_to\l_objlist" alt="" coords="173,71,307,112"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#add37b450e92904d9e4b04a50e664de2a" title="db_find_trigger" alt="" coords="187,137,293,163"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#aabad7878e6c79734d44e9f1bb9bd88db" title="do_rename_trigger" alt="" coords="175,187,305,214"/>
+<area shape="rect" id="node7" href="$structtrigger__description.html#a8a801e508766d8b08ee27f306b9c2509" title="trigger_description\l::init" alt="" coords="176,239,304,280"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a688689faf250a85805390314b667a2d9" title="do_alter_trigger" alt="" coords="378,46,489,73"/>
+<area shape="rect" id="node8" href="$csql__session_8c.html#a8903b8da0f4ed2e6c14a392538e495e4" title="csql_help_trigger" alt="" coords="373,195,493,222"/>
+<area shape="rect" id="node9" href="$object__print_8h.html#abada67940a11d79dbd1b4c20c98b8741" title="help_print_obj" alt="" coords="382,246,485,273"/>
+<area shape="rect" id="node10" href="$object__print_8h.html#a4a65ef5bd0fb5dd1001d243c1585dceb" title="help_print_info" alt="" coords="541,271,648,298"/>
+</map>

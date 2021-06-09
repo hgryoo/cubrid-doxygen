@@ -1,0 +1,7 @@
+<map id="db_gadget_destroy" name="db_gadget_destroy">
+<area shape="rect" id="node2" href="$esql__gadget_8h.html#a33673e55e3d17bb8ce86b9a6360bcc80" title="db_gadget_create" alt="" coords="185,5,311,32"/>
+<area shape="rect" id="node3" href="$esql__cli_8c.html#a251d8527b2af365292ad24dd8dd4cac1" title="uci_static" alt="" coords="374,19,453,45"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#a4e1aeb5b5487d5aadb8a6d24fad845b9" title="free_repetitive" alt="" coords="196,107,300,133"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#a3e14a78f45e1471094da61125d67bc82" title="clean_up" alt="" coords="376,81,451,108"/>
+<area shape="rect" id="node6" href="$esql__cli_8c.html#a288ea5272d6f511fcc93bf1b974af1e6" title="uci_disconnect" alt="" coords="359,132,468,159"/>
+</map>

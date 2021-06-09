@@ -1,0 +1,7 @@
+<map id="heap_stats_del_bestspace_by_vpid" name="heap_stats_del_bestspace_by_vpid">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a28f6fc3308f6b6f0fb71222f8f5aa1a8" title="heap_remove_page_on\l_vacuum" alt="" coords="231,5,387,47"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#ab3cb899c1d19e4e21ef56cbaf2630ffa" title="heap_stats_find_page\l_in_bestspace" alt="" coords="234,71,383,112"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#abd325e5117742a611e53e81b0a6efe82" title="heap_vpid_remove" alt="" coords="243,137,374,163"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a3171e0413044eaee675846edbfb3a086" title="vacuum_heap_page" alt="" coords="456,13,595,39"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#af256d9deeaf7200651bfe15fc3b12207" title="heap_stats_find_best_page" alt="" coords="435,78,616,105"/>
+</map>

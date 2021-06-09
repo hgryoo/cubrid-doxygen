@@ -1,0 +1,11 @@
+<map id="db_get_attribute_descriptor" name="db_get_attribute_descriptor">
+<area shape="rect" id="node2" href="$esql__gadget_8h.html#a33673e55e3d17bb8ce86b9a6360bcc80" title="db_gadget_create" alt="" coords="249,5,375,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#afc8676086646494b31f8b100d05f13da" title="do_insert_template" alt="" coords="440,81,572,108"/>
+<area shape="rect" id="node6" href="$execute__statement_8c.html#a2ed4e36685dfd7b5d4e82516a415d0e9" title="insert_subquery_results" alt="" coords="232,107,392,133"/>
+<area shape="rect" id="node7" href="$load__sa__loader_8cpp.html#af3144eb2dc546ac311d12e80c693b3e8" title="ldr_act_add_attr" alt="" coords="255,157,369,184"/>
+<area shape="rect" id="node8" href="$load__sa__loader_8cpp.html#a6f2575a9565edd8800eec6129d0e1db8" title="ldr_refresh_attrs" alt="" coords="254,208,370,235"/>
+<area shape="rect" id="node9" href="$view__transform_8h.html#a67afca1985f6d6a00e0346692bd59e86" title="mq_get_expression" alt="" coords="245,259,379,285"/>
+<area shape="rect" id="node10" href="$execute__statement_8c.html#a7ff55edca9d93dd271aa98b76e7e3605" title="update_object_tuple" alt="" coords="243,309,381,336"/>
+<area shape="rect" id="node3" href="$esql__cli_8c.html#a251d8527b2af365292ad24dd8dd4cac1" title="uci_static" alt="" coords="467,5,545,32"/>
+<area shape="rect" id="node5" href="$execute__statement_8c.html#a6b47e54cc490643b3c953815ef8b84b3" title="insert_local" alt="" coords="620,81,708,108"/>
+</map>

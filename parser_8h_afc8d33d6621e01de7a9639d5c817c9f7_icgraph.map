@@ -1,0 +1,19 @@
+<map id="pt_get_next_error" name="pt_get_next_error">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#a9d69250286fbd63ff09dd500a6dc427d" title="compile_trigger_activity" alt="" coords="187,107,346,133"/>
+<area shape="rect" id="node7" href="$db__vdb_8c.html#a66a840383c668b1a719c2083fcd17de9" title="db_get_line_col_of\l_1st_error" alt="" coords="201,259,332,301"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#afa81ea31d8fc468cb15b868e760cacaf" title="db_get_next_error" alt="" coords="203,325,330,352"/>
+<area shape="rect" id="node14" href="$dbi__compat_8h.html#acdaeb79c92606050ec51040e7df876a5" title="db_get_next_warning" alt="" coords="194,376,339,403"/>
+<area shape="rect" id="node15" href="$view__transform_8c.html#a20a375dad0a270daf85901dbd111f825" title="mq_copy_view_error_msgs" alt="" coords="176,523,357,549"/>
+<area shape="rect" id="node3" href="$trigger__manager_8c.html#a0b91853128ca9cad073d80dbb8011a27" title="eval_action" alt="" coords="445,5,533,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8c.html#ad2d28d50ebb7942bfef70e86477217a7" title="eval_condition" alt="" coords="437,56,542,83"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#ab86886b8498d463986948822d3086b33" title="tr_create_trigger" alt="" coords="431,107,547,133"/>
+<area shape="rect" id="node6" href="$trigger__manager_8c.html#a9895534c1b72fd9bd0bde607bb2bdbff" title="validate_trigger" alt="" coords="434,157,545,184"/>
+<area shape="rect" id="node9" href="$csql__support_8c.html#a9a31db50a2ef2c35b233ee31224c4c08" title="csql_display_session_err" alt="" coords="405,208,573,235"/>
+<area shape="rect" id="node10" href="$db__vdb_8c.html#a2f479c7755c512521e37e7bf27b78436" title="db_open_buffer_and\l_compile_first_statement" alt="" coords="405,259,573,301"/>
+<area shape="rect" id="node11" href="$load__db_8c.html#a5671984042276ef3b0d96e39f9f1f02b" title="ldr_exec_query_from_file" alt="" coords="406,325,573,352"/>
+<area shape="rect" id="node12" href="$db__stub_8c.html#a1270305253397f2df6f248228ca271c1" title="stmt_exec_batch_query\l_internal" alt="" coords="409,377,570,418"/>
+<area shape="rect" id="node13" href="$db__stub_8c.html#ab850933ab338cf8afe135396ea1ef410" title="stmt_make_error_info" alt="" coords="415,443,563,469"/>
+<area shape="rect" id="node16" href="$view__transform_8c.html#a5a6c9bacc8d25c691f54840c13c98467" title="mq_fetch_subqueries" alt="" coords="416,493,563,520"/>
+<area shape="rect" id="node17" href="$view__transform_8c.html#af1900d43029fe9713f1a36feb588bd69" title="mq_fetch_subqueries\l_for_update_local" alt="" coords="416,545,563,586"/>
+<area shape="rect" id="node18" href="$view__transform_8c.html#a88d6ff0ad20516faa5100141956e71b2" title="mq_fetch_attributes" alt="" coords="421,611,558,637"/>
+</map>

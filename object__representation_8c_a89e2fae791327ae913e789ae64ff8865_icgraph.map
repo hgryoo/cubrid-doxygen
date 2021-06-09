@@ -1,0 +1,5 @@
+<map id="or_put_monetary" name="or_put_monetary">
+<area shape="rect" id="node2" href="$object__primitive_8c.html#a8de58deb81ba7996efdb73c444089bbf" title="mr_data_writemem_money" alt="" coords="172,5,351,32"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a320ff047462376f0c757eae3fcdc8949" title="mr_data_writeval_money" alt="" coords="178,56,345,83"/>
+<area shape="rect" id="node3" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="399,23,539,65"/>
+</map>

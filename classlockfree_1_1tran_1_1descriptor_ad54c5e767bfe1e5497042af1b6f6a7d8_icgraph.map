@@ -1,0 +1,5 @@
+<map id="lockfree::tran::descriptor::retire_node" name="lockfree::tran::descriptor::retire_node">
+<area shape="rect" id="node2" href="$classlockfree_1_1freelist.html#a32402078c9ecee6c1c9aeb04a907d172" title="lockfree::freelist\l::retire" alt="" coords="216,39,331,80"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1hashmap.html#adea7f6dced1f317c993e1919b16ceae9" title="lockfree::hashmap::\lfreelist_retire" alt="" coords="379,5,516,47"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1freelist.html#a5908096c0dd5806ce81793e9501212d1" title="lockfree::freelist\l::retire" alt="" coords="390,71,505,112"/>
+</map>

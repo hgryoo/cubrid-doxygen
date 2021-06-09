@@ -1,0 +1,5 @@
+<map id="init_builtin_calendar_names" name="init_builtin_calendar_names">
+<area shape="rect" id="node2" href="$language__support_8c.html#a500032346a01857cfdc6e86c445d4169" title="register_lang_locale_data" alt="" coords="189,31,359,57"/>
+<area shape="rect" id="node3" href="$language__support_8c.html#ae455bef4c810e301896b3ae6c3c83c55" title="init_user_locales" alt="" coords="407,5,525,32"/>
+<area shape="rect" id="node4" href="$language__support_8h.html#a40d77c7475b664ba0d6cccd50268bb77" title="lang_init_builtin" alt="" coords="411,56,521,83"/>
+</map>

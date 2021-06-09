@@ -1,0 +1,6 @@
+<map id="heap_reclaim_addresses" name="heap_reclaim_addresses">
+<area shape="rect" id="node2" href="$compactdb_8c.html#af0c3d428686aedb5273a5e83379cf791" title="compactdb_start" alt="" coords="256,5,375,32"/>
+<area shape="rect" id="node4" href="$compactdb__cl_8c.html#a3c96cc7b752912d6205b04479c0e0289" title="do_reclaim_class_addresses" alt="" coords="220,56,411,83"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a06afe3266607d870e700d54e8dc0e007" title="compactdb" alt="" coords="491,5,578,32"/>
+<area shape="rect" id="node5" href="$compactdb__cl_8c.html#ad3b2ec867203ae1e6e05d1b2e304ba01" title="do_reclaim_addresses" alt="" coords="459,56,611,83"/>
+</map>

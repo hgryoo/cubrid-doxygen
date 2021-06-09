@@ -1,0 +1,15 @@
+<map id="db_fetch_set" name="db_fetch_set">
+<area shape="rect" id="node2" href="$authenticate_8c.html#a866fc90cd826abf531de155b748c8442" title="au_get_set" alt="" coords="156,262,243,289"/>
+<area shape="rect" id="node14" href="$csql__result__format_8c.html#a0421a667c87ff13e8a9906649ad2b3e1" title="set_to_string" alt="" coords="151,313,248,340"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#aa039fd934cbe1b55cd8b9a9042a280d5" title="au_is_dba_group_member" alt="" coords="296,161,471,188"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#abf5a1e3cd4160a51bc6acd4abff51bb6" title="au_add_user" alt="" coords="979,161,1075,188"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a432ae2e4cbf4a4657fc1165dd0f553a7" title="au_drop_user" alt="" coords="567,212,667,238"/>
+<area shape="rect" id="node6" href="$authenticate_8c.html#adf983ab6951322d3850ce69b0f114b15" title="update_cache" alt="" coords="566,60,669,86"/>
+<area shape="rect" id="node7" href="$authenticate_8h.html#a5977c8195fa7b224635c12eaf472cce8" title="au_check_serial_authorization" alt="" coords="519,110,716,137"/>
+<area shape="rect" id="node8" href="$authenticate_8c.html#a9fac41a8452d6f3a08f30fb13ad96f2b" title="au_add_direct_groups" alt="" coords="309,313,458,340"/>
+<area shape="rect" id="node9" href="$authenticate_8c.html#aaf9859e56ac7f259cde7f167e1e0a609" title="au_compute_groups" alt="" coords="548,313,687,340"/>
+<area shape="rect" id="node10" href="$authenticate_8c.html#ada79c42256625eef01008fd31cd7a5b3" title="au_add_member_internal" alt="" coords="764,313,931,340"/>
+<area shape="rect" id="node11" href="$authenticate_8h.html#aa0c24965d6f0630211fb1e4e1f6769d2" title="au_drop_member" alt="" coords="786,262,909,289"/>
+<area shape="rect" id="node12" href="$authenticate_8h.html#a5cfe0a7ffd242da92334d64fce12f629" title="au_export_users" alt="" coords="324,465,443,492"/>
+<area shape="rect" id="node13" href="$authenticate_8h.html#afa9e1997f61ce12d24206b20e3990378" title="au_dump_user" alt="" coords="330,516,437,542"/>
+</map>

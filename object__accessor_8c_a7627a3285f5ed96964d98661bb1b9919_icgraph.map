@@ -1,0 +1,7 @@
+<map id="assign_null_value" name="assign_null_value">
+<area shape="rect" id="node2" href="$object__accessor_8h.html#a75bad53edf181665094471ff7fb2aa18" title="obj_assign_value" alt="" coords="179,81,301,108"/>
+<area shape="rect" id="node3" href="$object__accessor_8c.html#a8486c3a1ff8729d0497dcd8ff6e1de18" title="obj_set_att" alt="" coords="391,5,478,32"/>
+<area shape="rect" id="node4" href="$object__accessor_8h.html#a0f93e96c247b9b3ac1ef5ed210d91110" title="obj_set_shared" alt="" coords="379,56,490,83"/>
+<area shape="rect" id="node5" href="$object__template_8c.html#ab22d1bdb8aec34adb13532d8a8f437b4" title="obt_apply_assignment" alt="" coords="359,107,511,133"/>
+<area shape="rect" id="node6" href="$virtual__object_8c.html#a4c83744f2982452b7daccec22c2e32f6" title="vid_build_non_upd_object" alt="" coords="349,157,520,184"/>
+</map>

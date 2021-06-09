@@ -1,0 +1,21 @@
+<map id="object_to_trigger" name="object_to_trigger">
+<area shape="rect" id="node2" href="$trigger__manager_8h.html#adb8433e711d54260aa2106b6f1e0582c" title="tr_map_trigger" alt="" coords="331,427,436,453"/>
+<area shape="rect" id="node20" href="$trigger__manager_8c.html#a9895534c1b72fd9bd0bde607bb2bdbff" title="validate_trigger" alt="" coords="172,452,283,479"/>
+<area shape="rect" id="node3" href="$cas__execute_8c.html#a8d1e4125473165ac7455afd4fb1ca9d6" title="sch_trigger" alt="" coords="524,5,611,32"/>
+<area shape="rect" id="node4" href="$structtrigger__description.html#ac3af8056cb431008a1e78b37b70c0050" title="trigger_description\l::init" alt="" coords="503,57,631,98"/>
+<area shape="rect" id="node5" href="$trigger__description_8hpp.html#a577010140143969b3e85607b46ef9215" title="tr_dump_trigger" alt="" coords="511,123,623,149"/>
+<area shape="rect" id="node6" href="$trigger__description_8hpp.html#a0d5bbc4d8ab5e778f6cfee8fbb87db50" title="tr_dump_selective_triggers" alt="" coords="699,148,877,175"/>
+<area shape="rect" id="node7" href="$trigger__manager_8c.html#a9f341ff4ec84a560c6ff82709ba8b15a" title="get_user_trigger_objects" alt="" coords="485,224,649,251"/>
+<area shape="rect" id="node8" href="$trigger__manager_8h.html#aa62cab01de1b47040f2a7b1901f77976" title="tr_update_user_cache" alt="" coords="492,275,643,301"/>
+<area shape="rect" id="node9" href="$trigger__manager_8h.html#a62e2419a0fa885ce37408077515d9c9c" title="tr_copy_schema_cache" alt="" coords="487,325,647,352"/>
+<area shape="rect" id="node10" href="$trigger__manager_8h.html#a63a05f6489a3ce3498ff66caf7655618" title="tr_add_cache_trigger" alt="" coords="496,376,639,403"/>
+<area shape="rect" id="node11" href="$trigger__manager_8h.html#a5504bbaa6c0aaf4394cd0e7a9837356d" title="tr_drop_cache_trigger" alt="" coords="494,427,641,453"/>
+<area shape="rect" id="node12" href="$trigger__manager_8h.html#ad89d5f60cc42a200b24266423ad11f9d" title="tr_validate_schema\l_cache" alt="" coords="500,502,635,543"/>
+<area shape="rect" id="node13" href="$trigger__manager_8h.html#aed70ae6c883a57725cfef43cdc03d3c1" title="tr_delete_triggers\l_for_class" alt="" coords="727,531,849,573"/>
+<area shape="rect" id="node14" href="$trigger__manager_8h.html#afd3ebb09b26a4970fb843447edd80b0b" title="tr_delete_schema_cache" alt="" coords="484,619,651,645"/>
+<area shape="rect" id="node15" href="$trigger__manager_8c.html#a2cf118f2ffbccb0ad6860e0e9217f939" title="find_all_triggers" alt="" coords="511,669,624,696"/>
+<area shape="rect" id="node16" href="$trigger__manager_8h.html#a379df045bc5cc99a1ddc0dc939438977" title="tr_find_trigger" alt="" coords="517,720,618,747"/>
+<area shape="rect" id="node17" href="$trigger__manager_8h.html#a827ce53f0cf72325508e1faa557e968f" title="tr_check_authorization" alt="" coords="491,771,644,797"/>
+<area shape="rect" id="node18" href="$trigger__manager_8h.html#a94fe1954d05e02fb4c78f222fea68ea6" title="tr_drop_trigger" alt="" coords="515,821,620,848"/>
+<area shape="rect" id="node19" href="$trigger__manager_8h.html#a1048749f9143c056e10defb1b8116840" title="tr_trigger_name" alt="" coords="511,872,623,899"/>
+</map>

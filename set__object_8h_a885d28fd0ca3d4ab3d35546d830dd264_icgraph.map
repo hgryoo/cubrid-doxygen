@@ -1,0 +1,21 @@
+<map id="setobj_build_domain_from_col" name="setobj_build_domain_from_col">
+<area shape="rect" id="node2" href="$object__domain_8h.html#ae3d1007e8b282a270e712bc9c69dc2f1" title="tp_domain_resolve_value" alt="" coords="193,451,363,478"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a3457573009d9e6a458955b5e941d0249" title="btree_range_opt_check\l_add_index_key" alt="" coords="422,5,579,47"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a808d1caf2a1fe3f468169c9e18fdafcd" title="do_evaluate_default_expr" alt="" coords="415,71,586,98"/>
+<area shape="rect" id="node5" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="639,274,757,301"/>
+<area shape="rect" id="node6" href="$fetch_8c.html#a6a331fd74c1c8c3fc931edc187f44047" title="fetch_peek_dbval" alt="" coords="805,274,929,301"/>
+<area shape="rect" id="node7" href="$query__analytic_8hpp.html#a77694d66899ad7e3bfe752bc6a4201f6" title="qdata_evaluate_analytic_func" alt="" coords="977,158,1172,185"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="1000,245,1149,271"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#ad3cbf827ba4bda1771f279c6e4c80302" title="qexec_resolve_domains\l_for_aggregation" alt="" coords="993,312,1156,353"/>
+<area shape="rect" id="node10" href="$scan__manager_8c.html#ac8ee5e8b3f67e808a8c27d79c29512f9" title="scan_dbvals_to_midxkey" alt="" coords="990,410,1159,437"/>
+<area shape="rect" id="node11" href="$load__sa__loader_8cpp.html#a1a77ed5487dc8798765d2acda71bba40" title="ldr_bstr_elem" alt="" coords="451,477,551,503"/>
+<area shape="rect" id="node12" href="$load__sa__loader_8cpp.html#a2ee9178a1dbc24dfbb86dd833dc213c3" title="ldr_xstr_elem" alt="" coords="451,527,551,554"/>
+<area shape="rect" id="node13" href="$object__representation_8c.html#abf37a5f19595abfeb1ad4858d74d3168" title="or_pack_mem_value" alt="" coords="429,578,572,605"/>
+<area shape="rect" id="node14" href="$object__representation_8c.html#a8d09a60ee7bdf35070f08ef1e1e510b4" title="or_packed_value_size" alt="" coords="425,629,576,655"/>
+<area shape="rect" id="node15" href="$object__representation_8c.html#a1d7a466f0aafaccaadbf0685f67e7946" title="or_put_value" alt="" coords="453,679,549,706"/>
+<area shape="rect" id="node16" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="411,730,591,757"/>
+<area shape="rect" id="node17" href="$xasl__generation_8h.html#afe16617c99177ca7cb6d411d9e5e5713" title="pt_to_regu_variable" alt="" coords="433,805,568,831"/>
+<area shape="rect" id="node18" href="$query__opfunc_8h.html#aac9d8a58076279ce106291800e69f542" title="qdata_strcat_dbval" alt="" coords="435,223,567,250"/>
+<area shape="rect" id="node19" href="$namespacecubload.html#a1fc9fd0cf3f5c0758018e42030ed6ff5" title="cubload::to_db_varbit\l_from_bin_str" alt="" coords="427,856,574,897"/>
+<area shape="rect" id="node20" href="$namespacecubload.html#abff1d0671d4a2706c2b0b6e6e8cb89d4" title="cubload::to_db_varbit\l_from_hex_str" alt="" coords="427,921,574,963"/>
+</map>

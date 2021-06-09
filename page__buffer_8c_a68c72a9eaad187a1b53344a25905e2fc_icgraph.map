@@ -1,0 +1,9 @@
+<map id="pgbuf_notify_vacuum_follows" name="pgbuf_notify_vacuum_follows">
+<area shape="rect" id="node2" href="$btree_8c.html#a044540db3ec67e88e9313f84c6b242ee" title="btree_split_node_and\l_advance" alt="" coords="214,27,359,69"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a9ba19c0baec377fbab0da02a75c7260d" title="log_append_undo_crumbs" alt="" coords="200,93,373,120"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a487dabcb7a4dc15bab76299fb5ff1660" title="log_append_undoredo\l_crumbs" alt="" coords="213,145,361,186"/>
+<area shape="rect" id="node7" href="$vacuum_8c.html#adf3aabbdefc66d86e068756ddcf9fe30" title="vacuum_find_dropped_file" alt="" coords="200,211,373,237"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a47ec7c5cf4f83c21beeef6944fab8d27" title="btree_insert_internal" alt="" coords="433,5,572,32"/>
+<area shape="rect" id="node4" href="$btree_8h.html#af9b91aa85529070ebd9a572128bcab4c" title="btree_online_index\l_list_dispatcher" alt="" coords="437,57,568,98"/>
+<area shape="rect" id="node8" href="$vacuum_8h.html#a0a55bc5bf18a3ecd596732eb313bf5c1" title="vacuum_is_file_dropped" alt="" coords="421,211,584,237"/>
+</map>

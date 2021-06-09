@@ -1,0 +1,9 @@
+<map id="xcache_invalidate_entries" name="xcache_invalidate_entries">
+<area shape="rect" id="node2" href="$xasl__cache_8h.html#a616e4c6ab7e8da6dae6971642b28ff42" title="xcache_drop_all" alt="" coords="247,42,363,69"/>
+<area shape="rect" id="node4" href="$xasl__cache_8h.html#abf5104a1d53762e1b5cc0339278199fd" title="xcache_remove_by_oid" alt="" coords="225,122,384,149"/>
+<area shape="rect" id="node3" href="$query__manager_8c.html#af71286aa3593b13b4ec7bbaf73096ebd" title="xqmgr_drop_all_query\l_plans" alt="" coords="432,5,581,47"/>
+<area shape="rect" id="node5" href="$serial_8h.html#a1dbad3cc661d30a102b35a432a8d12b3" title="xserial_decache" alt="" coords="449,71,565,98"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#aa94a327f45350804b2066385650abc9b" title="locator_update_force" alt="" coords="435,122,578,149"/>
+<area shape="rect" id="node7" href="$locator__sr_8c.html#a88c3c06fcfbc59cb3c6d1d1a147b69c7" title="locator_delete_force\l_internal" alt="" coords="437,173,576,215"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html#ab4caf562d8285575e31569853071f90e" title="log_cleanup_modified\l_class" alt="" coords="433,239,580,280"/>
+</map>

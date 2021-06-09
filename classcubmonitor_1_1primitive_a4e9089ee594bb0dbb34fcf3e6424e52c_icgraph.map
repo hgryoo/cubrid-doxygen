@@ -1,0 +1,8 @@
+<map id="cubmonitor::primitive::get_value" name="cubmonitor::primitive::get_value">
+<area shape="rect" id="node2" href="$classcubmonitor_1_1max__statistic.html#a19cb06b2ffe89523f523ed19e08f8a76" title="cubmonitor::max_statistic\l::collect" alt="" coords="196,5,368,47"/>
+<area shape="rect" id="node3" href="$classcubmonitor_1_1max__atomic__statistic.html#ae47e1570cfefa1a2cc5e43a1eede785d" title="cubmonitor::max_atomic\l_statistic::collect" alt="" coords="199,71,365,112"/>
+<area shape="rect" id="node4" href="$classcubmonitor_1_1min__statistic.html#ae22603d6617ba8480c27f0fc9e04ebc1" title="cubmonitor::min_statistic\l::collect" alt="" coords="198,136,366,177"/>
+<area shape="rect" id="node5" href="$classcubmonitor_1_1min__atomic__statistic.html#aaf9a8d4f04093b1c9cf790f9852fd61a" title="cubmonitor::min_atomic\l_statistic::collect" alt="" coords="201,201,363,243"/>
+<area shape="rect" id="node6" href="$classcubmonitor_1_1atomic__primitive.html#a8cb7c576891011c0c133dc84f70074b1" title="cubmonitor::atomic\l_primitive::fetch" alt="" coords="215,267,349,308"/>
+<area shape="rect" id="node7" href="$classcubmonitor_1_1atomic__primitive_3_01time__rep_01_4.html#a4ce838394ca5acbf0a21bb9256e11187" title="cubmonitor::atomic\l_primitive\&lt; time_rep\l \&gt;::fetch" alt="" coords="212,331,352,387"/>
+</map>

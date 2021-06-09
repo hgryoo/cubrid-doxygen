@@ -1,0 +1,21 @@
+<map id="or_packed_value_size" name="or_packed_value_size">
+<area shape="rect" id="node2" href="$transform__cl_8c.html#a6a9b9bcc9240544a32d2e63df9e094a1" title="attribute_size" alt="" coords="247,5,347,32"/>
+<area shape="rect" id="node5" href="$transform__cl_8c.html#ac81b2c7073a8cac33ce951a3d727a2dd" title="attribute_to_disk" alt="" coords="238,107,357,133"/>
+<area shape="rect" id="node6" href="$class__object_8c.html#a186c4775034ebe0984081c336cc520c9" title="classobj_partition\l_info_size" alt="" coords="236,158,359,199"/>
+<area shape="rect" id="node8" href="$classcubpacking_1_1packer.html#a9c650127d33a43344588ac3dbae79d45" title="cubpacking::packer\l::get_packed_db_value_size" alt="" coords="204,223,391,265"/>
+<area shape="rect" id="node10" href="$object__representation_8c.html#aa0261ab4aaebbe6784bc0dab7c4f6285" title="or_db_value_size" alt="" coords="236,289,359,316"/>
+<area shape="rect" id="node16" href="$object__representation_8c.html#ae09461d626c0a06cce912342c05c5279" title="or_packed_set_length" alt="" coords="223,340,372,367"/>
+<area shape="rect" id="node17" href="$classcubpacking_1_1packer.html#a263a0223b2ec4d1c9665b0bdc69c6029" title="cubpacking::packer\l::pack_db_value" alt="" coords="230,391,365,433"/>
+<area shape="rect" id="node18" href="$transform__cl_8c.html#aaa0b61e7459def47441b772d76bf667c" title="partition_info_size" alt="" coords="234,56,361,83"/>
+<area shape="rect" id="node19" href="$transform__cl_8c.html#a61c6bb9908b96a3c91c2269f4fa832ce" title="partition_info_to_disk" alt="" coords="225,457,370,484"/>
+<area shape="rect" id="node20" href="$classcubpacking_1_1unpacker.html#a952aca5a0d23f370d308a7af18dab9da" title="cubpacking::unpacker\l::unpack_db_value" alt="" coords="223,509,372,550"/>
+<area shape="rect" id="node3" href="$transform__cl_8c.html#a2940e3e297539042269fc3fe34dda2f6" title="put_class_varinfo" alt="" coords="476,56,600,83"/>
+<area shape="rect" id="node4" href="$transform__cl_8c.html#ad5ad8fcfe272e02dde2a13c83d1ac60e" title="tf_class_size" alt="" coords="489,5,587,32"/>
+<area shape="rect" id="node7" href="$class__object_8h.html#aaddc4e1a19b5bd2a734e1b696ae9c4fc" title="classobj_class_size" alt="" coords="469,107,607,133"/>
+<area shape="rect" id="node9" href="$classcubpacking_1_1packer.html#a432b65bfcd44d850cca9053ba3f26ed7" title="cubpacking::packer\l::get_packed_size_overloaded" alt="" coords="439,158,637,199"/>
+<area shape="rect" id="node11" href="$object__representation_8c.html#a08b9cf832ed7d6ea52c192db90939aed" title="or_header_size" alt="" coords="483,340,593,367"/>
+<area shape="rect" id="node12" href="$network__interface__sr_8h.html#adb78b7f7e8f4e8d794cbd1a858f019d2" title="sserial_get_current\l_value" alt="" coords="472,391,604,433"/>
+<area shape="rect" id="node13" href="$network__interface__sr_8h.html#a567c4412145b84f55f0226f4f10fb118" title="sserial_get_next_value" alt="" coords="461,457,615,484"/>
+<area shape="rect" id="node14" href="$network__interface__sr_8h.html#aa48fb4c1fd4a390c132b6d723cc6f5d3" title="ssession_get_session\l_variable" alt="" coords="463,223,613,265"/>
+<area shape="rect" id="node15" href="$xasl__to__stream_8c.html#a751e8c477bf3c02816209515bd58dea8" title="xts_sizeof_db_value" alt="" coords="467,289,609,316"/>
+</map>

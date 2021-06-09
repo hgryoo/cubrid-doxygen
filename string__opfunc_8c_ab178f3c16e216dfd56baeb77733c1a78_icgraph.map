@@ -1,0 +1,6 @@
+<map id="lob_length" name="lob_length">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#a61bde9fe2af41831605a8c25dc69c8ff" title="db_blob_length" alt="" coords="135,5,244,32"/>
+<area shape="rect" id="node5" href="$string__opfunc_8h.html#a13695600160fd76116245092fc8c9ee8" title="db_clob_length" alt="" coords="135,56,244,83"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="292,5,472,32"/>
+<area shape="rect" id="node4" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="323,56,441,83"/>
+</map>

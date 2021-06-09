@@ -1,0 +1,12 @@
+<map id="logddl_set_stmt_type" name="logddl_set_stmt_type">
+<area shape="rect" id="node2" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="200,31,371,57"/>
+<area shape="rect" id="node5" href="$cas__function_8c.html#a59abc316a41a5e6a8c2bdba5a430cff8" title="fn_execute_internal" alt="" coords="218,132,353,159"/>
+<area shape="rect" id="node8" href="$cas__execute_8h.html#a58deea8c335da5c20867f4664eeb7e5f" title="ux_execute_batch" alt="" coords="221,183,349,209"/>
+<area shape="rect" id="node10" href="$cas__execute_8h.html#aee0aa1d2154b6630cb99732f71ad118a" title="ux_prepare" alt="" coords="242,233,329,260"/>
+<area shape="rect" id="node3" href="$csql_8c.html#a5a64da02076e414cb5f4ebdeb89248b4" title="start_csql" alt="" coords="660,5,739,32"/>
+<area shape="rect" id="node4" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="419,31,569,57"/>
+<area shape="rect" id="node6" href="$cas__function_8h.html#a31b966edfa456e1e3fadead7fc52bb18" title="fn_execute" alt="" coords="451,81,537,108"/>
+<area shape="rect" id="node7" href="$cas__function_8h.html#a22ed562385892154a3aff3f737225809" title="fn_prepare_and_execute" alt="" coords="617,183,781,209"/>
+<area shape="rect" id="node9" href="$cas__function_8h.html#a0a2cf3821b50c136de71b03a9f25c788" title="fn_execute_batch" alt="" coords="431,183,557,209"/>
+<area shape="rect" id="node11" href="$cas__function_8c.html#a635a2b29ecc1cec25b1461301ca3aab6" title="fn_prepare_internal" alt="" coords="428,233,560,260"/>
+</map>

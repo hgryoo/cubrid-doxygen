@@ -1,0 +1,7 @@
+<map id="method_invoke_for_server" name="method_invoke_for_server">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a2deda16a5fdfddae06f2b7cd1b0775f9" title="net_client_request\l_with_callback" alt="" coords="228,74,356,115"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a4063b720c7c3f62d788ba8ce6c1d6fe1" title="boot_backup" alt="" coords="449,5,545,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a8c88eb493c78aba75ab2ed7999117268" title="boot_check_db_consistency" alt="" coords="404,56,591,83"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#af5588ff08bd4f5d52ccbf0219200ce0d" title="qmgr_execute_query" alt="" coords="426,107,569,133"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#aa1d13fdaaabf04f020e83a9070f3d05c" title="qmgr_prepare_and_execute\l_query" alt="" coords="406,158,589,199"/>
+</map>

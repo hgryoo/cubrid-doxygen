@@ -1,0 +1,28 @@
+var classlockfree_1_1tran_1_1descriptor =
+[
+    [ "descriptor", "classlockfree_1_1tran_1_1descriptor.html#ad1cdb2c7813ddefc8aefe51d70a3d1b8", null ],
+    [ "~descriptor", "classlockfree_1_1tran_1_1descriptor.html#ad1560715c6f4711750f793451c55a271", null ],
+    [ "end_tran", "classlockfree_1_1tran_1_1descriptor.html#a33a2b05a75de930b7cb99ca06b9b4b34", null ],
+    [ "get_current_retire_count", "classlockfree_1_1tran_1_1descriptor.html#a4397987cc9f250500b244bdd71e46d0a", null ],
+    [ "get_total_reclaim_count", "classlockfree_1_1tran_1_1descriptor.html#a36c9a5b8d7737005a7c02a353597cb19", null ],
+    [ "get_total_retire_count", "classlockfree_1_1tran_1_1descriptor.html#ab9aa10e77e9cab36827b96f468092c70", null ],
+    [ "get_transaction_id", "classlockfree_1_1tran_1_1descriptor.html#a4876937d43cecddaa57bea87d556ab2a", null ],
+    [ "is_tran_started", "classlockfree_1_1tran_1_1descriptor.html#aa3025aa44a4165542d623ecf8f968c38", null ],
+    [ "pull_saved_reclaimable", "classlockfree_1_1tran_1_1descriptor.html#a811f1183c0397af6242dde8cfa081126", null ],
+    [ "reclaim_retired_head", "classlockfree_1_1tran_1_1descriptor.html#a5f12e49578a1fed59f3898c21fb41fa4", null ],
+    [ "reclaim_retired_list", "classlockfree_1_1tran_1_1descriptor.html#a79052fd01859dbe6b3c8dd9b4b2cc7b4", null ],
+    [ "retire_node", "classlockfree_1_1tran_1_1descriptor.html#ad54c5e767bfe1e5497042af1b6f6a7d8", null ],
+    [ "save_reclaimable", "classlockfree_1_1tran_1_1descriptor.html#ac179672e0c5e305aab26e871158a6200", null ],
+    [ "set_table", "classlockfree_1_1tran_1_1descriptor.html#acb446509036bd509775deda2c8660885", null ],
+    [ "start_tran", "classlockfree_1_1tran_1_1descriptor.html#a2dbce4737fd0ccfc6b30e4123f8222e6", null ],
+    [ "start_tran_and_increment_id", "classlockfree_1_1tran_1_1descriptor.html#a2dc1d777c98549f4fa72bf76a9645d15", null ],
+    [ "m_did_incr", "classlockfree_1_1tran_1_1descriptor.html#abb96856506be40998894dd37676866f8", null ],
+    [ "m_last_reclaim_minid", "classlockfree_1_1tran_1_1descriptor.html#a05a170910838edcd3e6fbcc0166d71c5", null ],
+    [ "m_reclaim_count", "classlockfree_1_1tran_1_1descriptor.html#acbf4dabb0f788954bdb472ebe4da00c4", null ],
+    [ "m_retire_count", "classlockfree_1_1tran_1_1descriptor.html#a805c5d4ba36e4cf187b839831a344539", null ],
+    [ "m_retired_head", "classlockfree_1_1tran_1_1descriptor.html#aaf82bc6ab438d89181cd1948580504bf", null ],
+    [ "m_retired_tail", "classlockfree_1_1tran_1_1descriptor.html#a777f1ee4a1260c90219a905a38be0aea", null ],
+    [ "m_saved_node", "classlockfree_1_1tran_1_1descriptor.html#a8d1a4677e70f463d12a058124db33ab7", null ],
+    [ "m_table", "classlockfree_1_1tran_1_1descriptor.html#ad90d5e1eb4e1ca02b359116283fbef4e", null ],
+    [ "m_tranid", "classlockfree_1_1tran_1_1descriptor.html#a378d706a0e0f143bc28a7c0a7220593a", null ]
+];

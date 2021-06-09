@@ -1,0 +1,10 @@
+<map id="smt_add_attribute_w_dflt_w_order" name="smt_add_attribute_w_dflt_w_order">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#ac8eacd48feb9548404602a075d45b0a2" title="do_add_attribute" alt="" coords="221,16,339,42"/>
+<area shape="rect" id="node4" href="$schema__template_8h.html#a36b410f2acaa3e59448feb91e8da87ee" title="smt_add_attribute_w_dflt" alt="" coords="196,117,364,144"/>
+<area shape="rect" id="node3" href="$execute__schema_8h.html#a189597b19b23b2586850fcd842f781b7" title="do_add_attributes" alt="" coords="647,121,772,148"/>
+<area shape="rect" id="node5" href="$class__object_8c.html#a4d542200702e13cb1b51050d70f99b58" title="classobj_copy_attribute_like" alt="" coords="412,41,599,68"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a279fbb77f55d4b55210cc2962afa8d14" title="dbt_add_attribute" alt="" coords="444,92,567,118"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#ab36a662b13db74b50cdb6599ecd1afe2" title="dbt_add_class_attribute" alt="" coords="425,142,585,169"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#aa4be1b078aba956c3cfef2b05392085d" title="dbt_add_shared_attribute" alt="" coords="421,193,589,220"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html#a52d780f43ce5a65f6e8ab75a4fa76d59" title="do_add_attribute_from\l_select_column" alt="" coords="430,244,581,286"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="sm_domain_copy" name="sm_domain_copy">
+<area shape="rect" id="node2" href="$db__query_8h.html#a8816ec16c29d6abc04f3a8a1579da6c6" title="db_cp_query_type" alt="" coords="591,35,719,61"/>
+<area shape="rect" id="node6" href="$db__query_8c.html#af8d01b0d574ae570f449c10a2a90d638" title="db_cp_query_type_helper" alt="" coords="349,35,520,61"/>
+<area shape="rect" id="node7" href="$db__query_8h.html#af1725ea4452f98af3935c71c966e41c8" title="db_init_query_result" alt="" coords="365,209,504,236"/>
+<area shape="rect" id="node13" href="$query__result_8c.html#a79ebd3ae15ff73e5c13716937dcaf7dc" title="db_object_describe" alt="" coords="367,96,502,123"/>
+<area shape="rect" id="node14" href="$db__query_8c.html#a7d986a3d874708031e8801c7a0bd7e4d" title="or_unpack_query_format" alt="" coords="352,260,517,287"/>
+<area shape="rect" id="node15" href="$schema__manager_8h.html#a9bf087e9416c2c86124cab0c19569025" title="sm_domain_copy" alt="" coords="177,159,301,185"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="793,170,945,211"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#afa8e254555b64afcf3dbc2981fe365a2" title="db_get_query_result\l_format" alt="" coords="799,57,938,98"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a47b00d7b10f970367f0f5eb53e33a95a" title="db_get_query_type_list" alt="" coords="791,5,947,32"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#a8326e216f443ded93864d14723424447" title="db_execute_oid" alt="" coords="599,268,712,295"/>
+<area shape="rect" id="node9" href="$db__query_8h.html#a3790ae04379d44ed6025ae450d4d0cc6" title="db_get_db_value_query\l_result" alt="" coords="576,319,735,361"/>
+<area shape="rect" id="node10" href="$query__result_8c.html#a2f980da9427324d6653e4b34af8d2f2d" title="db_object_fetch" alt="" coords="598,85,713,112"/>
+<area shape="rect" id="node11" href="$query__result_8c.html#aff8215a28654259eb7a616235ff5ef4a" title="pt_make_cache_hit_result\l_descriptor" alt="" coords="568,137,743,178"/>
+<area shape="rect" id="node12" href="$query__result_8c.html#a8a976c0a0dd712e230283eeefcb6e2d8" title="pt_new_query_result\l_descriptor" alt="" coords="584,202,727,243"/>
+</map>

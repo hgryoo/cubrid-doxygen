@@ -1,0 +1,12 @@
+<map id="cubthread::lockfree_hashmap::clear" name="cubthread::lockfree_hashmap::clear">
+<area shape="rect" id="node2" href="$system__catalog_8c.html#aef42c89dc6ac521ccb7f8ae469598f7d" title="catalog_clear_hash\l_table" alt="" coords="187,175,321,217"/>
+<area shape="rect" id="node10" href="$filter__pred__cache_8h.html#ac6c97fce4545d304a11b1702dd7584f8" title="fpcache_drop_all" alt="" coords="194,300,314,327"/>
+<area shape="rect" id="node3" href="$system__catalog_8h.html#a5414dfd32dee24e77cbe17f9d14b4d4f" title="catalog_rv_delete_redo" alt="" coords="381,5,537,32"/>
+<area shape="rect" id="node4" href="$system__catalog_8h.html#ad167ffe60c9f379ceeb3a56f0feb0373" title="catalog_rv_delete_undo" alt="" coords="597,81,756,108"/>
+<area shape="rect" id="node5" href="$system__catalog_8h.html#a24584a544f145eac9e5da71596ccabba" title="catalog_rv_insert_redo" alt="" coords="383,107,536,133"/>
+<area shape="rect" id="node6" href="$system__catalog_8h.html#ae31f0cab468d274429c5eb665921313b" title="catalog_rv_insert_undo" alt="" coords="381,157,537,184"/>
+<area shape="rect" id="node7" href="$system__catalog_8h.html#aae825a665d9c13f6039518a76b2c1a29" title="catalog_rv_new_page_redo" alt="" coords="369,208,549,235"/>
+<area shape="rect" id="node8" href="$system__catalog_8h.html#a0204c6c4fe9d0e50750d42353437b7cf" title="catalog_rv_ovf_page\l_logical_insert_undo" alt="" coords="388,259,531,301"/>
+<area shape="rect" id="node9" href="$system__catalog_8h.html#a62306615e59556c6a3ed79872c7287b7" title="catalog_rv_update" alt="" coords="395,325,523,352"/>
+<area shape="rect" id="node11" href="$query__manager_8c.html#af71286aa3593b13b4ec7bbaf73096ebd" title="xqmgr_drop_all_query\l_plans" alt="" coords="385,377,534,418"/>
+</map>

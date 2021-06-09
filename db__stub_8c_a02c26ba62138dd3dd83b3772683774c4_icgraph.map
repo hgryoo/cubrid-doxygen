@@ -1,0 +1,5 @@
+<map id="init_pmeta_structure" name="init_pmeta_structure">
+<area shape="rect" id="node2" href="$db__stub_8c.html#abb8d2b02fb6fb8202e4b3d4b719b3d95" title="stmt_bind_pmeta_handle" alt="" coords="193,46,360,73"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a8e9333644318af5ff7313a616f1697ff" title="ci_stmt_register_out\l_parameter_impl" alt="" coords="415,5,555,47"/>
+<area shape="rect" id="node4" href="$db__stub_8c.html#ad088ba90355426d6c75c72569a07bee3" title="ci_stmt_get_parameter\l_metadata_impl" alt="" coords="408,71,563,112"/>
+</map>

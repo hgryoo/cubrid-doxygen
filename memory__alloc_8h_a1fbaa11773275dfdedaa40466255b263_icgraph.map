@@ -1,0 +1,21 @@
+<map id="db_private_strdup" name="db_private_strdup">
+<area shape="rect" id="node2" href="$btree_8h.html#ab5691dc679be8018d28d890c68fc43f2" title="btree_index_start_scan" alt="" coords="190,5,347,32"/>
+<area shape="rect" id="node4" href="$cas__execute_8c.html#ae14c402b652b3391ab3fbe92a76fd255" title="caslob_to_dblob" alt="" coords="211,56,327,83"/>
+<area shape="rect" id="node6" href="$dbtype__function_8h.html#a571604501ed8c55fdbbe38c899c28c15" title="db_get_deep_copy_of_json" alt="" coords="179,107,359,133"/>
+<area shape="rect" id="node9" href="$db__json_8cpp.html#aecee6c69eb0cd479949980507784f557" title="db_json_bool_to_string" alt="" coords="191,157,346,184"/>
+<area shape="rect" id="node10" href="$db__json_8cpp.html#a5154135ca55e5543ef4b7ec33b06dba5" title="db_json_copy_string\l_from_value" alt="" coords="198,209,339,250"/>
+<area shape="rect" id="node11" href="$db__json_8cpp.html#aad5bcc0dc6f590ff5b1cef1ae505b760" title="db_json_get_raw_json\l_body_from_document" alt="" coords="191,274,346,315"/>
+<area shape="rect" id="node12" href="$db__json_8cpp.html#a761f6cb81c0bf07172b47be4f299ccbc" title="db_json_unquote" alt="" coords="416,311,536,337"/>
+<area shape="rect" id="node13" href="$db__json_8cpp.html#a70f55e7d282d28559e0e84c277fd0746" title="db_json_pretty_func" alt="" coords="199,391,338,417"/>
+<area shape="rect" id="node14" href="$elo_8h.html#af406eb24867177d9a708ef216ed2221b" title="elo_copy" alt="" coords="231,441,306,468"/>
+<area shape="rect" id="node15" href="$elo_8h.html#a6fda2d3b136bf066a41bcb6bd3ae89d4" title="elo_copy_structure" alt="" coords="203,492,335,519"/>
+<area shape="rect" id="node16" href="$elo_8h.html#a2eda1651222a162dc787a64eabc683be" title="elo_create" alt="" coords="227,543,310,569"/>
+<area shape="rect" id="node17" href="$object__primitive_8c.html#a4f4f8b525058f6236ff3c50c22d3efc3" title="mr_setval_json" alt="" coords="213,593,324,620"/>
+<area shape="rect" id="node18" href="$cas__net__buf_8h.html#afa119c344fa071e71ee91ccff0b59e8e" title="net_arg_get_lob_value" alt="" coords="193,644,345,671"/>
+<area shape="rect" id="node19" href="$object__representation_8c.html#a46583de3f8734b66c6a7fe429334303d" title="or_get_json_schema" alt="" coords="197,695,340,721"/>
+<area shape="rect" id="node20" href="$parser_8h.html#a4bd33540bda55108e13ab72f51241e13" title="pt_data_type_init_value" alt="" coords="189,745,348,772"/>
+<area shape="rect" id="node3" href="$show__scan_8c.html#aecf736200d67937c5e8b499d2570ea1d" title="showstmt_scan_init" alt="" coords="407,5,545,32"/>
+<area shape="rect" id="node5" href="$cas__execute_8c.html#a235ed61a310d3fc128b8c64464ce6c47" title="netval_to_dbval" alt="" coords="419,56,533,83"/>
+<area shape="rect" id="node7" href="$object__primitive_8c.html#aa09ce7b8c86372cfaad601978ce7f863" title="mr_setmem_json" alt="" coords="415,107,537,133"/>
+<area shape="rect" id="node8" href="$object__primitive_8c.html#a23f5b8528d8c46742f3537474632515f" title="mr_getmem_json" alt="" coords="415,157,537,184"/>
+</map>

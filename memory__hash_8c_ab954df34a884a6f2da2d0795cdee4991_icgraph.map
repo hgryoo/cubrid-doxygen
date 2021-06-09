@@ -1,0 +1,14 @@
+<map id="mht_map_no_key" name="mht_map_no_key">
+<area shape="rect" id="node2" href="$heap__file_8c.html#ad52dae78d1347b77f01256170c04eaeb" title="heap_stats_bestspace\l_finalize" alt="" coords="193,27,347,69"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a02a653ca1ab0b89330201728f0857905" title="log_update_global_btid\l_online_index_stats" alt="" coords="193,93,347,134"/>
+<area shape="rect" id="node6" href="$log__tran__table_8c.html#a0015cd55a3525d6a9cf7d3836ad0e41d" title="logtb_load_global_statistics\l_to_tran" alt="" coords="179,158,361,199"/>
+<area shape="rect" id="node7" href="$log__tran__table_8c.html#a14b65ae767a8628322209a6dedb6e189" title="logtb_tran_reset_count\l_optim_state" alt="" coords="193,223,347,265"/>
+<area shape="rect" id="node10" href="$log__tran__table_8c.html#a3480cda1ffc8521c5f450418549b0197" title="logtb_tran_update_all\l_global_unique_stats" alt="" coords="197,289,343,330"/>
+<area shape="rect" id="node11" href="$list__file_8h.html#a4fc7f999c0a9c4c0178cccfcef093d62" title="qfile_clear_list_cache" alt="" coords="197,355,343,381"/>
+<area shape="rect" id="node12" href="$list__file_8h.html#a2f0c969f5ef2d72124cd2313c8cdef43" title="qfile_finalize_list\l_cache" alt="" coords="211,406,329,447"/>
+<area shape="rect" id="node13" href="$list__file_8h.html#af7add2e6af06ebc6cfe4c1f0c989513f" title="qfile_initialize_list\l_cache" alt="" coords="208,471,332,513"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#aa9775422c60e8ebfce82739cdbf5a2bb" title="heap_manager_finalize" alt="" coords="434,5,589,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#ae964f616d8572d31c9fcec0926240bdb" title="heap_stats_bestspace\l_initialize" alt="" coords="435,57,588,98"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#a95ba237812e6f9b8aec2e12fb661575e" title="logtb_invalidate_snapshot_data" alt="" coords="409,231,613,257"/>
+<area shape="rect" id="node9" href="$log__tran__table_8c.html#abced029cdab388279dc4b134179929c3" title="logtb_complete_mvcc" alt="" coords="437,288,586,315"/>
+</map>

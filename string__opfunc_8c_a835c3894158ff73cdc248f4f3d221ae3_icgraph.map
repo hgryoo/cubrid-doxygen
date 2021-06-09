@@ -1,0 +1,9 @@
+<map id="db_round_dbvalue_to_int" name="db_round_dbvalue_to_int">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#af286e570ae1dd0a4e1afb14af8c313c6" title="db_add_days_to_year" alt="" coords="227,56,377,83"/>
+<area shape="rect" id="node5" href="$string__opfunc_8h.html#a702fb0f05c4ff4a75121ef15630776ca" title="db_convert_sec_to_time" alt="" coords="220,107,384,133"/>
+<area shape="rect" id="node6" href="$string__opfunc_8h.html#ab8816e47f35e25b54b29ccb0d55c35bc" title="db_convert_to_time" alt="" coords="234,157,370,184"/>
+<area shape="rect" id="node7" href="$string__opfunc_8h.html#a8717f1f15f16f7f81b9f37d16806a852" title="db_get_date_from_days" alt="" coords="221,208,383,235"/>
+<area shape="rect" id="node8" href="$string__opfunc_8h.html#add020c51279bbae34c49df85c8cea5e8" title="db_get_date_week" alt="" coords="237,5,367,32"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="432,81,612,108"/>
+<area shape="rect" id="node4" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="463,132,581,159"/>
+</map>

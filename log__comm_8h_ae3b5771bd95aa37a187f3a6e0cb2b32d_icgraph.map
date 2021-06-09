@@ -1,0 +1,21 @@
+<map id="log_does_allow_replication" name="log_does_allow_replication">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#a7678026f301f44b98212d64a0ce6ea1e" title="do_replicate_statement" alt="" coords="242,5,399,32"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#ab82d600b3f62b5b63fd9b3fd864e7031" title="locator_add_or_remove\l_index_internal" alt="" coords="242,57,399,98"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#aa94a327f45350804b2066385650abc9b" title="locator_update_force" alt="" coords="477,148,619,175"/>
+<area shape="rect" id="node6" href="$locator__sr_8h.html#a4955d5ba9c9a9197d618e2929d3dcee1" title="locator_update_index" alt="" coords="248,173,393,200"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#ad39dc10a11df5427f5af4c203e9d98a6" title="log_append_redo_crumbs" alt="" coords="235,224,406,251"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#a487dabcb7a4dc15bab76299fb5ff1660" title="log_append_undoredo\l_crumbs" alt="" coords="474,242,622,283"/>
+<area shape="rect" id="node9" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="259,325,382,352"/>
+<area shape="rect" id="node10" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="246,376,395,403"/>
+<area shape="rect" id="node11" href="$log__manager_8h.html#a8ba8a8666ca892dac7b456367d153965" title="log_sysop_abort" alt="" coords="262,477,379,504"/>
+<area shape="rect" id="node12" href="$query__executor_8c.html#acd4533cedf2007a5f83ab33c5281c081" title="qexec_execute_selupd_list" alt="" coords="459,448,637,475"/>
+<area shape="rect" id="node13" href="$serial_8c.html#aedd39ef4c027b8c4568faa44f288ea1a" title="serial_update_serial\l_object" alt="" coords="479,510,617,551"/>
+<area shape="rect" id="node14" href="$log__manager_8c.html#a1e4500b198cf9f51121a641472d9cddc" title="log_sysop_commit_internal" alt="" coords="231,579,411,605"/>
+<area shape="rect" id="node15" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="255,629,387,656"/>
+<area shape="rect" id="node16" href="$network__interface__sr_8h.html#ae6ae00caaccf6fea34a0d2fc9ff1b1b7" title="srepl_set_info" alt="" coords="497,705,599,732"/>
+<area shape="rect" id="node17" href="$transaction__cl_8h.html#a901b4a89a27aa3bc5c8ffdcc1f9e3150" title="tran_commit" alt="" coords="501,857,595,884"/>
+<area shape="rect" id="node18" href="$network__interface__cl_8h.html#a95c98385d6b15933fd29c45f0569e45d" title="tran_server_abort" alt="" coords="259,781,382,808"/>
+<area shape="rect" id="node19" href="$network__interface__cl_8h.html#a09892fdeb1d0a25ac378217c002187da" title="tran_server_commit" alt="" coords="252,832,389,859"/>
+<area shape="rect" id="node20" href="$locator__sr_8c.html#a062660df1442c6b5cb866e8fa1ef881f" title="xrepl_set_info" alt="" coords="269,731,372,757"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="471,5,625,32"/>
+</map>

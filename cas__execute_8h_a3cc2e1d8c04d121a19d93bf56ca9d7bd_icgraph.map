@@ -1,0 +1,12 @@
+<map id="ux_free_result" name="ux_free_result">
+<area shape="rect" id="node2" href="$cas__handle_8h.html#a8fd6135dc96627c5048e54fac2536a4e" title="hm_qresult_end" alt="" coords="159,157,273,184"/>
+<area shape="rect" id="node9" href="$cas__execute_8h.html#a4bec29120ee6f965e387c5cecc3cf33d" title="ux_cursor_close" alt="" coords="157,325,275,352"/>
+<area shape="rect" id="node3" href="$cas__execute_8h.html#a480b90c05f39d0bea260091e4aabe256" title="ux_execute" alt="" coords="360,5,449,32"/>
+<area shape="rect" id="node4" href="$cas__execute_8h.html#a472d04640cef98dd54b3a79112fe1f01" title="ux_execute_all" alt="" coords="350,56,459,83"/>
+<area shape="rect" id="node5" href="$cas__execute_8h.html#a93e3389bccb4a45ef423390b55274a5f" title="ux_execute_call" alt="" coords="347,107,463,133"/>
+<area shape="rect" id="node6" href="$cas__execute_8h.html#ade7073d72caa16357d55df7b214b2da3" title="ux_execute_array" alt="" coords="342,157,467,184"/>
+<area shape="rect" id="node7" href="$cas__handle_8h.html#abe9df3d9cbb9b839b754566bf5c3d58c" title="hm_srv_handle_qresult\l_end_all" alt="" coords="327,209,483,250"/>
+<area shape="rect" id="node8" href="$cas__handle_8c.html#ab3441dc2411d081393e0ad6c653f2e59" title="srv_handle_content_free" alt="" coords="323,275,487,301"/>
+<area shape="rect" id="node10" href="$cas__execute_8c.html#a155b399a63eb71ca8a1103ac41f668b1" title="fetch_result" alt="" coords="359,325,450,352"/>
+<area shape="rect" id="node11" href="$cas__function_8h.html#a54df21dc69700a63521df847339cc577" title="fn_cursor_close" alt="" coords="347,376,462,403"/>
+</map>

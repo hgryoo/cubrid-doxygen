@@ -1,0 +1,6 @@
+<map id="db_ping_server" name="db_ping_server">
+<area shape="rect" id="node2" href="$log__applier_8c.html#af6a61a71316f5835642b6c103e9eba30" title="la_check_time_commit" alt="" coords="164,5,320,32"/>
+<area shape="rect" id="node4" href="$cas__execute_8h.html#af498365c52c4e567a40298d32c265d73" title="ux_check_connection" alt="" coords="168,56,316,83"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a985ea807a9f77fb66077722eea3554a9" title="la_apply_log_file" alt="" coords="368,5,487,32"/>
+<area shape="rect" id="node5" href="$cas__function_8h.html#a5bd3c8ebe642cfe22b418f0389c0680f" title="fn_check_cas" alt="" coords="376,56,479,83"/>
+</map>

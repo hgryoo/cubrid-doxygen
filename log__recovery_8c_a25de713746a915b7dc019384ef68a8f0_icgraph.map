@@ -1,0 +1,6 @@
+<map id="log_recovery" name="log_recovery">
+<area shape="rect" id="node2" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="149,56,292,83"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a95f060b401ef97e5ff9be51b7a304a5b" title="log_initialize" alt="" coords="371,5,464,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="371,56,464,83"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a425ed5fad08e748df89edfd0350986f9" title="log_restart_emergency" alt="" coords="340,107,495,133"/>
+</map>

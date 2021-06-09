@@ -1,0 +1,12 @@
+<map id="src/transaction/locator.c" name="src/transaction/locator.c">
+<area shape="rect" id="node2" href="$locator_8h.html" title="locator.h" alt="" coords="299,80,371,107"/>
+<area shape="rect" id="node4" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="397,244,512,271"/>
+<area shape="rect" id="node6" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="5,319,139,345"/>
+<area shape="rect" id="node10" href="$oid_8h.html" title="oid.h" alt="" coords="432,162,483,189"/>
+<area shape="rect" id="node11" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="859,244,992,271"/>
+<area shape="rect" id="node14" href="$porting_8h.html" title="porting.h" alt="" coords="1228,319,1300,345"/>
+<area shape="rect" id="node15" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="796,80,953,107"/>
+<area shape="rect" id="node20" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="1282,244,1398,271"/>
+<area shape="rect" id="node3" href="$object__representation__constants_8h.html" title="object_representation\l_constants.h" alt="" coords="261,155,408,196"/>
+<area shape="rect" id="node19" href="$byte__order_8h.html" title="byte_order.h" alt="" coords="719,162,814,189"/>
+</map>

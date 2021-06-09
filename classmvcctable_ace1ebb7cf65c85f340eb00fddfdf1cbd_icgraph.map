@@ -1,0 +1,4 @@
+<map id="mvcctable::get_two_new_mvccid" name="mvcctable::get_two_new_mvccid">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a701d3c6e9f8616434197ca199f5a69a3" title="logtb_get_new_subtransaction\l_mvccid" alt="" coords="189,5,388,47"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#acd4533cedf2007a5f83ab33c5281c081" title="qexec_execute_selupd_list" alt="" coords="436,13,615,39"/>
+</map>

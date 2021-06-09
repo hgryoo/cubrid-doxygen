@@ -1,0 +1,6 @@
+<map id="heap_chnguess" name="heap_chnguess">
+<area shape="rect" id="node2" href="$structmht__table.html" title="{mht_table\n|+ hash_func\l+ cmp_func\l+ name\l+ size\l+ rehash_at\l+ nentries\l+ nprealloc_entries\l+ ncollisions\l+ heap_id\l+ build_lru_list\l|}" alt="" coords="5,248,137,457"/>
+<area shape="rect" id="node3" href="$structhentry.html" title="{hentry\n|+ key\l+ data\l|}" alt="" coords="35,13,94,105"/>
+<area shape="rect" id="node4" href="$structheap__chnguess__entry.html" title="{heap_chnguess_entry\n|+ idx\l+ chn\l+ recently_accessed\l+ bits\l|}" alt="" coords="170,292,319,413"/>
+<area shape="rect" id="node5" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="201,5,293,112"/>
+</map>

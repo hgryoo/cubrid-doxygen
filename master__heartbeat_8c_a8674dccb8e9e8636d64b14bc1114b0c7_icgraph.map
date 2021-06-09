@@ -1,0 +1,16 @@
+<map id="hb_list_add" name="hb_list_add">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#a725252fa9900b279cbb89f64013822f9" title="hb_add_node_to_cluster" alt="" coords="141,22,304,49"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#afa8ae61e0c835dc9cec3c9095bcf7b45" title="hb_add_ping_host" alt="" coords="159,82,286,109"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8c.html#a62cfca2125f3a47d9a81e2f7970f06ed" title="hb_add_ui_node" alt="" coords="165,137,281,163"/>
+<area shape="rect" id="node8" href="$master__heartbeat_8c.html#aeac27348ebb8e9d5944532dc3ef69faf" title="hb_alloc_new_proc" alt="" coords="156,187,289,214"/>
+<area shape="rect" id="node10" href="$master__heartbeat_8c.html#afae97059541b24ff21d704b9de112896" title="hb_job_queue" alt="" coords="171,238,274,265"/>
+<area shape="rect" id="node13" href="$master__heartbeat_8c.html#ad41a045d565bf07da57d8f9854d4c77b" title="hb_job_set_expire_and\l_reorder" alt="" coords="145,340,300,381"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#ab3e31487c448dd2d648d1ebab17b0b7c" title="hb_cluster_load_group\l_and_node_list" alt="" coords="361,5,513,47"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#a21f61998036807ef9017ab069823ac14" title="hb_cluster_load_ping\l_host_list" alt="" coords="365,71,509,112"/>
+<area shape="rect" id="node7" href="$master__heartbeat_8c.html#a90e86baa17c811cb595751e617b3db15" title="hb_cluster_receive\l_heartbeat" alt="" coords="571,235,701,276"/>
+<area shape="rect" id="node9" href="$master__heartbeat_8h.html#aaefcbbcb81eb04e31435ffaf62523e15" title="hb_register_new_process" alt="" coords="352,187,523,214"/>
+<area shape="rect" id="node11" href="$master__heartbeat_8c.html#adb1c258f32a3f53957192c758dfa7c1e" title="hb_cluster_job_queue" alt="" coords="363,238,511,265"/>
+<area shape="rect" id="node12" href="$master__heartbeat_8c.html#ad784d96fb20cea0bf650dde8f428d56d" title="hb_resource_job_queue" alt="" coords="358,289,517,315"/>
+<area shape="rect" id="node14" href="$master__heartbeat_8c.html#a36c565c7a5cfab9cea7d2503a03e586f" title="hb_cluster_job_set\l_expire_and_reorder" alt="" coords="368,340,507,381"/>
+<area shape="rect" id="node15" href="$master__heartbeat_8c.html#a0717d75d7bc6f98073dd5db1abec72ee" title="hb_resource_job_set\l_expire_and_reorder" alt="" coords="366,405,509,447"/>
+</map>

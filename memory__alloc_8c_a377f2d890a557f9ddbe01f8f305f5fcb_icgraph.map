@@ -1,0 +1,6 @@
+<map id="db_private_realloc_debug" name="db_private_realloc_debug">
+<area shape="rect" id="node2" href="$memory__alloc_8h.html#a4d50846166aa74ad4236a840d9ef9d01" title="db_private_alloc_debug" alt="" coords="180,31,339,57"/>
+<area shape="rect" id="node5" href="$memory__alloc_8h.html#a90468d1f03d2f4aea23e7bd7b161fc0c" title="db_private_realloc\l_external" alt="" coords="196,82,323,123"/>
+<area shape="rect" id="node3" href="$memory__alloc_8h.html#a0022f15db6f4420cdcfdeba7882fa46f" title="db_destroy_private_heap" alt="" coords="388,5,555,32"/>
+<area shape="rect" id="node4" href="$memory__alloc_8h.html#a18ef468fd65007892876ac24d21b34f5" title="db_private_alloc_external" alt="" coords="387,56,556,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="session_state_destroy" name="session_state_destroy">
+<area shape="rect" id="node2" href="$session__sr_8c.html#ae09c930b6eda65d308d9c3c28b1dd8f3" title="xsession_end_session" alt="" coords="207,31,361,57"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a48b7eaada1f1907f0eaa75b270ee9712" title="csession_end_session" alt="" coords="409,5,564,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a65bf59e1b1cf34949a2f28c9d0de2d74" title="ssession_end_session" alt="" coords="409,56,564,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="object_resultset_pool_s" name="object_resultset_pool_s">
+<area shape="rect" id="node2" href="$structhash__table__s.html" title="{hash_table_s\n|+ bucket_sz\l+ hashf\l+ keyf\l+ comparef\l|}" alt="" coords="5,255,104,377"/>
+<area shape="rect" id="node3" href="$structht__bucket__s.html" title="{ht_bucket_s\n||}" alt="" coords="8,5,101,83"/>
+<area shape="rect" id="node4" href="$structapi__object__resultset__pool__s.html" title="{api_object_resultset\l_pool_s\n|+ get_object_resultset\l+ oid_delete\l+ oid_get_classname\l+ destroy\l+ glo_create\l+ glo_get_path_name\l+ glo_do_compaction\l+ glo_insert\l+ glo_delete\l+ glo_read\l+ glo_write\l+ glo_truncate\l+ glo_seek\l+ glo_tell\l+ glo_like_search\l+ glo_reg_search\l+ glo_bin_search\l+ glo_copy\l|}" alt="" coords="129,145,279,487"/>
+<area shape="rect" id="node5" href="$structbh__interface__s.html" title="{bh_interface_s\n|+ alloc_handle\l+ destroy_handle\l+ lookup\l+ bind_to_handle\l+ bind_get_parent\l+ bind_prune\l+ bind_graft\l+ bind_get_first_child\l+ bind_get_next_sibling\l+ bind_map\l+ destroy\l|}" alt="" coords="303,204,462,428"/>
+</map>

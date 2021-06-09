@@ -1,0 +1,9 @@
+<map id="resultset_impl_dtor" name="resultset_impl_dtor">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#aa15e4008404246b9657f18091da6f840" title="create_resultset_impl" alt="" coords="185,64,332,91"/>
+<area shape="rect" id="node6" href="$cci__stub_8c.html#a6583f686cc29bcc6694bfdb45eb28263" title="destroy_cci_object" alt="" coords="193,148,324,175"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#a7fe23bc05d8135ec88a999af0dd1357f" title="create_cci_object" alt="" coords="402,5,526,32"/>
+<area shape="rect" id="node5" href="$cci__stub_8c.html#ace52a2c278ffeac2c673ca3a430b6f8b" title="statement_get_reshandle\l_or_affectedrows" alt="" coords="380,57,548,98"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#a403f9866eb677c6d2c0b31e8301197d8" title="opool_get_object_resultset" alt="" coords="596,64,773,91"/>
+<area shape="rect" id="node7" href="$cci__stub_8c.html#a91de48a506cc9fdcee5ab29b8953ed84" title="opool_ht_elem_dtor" alt="" coords="397,173,531,200"/>
+<area shape="rect" id="node8" href="$cci__stub_8c.html#afebeb397e771a4749dabb49b43c2b8b8" title="opool_oid_delete" alt="" coords="405,224,523,251"/>
+</map>

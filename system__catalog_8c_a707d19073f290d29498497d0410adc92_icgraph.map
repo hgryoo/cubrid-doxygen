@@ -1,0 +1,8 @@
+<map id="catalog_sum_disk_attribute_size" name="catalog_sum_disk_attribute_size">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a33bd784cfe3eb47580d2593b97a12fdf" title="catalog_add_representation" alt="" coords="265,114,447,141"/>
+<area shape="rect" id="node3" href="$statistics__sr_8c.html#a502d831d7f2d3b593c5d107748aae384" title="xstats_update_statistics" alt="" coords="495,13,659,39"/>
+<area shape="rect" id="node4" href="$statistics__sr_8c.html#a87537ae40bfb987f6d7be9eff99352cd" title="stats_update_partitioned\l_statistics" alt="" coords="707,5,871,47"/>
+<area shape="rect" id="node5" href="$system__catalog_8c.html#aee9e18e1a8746989ec8657d9ed6ccc4a" title="xcatalog_check_rep_dir" alt="" coords="497,114,656,141"/>
+<area shape="rect" id="node6" href="$system__catalog_8h.html#a61ad207a6558c26bb9c3b3117ba7e599" title="catalog_insert" alt="" coords="525,165,628,191"/>
+<area shape="rect" id="node7" href="$system__catalog_8h.html#a4ea20d720ec7634b5a5004ca53bad45e" title="catalog_update" alt="" coords="521,215,632,242"/>
+</map>

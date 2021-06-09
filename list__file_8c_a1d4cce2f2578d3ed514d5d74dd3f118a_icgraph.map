@@ -1,0 +1,6 @@
+<map id="qfile_load_xasl_node_header" name="qfile_load_xasl_node_header">
+<area shape="rect" id="node2" href="$query__manager_8c.html#ae47542b0a40155b09eeac88006c5a778" title="xqmgr_prepare_query" alt="" coords="201,31,347,57"/>
+<area shape="rect" id="node5" href="$session__sr_8c.html#a0d35e693274bc6a3270401e41c46d02e" title="xsession_get_prepared\l_statement" alt="" coords="196,82,352,123"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a594860b514b827f25c84854ee9a4142b" title="qmgr_prepare_query" alt="" coords="403,5,543,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#aef6990715a35a132bcad8c9a492aeae5" title="sqmgr_prepare_query" alt="" coords="400,56,547,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pt_set_is_view_spec" name="pt_set_is_view_spec">
+<area shape="rect" id="node2" href="$view__transform_8c.html#a6fb474d3098dee755e9ced9598678cf0" title="mq_translate_subqueries" alt="" coords="197,5,364,32"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#a2f72b1c989980fdf7907db4383e9f46d" title="pt_check_create_view" alt="" coords="205,56,357,83"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#a8d098be520c8040a4bbce94ad16d164b" title="pt_validate_query_spec" alt="" coords="201,107,360,133"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#a85a6baf509b2579b68e8324ace3b0398" title="mq_virtual_queries" alt="" coords="412,5,543,32"/>
+</map>

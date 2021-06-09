@@ -1,0 +1,9 @@
+<map id="db_find_class_with_purpose" name="db_find_class_with_purpose">
+<area shape="rect" id="node2" href="$semantic__check_8c.html#a4546f0bea621480bbe409d5c6cdc6929" title="pt_check_drop" alt="" coords="213,5,320,32"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#a6401776ba9e99c9c43e76b4779b65eec" title="pt_find_class" alt="" coords="217,81,316,108"/>
+<area shape="rect" id="node7" href="$name__resolution_8c.html#a84c1cf704953be8df2ca248c8cd9eb7d" title="pt_make_flat_name_list" alt="" coords="187,132,347,159"/>
+<area shape="rect" id="node8" href="$name__resolution_8c.html#ae281a2d875f05ba1e9e584aa49a05ccb" title="pt_resolve_partition_spec" alt="" coords="395,157,565,184"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#a037d720c8f15dd86df8710577a97dafa" title="pt_check_with_info" alt="" coords="613,56,748,83"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#a74be8f892e6e90ed5692941e03bf1843" title="pt_check_alter" alt="" coords="427,56,533,83"/>
+<area shape="rect" id="node6" href="$semantic__check_8c.html#a24bc4f0a91e527103132bf36d7bbfca6" title="pt_check_create_entity" alt="" coords="401,107,559,133"/>
+</map>

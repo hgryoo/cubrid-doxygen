@@ -1,0 +1,20 @@
+<map id="db_make_enumeration" name="db_make_enumeration">
+<area shape="rect" id="node2" href="$catalog__class_8c.html#a7d582bb9c89ad8c12586b7d4f9da0fbe" title="catcls_get_or_value\l_from_attribute" alt="" coords="457,153,596,195"/>
+<area shape="rect" id="node4" href="$dbtype__function_8h.html#a08c1944afc91bb447d33feaf6a9ef382" title="db_value_domain_default" alt="" coords="207,109,377,135"/>
+<area shape="rect" id="node6" href="$dbtype__function_8h.html#abf0a2dccbb337bbcb8f59ced04b8dc6d" title="db_value_domain_max" alt="" coords="215,7,369,34"/>
+<area shape="rect" id="node8" href="$dbtype__function_8h.html#ac2066a6dc6d26bb109e9e4c380860043" title="db_value_domain_min" alt="" coords="217,58,367,85"/>
+<area shape="rect" id="node9" href="$string__opfunc_8h.html#a20adf9de3f59eef826cbbaad6c653210" title="db_value_to_enumeration\l_value" alt="" coords="207,363,377,404"/>
+<area shape="rect" id="node10" href="$object__primitive_8c.html#ac1fba8284ee428674f8d264a2b756d9d" title="mr_initval_enumeration" alt="" coords="214,505,370,531"/>
+<area shape="rect" id="node12" href="$object__primitive_8c.html#ae4f032198feb6b5abbb1ca50b4a86332" title="mr_setval_enumeration" alt="" coords="213,575,371,602"/>
+<area shape="rect" id="node13" href="$object__primitive_8c.html#abea681ab5d06c6d5698cf3d0f9d8657f" title="mr_setval_enumeration\l_internal" alt="" coords="213,428,371,469"/>
+<area shape="rect" id="node17" href="$object__primitive_8h.html#abdd8e69e6de537d16c0272caacd1618e" title="pr_clear_value" alt="" coords="239,210,345,237"/>
+<area shape="rect" id="node18" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="451,221,603,247"/>
+<area shape="rect" id="node19" href="$object__primitive_8h.html#a782703aa82842fcb387b295c690596a5" title="pr_complete_enum_value" alt="" coords="441,275,612,302"/>
+<area shape="rect" id="node3" href="$catalog__class_8c.html#a84555f5478d1bbab02c00fce5c73fbae" title="catcls_get_or_value\l_from_class" alt="" coords="677,153,815,195"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a745a52a21d15c06a1af94740bfc9c287" title="heap_object_upgrade\l_domain" alt="" coords="454,81,599,123"/>
+<area shape="rect" id="node7" href="$string__opfunc_8h.html#a8a4e8b57baae36465976146c6019be87" title="db_get_like_optimization\l_bounds" alt="" coords="444,5,609,47"/>
+<area shape="rect" id="node11" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="676,452,816,493"/>
+<area shape="rect" id="node14" href="$object__primitive_8c.html#a1180a892fb0f8cc61c273929a4330372" title="mr_getmem_enumeration" alt="" coords="442,383,611,410"/>
+<area shape="rect" id="node15" href="$object__primitive_8c.html#aaf898aaa67e4e1bc11549dc6ffa6b80d" title="mr_data_readval_enumeration" alt="" coords="429,434,625,461"/>
+<area shape="rect" id="node16" href="$object__primitive_8c.html#a39065cf0bb2ad96bc102faa9ab98922c" title="mr_index_readval_enumeration" alt="" coords="425,485,628,511"/>
+</map>

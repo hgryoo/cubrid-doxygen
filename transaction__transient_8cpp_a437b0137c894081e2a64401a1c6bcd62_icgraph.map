@@ -1,0 +1,10 @@
+<map id="lob_locator_free" name="lob_locator_free">
+<area shape="rect" id="node2" href="$transaction__transient_8hpp.html#a4b245c24099b14761db5dc475bc45754" title="tx_lob_locator_clear" alt="" coords="170,107,309,133"/>
+<area shape="rect" id="node7" href="$transaction__transient_8hpp.html#a9b297b9a60e21e71717b9197cf4c9937" title="xtx_drop_lob_locator" alt="" coords="168,208,311,235"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="378,5,501,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="385,56,494,83"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a337f8a4c9ef75b8f01e4f5293d2f3381" title="log_abort_partial" alt="" coords="381,107,498,133"/>
+<area shape="rect" id="node6" href="$transaction__sr_8c.html#a9b5f535da0352cfafc4cd0966b36190d" title="xtran_server_end_topop" alt="" coords="359,157,520,184"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#aab271eb0aacc61706d1b053194c87958" title="slog_drop_lob_locator" alt="" coords="365,208,513,235"/>
+<area shape="rect" id="node9" href="$lob__locator_8hpp.html#a818b52eaeadd07f645ce28217a4a2026" title="lob_locator_drop" alt="" coords="381,259,498,285"/>
+</map>

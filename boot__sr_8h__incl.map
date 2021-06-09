@@ -1,0 +1,16 @@
+<map id="src/transaction/boot_sr.h" name="src/transaction/boot_sr.h">
+<area shape="rect" id="node4" href="$boot_8h.html" title="boot.h" alt="" coords="316,80,374,107"/>
+<area shape="rect" id="node8" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="530,155,664,181"/>
+<area shape="rect" id="node12" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="1104,155,1220,181"/>
+<area shape="rect" id="node15" href="$oid_8h.html" title="oid.h" alt="" coords="585,80,636,107"/>
+<area shape="rect" id="node16" href="$disk__manager_8h.html" title="disk_manager.h" alt="" coords="941,80,1056,107"/>
+<area shape="rect" id="node17" href="$log__lsa_8hpp.html" title="log_lsa.hpp" alt="" coords="941,155,1029,181"/>
+<area shape="rect" id="node18" href="$log__comm_8h.html" title="log_comm.h" alt="" coords="417,80,510,107"/>
+<area shape="rect" id="node19" href="$file__io_8h.html" title="file_io.h" alt="" coords="734,80,801,107"/>
+<area shape="rect" id="node20" href="$tde_8h.html" title="tde.h" alt="" coords="660,80,710,107"/>
+<area shape="rect" id="node5" href="$client__credentials_8hpp.html" title="client_credentials.hpp" alt="" coords="27,155,175,181"/>
+<area shape="rect" id="node6" href="$es__common_8h.html" title="es_common.h" alt="" coords="200,155,304,181"/>
+<area shape="rect" id="node7" href="$porting_8h.html" title="porting.h" alt="" coords="565,229,637,256"/>
+<area shape="rect" id="node11" href="$porting__inline_8hpp.html" title="porting_inline.hpp" alt="" coords="661,229,784,256"/>
+<area shape="rect" id="node14" href="$error__code_8h.html" title="error_code.h" alt="" coords="1222,229,1316,256"/>
+</map>

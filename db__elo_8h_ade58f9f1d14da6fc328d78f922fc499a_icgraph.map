@@ -1,0 +1,8 @@
+<map id="db_elo_read" name="db_elo_read">
+<area shape="rect" id="node2" href="$string__opfunc_8c.html#ab58e4ae7d3dfadfae336018b0f032959" title="lob_from_file" alt="" coords="153,31,249,57"/>
+<area shape="rect" id="node5" href="$string__opfunc_8c.html#a3e40863a1e52b3250cbdd285dc6252b3" title="lob_to_bit_char" alt="" coords="145,81,256,108"/>
+<area shape="rect" id="node6" href="$cas__execute_8c.html#a9a3f5328bbfcd40be7ca1fc91606b43d" title="ux_lob_read" alt="" coords="155,132,247,159"/>
+<area shape="rect" id="node3" href="$string__opfunc_8h.html#a3dbbd11a9fbe793f9c02648713d47339" title="db_blob_from_file" alt="" coords="304,5,428,32"/>
+<area shape="rect" id="node4" href="$string__opfunc_8h.html#abc14fe694c68defad028aa4871c2d998" title="db_clob_from_file" alt="" coords="304,56,428,83"/>
+<area shape="rect" id="node7" href="$cas__function_8h.html#ad608789e29a9dcc8d44e1177939a85ea" title="fn_lob_read" alt="" coords="321,132,411,159"/>
+</map>

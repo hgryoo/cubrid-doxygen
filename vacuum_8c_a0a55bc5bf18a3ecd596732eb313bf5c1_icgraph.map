@@ -1,0 +1,11 @@
+<map id="vacuum_is_file_dropped" name="vacuum_is_file_dropped">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="271,107,353,133"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#af6c98f91ee46d76cd9a9e576c6456d3e" title="file_tracker_item_reuse_heap" alt="" coords="216,157,408,184"/>
+<area shape="rect" id="node8" href="$vacuum_8c.html#a2e814432b50f4504d10689047b62c061" title="vacuum_process_log\l_record" alt="" coords="239,209,385,250"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a76b48022b881809b35f193418dcc8aba" title="file_create_with_npages" alt="" coords="458,5,621,32"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a64196cd150853d3b210a8f55740f0839" title="file_create_temp_internal" alt="" coords="456,56,623,83"/>
+<area shape="rect" id="node5" href="$file__manager_8h.html#aa6e3dfe54417c209a4ceaf419a916848" title="file_create_ehash" alt="" coords="477,107,601,133"/>
+<area shape="rect" id="node6" href="$file__manager_8h.html#ac26203672282f7ce035695376bcfe3ca" title="file_create_ehash_dir" alt="" coords="467,157,612,184"/>
+<area shape="rect" id="node9" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="467,209,612,250"/>
+<area shape="rect" id="node10" href="$vacuum_8c.html#a98dc5dfb2fca47a345da4f0f7c678554" title="vacuum_recover_lost\l_block_data" alt="" coords="466,274,613,315"/>
+</map>

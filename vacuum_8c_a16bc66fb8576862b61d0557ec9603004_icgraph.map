@@ -1,0 +1,6 @@
+<map id="vacuum_notify_server_shutdown" name="vacuum_notify_server_shutdown">
+<area shape="rect" id="node2" href="$vacuum_8h.html#af25d42ec55b764c884b146fa41b015f7" title="vacuum_stop_workers" alt="" coords="204,56,357,83"/>
+<area shape="rect" id="node3" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="452,5,519,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="418,56,553,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="405,107,565,133"/>
+</map>

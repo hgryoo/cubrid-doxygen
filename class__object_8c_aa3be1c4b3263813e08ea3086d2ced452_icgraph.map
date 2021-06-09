@@ -1,0 +1,8 @@
+<map id="classobj_remove_class_constraint_node" name="classobj_remove_class_constraint_node">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#a46905b698e1a61916384860ef3f740ce" title="sm_drop_index" alt="" coords="212,101,323,128"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#abd1979a808b3a290e4e35b3f3bf039e0" title="sm_drop_constraint" alt="" coords="371,101,507,128"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="570,5,702,32"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a117d19cbdb55baa5877f998a7c3e9310" title="do_recreate_renamed\l_class_indexes" alt="" coords="563,61,709,102"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#a8f00c752d96f4e0f1cfec949e777d710" title="do_drop_att_constraints" alt="" coords="555,135,717,161"/>
+<area shape="rect" id="node7" href="$execute__schema_8c.html#a87e403182b812d0c562c78bc88bf555c" title="do_drop_saved_indexes" alt="" coords="555,193,717,220"/>
+</map>

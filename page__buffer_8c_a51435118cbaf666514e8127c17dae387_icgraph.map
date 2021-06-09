@@ -1,0 +1,21 @@
+<map id="pgbuf_is_temporary_volume" name="pgbuf_is_temporary_volume">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a6ebdf1006f6b5bb49a3fc4c4f8f75e31" title="pgbuf_bcb_flush_with_wal" alt="" coords="189,101,364,127"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a8cbce269e04ed30279485fc77e786430" title="pgbuf_claim_bcb_for_fix" alt="" coords="195,239,358,266"/>
+<area shape="rect" id="node8" href="$page__buffer_8h.html#ad57fb80ce30a5d3a727768a9198e51fc" title="pgbuf_is_lsa_temporary" alt="" coords="197,315,357,342"/>
+<area shape="rect" id="node15" href="$page__buffer_8c.html#a345345cb6102faa2ddb954d352de4953" title="pgbuf_scan_bcb_table" alt="" coords="201,627,353,654"/>
+<area shape="rect" id="node17" href="$page__buffer_8h.html#a95c9161ba3bb8e129b0c2407447c1b1b" title="pgbuf_set_lsa" alt="" coords="225,467,328,494"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a7b2dfb96a20574b1b57312f01a840fbe" title="pgbuf_bcb_safe_flush\l_internal" alt="" coords="428,5,577,47"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a9575052dd0e19e22fba169b20a566af8" title="pgbuf_flush_neighbor_safe" alt="" coords="414,71,591,98"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="437,123,568,164"/>
+<area shape="rect" id="node7" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="444,189,561,215"/>
+<area shape="rect" id="node9" href="$log__manager_8h.html#af7bfbd98d66410cc6e3d1d050cec24ec" title="log_skip_logging" alt="" coords="443,341,562,367"/>
+<area shape="rect" id="node13" href="$log__manager_8c.html#af8f9caad662f58e1ebc1fa4269dbef04" title="log_can_skip_undo_logging" alt="" coords="412,239,593,266"/>
+<area shape="rect" id="node14" href="$log__manager_8c.html#a053528aebc42fffed1e1285ee9fa96f0" title="log_can_skip_redo_logging" alt="" coords="413,391,592,418"/>
+<area shape="rect" id="node10" href="$log__manager_8h.html#a487dabcb7a4dc15bab76299fb5ff1660" title="log_append_undoredo\l_crumbs" alt="" coords="863,359,1011,400"/>
+<area shape="rect" id="node11" href="$log__manager_8h.html#a9ba19c0baec377fbab0da02a75c7260d" title="log_append_undo_crumbs" alt="" coords="641,290,815,317"/>
+<area shape="rect" id="node12" href="$log__manager_8h.html#ad39dc10a11df5427f5af4c203e9d98a6" title="log_append_redo_crumbs" alt="" coords="643,391,813,418"/>
+<area shape="rect" id="node16" href="$page__buffer_8h.html#adf96062770064b258865e1a92f92a6d1" title="pgbuf_start_scan" alt="" coords="441,711,564,738"/>
+<area shape="rect" id="node18" href="$btree_8h.html#a5f3c55ed7fc42993113e68e617d03de5" title="btree_reflect_global\l_unique_statistics" alt="" coords="435,595,570,636"/>
+<area shape="rect" id="node19" href="$page__buffer_8h.html#afde1751ceb069fe468ffa1b51283033f" title="pgbuf_unfix_debug" alt="" coords="437,493,568,519"/>
+<area shape="rect" id="node20" href="$log__manager_8h.html#ab82d5be060189c3aa56e57399a458e3a" title="log_append_run_postpone" alt="" coords="416,543,589,570"/>
+</map>

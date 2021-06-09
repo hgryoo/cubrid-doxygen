@@ -1,0 +1,5 @@
+<map id="class_auth" name="class_auth">
+<area shape="rect" id="node2" href="$structclass__user.html" title="{class_user\n|+ available_auth\l|}" alt="" coords="139,321,257,399"/>
+<area shape="rect" id="node3" href="$structclass__grant.html" title="{class_grant\n|+ cache\l|}" alt="" coords="165,461,255,539"/>
+<area shape="rect" id="node4" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="5,5,180,259"/>
+</map>

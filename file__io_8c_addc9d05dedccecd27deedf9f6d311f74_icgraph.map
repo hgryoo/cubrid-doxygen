@@ -1,0 +1,17 @@
+<map id="fileio_create" name="fileio_create">
+<area shape="rect" id="node2" href="$file__io_8h.html#a4b534d96b4cf0f126cc3e3455bc476ae" title="fileio_copy_volume" alt="" coords="352,123,485,149"/>
+<area shape="rect" id="node5" href="$file__io_8c.html#ad0fe087419a0486fab559d13629bcdd4" title="fileio_create_backup\l_volume" alt="" coords="145,57,287,98"/>
+<area shape="rect" id="node8" href="$file__io_8h.html#aac5112b555f5bd9b1d3233a42d3fd181" title="fileio_format" alt="" coords="169,325,263,352"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#afdf53e4360c4332c6770c24fcdd49bc1" title="logpb_copy_volume" alt="" coords="551,199,688,225"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="736,263,884,289"/>
+<area shape="rect" id="node6" href="$file__io_8h.html#a8d17e5474825c3a1c56afea7769dce18" title="fileio_start_backup" alt="" coords="353,5,484,32"/>
+<area shape="rect" id="node7" href="$file__io_8c.html#a548d455254d93c20e0630710f28cadf0" title="fileio_get_next_backup\l_volume" alt="" coords="341,57,496,98"/>
+<area shape="rect" id="node9" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="373,376,464,403"/>
+<area shape="rect" id="node10" href="$disk__manager_8h.html#a9db5c7116e17a33a0e3a7c2a566360a3" title="disk_rv_redo_dboutside\l_newvol" alt="" coords="339,427,498,469"/>
+<area shape="rect" id="node11" href="$double__write__buffer_8c.html#ab180db015df6cfbabb8c7e1692c00ab1" title="dwb_create_internal" alt="" coords="349,493,488,520"/>
+<area shape="rect" id="node12" href="$file__io_8h.html#af10927c1c82f7fe8c40e2ed37b742ba8" title="fileio_restore_volume" alt="" coords="346,544,491,571"/>
+<area shape="rect" id="node13" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="353,595,484,621"/>
+<area shape="rect" id="node14" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="347,173,490,200"/>
+<area shape="rect" id="node15" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="335,224,503,251"/>
+<area shape="rect" id="node16" href="$log__recovery_8c.html#a6e4cb0fa20df20ef22e01e5bae16b885" title="log_recovery_resetlog" alt="" coords="344,275,493,301"/>
+</map>

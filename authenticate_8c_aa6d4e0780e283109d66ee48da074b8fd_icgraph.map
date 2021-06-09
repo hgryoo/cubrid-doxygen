@@ -1,0 +1,12 @@
+<map id="get_grants" name="get_grants">
+<area shape="rect" id="node2" href="$authenticate_8c.html#ac907859e0a3e5642822e5c89296bd253" title="apply_grants" alt="" coords="181,5,277,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#afa9e1997f61ce12d24206b20e3990378" title="au_dump_user" alt="" coords="388,119,495,145"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a7967cf08e852e8e2e5157c4524260686" title="au_grant" alt="" coords="193,131,265,157"/>
+<area shape="rect" id="node6" href="$authenticate_8c.html#a05f0b745e88e2f3bfe93408ee3b1d4b9" title="au_print_auth" alt="" coords="179,181,279,208"/>
+<area shape="rect" id="node7" href="$authenticate_8c.html#a94cc933cdcfa1c206292ef7ae15eaabb" title="au_propagate_del_new_auth" alt="" coords="136,232,323,259"/>
+<area shape="rect" id="node8" href="$authenticate_8c.html#a7c0f9886f748d2508611f0518cfcb488" title="propagate_revoke" alt="" coords="379,283,504,309"/>
+<area shape="rect" id="node9" href="$authenticate_8h.html#af2cbcb3deb351ad5c3dafaa7dc2ff290" title="au_revoke" alt="" coords="560,333,643,360"/>
+<area shape="rect" id="node10" href="$authenticate_8c.html#a49a6bdb7193ca75c27987d684fbab8c6" title="build_class_grant_list" alt="" coords="156,384,303,411"/>
+<area shape="rect" id="node11" href="$authenticate_8c.html#a194068aaef985fca05ff25c909069c32" title="collect_class_grants" alt="" coords="371,409,512,436"/>
+<area shape="rect" id="node3" href="$authenticate_8c.html#adf983ab6951322d3850ce69b0f114b15" title="update_cache" alt="" coords="390,5,493,32"/>
+</map>

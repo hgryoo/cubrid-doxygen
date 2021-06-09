@@ -1,0 +1,8 @@
+<map id="disk_sectors_to_extend_npages" name="disk_sectors_to_extend_npages">
+<area shape="rect" id="node2" href="$utility_8h.html#a782e5c7e88490d6faaf37d0c32511675" title="createdb" alt="" coords="271,21,343,47"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a24432937a48bec91095efd8acca6d4aa" title="disk_add_volume_extension" alt="" coords="213,71,400,98"/>
+<area shape="rect" id="node7" href="$disk__manager_8h.html#a5fdac5331f81f23b3b65375177ded3f5" title="disk_format_first_volume" alt="" coords="461,122,629,149"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a9d0b2321745fe1161be99609ac6a46d2" title="boot_parse_add_volume\l_extensions" alt="" coords="464,5,627,47"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#aecd8a2e1e45c5ccd6f369fcd13ae35bb" title="xboot_add_volume_extension" alt="" coords="448,71,643,98"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="691,67,857,94"/>
+</map>

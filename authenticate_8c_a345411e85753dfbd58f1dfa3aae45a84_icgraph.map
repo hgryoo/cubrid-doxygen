@@ -1,0 +1,11 @@
+<map id="au_perform_login" name="au_perform_login">
+<area shape="rect" id="node2" href="$authenticate_8h.html#ace9d5a5f2a717b99510c8eefe7feb2b1" title="au_login" alt="" coords="175,132,245,159"/>
+<area shape="rect" id="node8" href="$authenticate_8h.html#acf08ecf34ed25bda32e5baf8deeb5a99" title="au_start" alt="" coords="175,259,245,285"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a725de860a647ad79fee0d5ce1b1f5143" title="ci_conn_connect_impl" alt="" coords="293,5,444,32"/>
+<area shape="rect" id="node4" href="$cas__execute_8h.html#a2bfc849a249d18d8e67ad6840558e742" title="ux_database_connect" alt="" coords="492,107,641,133"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#aaaf24d762d7ccd58a0082a3bfd26b43e" title="db_login" alt="" coords="333,107,404,133"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a735bbbf348fd8491ebb278e27b8c9fbd" title="db_restart_ex" alt="" coords="318,157,419,184"/>
+<area shape="rect" id="node7" href="$authenticate_8h.html#a8d753785735f3c84472ddbc0ff23aacd" title="au_login_method" alt="" coords="309,208,429,235"/>
+<area shape="rect" id="node9" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="299,259,438,285"/>
+<area shape="rect" id="node10" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="304,309,433,336"/>
+</map>

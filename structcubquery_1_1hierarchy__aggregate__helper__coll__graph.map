@@ -1,0 +1,5 @@
+<map id="cubquery::hierarchy_aggregate_helper" name="cubquery::hierarchy_aggregate_helper">
+<area shape="rect" id="node2" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="5,160,71,237"/>
+<area shape="rect" id="node3" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="66,5,127,97"/>
+<area shape="rect" id="node4" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="95,160,197,237"/>
+</map>

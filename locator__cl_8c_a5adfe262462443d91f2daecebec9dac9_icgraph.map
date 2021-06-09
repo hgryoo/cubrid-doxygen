@@ -1,0 +1,16 @@
+<map id="locator_flush_instance" name="locator_flush_instance">
+<area shape="rect" id="node2" href="$execute__statement_8c.html#a55436ca0ff8e3d473b5c8ed3e259f183" title="delete_list_by_oids" alt="" coords="229,31,363,57"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a688689faf250a85805390314b667a2d9" title="do_alter_trigger" alt="" coords="241,81,351,108"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#af56fe6a18d78487bce9c670e95849ea2" title="do_change_auto_increment\l_serial" alt="" coords="205,133,387,174"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#ac84337eb62af002730d69cc10ada1064" title="do_reset_auto_increment\l_serial" alt="" coords="212,198,380,239"/>
+<area shape="rect" id="node8" href="$jsp__cl_8c.html#a492fc77e32ed00bc045be5703c4aba55" title="jsp_add_stored_procedure" alt="" coords="435,293,609,320"/>
+<area shape="rect" id="node9" href="$jsp__cl_8c.html#a5ae7532d8b80611831949995873a9de2" title="jsp_add_stored_procedure\l_argument" alt="" coords="209,315,383,357"/>
+<area shape="rect" id="node10" href="$locator__cl_8c.html#a64a3c65ddfbb8241b0adceabbebad61e" title="locator_lock_nested" alt="" coords="227,381,365,408"/>
+<area shape="rect" id="node11" href="$object__template_8c.html#ab1a49f2b7b043063d70b8f50111e7e9f" title="obt_apply_assignments" alt="" coords="217,432,375,459"/>
+<area shape="rect" id="node12" href="$trigger__manager_8c.html#ad22e88534246991be186e6d3121cbd7c" title="tr_drop_trigger_internal" alt="" coords="219,483,373,509"/>
+<area shape="rect" id="node13" href="$trigger__manager_8h.html#a090f9222b1897ace9158bdc6c423f111" title="tr_rename_trigger" alt="" coords="235,533,357,560"/>
+<area shape="rect" id="node14" href="$execute__statement_8c.html#a7ff55edca9d93dd271aa98b76e7e3605" title="update_object_tuple" alt="" coords="227,584,365,611"/>
+<area shape="rect" id="node15" href="$work__space_8h.html#af29f561e0d43a84f2fa2a6aeab6b1c22" title="ws_identifier_with\l_check" alt="" coords="233,635,359,677"/>
+<area shape="rect" id="node3" href="$execute__statement_8c.html#a64dfb8ac55e46089afdb246594b4b597" title="delete_real_class" alt="" coords="461,5,583,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a8340db60b99d2305e581a997044657ee" title="do_execute_delete" alt="" coords="457,56,587,83"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="pt_to_pred_expr_with_arg" name="pt_to_pred_expr_with_arg">
+<area shape="rect" id="node2" href="$plan__generation_8c.html#a80e9ab9723c99cd2566f21f22c4a24ec" title="add_sort_spec" alt="" coords="445,5,551,32"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#ac00afe3347320f27638ab8dbd860fa5c" title="pt_to_buildlist_proc" alt="" coords="636,259,771,285"/>
+<area shape="rect" id="node6" href="$xasl__generation_8h.html#aba7372e8c066bf245959fa0f3c56a7ff" title="pt_to_instnum_pred" alt="" coords="224,157,360,184"/>
+<area shape="rect" id="node12" href="$xasl__generation_8h.html#a51c767f4c1d823baa3593c5954e21438" title="pt_to_pred_expr" alt="" coords="235,284,349,311"/>
+<area shape="rect" id="node13" href="$xasl__generation_8c.html#a4737ebd73daa55c35ac5caf3034c4057" title="pt_to_union_proc" alt="" coords="231,411,353,437"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#a851ad3e58cae2b277cdf3f058e304cac" title="gen_outer" alt="" coords="664,56,743,83"/>
+<area shape="rect" id="node4" href="$plan__generation_8c.html#a38a4745f054db7cd1f993f7e5fd494dd" title="make_sort_limit_proc" alt="" coords="819,56,965,83"/>
+<area shape="rect" id="node7" href="$plan__generation_8c.html#a3f7ce6079bfb600096c9388347892847" title="add_access_spec" alt="" coords="435,56,561,83"/>
+<area shape="rect" id="node8" href="$plan__generation_8c.html#aca1dd0abed7e71ece2102e9c1adf785c" title="init_list_scan_proc" alt="" coords="433,107,563,133"/>
+<area shape="rect" id="node9" href="$xasl__generation_8h.html#a941d8e6bed40e4b7edca3efcd3c024cc" title="pt_gen_simple_merge_plan" alt="" coords="408,157,588,184"/>
+<area shape="rect" id="node10" href="$xasl__generation_8c.html#a9336a49c7a336190e77564ac07c1827c" title="pt_gen_simple_plan" alt="" coords="429,208,567,235"/>
+<area shape="rect" id="node11" href="$xasl__generation_8c.html#af9d281071acaa360c554e13ebaf59e47" title="pt_make_connect_by_proc" alt="" coords="409,259,587,285"/>
+</map>

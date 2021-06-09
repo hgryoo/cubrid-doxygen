@@ -1,0 +1,8 @@
+<map id="xboot_find_number_temp_volumes" name="xboot_find_number_temp_volumes">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#ab38c0ff961f63ac1063ff709558e2133" title="boot_find_number_temp\l_volumes" alt="" coords="225,5,386,47"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a1a84495d7e351a40e4168507bb0a2c7e" title="disk_check" alt="" coords="261,71,349,98"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#a071112aaf5ff62a6b01484871c6dabe6" title="sboot_find_number_temp\l_volumes" alt="" coords="221,123,389,164"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="461,25,608,51"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#ace20b0215551fade39404f63fbbcc932" title="xboot_check_db_consistency" alt="" coords="437,75,632,102"/>
+<area shape="rect" id="node7" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="481,130,588,157"/>
+</map>

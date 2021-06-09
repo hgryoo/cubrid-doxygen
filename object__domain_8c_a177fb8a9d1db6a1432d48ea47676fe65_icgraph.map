@@ -1,0 +1,21 @@
+<map id="tp_is_domain_cached" name="tp_is_domain_cached">
+<area shape="rect" id="node2" href="$object__domain_8h.html#a4d5782652931a1cd9b7a7a06192dd01a" title="tp_domain_cache" alt="" coords="201,468,325,495"/>
+<area shape="rect" id="node3" href="$object__representation__sr_8c.html#a029b6cdb3479257e0c70696eaa7b29b5" title="or_get_domain_and_cache" alt="" coords="377,5,554,32"/>
+<area shape="rect" id="node4" href="$db__query_8c.html#a7d986a3d874708031e8801c7a0bd7e4d" title="or_unpack_query_format" alt="" coords="383,56,548,83"/>
+<area shape="rect" id="node5" href="$object__domain_8h.html#a04ffea7d913d17ec7b1fd357579772da" title="tp_domain_resolve" alt="" coords="400,107,531,133"/>
+<area shape="rect" id="node6" href="$object__domain_8h.html#a825bf6d8d3f0d01485ea4d6768a1d2c0" title="tp_domain_resolve_default\l_w_coll" alt="" coords="377,158,554,199"/>
+<area shape="rect" id="node7" href="$object__domain_8h.html#ae3d1007e8b282a270e712bc9c69dc2f1" title="tp_domain_resolve_value" alt="" coords="381,224,550,251"/>
+<area shape="rect" id="node8" href="$object__domain_8h.html#ae3e5bd9e5b779eb5ac29979984829d90" title="tp_value_change_coll\l_and_codeset" alt="" coords="605,242,752,283"/>
+<area shape="rect" id="node9" href="$object__domain_8h.html#aa669dbcd5cc79e08876051b4279deee1" title="tp_value_compare_with\l_error" alt="" coords="386,326,545,367"/>
+<area shape="rect" id="node10" href="$object__domain_8h.html#aeeb2ead98fe6ff34b15f3d1124a15f6a" title="tp_infer_common_domain" alt="" coords="380,392,551,419"/>
+<area shape="rect" id="node11" href="$object__representation_8c.html#aec57593240dcc1c5a5c1b191a17ec2a9" title="unpack_domain" alt="" coords="409,443,522,469"/>
+<area shape="rect" id="node12" href="$object__representation_8c.html#a8b9da0514cdeb446accff323273b294f" title="or_get_domain" alt="" coords="625,468,732,495"/>
+<area shape="rect" id="node13" href="$schema__manager_8c.html#a6e9d36caedbe79775c654ffd1be01cf5" title="fixup_method_self_domains" alt="" coords="373,544,557,571"/>
+<area shape="rect" id="node14" href="$schema__manager_8c.html#ab52ea97e509ee29a52f3301deceba3f1" title="fixup_attribute_self\l_domain" alt="" coords="399,595,531,637"/>
+<area shape="rect" id="node15" href="$schema__manager_8c.html#a7d1eeca1946fe5e434ce9262a3ba71f5" title="construct_index_key\l_domain" alt="" coords="394,661,537,702"/>
+<area shape="rect" id="node16" href="$schema__template_8h.html#a4d320b9e78973714d8812c6ef842bd7a" title="smt_add_set_attribute\l_domain" alt="" coords="390,726,541,767"/>
+<area shape="rect" id="node17" href="$transform__cl_8c.html#a464f852016c2ecc6d41fb7c5c3c1fc08" title="disk_to_domain" alt="" coords="409,792,522,819"/>
+<area shape="rect" id="node18" href="$query__graph_8h.html#a729c78cfd09ee516ca1c83c0ce7a51e4" title="qo_seg_width" alt="" coords="414,843,517,869"/>
+<area shape="rect" id="node19" href="$query__rewrite_8c.html#a6027a3cf4879608071864a8ef87ff41d" title="qo_reduce_equality\l_terms" alt="" coords="398,894,533,935"/>
+<area shape="rect" id="node20" href="$name__resolution_8c.html#a852a85fac2595f015ff09025949ac9d1" title="pt_make_method_call" alt="" coords="391,960,540,987"/>
+</map>

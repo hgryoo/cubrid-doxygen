@@ -1,0 +1,6 @@
+<map id="proxy_process_cas_write_error" name="proxy_process_cas_write_error">
+<area shape="rect" id="node2" href="$shard__proxy__io_8c.html#aa7fff991beb07635fe7cc1a404e7f5ca" title="proxy_socket_io_write\l_error" alt="" coords="224,71,376,112"/>
+<area shape="rect" id="node3" href="$shard__proxy__io_8c.html#a7406815883f5f70a97d2fdc848da984f" title="proxy_socket_io_write\l_to_cas" alt="" coords="424,5,576,47"/>
+<area shape="rect" id="node4" href="$shard__proxy__io_8c.html#a2a6f35e4a2dd9ba12f58f6771284a9fd" title="proxy_socket_io_write\l_to_client" alt="" coords="424,71,576,112"/>
+<area shape="rect" id="node5" href="$shard__proxy__io_8c.html#a18a8775070ef589518cc3a342cc2c8aa" title="proxy_socket_io_read\l_from_client_first" alt="" coords="425,136,575,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="heap_get_header_stats_ptr" name="heap_get_header_stats_ptr">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a639db64c560fbf56cf0e84b40ef413f3" title="heap_get_last_vpid" alt="" coords="253,31,388,57"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a5e313f0925494170e1858df2a8794dbe" title="heap_rv_postpone_append\l_pages_to_heap" alt="" coords="232,82,409,123"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#a54bdd16c2a6a43e66973fb355f81d8c8" title="heap_next_internal" alt="" coords="457,5,588,32"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a66fd7a3d4ff1244a3b7ff1b8393f7f82" title="heap_page_prev" alt="" coords="464,56,581,83"/>
+</map>

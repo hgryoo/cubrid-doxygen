@@ -1,0 +1,6 @@
+<map id="pop_uci_environment" name="pop_uci_environment">
+<area shape="rect" id="node2" href="$esql__cli_8c.html#a70f208e67ee627aa6266d945583940a0" title="uci_execute" alt="" coords="232,5,324,32"/>
+<area shape="rect" id="node3" href="$esql__cli_8c.html#ae3202975f22cc48f7d50dd6943b61736" title="uci_execute_immediate" alt="" coords="199,56,357,83"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#adc61dd435a4de08df9ddb2d62d6ad8ad" title="uci_open_cs" alt="" coords="231,107,325,133"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#a251d8527b2af365292ad24dd8dd4cac1" title="uci_static" alt="" coords="239,157,317,184"/>
+</map>

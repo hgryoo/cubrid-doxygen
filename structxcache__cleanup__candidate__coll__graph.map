@@ -1,0 +1,8 @@
+<map id="xcache_cleanup_candidate" name="xcache_cleanup_candidate">
+<area shape="rect" id="node2" href="$structxasl__cache__ent.html" title="{xasl_cache_ent\n|+ del_id\l+ xasl_header_flag\l+ n_related_objects\l+ time_last_used\l+ ref_count\l+ clr_count\l+ list_ht_no\l+ free_data_on_uninit\l+ n_cache_clones\l+ cache_clones_capacity\l+ cache_clones_mutex\l+ time_last_rt_check\l+ initialized\l|+ xasl_cache_ent()\l+ ~xasl_cache_ent()\l+ init_clone_cache()\l}" alt="" coords="212,329,383,612"/>
+<area shape="rect" id="node3" href="$structxasl__clone.html" title="{xasl_clone\n||}" alt="" coords="598,160,682,237"/>
+<area shape="rect" id="node4" href="$structxasl__stream.html" title="{xasl_stream\n|+ buffer\l+ buffer_size\l|}" alt="" coords="160,153,259,245"/>
+<area shape="rect" id="node5" href="$structxasl__id.html" title="{xasl_id\n|+ cache_flag\l|}" alt="" coords="34,5,131,83"/>
+<area shape="rect" id="node6" href="$structexecution__info.html" title="{execution_info\n|+ sql_hash_text\l+ sql_user_text\l+ sql_plan_text\l|}" alt="" coords="283,145,397,252"/>
+<area shape="rect" id="node7" href="$structxcache__related__object.html" title="{xcache_related_object\n|+ lock\l+ tcard\l|}" alt="" coords="421,153,573,245"/>
+</map>

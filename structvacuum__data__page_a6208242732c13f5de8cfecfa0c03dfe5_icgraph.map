@@ -1,0 +1,6 @@
+<map id="vacuum_data_page::get_index_of_blockid" name="vacuum_data_page::get_index_of_blockid">
+<area shape="rect" id="node2" href="$classvacuum__job__cursor.html#a3c3636b2a49928f529ce957a15f2aa52" title="vacuum_job_cursor::\lreload" alt="" coords="417,5,560,47"/>
+<area shape="rect" id="node4" href="$classvacuum__job__cursor.html#ac4615fd54c98f73c42e4f2c759fb8a0a" title="vacuum_job_cursor::\lsearch" alt="" coords="215,64,357,105"/>
+<area shape="rect" id="node3" href="$classvacuum__job__cursor.html#ae2063f86999debed8e9843c61363c7cc" title="vacuum_job_cursor::\lchange_blockid" alt="" coords="620,5,763,47"/>
+<area shape="rect" id="node5" href="$classvacuum__job__cursor.html#a47b2be758fde778ce365d502c86327c3" title="vacuum_job_cursor::load" alt="" coords="405,71,572,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="db_domain_info" name="db_domain_info">
+<area shape="rect" id="node2" href="$structdb__domain__info_1_1general__info.html" title="{db_domain_info::general_info\n|+ is_null\l+ type\l|}" alt="" coords="5,20,196,112"/>
+<area shape="rect" id="node3" href="$structdb__domain__info_1_1char__info.html" title="{db_domain_info::char_info\n|+ is_null\l+ type\l+ length\l+ collation_id\l|}" alt="" coords="220,5,395,127"/>
+<area shape="rect" id="node4" href="$structdb__domain__info_1_1numeric__info.html" title="{db_domain_info::numeric_info\n|+ is_null\l+ type\l+ precision\l+ scale\l|}" alt="" coords="419,5,614,127"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="t_shm_shard_key" name="t_shm_shard_key">
+<area shape="rect" id="node2" href="$structt__shard__key.html" title="{t_shard_key\n|+ key_column\l+ num_key_range\l|}" alt="" coords="8,204,135,296"/>
+<area shape="rect" id="node3" href="$structt__shard__key__range.html" title="{t_shard_key_range\n|+ key_index\l+ range_index\l+ min\l+ max\l+ shard_id\l|}" alt="" coords="5,5,137,141"/>
+</map>

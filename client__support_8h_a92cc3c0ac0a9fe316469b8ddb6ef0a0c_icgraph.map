@@ -1,0 +1,21 @@
+<map id="css_send_req_to_server" name="css_send_req_to_server">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a0326b26cb6dda39054c5ece6b4a3a50d" title="net_client_request" alt="" coords="400,259,528,285"/>
+<area shape="rect" id="node14" href="$network__interface__cl_8h.html#a837e242daf7159115213185ff8caf058" title="net_client_request2" alt="" coords="217,156,352,183"/>
+<area shape="rect" id="node15" href="$network__interface__cl_8h.html#a261083c3e18a7eea14b719b5a4ecc063" title="net_client_request2\l_no_malloc" alt="" coords="217,207,352,249"/>
+<area shape="rect" id="node16" href="$network__interface__cl_8h.html#a5780d77262457477d69b7205385f3fb6" title="net_client_request\l_2recv_copyarea" alt="" coords="221,273,349,314"/>
+<area shape="rect" id="node17" href="$network__interface__cl_8h.html#ab573cd7021cce8c0449068cada8cf14d" title="net_client_request\l_3recv_copyarea" alt="" coords="221,338,349,379"/>
+<area shape="rect" id="node18" href="$network__cl_8c.html#a530485811be304dcfbd5315d407f8573" title="net_client_request\l_internal" alt="" coords="221,403,349,445"/>
+<area shape="rect" id="node19" href="$network__interface__cl_8h.html#a400c1cdd6251fc411dd235307ae5291b" title="net_client_request\l_recv_copyarea" alt="" coords="221,469,349,510"/>
+<area shape="rect" id="node20" href="$network__interface__cl_8h.html#ae90c796388a8df0bf2349e34a4d4d42b" title="net_client_request\l_recv_stream" alt="" coords="221,534,349,575"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a41e83a0a45abf3806084c417c6ae9b96" title="acl_reload" alt="" coords="632,5,713,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a420e5a1096274ad90eeadd7c5d2edb39" title="boot_add_volume_extension" alt="" coords="579,56,766,83"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#ae7d92d5ea09bd1c02a995fd710b5f9f4" title="boot_change_ha_mode" alt="" coords="595,107,751,133"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#a3625d56b8c328da6b74f192fcafd370f" title="boot_compact_classes" alt="" coords="595,157,751,184"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#a3d15e4a4604b48a6f999fea79153a3a7" title="boot_find_last_permanent" alt="" coords="587,208,758,235"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#a7f8c290cea7be8bc0880b003b83d59e1" title="boot_find_last_temp" alt="" coords="603,259,742,285"/>
+<area shape="rect" id="node9" href="$network__interface__cl_8h.html#a6b7b83a443f52a51559280aa5676745e" title="boot_find_number_permanent\l_volumes" alt="" coords="576,310,769,351"/>
+<area shape="rect" id="node10" href="$network__interface__cl_8h.html#ab38c0ff961f63ac1063ff709558e2133" title="boot_find_number_temp\l_volumes" alt="" coords="592,375,753,417"/>
+<area shape="rect" id="node11" href="$network__interface__cl_8h.html#a8dd373fc86319587302906df6e510ab5" title="boot_heap_compact" alt="" coords="603,441,742,468"/>
+<area shape="rect" id="node12" href="$network__interface__cl_8h.html#acfedd6bdf76b6db7813bc017dcae0118" title="boot_notify_ha_log\l_applier_state" alt="" coords="607,493,738,534"/>
+<area shape="rect" id="node13" href="$network__interface__cl_8h.html#a13db15b7b8d3fb9f09f8d746dc649115" title="boot_unregister_client" alt="" coords="598,559,747,585"/>
+</map>

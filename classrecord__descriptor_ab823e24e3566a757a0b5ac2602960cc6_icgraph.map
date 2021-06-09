@@ -1,0 +1,11 @@
+<map id="record_descriptor::check_changes_are_permitted" name="record_descriptor::check_changes_are_permitted">
+<area shape="rect" id="node2" href="$classrecord__descriptor.html#a20c8d840e413925a46eba38e7d04390c" title="record_descriptor::\ldelete_data" alt="" coords="454,137,585,179"/>
+<area shape="rect" id="node3" href="$classrecord__descriptor.html#a1dddafad68961fb22c10d17b756d38c8" title="record_descriptor::\lget_data_for_modify" alt="" coords="252,5,392,47"/>
+<area shape="rect" id="node5" href="$classrecord__descriptor.html#a3cb6a0358a85e7f3cfaf4df21be3f62e" title="record_descriptor::\lmodify_data" alt="" coords="454,221,585,263"/>
+<area shape="rect" id="node7" href="$classrecord__descriptor.html#af830e08e7e408f051ffeb3bce0b64e10" title="record_descriptor::\lmove_data" alt="" coords="257,188,387,229"/>
+<area shape="rect" id="node8" href="$classrecord__descriptor.html#a7e47a4397b1cebee77dbc615d2d2301e" title="record_descriptor::\lset_record_length" alt="" coords="257,71,387,112"/>
+<area shape="rect" id="node9" href="$classrecord__descriptor.html#adae626e14728802c92e37bd30acefe6a" title="record_descriptor::\lset_type" alt="" coords="257,305,387,347"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a550ba39ad01765a4f0b7115fbb43f60c" title="heap_attrinfo_transform\l_to_disk_internal" alt="" coords="440,63,599,104"/>
+<area shape="rect" id="node6" href="$classrecord__descriptor.html#ae172588ad05bbee60ce6c66a6f2642c6" title="record_descriptor::\linsert_data" alt="" coords="647,221,777,263"/>
+<area shape="rect" id="node10" href="$serial_8c.html#aedd39ef4c027b8c4568faa44f288ea1a" title="serial_update_serial\l_object" alt="" coords="451,305,588,347"/>
+</map>

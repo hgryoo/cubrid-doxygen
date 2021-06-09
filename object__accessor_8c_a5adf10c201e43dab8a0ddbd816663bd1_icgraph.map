@@ -1,0 +1,8 @@
+<map id="find_shared_attribute" name="find_shared_attribute">
+<area shape="rect" id="node2" href="$object__accessor_8h.html#a3b585e1304cfa82aaf0a46b69ac97230" title="obj_get_shared" alt="" coords="196,19,307,45"/>
+<area shape="rect" id="node4" href="$object__accessor_8h.html#a0f93e96c247b9b3ac1ef5ed210d91110" title="obj_set_shared" alt="" coords="196,95,307,121"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#abbf6bdcada28b7cdeb977e53376dd48f" title="db_get_shared" alt="" coords="387,5,493,32"/>
+<area shape="rect" id="node5" href="$load__sa__loader_8cpp.html#a278ab1972a6800ca07cabfbb85d9ccdd" title="ldr_class_attr_db_generic" alt="" coords="355,56,525,83"/>
+<area shape="rect" id="node6" href="$execute__statement_8c.html#a6b9aca0c993a2a6f9dbd4ccd80d4b4dc" title="update_object_attribute" alt="" coords="361,107,519,133"/>
+<area shape="rect" id="node7" href="$execute__statement_8c.html#ace54c4a019308a03b95bbd221603c0f5" title="insert_object_attr" alt="" coords="379,157,501,184"/>
+</map>

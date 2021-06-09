@@ -1,0 +1,5 @@
+<map id="pt_negate_op" name="pt_negate_op">
+<area shape="rect" id="node2" href="$cnf_8c.html#a65540d3f50ec99d9ae9a181a9a5a87df" title="pt_and_or_form" alt="" coords="312,5,424,32"/>
+<area shape="rect" id="node4" href="$cnf_8c.html#a0bad4b714bedcc9db50bd540c0b008d2" title="pt_negate_expr" alt="" coords="153,31,264,57"/>
+<area shape="rect" id="node3" href="$parser_8h.html#ab2682428dcd7e3bb5710e6eaf4f4a535" title="pt_cnf" alt="" coords="472,5,531,32"/>
+</map>

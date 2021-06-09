@@ -1,0 +1,13 @@
+<map id="add_class_object" name="add_class_object">
+<area shape="rect" id="node2" href="$work__space_8h.html#a86a6f71a36aecbfb409f7253c5c53f58" title="ws_cache" alt="" coords="187,137,268,163"/>
+<area shape="rect" id="node7" href="$work__space_8h.html#ac4849b35ba7d0928d24d1518c3ad81d5" title="ws_mop" alt="" coords="192,187,263,214"/>
+<area shape="rect" id="node8" href="$work__space_8h.html#ac4ad6f34a1b2ccf19e3b0407435159e6" title="ws_vmop" alt="" coords="375,238,453,265"/>
+<area shape="rect" id="node9" href="$work__space_8h.html#ae1db03f792d83872d4bb2e8f7a66c1af" title="ws_update_oid_and_class" alt="" coords="327,289,501,315"/>
+<area shape="rect" id="node11" href="$work__space_8h.html#aaf1a1e5e52e1e27486cdd946870c5cbd" title="ws_new_mop" alt="" coords="176,390,279,417"/>
+<area shape="rect" id="node12" href="$work__space_8h.html#a1c615d58767df2446af4b0fc20513749" title="ws_set_class" alt="" coords="176,339,279,366"/>
+<area shape="rect" id="node3" href="$work__space_8h.html#aafe82e7d7831a07351c36d64ffd09d6b" title="ws_cache_with_oid" alt="" coords="346,187,482,214"/>
+<area shape="rect" id="node4" href="$locator__cl_8c.html#a9175d2c0dcdfa3dd4bbdae59d96c1b67" title="locator_cache_object\l_class" alt="" coords="341,71,487,112"/>
+<area shape="rect" id="node5" href="$locator__cl_8c.html#a71f5ed6795357653b5af8200c7c2dd58" title="locator_cache_object\l_instance" alt="" coords="341,5,487,47"/>
+<area shape="rect" id="node6" href="$locator__cl_8h.html#a913d82589353ffbe520b7c01f8665cf0" title="locator_add_root" alt="" coords="355,137,473,163"/>
+<area shape="rect" id="node10" href="$locator__cl_8c.html#ae9380f74b20b73719986c9937b5c447e" title="locator_lock_class\l_of_instance" alt="" coords="349,340,479,381"/>
+</map>

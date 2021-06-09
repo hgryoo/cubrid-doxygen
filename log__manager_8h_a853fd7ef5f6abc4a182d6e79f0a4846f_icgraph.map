@@ -1,0 +1,17 @@
+<map id="log_append_postpone" name="log_append_postpone">
+<area shape="rect" id="node2" href="$btree_8c.html#abcc33a3d95c509752b338759a9833265" title="btree_insert_mvcc_delid\l_into_page" alt="" coords="219,24,381,65"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#a845aa2865d00b628feca7f496e21b92d" title="disk_stab_unit_unreserve" alt="" coords="215,107,385,134"/>
+<area shape="rect" id="node6" href="$file__manager_8h.html#a67263eaf010a14799dbb1527f9a1327d" title="file_dealloc" alt="" coords="257,187,343,214"/>
+<area shape="rect" id="node7" href="$file__manager_8h.html#a28b2e651b364c8fe73d52f178bbe8fe0" title="file_postpone_destroy" alt="" coords="225,238,375,265"/>
+<area shape="rect" id="node9" href="$btree_8c.html#a98b937ca0375b4d55ef3c1daeee35785" title="xbtree_delete_index" alt="" coords="457,289,596,315"/>
+<area shape="rect" id="node11" href="$heap__file_8c.html#a816077d2fcf52e1e8536a9e77355ecdf" title="xheap_destroy_newly\l_created" alt="" coords="655,281,803,323"/>
+<area shape="rect" id="node12" href="$heap__file_8c.html#a39452d0770e56fac7920a1eef55d75b9" title="heap_delete_relocation" alt="" coords="449,466,604,493"/>
+<area shape="rect" id="node13" href="$heap__file_8c.html#a2c31657df36a10a573c448e212e86c54" title="heap_log_delete_physical" alt="" coords="215,491,385,518"/>
+<area shape="rect" id="node14" href="$heap__file_8h.html#a819f0e5a452505a2e9bee1bc6f62706d" title="heap_log_postpone_heap\l_append_pages" alt="" coords="215,543,385,584"/>
+<area shape="rect" id="node16" href="$vacuum_8h.html#a88dbf12a43d074592c10fdb0792caac5" title="vacuum_log_add_dropped_file" alt="" coords="201,289,399,315"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a7c891b2128c275efa585ecd9fd544f8e" title="btree_key_insert_delete\l_mvccid" alt="" coords="447,5,607,47"/>
+<area shape="rect" id="node5" href="$disk__manager_8c.html#a4d69850bca6997e8414af47fb9dbab3a" title="disk_unreserve_sectors\l_from_volume" alt="" coords="447,71,607,112"/>
+<area shape="rect" id="node8" href="$extendible__hash_8c.html#a7b16d2b1c129e751459ad1e9707b4e1b" title="ehash_create_helper" alt="" coords="455,187,598,214"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#a2199d817b3d6fc06ac2772e0d210049d" title="xheap_destroy" alt="" coords="473,238,580,265"/>
+<area shape="rect" id="node15" href="$locator__sr_8h.html#a04d5e2ed684cc4d2b3e5a09765fb88de" title="locator_multi_insert\l_force" alt="" coords="459,543,594,584"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="heap_stats_get_min_freespace" name="heap_stats_get_min_freespace">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a320a296b462305ebbf9f0cbef9b52029" title="heap_stats_sync_bestspace" alt="" coords="192,56,380,83"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a558d054d900877ca3d0722fa5898eb0e" title="heap_stats_update_internal" alt="" coords="195,107,377,133"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#af256d9deeaf7200651bfe15fc3b12207" title="heap_stats_find_best_page" alt="" coords="428,5,609,32"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#ae7c1d5ed9bdd2f239cbfca947c2b69cd" title="heap_get_num_objects" alt="" coords="441,56,597,83"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#a38649266971c61b3ea363c237acbe54c" title="heap_stats_update" alt="" coords="453,107,585,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="stats_find_inherited_index_stats" name="stats_find_inherited_index_stats">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a100bcfca99e5727696649825edb96264" title="catalog_get_cardinality" alt="" coords="193,46,347,73"/>
+<area shape="rect" id="node5" href="$statistics__sr_8c.html#a87537ae40bfb987f6d7be9eff99352cd" title="stats_update_partitioned\l_statistics" alt="" coords="188,97,352,139"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#ab1ab7fb8555267660219331c3222374a" title="qexec_execute_build\l_indexes" alt="" coords="405,5,549,47"/>
+<area shape="rect" id="node4" href="$system__catalog_8h.html#aaa542c4c891c69ad42f3c3e786d03325" title="catalog_get_cardinality\l_by_name" alt="" coords="400,71,555,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="catalog_add_representation" name="catalog_add_representation">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a61ad207a6558c26bb9c3b3117ba7e599" title="catalog_insert" alt="" coords="265,5,368,32"/>
+<area shape="rect" id="node5" href="$system__catalog_8h.html#a4ea20d720ec7634b5a5004ca53bad45e" title="catalog_update" alt="" coords="261,56,372,83"/>
+<area shape="rect" id="node6" href="$statistics__sr_8c.html#a87537ae40bfb987f6d7be9eff99352cd" title="stats_update_partitioned\l_statistics" alt="" coords="235,107,399,149"/>
+<area shape="rect" id="node7" href="$statistics__sr_8c.html#a502d831d7f2d3b593c5d107748aae384" title="xstats_update_statistics" alt="" coords="447,115,611,141"/>
+<area shape="rect" id="node8" href="$system__catalog_8c.html#aee9e18e1a8746989ec8657d9ed6ccc4a" title="xcatalog_check_rep_dir" alt="" coords="237,224,396,251"/>
+<area shape="rect" id="node3" href="$locator__sr_8h.html#a4ef4e207374578272aab7839343e3837" title="locator_insert_force" alt="" coords="461,5,597,32"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#aa94a327f45350804b2066385650abc9b" title="locator_update_force" alt="" coords="457,56,600,83"/>
+</map>

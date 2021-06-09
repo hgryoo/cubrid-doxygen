@@ -1,0 +1,9 @@
+<map id="disk_stab_cursor_is_bit_set" name="disk_stab_cursor_is_bit_set">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#a5e383b330d3bd73a4c76321e4cd6be9f" title="disk_is_sector_reserved" alt="" coords="199,13,362,39"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#a10386ef6e810b9254a106d79eaab07d6" title="disk_stab_cursor_clear_bit" alt="" coords="192,63,369,90"/>
+<area shape="rect" id="node5" href="$disk__manager_8c.html#a7df0875d91464ce0ad5ae1d3077764c3" title="disk_stab_cursor_set_bit" alt="" coords="197,114,364,141"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#a0635ea76ea0fa0bd9815c08f489a1694" title="disk_stab_unit_reserve" alt="" coords="435,139,591,166"/>
+<area shape="rect" id="node7" href="$disk__manager_8c.html#a4ba3ef942258eb027e0258640237cbf5" title="disk_stab_dump_unit" alt="" coords="208,215,353,242"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a3e817661d1b1d12e8287beaac17f820c" title="disk_is_page_sector\l_reserved_with_debug_crash" alt="" coords="417,5,608,47"/>
+<area shape="rect" id="node8" href="$disk__manager_8c.html#ab6db5934cc0e7964937d5b54473b1fc1" title="disk_stab_dump" alt="" coords="454,215,571,242"/>
+</map>

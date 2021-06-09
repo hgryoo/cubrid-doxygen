@@ -1,0 +1,10 @@
+<map id="lang_set_generic_unicode_norm" name="lang_set_generic_unicode_norm">
+<area shape="rect" id="node2" href="$language__support_8c.html#ae455bef4c810e301896b3ae6c3c83c55" title="init_user_locales" alt="" coords="261,31,380,57"/>
+<area shape="rect" id="node6" href="$language__support_8h.html#aee77834501d0c43ecd059ca4eedcd19a" title="lang_final" alt="" coords="282,132,359,159"/>
+<area shape="rect" id="node3" href="$language__support_8h.html#aacb13171682312ef3352667c25db37e7" title="lang_init" alt="" coords="472,5,543,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="635,56,773,83"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="639,107,769,133"/>
+<area shape="rect" id="node7" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="431,107,584,133"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="428,208,587,235"/>
+<area shape="rect" id="node9" href="$csql_8c.html#ac88d690d090a8a98af1abbb778c61468" title="csql_exit_cleanup" alt="" coords="444,157,571,184"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="qfile_clear_list_id" name="qfile_clear_list_id">
+<area shape="rect" id="node2" href="$query__executor_8h.html#a8ffca36cae36a3f9c8c3c2c3f79be082" title="qexec_clear_xasl" alt="" coords="192,119,315,145"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#a1cd7567bff359b945965090a14f778be" title="qexec_execute_cte" alt="" coords="997,283,1132,309"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="179,587,328,613"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#acd4533cedf2007a5f83ab33c5281c081" title="qexec_execute_selupd_list" alt="" coords="379,653,557,680"/>
+<area shape="rect" id="node10" href="$query__executor_8h.html#a1425f0c508c15a4ff352ecef1e168d41" title="qexec_get_xasl_list_id" alt="" coords="176,181,331,208"/>
+<area shape="rect" id="node11" href="$list__file_8h.html#a3e6631a218af32940cbf2b9436fa3709" title="qfile_close_scan" alt="" coords="194,435,313,461"/>
+<area shape="rect" id="node15" href="$list__file_8c.html#a02ed43955f2b9c7a1c551f6f886b3437" title="qfile_union_list" alt="" coords="622,333,730,360"/>
+<area shape="rect" id="node18" href="$list__file_8c.html#a7b53432d49fb2caef19e11df6647f6a7" title="qfile_delete_list_cache\l_entry" alt="" coords="176,638,331,679"/>
+<area shape="rect" id="node19" href="$list__file_8h.html#a47aa19fae522f6b516600ed723eebe9e" title="qfile_destroy_list" alt="" coords="193,485,313,512"/>
+<area shape="rect" id="node20" href="$list__file_8h.html#a96697bfce120694871901f67ed34732e" title="qfile_free_list_id" alt="" coords="195,359,311,385"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a5b7976d30c689d5874ca294e2b1ae888" title="qexec_clear_regu_var" alt="" coords="393,56,543,83"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a3015a5794486fd26f84bf04c16efaad7" title="qexec_clear_access\l_spec_list" alt="" coords="605,111,747,153"/>
+<area shape="rect" id="node5" href="$query__executor_8h.html#a8117e936942551d7d4b2362e9638260f" title="qexec_execute_query" alt="" coords="393,181,543,208"/>
+<area shape="rect" id="node6" href="$xasl__cache_8c.html#a4d70bee71593e44f2e74272dc2695ce6" title="xcache_clone_decache" alt="" coords="389,5,547,32"/>
+<area shape="rect" id="node12" href="$network__interface__sr_8c.html#a71bd726397d548be70e945fe07279e01" title="stran_can_end_after\l_query_execution" alt="" coords="398,486,538,527"/>
+<area shape="rect" id="node13" href="$list__file_8h.html#abd7b6ba289e1893843fb986085aec186" title="qfile_combine_two_list" alt="" coords="795,333,949,360"/>
+<area shape="rect" id="node14" href="$list__file_8c.html#a2878a76178b04bc113d4937b46a4d9e3" title="qfile_copy_tuple" alt="" coords="410,384,526,411"/>
+<area shape="rect" id="node16" href="$list__file_8h.html#aa8fea87669c2d8de3c1c9010a14bc74d" title="qfile_reallocate_tuple" alt="" coords="396,435,540,461"/>
+<area shape="rect" id="node17" href="$list__file_8h.html#a40d4dd663a240950b5352b246871cba3" title="qfile_sort_list_with_func" alt="" coords="387,603,549,629"/>
+</map>

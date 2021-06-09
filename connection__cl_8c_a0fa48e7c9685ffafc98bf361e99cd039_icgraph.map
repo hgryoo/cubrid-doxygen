@@ -1,0 +1,12 @@
+<map id="css_remove_all_unexpected_packets" name="css_remove_all_unexpected_packets">
+<area shape="rect" id="node2" href="$client__support_8h.html#a089d946c1ae14c43ba995f687a6eb7f5" title="css_cleanup_client\l_queues" alt="" coords="257,12,390,53"/>
+<area shape="rect" id="node4" href="$server__support_8h.html#a65b20bcb22c74c6ca32187ad596ba21d" title="css_cleanup_server\l_queues" alt="" coords="254,89,393,131"/>
+<area shape="rect" id="node6" href="$server__support_8h.html#a3548dc39b6a5e315aec9491bbc34cd75" title="css_end_server_request" alt="" coords="241,181,405,207"/>
+<area shape="rect" id="node10" href="$connection__cl_8h.html#abea1c955db678fb1a504a7270295ec52" title="css_send_close_request" alt="" coords="240,257,407,283"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#af569982b8a0578cc9182b014a3d9f62d" title="net_cleanup_client\l_queues" alt="" coords="479,5,609,47"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a5e2e2ac2153a024dd8535864dd0de176" title="net_cleanup_server\l_queues" alt="" coords="477,71,611,112"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a3278f02559e759f28b296f909d7647a5" title="slogwr_get_log_pages" alt="" coords="469,137,619,163"/>
+<area shape="rect" id="node8" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="466,187,622,214"/>
+<area shape="rect" id="node9" href="$server__support_8h.html#a1192e392c3068e123d149c96f1ae482b" title="css_block_all_active_conn" alt="" coords="455,238,633,265"/>
+<area shape="rect" id="node11" href="$client__support_8h.html#a5558db24ec6db0282fc841b378da12a5" title="css_terminate" alt="" coords="492,289,596,315"/>
+</map>

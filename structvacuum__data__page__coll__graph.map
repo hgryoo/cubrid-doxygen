@@ -1,0 +1,5 @@
+<map id="vacuum_data_page" name="vacuum_data_page">
+<area shape="rect" id="node2" href="$structvacuum__data__entry.html" title="{vacuum_data_entry\n|+ blockid\l+ oldest_visible_mvccid\l+ newest_mvccid\l|+ vacuum_data_entry()\l+ vacuum_data_entry()\l+ vacuum_data_entry()\l+ get_blockid()\l+ is_available()\l+ is_vacuumed()\l+ is_job_in_progress()\l+ was_interrupted()\l+ set_vacuumed()\l+ set_job_in_progress()\l+ set_interrupted()\l}" alt="" coords="5,307,168,560"/>
+<area shape="rect" id="node3" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="34,5,139,244"/>
+<area shape="rect" id="node4" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="192,387,264,479"/>
+</map>

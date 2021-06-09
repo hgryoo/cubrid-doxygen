@@ -1,0 +1,9 @@
+<map id="file_tracker_load" name="file_tracker_load">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="185,123,320,149"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="171,211,335,237"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="403,5,519,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="396,57,527,98"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="390,123,533,149"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="417,197,506,224"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#ad5a0894d25fa1b98981a8cfceaa6ed33" title="boot_emergency_patch" alt="" coords="383,248,540,275"/>
+</map>

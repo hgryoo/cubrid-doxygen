@@ -1,0 +1,5 @@
+<map id="intl_tolower_iso8859" name="intl_tolower_iso8859">
+<area shape="rect" id="node2" href="$language__support_8c.html#a2d61cbd6b27050a2e3e96320ecd8dd41" title="check_env_lang_val" alt="" coords="193,31,333,57"/>
+<area shape="rect" id="node3" href="$language__support_8c.html#a9dfd4570d9edca44a44a5d762655e76b" title="set_msg_lang_from_env" alt="" coords="381,5,545,32"/>
+<area shape="rect" id="node4" href="$language__support_8h.html#a52036720cef62b079b1fa9c2e102e115" title="lang_set_charset_lang" alt="" coords="387,56,539,83"/>
+</map>

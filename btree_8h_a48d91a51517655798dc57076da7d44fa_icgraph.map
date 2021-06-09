@@ -1,0 +1,7 @@
+<map id="btree_physical_delete" name="btree_physical_delete">
+<area shape="rect" id="node2" href="$btree_8h.html#a890fe22be1bcabc969563629e136a81b" title="btree_update" alt="" coords="231,5,329,32"/>
+<area shape="rect" id="node3" href="$locator__sr_8h.html#a4955d5ba9c9a9197d618e2929d3dcee1" title="locator_update_index" alt="" coords="407,31,552,57"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#ab82d600b3f62b5b63fd9b3fd864e7031" title="locator_add_or_remove\l_index_internal" alt="" coords="201,107,359,149"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#a6b9b5f5c209656c6aa74400fd7f628d5" title="locator_repair_btree\l_by_delete" alt="" coords="212,173,348,214"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#a5a8be2c3d205f8655213ffae6565e1d8" title="xlocator_remove_class\l_from_index" alt="" coords="202,238,358,279"/>
+</map>

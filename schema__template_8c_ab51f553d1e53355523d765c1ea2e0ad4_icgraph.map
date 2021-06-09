@@ -1,0 +1,8 @@
+<map id="smt_rename_any" name="smt_rename_any">
+<area shape="rect" id="node2" href="$db__class_8c.html#a13a67a46ca599aff906ed9c525fd64f7" title="db_rename_internal" alt="" coords="176,81,311,108"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#aee88046198ed8215f4873a60e4a1350e" title="dbt_rename" alt="" coords="198,136,289,163"/>
+<area shape="rect" id="node3" href="$db__class_8c.html#a74da81a3aaf4928883d2c52e290dde10" title="db_rename" alt="" coords="386,5,473,32"/>
+<area shape="rect" id="node4" href="$db__class_8c.html#a1317c2e0059caad9567e59cc828ccd06" title="db_rename_attribute" alt="" coords="359,56,499,83"/>
+<area shape="rect" id="node5" href="$db__class_8c.html#ae1f4c19d67fddeaaaedac526af1257f5" title="db_rename_method" alt="" coords="361,107,497,133"/>
+<area shape="rect" id="node7" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="359,158,500,199"/>
+</map>

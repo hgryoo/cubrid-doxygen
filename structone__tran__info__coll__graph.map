@@ -1,0 +1,4 @@
+<map id="one_tran_info" name="one_tran_info">
+<area shape="rect" id="node2" href="$structtran__query__exec__info.html" title="{tran_query_exec_info\n|+ wait_for_tran_index\l_string\l+ query_time\l+ tran_time\l+ query_stmt\l+ sql_id\l|}" alt="" coords="5,145,152,296"/>
+<area shape="rect" id="node3" href="$structxasl__id.html" title="{xasl_id\n|+ cache_flag\l|}" alt="" coords="30,5,127,83"/>
+</map>

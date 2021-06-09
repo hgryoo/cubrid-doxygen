@@ -1,0 +1,5 @@
+<map id="cuberr::er_message::swap" name="cuberr::er_message::swap">
+<area shape="rect" id="node2" href="$classcuberr_1_1context.html#aae9a6c4f09a8e3d706757edd7b863162" title="cuberr::context::pop\l_error_stack" alt="" coords="191,39,329,80"/>
+<area shape="rect" id="node3" href="$error__manager_8h.html#aff251d10a05f81ce2422c30da7a36e54" title="er_stack_pop_and_keep\l_error" alt="" coords="382,5,545,47"/>
+<area shape="rect" id="node4" href="$classcuberr_1_1context.html#a45f2df7f6a3b6fc5836b716064a70299" title="cuberr::context::pop\l_error_stack_and_destroy" alt="" coords="377,71,549,112"/>
+</map>

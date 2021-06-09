@@ -1,0 +1,9 @@
+<map id="partition_new_scancache" name="partition_new_scancache">
+<area shape="rect" id="node2" href="$locator__sr_8h.html#abb01ca2615f5d48cdac970eeb0af1b6a" title="locator_get_partition\l_scancache" alt="" coords="223,165,361,207"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a330cfcba16e2910848ac1ae251d50dc1" title="qexec_remove_duplicates\l_for_replace" alt="" coords="409,5,583,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#aa21867168640201b25f7aeaf72c203cd" title="qexec_oid_of_duplicate\l_key_update" alt="" coords="417,71,575,112"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#ad306f1593f495315f6e3be09bbb81927" title="qexec_upddel_setup\l_current_class" alt="" coords="425,136,567,177"/>
+<area shape="rect" id="node6" href="$locator__sr_8h.html#a4ef4e207374578272aab7839343e3837" title="locator_insert_force" alt="" coords="428,202,564,229"/>
+<area shape="rect" id="node7" href="$locator__sr_8c.html#a29ff99cc47991fff78c81ff1c63a43e7" title="locator_move_record" alt="" coords="631,253,773,279"/>
+<area shape="rect" id="node8" href="$locator__sr_8c.html#aa94a327f45350804b2066385650abc9b" title="locator_update_force" alt="" coords="821,278,964,305"/>
+</map>

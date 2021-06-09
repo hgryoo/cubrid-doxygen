@@ -1,0 +1,9 @@
+<map id="regu_spec_alloc" name="regu_spec_alloc">
+<area shape="rect" id="node2" href="$xasl__generation_8c.html#a61a327684e4629e4aeb0ad8a10c9df31" title="pt_make_access_spec" alt="" coords="169,144,325,171"/>
+<area shape="rect" id="node3" href="$xasl__generation_8c.html#a633985da683c0c13a7d4ed534d91f521" title="pt_make_class_access_spec" alt="" coords="386,5,581,32"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#acdadee945b137b88c70b7289e4cf230e" title="pt_make_cselect_access_spec" alt="" coords="381,56,586,83"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#ad6f2fc620742e2172305d1e0545bbd99" title="pt_make_json_table\l_access_spec" alt="" coords="414,107,553,149"/>
+<area shape="rect" id="node6" href="$xasl__generation_8c.html#a76688708de1ac01d99c24ea628018d40" title="pt_make_list_access_spec" alt="" coords="393,173,573,200"/>
+<area shape="rect" id="node7" href="$xasl__generation_8c.html#aeccb2d38ff0f09459def2baa3ef6b2ed" title="pt_make_set_access_spec" alt="" coords="393,224,574,251"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#af818b9ad6c0e18eded00b21e64ba6893" title="pt_make_showstmt_access_spec" alt="" coords="373,275,593,301"/>
+</map>

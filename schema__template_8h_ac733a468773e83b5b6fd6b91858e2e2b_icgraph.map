@@ -1,0 +1,5 @@
+<map id="smt_delete_resolution" name="smt_delete_resolution">
+<area shape="rect" id="node2" href="$db__class_8c.html#ae959840c3c6e1183d707e09a0a9ffd6b" title="db_drop_resolution" alt="" coords="205,5,335,32"/>
+<area shape="rect" id="node3" href="$db__temp_8c.html#a44b8f7a760d25d2b8f4ad0235ab1daea" title="dbt_drop_resolution" alt="" coords="203,56,337,83"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="385,49,527,90"/>
+</map>

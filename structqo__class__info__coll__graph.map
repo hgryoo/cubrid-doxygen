@@ -1,0 +1,8 @@
+<map id="qo_class_info" name="qo_class_info">
+<area shape="rect" id="node2" href="$structqo__class__info__entry.html" title="{qo_class_info_entry\n|+ name\l+ self_allocated\l+ normal_class\l|}" alt="" coords="299,931,438,1037"/>
+<area shape="rect" id="node3" href="$structclass__stats.html" title="{class_stats\n|+ time_stamp\l+ heap_num_objects\l+ heap_num_pages\l+ n_attrs\l|}" alt="" coords="36,71,179,193"/>
+<area shape="rect" id="node4" href="$structsm__class.html" title="{sm_class\n|+ class_type\l+ repid\l+ object_size\l+ att_count\l+ shared_count\l+ class_attribute_count\l+ loader_commands\l+ method_count\l+ class_method_count\l+ fixed_count\l+ variable_count\l+ fixed_size\l+ att_ids\l+ method_ids\l+ unused\l+ collation_id\l+ auth_cache\l+ comment\l+ flags\l+ virtual_cache_local\l_schema_id\l+ virtual_cache_global\l_schema_id\l+ virtual_cache_snapshot\l_version\l+ tde_algorithm\l+ methods_loaded\l+ post_load_cleanup\l+ triggers_validated\l+ has_active_triggers\l+ dont_decache_constraints\l_or_flush\l+ recache_constraints\l|}" alt="" coords="134,321,321,868"/>
+<area shape="rect" id="node5" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="241,5,416,259"/>
+<area shape="rect" id="node6" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="431,541,523,648"/>
+<area shape="rect" id="node7" href="$structqo__index.html" title="{qo_index\n|+ n\l+ max\l|}" alt="" coords="547,549,622,641"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="proxy_send_request_to_cas" name="proxy_send_request_to_cas">
+<area shape="rect" id="node2" href="$shard__proxy__function_8h.html#a86ef6724b9fe79b397be24e4cf3805ec" title="fn_proxy_client_check_cas" alt="" coords="197,5,377,32"/>
+<area shape="rect" id="node3" href="$shard__proxy__function_8h.html#a7215f635835b26790f2195f18d7e71d0" title="fn_proxy_client_end_tran" alt="" coords="204,56,371,83"/>
+<area shape="rect" id="node4" href="$shard__proxy__function_8h.html#ad8b98cbe0ac69b5c147cc24152cca1ab" title="fn_proxy_client_schema_info" alt="" coords="192,107,383,133"/>
+<area shape="rect" id="node5" href="$shard__proxy__function_8c.html#a3c3fc344b70b0c846f51c8dd349a0c4d" title="proxy_send_request\l_to_cas_with_new_event" alt="" coords="203,158,372,199"/>
+<area shape="rect" id="node6" href="$shard__proxy__function_8h.html#a9881fb7cfbeb24fcf8a38ca468e6a33e" title="fn_proxy_client_con\l_close" alt="" coords="434,125,573,166"/>
+<area shape="rect" id="node7" href="$shard__proxy__function_8h.html#a50159964e935390cf0589d2481ec4db3" title="fn_proxy_client_conn\l_error" alt="" coords="431,190,576,231"/>
+</map>

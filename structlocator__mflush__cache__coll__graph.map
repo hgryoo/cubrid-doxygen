@@ -1,0 +1,12 @@
+<map id="locator_mflush_cache" name="locator_mflush_cache">
+<area shape="rect" id="node2" href="$structlc__copyarea__oneobj.html" title="{lc_copyarea_oneobj\n|+ operation\l+ flag\l+ length\l+ offset\l|}" alt="" coords="488,381,625,502"/>
+<area shape="rect" id="node11" href="$structlc__copyarea__manyobjs.html" title="{lc_copyarea_manyobjs\n|+ multi_update_flags\l+ num_objs\l|}" alt="" coords="395,645,550,737"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="415,5,507,112"/>
+<area shape="rect" id="node7" href="$unionvid__oid.html" title="{vid_oid\n||}" alt="" coords="241,175,304,252"/>
+<area shape="rect" id="node4" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="632,175,697,252"/>
+<area shape="rect" id="node5" href="$structrecdes.html" title="{recdes\n|+ area_size\l+ length\l+ type\l+ data\l|}" alt="" coords="702,631,793,752"/>
+<area shape="rect" id="node6" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="185,315,360,568"/>
+<area shape="rect" id="node9" href="$structlocator__mflush__temp__oid.html" title="{locator_mflush_temp_oid\n|+ obj\l|}" alt="" coords="5,653,172,730"/>
+<area shape="rect" id="node8" href="$structws__value__list.html" title="{ws_value_list\n||}" alt="" coords="329,175,430,252"/>
+<area shape="rect" id="node10" href="$structlc__copy__area.html" title="{lc_copy_area\n|+ mem\l+ length\l|}" alt="" coords="817,645,915,737"/>
+</map>

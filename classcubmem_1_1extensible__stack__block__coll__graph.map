@@ -1,0 +1,5 @@
+<map id="cubmem::extensible_stack_block&lt; S &gt;" name="cubmem::extensible_stack_block&lt; S &gt;">
+<area shape="rect" id="node2" href="$structcubmem_1_1extensible__block.html" title="{cubmem::extensible\l_block\n||+ extensible_block()\l+ extensible_block()\l+ extensible_block()\l+ ~extensible_block()\l+ operator=()\l+ extend_by()\l+ extend_to()\l+ freemem()\l+ get_ptr()\l+ get_read_ptr()\l+ get_size()\l+ release_ptr()\l&#45; extensible_block()\l&#45; operator=()\l}" alt="" coords="69,263,215,545"/>
+<area shape="rect" id="node3" href="$structcubmem_1_1block.html" title="{cubmem::block\n|+ dim\l+ ptr\l|+ block()\l+ block()\l+ block()\l+ operator=()\l+ is_valid()\l+ move_ptr()\l&#45; block()\l&#45; operator=()\l}" alt="" coords="5,5,116,200"/>
+<area shape="rect" id="node4" href="$structcubmem_1_1block__allocator.html" title="{cubmem::block_allocator\n|+ m_alloc_f\l+ m_dealloc_f\l|+ block_allocator()\l+ block_allocator()\l+ operator=()\l}" alt="" coords="140,42,307,163"/>
+</map>

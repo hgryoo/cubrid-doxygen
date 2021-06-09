@@ -1,0 +1,21 @@
+<map id="vasprintf" name="vasprintf">
+<area shape="rect" id="node2" href="$porting_8h.html#a28a648dd20504ebc0c03623a28d82c93" title="asprintf" alt="" coords="150,173,215,200"/>
+<area shape="rect" id="node9" href="$parser_8h.html#ab998869bfe50255846a55893ff39c48d" title="pt_frob_error" alt="" coords="135,379,230,405"/>
+<area shape="rect" id="node12" href="$parser_8h.html#aa12bcbf716a6941d41910acde3aacb09" title="pt_frob_warning" alt="" coords="125,429,240,456"/>
+<area shape="rect" id="node13" href="$porting_8h.html#a2c4f14c424a31db9c57fd046c3b9f0df" title="strdup" alt="" coords="153,593,212,620"/>
+<area shape="rect" id="node3" href="$file__io_8c.html#a75de3fb1bd3a4ce20808ae371e5bdca6" title="fileio_continue_restore" alt="" coords="519,173,671,200"/>
+<area shape="rect" id="node4" href="$file__io_8c.html#a9fb6af728c404f5ac0822488d1711dd2" title="fileio_find_restore\l_volume" alt="" coords="317,225,441,266"/>
+<area shape="rect" id="node5" href="$file__io_8c.html#a548d455254d93c20e0630710f28cadf0" title="fileio_get_next_backup\l_volume" alt="" coords="517,254,672,295"/>
+<area shape="rect" id="node6" href="$file__io_8h.html#a804410092892d2bfac5a0b9d21a4e3c7" title="fileio_finish_backup" alt="" coords="311,5,447,32"/>
+<area shape="rect" id="node7" href="$file__io_8c.html#aebeeec98ab02d21bae159cc383e51731" title="fileio_make_error_message" alt="" coords="288,56,469,83"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#ae0ca8eb9081bca5cf948e3a5e46813f6" title="logpb_remote_ask_user\l_before_delete_volumes" alt="" coords="297,107,460,149"/>
+<area shape="rect" id="node10" href="$parser_8h.html#a3b96aed1c66f1a92f46b64255461dde1" title="pt_internal_error" alt="" coords="321,416,436,443"/>
+<area shape="rect" id="node11" href="$type__checking_8c.html#ae97fae0add795fb58046a8bac9c94350" title="pt_eval_function_type_new" alt="" coords="289,341,469,368"/>
+<area shape="rect" id="node14" href="$cas__log_8c.html#a52d8cd607214a41a54b1e4ab42ec3e9a" title="access_log_open" alt="" coords="317,517,440,544"/>
+<area shape="rect" id="node15" href="$cas__execute_8c.html#a8bb7d9f89dd87c493fedf0cd666660c2" title="add_fk_info_result" alt="" coords="315,568,443,595"/>
+<area shape="rect" id="node16" href="$esql__cli_8c.html#a57a85e29bd9864079353971b62cd9c74" title="alloc_dynamic" alt="" coords="326,619,431,645"/>
+<area shape="rect" id="node17" href="$utility_8h.html#aa7a280251cdf100c28e06298f181b584" title="applylogdb" alt="" coords="337,669,421,696"/>
+<area shape="rect" id="node18" href="$area__alloc_8h.html#a80912e510c5339938721d1c315c08135" title="area_create" alt="" coords="333,720,424,747"/>
+<area shape="rect" id="node19" href="$authenticate_8h.html#a5fae42ae1d3c3a0e10c705dfdd302ec2" title="au_user_name_dup" alt="" coords="311,771,446,797"/>
+<area shape="rect" id="node20" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="311,467,446,493"/>
+</map>

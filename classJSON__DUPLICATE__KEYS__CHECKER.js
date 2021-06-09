@@ -1,0 +1,6 @@
+var classJSON__DUPLICATE__KEYS__CHECKER =
+[
+    [ "JSON_DUPLICATE_KEYS_CHECKER", "classJSON__DUPLICATE__KEYS__CHECKER.html#a66220b4267915758d700084bda3bc4eb", null ],
+    [ "~JSON_DUPLICATE_KEYS_CHECKER", "classJSON__DUPLICATE__KEYS__CHECKER.html#a8d209de2abfbc8c9da18e08a0acf402c", null ],
+    [ "CallBefore", "classJSON__DUPLICATE__KEYS__CHECKER.html#a6e0edaad769d50e93a42833a9f662af4", null ]
+];

@@ -1,0 +1,9 @@
+<map id="tx_lob_locator_clear" name="tx_lob_locator_clear">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="218,61,327,87"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a337f8a4c9ef75b8f01e4f5293d2f3381" title="log_abort_partial" alt="" coords="214,111,331,138"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="211,162,334,189"/>
+<area shape="rect" id="node8" href="$transaction__sr_8c.html#a9b5f535da0352cfafc4cd0966b36190d" title="xtran_server_end_topop" alt="" coords="192,213,353,239"/>
+<area shape="rect" id="node3" href="$log__2pc_8c.html#a8f0d3e711958d90183e5813a073b4696" title="log_2pc_commit_second\l_phase" alt="" coords="401,133,568,175"/>
+<area shape="rect" id="node4" href="$log__2pc_8c.html#acf5f3bbe0b21f92332c8b664cd39e251" title="log_2pc_recovery_abort\l_decision" alt="" coords="405,5,565,47"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="447,71,522,98"/>
+</map>

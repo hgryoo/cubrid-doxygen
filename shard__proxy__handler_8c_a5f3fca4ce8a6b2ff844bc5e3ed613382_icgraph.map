@@ -1,0 +1,8 @@
+<map id="proxy_context_set_error_with_msg" name="proxy_context_set_error_with_msg">
+<area shape="rect" id="node2" href="$shard__proxy__io_8c.html#a91e869a4b1f94069f0ba1b421aa5bd41" title="proxy_check_authorization" alt="" coords="216,5,393,32"/>
+<area shape="rect" id="node3" href="$shard__proxy__io_8c.html#aa25007bf6d21e907333698fdca35ab77" title="proxy_process_client\l_register" alt="" coords="443,15,588,57"/>
+<area shape="rect" id="node4" href="$shard__proxy__io_8c.html#a6bf591c36c1a792f109acc21529a47f5" title="proxy_client_io_new" alt="" coords="235,107,375,133"/>
+<area shape="rect" id="node6" href="$shard__proxy__handler_8h.html#a86838f575fd30c5fbbd1af7a5f3f577c" title="proxy_context_timeout" alt="" coords="227,159,382,185"/>
+<area shape="rect" id="node5" href="$shard__proxy__io_8c.html#ae75f048fbcfb22da57966d53b574bc38" title="proxy_socket_io_new\l_client" alt="" coords="441,97,589,138"/>
+<area shape="rect" id="node7" href="$shard__proxy__handler_8h.html#a78c628da2868a1445fe48e8752446ebd" title="proxy_waiter_timeout" alt="" coords="442,163,589,189"/>
+</map>

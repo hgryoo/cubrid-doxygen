@@ -1,0 +1,6 @@
+<map id="sm_get_class_with_statistics" name="sm_get_class_with_statistics">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a33b4ae334093eded0b28663d49d4f177" title="do_create_partition\l_constraints" alt="" coords="248,5,380,47"/>
+<area shape="rect" id="node4" href="$query__graph_8c.html#a7768220d2b02d1e46dfadde50efbd0c8" title="grok_classes" alt="" coords="265,71,363,98"/>
+<area shape="rect" id="node5" href="$statistics__cl_8c.html#a23092ead3d89a2c6cc47c91aa44df4b9" title="stats_dump" alt="" coords="269,122,359,149"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a3bff2a1d9326a77b64702da53220fa4d" title="do_alter_partitioning_post" alt="" coords="428,13,599,39"/>
+</map>

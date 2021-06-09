@@ -1,0 +1,15 @@
+<map id="smt_check_index_exist" name="smt_check_index_exist">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#ac770726929bfb229a6fde8c58f2e1374" title="sm_add_constraint" alt="" coords="396,311,528,338"/>
+<area shape="rect" id="node14" href="$schema__template_8h.html#adb290209d73a8df3911b89db416469c8" title="smt_add_constraint" alt="" coords="212,337,348,363"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a9e1478dcb49772944e0d926957d48005" title="create_or_drop_index\l_helper" alt="" coords="595,5,741,47"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a0d0139873ec1f050b3281fd821e3defb" title="db_add_constraint" alt="" coords="604,71,732,98"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a03dbf8ec3962e323a7e7fdcd814c8ce3" title="do_alter_clause_change\l_attribute" alt="" coords="808,115,971,156"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#afcf7ed75c00d62f9572625c130721e19" title="do_alter_index_rebuild" alt="" coords="593,173,743,199"/>
+<area shape="rect" id="node7" href="$execute__schema_8c.html#afaa7284d4b1251a4e20e4232705f1c3b" title="do_copy_indexes" alt="" coords="607,223,729,250"/>
+<area shape="rect" id="node8" href="$execute__schema_8c.html#a2bf3e5ef2f2a10e5650ca02e30858597" title="do_create_partition\l_constraint" alt="" coords="602,275,734,316"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html#a1324a0ef4d62e125fd7a37bcea432611" title="do_recreate_att_constraints" alt="" coords="577,341,759,367"/>
+<area shape="rect" id="node10" href="$execute__schema_8c.html#a117d19cbdb55baa5877f998a7c3e9310" title="do_recreate_renamed\l_class_indexes" alt="" coords="595,392,741,433"/>
+<area shape="rect" id="node11" href="$execute__schema_8c.html#af5267455ffddb5ca1a9d8a630b64696f" title="do_recreate_saved_indexes" alt="" coords="576,458,760,485"/>
+<area shape="rect" id="node12" href="$schema__manager_8c.html#ae946e6aefead200daf0e5ddbc5fcd417" title="sm_add_secondary_index\l_on_partition" alt="" coords="581,509,755,551"/>
+<area shape="rect" id="node13" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="602,575,734,602"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="log_append_ha_server_state" name="log_append_ha_server_state">
+<area shape="rect" id="node2" href="$server__support_8h.html#a5692baaa6c9df9b84010366971aac54c" title="css_change_ha_server\l_state" alt="" coords="429,57,585,98"/>
+<area shape="rect" id="node6" href="$server__support_8c.html#ad3adfa46363c3256509cadd6c9030475" title="css_transit_ha_server\l_state" alt="" coords="214,121,365,162"/>
+<area shape="rect" id="node9" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="205,186,373,227"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="661,5,796,32"/>
+<area shape="rect" id="node4" href="$server__support_8c.html#ae58c62456655b0400a42763aa98b0232" title="css_process_change\l_server_ha_mode_request" alt="" coords="641,57,816,98"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#ab275afe2b2e11383cae924c9b34cd50f" title="sboot_change_ha_mode" alt="" coords="647,123,810,149"/>
+<area shape="rect" id="node7" href="$server__support_8h.html#a8af24e655f140f2a4ca56b831054b16f" title="css_check_ha_server\l_state_for_client" alt="" coords="433,122,582,163"/>
+<area shape="rect" id="node8" href="$server__support_8h.html#aa9d4922ce427909a91784770a99a3b16" title="css_notify_ha_log_applier\l_state" alt="" coords="421,187,593,229"/>
+</map>

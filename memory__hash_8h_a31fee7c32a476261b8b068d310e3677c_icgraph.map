@@ -1,0 +1,21 @@
+<map id="mht_count" name="mht_count">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a6c8e6a7c0e058271191fd35091b687f3" title="heap_check_all_pages" alt="" coords="382,11,537,38"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#afd754e7894b58837949515c8429e0c2f" title="heap_chkreloc_end" alt="" coords="159,62,294,88"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#af6a3d5e7d80ea339e2024a73192a9c43" title="heap_chnguess_remove\l_entry" alt="" coords="145,113,308,154"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#ac5cd3d09e06ead717f4c1040da5d7e78" title="heap_stats_add_bestspace" alt="" coords="136,244,317,271"/>
+<area shape="rect" id="node15" href="$heap__file_8c.html#aa83f329539bf9a5faf5af65f38465d9d" title="heap_stats_del_bestspace\l_by_hfid" alt="" coords="138,360,315,401"/>
+<area shape="rect" id="node18" href="$heap__file_8c.html#a2437d61eaada3d0e392b8c1f2ceeb8fd" title="heap_stats_del_bestspace\l_by_vpid" alt="" coords="138,178,315,220"/>
+<area shape="rect" id="node19" href="$query__executor_8c.html#aeb8bf568b044802bdc42d5e200d45f27" title="qexec_groupby" alt="" coords="171,426,282,452"/>
+<area shape="rect" id="node20" href="$list__file_8h.html#a32c83d7aa6c3485db84b589432ac2121" title="qfile_dump_list_cache\l_internal" alt="" coords="151,501,302,542"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a2227d0baf96c8e9ee396fcb52ecd3c73" title="heap_check_heap_file" alt="" coords="601,11,752,38"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#a58561b68a4f778b543f4f6796317f13f" title="heap_chnguess_decache" alt="" coords="375,62,544,88"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#a38649266971c61b3ea363c237acbe54c" title="heap_stats_update" alt="" coords="393,179,525,206"/>
+<area shape="rect" id="node9" href="$heap__file_8c.html#ab3cb899c1d19e4e21ef56cbaf2630ffa" title="heap_stats_find_page\l_in_bestspace" alt="" coords="385,113,534,154"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#a320a296b462305ebbf9f0cbef9b52029" title="heap_stats_sync_bestspace" alt="" coords="365,230,553,256"/>
+<area shape="rect" id="node11" href="$heap__file_8c.html#a24b8c714d34488d9989103a9235c4b9f" title="heap_vpid_alloc" alt="" coords="402,280,517,307"/>
+<area shape="rect" id="node12" href="$heap__file_8c.html#a1063293444bb398d29a2b95ccdcecd33" title="heap_reuse" alt="" coords="415,331,504,358"/>
+<area shape="rect" id="node14" href="$heap__file_8h.html#a2b0c3f9af6d7acec2a7c754c14acbdf4" title="xheap_reclaim_addresses" alt="" coords="373,382,546,408"/>
+<area shape="rect" id="node13" href="$heap__file_8c.html#a23cd5f642edebaad25e8fafd58600228" title="heap_create_internal" alt="" coords="605,418,748,444"/>
+<area shape="rect" id="node16" href="$heap__file_8c.html#a2199d817b3d6fc06ac2772e0d210049d" title="xheap_destroy" alt="" coords="406,483,513,510"/>
+<area shape="rect" id="node17" href="$heap__file_8c.html#a816077d2fcf52e1e8536a9e77355ecdf" title="xheap_destroy_newly\l_created" alt="" coords="603,490,751,532"/>
+</map>

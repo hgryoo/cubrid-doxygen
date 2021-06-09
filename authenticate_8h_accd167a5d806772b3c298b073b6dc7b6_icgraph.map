@@ -1,0 +1,6 @@
+<map id="au_add_member" name="au_add_member">
+<area shape="rect" id="node2" href="$authenticate_8h.html#aa479c87e3576961adb289499447402f7" title="au_add_member_method" alt="" coords="172,5,340,32"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a843abdc40cdec5d505dce8b259468327" title="db_add_member" alt="" coords="197,56,315,83"/>
+<area shape="rect" id="node5" href="$util__sa_8c.html#a5ca6959d779932ef8c5e4006a7425df1" title="parse_user_define_line" alt="" coords="179,107,333,133"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a4ca9f4f06ad7a4b72b201cfad249773b" title="do_create_user" alt="" coords="388,56,499,83"/>
+</map>

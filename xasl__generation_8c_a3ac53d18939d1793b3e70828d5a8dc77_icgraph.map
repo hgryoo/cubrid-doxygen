@@ -1,0 +1,6 @@
+<map id="pt_to_fetch_proc" name="pt_to_fetch_proc">
+<area shape="rect" id="node2" href="$plan__generation_8c.html#a7834906f04d93f652492df042ff0d3f7" title="make_fetch_proc" alt="" coords="182,31,305,57"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#ac65056bba098123775920a4f526fa8c8" title="pt_to_fetch_proc_list\l_recurse" alt="" coords="172,82,315,123"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#a5ba46846df3d11008f3c7d2fd4fa6cf3" title="gen_inner" alt="" coords="363,5,441,32"/>
+<area shape="rect" id="node4" href="$plan__generation_8c.html#a851ad3e58cae2b277cdf3f058e304cac" title="gen_outer" alt="" coords="489,5,568,32"/>
+</map>

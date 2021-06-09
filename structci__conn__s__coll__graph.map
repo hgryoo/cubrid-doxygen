@@ -1,0 +1,5 @@
+<map id="ci_conn_s" name="ci_conn_s">
+<area shape="rect" id="node2" href="$structci__conn__option__s.html" title="{ci_conn_option_s\n|+ cli_version\l+ srv_version\l+ lock_timeout\l+ isolation\l+ autocommit\l+ host\l+ port\l|}" alt="" coords="5,93,128,259"/>
+<area shape="rect" id="node3" href="$structapi__object__resultset__pool__s.html" title="{api_object_resultset\l_pool_s\n|+ get_object_resultset\l+ oid_delete\l+ oid_get_classname\l+ destroy\l+ glo_create\l+ glo_get_path_name\l+ glo_do_compaction\l+ glo_insert\l+ glo_delete\l+ glo_read\l+ glo_write\l+ glo_truncate\l+ glo_seek\l+ glo_tell\l+ glo_like_search\l+ glo_reg_search\l+ glo_bin_search\l+ glo_copy\l|}" alt="" coords="153,5,303,347"/>
+<area shape="rect" id="node4" href="$structbh__interface__s.html" title="{bh_interface_s\n|+ alloc_handle\l+ destroy_handle\l+ lookup\l+ bind_to_handle\l+ bind_get_parent\l+ bind_prune\l+ bind_graft\l+ bind_get_first_child\l+ bind_get_next_sibling\l+ bind_map\l+ destroy\l|}" alt="" coords="327,64,486,288"/>
+</map>

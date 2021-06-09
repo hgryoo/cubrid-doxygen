@@ -1,0 +1,10 @@
+<map id="pr_free_value" name="pr_free_value">
+<area shape="rect" id="node2" href="$object__primitive_8h.html#af7e0ed13d3aeca3349a6aa219936653d" title="pr_copy_value" alt="" coords="178,107,285,133"/>
+<area shape="rect" id="node3" href="$object__primitive_8h.html#ae12a8c594fad2fc0fab2db8c4b6a5d40" title="PRIM_SET_NULL" alt="" coords="372,5,503,32"/>
+<area shape="rect" id="node4" href="$query__rewrite_8c.html#a58bb73bff6b823a98a05a9fdde2fe240" title="qo_merge_range_helper" alt="" coords="357,56,517,83"/>
+<area shape="rect" id="node7" href="$query__aggregate_8hpp.html#a0cd2f279086132b7be25f33a1e26f140" title="qdata_free_agg_hkey" alt="" coords="158,208,305,235"/>
+<area shape="rect" id="node8" href="$query__aggregate_8hpp.html#a3cc26d073fa35e278810f2748994c503" title="qdata_free_agg_hvalue" alt="" coords="153,259,309,285"/>
+<area shape="rect" id="node9" href="$query__hash__scan_8c.html#ac2c818e69112acb360f958a5c0b2b641" title="qdata_free_hscan_key" alt="" coords="155,157,308,184"/>
+<area shape="rect" id="node5" href="$query__aggregate_8hpp.html#a43dda65475aca8181b412aef3803af8e" title="qdata_copy_agg_hkey" alt="" coords="361,107,513,133"/>
+<area shape="rect" id="node6" href="$query__hash__scan_8c.html#a9bdee6e1750d9bb08065f01ef38e07be" title="qdata_copy_hscan_key" alt="" coords="358,157,517,184"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="sysprm_obtain_server_parameters" name="sysprm_obtain_server_parameters">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a25ec1e1ee1ed2ecd053a903feda6eaca" title="db_get_system_parameters" alt="" coords="204,56,387,83"/>
+<area shape="rect" id="node3" href="$cas__execute_8h.html#ac78915e1b3aaad00dc639e634a821ee4" title="ux_get_default_setting" alt="" coords="659,5,812,32"/>
+<area shape="rect" id="node4" href="$cas__execute_8h.html#a0ae1c0910187ba3505b2e2dd1704e279" title="ux_get_system_parameter" alt="" coords="435,31,611,57"/>
+<area shape="rect" id="node5" href="$csql_8c.html#ad52f6714d8b860d9e1747c69ebc993a4" title="csql_get_sys_param" alt="" coords="451,81,594,108"/>
+<area shape="rect" id="node6" href="$utility_8h.html#a222e056aeec93dc58810d9238d90d10e" title="statdump" alt="" coords="485,132,561,159"/>
+</map>

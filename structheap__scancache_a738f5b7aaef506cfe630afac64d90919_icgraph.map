@@ -1,0 +1,9 @@
+<map id="heap_scancache::start_area" name="heap_scancache::start_area">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a238904edb069316030fbea8b9c381a3b" title="heap_scancache_quick\l_start_internal" alt="" coords="240,136,399,177"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#a35f68404038b4fe7ac5a05100e4724d4" title="heap_scancache_start\l_internal" alt="" coords="243,201,396,243"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a308a77b15a4ac9975ed7b07cdf0f2cde" title="heap_scancache_quick\l_start" alt="" coords="465,5,623,47"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#ad15d9ebff1c09313face7095827651b0" title="heap_scancache_quick\l_start_modify" alt="" coords="465,71,623,112"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#aeeadd1409205cdc2d909d67094389259" title="heap_scancache_quick\l_start_modify_with_class_oid" alt="" coords="447,136,641,177"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#ab334326bea6f863cf85d304fbf4ce885" title="heap_scancache_quick\l_start_root_hfid" alt="" coords="465,201,623,243"/>
+<area shape="rect" id="node7" href="$heap__file_8h.html#a0c8c8437fcaaacfdc6e695287b7998e8" title="heap_scancache_quick\l_start_with_class_hfid" alt="" coords="465,267,623,308"/>
+</map>

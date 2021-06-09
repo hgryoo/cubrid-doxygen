@@ -1,0 +1,5 @@
+<map id="db_local_transaction_id" name="db_local_transaction_id">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a36a75ee7067a1dc7813a2ea1b1dd595a" title="qp_get_server_info" alt="" coords="212,42,344,69"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="392,5,544,47"/>
+<area shape="rect" id="node4" href="$parser_8h.html#a81fed221e67fa0719c7067ac2837b042" title="pt_exec_trigger_stmt" alt="" coords="396,71,540,98"/>
+</map>

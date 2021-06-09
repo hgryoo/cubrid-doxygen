@@ -1,0 +1,4 @@
+<map id="cubmonitor::timer_statistic&lt; T &gt;::autotimer" name="cubmonitor::timer_statistic&lt; T &gt;::autotimer">
+<area shape="rect" id="node2" href="$classcubmonitor_1_1timer__statistic.html" title="{cubmonitor::timer_statistic\&lt; T \&gt;\n|&#45; m_statistic\l|+ timer_statistic()\l+ time()\l+ time()\l+ fetch()\l+ get_statistics_count()\l+ get_time()\l+ reset_timer()\l}" alt="" coords="5,175,213,340"/>
+<area shape="rect" id="node3" href="$classcubmonitor_1_1timer.html" title="{cubmonitor::timer\n|&#45; m_timept\l|+ timer()\l+ reset()\l+ time()\l}" alt="" coords="48,5,171,112"/>
+</map>

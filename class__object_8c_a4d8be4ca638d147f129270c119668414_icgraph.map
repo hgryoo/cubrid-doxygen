@@ -1,0 +1,7 @@
+<map id="classobj_make_foreign_key_ref_seq" name="classobj_make_foreign_key_ref_seq">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#aafbbf994fe81ea00cc1441a2f1b7c4ee" title="classobj_put_foreign\l_key_ref" alt="" coords="208,26,349,67"/>
+<area shape="rect" id="node6" href="$class__object_8h.html#a17622b0d9fbfa6e567c0b692a2d83668" title="classobj_put_index" alt="" coords="212,92,345,118"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#a4be58376ad46bd333b990118c0ed2507" title="update_foreign_key_ref" alt="" coords="613,33,771,60"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#a3ff533d629bcff4db58f79f702510735" title="allocate_foreign_key" alt="" coords="819,62,960,89"/>
+<area shape="rect" id="node5" href="$schema__manager_8c.html#ad976623d2bf1138f7d4da0acc8061e5d" title="update_fk_ref_partitioned\l_class" alt="" coords="397,26,565,67"/>
+</map>

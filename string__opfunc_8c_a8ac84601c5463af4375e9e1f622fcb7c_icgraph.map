@@ -1,0 +1,8 @@
+<map id="db_string_trim" name="db_string_trim">
+<area shape="rect" id="node2" href="$string__opfunc_8c.html#a04f48c011fb94e50ab89fb30d82ff11e" title="db_date_add_sub_interval_expr" alt="" coords="157,84,363,111"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="636,59,816,86"/>
+<area shape="rect" id="node5" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="667,123,785,150"/>
+<area shape="rect" id="node7" href="$string__opfunc_8h.html#a556b385cb2fad7ffcff4b054965ddfa4" title="db_format" alt="" coords="459,135,539,162"/>
+<area shape="rect" id="node3" href="$string__opfunc_8h.html#ac45947d8c1f85ecbbd9c01b9f410cfe7" title="db_date_add_interval_expr" alt="" coords="411,34,588,60"/>
+<area shape="rect" id="node6" href="$string__opfunc_8h.html#acaa71d44d3d54a843d10ab0a9eed8ee2" title="db_date_sub_interval_expr" alt="" coords="411,84,588,111"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="area_alloc_blockset" name="area_alloc_blockset">
+<area shape="rect" id="node2" href="$area__alloc_8h.html#a80912e510c5339938721d1c315c08135" title="area_create" alt="" coords="207,183,298,209"/>
+<area shape="rect" id="node10" href="$area__alloc_8c.html#a3bacb53586c415c046003ac558a02212" title="area_insert_block" alt="" coords="191,284,315,311"/>
+<area shape="rect" id="node3" href="$unittests__area_8c.html#ac2b9f33eee7a638ac1499ba124af7818" title="test_area" alt="" coords="388,5,464,32"/>
+<area shape="rect" id="node4" href="$class__object_8h.html#a3e7130b99915b8bccc12f9c1dfddd5ed" title="classobj_area_init" alt="" coords="363,56,489,83"/>
+<area shape="rect" id="node5" href="$object__domain_8h.html#a40722355e901476149a0ede4153c286e" title="tp_init" alt="" coords="397,107,455,133"/>
+<area shape="rect" id="node6" href="$object__primitive_8h.html#ac60db53eb9fd52f411c4df8010ea3f4a" title="pr_area_init" alt="" coords="381,157,471,184"/>
+<area shape="rect" id="node7" href="$object__template_8h.html#a30b2452a25e06e2344613d014d8d6842" title="obt_area_init" alt="" coords="378,208,474,235"/>
+<area shape="rect" id="node8" href="$set__object_8h.html#a9585af34d51e74308d443558d631d54d" title="set_area_init" alt="" coords="378,259,474,285"/>
+<area shape="rect" id="node9" href="$work__space_8h.html#aee22007e66fc956958ad1755a4d18b36" title="ws_area_init" alt="" coords="379,309,473,336"/>
+<area shape="rect" id="node11" href="$area__alloc_8h.html#ad7b44600fda4067dd1c9483c49657086" title="area_alloc" alt="" coords="385,360,467,387"/>
+</map>

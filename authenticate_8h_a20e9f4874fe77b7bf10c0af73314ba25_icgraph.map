@@ -1,0 +1,5 @@
+<map id="au_has_user_name" name="au_has_user_name">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="188,31,317,57"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a77bd95c7f71d0f419d0f69a3090c4836" title="conn_restart_client" alt="" coords="365,5,497,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a4f475937ff6abf40ab472a149d37ae11" title="db_restart" alt="" coords="391,56,471,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="log_can_skip_redo_logging" name="log_can_skip_redo_logging">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a1315d00aaa26d2a280a675338f59c9ac" title="log_append_empty_record" alt="" coords="232,132,407,159"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a853fd7ef5f6abc4a182d6e79f0a4846f" title="log_append_postpone" alt="" coords="455,208,603,235"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#ad39dc10a11df5427f5af4c203e9d98a6" title="log_append_redo_crumbs" alt="" coords="234,245,405,272"/>
+<area shape="rect" id="node3" href="$overflow__file_8h.html#a0dea508c2a4861ae92f8a35813c01bfa" title="overflow_insert" alt="" coords="473,5,584,32"/>
+<area shape="rect" id="node4" href="$overflow__file_8h.html#acf0a82fadbaf6ca25f85cc615c5ceb1a" title="overflow_update" alt="" coords="470,56,587,83"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#aa3ff43fa56474666ebd3a16b6f7335c8" title="pgbuf_rv_flush_page" alt="" coords="457,107,600,133"/>
+<area shape="rect" id="node7" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="481,157,577,184"/>
+</map>

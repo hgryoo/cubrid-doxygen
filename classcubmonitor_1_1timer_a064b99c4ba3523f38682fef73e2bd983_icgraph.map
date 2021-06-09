@@ -1,0 +1,6 @@
+<map id="cubmonitor::timer::reset" name="cubmonitor::timer::reset">
+<area shape="rect" id="node2" href="$classcubmonitor_1_1timer__statistic.html#ad00b26ff19f841f35efaad2c64841ef5" title="cubmonitor::timer_statistic\l::reset_timer" alt="" coords="188,8,364,49"/>
+<area shape="rect" id="node4" href="$classcubmonitor_1_1counter__timer__statistic.html#ae98b2f3183aa89ed3cbf6d22285585e7" title="cubmonitor::counter\l_timer_statistic::reset_timer" alt="" coords="184,75,368,116"/>
+<area shape="rect" id="node3" href="$classcubmonitor_1_1timer__statistic_1_1autotimer.html#ac809adabbffcf4f6143864ae602c94f8" title="cubmonitor::timer_statistic\l::autotimer::autotimer" alt="" coords="416,5,592,47"/>
+<area shape="rect" id="node5" href="$classcubmonitor_1_1counter__timer__statistic_1_1autotimer.html#ad1c7112b8f7476564b99227aeab1a52f" title="cubmonitor::counter\l_timer_statistic::autotimer\l::autotimer" alt="" coords="417,70,591,126"/>
+</map>

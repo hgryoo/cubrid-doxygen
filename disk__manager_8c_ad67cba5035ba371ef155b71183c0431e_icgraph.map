@@ -1,0 +1,7 @@
+<map id="disk_stab_init" name="disk_stab_init">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="174,56,265,83"/>
+<area shape="rect" id="node5" href="$disk__manager_8c.html#a1ae52075d2aa7b8e8ffd2cb55c301005" title="disk_volume_boot" alt="" coords="156,107,283,133"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#aa1450d661897bab9929324e46c0b641d" title="disk_add_volume" alt="" coords="353,5,476,32"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a5fdac5331f81f23b3b65375177ded3f5" title="disk_format_first_volume" alt="" coords="331,56,499,83"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#a7c1d93fe80e7ff8345beddd6146ac557" title="disk_cache_load_volume" alt="" coords="331,107,499,133"/>
+</map>

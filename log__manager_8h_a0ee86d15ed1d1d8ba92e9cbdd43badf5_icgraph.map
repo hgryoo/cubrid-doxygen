@@ -1,0 +1,5 @@
+<map id="log_append_savepoint" name="log_append_savepoint">
+<area shape="rect" id="node2" href="$transaction__sr_8c.html#ace0d1199b573b1c5a5cf64183ee33148" title="xtran_server_savepoint" alt="" coords="204,31,361,57"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a012d03ddeae8ee4eec86dba52aa7895f" title="tran_server_savepoint" alt="" coords="413,5,563,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#aa887f777e43276b4923c4f7328d89bcb" title="stran_server_savepoint" alt="" coords="409,56,567,83"/>
+</map>

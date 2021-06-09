@@ -1,0 +1,6 @@
+<map id="fileio_increase_flushed_page_count" name="fileio_increase_flushed_page_count">
+<area shape="rect" id="node2" href="$file__io_8c.html#a8e6c852e5b478288fab6c8d927ad682f" title="fileio_compensate_flush" alt="" coords="208,31,371,57"/>
+<area shape="rect" id="node3" href="$file__io_8h.html#a4571e2ee793cb5c067a638b4d23d0e49" title="fileio_synchronize_all" alt="" coords="419,5,565,32"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#a61597c0696b4944261dadb90525296e9" title="fileio_write" alt="" coords="450,56,534,83"/>
+<area shape="rect" id="node5" href="$file__io_8h.html#a2951a1c5874f53c556ad42849d150d46" title="fileio_write_pages" alt="" coords="429,107,555,133"/>
+</map>

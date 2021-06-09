@@ -1,0 +1,5 @@
+<map id="vacuum_dropped_files_page" name="vacuum_dropped_files_page">
+<area shape="rect" id="node2" href="$structvacuum__dropped__file.html" title="{vacuum_dropped_file\n|+ mvccid\l|}" alt="" coords="5,167,151,245"/>
+<area shape="rect" id="node3" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="47,5,109,97"/>
+<area shape="rect" id="node4" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="175,160,247,252"/>
+</map>

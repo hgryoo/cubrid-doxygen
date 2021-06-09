@@ -1,0 +1,5 @@
+<map id="scan_alloc_iscan_oid_buf_list" name="scan_alloc_iscan_oid_buf_list">
+<area shape="rect" id="node2" href="$scan__manager_8h.html#a182c8e92047f6d81e263152409c29da0" title="scan_open_index_scan" alt="" coords="200,31,359,57"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#ab987ce7bd67fd4b9e0c392cea960d924" title="qexec_open_scan" alt="" coords="427,5,553,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#aabe6a73176c447365adf5a71e0db3d0a" title="qexec_init_next_partition" alt="" coords="407,56,573,83"/>
+</map>

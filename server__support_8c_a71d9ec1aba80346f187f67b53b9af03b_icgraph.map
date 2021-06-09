@@ -1,0 +1,8 @@
+<map id="css_is_ha_repl_delayed" name="css_is_ha_repl_delayed">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="215,35,383,76"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8c.html#a4515b9cb418e3cde07738c0d56c29c12" title="server_capabilities" alt="" coords="233,101,364,127"/>
+<area shape="rect" id="node7" href="$transaction__sr_8c.html#adea9113696646ab1a88c8e0e348180fa" title="xtran_lock_rep_read" alt="" coords="229,151,368,178"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="629,5,760,47"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ad7d852d6547ead2335b5cc6ce6360ea0" title="log_wakeup_log_flush\l_daemon" alt="" coords="431,35,581,76"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#aa91abaf89af63e703737ac5c00d7cd7d" title="logpb_flush_pages" alt="" coords="629,86,760,113"/>
+</map>

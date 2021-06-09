@@ -1,0 +1,8 @@
+<map id="logtb_set_current_user_active" name="logtb_set_current_user_active">
+<area shape="rect" id="node2" href="$session_8h.html#a7f8126ea111a62ad511c24a8cb9d9d8a" title="session_check_session" alt="" coords="208,5,369,32"/>
+<area shape="rect" id="node4" href="$session_8h.html#aee058bef79cef1a5ff0ae8033b1afb6c" title="session_state_create" alt="" coords="215,56,362,83"/>
+<area shape="rect" id="node6" href="$session_8h.html#af0e0bce21a1cfdad15c4c9f72ef55d29" title="session_state_destroy" alt="" coords="212,107,365,133"/>
+<area shape="rect" id="node3" href="$session__sr_8c.html#a3fe5307416ddff67467c37c1843d0a13" title="xsession_check_session" alt="" coords="417,5,585,32"/>
+<area shape="rect" id="node5" href="$session__sr_8c.html#ac83ab8e16f4b13b412f3b7baaf8eecce" title="xsession_create_new" alt="" coords="427,56,575,83"/>
+<area shape="rect" id="node7" href="$session__sr_8c.html#ae09c930b6eda65d308d9c3c28b1dd8f3" title="xsession_end_session" alt="" coords="424,107,579,133"/>
+</map>

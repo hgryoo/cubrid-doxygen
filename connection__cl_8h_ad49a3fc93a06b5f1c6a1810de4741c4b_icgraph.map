@@ -1,0 +1,19 @@
+<map id="css_does_master_exist" name="css_does_master_exist">
+<area shape="rect" id="node2" href="$util__service_8c.html#aed501613b4ef9669fc9b1e2fbb86857c" title="check_all_services\l_status" alt="" coords="464,573,597,614"/>
+<area shape="rect" id="node4" href="$util__service_8c.html#ae26a357e0abbd122e7a3e6cb8eb32cd0" title="process_service" alt="" coords="893,395,1011,422"/>
+<area shape="rect" id="node6" href="$util__service_8c.html#a7079d7863421c1ad53146f5d85e1d213" title="is_server_running" alt="" coords="237,471,361,498"/>
+<area shape="rect" id="node7" href="$util__service_8c.html#a1c65dc6858c8c7b9cf9146a3e618df7b" title="process_server" alt="" coords="475,420,586,447"/>
+<area shape="rect" id="node10" href="$master_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="274,572,325,599"/>
+<area shape="rect" id="node11" href="$util__service_8c.html#a94b36ce0d66d201dd64b2bfead04166f" title="process_heartbeat_deregister" alt="" coords="434,268,627,295"/>
+<area shape="rect" id="node13" href="$util__service_8c.html#ae5f4c15b4aee78ceb71e031be0fd81a6" title="process_heartbeat_reload" alt="" coords="445,66,616,92"/>
+<area shape="rect" id="node14" href="$util__service_8c.html#aacb64393ad82784e02a9a7bc1c3fbf6f" title="process_heartbeat_replication" alt="" coords="433,116,628,143"/>
+<area shape="rect" id="node15" href="$util__service_8c.html#a4d372c6d302a9107f320db64b66fad4f" title="process_heartbeat_start" alt="" coords="449,319,612,346"/>
+<area shape="rect" id="node16" href="$util__service_8c.html#ab3fe9627df09451d685ed5df9c0509d3" title="process_heartbeat_status" alt="" coords="213,167,385,194"/>
+<area shape="rect" id="node17" href="$util__service_8c.html#ab0b1337fcf9e1cc6d6ba925d94583e0a" title="process_heartbeat_stop" alt="" coords="219,218,380,244"/>
+<area shape="rect" id="node18" href="$util__service_8c.html#a9ca350fe9160440f4be52982fc5bfe16" title="process_master" alt="" coords="242,370,357,396"/>
+<area shape="rect" id="node3" href="$util__service_8c.html#abf5b167075fcb42cf84a3ee1ab34ad09" title="are_all_services_running" alt="" coords="678,623,843,650"/>
+<area shape="rect" id="node5" href="$util__service_8c.html#a82347ae2dbb2e82d37e4ca590400f336" title="are_all_services_stopped" alt="" coords="676,572,845,599"/>
+<area shape="rect" id="node8" href="$util__service_8c.html#a996b53c491f5f5fbc36b949b6ef73a15" title="us_hb_server_start" alt="" coords="694,471,827,498"/>
+<area shape="rect" id="node9" href="$util__service_8c.html#ace45afca7f77440bd7781795a746ccb3" title="us_hb_server_stop" alt="" coords="695,522,827,548"/>
+<area shape="rect" id="node12" href="$util__service_8c.html#a987ee80be18954803cfe4fc0e54bb118" title="process_heartbeat" alt="" coords="696,218,825,244"/>
+</map>

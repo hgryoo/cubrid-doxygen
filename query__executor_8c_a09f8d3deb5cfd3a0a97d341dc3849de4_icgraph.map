@@ -1,0 +1,16 @@
+<map id="qexec_clear_pos_desc" name="qexec_clear_pos_desc">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a5b7976d30c689d5874ca294e2b1ae888" title="qexec_clear_regu_var" alt="" coords="208,343,357,369"/>
+<area shape="rect" id="node15" href="$query__executor_8c.html#a173b51bf04e397fb8bd00658ba4bbc5d" title="qexec_clear_sort_list" alt="" coords="210,540,355,567"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#aa67ccf69f30a30f5bc6c9c6001f49c49" title="qexec_clear_arith_list" alt="" coords="665,197,813,224"/>
+<area shape="rect" id="node4" href="$query__executor_8h.html#a8ffca36cae36a3f9c8c3c2c3f79be082" title="qexec_clear_xasl" alt="" coords="872,357,995,384"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a3015a5794486fd26f84bf04c16efaad7" title="qexec_clear_access\l_spec_list" alt="" coords="1043,241,1184,282"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#a512adbdec54fd97d07c799da4f1eb159" title="qexec_clear_regu_list" alt="" coords="665,135,813,161"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#a9f50bd2e2415b43e421b8ad18b247d28" title="qexec_clear_regu_value_list" alt="" coords="412,469,599,496"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#a5349c13f04c9ff5790eccaaaf3ad6f1c" title="qexec_clear_pred" alt="" coords="443,267,567,293"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#a7c7a9097d61a6214e642758de693cf77" title="qexec_clear_analytic\l_function_list" alt="" coords="667,350,811,391"/>
+<area shape="rect" id="node10" href="$query__executor_8c.html#a21447d25eab375eeafd566dbca44a7fe" title="qexec_clear_update\l_assignment" alt="" coords="669,415,808,457"/>
+<area shape="rect" id="node11" href="$query__executor_8h.html#a3d55661ca66de16ef8ec33dfbc13b07a" title="qexec_clear_func_pred" alt="" coords="427,520,583,547"/>
+<area shape="rect" id="node12" href="$query__executor_8h.html#a48436717e372e52de58a3d57d9649766" title="qexec_clear_partition\l_expression" alt="" coords="433,571,578,613"/>
+<area shape="rect" id="node13" href="$query__executor_8c.html#a0e54541ef8121b272ba2e5dec23e7899" title="qexec_clear_agg_orderby\l_const_list" alt="" coords="653,481,824,522"/>
+<area shape="rect" id="node14" href="$query__executor_8c.html#af070053625a521777e17dc9f6905fc1e" title="qexec_clear_regu_variable_list" alt="" coords="405,67,605,93"/>
+</map>

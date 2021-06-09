@@ -1,0 +1,8 @@
+<map id="pgbuf_holder" name="pgbuf_holder">
+<area shape="rect" id="node2" href="$structpgbuf__holder__stat.html" title="{pgbuf_holder_stat\n|+ dirty_before_hold\l+ dirtied_by_holder\l+ hold_has_write_latch\l+ hold_has_read_latch\l|}" alt="" coords="5,336,161,457"/>
+<area shape="rect" id="node3" href="$structpgbuf__bcb.html" title="{pgbuf_bcb\n|+ fcnt\l+ latch_mode\l+ flags\l+ tick_lru_list\l+ tick_lru3\l+ count_fix_and_avoid\l_dealloc\l+ hit_age\l|}" alt="" coords="413,307,567,487"/>
+<area shape="rect" id="node5" href="$structpgbuf__iopage__buffer.html" title="{pgbuf_iopage_buffer\n||}" alt="" coords="479,586,618,663"/>
+<area shape="rect" id="node4" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="299,79,371,171"/>
+<area shape="rect" id="node7" href="$structpgbuf__watcher.html" title="{pgbuf_watcher\n|+ pgptr\l+ latch_mode\l+ page_was_unfixed\l+ initial_rank\l+ curr_rank\l+ magic\l+ watched_at\l+ init_at\l|}" alt="" coords="185,307,328,487"/>
+<area shape="rect" id="node6" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="437,5,543,244"/>
+</map>

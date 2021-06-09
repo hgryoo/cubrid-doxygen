@@ -1,0 +1,10 @@
+<map id="src/object/object_template.h" name="src/object/object_template.h">
+<area shape="rect" id="node3" href="$area__alloc_8h.html" title="area_alloc.h" alt="" coords="135,80,227,107"/>
+<area shape="rect" id="node6" href="$class__object_8h.html" title="class_object.h" alt="" coords="260,80,367,107"/>
+<area shape="rect" id="node4" href="$lockfree__bitmap_8hpp.html" title="lockfree_bitmap.hpp" alt="" coords="5,155,144,181"/>
+<area shape="rect" id="node5" href="$porting_8h.html" title="porting.h" alt="" coords="269,304,341,331"/>
+<area shape="rect" id="node7" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="220,229,337,256"/>
+<area shape="rect" id="node8" href="$work__space_8h.html" title="work_space.h" alt="" coords="381,155,483,181"/>
+<area shape="rect" id="node9" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="364,229,497,256"/>
+<area shape="rect" id="node10" href="$statistics_8h.html" title="statistics.h" alt="" coords="270,155,357,181"/>
+</map>

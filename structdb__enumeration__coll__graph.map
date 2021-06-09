@@ -1,0 +1,4 @@
+<map id="db_enumeration" name="db_enumeration">
+<area shape="rect" id="node2" href="$structdb__enum__element.html" title="{db_enum_element\n|+ short_val\l|}" alt="" coords="29,351,157,428"/>
+<area shape="rect" id="node3" href="$uniondb__char.html" title="{db_char\n|+ style\l+ codeset\l+ is_max_string\l+ compressed_need_clear\l+ info\l+ size\l+ buf\l+ sm\l+ size\l+ buf\l+ compressed_size\l+ compressed_buf\l+ medium\l+ str\l+ large\l|}" alt="" coords="5,5,180,288"/>
+</map>

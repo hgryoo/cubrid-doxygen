@@ -1,0 +1,6 @@
+<map id="lang_get_default_codeset" name="lang_get_default_codeset">
+<area shape="rect" id="node2" href="$language__support_8h.html#a52036720cef62b079b1fa9c2e102e115" title="lang_set_charset_lang" alt="" coords="224,56,376,83"/>
+<area shape="rect" id="node3" href="$language__support_8h.html#a3c0963599c2f292454d1a8d2d1f7b14f" title="lang_set_language" alt="" coords="441,5,571,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="437,56,575,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="424,107,588,133"/>
+</map>

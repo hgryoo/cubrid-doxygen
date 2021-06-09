@@ -1,0 +1,9 @@
+<map id="net_client_request2_no_malloc" name="net_client_request2_no_malloc">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a8447581564f1781b9c75734097b0fb62" title="es_posix_copy_file" alt="" coords="199,5,332,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a95702fa16cc92b324c00ce4a8ac74d1e" title="es_posix_create_file" alt="" coords="195,56,336,83"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#ad98f8609e7aafaed03c940c36be01f36" title="es_posix_rename_file" alt="" coords="191,107,339,133"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#af3af30fc3d4bff62ee92e20b23a308aa" title="log_set_suppress_repl\l_on_transaction" alt="" coords="189,158,341,199"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#aaf5f589a1d20495e0b078532ac12767f" title="qfile_get_list_file_page" alt="" coords="188,224,343,251"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#a479bb655e51bb799abda0a644df31886" title="tran_server_get_global\l_tran_info" alt="" coords="189,275,342,317"/>
+<area shape="rect" id="node3" href="$es_8h.html#a946876951248501a8dad8c57ae6f5649" title="es_copy_file" alt="" coords="391,5,485,32"/>
+</map>

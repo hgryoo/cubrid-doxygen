@@ -1,0 +1,14 @@
+<map id="lockfree::freelist::free_node::get_freelist_next" name="lockfree::freelist::free_node::get_freelist_next">
+<area shape="rect" id="node2" href="$classlockfree_1_1freelist.html#ace36b43a63ad109e1d951dc894c3203b" title="lockfree::freelist\l::dealloc_list" alt="" coords="244,5,359,47"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1freelist.html#ab6831629bcc42ecf364ceb7828911b03" title="lockfree::freelist\l::pop_from_available" alt="" coords="592,69,735,111"/>
+<area shape="rect" id="node6" href="$classlockfree_1_1freelist.html#aa1707f84e1fe4e24a4999c838c75bfb1" title="lockfree::freelist\l::push_to_list" alt="" coords="244,181,359,223"/>
+<area shape="rect" id="node11" href="$classlockfree_1_1freelist.html#a32402078c9ecee6c1c9aeb04a907d172" title="lockfree::freelist\l::retire" alt="" coords="244,356,359,397"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1freelist.html#a3241a4947e00778cb004c094ba2d8940" title="lockfree::freelist\l::clear_free_nodes" alt="" coords="411,5,540,47"/>
+<area shape="rect" id="node5" href="$classlockfree_1_1freelist.html#a806d42cde415b3c618b703eff2560614" title="lockfree::freelist\l::claim" alt="" coords="783,139,897,180"/>
+<area shape="rect" id="node7" href="$classlockfree_1_1freelist.html#a464275303aebacb6e861f4a409cc5d9e" title="lockfree::freelist\l::alloc_backbuffer" alt="" coords="413,123,538,164"/>
+<area shape="rect" id="node8" href="$classlockfree_1_1freelist.html#aabe28c11afee86bf7211162180412267" title="lockfree::freelist\l::swap_backbuffer" alt="" coords="599,139,728,180"/>
+<area shape="rect" id="node9" href="$classlockfree_1_1freelist.html#ae8a557395e86c732a2b1c5635f6753ed" title="lockfree::freelist\l::force_alloc_block" alt="" coords="598,213,729,255"/>
+<area shape="rect" id="node10" href="$classlockfree_1_1freelist_1_1free__node.html#a195b33c62af520419dba384e85f5b96c" title="lockfree::freelist\l::free_node::reclaim" alt="" coords="407,291,544,332"/>
+<area shape="rect" id="node12" href="$classlockfree_1_1hashmap.html#adea7f6dced1f317c993e1919b16ceae9" title="lockfree::hashmap::\lfreelist_retire" alt="" coords="407,356,544,397"/>
+<area shape="rect" id="node13" href="$classlockfree_1_1freelist.html#a5908096c0dd5806ce81793e9501212d1" title="lockfree::freelist\l::retire" alt="" coords="418,421,533,463"/>
+</map>

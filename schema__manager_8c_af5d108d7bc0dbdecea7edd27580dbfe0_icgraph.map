@@ -1,0 +1,21 @@
+<map id="update_class" name="update_class">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#a877eae23c5ac51cd65803170769336de" title="sm_finish_class" alt="" coords="187,173,303,200"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#ac5a97d6cefc1d330dfa725a6059e4dca" title="sm_update_class" alt="" coords="183,391,307,417"/>
+<area shape="rect" id="node19" href="$schema__manager_8h.html#aeda542ec16efde2b16364d2eaf806934" title="sm_update_class_auto" alt="" coords="167,441,323,468"/>
+<area shape="rect" id="node20" href="$schema__manager_8h.html#a3b38e7e54ce0470e111287f2b19a4ae0" title="sm_update_class_with_auth" alt="" coords="152,492,339,519"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a2155d5ac15511892b123153e5f3b97fc" title="dbt_finish_class" alt="" coords="444,5,560,32"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#ac9f92fa6a5c28a01e0bdb4f8c4b0ec95" title="db_create_class" alt="" coords="443,56,561,83"/>
+<area shape="rect" id="node6" href="$db__class_8c.html#ac7c7332f3a1e127bb49ec06504fad3ee" title="db_add_set_attribute\l_domain" alt="" coords="431,107,573,149"/>
+<area shape="rect" id="node7" href="$db__class_8c.html#a55b60b42e6860fe714c0bd24fe78e8fa" title="db_drop_set_attribute\l_domain" alt="" coords="429,173,575,214"/>
+<area shape="rect" id="node8" href="$db__class_8c.html#a2f76c7fc141f1accb74292b0469db77a" title="db_change_default" alt="" coords="437,239,567,265"/>
+<area shape="rect" id="node9" href="$db__class_8c.html#a754a072f842f4f4cfe00fec07ce536ee" title="db_change_method_implementation" alt="" coords="387,289,617,316"/>
+<area shape="rect" id="node10" href="$db__class_8c.html#af7381cff07ac0ca24028847f5e9c5a09" title="add_arg_domain" alt="" coords="443,340,561,367"/>
+<area shape="rect" id="node11" href="$db__class_8c.html#a2f3f249530e0c4950db940c88c452b5c" title="db_set_loader_commands" alt="" coords="415,391,589,417"/>
+<area shape="rect" id="node12" href="$db__class_8c.html#a9db183b561f970bef67dfd61a4d98dac" title="db_add_method_file" alt="" coords="433,441,571,468"/>
+<area shape="rect" id="node13" href="$db__class_8c.html#a6cf5c689af5fe8ec71d001692b9d620a" title="db_drop_method_file" alt="" coords="431,492,573,519"/>
+<area shape="rect" id="node14" href="$db__class_8c.html#a589c6cceb432e2fa4f99b0f0f3f6d251" title="db_drop_method_files" alt="" coords="427,543,577,569"/>
+<area shape="rect" id="node15" href="$dbi__compat_8h.html#aae39b1feccfef8822105fb8e91a66307" title="db_create_vclass" alt="" coords="440,593,564,620"/>
+<area shape="rect" id="node16" href="$db__virt_8c.html#a10ceb10535a5f9c365c8ed1c55f535cf" title="db_add_query_spec" alt="" coords="433,644,571,671"/>
+<area shape="rect" id="node17" href="$dbi__compat_8h.html#aeab41674fab5b46af334e7844d46d89e" title="db_drop_query_spec" alt="" coords="431,695,573,721"/>
+<area shape="rect" id="node18" href="$dbi__compat_8h.html#aed953b9414b60c1505c22cfef07bc5e0" title="db_change_query_spec" alt="" coords="423,745,581,772"/>
+</map>

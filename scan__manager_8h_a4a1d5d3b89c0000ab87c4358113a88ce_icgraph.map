@@ -1,0 +1,11 @@
+<map id="scan_init_index_scan" name="scan_init_index_scan">
+<area shape="rect" id="node2" href="$btree_8h.html#aed9b279abdb5bbcf1c57775b0f87125e" title="btree_keyoid_checkscan\l_check" alt="" coords="200,136,367,177"/>
+<area shape="rect" id="node5" href="$locator__sr_8h.html#a95c3de45a3d96181fad4bf2f3090d752" title="locator_check_btree\l_entries" alt="" coords="424,180,563,221"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#a4099da553de5a10d74a97582bea47368" title="locator_check_unique\l_btree_entries" alt="" coords="419,245,567,287"/>
+<area shape="rect" id="node7" href="$btree__load_8c.html#a3a58f0efdf76a4d2a1e8bc8b915ed0b1" title="btree_load_check_fk" alt="" coords="212,303,355,330"/>
+<area shape="rect" id="node8" href="$locator__sr_8c.html#a3ec8ca9e5364109919ee52c486add7ec" title="locator_check_primary\l_key_delete" alt="" coords="207,5,360,47"/>
+<area shape="rect" id="node9" href="$locator__sr_8c.html#a65b9f6b49b3eaa536a20c55db7f99b3f" title="locator_check_primary\l_key_update" alt="" coords="207,71,360,112"/>
+<area shape="rect" id="node10" href="$locator__sr_8c.html#a51e657615992656a81f637c25fe9cda3" title="locator_prefetch_index\l_page_internal" alt="" coords="207,355,360,396"/>
+<area shape="rect" id="node3" href="$locator__sr_8c.html#ab82d600b3f62b5b63fd9b3fd864e7031" title="locator_add_or_remove\l_index_internal" alt="" coords="415,63,572,104"/>
+<area shape="rect" id="node4" href="$locator__sr_8h.html#a4955d5ba9c9a9197d618e2929d3dcee1" title="locator_update_index" alt="" coords="421,129,566,155"/>
+</map>

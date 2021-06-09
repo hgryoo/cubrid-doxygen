@@ -1,0 +1,8 @@
+<map id="sysprm_set_er_log_file" name="sysprm_set_er_log_file">
+<area shape="rect" id="node2" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="612,5,728,32"/>
+<area shape="rect" id="node4" href="$system__parameter_8c.html#a29f727e670076ae114900fc05365ae17" title="sysprm_load_and_init\l_internal" alt="" coords="209,57,357,98"/>
+<area shape="rect" id="node3" href="$server_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="776,5,827,32"/>
+<area shape="rect" id="node5" href="$system__parameter_8h.html#a309b7ad8d03c411d4e4a649275f532bb" title="sysprm_load_and_init" alt="" coords="411,31,559,57"/>
+<area shape="rect" id="node6" href="$system__parameter_8h.html#a63e70372386fb66e7a986406d643d7dc" title="sysprm_load_and_init\l_client" alt="" coords="411,82,559,123"/>
+<area shape="rect" id="node7" href="$system__parameter_8h.html#a5e5c602234655dfab40f1816b2bb3305" title="sysprm_reload_and_init" alt="" coords="405,148,564,175"/>
+</map>

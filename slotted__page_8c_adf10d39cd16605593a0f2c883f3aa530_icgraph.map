@@ -1,0 +1,7 @@
+<map id="spage_reduce_contiguous_free_space" name="spage_reduce_contiguous_free_space">
+<area shape="rect" id="node2" href="$slotted__page_8h.html#a7b3b2ecfd80f3b8ace03a602a03ec4b7" title="spage_merge" alt="" coords="239,5,339,32"/>
+<area shape="rect" id="node3" href="$slotted__page_8c.html#a8babb15f96118961deadfbb0c2c4f0f0" title="spage_put_helper" alt="" coords="227,56,351,83"/>
+<area shape="rect" id="node6" href="$slotted__page_8h.html#ab68d38c29c234969d85ddb87ddad1cfb" title="spage_split" alt="" coords="245,107,333,133"/>
+<area shape="rect" id="node4" href="$slotted__page_8h.html#a96f45ad19da9dc86242cf156645c4f8b" title="spage_append" alt="" coords="399,31,505,57"/>
+<area shape="rect" id="node5" href="$slotted__page_8h.html#a1542082170b53bd4ca7e53f313f8b167" title="spage_put" alt="" coords="411,81,493,108"/>
+</map>

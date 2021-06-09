@@ -1,0 +1,10 @@
+<map id="vacuum_is_empty" name="vacuum_is_empty">
+<area shape="rect" id="node2" href="$vacuum_8h.html#a503bfb46b513078cca18c570df9907a6" title="vacuum_consume_buffer\l_log_blocks" alt="" coords="429,104,597,146"/>
+<area shape="rect" id="node5" href="$vacuum_8h.html#a2cb21fa7816f2d0a4cf699cae9e7fd7b" title="vacuum_data_load_and\l_recover" alt="" coords="849,160,1008,202"/>
+<area shape="rect" id="node7" href="$vacuum_8c.html#ad75f199e0aaab8285837e9ffd5135f33" title="vacuum_data_empty_update\l_last_blockid" alt="" coords="181,163,371,204"/>
+<area shape="rect" id="node8" href="$vacuum_8c.html#aaf77b9ff47ffac5ded3aa29f205a0a36" title="vacuum_update_keep\l_from_log_pageid" alt="" coords="201,46,351,87"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a6a0c8157402f3361e437b601e511c6b8" title="vacuum_finalize" alt="" coords="670,109,786,136"/>
+<area shape="rect" id="node4" href="$vacuum_8c.html#a98dc5dfb2fca47a345da4f0f7c678554" title="vacuum_recover_lost\l_block_data" alt="" coords="655,160,801,202"/>
+<area shape="rect" id="node6" href="$structvacuum__data.html#a8d3ac9a3f174ae46ac29f6347dc5ebea" title="vacuum_data::update" alt="" coords="655,54,801,81"/>
+<area shape="rect" id="node9" href="$vacuum_8c.html#a036c930ecf40c2682d2cde7418589c5b" title="vacuum_data_mark_finished" alt="" coords="419,53,607,80"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="catalog_clear_hash_table" name="catalog_clear_hash_table">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a5414dfd32dee24e77cbe17f9d14b4d4f" title="catalog_rv_delete_redo" alt="" coords="200,5,356,32"/>
+<area shape="rect" id="node3" href="$system__catalog_8h.html#ad167ffe60c9f379ceeb3a56f0feb0373" title="catalog_rv_delete_undo" alt="" coords="416,81,575,108"/>
+<area shape="rect" id="node4" href="$system__catalog_8h.html#a24584a544f145eac9e5da71596ccabba" title="catalog_rv_insert_redo" alt="" coords="201,107,355,133"/>
+<area shape="rect" id="node5" href="$system__catalog_8h.html#ae31f0cab468d274429c5eb665921313b" title="catalog_rv_insert_undo" alt="" coords="200,157,356,184"/>
+<area shape="rect" id="node6" href="$system__catalog_8h.html#aae825a665d9c13f6039518a76b2c1a29" title="catalog_rv_new_page_redo" alt="" coords="188,208,368,235"/>
+<area shape="rect" id="node7" href="$system__catalog_8h.html#a0204c6c4fe9d0e50750d42353437b7cf" title="catalog_rv_ovf_page\l_logical_insert_undo" alt="" coords="207,259,349,301"/>
+<area shape="rect" id="node8" href="$system__catalog_8h.html#a62306615e59556c6a3ed79872c7287b7" title="catalog_rv_update" alt="" coords="214,325,342,352"/>
+</map>

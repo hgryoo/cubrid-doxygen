@@ -1,0 +1,4 @@
+<map id="cubthread::worker_pool&lt; Context &gt;::core::worker" name="cubthread::worker_pool&lt; Context &gt;::core::worker">
+<area shape="rect" id="node2" href="$classcubperf_1_1generic__statset.html" title="{cubperf::generic_statset\l\&lt; IsAtomic \&gt;\n|+ m_value_count\l+ m_values\l+ m_timept\l|+ ~generic_statset()\l&#45; generic_statset()\l&#45; generic_statset()\l}" alt="" coords="5,5,168,156"/>
+<area shape="rect" id="node3" href="$classcubthread_1_1task.html" title="{cubthread::task\&lt; Context \&gt;\n||+ task()\l+ ~task()\l+ execute()\l+ retire()\l}" alt="" coords="193,20,375,141"/>
+</map>

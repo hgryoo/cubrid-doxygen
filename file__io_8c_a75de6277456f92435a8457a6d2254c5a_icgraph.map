@@ -1,0 +1,8 @@
+<map id="fileio_make_volume_temp_name" name="fileio_make_volume_temp_name">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a8088ad11719f19dcf7c4a36b31a8859f" title="boot_find_rest_temp\l_volumes" alt="" coords="417,5,557,47"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#ae5b9470915ba62402d6ff0dc1e10280f" title="boot_get_new_volume\l_name_and_id" alt="" coords="200,64,352,105"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#afd9db1a968dc230a4c26169207603719" title="boot_make_temp_volume\l_fullname" alt="" coords="191,129,361,171"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a603e4c24c4ae4354d9cc8ac9321d07d5" title="boot_remove_all_temp\l_volumes" alt="" coords="613,65,767,107"/>
+<area shape="rect" id="node5" href="$disk__manager_8c.html#aa1450d661897bab9929324e46c0b641d" title="disk_add_volume" alt="" coords="426,71,549,98"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#a2e68b652dedab3ab33112ab44a28b2a3" title="boot_remove_unknown\l_temp_volumes" alt="" coords="409,127,565,168"/>
+</map>

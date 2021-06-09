@@ -1,0 +1,7 @@
+<map id="pt_union" name="pt_union">
+<area shape="rect" id="node2" href="$view__transform_8c.html#a6fb474d3098dee755e9ced9598678cf0" title="mq_translate_subqueries" alt="" coords="133,9,299,36"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#aa52733b23d6fbedbc50078c82f7aaca0" title="mq_union_bump_correlation" alt="" coords="124,64,308,91"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#a85a6baf509b2579b68e8324ace3b0398" title="mq_virtual_queries" alt="" coords="373,5,503,32"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#ac215f16a40d7d58cc76a7eb5736a3e83" title="mq_substitute_subquery\l_in_statement" alt="" coords="356,57,520,98"/>
+<area shape="rect" id="node6" href="$view__transform_8c.html#afd8e3772618184adddd0e1bb5bb4d61b" title="mq_translate_tree" alt="" coords="375,123,501,149"/>
+</map>

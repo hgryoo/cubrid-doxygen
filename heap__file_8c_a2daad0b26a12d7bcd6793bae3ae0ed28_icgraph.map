@@ -1,0 +1,7 @@
+<map id="heap_class_get_partition_info" name="heap_class_get_partition_info">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a8be7998db3e4e38d449f784b5650ca40" title="heap_get_class_partitions" alt="" coords="431,71,604,98"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#aefa9de68ddff70d1f7d99403e4b9aea5" title="heap_get_partitions\l_from_subclasses" alt="" coords="248,93,383,135"/>
+<area shape="rect" id="node3" href="$partition__sr_8h.html#aef1b14c7f20079f1a0ef94745945d48c" title="partition_load_pruning\l_context" alt="" coords="657,5,805,47"/>
+<area shape="rect" id="node4" href="$btree_8h.html#ab5691dc679be8018d28d890c68fc43f2" title="btree_index_start_scan" alt="" coords="652,71,809,98"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#ae40e25c53556e39487155e520ad67fa8" title="heap_header_capacity\l_start_scan" alt="" coords="655,123,807,164"/>
+</map>

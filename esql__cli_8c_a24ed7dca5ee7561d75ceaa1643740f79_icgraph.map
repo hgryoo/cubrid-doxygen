@@ -1,0 +1,10 @@
+<map id="free_pointers" name="free_pointers">
+<area shape="rect" id="node2" href="$esql__cli_8c.html#a3e14a78f45e1471094da61125d67bc82" title="clean_up" alt="" coords="303,13,377,39"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#aa3d4de0cb959719d92355565e8d91a82" title="free_cursor" alt="" coords="155,101,242,127"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#a4dc639f81455620789c31e6e9dc591e0" title="uci_commit" alt="" coords="295,89,385,115"/>
+<area shape="rect" id="node6" href="$esql__cli_8c.html#a3f1292e2638d968d7939200fb85708a1" title="uci_rollback" alt="" coords="295,139,385,166"/>
+<area shape="rect" id="node7" href="$esql__cli_8c.html#a70f208e67ee627aa6266d945583940a0" title="uci_execute" alt="" coords="153,202,245,229"/>
+<area shape="rect" id="node8" href="$esql__cli_8c.html#aedd808ef7fe940fca74b42b1f8fe9048" title="uci_fetch_cs" alt="" coords="151,253,247,279"/>
+<area shape="rect" id="node9" href="$esql__cli_8c.html#a251d8527b2af365292ad24dd8dd4cac1" title="uci_static" alt="" coords="159,303,238,330"/>
+<area shape="rect" id="node3" href="$object__primitive_8c.html#adf58ac7815ac095185388fe6d12749e0" title="pr_midxkey_compare\l_element" alt="" coords="433,5,580,47"/>
+</map>

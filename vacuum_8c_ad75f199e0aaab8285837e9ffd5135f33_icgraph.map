@@ -1,0 +1,8 @@
+<map id="vacuum_data_empty_update_last_blockid" name="vacuum_data_empty_update_last_blockid">
+<area shape="rect" id="node2" href="$vacuum_8h.html#a503bfb46b513078cca18c570df9907a6" title="vacuum_consume_buffer\l_log_blocks" alt="" coords="243,57,411,98"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a6a0c8157402f3361e437b601e511c6b8" title="vacuum_finalize" alt="" coords="481,5,597,32"/>
+<area shape="rect" id="node6" href="$vacuum_8h.html#a8763d2485ae400a8f6779bc9549963bb" title="vacuum_sa_reflect_last\l_blockid" alt="" coords="247,143,407,185"/>
+<area shape="rect" id="node4" href="$vacuum_8c.html#a98dc5dfb2fca47a345da4f0f7c678554" title="vacuum_recover_lost\l_block_data" alt="" coords="465,57,612,98"/>
+<area shape="rect" id="node5" href="$structvacuum__data.html#a8d3ac9a3f174ae46ac29f6347dc5ebea" title="vacuum_data::update" alt="" coords="465,123,612,149"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="459,173,619,200"/>
+</map>

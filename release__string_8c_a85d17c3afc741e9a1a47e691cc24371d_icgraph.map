@@ -1,0 +1,8 @@
+<map id="rel_get_compatible_internal" name="rel_get_compatible_internal">
+<area shape="rect" id="node2" href="$release__string_8h.html#a152c957148ebb55dc4992bb6a1a4cca1" title="rel_get_net_compatible" alt="" coords="184,71,340,98"/>
+<area shape="rect" id="node5" href="$release__string_8h.html#a3a3d73521805f4e99a61c68853e6f8d9" title="rel_is_log_compatible" alt="" coords="189,122,335,149"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a669e1ce0f8fe4fd698271b150702ac6b" title="net_client_ping_server\l_with_handshake" alt="" coords="407,5,559,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#ad9d584fa39ad4b97df4f2d58e5e8a8b2" title="server_ping_with_handshake" alt="" coords="388,71,579,98"/>
+<area shape="rect" id="node6" href="$file__io_8c.html#a75de3fb1bd3a4ce20808ae371e5bdca6" title="fileio_continue_restore" alt="" coords="407,122,559,149"/>
+<area shape="rect" id="node7" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="412,173,555,199"/>
+</map>

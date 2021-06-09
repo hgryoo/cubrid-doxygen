@@ -1,0 +1,4 @@
+<map id="hb_job" name="hb_job">
+<area shape="rect" id="node2" href="$structhb__job__entry.html" title="{hb_job_entry\n|+ type\l+ expire\l|}" alt="" coords="5,160,101,252"/>
+<area shape="rect" id="node3" href="$unionhb__job__arg.html" title="{hb_job_arg\n||}" alt="" coords="11,5,96,83"/>
+</map>

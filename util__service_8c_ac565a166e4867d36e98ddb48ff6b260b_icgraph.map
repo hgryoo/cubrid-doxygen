@@ -1,0 +1,7 @@
+<map id="check_server" name="check_server">
+<area shape="rect" id="node2" href="$util__service_8c.html#a7079d7863421c1ad53146f5d85e1d213" title="is_server_running" alt="" coords="153,97,277,123"/>
+<area shape="rect" id="node3" href="$util__service_8c.html#aed501613b4ef9669fc9b1e2fbb86857c" title="check_all_services\l_status" alt="" coords="325,5,459,47"/>
+<area shape="rect" id="node4" href="$util__service_8c.html#a1c65dc6858c8c7b9cf9146a3e618df7b" title="process_server" alt="" coords="337,122,447,149"/>
+<area shape="rect" id="node5" href="$util__service_8c.html#a996b53c491f5f5fbc36b949b6ef73a15" title="us_hb_server_start" alt="" coords="507,97,640,123"/>
+<area shape="rect" id="node6" href="$util__service_8c.html#ace45afca7f77440bd7781795a746ccb3" title="us_hb_server_stop" alt="" coords="507,159,639,186"/>
+</map>

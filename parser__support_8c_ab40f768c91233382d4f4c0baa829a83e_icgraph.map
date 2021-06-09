@@ -1,0 +1,21 @@
+<map id="pt_get_end_path_node" name="pt_get_end_path_node">
+<area shape="rect" id="node2" href="$semantic__check_8c.html#a2f72b1c989980fdf7907db4383e9f46d" title="pt_check_create_view" alt="" coords="212,56,364,83"/>
+<area shape="rect" id="node5" href="$query__result_8c.html#a932bd9992e27cbc4f384af9809128c66" title="pt_get_attr_name" alt="" coords="227,233,349,260"/>
+<area shape="rect" id="node6" href="$parser__support_8c.html#ae014985158fdc4df71d3303be8ec9985" title="pt_is_attr" alt="" coords="250,284,326,311"/>
+<area shape="rect" id="node9" href="$query__rewrite_8c.html#a6027a3cf4879608071864a8ef87ff41d" title="qo_reduce_equality\l_terms" alt="" coords="648,302,783,343"/>
+<area shape="rect" id="node13" href="$parser__support_8c.html#a8d1d7f93f7afa8a2bda166f287ac9c46" title="pt_is_method_call" alt="" coords="225,436,351,463"/>
+<area shape="rect" id="node14" href="$parse__tree__cl_8c.html#a96ed2fff97cbb80e91dc22957382f362" title="pt_lambda_node" alt="" coords="229,487,347,513"/>
+<area shape="rect" id="node15" href="$parser__support_8c.html#a7c3a82fadda5192c02b1f4323af30d19" title="pt_sort_spec_cover\l_groupby" alt="" coords="220,538,356,579"/>
+<area shape="rect" id="node16" href="$query__rewrite_8c.html#a090fedbee89ab4b5b747e0126d85a37c" title="qo_collect_name_spec" alt="" coords="431,495,586,521"/>
+<area shape="rect" id="node17" href="$query__rewrite_8c.html#a1f77964012ee628b9ca39b807d0a9789" title="qo_is_partition_attr" alt="" coords="222,655,354,681"/>
+<area shape="rect" id="node18" href="$query__planner_8c.html#ae3656f5a8781a44487ae893bc2de03f2" title="qo_plan_compute_iscan\l_sort_list" alt="" coords="207,706,369,747"/>
+<area shape="rect" id="node19" href="$query__rewrite_8c.html#aa35a234703e4e4ffe3c313867bff0734" title="qo_reduce_order_by" alt="" coords="219,772,357,799"/>
+<area shape="rect" id="node20" href="$query__planner_8c.html#ad9fce41032ff3d6dd08edd3485fd38d1" title="qo_validate_index_for\l_orderby" alt="" coords="214,823,362,865"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#a74be8f892e6e90ed5692941e03bf1843" title="pt_check_alter" alt="" coords="455,5,562,32"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#a24bc4f0a91e527103132bf36d7bbfca6" title="pt_check_create_entity" alt="" coords="430,56,587,83"/>
+<area shape="rect" id="node7" href="$query__graph_8c.html#a1078c269157cba58c8d5085394d62c97" title="qo_is_equi_join_term" alt="" coords="437,107,581,133"/>
+<area shape="rect" id="node8" href="$query__rewrite_8c.html#afa6a6625f694426a4e7184205f07c00f" title="qo_is_cast_attr" alt="" coords="453,157,564,184"/>
+<area shape="rect" id="node10" href="$query__rewrite_8c.html#ac53f035d8d64ef338a487b330b75b2a9" title="qo_converse_sarg_terms" alt="" coords="425,259,593,285"/>
+<area shape="rect" id="node11" href="$query__rewrite_8c.html#aec0c14ef0913cab39d1489e9ceb1bb45" title="qo_fold_is_and_not_null" alt="" coords="428,309,589,336"/>
+<area shape="rect" id="node12" href="$query__rewrite_8c.html#a64bcc3084aa595bbe0696b01c1aedb94" title="qo_search_comp_pair_term" alt="" coords="417,360,600,387"/>
+</map>

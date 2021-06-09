@@ -1,0 +1,16 @@
+<map id="thread_num_total_threads" name="thread_num_total_threads">
+<area shape="rect" id="node2" href="$heap__file_8c.html#adc55d90a44accea635b444d427e626c0" title="heap_classrepr_initialize\l_cache" alt="" coords="225,64,389,105"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a7cc1c686b4d3e0a9de41d12d4bfa26b7" title="pgbuf_get_victim_from\l_lru_list" alt="" coords="230,151,385,192"/>
+<area shape="rect" id="node9" href="$page__buffer_8h.html#abc37f71a20dc1ecf26b734b6a6af16a5" title="pgbuf_initialize" alt="" coords="464,323,572,350"/>
+<area shape="rect" id="node11" href="$page__buffer_8c.html#a8ad64ee70489c123e3049f4fbceb2784" title="pgbuf_initialize_lock\l_table" alt="" coords="238,268,377,309"/>
+<area shape="rect" id="node12" href="$page__buffer_8c.html#a837b55f6c43f3518ec018be36ea0bd3d" title="pgbuf_initialize_page\l_monitor" alt="" coords="236,333,379,375"/>
+<area shape="rect" id="node13" href="$page__buffer_8c.html#ad6c8fd7a813fcac32228907550b5a446" title="pgbuf_initialize_thrd\l_holder" alt="" coords="239,399,376,440"/>
+<area shape="rect" id="node14" href="$show__scan_8h.html#a1d2179107b8b46c72de5ece00c80e845" title="thread_start_scan" alt="" coords="244,465,371,491"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#ab9dee9c11bb2b9ca0d47b59b27307c02" title="heap_classrepr_restart\l_cache" alt="" coords="441,5,595,47"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a1bd47a9dfa569f39c05bbbdccff9ae9b" title="heap_manager_initialize" alt="" coords="437,71,599,98"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#ae3559936e3204102a7a9a4fee6087017" title="pgbuf_get_victim" alt="" coords="661,181,782,207"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#a1869e0a6005a3553cf95f4573a52b4c0" title="pgbuf_lfcq_get_victim\l_from_private_lru" alt="" coords="443,173,593,215"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#ad6a87f13e7f04e7143483b3737eb6c86" title="pgbuf_lfcq_get_victim\l_from_shared_lru" alt="" coords="443,239,593,280"/>
+<area shape="rect" id="node10" href="$log__tran__table_8c.html#ac27166ed5a81c72375cfccc620c702da" title="logtb_define_trantable\l_log_latch" alt="" coords="647,316,796,357"/>
+<area shape="rect" id="node15" href="$show__scan_8c.html#aecf736200d67937c5e8b499d2570ea1d" title="showstmt_scan_init" alt="" coords="449,465,587,491"/>
+</map>

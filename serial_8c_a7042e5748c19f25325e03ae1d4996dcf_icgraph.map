@@ -1,0 +1,5 @@
+<map id="serial_clear_value" name="serial_clear_value">
+<area shape="rect" id="node2" href="$serial_8h.html#a1dbad3cc661d30a102b35a432a8d12b3" title="xserial_decache" alt="" coords="180,31,296,57"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a3269a655a84e6da07bb41a2f9c19e96f" title="serial_decache" alt="" coords="347,5,457,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a21cb81b5f9efd59c44f8ecd2ce62aff5" title="sserial_decache" alt="" coords="344,56,460,83"/>
+</map>

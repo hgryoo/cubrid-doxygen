@@ -1,0 +1,11 @@
+<map id="sm_is_partitioned_class" name="sm_is_partitioned_class">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="227,5,368,47"/>
+<area shape="rect" id="node4" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="238,71,357,98"/>
+<area shape="rect" id="node5" href="$execute__statement_8c.html#a8d149a77e828b22beb8cc59e9fd8f530" title="is_replace_or_odku\l_allowed" alt="" coords="230,123,365,164"/>
+<area shape="rect" id="node6" href="$xasl__generation_8h.html#a4ffda647bdf164dbc2ed5f4e418c7ff3" title="pt_to_delete_xasl" alt="" coords="235,189,359,215"/>
+<area shape="rect" id="node7" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="233,239,361,266"/>
+<area shape="rect" id="node8" href="$query__rewrite_8c.html#a6a7f9de3a4d8e061e53262901080fd60" title="qo_can_generate_single\l_table_connect_by" alt="" coords="216,291,379,332"/>
+<area shape="rect" id="node10" href="$schema__manager_8c.html#a94a5ab245d87fe80cc5e41e78cf18554" title="transfer_disk_structures" alt="" coords="216,357,379,383"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a6544008aa1b341b93a0f8f80361f982f" title="do_alter" alt="" coords="463,13,531,39"/>
+<area shape="rect" id="node9" href="$query__rewrite_8c.html#ace6201135ef7c3f735dc445859b48617" title="qo_optimize_queries" alt="" coords="427,298,568,325"/>
+</map>

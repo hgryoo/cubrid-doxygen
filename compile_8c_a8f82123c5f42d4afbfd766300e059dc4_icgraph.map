@@ -1,0 +1,7 @@
+<map id="pt_add_row_classoid_name" name="pt_add_row_classoid_name">
+<area shape="rect" id="node2" href="$xasl__generation_8c.html#a2129a6a0c5c530d03d97a09e368c3f3d" title="pt_mvcc_prepare_upd\l_del_select" alt="" coords="236,57,387,98"/>
+<area shape="rect" id="node5" href="$xasl__generation_8h.html#a0fd6a284ec97f6ee26384ca36e11590f" title="pt_to_merge_update\l_query" alt="" coords="241,122,381,163"/>
+<area shape="rect" id="node6" href="$xasl__generation_8h.html#a5922ed3fb3f0afecdb69ea391afa9826" title="pt_to_upd_del_query" alt="" coords="240,5,383,32"/>
+<area shape="rect" id="node3" href="$xasl__generation_8h.html#a4ffda647bdf164dbc2ed5f4e418c7ff3" title="pt_to_delete_xasl" alt="" coords="437,8,561,35"/>
+<area shape="rect" id="node4" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="435,63,563,89"/>
+</map>

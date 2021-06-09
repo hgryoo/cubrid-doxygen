@@ -1,0 +1,19 @@
+<map id="log_zip_free" name="log_zip_free">
+<area shape="rect" id="node2" href="$classcubthread_1_1entry.html#a9c309966560f02ba75ff43ef07684535" title="cubthread::entry::clear\l_resources" alt="" coords="151,5,303,47"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#ad97155c9e3578c3babdee6ec3d62cd07" title="la_shutdown" alt="" coords="179,71,274,98"/>
+<area shape="rect" id="node6" href="$log__append_8hpp.html#ad71e09414f2bc02bc3b2beea135de264" title="log_append_final_zip" alt="" coords="155,122,298,149"/>
+<area shape="rect" id="node9" href="$log__append_8hpp.html#acb4ef0be28d6f4b870fe1f363b5bb348" title="log_append_init_zip" alt="" coords="372,173,508,199"/>
+<area shape="rect" id="node10" href="$log__manager_8h.html#a1aaae82081fc2e08d67075003e537842" title="log_get_undo_record" alt="" coords="155,223,298,250"/>
+<area shape="rect" id="node12" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="163,274,291,301"/>
+<area shape="rect" id="node13" href="$log__recovery_8c.html#a18e7fc0efb64ea17207486e0abacaebe" title="log_recovery_undo" alt="" coords="161,325,292,351"/>
+<area shape="rect" id="node14" href="$log__manager_8c.html#a95f9d78f6596d07a91842fab70321950" title="log_rollback" alt="" coords="181,375,272,402"/>
+<area shape="rect" id="node15" href="$vacuum_8c.html#a13a0a7a00abbe0d9abb6656d8de311a4" title="vacuum_finalize_worker" alt="" coords="145,426,308,453"/>
+<area shape="rect" id="node18" href="$log__manager_8h.html#af70d0e6ef6233c296087a8a4c7b26843" title="xlog_dump" alt="" coords="184,477,269,503"/>
+<area shape="rect" id="node3" href="$classcubthread_1_1entry.html#a7a31fabce82ad8f317501954ea8c0a68" title="cubthread::entry::\l~entry" alt="" coords="378,5,502,47"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a985ea807a9f77fb66077722eea3554a9" title="la_apply_log_file" alt="" coords="381,71,499,98"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a5ea6483fb4af95ef44ff7eb9d6d35a05" title="logpb_finalize_pool" alt="" coords="374,122,506,149"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a10dc05607248603c703e1c9d1e5a5b0f" title="logpb_initialize_pool" alt="" coords="572,147,711,174"/>
+<area shape="rect" id="node11" href="$heap__file_8c.html#aa8d2c0d3e65b71a9cd934d587d4bc2a6" title="heap_get_visible_version\l_from_log" alt="" coords="356,224,524,265"/>
+<area shape="rect" id="node16" href="$vacuum_8h.html#a6a0c8157402f3361e437b601e511c6b8" title="vacuum_finalize" alt="" coords="382,397,498,423"/>
+<area shape="rect" id="node17" href="$vacuum_8c.html#a2054be663df65ee715be458816f4c751" title="vacuum_worker_allocate\l_resources" alt="" coords="357,448,523,489"/>
+</map>

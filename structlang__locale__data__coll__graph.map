@@ -1,0 +1,10 @@
+<map id="lang_locale_data" name="lang_locale_data">
+<area shape="rect" id="node7" href="$structlang__collation.html" title="{lang_collation\n|+ codeset\l+ built_in\l+ need_init\l+ fastcmp\l+ strmatch\l+ next_coll_seq\l+ split_key\l+ mht2str\l+ init_coll\l|}" alt="" coords="239,997,354,1192"/>
+<area shape="rect" id="node2" href="$structtext__conversion.html" title="{text_conversion\n|+ conv_type\l+ win_codepages\l+ nl_lang_str\l+ byte_flag\l+ utf8_first_cp\l+ utf8_last_cp\l+ text_first_cp\l+ text_last_cp\l+ utf8_to_text_func\l+ text_to_utf8_func\l+ init_conv_func\l|}" alt="" coords="224,189,359,413"/>
+<area shape="rect" id="node3" href="$structconv__cp__to__bytes.html" title="{conv_cp_to_bytes\n|+ size\l+ bytes\l|}" alt="" coords="227,13,355,105"/>
+<area shape="rect" id="node4" href="$structalphabet__data.html" title="{alphabet_data\n|+ a_type\l+ codeset\l+ l_count\l+ lower_multiplier\l+ lower_cp\l+ upper_multiplier\l+ upper_cp\l+ do_not_save\l|}" alt="" coords="383,211,509,391"/>
+<area shape="rect" id="node5" href="$structunicode__normalization.html" title="{unicode_normalization\n|+ unicode_mappings_count\l+ unicode_mapping_index\l+ list_full_decomp\l+ do_not_save\l|}" alt="" coords="533,241,714,362"/>
+<area shape="rect" id="node6" href="$structunicode__mapping.html" title="{unicode_mapping\n|+ cp\l+ size\l+ buffer\l|}" alt="" coords="562,5,685,112"/>
+<area shape="rect" id="node8" href="$structcoll__data.html" title="{coll_data\n|+ coll_id\l+ coll_name\l+ weights\l+ next_cp\l+ weights_ti\l+ next_cp_ti\l+ w_count\l+ uca_exp_num\l+ uca_num\l+ uca_w_l13\l+ uca_w_l4\l+ count_contr\l+ contr_min_size\l+ cp_first_contr_array\l+ cp_first_contr_offset\l+ cp_first_contr_count\l+ checksum\l|}" alt="" coords="5,557,159,869"/>
+<area shape="rect" id="node9" href="$structcoll__opt.html" title="{coll_opt\n|+ allow_like_rewrite\l+ allow_index_opt\l+ allow_prefix_index\l|}" alt="" coords="183,659,325,766"/>
+</map>

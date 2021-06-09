@@ -1,0 +1,9 @@
+<map id="drop_internal" name="drop_internal">
+<area shape="rect" id="node2" href="$db__class_8c.html#af2ebab9194c9ac54d4a64b3aa1ce01b3" title="db_drop_attribute_internal" alt="" coords="149,5,320,32"/>
+<area shape="rect" id="node4" href="$db__class_8c.html#a02c3798d68c9ff76bc0f60176d38f8bb" title="db_drop_class_attribute" alt="" coords="155,56,315,83"/>
+<area shape="rect" id="node5" href="$db__class_8c.html#a915883798ed53f6a8c4d44b591a9905e" title="db_drop_class_method" alt="" coords="157,107,313,133"/>
+<area shape="rect" id="node7" href="$db__class_8c.html#af457b9353531fe59d43884b99bf3cc23" title="db_drop_method" alt="" coords="175,157,294,184"/>
+<area shape="rect" id="node8" href="$db__class_8c.html#aef5d59d696edcafa34e3137807eb1cd4" title="db_drop_shared_attribute" alt="" coords="151,208,319,235"/>
+<area shape="rect" id="node3" href="$db__class_8c.html#aed7bc349c06431d7fe4cb5a28d1a6deb" title="db_drop_attribute" alt="" coords="378,5,501,32"/>
+<area shape="rect" id="node6" href="$boot__cl_8c.html#a1c906d817cb0b45ca6b099228f903201" title="catcls_vclass_install" alt="" coords="368,107,511,133"/>
+</map>

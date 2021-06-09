@@ -1,0 +1,9 @@
+<map id="check_env_lang_val" name="check_env_lang_val">
+<area shape="rect" id="node2" href="$language__support_8h.html#a52036720cef62b079b1fa9c2e102e115" title="lang_set_charset_lang" alt="" coords="199,81,351,108"/>
+<area shape="rect" id="node6" href="$language__support_8c.html#a9dfd4570d9edca44a44a5d762655e76b" title="set_msg_lang_from_env" alt="" coords="193,157,357,184"/>
+<area shape="rect" id="node3" href="$language__support_8h.html#a3c0963599c2f292454d1a8d2d1f7b14f" title="lang_set_language" alt="" coords="425,5,556,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="421,56,560,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="409,107,573,133"/>
+<area shape="rect" id="node7" href="$language__support_8h.html#a40d77c7475b664ba0d6cccd50268bb77" title="lang_init_builtin" alt="" coords="435,157,546,184"/>
+<area shape="rect" id="node8" href="$language__support_8h.html#aad427ce503324d9dbb97bb27d0752e90" title="lang_get_msg_Loc_name" alt="" coords="405,208,576,235"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="css_change_ha_server_state" name="css_change_ha_server_state">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="229,102,364,128"/>
+<area shape="rect" id="node7" href="$server__support_8c.html#ae58c62456655b0400a42763aa98b0232" title="css_process_change\l_server_ha_mode_request" alt="" coords="209,228,384,269"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#ab275afe2b2e11383cae924c9b34cd50f" title="sboot_change_ha_mode" alt="" coords="215,294,378,320"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="623,139,739,166"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="438,36,569,77"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="432,102,575,128"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="459,176,548,203"/>
+<area shape="rect" id="node8" href="$server__support_8c.html#a2934109a790ef10943951a8dd1a2f63c" title="css_process_master\l_request" alt="" coords="432,228,575,269"/>
+<area shape="rect" id="node10" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="450,294,557,320"/>
+</map>

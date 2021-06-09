@@ -1,0 +1,5 @@
+<map id="cubload::driver::clear" name="cubload::driver::clear">
+<area shape="rect" id="node2" href="$classcubload_1_1load__task.html#aa4e8a989957626a602b12db671672fdb" title="cubload::load_task\l::execute" alt="" coords="213,5,343,47"/>
+<area shape="rect" id="node3" href="$classcubload_1_1worker__context__manager.html#a421f38655a4ef85a9353ba38daeb1387" title="cubload::worker_context\l_manager::on_retire" alt="" coords="196,71,360,112"/>
+<area shape="rect" id="node4" href="$classcubload_1_1driver.html#ad87aa16f2239e3cbc8aad5e2d356874c" title="cubload::driver::~driver" alt="" coords="201,137,355,163"/>
+</map>

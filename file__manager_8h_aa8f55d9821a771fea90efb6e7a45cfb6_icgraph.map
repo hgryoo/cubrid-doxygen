@@ -1,0 +1,6 @@
+<map id="file_get_tde_algorithm" name="file_get_tde_algorithm">
+<area shape="rect" id="node2" href="$log__manager_8c.html#a8f981d31c8124f3f159c5c64d7af30fe" title="log_append_sysop_end" alt="" coords="203,31,361,57"/>
+<area shape="rect" id="node5" href="$external__sort_8c.html#ab90cc4dcd121dfef8f22316bc1931f06" title="sort_write_area" alt="" coords="227,81,337,108"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#a1e4500b198cf9f51121a641472d9cddc" title="log_sysop_commit_internal" alt="" coords="409,5,589,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a8ba8a8666ca892dac7b456367d153965" title="log_sysop_abort" alt="" coords="441,56,558,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="disk_check_volume" name="disk_check_volume">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a1a84495d7e351a40e4168507bb0a2c7e" title="disk_check" alt="" coords="191,31,279,57"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="351,5,497,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#ace20b0215551fade39404f63fbbcc932" title="xboot_check_db_consistency" alt="" coords="327,56,521,83"/>
+</map>

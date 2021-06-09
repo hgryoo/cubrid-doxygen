@@ -1,0 +1,9 @@
+<map id="xcache_clone_decache" name="xcache_clone_decache">
+<area shape="rect" id="node2" href="$xasl__cache_8c.html#ae0e6ccfb52651475d53b96e7c04b02e3" title="xcache_entry_uninit" alt="" coords="229,5,367,32"/>
+<area shape="rect" id="node3" href="$xasl__cache_8c.html#aeb179da67dcc6687e23222ae6c408890" title="xcache_invalidate_entries" alt="" coords="212,56,384,83"/>
+<area shape="rect" id="node6" href="$xasl__cache_8h.html#ac6dc1de3e66ac45c874a8da614b59f57" title="xcache_retire_clone" alt="" coords="229,107,367,133"/>
+<area shape="rect" id="node8" href="$xasl__cache_8h.html#a842418197de94d50f49156f0cbd62693" title="xcache_unfix" alt="" coords="249,157,347,184"/>
+<area shape="rect" id="node4" href="$xasl__cache_8h.html#abf5104a1d53762e1b5cc0339278199fd" title="xcache_remove_by_oid" alt="" coords="432,31,591,57"/>
+<area shape="rect" id="node5" href="$xasl__cache_8h.html#a616e4c6ab7e8da6dae6971642b28ff42" title="xcache_drop_all" alt="" coords="453,81,569,108"/>
+<area shape="rect" id="node7" href="$query__manager_8c.html#acca53c25556757b153c16afc23f6ccd4" title="xqmgr_execute_query" alt="" coords="436,144,587,171"/>
+</map>

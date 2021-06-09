@@ -1,0 +1,11 @@
+<map id="cubthread::manager::destroy_worker_pool" name="cubthread::manager::destroy_worker_pool">
+<area shape="rect" id="node2" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="469,71,536,98"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#a72589bdf8ecdb8521c23103b862503c0" title="online_index_builder" alt="" coords="220,17,359,43"/>
+<area shape="rect" id="node6" href="$vacuum_8h.html#af25d42ec55b764c884b146fa41b015f7" title="vacuum_stop_workers" alt="" coords="213,122,366,149"/>
+<area shape="rect" id="node9" href="$namespacecubload.html#aac37c9bf41d59ebec63d3a1d44fc4c6a" title="cubload::worker_manager\l_unregister_session" alt="" coords="204,199,375,240"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="631,122,747,149"/>
+<area shape="rect" id="node5" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="437,5,568,47"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="435,173,570,199"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="423,122,583,149"/>
+<area shape="rect" id="node10" href="$classcubload_1_1session.html#a30bae161779fabcac270c261713d2044" title="cubload::session::\l~session" alt="" coords="439,224,567,265"/>
+</map>

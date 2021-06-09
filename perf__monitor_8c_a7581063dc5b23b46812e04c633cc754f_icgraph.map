@@ -1,0 +1,10 @@
+<map id="perfmon_finalize" name="perfmon_finalize">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="173,101,327,127"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="573,25,712,51"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="171,253,329,279"/>
+<area shape="rect" id="node9" href="$perf__monitor_8h.html#ab6b8f36584bffecb06bb4b5f6be9ba5b" title="perfmon_initialize" alt="" coords="189,202,311,229"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="578,151,707,178"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aa7beb3207bb2b041cfbaf347ea2bf51a" title="boot_shutdown_client" alt="" coords="377,50,525,77"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="384,253,519,279"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#a6dc8b536b7d535d54c1471a87b76f2c2" title="xboot_delete" alt="" coords="403,303,499,330"/>
+</map>

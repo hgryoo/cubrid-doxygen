@@ -1,0 +1,7 @@
+<map id="hb_job_shutdown" name="hb_job_shutdown">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#a9177a011007c053c60a2916c478d1359" title="hb_cluster_job_shutdown" alt="" coords="181,46,351,73"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#a2b12417185f15929353a614ae48c0ec6" title="hb_resource_job_shutdown" alt="" coords="176,97,356,123"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8h.html#a272ee20e644bf8a1686d92f4225b7438" title="hb_cluster_shutdown\l_and_cleanup" alt="" coords="409,5,555,47"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8h.html#ad3854f3310ba585c385d71a4c1616b09" title="hb_master_init" alt="" coords="429,71,535,98"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8h.html#a7996fd8fbe66abca6c7dab091abdd401" title="hb_resource_shutdown\l_and_cleanup" alt="" coords="404,123,560,164"/>
+</map>

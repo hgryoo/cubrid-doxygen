@@ -1,0 +1,14 @@
+<map id="pt_function_index_skip_expr" name="pt_function_index_skip_expr">
+<area shape="rect" id="node2" href="$query__graph_8c.html#a2101b00a28698c9d64e6f003e73871dd" title="is_local_name" alt="" coords="684,5,789,32"/>
+<area shape="rect" id="node4" href="$query__graph_8c.html#ab76ae813d7255a341fbe827078d32354" title="lookup_node" alt="" coords="689,107,784,133"/>
+<area shape="rect" id="node8" href="$parser_8h.html#a0301a8505f2feb7161490401efac38ed" title="pt_expr_to_sort_spec" alt="" coords="429,157,576,184"/>
+<area shape="rect" id="node10" href="$parser_8h.html#a94339a9958f46cf35389e03c2e4d75f2" title="pt_is_join_expr" alt="" coords="249,209,359,236"/>
+<area shape="rect" id="node12" href="$parse__tree__cl_8c.html#aa800bf92f9ae2b1349531e583928d2e5" title="pt_is_nested_expr" alt="" coords="240,107,368,133"/>
+<area shape="rect" id="node3" href="$query__graph_8c.html#a4d322007ce6983e3472645dbca6b53ec" title="qo_analyze_term" alt="" coords="899,5,1021,32"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#a277037b8e66c8dadc6f901893506dc1b" title="qo_index_cardinality" alt="" coords="890,173,1030,200"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a0875eef5c989efc80b0c19fa3fde1e0d" title="qo_validate_index_attr\l_notnull" alt="" coords="884,57,1036,98"/>
+<area shape="rect" id="node7" href="$query__graph_8c.html#a7b873fc8d52ed07235b219ce3b3da252" title="set_seg_node" alt="" coords="909,123,1011,149"/>
+<area shape="rect" id="node9" href="$semantic__check_8c.html#acf014bcd1cf76e11476da2c954d81304" title="pt_check_function_index_expr" alt="" coords="637,157,836,184"/>
+<area shape="rect" id="node11" href="$query__graph_8c.html#a9f6cc31a9a487652c9b5a06731400662" title="build_query_graph_function\l_index" alt="" coords="647,209,827,250"/>
+<area shape="rect" id="node13" href="$parser_8h.html#a67ba69740636e8edb52401bb1db78e3a" title="pt_is_function_index_expr" alt="" coords="416,107,589,133"/>
+</map>

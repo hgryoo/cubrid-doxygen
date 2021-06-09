@@ -1,0 +1,4 @@
+<map id="disk_stab_unit_unreserve" name="disk_stab_unit_unreserve">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#a4d69850bca6997e8414af47fb9dbab3a" title="disk_unreserve_sectors\l_from_volume" alt="" coords="224,5,384,47"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#a9737b8e2cb747badc9a7450460935930" title="disk_unreserve_ordered\l_sectors_without_csect" alt="" coords="432,5,592,47"/>
+</map>

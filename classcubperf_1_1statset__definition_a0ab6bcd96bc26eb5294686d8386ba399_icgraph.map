@@ -1,0 +1,5 @@
+<map id="cubperf::statset_definition::time" name="cubperf::statset_definition::time">
+<area shape="rect" id="node2" href="$classcubthread_1_1daemon.html#aa92bd2cee005afb9caa39806dd12e069" title="cubthread::daemon::\lregister_stat_pause" alt="" coords="225,39,367,80"/>
+<area shape="rect" id="node3" href="$classcubthread_1_1daemon.html#a500c464a65b27fa76e67b5fdd2b31697" title="cubthread::daemon::\lloop_without_context" alt="" coords="415,5,560,47"/>
+<area shape="rect" id="node4" href="$classcubthread_1_1daemon.html#a1aa05cb83512b348c8bd8da65d744e50" title="cubthread::daemon::\lloop_with_context" alt="" coords="417,71,558,112"/>
+</map>

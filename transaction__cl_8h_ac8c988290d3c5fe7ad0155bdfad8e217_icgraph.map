@@ -1,0 +1,21 @@
+<map id="tran_reset_wait_times" name="tran_reset_wait_times">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="222,56,351,83"/>
+<area shape="rect" id="node7" href="$db__stub_8c.html#ae94687281a0974e2a2fb0c34a20c0f34" title="ci_conn_set_option_impl" alt="" coords="204,157,369,184"/>
+<area shape="rect" id="node8" href="$compactdb__cl_8c.html#ad8ac2934f7ec63bfee9cfcab72aa95dd" title="compactdb_start" alt="" coords="429,233,548,260"/>
+<area shape="rect" id="node10" href="$dbi__compat_8h.html#aeb66e0917e9cc4aa813428836fd18d1e" title="db_set_lock_timeout" alt="" coords="417,107,560,133"/>
+<area shape="rect" id="node11" href="$execute__statement_8c.html#a64dfb8ac55e46089afdb246594b4b597" title="delete_real_class" alt="" coords="225,309,348,336"/>
+<area shape="rect" id="node12" href="$execute__statement_8h.html#a8340db60b99d2305e581a997044657ee" title="do_execute_delete" alt="" coords="221,360,352,387"/>
+<area shape="rect" id="node13" href="$execute__statement_8h.html#af259588ebb962b880ecb05ae0b82c5e9" title="do_execute_merge" alt="" coords="221,411,353,437"/>
+<area shape="rect" id="node14" href="$execute__statement_8h.html#afe56199df5cbc88a2f7aef1dc0cb0bdc" title="do_execute_update" alt="" coords="219,461,354,488"/>
+<area shape="rect" id="node15" href="$execute__statement_8c.html#afc8676086646494b31f8b100d05f13da" title="do_insert_template" alt="" coords="221,512,353,539"/>
+<area shape="rect" id="node16" href="$execute__statement_8h.html#a661feaacf0e01e3f0f72364db8648b7a" title="do_merge" alt="" coords="247,563,326,589"/>
+<area shape="rect" id="node17" href="$compactdb__cl_8c.html#ad3b2ec867203ae1e6e05d1b2e304ba01" title="do_reclaim_addresses" alt="" coords="211,259,363,285"/>
+<area shape="rect" id="node18" href="$execute__statement_8h.html#adc0fb0803f8c57ce11f25db35f37dd9e" title="do_set_xaction" alt="" coords="231,613,342,640"/>
+<area shape="rect" id="node19" href="$execute__statement_8c.html#a0020c2da00fa0d7f818341da14457837" title="update_real_class" alt="" coords="223,664,350,691"/>
+<area shape="rect" id="node20" href="$cas__execute_8h.html#a5deb39e702491923749330c4c79b3a93" title="ux_set_lock_timeout" alt="" coords="215,715,358,741"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a77bd95c7f71d0f419d0f69a3090c4836" title="conn_restart_client" alt="" coords="423,5,555,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a4f475937ff6abf40ab472a149d37ae11" title="db_restart" alt="" coords="449,56,529,83"/>
+<area shape="rect" id="node5" href="$utility_8h.html#aa7a280251cdf100c28e06298f181b584" title="applylogdb" alt="" coords="614,107,698,133"/>
+<area shape="rect" id="node6" href="$utility_8h.html#a17e5e9027694b5ebcafb93de6b62544f" title="checksumdb" alt="" coords="608,56,704,83"/>
+<area shape="rect" id="node9" href="$compactdb__cl_8c.html#af0d7c8184798af3563f9c4c166ca71ef" title="compactdb" alt="" coords="613,233,699,260"/>
+</map>

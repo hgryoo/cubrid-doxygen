@@ -1,0 +1,15 @@
+<map id="hb_return_proc_by_fd" name="hb_return_proc_by_fd">
+<area shape="rect" id="node2" href="$master__heartbeat_8h.html#affdc967efdb017ddc46fe9247241983c" title="hb_cleanup_conn_and\l_start_process" alt="" coords="200,107,351,149"/>
+<area shape="rect" id="node7" href="$master__heartbeat_8h.html#a3bf56acfb0a64c2b1ae76ef43adaf66f" title="hb_is_hang_process" alt="" coords="205,232,346,259"/>
+<area shape="rect" id="node9" href="$master__heartbeat_8h.html#ab880145486461ca4ccd9cc3ef6c35b01" title="hb_resource_receive\l_changemode" alt="" coords="204,283,347,325"/>
+<area shape="rect" id="node11" href="$master__heartbeat_8h.html#aa878758626a36f3cabda7f3036ae0858" title="hb_resource_receive\l_get_eof" alt="" coords="204,349,347,390"/>
+<area shape="rect" id="node13" href="$master__heartbeat_8h.html#a20b3e7d318144bc3d5b073b2b2e2ef72" title="hb_return_proc_state\l_by_fd" alt="" coords="203,414,347,455"/>
+<area shape="rect" id="node3" href="$master_8c.html#a05f24e0208f79323d7a49792982fe07d" title="css_master_timeout" alt="" coords="418,5,558,32"/>
+<area shape="rect" id="node4" href="$master_8c.html#a7441a35cc502b58af97bee709f08bd72" title="css_master_select_error" alt="" coords="405,56,571,83"/>
+<area shape="rect" id="node5" href="$master_8c.html#ab98a79aef768822a55ab434613573ff0" title="css_check_master_socket\l_exception" alt="" coords="399,107,577,149"/>
+<area shape="rect" id="node6" href="$master__request_8h.html#a688b342b4b3914138489a6abb44404a8" title="css_process_heartbeat\l_request" alt="" coords="625,290,783,331"/>
+<area shape="rect" id="node8" href="$master_8c.html#af7eb18a37d78ffa472d5ab6ff425a286" title="css_send_to_existing\l_server" alt="" coords="414,225,562,266"/>
+<area shape="rect" id="node10" href="$master__request_8c.html#a9d3be38a3dcbcf812aff6d755bda0f6b" title="css_process_change\l_ha_mode" alt="" coords="415,290,561,331"/>
+<area shape="rect" id="node12" href="$master__request_8c.html#abb95f071d1dd6ed28c991bb1e12edc6c" title="css_process_get_eof" alt="" coords="415,356,561,383"/>
+<area shape="rect" id="node14" href="$master__request_8c.html#a2b9dd01c94bb16d96f15ea3f6de0306e" title="css_process_server\l_state" alt="" coords="419,414,557,455"/>
+</map>

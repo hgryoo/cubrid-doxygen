@@ -1,0 +1,6 @@
+<map id="disk_cache" name="disk_cache">
+<area shape="rect" id="node2" href="$structdisk__cache__volinfo.html" title="{disk_cache_volinfo\n|+ purpose\l+ nsect_free\l|}" alt="" coords="5,263,139,355"/>
+<area shape="rect" id="node3" href="$structdisk__perm__info.html" title="{disk_perm_info\n||}" alt="" coords="163,270,274,347"/>
+<area shape="rect" id="node4" href="$structdisk__extend__info.html" title="{disk_extend_info\n|+ nsect_free\l+ nsect_total\l+ nsect_max\l+ nsect_intention\l+ mutex_reserve\l+ owner_reserve\l+ nsect_vol_max\l+ volid_extend\l+ voltype\l|}" alt="" coords="235,5,357,200"/>
+<area shape="rect" id="node5" href="$structdisk__temp__info.html" title="{disk_temp_info\n|+ nsect_perm_free\l+ nsect_perm_total\l|}" alt="" coords="298,263,433,355"/>
+</map>

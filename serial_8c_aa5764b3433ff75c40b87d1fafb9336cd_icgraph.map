@@ -1,0 +1,6 @@
+<map id="serial_get_attrid" name="serial_get_attrid">
+<area shape="rect" id="node2" href="$serial_8c.html#adacc815e233f8d121d445cf5239ed01f" title="serial_update_cur_val\l_of_serial" alt="" coords="171,5,319,47"/>
+<area shape="rect" id="node4" href="$serial_8c.html#aa31b9c9757cf765c4991a50856d242c4" title="xserial_get_current\l_value_internal" alt="" coords="179,71,311,112"/>
+<area shape="rect" id="node5" href="$serial_8c.html#a5c7fadbb76bc3a179a711c6ffb135494" title="xserial_get_next_value\l_internal" alt="" coords="168,136,323,177"/>
+<area shape="rect" id="node3" href="$serial_8c.html#ae25b42d347814e48a5ca1a08efa7ecba" title="serial_get_next_cached\l_value" alt="" coords="371,5,529,47"/>
+</map>

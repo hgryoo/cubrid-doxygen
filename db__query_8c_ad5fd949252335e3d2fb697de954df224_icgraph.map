@@ -1,0 +1,9 @@
+<map id="db_query_end_internal" name="db_query_end_internal">
+<area shape="rect" id="node2" href="$db__query_8h.html#a9dbd5c8456837711ceea4f233543f99a" title="db_clear_client_query\l_result" alt="" coords="205,99,353,141"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#a970de5fbc3e3f278f3f5e0f211cbf950" title="db_query_end" alt="" coords="228,165,331,192"/>
+<area shape="rect" id="node3" href="$transaction__cl_8h.html#a901b4a89a27aa3bc5c8ffdcc1f9e3150" title="tran_commit" alt="" coords="450,5,545,32"/>
+<area shape="rect" id="node4" href="$transaction__cl_8h.html#a1d5ef42a794f24bbb7d41f3eaf164e8f" title="tran_abort" alt="" coords="457,56,537,83"/>
+<area shape="rect" id="node5" href="$transaction__cl_8h.html#a938f5814219f14c56e528805ddca545a" title="tran_abort_only_client" alt="" coords="423,107,572,133"/>
+<area shape="rect" id="node6" href="$transaction__cl_8h.html#a7bfba1482cf01aa4a926674145c7e29e" title="tran_2pc_prepare" alt="" coords="436,157,559,184"/>
+<area shape="rect" id="node7" href="$transaction__cl_8h.html#a351fb6b676910a2ef50a2bf03980e724" title="tran_2pc_prepare_global_tran" alt="" coords="401,208,593,235"/>
+</map>

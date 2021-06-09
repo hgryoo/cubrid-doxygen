@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['javasp_5fserver_5frunning',['JAVASP_SERVER_RUNNING',['../util__service_8c.html#a8d5c86b4b81962dd53d14045998803b3a3f7503ff1db51772e16b9a5f06cf4f07',1,'util_service.c']]],
+  ['javasp_5fserver_5fstatus_5ferror',['JAVASP_SERVER_STATUS_ERROR',['../util__service_8c.html#a8d5c86b4b81962dd53d14045998803b3a64f4622dac02d4a130687b4fa9478ad6',1,'util_service.c']]],
+  ['javasp_5fserver_5fstopped',['JAVASP_SERVER_STOPPED',['../util__service_8c.html#a8d5c86b4b81962dd53d14045998803b3ac1a251eaafeae6599c2a78d8c4fec249',1,'util_service.c']]],
+  ['javasp_5fstart_5flist',['JAVASP_START_LIST',['../util__service_8c.html#a060a2c8cce31a1fab086a56aed22dbfeaa014b6def3f4395f109a254c81501de1',1,'util_service.c']]],
+  ['javasp_5futil',['JAVASP_UTIL',['../util__service_8c.html#ae1a7ca6f4168069876adfe7193db71aba34ab00bbd582f400ffa27fee61d40280',1,'util_service.c']]],
+  ['join_5fcselect',['JOIN_CSELECT',['../query__list_8h.html#aa4b36fea5f413afa2fdda687a4b5a152a66dcb835b69dc3b2bbe0093bbb63c2a4',1,'query_list.h']]],
+  ['join_5finner',['JOIN_INNER',['../query__list_8h.html#aa4b36fea5f413afa2fdda687a4b5a152a43714bd88c1b8e9a0bb1ff6eb20279d6',1,'query_list.h']]],
+  ['join_5fleft',['JOIN_LEFT',['../query__list_8h.html#aa4b36fea5f413afa2fdda687a4b5a152a8c21d60a380d102295fc6a54d73419e5',1,'query_list.h']]],
+  ['join_5fopposite_5forder',['JOIN_OPPOSITE_ORDER',['../query__planner_8c.html#a8b669208a9f587a67888be4232d2a282a58dea74cfa55195a1618ffaa6dec6aec',1,'query_planner.c']]],
+  ['join_5fouter',['JOIN_OUTER',['../query__list_8h.html#aa4b36fea5f413afa2fdda687a4b5a152a1eba348f10b7b01b828945722597bfa5',1,'query_list.h']]],
+  ['join_5fright',['JOIN_RIGHT',['../query__list_8h.html#aa4b36fea5f413afa2fdda687a4b5a152a6d7f8975bd7c149a6539591ca5d99299',1,'query_list.h']]],
+  ['join_5fright_5forder',['JOIN_RIGHT_ORDER',['../query__planner_8c.html#a8b669208a9f587a67888be4232d2a282aacf4eb0d1df123ce2ddcdb7722049542',1,'query_planner.c']]],
+  ['json_5fpath_5fpointer',['JSON_PATH_POINTER',['../db__json__path_8cpp.html#acc7bca89b929639f6f4b0f67a7c5fd9aa589c36c4956e494534e10a13b46098c1',1,'db_json_path.cpp']]],
+  ['json_5fpath_5fsql_5fjson',['JSON_PATH_SQL_JSON',['../db__json__path_8cpp.html#acc7bca89b929639f6f4b0f67a7c5fd9aa2e8654976b363e725eb84e8efc5390ad',1,'db_json_path.cpp']]],
+  ['json_5ftable_5farray_5fexpand',['JSON_TABLE_ARRAY_EXPAND',['../json__table__def_8h.html#ae029596726ea3b3874208ae2ea483ee0a384c54b8d462bbff2dc31d326e1ffa48',1,'json_table_def.h']]],
+  ['json_5ftable_5fdefault_5fvalue',['JSON_TABLE_DEFAULT_VALUE',['../json__table__def_8h.html#a87ec5e58a4c55c24c09a6b71602f7ad7afb4939dd8fce45178a3cc2e2e058609d',1,'json_table_def.h']]],
+  ['json_5ftable_5fexists',['JSON_TABLE_EXISTS',['../json__table__def_8h.html#a91802610c6f4a8b82713e6f3255febb1ac5daabcd3ee607a8d508b14cbcb51035',1,'json_table_def.h']]],
+  ['json_5ftable_5fextract',['JSON_TABLE_EXTRACT',['../json__table__def_8h.html#a91802610c6f4a8b82713e6f3255febb1af84e85ac552c8cfde75454629166f389',1,'json_table_def.h']]],
+  ['json_5ftable_5fno_5fexpand',['JSON_TABLE_NO_EXPAND',['../json__table__def_8h.html#ae029596726ea3b3874208ae2ea483ee0a566ac773dcd7ba153f262d6d7a5c61f2',1,'json_table_def.h']]],
+  ['json_5ftable_5fobject_5fexpand',['JSON_TABLE_OBJECT_EXPAND',['../json__table__def_8h.html#ae029596726ea3b3874208ae2ea483ee0af3ed2a410eddc0ede70ffbb82cf7bc5f',1,'json_table_def.h']]],
+  ['json_5ftable_5fordinality',['JSON_TABLE_ORDINALITY',['../json__table__def_8h.html#a91802610c6f4a8b82713e6f3255febb1a7edfd0bd5f48b209dd9ccaa96aa53f00',1,'json_table_def.h']]],
+  ['json_5ftable_5freturn_5fnull',['JSON_TABLE_RETURN_NULL',['../json__table__def_8h.html#a87ec5e58a4c55c24c09a6b71602f7ad7aa657259dd480d36ea70000054ed0e64e',1,'json_table_def.h']]],
+  ['json_5ftable_5fthrow_5ferror',['JSON_TABLE_THROW_ERROR',['../json__table__def_8h.html#a87ec5e58a4c55c24c09a6b71602f7ad7ae4dc862ddc9927729e91fbeebecf5f91',1,'json_table_def.h']]]
+];

@@ -1,0 +1,8 @@
+<map id="heap_classrepr_initialize_cache" name="heap_classrepr_initialize_cache">
+<area shape="rect" id="node2" href="$heap__file_8h.html#ab9dee9c11bb2b9ca0d47b59b27307c02" title="heap_classrepr_restart\l_cache" alt="" coords="221,9,375,50"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a1bd47a9dfa569f39c05bbbdccff9ae9b" title="heap_manager_initialize" alt="" coords="217,96,379,123"/>
+<area shape="rect" id="node3" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="462,5,558,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="443,56,577,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="427,107,593,133"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="428,157,592,184"/>
+</map>

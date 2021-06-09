@@ -1,0 +1,6 @@
+<map id="btree_get_prefix_separator" name="btree_get_prefix_separator">
+<area shape="rect" id="node2" href="$btree__load_8c.html#a2e3d0063dd97e3546031d1f224c54831" title="btree_build_nleafs" alt="" coords="239,5,365,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a966c0c32f3135b4aa98458557d0c46d5" title="btree_find_split_point" alt="" coords="229,56,375,83"/>
+<area shape="rect" id="node5" href="$btree_8c.html#add886ee6e572e19a7050550602356423" title="btree_set_split_point" alt="" coords="231,107,373,133"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="423,5,549,32"/>
+</map>

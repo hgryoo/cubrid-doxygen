@@ -1,0 +1,11 @@
+<map id="net_consume_expected_packets" name="net_consume_expected_packets">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a383e3f0b918645e1a5eb4e1b2d7d69a8" title="net_client_recv_copyarea" alt="" coords="213,71,384,98"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#a837e242daf7159115213185ff8caf058" title="net_client_request2" alt="" coords="231,122,366,149"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#a5780d77262457477d69b7205385f3fb6" title="net_client_request\l_2recv_copyarea" alt="" coords="235,5,363,47"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#aa42d9a17ce6a27c7ada7323caf0c1046" title="net_client_request\l_3_data_recv_copyarea" alt="" coords="219,173,379,215"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#ab573cd7021cce8c0449068cada8cf14d" title="net_client_request\l_3recv_copyarea" alt="" coords="235,239,363,280"/>
+<area shape="rect" id="node9" href="$network__interface__cl_8h.html#a400c1cdd6251fc411dd235307ae5291b" title="net_client_request\l_recv_copyarea" alt="" coords="235,304,363,345"/>
+<area shape="rect" id="node10" href="$network__interface__cl_8h.html#a2deda16a5fdfddae06f2b7cd1b0775f9" title="net_client_request\l_with_callback" alt="" coords="235,369,363,411"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a163c46cad27bce25d542d1be60ee6631" title="locator_fetch_lockset" alt="" coords="433,13,580,39"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a029894fefde56c185a947a3daa4d873a" title="locator_fetch_lockhint\l_classes" alt="" coords="432,64,581,105"/>
+</map>

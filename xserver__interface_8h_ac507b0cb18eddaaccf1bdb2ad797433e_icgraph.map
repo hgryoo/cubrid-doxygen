@@ -1,0 +1,6 @@
+<map id="xsession_set_session_variables" name="xsession_set_session_variables">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a9fd5119024e8e85f97d77c016364543d" title="csession_set_session\l_variables" alt="" coords="204,27,355,69"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#a679b8a3c3a6ed1d0b9aaa5f9c5ae69c5" title="ssession_set_session\l_variables" alt="" coords="204,93,355,134"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#ae8b234b7f8aac6ae75689dda912fe84b" title="do_set_session_variables" alt="" coords="403,5,575,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#ac6d5249e2c8ad23f308581b4ce11cda7" title="do_send_plan_trace\l_to_session" alt="" coords="419,57,558,98"/>
+</map>

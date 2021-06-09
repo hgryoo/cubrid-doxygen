@@ -1,0 +1,16 @@
+<map id="sm_add_constraint" name="sm_add_constraint">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a9e1478dcb49772944e0d926957d48005" title="create_or_drop_index\l_helper" alt="" coords="204,64,351,105"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a0d0139873ec1f050b3281fd821e3defb" title="db_add_constraint" alt="" coords="213,130,341,157"/>
+<area shape="rect" id="node7" href="$execute__schema_8c.html#a03dbf8ec3962e323a7e7fdcd814c8ce3" title="do_alter_clause_change\l_attribute" alt="" coords="417,173,580,215"/>
+<area shape="rect" id="node8" href="$execute__schema_8c.html#afcf7ed75c00d62f9572625c130721e19" title="do_alter_index_rebuild" alt="" coords="202,231,353,258"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html#afaa7284d4b1251a4e20e4232705f1c3b" title="do_copy_indexes" alt="" coords="216,282,339,309"/>
+<area shape="rect" id="node10" href="$execute__schema_8c.html#a2bf3e5ef2f2a10e5650ca02e30858597" title="do_create_partition\l_constraint" alt="" coords="211,333,343,375"/>
+<area shape="rect" id="node11" href="$execute__schema_8c.html#a1324a0ef4d62e125fd7a37bcea432611" title="do_recreate_att_constraints" alt="" coords="186,399,369,426"/>
+<area shape="rect" id="node12" href="$execute__schema_8c.html#a117d19cbdb55baa5877f998a7c3e9310" title="do_recreate_renamed\l_class_indexes" alt="" coords="204,451,351,492"/>
+<area shape="rect" id="node13" href="$execute__schema_8c.html#af5267455ffddb5ca1a9d8a630b64696f" title="do_recreate_saved_indexes" alt="" coords="185,517,369,543"/>
+<area shape="rect" id="node14" href="$schema__manager_8c.html#ae946e6aefead200daf0e5ddbc5fcd417" title="sm_add_secondary_index\l_on_partition" alt="" coords="191,568,364,609"/>
+<area shape="rect" id="node15" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="211,634,343,661"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a5f35fe48b2ce19dcce8307dcbeb3eaba" title="do_alter_clause_drop\l_index" alt="" coords="426,5,571,47"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#ac8e9faea401a87acc173d641e004e458" title="do_create_index" alt="" coords="440,71,557,98"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a10336dc16aa192602418c6e5914b75d6" title="do_drop_index" alt="" coords="445,122,552,149"/>
+</map>

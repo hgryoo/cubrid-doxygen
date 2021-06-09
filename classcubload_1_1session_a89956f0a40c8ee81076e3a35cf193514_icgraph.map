@@ -1,0 +1,10 @@
+<map id="cubload::session::fail" name="cubload::session::fail">
+<area shape="rect" id="node2" href="$classcubload_1_1load__task.html#aa4e8a989957626a602b12db671672fdb" title="cubload::load_task\l::execute" alt="" coords="443,5,573,47"/>
+<area shape="rect" id="node3" href="$namespacecubload.html#a75035b290209b2c36f700687357fe1fb" title="cubload::init_driver" alt="" coords="221,63,351,90"/>
+<area shape="rect" id="node5" href="$classcubload_1_1session.html#af7b882aec97dd0768d4b17f04d3dc7fd" title="cubload::session::install\l_class" alt="" coords="205,115,367,156"/>
+<area shape="rect" id="node7" href="$classcubload_1_1session.html#a3b1069b54cad0e8644b3b422c886e7b3" title="cubload::session::interrupt" alt="" coords="199,181,373,207"/>
+<area shape="rect" id="node4" href="$classcubload_1_1session.html#a6c5b75cd5a15a75400f31d115d8b2d83" title="cubload::session::session" alt="" coords="421,71,595,98"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#aa04827e49a2d0a38359cc70bc6342566" title="sloaddb_install_class" alt="" coords="435,122,581,149"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#a235f7335bf76a11ba7474e6b316e1cb4" title="sloaddb_interrupt" alt="" coords="447,177,569,203"/>
+<area shape="rect" id="node9" href="$session_8h.html#ac09e7cc4c25a9685b687d87bd33bc9be" title="session_stop_attached\l_threads" alt="" coords="430,228,586,269"/>
+</map>

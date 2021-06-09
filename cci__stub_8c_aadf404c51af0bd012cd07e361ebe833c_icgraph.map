@@ -1,0 +1,5 @@
+<map id="complete_statement" name="complete_statement">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#a095e2010525f1e31811decbf60812c9a" title="complete_connection" alt="" coords="193,31,339,57"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#abc3f22dbdba065374c415a775639d519" title="ci_conn_commit_impl" alt="" coords="388,5,536,32"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#a4f4d96dade96f0d4c6013cd2df80cada" title="ci_conn_rollback_impl" alt="" coords="387,56,537,83"/>
+</map>

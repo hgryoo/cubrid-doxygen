@@ -1,0 +1,13 @@
+<map id="tp_init_value_domain" name="tp_init_value_domain">
+<area shape="rect" id="node2" href="$object__representation_8c.html#a57ab8dbffe49961f988abd5195281a0a" title="or_get_value" alt="" coords="227,208,323,235"/>
+<area shape="rect" id="node12" href="$object__representation_8c.html#a2a33e9093216a888635de950d30567ee" title="or_unpack_mem_value" alt="" coords="197,259,353,285"/>
+<area shape="rect" id="node3" href="$object__representation__sr_8c.html#a4ef5b712a59b303dcc884350533cdf18" title="or_get_current_representation" alt="" coords="401,5,596,32"/>
+<area shape="rect" id="node4" href="$object__representation__sr_8h.html#a1dc8b183a1665d76dc8cc0523413dbee" title="or_class_get_partition_info" alt="" coords="410,56,587,83"/>
+<area shape="rect" id="node5" href="$object__representation_8c.html#ab0630175dddb661d6b5a4fbe4aaed245" title="or_get_set" alt="" coords="457,107,540,133"/>
+<area shape="rect" id="node6" href="$object__representation_8c.html#aa7112174be8993f322ebd1fa6dcdafbb" title="or_disk_set_size" alt="" coords="439,157,559,184"/>
+<area shape="rect" id="node7" href="$object__representation_8c.html#a361c59c2ebeb9625ebcdef1fb9a9a0da" title="or_unpack_value" alt="" coords="439,208,559,235"/>
+<area shape="rect" id="node8" href="$transform__cl_8c.html#abbfdce0d1a4eb0e066a1f503161fa721" title="disk_to_attribute" alt="" coords="439,259,558,285"/>
+<area shape="rect" id="node9" href="$transform__cl_8c.html#a51a24d6eb2769d2e41ed09add45c7639" title="disk_to_partition_info" alt="" coords="426,309,571,336"/>
+<area shape="rect" id="node10" href="$catalog__class_8c.html#a7d582bb9c89ad8c12586b7d4f9da0fbe" title="catcls_get_or_value\l_from_attribute" alt="" coords="429,361,568,402"/>
+<area shape="rect" id="node11" href="$catalog__class_8c.html#a05de9359907fa537638a5c8f2f3ecdb2" title="catcls_get_or_value\l_from_partition" alt="" coords="429,426,568,467"/>
+</map>

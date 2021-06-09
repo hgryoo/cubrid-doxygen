@@ -1,0 +1,8 @@
+<map id="obj_send_method_array" name="obj_send_method_array">
+<area shape="rect" id="node2" href="$object__accessor_8h.html#a20b88a427e12b140b1293132278068b6" title="obj_desc_send_array" alt="" coords="213,20,359,47"/>
+<area shape="rect" id="node4" href="$object__accessor_8h.html#af5c0b346c305a3eaab3d13552f985d7e" title="obj_send_array" alt="" coords="231,100,341,127"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#aef4f8835397564a1c8da31ce921813d3" title="db_dsend_argarray" alt="" coords="428,5,560,32"/>
+<area shape="rect" id="node5" href="$db__obj_8c.html#aac9c286f7a523343bd337eaac6a98bc9" title="db_send_argarray" alt="" coords="431,56,557,83"/>
+<area shape="rect" id="node6" href="$method__scan_8c.html#ab5c1ecda7b5379e97445b2d334767dcb" title="method_receive_results\l_for_stand_alone" alt="" coords="414,107,574,149"/>
+<area shape="rect" id="node7" href="$query__method_8h.html#a4d924a91280fef1cebe25fbcfca186d7" title="method_invoke_for_server" alt="" coords="407,173,581,200"/>
+</map>

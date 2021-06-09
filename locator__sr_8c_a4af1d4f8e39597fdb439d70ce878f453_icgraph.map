@@ -1,0 +1,12 @@
+<map id="locator_lock_and_get_object_internal" name="locator_lock_and_get_object_internal">
+<area shape="rect" id="node2" href="$locator__sr_8h.html#acc9618d1ce7c02e3c71da55d87ec0e73" title="locator_get_object" alt="" coords="215,93,343,120"/>
+<area shape="rect" id="node6" href="$locator__sr_8h.html#a81af42e98a4945c9cbad21a25d238739" title="locator_lock_and_get\l_object" alt="" coords="207,217,352,258"/>
+<area shape="rect" id="node11" href="$locator__sr_8h.html#aec26f2360b0f83e93b04cb302b147cb3" title="locator_lock_and_get\l_object_with_evaluation" alt="" coords="199,282,360,323"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#aa0228de3d463d4f25f995136288bfbb8" title="qexec_execute_obj_fetch" alt="" coords="408,5,579,32"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#aa2a539cc181f7092735583eb6feaa11a" title="locator_lock_and_return\l_object" alt="" coords="413,57,573,98"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#ae0b773e954c8caecf01501e44a90269f" title="xlocator_does_exist" alt="" coords="424,123,563,149"/>
+<area shape="rect" id="node7" href="$compactdb__sr_8c.html#af8d44168ffe6aff088291e3bc5771d7e" title="process_object" alt="" coords="648,180,759,207"/>
+<area shape="rect" id="node8" href="$locator__sr_8c.html#a3ec8ca9e5364109919ee52c486add7ec" title="locator_check_primary\l_key_delete" alt="" coords="627,237,780,278"/>
+<area shape="rect" id="node9" href="$locator__sr_8c.html#a65b9f6b49b3eaa536a20c55db7f99b3f" title="locator_check_primary\l_key_update" alt="" coords="627,313,780,354"/>
+<area shape="rect" id="node10" href="$locator__sr_8h.html#a891018ca0e900f206c7635aa258af74b" title="locator_attribute_info\l_force" alt="" coords="422,275,565,317"/>
+</map>

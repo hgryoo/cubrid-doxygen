@@ -1,0 +1,8 @@
+<map id="register_collation" name="register_collation">
+<area shape="rect" id="node2" href="$language__support_8h.html#a40d77c7475b664ba0d6cccd50268bb77" title="lang_init_builtin" alt="" coords="193,18,304,44"/>
+<area shape="rect" id="node5" href="$language__support_8h.html#a0b04adfffad5dfcc190db63bc5a4f617" title="lang_locale_data_load\l_from_lib" alt="" coords="173,69,324,110"/>
+<area shape="rect" id="node3" href="$language__support_8h.html#aacb13171682312ef3352667c25db37e7" title="lang_init" alt="" coords="539,22,609,48"/>
+<area shape="rect" id="node4" href="$utility_8h.html#ad5781c1e37add771dc67bc370ecf8e4e" title="genlocale" alt="" coords="393,22,470,48"/>
+<area shape="rect" id="node6" href="$language__support_8c.html#ae455bef4c810e301896b3ae6c3c83c55" title="init_user_locales" alt="" coords="372,72,491,99"/>
+<area shape="rect" id="node7" href="$utility_8h.html#a330fd0870772875acbeb6f5c9995e63c" title="dumplocale" alt="" coords="387,123,475,150"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="classobj_free_prop" name="classobj_free_prop">
+<area shape="rect" id="node2" href="$class__object_8c.html#ae574da51cefa37883fba4693091bffa9" title="classobj_clear_attribute" alt="" coords="184,52,343,79"/>
+<area shape="rect" id="node4" href="$class__object_8h.html#a145685b1468b99b25b33dff9e869a484" title="classobj_free_template" alt="" coords="598,128,754,155"/>
+<area shape="rect" id="node6" href="$class__object_8h.html#a3220191cf2a26a22f94e71692b1a5032" title="classobj_install_template" alt="" coords="592,306,760,332"/>
+<area shape="rect" id="node7" href="$class__object_8c.html#a38b564fbcca613d1a839d1c534c5e2cf" title="classobj_clear_method" alt="" coords="186,280,341,307"/>
+<area shape="rect" id="node10" href="$class__object_8h.html#a7703722447201ba90b4514d1ae28076a" title="classobj_copy_props" alt="" coords="191,331,335,358"/>
+<area shape="rect" id="node11" href="$transform__cl_8c.html#a5169ad91b05e94d735221116d3d0d9d3" title="tf_attribute_default\l_expr_to_property" alt="" coords="198,433,329,474"/>
+<area shape="rect" id="node12" href="$transform__cl_8h.html#aac6b6e8c3a6fec3900c6db4bf1e00044" title="tf_class_to_disk" alt="" coords="409,470,526,496"/>
+<area shape="rect" id="node3" href="$class__object_8h.html#a877315c9c28a885bb6b5962b124f1c36" title="classobj_free_attribute" alt="" coords="391,27,544,54"/>
+<area shape="rect" id="node5" href="$class__object_8h.html#ab7d92672c617747d7da2d6567e1c269b" title="classobj_free_class" alt="" coords="808,128,945,155"/>
+<area shape="rect" id="node8" href="$class__object_8h.html#a59a05ab54ddcc778cb397a0457e3b33d" title="classobj_free_method" alt="" coords="393,179,542,206"/>
+<area shape="rect" id="node9" href="$class__object_8c.html#a6e5b5773cc2a391de0b2f6ba4650ecf8" title="classobj_init_method" alt="" coords="395,331,539,358"/>
+</map>

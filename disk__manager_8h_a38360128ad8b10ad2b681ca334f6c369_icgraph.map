@@ -1,0 +1,10 @@
+<map id="disk_set_creation" name="disk_set_creation">
+<area shape="rect" id="node2" href="$file__io_8h.html#af10927c1c82f7fe8c40e2ed37b742ba8" title="fileio_restore_volume" alt="" coords="194,5,339,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="220,56,313,83"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#afdf53e4360c4332c6770c24fcdd49bc1" title="logpb_copy_volume" alt="" coords="198,107,335,133"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="177,158,356,199"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#adaf3756eb46d2f608fb945c678a665c8" title="logpb_restore" alt="" coords="436,5,536,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="404,56,568,83"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="412,107,560,133"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#acb0127ed69984740febd2060f7086821" title="xboot_soft_rename" alt="" coords="419,165,553,192"/>
+</map>

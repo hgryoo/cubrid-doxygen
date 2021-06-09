@@ -1,0 +1,21 @@
+<map id="pr_type::get_disk_size_of_value" name="pr_type::get_disk_size_of_value">
+<area shape="rect" id="node2" href="$structbtree__insert__list.html#a38122751a5f2bff4325a259c66202231" title="btree_insert_list::\ladd_key" alt="" coords="241,5,363,47"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#a39e0216f3f5cf51647f9a3d8cda8b7d2" title="btree_sort_get_next" alt="" coords="233,71,371,98"/>
+<area shape="rect" id="node6" href="$catalog__class_8c.html#a7dd09b2811294a89371e4235eedbf390" title="catcls_guess_record\l_length" alt="" coords="231,123,373,164"/>
+<area shape="rect" id="node9" href="$object__representation_8c.html#a2c6340e5283bb85a327c2462ede6bcd7" title="or_packed_enumeration_size" alt="" coords="207,189,397,215"/>
+<area shape="rect" id="node10" href="$object__representation_8c.html#aaa70ece971e4b95273cfbcd53f0ba7e4" title="or_packed_json_schema\l_length" alt="" coords="219,240,385,281"/>
+<area shape="rect" id="node11" href="$object__representation_8c.html#a8d09a60ee7bdf35070f08ef1e1e510b4" title="or_packed_value_size" alt="" coords="227,357,377,383"/>
+<area shape="rect" id="node16" href="$object__primitive_8h.html#ad341413ca21284b0898dec1bb8e6bf6d" title="pr_data_writeval_disk_size" alt="" coords="213,458,391,485"/>
+<area shape="rect" id="node18" href="$transform__cl_8c.html#acf3be360f14eaeb2ad87888f96a3aed9" title="property_list_size" alt="" coords="240,306,364,333"/>
+<area shape="rect" id="node19" href="$query__opfunc_8h.html#ab019da6da42578a89c2b91ff84fec296" title="qdata_get_tuple_value\l_size_from_dbval" alt="" coords="226,509,378,551"/>
+<area shape="rect" id="node20" href="$transform__cl_8c.html#a967de747ee57b9d5b252aa1862aa7cea" title="string_disk_size" alt="" coords="244,407,360,434"/>
+<area shape="rect" id="node3" href="$classindex__builder__loader__task.html#adc5fb283482f3a5c2573194229dcc9d3" title="index_builder_loader\l_task::add_key" alt="" coords="455,5,595,47"/>
+<area shape="rect" id="node5" href="$btree__load_8c.html#ad2eefeb3458e40648543c0ce0948b261" title="btree_index_sort" alt="" coords="465,71,584,98"/>
+<area shape="rect" id="node7" href="$catalog__class_8c.html#af8c9df2e6063f9d7b49b65709fd1d3ca" title="catcls_insert_instance" alt="" coords="449,177,601,203"/>
+<area shape="rect" id="node8" href="$catalog__class_8c.html#a9fe7e4c1337f52799542ab02d0a0991c" title="catcls_update_instance" alt="" coords="445,126,604,153"/>
+<area shape="rect" id="node12" href="$transform__cl_8c.html#a6a9b9bcc9240544a32d2e63df9e094a1" title="attribute_size" alt="" coords="475,357,575,383"/>
+<area shape="rect" id="node13" href="$transform__cl_8c.html#ac81b2c7073a8cac33ce951a3d727a2dd" title="attribute_to_disk" alt="" coords="465,306,584,333"/>
+<area shape="rect" id="node14" href="$transform__cl_8c.html#aaa0b61e7459def47441b772d76bf667c" title="partition_info_size" alt="" coords="461,458,588,485"/>
+<area shape="rect" id="node15" href="$transform__cl_8c.html#a61c6bb9908b96a3c91c2269f4fa832ce" title="partition_info_to_disk" alt="" coords="452,407,597,434"/>
+<area shape="rect" id="node17" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="465,509,584,535"/>
+</map>

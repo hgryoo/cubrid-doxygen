@@ -1,0 +1,7 @@
+<map id="locator_drop_transient_class_name_entries" name="locator_drop_transient_class_name_entries">
+<area shape="rect" id="node2" href="$log__manager_8c.html#ab4caf562d8285575e31569853071f90e" title="log_cleanup_modified\l_class" alt="" coords="217,5,363,47"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#a419b499e71801215e558b71c0060f96b" title="log_cleanup_modified\l_class_list" alt="" coords="424,35,571,76"/>
+<area shape="rect" id="node4" href="$transaction__sr_8c.html#a30688dea2fb0fbdd145e5181979ceb5b" title="xtran_server_2pc_prepare" alt="" coords="204,122,376,149"/>
+<area shape="rect" id="node5" href="$transaction__sr_8c.html#aea50e8cae070815c3c3786ef7a2727f2" title="xtran_server_2pc_prepare\l_global_tran" alt="" coords="204,173,376,215"/>
+<area shape="rect" id="node6" href="$transaction__sr_8c.html#a9b5f535da0352cfafc4cd0966b36190d" title="xtran_server_end_topop" alt="" coords="209,239,371,266"/>
+</map>

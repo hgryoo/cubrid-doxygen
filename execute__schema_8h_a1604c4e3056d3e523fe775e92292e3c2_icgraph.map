@@ -1,0 +1,21 @@
+<map id="do_check_partitioned_class" name="do_check_partitioned_class">
+<area shape="rect" id="node2" href="$db__class_8c.html#a373452d8c929f0de4e021e9f4ed1aa66" title="db_add_super" alt="" coords="227,5,330,32"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a98c2e26053f556b0dc8395d6c2d8da2f" title="db_create" alt="" coords="239,56,318,83"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a32cc414770f4a752a5ec484b311ae312" title="db_dput" alt="" coords="245,107,313,133"/>
+<area shape="rect" id="node5" href="$db__class_8c.html#aed7bc349c06431d7fe4cb5a28d1a6deb" title="db_drop_attribute" alt="" coords="217,157,340,184"/>
+<area shape="rect" id="node6" href="$db__class_8c.html#afcc6f3e371a17f227f8b7d2a9ea365c4" title="db_drop_class_ex" alt="" coords="215,208,342,235"/>
+<area shape="rect" id="node9" href="$db__class_8c.html#a7838553ddc8f87086e854564fe5d3775" title="db_drop_super" alt="" coords="225,259,332,285"/>
+<area shape="rect" id="node10" href="$db__class_8c.html#ad21d73f0e68a31d894782886230ea4fe" title="db_drop_super_connect" alt="" coords="199,309,359,336"/>
+<area shape="rect" id="node11" href="$db__admin_8c.html#a9d3ade07a817898c68401b4168bb196a" title="db_grant" alt="" coords="243,360,315,387"/>
+<area shape="rect" id="node12" href="$dbi__compat_8h.html#a6fee6b5937589480aa0a72074e69adcd" title="db_put" alt="" coords="248,411,309,437"/>
+<area shape="rect" id="node13" href="$db__class_8c.html#a74da81a3aaf4928883d2c52e290dde10" title="db_rename" alt="" coords="235,461,322,488"/>
+<area shape="rect" id="node14" href="$db__class_8c.html#a1317c2e0059caad9567e59cc828ccd06" title="db_rename_attribute" alt="" coords="209,512,349,539"/>
+<area shape="rect" id="node15" href="$db__class_8c.html#ae79c65d1d55a21a06e2e0b918f033852" title="db_rename_class" alt="" coords="217,563,341,589"/>
+<area shape="rect" id="node16" href="$db__admin_8c.html#a363d0eacb7f09ce691dcdbae33b3eec7" title="db_revoke" alt="" coords="237,613,320,640"/>
+<area shape="rect" id="node17" href="$db__obj_8c.html#a9ecb135f00d6fbc522e3971596ed7023" title="dbt_create_object" alt="" coords="216,664,341,691"/>
+<area shape="rect" id="node18" href="$dbi__compat_8h.html#a8a24f1b99bb2fc60703a418fb88f367e" title="dbt_dput" alt="" coords="243,715,315,741"/>
+<area shape="rect" id="node19" href="$dbi__compat_8h.html#adcf8b0b896dc44283bf7bb7de98f46f2" title="dbt_put" alt="" coords="246,765,311,792"/>
+<area shape="rect" id="node20" href="$db__stub_8c.html#a122e219845e0e05b2f42fbdac9d1c7f3" title="rs_set_db_value" alt="" coords="220,816,337,843"/>
+<area shape="rect" id="node7" href="$db__class_8c.html#aff0a09aee1111dc26d5bc26ea87fcf2a" title="db_drop_class" alt="" coords="415,183,522,209"/>
+<area shape="rect" id="node8" href="$execute__schema_8c.html#a3cf970a0d744167f782960b61770d20a" title="drop_class_name" alt="" coords="407,233,531,260"/>
+</map>

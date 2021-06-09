@@ -1,0 +1,9 @@
+<map id="cubthread::manager::get_max_thread_count" name="cubthread::manager::get_max_thread_count">
+<area shape="rect" id="node2" href="$namespacecubthread.html#a85948922f87abf9600ec61c790e83ccf" title="cubthread::get_max\l_thread_count" alt="" coords="216,17,353,58"/>
+<area shape="rect" id="node4" href="$namespacecubthread.html#a896437648b59558b4995ee8898888a82" title="cubthread::initialize\l_thread_entries" alt="" coords="217,99,352,141"/>
+<area shape="rect" id="node3" href="$thread__manager_8hpp.html#af8272308c0cefe1feeab0f0969ea68e5" title="thread_num_total_threads" alt="" coords="401,5,573,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="420,56,555,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a6dc8b536b7d535d54c1471a87b76f2c2" title="xboot_delete" alt="" coords="439,107,535,133"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="405,157,569,184"/>
+<area shape="rect" id="node8" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="412,208,563,235"/>
+</map>

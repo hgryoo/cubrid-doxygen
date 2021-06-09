@@ -1,0 +1,21 @@
+<map id="perfmon_stat_holder_latch_name" name="perfmon_stat_holder_latch_name">
+<area shape="rect" id="node2" href="$perf__monitor_8c.html#accfaf050c009fa819998704846615cf2" title="perfmon_stat_dump_in\l_buffer_fix_page_array_stat" alt="" coords="202,71,385,112"/>
+<area shape="rect" id="node5" href="$perf__monitor_8c.html#a76a6bb846929a7d05a8854941cfeb805" title="perfmon_stat_dump_in\l_buffer_page_hold_time\l_array_stat" alt="" coords="213,161,373,217"/>
+<area shape="rect" id="node7" href="$perf__monitor_8c.html#a9e5aa7c062da114e9f72a04d2b29962a" title="perfmon_stat_dump_in\l_buffer_page_lock_time\l_array_stat" alt="" coords="213,262,373,318"/>
+<area shape="rect" id="node10" href="$perf__monitor_8c.html#a3c21a2f8dac78e7ef0b5a15fcc65445c" title="perfmon_stat_dump_in\l_buffer_promote_page\l_array_stat" alt="" coords="216,342,371,398"/>
+<area shape="rect" id="node13" href="$perf__monitor_8c.html#a2a2ab8f066ea7c8a8673111e8dbdfb05" title="perfmon_stat_dump_in\l_buffer_unfix_page_array_stat" alt="" coords="195,421,392,463"/>
+<area shape="rect" id="node15" href="$perf__monitor_8c.html#a5931fdbab6e3cac61544c0887f4aec35" title="perfmon_stat_dump_in\l_file_fix_page_array_stat" alt="" coords="210,487,377,528"/>
+<area shape="rect" id="node17" href="$perf__monitor_8c.html#aa195033c9f77f68921ba6e2ca8e39138" title="perfmon_stat_dump_in\l_file_page_hold_time\l_array_stat" alt="" coords="216,551,371,607"/>
+<area shape="rect" id="node18" href="$perf__monitor_8c.html#a631fe0a88d7fe9a476392596f04d91c5" title="perfmon_stat_dump_in\l_file_page_lock_time\l_array_stat" alt="" coords="216,631,371,687"/>
+<area shape="rect" id="node19" href="$perf__monitor_8c.html#a20756dae05cc88450b3791a0d173d91a" title="perfmon_stat_dump_in\l_file_promote_page_array_stat" alt="" coords="193,711,393,752"/>
+<area shape="rect" id="node20" href="$perf__monitor_8c.html#a7ffab30f58678a3ecc5ea6ac63e0508b" title="perfmon_stat_dump_in\l_file_unfix_page_array_stat" alt="" coords="203,776,384,817"/>
+<area shape="rect" id="node3" href="$perf__monitor_8c.html#ac0bda4d14a8d9b1dcefbe5fb7f77d737" title="f_dump_in_buffer_Num\l_data_page_fix_ext" alt="" coords="463,5,621,47"/>
+<area shape="rect" id="node4" href="$perf__monitor_8c.html#a7fa1b68108a5328709c3a5ff02ad0f56" title="f_dump_in_buffer_Num\l_dwb_flushed_block_volumes" alt="" coords="444,71,640,112"/>
+<area shape="rect" id="node6" href="$perf__monitor_8c.html#a789677636953709005e21ee3d5265564" title="f_dump_in_buffer_Time\l_data_page_hold_acquire_time" alt="" coords="441,136,643,177"/>
+<area shape="rect" id="node8" href="$perf__monitor_8c.html#a8c0f00c943a5dd726a2e814840c882b2" title="f_dump_in_buffer_Time\l_data_page_lock_acquire_time" alt="" coords="441,201,643,243"/>
+<area shape="rect" id="node9" href="$perf__monitor_8c.html#a903b406deb618cd6213a9981f35aaf4a" title="perfmon_stat_dump_in\l_buffer_page_fix_time\l_array_stat" alt="" coords="465,266,619,322"/>
+<area shape="rect" id="node11" href="$perf__monitor_8c.html#a57bcfb170e1b9745b5b3a6d993513296" title="f_dump_in_buffer_Num\l_data_page_promote_ext" alt="" coords="458,345,626,387"/>
+<area shape="rect" id="node12" href="$perf__monitor_8c.html#ac28fef6378dec0a3cfb9df44749cf0db" title="f_dump_in_buffer_Num\l_data_page_promote_time_ext" alt="" coords="442,411,642,452"/>
+<area shape="rect" id="node14" href="$perf__monitor_8c.html#ae51973c9dfa592d5725a8efe3fa16c96" title="f_dump_in_buffer_Num\l_data_page_unfix_ext" alt="" coords="463,476,621,517"/>
+<area shape="rect" id="node16" href="$perf__monitor_8c.html#a97437ced489f2d4f25db94006f0a62fd" title="f_dump_in_file_Num\l_data_page_fix_ext" alt="" coords="471,541,613,583"/>
+</map>

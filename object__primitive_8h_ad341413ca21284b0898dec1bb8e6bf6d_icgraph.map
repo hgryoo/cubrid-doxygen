@@ -1,0 +1,21 @@
+<map id="pr_data_writeval_disk_size" name="pr_data_writeval_disk_size">
+<area shape="rect" id="node2" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="482,98,601,124"/>
+<area shape="rect" id="node4" href="$query__aggregate_8hpp.html#a3b55abbced0f132eb0b1cb63c7064755" title="qdata_evaluate_aggregate_list" alt="" coords="843,67,1041,94"/>
+<area shape="rect" id="node5" href="$query__analytic_8hpp.html#a77694d66899ad7e3bfe752bc6a4201f6" title="qdata_evaluate_analytic_func" alt="" coords="845,130,1039,156"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#a6b8c964e2905c9611abc4d99648366b6" title="heap_attrinfo_get_disksize" alt="" coords="233,224,411,251"/>
+<area shape="rect" id="node8" href="$load__object_8c.html#a077a99a209500ebda1e82619ca08d198" title="object_disk_size" alt="" coords="263,376,381,403"/>
+<area shape="rect" id="node10" href="$object__primitive_8h.html#ae12a8c594fad2fc0fab2db8c4b6a5d40" title="PRIM_SET_NULL" alt="" coords="257,123,387,150"/>
+<area shape="rect" id="node11" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="232,326,412,352"/>
+<area shape="rect" id="node12" href="$load__object_8c.html#a98272049d6bcb861a18ffbe9bd54226b" title="put_varinfo" alt="" coords="279,275,365,302"/>
+<area shape="rect" id="node13" href="$query__opfunc_8h.html#a28c187e1a4b39fc8888dfc55911fd7ae" title="qdata_copy_db_value\l_to_tuple_value" alt="" coords="248,428,396,469"/>
+<area shape="rect" id="node17" href="$list__file_8h.html#a79b427702c441e92eac44f705adaa4c4" title="qfile_fast_intval_tuple\l_to_list" alt="" coords="248,493,396,534"/>
+<area shape="rect" id="node18" href="$list__file_8h.html#a0beac1181962d1d3f8f62564fc787f53" title="qfile_fast_val_tuple\l_to_list" alt="" coords="255,558,389,600"/>
+<area shape="rect" id="node19" href="$virtual__object_8c.html#a6337f6d729a7d0ac98fff9ea1c07c3c0" title="vid_db_value_size" alt="" coords="257,624,387,651"/>
+<area shape="rect" id="node20" href="$virtual__object_8c.html#add549d92b173f924aa4538f088ff1796" title="vid_pack_db_value" alt="" coords="255,675,389,702"/>
+<area shape="rect" id="node3" href="$fetch_8c.html#a6a331fd74c1c8c3fc931edc187f44047" title="fetch_peek_dbval" alt="" coords="671,98,795,124"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#a550ba39ad01765a4f0b7115fbb43f60c" title="heap_attrinfo_transform\l_to_disk_internal" alt="" coords="462,225,621,266"/>
+<area shape="rect" id="node9" href="$load__object_8h.html#a9d75c94d7a8cb332610ff2a82674ed89" title="desc_obj_to_disk" alt="" coords="480,304,603,331"/>
+<area shape="rect" id="node14" href="$list__file_8c.html#aaf94fe7fb3ac09fbda80afe028d848e5" title="qfile_save_normal_tuple" alt="" coords="460,486,623,512"/>
+<area shape="rect" id="node15" href="$list__file_8h.html#afe162faadd15ad9b5de00a51b123bfaa" title="qfile_copy_tuple_descr\l_to_tuple" alt="" coords="464,369,619,410"/>
+<area shape="rect" id="node16" href="$query__executor_8c.html#a88c76f42fcdb0493ad08df615f85f379" title="qexec_ordby_put_next" alt="" coords="465,435,618,462"/>
+</map>

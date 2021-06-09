@@ -1,0 +1,7 @@
+<map id="disk_add_volume_extension" name="disk_add_volume_extension">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a9d0b2321745fe1161be99609ac6a46d2" title="boot_parse_add_volume\l_extensions" alt="" coords="256,5,419,47"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#aecd8a2e1e45c5ccd6f369fcd13ae35bb" title="xboot_add_volume_extension" alt="" coords="240,71,435,98"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="497,13,663,39"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#a420e5a1096274ad90eeadd7c5d2edb39" title="boot_add_volume_extension" alt="" coords="487,67,673,94"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#a8575b0aff82934213a3b31d34302153e" title="sboot_add_volume_extension" alt="" coords="483,118,677,145"/>
+</map>

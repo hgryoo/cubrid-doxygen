@@ -1,0 +1,10 @@
+<map id="heap_create_insert_context" name="heap_create_insert_context">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="385,56,552,83"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a434286ee57ed9911f84a4281b750ccf9" title="heap_assign_address" alt="" coords="187,208,335,235"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#a7edbb4ad5b46dcfb8d7e5e37cd0be20b" title="heap_insert_newhome" alt="" coords="185,107,337,133"/>
+<area shape="rect" id="node8" href="$locator__sr_8h.html#a4ef4e207374578272aab7839343e3837" title="locator_insert_force" alt="" coords="193,157,329,184"/>
+<area shape="rect" id="node9" href="$tde_8h.html#adc0e07474f91e2ada267b6b083e0afab" title="tde_initialize" alt="" coords="214,5,309,32"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="600,56,751,83"/>
+<area shape="rect" id="node5" href="$catalog__class_8c.html#af8c9df2e6063f9d7b49b65709fd1d3ca" title="catcls_insert_instance" alt="" coords="393,183,545,209"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#a417f25f43010c99a55ce6c328927c681" title="xlocator_assign_oid" alt="" coords="400,233,537,260"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="is_server_insert_allowed" name="is_server_insert_allowed">
+<area shape="rect" id="node2" href="$execute__statement_8c.html#a11e2af1a0012fb413c4ca4f4a5c93c14" title="do_check_insert_server\l_allowed" alt="" coords="219,5,379,47"/>
+<area shape="rect" id="node3" href="$execute__statement_8c.html#a85e8dbc4b535c06c8b8520863eb93046" title="do_insert_checks" alt="" coords="237,71,361,98"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#afc8676086646494b31f8b100d05f13da" title="do_insert_template" alt="" coords="427,46,559,73"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#ac42fde5a83480adf42c2276a5b6c0c47" title="do_prepare_insert" alt="" coords="430,97,555,123"/>
+</map>

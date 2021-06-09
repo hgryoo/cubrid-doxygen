@@ -1,0 +1,17 @@
+<map id="fileio_make_backup_volume_info_name" name="fileio_make_backup_volume_info_name">
+<area shape="rect" id="node2" href="$file__io_8h.html#a6c1e88390161cd0276eadf505e78a28d" title="fileio_get_backup_volume" alt="" coords="192,43,364,69"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#adaf3756eb46d2f608fb945c678a665c8" title="logpb_restore" alt="" coords="451,56,551,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="204,144,352,171"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#aef2f79ba5cf874d653206f1a95017eb4" title="logpb_initialize_log\l_names" alt="" coords="213,363,343,405"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="412,633,591,674"/>
+<area shape="rect" id="node3" href="$util__sa_8c.html#ae523ae290e95cc481c7ae701392ca9b3" title="print_backup_info" alt="" coords="439,5,563,32"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="457,131,546,157"/>
+<area shape="rect" id="node8" href="$utility_8h.html#a24cb82c7693b92a6eb14285a1f9a89e3" title="alterdbhost" alt="" coords="458,181,545,208"/>
+<area shape="rect" id="node9" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="436,232,567,259"/>
+<area shape="rect" id="node10" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="430,283,573,309"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#a4eab49e93d9b7ef62c929efc625e5cec" title="logpb_fetch_header\l_from_active_log" alt="" coords="434,334,569,375"/>
+<area shape="rect" id="node12" href="$log__page__buffer_8c.html#ab7371310475254c74c342f3534ce1ec9" title="logpb_exist_log" alt="" coords="445,400,557,427"/>
+<area shape="rect" id="node14" href="$log__page__buffer_8c.html#a45020463486a6bde25e2428528cb5654" title="logpb_delete" alt="" coords="454,451,549,477"/>
+<area shape="rect" id="node15" href="$log__page__buffer_8c.html#af0077e22eb269a400d79c64622933628" title="logpb_check_exist_any\l_volumes" alt="" coords="422,502,581,543"/>
+<area shape="rect" id="node16" href="$log__page__buffer_8c.html#ae4e8d582d0a9a203bde7da29096cb726" title="logpb_remove_all_in\l_log_path" alt="" coords="431,567,571,609"/>
+</map>

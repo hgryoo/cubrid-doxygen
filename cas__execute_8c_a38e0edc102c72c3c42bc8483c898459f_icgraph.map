@@ -1,0 +1,10 @@
+<map id="ux_get_tran_setting" name="ux_get_tran_setting">
+<area shape="rect" id="node2" href="$cas__function_8h.html#a1500373f1d1958461d77d312a59b70ef" title="fn_get_db_parameter" alt="" coords="194,5,338,32"/>
+<area shape="rect" id="node3" href="$cas_8c.html#aa26111eda88b6eb96a57ef4330170447" title="set_db_parameter" alt="" coords="404,32,531,59"/>
+<area shape="rect" id="node7" href="$cas__execute_8h.html#ac78915e1b3aaad00dc639e634a821ee4" title="ux_get_default_setting" alt="" coords="189,107,343,133"/>
+<area shape="rect" id="node9" href="$cas__execute_8h.html#a1c80a0c9c5c1a9dd684ca1e938106d16" title="ux_set_default_setting" alt="" coords="391,157,544,184"/>
+<area shape="rect" id="node4" href="$cas_8c.html#a82a4271444049b1bd9184b82dcd506b4" title="process_request" alt="" coords="592,56,711,83"/>
+<area shape="rect" id="node5" href="$cas_8c.html#a860d9ee786081f5655e997ed55d494e8" title="cas_main" alt="" coords="778,107,857,133"/>
+<area shape="rect" id="node6" href="$cas_8c.html#ac8849983c74ee222d58f8f17b887755a" title="shard_cas_main" alt="" coords="759,56,876,83"/>
+<area shape="rect" id="node8" href="$cas__execute_8h.html#a2bfc849a249d18d8e67ad6840558e742" title="ux_database_connect" alt="" coords="393,107,542,133"/>
+</map>

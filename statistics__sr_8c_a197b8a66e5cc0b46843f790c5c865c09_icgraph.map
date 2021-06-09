@@ -1,0 +1,6 @@
+<map id="xstats_get_statistics_from_server" name="xstats_get_statistics_from_server">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#abc324d29024e9e9dc488a31a610912f3" title="sqst_server_get_statistics" alt="" coords="196,5,371,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#af2591032e1616c6977fb15fa3c618d2c" title="stats_get_statistics\l_from_server" alt="" coords="215,57,351,98"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="433,5,540,32"/>
+<area shape="rect" id="node5" href="$statistics__cl_8c.html#aad46bbf69924c2836838407e5cc3d227" title="stats_get_statistics" alt="" coords="419,64,555,91"/>
+</map>

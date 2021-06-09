@@ -1,0 +1,21 @@
+<map id="smt_add_query_spec" name="smt_add_query_spec">
+<area shape="rect" id="node2" href="$db__virt_8c.html#a10ceb10535a5f9c365c8ed1c55f535cf" title="db_add_query_spec" alt="" coords="202,457,341,484"/>
+<area shape="rect" id="node20" href="$dbi__compat_8h.html#ad0c2273a1a6569c971f763b34eecd6b6" title="dbt_add_query_spec" alt="" coords="200,508,343,535"/>
+<area shape="rect" id="node3" href="$boot__cl_8c.html#a8a92fabaf098a2519be1ea8fb62e3491" title="boot_define_view_attribute" alt="" coords="404,5,581,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8c.html#a83bd7674f5621e79c82f7d9060489cc4" title="boot_define_view_attribute\l_set_domain" alt="" coords="404,57,581,98"/>
+<area shape="rect" id="node5" href="$boot__cl_8c.html#a419cb52e671dcd7e71fae8109bdb0808" title="boot_define_view_authorization" alt="" coords="391,123,595,149"/>
+<area shape="rect" id="node6" href="$boot__cl_8c.html#a67c067fc2db390d9289a42ed66fb958f" title="boot_define_view_class" alt="" coords="412,173,573,200"/>
+<area shape="rect" id="node7" href="$boot__cl_8c.html#a5ee22c0c82bc149576831660465c2916" title="boot_define_view_db\l_charset" alt="" coords="421,225,565,266"/>
+<area shape="rect" id="node8" href="$boot__cl_8c.html#a74159c51f6a6b00cee0ea619faee63d8" title="boot_define_view_db\l_collation" alt="" coords="421,290,565,331"/>
+<area shape="rect" id="node9" href="$boot__cl_8c.html#a864edb20af8541130535690e2e075b29" title="boot_define_view_index" alt="" coords="412,356,573,383"/>
+<area shape="rect" id="node10" href="$boot__cl_8c.html#add2d127d43305cac646b88f119f77bc9" title="boot_define_view_index_key" alt="" coords="398,407,587,433"/>
+<area shape="rect" id="node11" href="$boot__cl_8c.html#a2888aaae43d3ad0542e1bab49d76cfc8" title="boot_define_view_method" alt="" coords="406,457,579,484"/>
+<area shape="rect" id="node12" href="$boot__cl_8c.html#a89fa5be5acb7e3aa91c0328260119fb1" title="boot_define_view_method\l_argument" alt="" coords="406,509,579,550"/>
+<area shape="rect" id="node13" href="$boot__cl_8c.html#a331e4298fbdca6c5302e824a8cd3e391" title="boot_define_view_method\l_argument_set_domain" alt="" coords="406,574,579,615"/>
+<area shape="rect" id="node14" href="$boot__cl_8c.html#ad0658419aaf5d9b034fc9420ce06d9f8" title="boot_define_view_method_file" alt="" coords="394,640,591,667"/>
+<area shape="rect" id="node15" href="$boot__cl_8c.html#afa017e4140751890da5d3b790c6dca06" title="boot_define_view_partition" alt="" coords="405,691,581,717"/>
+<area shape="rect" id="node16" href="$boot__cl_8c.html#a5a01f45a2b6977d59fb2b549e3e8e6f8" title="boot_define_view_stored\l_procedure" alt="" coords="409,742,576,783"/>
+<area shape="rect" id="node17" href="$boot__cl_8c.html#a50cd03f17d599598198535a3302babaf" title="boot_define_view_stored\l_procedure_arguments" alt="" coords="409,807,576,849"/>
+<area shape="rect" id="node18" href="$boot__cl_8c.html#aeb45b4ab01b9741fc3be9902078f833a" title="boot_define_view_super\l_class" alt="" coords="411,873,574,914"/>
+<area shape="rect" id="node19" href="$boot__cl_8c.html#a9f0563b4bf380d5dc249fa9b14ccf28c" title="boot_define_view_trigger" alt="" coords="409,939,576,965"/>
+</map>

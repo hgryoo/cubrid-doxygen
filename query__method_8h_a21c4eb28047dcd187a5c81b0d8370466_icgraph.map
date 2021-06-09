@@ -1,0 +1,7 @@
+<map id="method_send_error_to_server" name="method_send_error_to_server">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a2deda16a5fdfddae06f2b7cd1b0775f9" title="net_client_request\l_with_callback" alt="" coords="204,74,332,115"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a4063b720c7c3f62d788ba8ce6c1d6fe1" title="boot_backup" alt="" coords="425,5,521,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a8c88eb493c78aba75ab2ed7999117268" title="boot_check_db_consistency" alt="" coords="380,56,567,83"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#af5588ff08bd4f5d52ccbf0219200ce0d" title="qmgr_execute_query" alt="" coords="402,107,545,133"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#aa1d13fdaaabf04f020e83a9070f3d05c" title="qmgr_prepare_and_execute\l_query" alt="" coords="382,158,565,199"/>
+</map>

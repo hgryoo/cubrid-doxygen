@@ -1,0 +1,7 @@
+<map id="resultset_impl_s" name="resultset_impl_s">
+<area shape="rect" id="node2" href="$structresultset__meta__impl__s.html" title="{resultset_meta_impl_s\n|+ COMMON_RESULTSET_META\l_HEADER\l|}" alt="" coords="151,865,378,957"/>
+<area shape="rect" id="node3" href="$structvalue__indexer__s.html" title="{value_indexer_s\n||}" alt="" coords="16,321,132,399"/>
+<area shape="rect" id="node4" href="$structvalue__indexer__ifs__s.html" title="{value_indexer_ifs_s\n|+ check\l+ length\l+ get\l+ set\l+ map\l+ insert\l+ delete\l+ destroy\l|}" alt="" coords="5,5,143,185"/>
+<area shape="rect" id="node5" href="$structcommon__api__structure__s.html" title="{common_api_structure_s\n|+ COMMON_API_STRUCTURE\l_HEADER\l|}" alt="" coords="157,314,373,406"/>
+<area shape="rect" id="node6" href="$structbh__interface__s.html" title="{bh_interface_s\n|+ alloc_handle\l+ destroy_handle\l+ lookup\l+ bind_to_handle\l+ bind_get_parent\l+ bind_prune\l+ bind_graft\l+ bind_get_first_child\l+ bind_get_next_sibling\l+ bind_map\l+ destroy\l|}" alt="" coords="397,248,556,472"/>
+</map>

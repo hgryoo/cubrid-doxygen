@@ -1,0 +1,6 @@
+<map id="log_create_internal" name="log_create_internal">
+<area shape="rect" id="node2" href="$log__manager_8h.html#ad2eeada203e066baffcd4c6207a573b8" title="log_create" alt="" coords="189,5,272,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="184,56,277,83"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="325,5,492,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="327,56,491,83"/>
+</map>

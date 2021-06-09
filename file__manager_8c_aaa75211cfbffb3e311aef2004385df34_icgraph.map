@@ -1,0 +1,12 @@
+<map id="file_extdata_append" name="file_extdata_append">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="238,81,321,108"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#a73d7f335d0b5680c0f40feccb2d4d936" title="file_numerable_add_page" alt="" coords="415,259,584,285"/>
+<area shape="rect" id="node8" href="$file__manager_8c.html#a809af1534543d29a6f24183047377085" title="file_perm_dealloc" alt="" coords="218,183,341,209"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#aa40e735a48654f112a4539b5969bada9" title="file_perm_expand" alt="" coords="217,233,341,260"/>
+<area shape="rect" id="node10" href="$file__manager_8h.html#a0ca3928abc45e55a564955bdc8051d9f" title="file_rv_perm_expand_redo" alt="" coords="192,284,367,311"/>
+<area shape="rect" id="node11" href="$file__manager_8c.html#a3caedf6598ee654efb9b8be761cc8edc" title="file_temp_alloc" alt="" coords="225,335,334,361"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a76b48022b881809b35f193418dcc8aba" title="file_create_with_npages" alt="" coords="418,5,581,32"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a64196cd150853d3b210a8f55740f0839" title="file_create_temp_internal" alt="" coords="416,56,583,83"/>
+<area shape="rect" id="node5" href="$file__manager_8h.html#aa6e3dfe54417c209a4ceaf419a916848" title="file_create_ehash" alt="" coords="437,107,561,133"/>
+<area shape="rect" id="node6" href="$file__manager_8h.html#ac26203672282f7ce035695376bcfe3ca" title="file_create_ehash_dir" alt="" coords="427,157,572,184"/>
+</map>

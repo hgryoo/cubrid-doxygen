@@ -1,0 +1,10 @@
+<map id="src/base/locale_lib_common.h" name="src/base/locale_lib_common.h">
+<area shape="rect" id="node2" href="$locale__support_8h.html" title="src/base/locale_support.h" alt="" coords="257,95,428,121"/>
+<area shape="rect" id="node3" href="$intl__support_8h.html" title="src/base/intl_support.h" alt="" coords="380,169,535,196"/>
+<area shape="rect" id="node4" href="$language__support_8h.html" title="src/base/language_support.h" alt="" coords="312,244,501,271"/>
+<area shape="rect" id="node5" href="$locale__support_8c.html" title="src/base/locale_support.c" alt="" coords="5,319,176,345"/>
+<area shape="rect" id="node6" href="$unicode__support_8c.html" title="src/base/unicode_support.c" alt="" coords="447,319,630,345"/>
+<area shape="rect" id="node7" href="$uca__support_8c.html" title="src/base/uca_support.c" alt="" coords="129,244,287,271"/>
+<area shape="rect" id="node8" href="$uca__support_8h.html" title="src/base/uca_support.h" alt="" coords="95,169,254,196"/>
+<area shape="rect" id="node9" href="$util__sa_8c.html" title="src/executables/util_sa.c" alt="" coords="627,169,794,196"/>
+</map>

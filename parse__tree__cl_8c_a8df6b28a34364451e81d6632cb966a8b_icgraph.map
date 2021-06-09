@@ -1,0 +1,16 @@
+<map id="parser_print_tree_with_quotes" name="parser_print_tree_with_quotes">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a7301e4778a8d9b62521a112f92d02351" title="add_query_to_virtual\l_class" alt="" coords="216,5,359,47"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="217,71,358,112"/>
+<area shape="rect" id="node5" href="$execute__statement_8c.html#adb602fa719b969b5e0bc920bf6096f9e" title="get_activity_info" alt="" coords="229,137,346,163"/>
+<area shape="rect" id="node7" href="$parser_8h.html#a34b47f92f1cc4c3b2ec2e9e850a2eaeb" title="parser_print_function\l_index_expr" alt="" coords="216,188,359,229"/>
+<area shape="rect" id="node11" href="$execute__schema_8c.html#a82b3a85755f833c14e36818fb52eb519" title="pt_node_to_function\l_index" alt="" coords="218,253,357,295"/>
+<area shape="rect" id="node12" href="$execute__schema_8c.html#a9f2af464afc304581eafc189be1b9a1b" title="pt_node_to_partition_info" alt="" coords="204,319,371,346"/>
+<area shape="rect" id="node13" href="$parser_8h.html#a8da2d0f0baee285c2fa2b8bd2d92f3ff" title="pt_print_query_spec\l_no_list" alt="" coords="218,371,357,412"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a25024380f0c7a50a4a9b29b58d990b6e" title="add_union_query" alt="" coords="449,13,569,39"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a4031e13892e89e8a3b919278737eded3" title="do_create_trigger" alt="" coords="447,95,570,122"/>
+<area shape="rect" id="node8" href="$query__graph_8c.html#a9f6cc31a9a487652c9b5a06731400662" title="build_query_graph_function\l_index" alt="" coords="419,147,599,188"/>
+<area shape="rect" id="node9" href="$query__graph_8c.html#a47247a7ac61fc0bec90c177303e0e678" title="lookup_seg" alt="" coords="465,213,553,239"/>
+<area shape="rect" id="node10" href="$name__resolution_8c.html#a7044df2a44ec48259e0cf7d179bf761d" title="pt_mark_function_index\l_expression" alt="" coords="429,264,589,305"/>
+<area shape="rect" id="node14" href="$unload__schema_8c.html#ae700ca8c1f790a3eefa5e3b57d926fa7" title="emit_query_specs" alt="" coords="445,349,573,375"/>
+<area shape="rect" id="node15" href="$unload__schema_8c.html#a6e4a9939f83a885ca5f80a66f11a6db8" title="emit_query_specs_has\l_using_index" alt="" coords="431,400,587,441"/>
+</map>

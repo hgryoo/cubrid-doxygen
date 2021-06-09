@@ -1,0 +1,7 @@
+<map id="classobj_is_pk_referred" name="classobj_is_pk_referred">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a3d065088ea9aebd736b48d0427c4c604" title="do_alter_partitioning_pre" alt="" coords="212,13,375,39"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="217,87,369,114"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="227,138,359,165"/>
+<area shape="rect" id="node6" href="$schema__template_8h.html#a729f3cf206dcd5a087846dc7bc4d552a" title="smt_drop_constraint" alt="" coords="223,189,363,215"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="423,5,564,47"/>
+</map>

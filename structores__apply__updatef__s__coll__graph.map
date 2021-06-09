@@ -1,0 +1,8 @@
+<map id="ores_apply_updatef_s" name="ores_apply_updatef_s">
+<area shape="rect" id="node2" href="$structapi__val__cci__bind__s.html" title="{api_val_cci_bind_s\n|+ conn\l+ flag\l+ atype\l+ value\l+ redirected\l+ bit_val\l+ data_val\l+ int_val\l+ cp\l+ oid_buf\l+ tset\l+ redirect\l|}" alt="" coords="5,307,137,545"/>
+<area shape="rect" id="node3" href="$structresultset__impl__s.html" title="{resultset_impl_s\n|+ COMMON_RESULTSET_HEADER\l+ updatable\l+ conn\l+ req_handle\l+ err_buf\l+ arg\l+ on_close\l+ offset\l+ fetched\l+ got_rm_handle\l+ rm_handle\l+ num_col\l+ cmd_type\l+ col_info\l|}" alt="" coords="161,292,408,560"/>
+<area shape="rect" id="node4" href="$structresultset__meta__impl__s.html" title="{resultset_meta_impl_s\n|+ COMMON_RESULTSET_META\l_HEADER\l|}" alt="" coords="191,630,418,722"/>
+<area shape="rect" id="node5" href="$structvalue__indexer__s.html" title="{value_indexer_s\n||}" alt="" coords="36,79,152,156"/>
+<area shape="rect" id="node6" href="$structcommon__api__structure__s.html" title="{common_api_structure_s\n|+ COMMON_API_STRUCTURE\l_HEADER\l|}" alt="" coords="177,71,393,163"/>
+<area shape="rect" id="node7" href="$structbh__interface__s.html" title="{bh_interface_s\n|+ alloc_handle\l+ destroy_handle\l+ lookup\l+ bind_to_handle\l+ bind_get_parent\l+ bind_prune\l+ bind_graft\l+ bind_get_first_child\l+ bind_get_next_sibling\l+ bind_map\l+ destroy\l|}" alt="" coords="417,5,576,229"/>
+</map>

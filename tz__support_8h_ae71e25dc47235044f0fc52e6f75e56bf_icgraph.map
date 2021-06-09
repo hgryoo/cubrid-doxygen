@@ -1,0 +1,14 @@
+<map id="tz_str_to_region" name="tz_str_to_region">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#a7471eda511603e925ffb03b2450e2bed" title="db_from_tz" alt="" coords="229,56,316,83"/>
+<area shape="rect" id="node5" href="$system__parameter_8c.html#aeb766c3f75b6f9f14c54acc8fa40bab3" title="prm_load_by_section" alt="" coords="868,216,1013,243"/>
+<area shape="rect" id="node7" href="$system__parameter_8c.html#a52fb22056571707425b9532f09ab4112" title="sysprm_generate_new\l_value" alt="" coords="439,158,592,199"/>
+<area shape="rect" id="node10" href="$system__parameter_8c.html#aab854719c32fdcf0913994ea92127b0d" title="sysprm_get_id" alt="" coords="219,208,326,235"/>
+<area shape="rect" id="node11" href="$system__parameter_8c.html#ab48c1182bb4c9d3cf9b308648452949a" title="sysprm_set_value" alt="" coords="451,107,579,133"/>
+<area shape="rect" id="node12" href="$tz__support_8h.html#af07d82a43fba29ce92dd94e5794d1ef4" title="tz_conv_tz_datetime\l_w_zone_name" alt="" coords="201,326,344,367"/>
+<area shape="rect" id="node13" href="$tz__support_8h.html#a2809a1d6e1b67c559f4f0ae6fda95d04" title="tz_conv_tz_time_w_zone_name" alt="" coords="168,5,377,32"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="425,5,605,32"/>
+<area shape="rect" id="node4" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="456,56,575,83"/>
+<area shape="rect" id="node6" href="$system__parameter_8c.html#aef60e7f0f0cc8041a2886d5d164b3052" title="prm_read_and_parse\l_ini_file" alt="" coords="1061,209,1204,250"/>
+<area shape="rect" id="node8" href="$system__parameter_8c.html#ad22fdde48ffe1d6d1d9a2630702d8acc" title="prm_set" alt="" coords="702,157,771,184"/>
+<area shape="rect" id="node9" href="$system__parameter_8h.html#ac98d47f74e37f6645e2c28b25d7e6000" title="sysprm_validate_change\l_parameters" alt="" coords="653,209,820,250"/>
+</map>

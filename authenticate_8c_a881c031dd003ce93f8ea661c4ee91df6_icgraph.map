@@ -1,0 +1,7 @@
+<map id="init_caches" name="init_caches">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a673e8c5c1cdb7debc96f07afdf5741ca" title="au_init" alt="" coords="291,5,351,32"/>
+<area shape="rect" id="node5" href="$authenticate_8c.html#ae5928817a0ecb230c5f81f7c738594b0" title="flush_caches" alt="" coords="141,56,240,83"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="403,5,541,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="407,56,537,83"/>
+<area shape="rect" id="node6" href="$authenticate_8h.html#a00d95e30925a6f578ea39f503159ad93" title="au_final" alt="" coords="288,56,355,83"/>
+</map>

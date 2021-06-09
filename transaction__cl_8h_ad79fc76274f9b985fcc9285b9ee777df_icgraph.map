@@ -1,0 +1,21 @@
+<map id="tran_savepoint_internal" name="tran_savepoint_internal">
+<area shape="rect" id="node2" href="$db__admin_8c.html#a4fe159c8bad9cbadeaa8f38ac1a6208c" title="db_savepoint_transaction\l_internal" alt="" coords="209,49,380,90"/>
+<area shape="rect" id="node5" href="$transaction__cl_8h.html#ae81eb55d08b1bc4fdf9cdbebf0532c54" title="tran_system_savepoint" alt="" coords="216,484,373,511"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a969ee18a5fc01e638f1a2d7c016d712a" title="db_savepoint_transaction" alt="" coords="431,56,602,83"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a9a4f7d719708f5a3df441e4c063707c3" title="do_savepoint" alt="" coords="467,5,566,32"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#aee88046198ed8215f4873a60e4a1350e" title="dbt_rename" alt="" coords="471,208,562,235"/>
+<area shape="rect" id="node7" href="$jsp__cl_8h.html#a8771e1dbd7f121c9e507c5035e657792" title="jsp_create_stored_procedure" alt="" coords="653,284,843,311"/>
+<area shape="rect" id="node8" href="$jsp__cl_8c.html#a492fc77e32ed00bc045be5703c4aba55" title="jsp_add_stored_procedure" alt="" coords="429,259,604,285"/>
+<area shape="rect" id="node9" href="$authenticate_8h.html#a7967cf08e852e8e2e5157c4524260686" title="au_grant" alt="" coords="481,384,553,411"/>
+<area shape="rect" id="node10" href="$authenticate_8h.html#af2cbcb3deb351ad5c3dafaa7dc2ff290" title="au_revoke" alt="" coords="475,459,558,485"/>
+<area shape="rect" id="node11" href="$authenticate_8h.html#a452d87c038c1682017cf8844bfa99bd2" title="au_change_owner_method" alt="" coords="428,509,605,536"/>
+<area shape="rect" id="node12" href="$object__template_8h.html#a8a4844db8f8b024d75d7fd680e450801" title="obt_update_internal" alt="" coords="449,560,584,587"/>
+<area shape="rect" id="node13" href="$schema__manager_8h.html#a53bb6f39da1ec8a04f7f61a2ae90ef85" title="sm_rename_class" alt="" coords="453,611,581,637"/>
+<area shape="rect" id="node14" href="$schema__manager_8c.html#af5d108d7bc0dbdecea7edd27580dbfe0" title="update_class" alt="" coords="467,661,566,688"/>
+<area shape="rect" id="node15" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="441,736,593,763"/>
+<area shape="rect" id="node16" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="460,861,573,888"/>
+<area shape="rect" id="node17" href="$schema__manager_8c.html#ae946e6aefead200daf0e5ddbc5fcd417" title="sm_add_secondary_index\l_on_partition" alt="" coords="661,775,835,817"/>
+<area shape="rect" id="node18" href="$schema__manager_8h.html#ac770726929bfb229a6fde8c58f2e1374" title="sm_add_constraint" alt="" coords="891,783,1023,809"/>
+<area shape="rect" id="node19" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="1071,783,1203,809"/>
+<area shape="rect" id="node20" href="$schema__manager_8h.html#a46905b698e1a61916384860ef3f740ce" title="sm_drop_index" alt="" coords="693,865,803,892"/>
+</map>

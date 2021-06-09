@@ -1,0 +1,21 @@
+<map id="logtb_get_number_of_total_tran_indices" name="logtb_get_number_of_total_tran_indices">
+<area shape="rect" id="node2" href="$classmvcctable.html#a1e79822f3d2c5b004581dc7c6d9ca353" title="mvcctable::alloc_transaction\l_lowest_active" alt="" coords="196,45,384,86"/>
+<area shape="rect" id="node5" href="$classmvcctable.html#abb49acd267780e611121af87fcaf1431" title="mvcctable::build_mvcc_info" alt="" coords="660,203,844,229"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#ae588cc6f7ac64f156742e369d3a96cc8" title="file_tempcache_final" alt="" coords="219,293,361,320"/>
+<area shape="rect" id="node8" href="$file__manager_8c.html#a23ff12c8b2fe196a8a0e8d96aeb27b86" title="file_tempcache_init" alt="" coords="223,344,357,371"/>
+<area shape="rect" id="node9" href="$heap__file_8c.html#a703d3215a6e96a95b300fdf291e1e8f6" title="heap_chnguess_initialize" alt="" coords="207,445,373,472"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#ae6beb99cf2079e11b1dccc51763f02cb" title="heap_chnguess_realloc" alt="" coords="443,395,601,421"/>
+<area shape="rect" id="node14" href="$heap__file_8c.html#af6a3d5e7d80ea339e2024a73192a9c43" title="heap_chnguess_remove\l_entry" alt="" coords="209,547,371,589"/>
+<area shape="rect" id="node16" href="$structmvcc__active__tran.html#a9b2aeae5ab421381290367736582b7bf" title="mvcc_active_tran::long\l_tran_max_size" alt="" coords="211,227,369,269"/>
+<area shape="rect" id="node20" href="$query__manager_8h.html#af4f328c92e903e58012d29296381edd5" title="qmgr_initialize" alt="" coords="469,496,575,523"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a9d858c98e9a769b71176ddb505acddfd" title="logtb_expand_trantable" alt="" coords="444,56,600,83"/>
+<area shape="rect" id="node4" href="$classmvcctable.html#a89d9a0f06b1ebb64f6cd77ed849d8038" title="mvcctable::initialize" alt="" coords="453,5,591,32"/>
+<area shape="rect" id="node7" href="$file__manager_8h.html#abde60a77fc4cab736f5d7bc9ccc3bc28" title="file_manager_final" alt="" coords="459,344,585,371"/>
+<area shape="rect" id="node11" href="$heap__file_8h.html#a1bd47a9dfa569f39c05bbbdccff9ae9b" title="heap_manager_initialize" alt="" coords="441,445,603,472"/>
+<area shape="rect" id="node12" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="669,445,835,472"/>
+<area shape="rect" id="node13" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="685,496,819,523"/>
+<area shape="rect" id="node15" href="$heap__file_8c.html#a58561b68a4f778b543f4f6796317f13f" title="heap_chnguess_decache" alt="" coords="437,555,607,581"/>
+<area shape="rect" id="node17" href="$structmvcc__active__tran.html#af6430c70ff82dd216ef234318aae0c83" title="mvcc_active_tran::initialize" alt="" coords="432,293,612,320"/>
+<area shape="rect" id="node18" href="$structmvcc__active__tran.html#a485334b56b28182ef7a62757f3a27d60" title="mvcc_active_tran::add\l_long_transaction" alt="" coords="445,227,599,269"/>
+<area shape="rect" id="node19" href="$structmvcc__active__tran.html#affcc854b119d8a202e6429e97fbdb82f" title="mvcc_active_tran::set\l_bitarea_mvccid" alt="" coords="447,162,597,203"/>
+</map>

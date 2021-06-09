@@ -1,0 +1,10 @@
+<map id="catcls_get_subset" name="catcls_get_subset">
+<area shape="rect" id="node2" href="$catalog__class_8c.html#a20b67129e6b35baa140e4105f7f9ae75" title="catcls_convert_attr\l_id_to_name" alt="" coords="184,5,317,47"/>
+<area shape="rect" id="node4" href="$catalog__class_8c.html#a84555f5478d1bbab02c00fce5c73fbae" title="catcls_get_or_value\l_from_class" alt="" coords="979,92,1117,133"/>
+<area shape="rect" id="node5" href="$catalog__class_8c.html#a7d582bb9c89ad8c12586b7d4f9da0fbe" title="catcls_get_or_value\l_from_attribute" alt="" coords="382,123,521,164"/>
+<area shape="rect" id="node6" href="$catalog__class_8c.html#aedfe9f2db3867cad7afc8362d6e72c44" title="catcls_get_or_value\l_from_domain" alt="" coords="181,173,320,215"/>
+<area shape="rect" id="node7" href="$catalog__class_8c.html#a9b59b40bee738607ab7f47baaac4f445" title="catcls_get_or_value\l_from_method_argument" alt="" coords="368,224,535,265"/>
+<area shape="rect" id="node8" href="$catalog__class_8c.html#ab5c086ec39b9f9581f7c909c85635e03" title="catcls_get_or_value\l_from_method_signiture" alt="" coords="583,249,744,291"/>
+<area shape="rect" id="node9" href="$catalog__class_8c.html#a181bda4e0bcee78fd6ac8e8f5877f0ca" title="catcls_get_or_value\l_from_method" alt="" coords="792,249,931,291"/>
+<area shape="rect" id="node3" href="$catalog__class_8c.html#aca10d357f5b8433a158819ee1db433e2" title="catcls_get_property_set" alt="" coords="583,18,744,45"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="or_get_set_header" name="or_get_set_header">
+<area shape="rect" id="node2" href="$object__primitive_8c.html#a94216dda8b74e100668aea330218d24a" title="mr_data_readval_set" alt="" coords="374,23,517,49"/>
+<area shape="rect" id="node5" href="$object__representation_8c.html#aa7112174be8993f322ebd1fa6dcdafbb" title="or_disk_set_size" alt="" coords="190,73,310,100"/>
+<area shape="rect" id="node6" href="$object__representation_8c.html#ab0630175dddb661d6b5a4fbe4aaed245" title="or_get_set" alt="" coords="209,124,291,151"/>
+<area shape="rect" id="node10" href="$object__representation_8c.html#a71501fc86a8533cd33f8feb742808af9" title="or_skip_set_header" alt="" coords="183,327,317,353"/>
+<area shape="rect" id="node3" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="776,15,916,57"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a345362f97cfe7ca5057d93376435c13a" title="mr_data_readval_vobj" alt="" coords="576,23,725,49"/>
+<area shape="rect" id="node7" href="$object__primitive_8c.html#a7259e27db7626e27f7387e60fd32206b" title="mr_data_readmem_set" alt="" coords="573,73,728,100"/>
+<area shape="rect" id="node8" href="$object__representation_8c.html#acfae7e195ccf5245d5c43e4cbaaf0a0a" title="or_unpack_set" alt="" coords="392,124,499,151"/>
+<area shape="rect" id="node9" href="$set__object_8h.html#a01aeb8b23b9b891629c1a9c201b3cbdf" title="set_tform_disk_set" alt="" coords="379,175,512,201"/>
+<area shape="rect" id="node11" href="$object__representation_8c.html#afc2528c302d332029c608e0051848365" title="or_get_enumeration" alt="" coords="377,225,513,252"/>
+<area shape="rect" id="node12" href="$transform__cl_8c.html#a352a819670078925f67dbf41f46c6a94" title="get_object_set" alt="" coords="392,276,499,303"/>
+<area shape="rect" id="node13" href="$transform__cl_8c.html#a843cb788c55f59e7ca16290c804544b0" title="get_substructure_set" alt="" coords="373,327,517,353"/>
+<area shape="rect" id="node14" href="$transform__cl_8c.html#ae3c335836272d388cf85de41b491d259" title="install_substructure_set" alt="" coords="365,377,525,404"/>
+<area shape="rect" id="node15" href="$catalog__class_8c.html#afbe6716d19654258c0a0d7394fc733db" title="catcls_get_subset" alt="" coords="381,428,509,455"/>
+<area shape="rect" id="node16" href="$catalog__class_8c.html#a607be0a594e58483f6ffd7dbfd4e559e" title="catcls_get_object_set" alt="" coords="371,479,520,505"/>
+</map>

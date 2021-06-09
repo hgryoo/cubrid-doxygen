@@ -1,0 +1,9 @@
+<map id="css_sockopt" name="css_sockopt">
+<area shape="rect" id="node2" href="$wintcp_8h.html#a22e90293a03bb7cb9bb344d4d3a965c7" title="css_open_new_socket\l_from_master" alt="" coords="149,5,304,47"/>
+<area shape="rect" id="node4" href="$wintcp_8h.html#a69e00865f5c8127a90eba841ff15d42f" title="css_tcp_client_open\l_with_retry" alt="" coords="156,136,297,177"/>
+<area shape="rect" id="node8" href="$tcp_8h.html#a6af7acfd1884e8fc9af6be3ce1c88e16" title="css_tcp_client_open\l_with_timeout" alt="" coords="156,71,297,112"/>
+<area shape="rect" id="node3" href="$server__support_8c.html#ac2cd29547215949b8aa651ad772b5faf" title="css_process_new_client" alt="" coords="352,13,517,39"/>
+<area shape="rect" id="node5" href="$connection__cl_8c.html#a0d1affc4b4f269c9fcf5930c01ad2b07" title="css_common_connect" alt="" coords="358,85,511,111"/>
+<area shape="rect" id="node6" href="$connection__cl_8h.html#ad49a3fc93a06b5f1c6a1810de4741c4b" title="css_does_master_exist" alt="" coords="355,139,515,166"/>
+<area shape="rect" id="node7" href="$wintcp_8h.html#a3f8830d85ca22a3160ed80d09708bffa" title="css_tcp_client_open" alt="" coords="364,190,505,217"/>
+</map>

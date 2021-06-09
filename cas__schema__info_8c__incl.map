@@ -1,0 +1,12 @@
+<map id="src/broker/cas_schema_info.c" name="src/broker/cas_schema_info.c">
+<area shape="rect" id="node3" href="$cas_8h.html" title="cas.h" alt="" coords="297,244,352,271"/>
+<area shape="rect" id="node7" href="$cas__common_8h.html" title="cas_common.h" alt="" coords="5,319,116,345"/>
+<area shape="rect" id="node8" href="$cas__schema__info_8h.html" title="cas_schema_info.h" alt="" coords="413,95,548,121"/>
+<area shape="rect" id="node10" href="$cas__net__buf_8h.html" title="cas_net_buf.h" alt="" coords="382,169,486,196"/>
+<area shape="rect" id="node11" href="$language__support_8h.html" title="language_support.h" alt="" coords="600,95,735,121"/>
+<area shape="rect" id="node4" href="$broker__shm_8h.html" title="broker_shm.h" alt="" coords="141,319,242,345"/>
+<area shape="rect" id="node5" href="$cas__protocol_8h.html" title="cas_protocol.h" alt="" coords="330,393,437,420"/>
+<area shape="rect" id="node9" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="509,319,607,345"/>
+<area shape="rect" id="node13" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="573,169,673,196"/>
+<area shape="rect" id="node14" href="$locale__support_8h.html" title="locale_support.h" alt="" coords="623,244,741,271"/>
+</map>

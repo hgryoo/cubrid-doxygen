@@ -1,0 +1,14 @@
+<map id="db_get_next_error" name="db_get_next_error">
+<area shape="rect" id="node2" href="$csql__support_8c.html#a9a31db50a2ef2c35b233ee31224c4c08" title="csql_display_session_err" alt="" coords="180,5,348,32"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#a2f479c7755c512521e37e7bf27b78436" title="db_open_buffer_and\l_compile_first_statement" alt="" coords="180,57,348,98"/>
+<area shape="rect" id="node7" href="$load__db_8c.html#a5671984042276ef3b0d96e39f9f1f02b" title="ldr_exec_query_from_file" alt="" coords="181,123,347,149"/>
+<area shape="rect" id="node8" href="$db__stub_8c.html#a1270305253397f2df6f248228ca271c1" title="stmt_exec_batch_query\l_internal" alt="" coords="183,174,345,215"/>
+<area shape="rect" id="node9" href="$db__stub_8c.html#ab850933ab338cf8afe135396ea1ef410" title="stmt_make_error_info" alt="" coords="190,240,338,267"/>
+<area shape="rect" id="node3" href="$csql_8c.html#a192cd886b7f5ff7c78d6e1e0f91f8c6a" title="display_error" alt="" coords="436,5,532,32"/>
+<area shape="rect" id="node5" href="$db__vdb_8c.html#a78481e1554c3d1807c07bcb8bfc7cd54" title="db_compile_and_execute\l_queries_internal" alt="" coords="399,57,569,98"/>
+<area shape="rect" id="node6" href="$db__query_8h.html#a5939664a0d49b1cd82321d2df2ff2763" title="db_execute_with_values" alt="" coords="401,123,567,149"/>
+<area shape="rect" id="node10" href="$db__stub_8c.html#ab6dd11ba08b0b0486c25f266f40e9c75" title="stmt_exec_internal" alt="" coords="418,181,550,208"/>
+<area shape="rect" id="node11" href="$db__stub_8c.html#a316bbdc5f4f9519839b0c186665856e6" title="stmt_exec_one_statement" alt="" coords="396,232,572,259"/>
+<area shape="rect" id="node12" href="$db__stub_8c.html#a7fe6b2c90c8229bff396b2db348b9d39" title="stmt_prepare_internal" alt="" coords="620,312,767,339"/>
+<area shape="rect" id="node13" href="$db__stub_8c.html#ad65f0e93570d9b15493d41f278c410ec" title="stmt_reset_session\l_and_parse" alt="" coords="416,334,552,375"/>
+</map>

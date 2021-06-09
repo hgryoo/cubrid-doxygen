@@ -1,0 +1,7 @@
+<map id="xsession_delete_prepared_statement" name="xsession_delete_prepared_statement">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a2293abbefc58f9fc9d2037cd39896fb5" title="csession_delete_prepared\l_statement" alt="" coords="227,67,400,108"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#a650a031bfa51e6dd1296d274a49f8523" title="ssession_delete_prepared\l_statement" alt="" coords="227,132,400,173"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#ac69f13e43ae60dcbdb63c3e77ba2c017" title="do_process_prepare\l_statement" alt="" coords="456,5,595,47"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#ab0afbae6e8a69c4dd874b7895f5f3623" title="do_process_deallocate\l_prepare" alt="" coords="448,71,603,112"/>
+<area shape="rect" id="node6" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="472,139,579,166"/>
+</map>

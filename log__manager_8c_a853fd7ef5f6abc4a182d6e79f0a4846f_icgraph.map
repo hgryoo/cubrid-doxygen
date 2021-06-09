@@ -1,0 +1,13 @@
+<map id="log_append_postpone" name="log_append_postpone">
+<area shape="rect" id="node2" href="$btree_8c.html#abcc33a3d95c509752b338759a9833265" title="btree_insert_mvcc_delid\l_into_page" alt="" coords="219,5,381,47"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#a845aa2865d00b628feca7f496e21b92d" title="disk_stab_unit_unreserve" alt="" coords="215,71,385,98"/>
+<area shape="rect" id="node5" href="$file__manager_8h.html#a67263eaf010a14799dbb1527f9a1327d" title="file_dealloc" alt="" coords="257,122,343,149"/>
+<area shape="rect" id="node6" href="$file__manager_8h.html#a28b2e651b364c8fe73d52f178bbe8fe0" title="file_postpone_destroy" alt="" coords="225,223,375,250"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a98b937ca0375b4d55ef3c1daeee35785" title="xbtree_delete_index" alt="" coords="457,219,596,246"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#a816077d2fcf52e1e8536a9e77355ecdf" title="xheap_destroy_newly\l_created" alt="" coords="453,271,601,312"/>
+<area shape="rect" id="node9" href="$heap__file_8c.html#a39452d0770e56fac7920a1eef55d75b9" title="heap_delete_relocation" alt="" coords="449,401,604,427"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#a2c31657df36a10a573c448e212e86c54" title="heap_log_delete_physical" alt="" coords="215,426,385,453"/>
+<area shape="rect" id="node11" href="$heap__file_8h.html#a819f0e5a452505a2e9bee1bc6f62706d" title="heap_log_postpone_heap\l_append_pages" alt="" coords="215,477,385,519"/>
+<area shape="rect" id="node12" href="$vacuum_8h.html#a88dbf12a43d074592c10fdb0792caac5" title="vacuum_log_add_dropped_file" alt="" coords="201,274,399,301"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a7c891b2128c275efa585ecd9fd544f8e" title="btree_key_insert_delete\l_mvccid" alt="" coords="447,5,607,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="util_is_replica_node" name="util_is_replica_node">
+<area shape="rect" id="node2" href="$utility_8h.html#a19f5136ee5eecaf7eba9ad6fd3adfd52" title="util_make_ha_conf" alt="" coords="189,31,320,57"/>
+<area shape="rect" id="node3" href="$util__sa_8c.html#a0548be3e73416ec89c3b22003ec4ca05" title="check_ha_db_and_node_list" alt="" coords="368,5,555,32"/>
+<area shape="rect" id="node4" href="$util__service_8c.html#a987ee80be18954803cfe4fc0e54bb118" title="process_heartbeat" alt="" coords="397,56,526,83"/>
+</map>

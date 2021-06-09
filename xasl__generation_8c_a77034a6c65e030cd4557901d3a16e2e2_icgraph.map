@@ -1,0 +1,9 @@
+<map id="qo_plan_lite_print" name="qo_plan_lite_print">
+<area shape="rect" id="node2" href="$xasl__generation_8c.html#a7ef91e0c976e74e0238c2fef4a538202" title="pt_plan_query" alt="" coords="349,23,452,50"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#a19478c040bee3000bdf062a384e7d2f8" title="qo_follow_info" alt="" coords="177,27,282,54"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#ac5a6e212ebdb99b2b25b3551e0d91529" title="qo_join_info" alt="" coords="184,78,275,105"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a227728193640155171bc65d61923601b" title="qo_plan_dump" alt="" coords="176,129,283,155"/>
+<area shape="rect" id="node8" href="$query__planner_8c.html#a95ccf8f1539096c16b2221a43bebe490" title="qo_sort_info" alt="" coords="183,179,276,206"/>
+<area shape="rect" id="node3" href="$xasl__generation_8c.html#a4ceebb0f88dd9ee081d175f15de9eb2a" title="parser_generate_xasl_proc" alt="" coords="519,23,697,50"/>
+<area shape="rect" id="node7" href="$xasl__generation_8c.html#a3e01f58bf6bc526ba6cf09c9b5d6ad57" title="pt_plan_single_table\l_hq_iterations" alt="" coords="331,121,471,163"/>
+</map>

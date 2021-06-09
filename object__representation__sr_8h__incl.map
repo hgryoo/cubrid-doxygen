@@ -1,0 +1,14 @@
+<map id="src/base/object_representation_sr.h" name="src/base/object_representation_sr.h">
+<area shape="rect" id="node2" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="788,304,885,331"/>
+<area shape="rect" id="node5" href="$log__lsa_8hpp.html" title="log_lsa.hpp" alt="" coords="91,304,179,331"/>
+<area shape="rect" id="node9" href="$mvcc_8h.html" title="mvcc.h" alt="" coords="380,80,445,107"/>
+<area shape="rect" id="node11" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="658,229,791,256"/>
+<area shape="rect" id="node17" href="$system__catalog_8h.html" title="system_catalog.h" alt="" coords="766,80,891,107"/>
+<area shape="rect" id="node3" href="$error__code_8h.html" title="error_code.h" alt="" coords="547,379,641,405"/>
+<area shape="rect" id="node10" href="$mvcc__active__tran_8hpp.html" title="mvcc_active_tran.hpp" alt="" coords="224,155,375,181"/>
+<area shape="rect" id="node13" href="$recovery_8h.html" title="recovery.h" alt="" coords="379,229,462,256"/>
+<area shape="rect" id="node15" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="354,304,487,331"/>
+<area shape="rect" id="node14" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="512,304,628,331"/>
+<area shape="rect" id="node18" href="$log__manager_8h.html" title="log_manager.h" alt="" coords="533,155,639,181"/>
+<area shape="rect" id="node19" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="917,229,1031,256"/>
+</map>

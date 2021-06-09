@@ -1,0 +1,19 @@
+<map id="tz_str_to_seconds" name="tz_str_to_seconds">
+<area shape="rect" id="node2" href="$tz__support_8h.html#a26537640fc31e9b318c56123aa543f96" title="tz_get_timezone_offset" alt="" coords="185,31,344,57"/>
+<area shape="rect" id="node4" href="$tz__support_8c.html#a9ce169ba9479dccf37668371ac6af6b5" title="tz_str_timezone_decode" alt="" coords="183,107,347,133"/>
+<area shape="rect" id="node8" href="$tz__support_8h.html#ae71e25dc47235044f0fc52e6f75e56bf" title="tz_str_to_region" alt="" coords="207,309,322,336"/>
+<area shape="rect" id="node15" href="$tz__compile_8c.html#a71e1fae606536d3f5c31ddc1e92d60dc" title="tzc_add_ds_rule" alt="" coords="206,360,323,387"/>
+<area shape="rect" id="node17" href="$tz__compile_8c.html#a40a191630134a1a2d9ec77c95fba84e2" title="tzc_add_offset_rule" alt="" coords="197,411,333,437"/>
+<area shape="rect" id="node18" href="$tz__compile_8c.html#ac2e6f742c46034bf261a011ac69f4d40" title="tzc_compile_data" alt="" coords="203,461,327,488"/>
+<area shape="rect" id="node3" href="$string__opfunc_8h.html#a021b6074ceb789d6b1a309e74bc65a17" title="db_tz_offset" alt="" coords="452,5,547,32"/>
+<area shape="rect" id="node5" href="$tz__support_8h.html#a13e90a29c9b8f017a1aa83c41c06fe16" title="tz_create_datetimetz" alt="" coords="427,56,571,83"/>
+<area shape="rect" id="node7" href="$tz__support_8h.html#ab560f0c88bb1a3c8b4437ee6437e153d" title="tz_create_timestamptz" alt="" coords="422,107,577,133"/>
+<area shape="rect" id="node6" href="$string__opfunc_8h.html#a7471eda511603e925ffb03b2450e2bed" title="db_from_tz" alt="" coords="685,107,772,133"/>
+<area shape="rect" id="node9" href="$system__parameter_8c.html#aeb766c3f75b6f9f14c54acc8fa40bab3" title="prm_load_by_section" alt="" coords="427,208,572,235"/>
+<area shape="rect" id="node10" href="$system__parameter_8c.html#a52fb22056571707425b9532f09ab4112" title="sysprm_generate_new\l_value" alt="" coords="652,273,805,314"/>
+<area shape="rect" id="node11" href="$system__parameter_8c.html#ab48c1182bb4c9d3cf9b308648452949a" title="sysprm_set_value" alt="" coords="665,349,793,376"/>
+<area shape="rect" id="node12" href="$system__parameter_8c.html#aab854719c32fdcf0913994ea92127b0d" title="sysprm_get_id" alt="" coords="446,309,553,336"/>
+<area shape="rect" id="node13" href="$tz__support_8h.html#a2809a1d6e1b67c559f4f0ae6fda95d04" title="tz_conv_tz_time_w_zone_name" alt="" coords="395,411,604,437"/>
+<area shape="rect" id="node14" href="$tz__support_8h.html#af07d82a43fba29ce92dd94e5794d1ef4" title="tz_conv_tz_datetime\l_w_zone_name" alt="" coords="428,462,571,503"/>
+<area shape="rect" id="node16" href="$tz__compile_8c.html#afb099526f89b9fb6aa1b3badeafa65de" title="tzc_load_rule_file" alt="" coords="438,528,561,555"/>
+</map>

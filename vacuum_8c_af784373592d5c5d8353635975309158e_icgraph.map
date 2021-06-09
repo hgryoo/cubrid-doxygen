@@ -1,0 +1,5 @@
+<map id="vacuum_read_log_add_aligned" name="vacuum_read_log_add_aligned">
+<area shape="rect" id="node2" href="$vacuum_8c.html#a2e814432b50f4504d10689047b62c061" title="vacuum_process_log\l_record" alt="" coords="205,39,351,80"/>
+<area shape="rect" id="node3" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="399,5,545,47"/>
+<area shape="rect" id="node4" href="$vacuum_8c.html#a98dc5dfb2fca47a345da4f0f7c678554" title="vacuum_recover_lost\l_block_data" alt="" coords="399,71,545,112"/>
+</map>

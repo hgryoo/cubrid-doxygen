@@ -1,0 +1,21 @@
+<map id="src/storage/statistics.h" name="src/storage/statistics.h">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html" title="src/communication/network\l_interface_cl.h" alt="" coords="1081,80,1264,121"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8c.html" title="src/communication/network\l_interface_cl.c" alt="" coords="5,169,188,211"/>
+<area shape="rect" id="node11" href="$schema__manager_8c.html" title="src/object/schema_manager.c" alt="" coords="1698,177,1895,203"/>
+<area shape="rect" id="node12" href="$query__graph_8c.html" title="src/optimizer/query\l_graph.c" alt="" coords="1919,169,2053,211"/>
+<area shape="rect" id="node13" href="$statistics__cl_8c.html" title="src/storage/statistics_cl.c" alt="" coords="212,177,384,203"/>
+<area shape="rect" id="node14" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="2281,259,2464,300"/>
+<area shape="rect" id="node15" href="$class__object_8h.html" title="src/object/class_object.h" alt="" coords="1515,87,1681,114"/>
+<area shape="rect" id="node16" href="$schema__template_8c.html" title="src/object/schema_template.c" alt="" coords="2077,177,2274,203"/>
+<area shape="rect" id="node17" href="$query__graph_8h.html" title="src/optimizer/query\l_graph.h" alt="" coords="1923,80,2057,121"/>
+<area shape="rect" id="node18" href="$btree_8h.html" title="src/storage/btree.h" alt="" coords="2207,87,2338,114"/>
+<area shape="rect" id="node19" href="$system__catalog_8h.html" title="src/storage/system\l_catalog.h" alt="" coords="2363,80,2497,121"/>
+<area shape="rect" id="node20" href="$statistics__sr_8h.html" title="src/storage/statistics_sr.h" alt="" coords="2349,177,2522,203"/>
+<area shape="rect" id="node3" href="$perf__monitor_8c.html" title="src/base/perf_monitor.c" alt="" coords="408,177,567,203"/>
+<area shape="rect" id="node4" href="$network__cl_8c.html" title="src/communication/network_cl.c" alt="" coords="591,177,802,203"/>
+<area shape="rect" id="node6" href="$db__admin_8c.html" title="src/compat/db_admin.c" alt="" coords="1005,177,1164,203"/>
+<area shape="rect" id="node7" href="$db__info_8c.html" title="src/compat/db_info.c" alt="" coords="1189,177,1333,203"/>
+<area shape="rect" id="node8" href="$db__obj_8c.html" title="src/compat/db_obj.c" alt="" coords="1357,177,1497,203"/>
+<area shape="rect" id="node9" href="$db__query_8c.html" title="src/compat/db_query.c" alt="" coords="826,177,981,203"/>
+<area shape="rect" id="node10" href="$db__temp_8c.html" title="src/compat/db_temp.c" alt="" coords="1522,177,1674,203"/>
+</map>

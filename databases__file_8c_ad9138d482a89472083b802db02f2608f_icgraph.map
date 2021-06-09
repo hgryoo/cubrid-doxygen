@@ -1,0 +1,14 @@
+<map id="cfg_get_directory_filename" name="cfg_get_directory_filename">
+<area shape="rect" id="node2" href="$databases__file_8c.html#a516afc82c9231f20ae30ee3e8c566fba" title="cfg_ensure_directory\l_write" alt="" coords="239,195,381,236"/>
+<area shape="rect" id="node11" href="$databases__file_8h.html#af98b5d4ab1244a6feda3a1d3b843781b" title="cfg_maycreate_get_directory\l_filename" alt="" coords="436,136,627,177"/>
+<area shape="rect" id="node12" href="$databases__file_8c.html#aa5e7a87a79d076a8393ac1e9faf7354c" title="cfg_open_directory_file" alt="" coords="232,261,388,287"/>
+<area shape="rect" id="node3" href="$databases__file_8h.html#a27e52dbae492e12eb0a31d5124e93441" title="cfg_read_directory" alt="" coords="467,202,596,229"/>
+<area shape="rect" id="node4" href="$utility_8h.html#a24cb82c7693b92a6eb14285a1f9a89e3" title="alterdbhost" alt="" coords="713,143,800,170"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="681,346,832,373"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="689,42,824,69"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="887,194,976,221"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#acb0127ed69984740febd2060f7086821" title="xboot_soft_rename" alt="" coords="690,295,823,322"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#a6dc8b536b7d535d54c1471a87b76f2c2" title="xboot_delete" alt="" coords="709,245,805,271"/>
+<area shape="rect" id="node10" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="675,93,839,119"/>
+<area shape="rect" id="node13" href="$databases__file_8h.html#adafab1b096fcc687815936dbc8f7dda9" title="cfg_write_directory" alt="" coords="465,278,597,305"/>
+</map>

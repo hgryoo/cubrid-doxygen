@@ -1,0 +1,7 @@
+<map id="heap_chnguess_clear" name="heap_chnguess_clear">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#ade7e8a4bfcf4f0c9ad892da1c7f5fe7d" title="logtb_release_tran\l_index" alt="" coords="201,47,329,88"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="592,54,743,81"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="389,29,532,55"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#ab5d8cbe4258cd66e61a0da4e4a87614f" title="xboot_unregister_client" alt="" coords="383,79,539,106"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="377,130,544,157"/>
+</map>

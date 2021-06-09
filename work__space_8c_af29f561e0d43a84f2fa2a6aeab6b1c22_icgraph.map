@@ -1,0 +1,11 @@
+<map id="ws_identifier_with_check" name="ws_identifier_with_check">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a3c5a1f1d60a9d8177d18c02759c1ca93" title="db_identifier" alt="" coords="181,157,273,184"/>
+<area shape="rect" id="node10" href="$work__space_8h.html#afd188ac46c27a31a3dae2d708cc62428" title="ws_identifier" alt="" coords="180,208,275,235"/>
+<area shape="rect" id="node3" href="$db__value__table_8c.html#a2bb7ca4b167371b9b488703484bb2a2c" title="db_value_to_value" alt="" coords="341,5,472,32"/>
+<area shape="rect" id="node4" href="$cas__execute_8c.html#a4643e7f02247ecf25a2a2612fa6d6422" title="dbobj_to_casobj" alt="" coords="349,56,465,83"/>
+<area shape="rect" id="node5" href="$parse__evaluate_8c.html#a8c4be930836f528e1f5dea8ef14f7767" title="pt_evaluate_tree_internal" alt="" coords="323,107,490,133"/>
+<area shape="rect" id="node6" href="$xasl__generation_8c.html#acbb0e76e10eb22fcc19856263a305344" title="pt_make_regu_constant" alt="" coords="539,208,700,235"/>
+<area shape="rect" id="node7" href="$xasl__generation_8c.html#aa7ca0abaad98a07d7de25a93842c9e1c" title="pt_make_vid" alt="" coords="748,183,844,209"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#a45292baa4fea546239162d983fbf097f" title="pt_serial_to_xasl_class\l_oid_list" alt="" coords="327,259,486,301"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#a3fb8e988e87eb4bbd2a189a1d7a4f8c2" title="setof_mop_to_setof_vobj" alt="" coords="323,325,491,352"/>
+</map>

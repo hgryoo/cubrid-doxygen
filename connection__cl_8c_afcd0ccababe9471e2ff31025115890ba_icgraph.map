@@ -1,0 +1,21 @@
+<map id="css_receive_data" name="css_receive_data">
+<area shape="rect" id="node2" href="$master_8c.html#a44abcfe729c5c22f6ec66fa1448bfc35" title="css_accept_new_request" alt="" coords="177,48,348,75"/>
+<area shape="rect" id="node3" href="$master_8c.html#a0d33a6ea2f69d5a003d81222866e4344" title="css_register_new_server" alt="" coords="400,48,567,75"/>
+<area shape="rect" id="node4" href="$master_8c.html#a97f199172c5fe6efaeee63197862b8b5" title="css_accept_old_request" alt="" coords="181,99,344,125"/>
+<area shape="rect" id="node5" href="$master_8c.html#af0cccd4f56ff47e0c8545c1e3645a508" title="css_register_new_server2" alt="" coords="396,124,571,151"/>
+<area shape="rect" id="node6" href="$connection__cl_8h.html#a7bb87f7c020bc88c88c5729fe1a339d1" title="css_connect_to_cubrid\l_server" alt="" coords="405,398,561,439"/>
+<area shape="rect" id="node8" href="$server__support_8c.html#adf5ceb094b83224c48d4c22203367ded" title="css_internal_request\l_handler" alt="" coords="191,201,334,242"/>
+<area shape="rect" id="node10" href="$master__request_8h.html#a0d0d71b7f22a154bc9f7522d09a17429" title="css_process_info_request" alt="" coords="396,292,571,319"/>
+<area shape="rect" id="node11" href="$master__request_8c.html#a2ff0bb854e6255ac70a1daf82ea2eb47" title="css_process_kill_slave" alt="" coords="184,267,341,293"/>
+<area shape="rect" id="node12" href="$server__support_8h.html#a8867884ca479712d37cb4b8a55d07b24" title="css_receive_data_from\l_client_with_timeout" alt="" coords="184,617,341,658"/>
+<area shape="rect" id="node15" href="$client__support_8h.html#a9470568c2d2320cdc9432cf9c6d8d1c1" title="css_receive_data_from\l_server_with_timeout" alt="" coords="184,486,341,527"/>
+<area shape="rect" id="node16" href="$master_8c.html#af7eb18a37d78ffa472d5ab6ff425a286" title="css_send_to_existing\l_server" alt="" coords="189,551,337,593"/>
+<area shape="rect" id="node17" href="$connection__cl_8c.html#ab25efa35368d6684e0c29e18f691ea10" title="css_server_connect\l_part_two" alt="" coords="193,369,332,410"/>
+<area shape="rect" id="node18" href="$broker_8c.html#aaf77c4e492ff43d6075e0831c6e4876e" title="get_server_state_from\l_master" alt="" coords="187,682,339,723"/>
+<area shape="rect" id="node19" href="$commdb_8c.html#a1280d23fa67d721cc91cbc27babe4cf8" title="return_integer_data" alt="" coords="196,748,329,775"/>
+<area shape="rect" id="node20" href="$commdb_8c.html#ad423bf08ec9cb052bc5a51a5bee24e8e" title="return_string" alt="" coords="215,799,310,825"/>
+<area shape="rect" id="node7" href="$client__support_8h.html#a21a96408ff489b345b02324da654c7fc" title="css_client_init" alt="" coords="619,405,724,432"/>
+<area shape="rect" id="node9" href="$classcss__server__task.html#a60fad54ad8f891114c5cfe6c5c08058d" title="css_server_task::execute" alt="" coords="397,208,569,235"/>
+<area shape="rect" id="node13" href="$network__interface__sr_8h.html#a5844b8b508c1e6a42425cccd4468eea8" title="xs_receive_data_from\l_client_with_timeout" alt="" coords="408,649,559,690"/>
+<area shape="rect" id="node14" href="$server__support_8h.html#ad01dba129e011a69643832b69815c580" title="css_receive_data_from\l_client" alt="" coords="405,583,562,625"/>
+</map>

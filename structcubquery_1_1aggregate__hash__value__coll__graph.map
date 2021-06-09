@@ -1,0 +1,5 @@
+<map id="cubquery::aggregate_hash_value" name="cubquery::aggregate_hash_value">
+<area shape="rect" id="node2" href="$structcubxasl_1_1aggregate__accumulator.html" title="{cubxasl::aggregate\l_accumulator\n|+ curr_cnt\l+ clear_value_at_clone\l_decache\l+ clear_value2_at_clone\l_decache\l|}" alt="" coords="5,160,168,311"/>
+<area shape="rect" id="node3" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="38,5,135,83"/>
+<area shape="rect" id="node4" href="$structqfile__tuple__record.html" title="{qfile_tuple_record\n|+ tpl\l+ size\l|}" alt="" coords="193,189,317,281"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="pt_must_have_exposed_name" name="pt_must_have_exposed_name">
+<area shape="rect" id="node2" href="$parser_8h.html#a63d6bc8b108363fd7970e6a45bd465b9" title="pt_flat_spec_pre" alt="" coords="252,208,371,235"/>
+<area shape="rect" id="node3" href="$name__resolution_8c.html#a1aa9eb98e4c2e318951dcdc1cb238944" title="pt_get_resolution" alt="" coords="441,5,563,32"/>
+<area shape="rect" id="node4" href="$parser_8h.html#ab08f6a5224d770348937e8f18abd4f0b" title="pt_quick_resolve_names" alt="" coords="419,56,585,83"/>
+<area shape="rect" id="node5" href="$parser_8h.html#a0fdab78f059823a9566f5879dbc2b660" title="pt_resolve_names" alt="" coords="438,107,566,133"/>
+<area shape="rect" id="node6" href="$semantic__check_8c.html#a4546f0bea621480bbe409d5c6cdc6929" title="pt_check_drop" alt="" coords="449,157,555,184"/>
+<area shape="rect" id="node7" href="$semantic__check_8c.html#a6760dc8e2ffeb4f8c27363e86fb8569a" title="pt_check_grant_revoke" alt="" coords="423,208,581,235"/>
+<area shape="rect" id="node8" href="$semantic__check_8c.html#a3d778a95a377e67017fe561284070c5a" title="pt_check_truncate" alt="" coords="437,259,567,285"/>
+<area shape="rect" id="node9" href="$semantic__check_8c.html#ad3a3aaa54d802f608b38b0eb2c51159d" title="pt_check_vacuum" alt="" coords="438,309,566,336"/>
+<area shape="rect" id="node10" href="$view__transform_8c.html#a36fd73137371a154a74aab7810a5edda" title="mq_new_spec" alt="" coords="449,360,555,387"/>
+<area shape="rect" id="node11" href="$xasl__generation_8c.html#ab48b9a50b8c025df36a2a1243d2ce8c1" title="pt_filter_pseudo_specs" alt="" coords="424,411,580,437"/>
+</map>

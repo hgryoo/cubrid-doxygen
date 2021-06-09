@@ -1,0 +1,21 @@
+<map id="setobj_put_element" name="setobj_put_element">
+<area shape="rect" id="node2" href="$set__object_8h.html#a34a12ed04cc3f6f7bc0fb6287ee8d5e8" title="set_put_element" alt="" coords="188,459,307,485"/>
+<area shape="rect" id="node3" href="$authenticate_8c.html#a130ead0c94571d7d7ca9f6921288d730" title="add_grant_entry" alt="" coords="379,55,493,81"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#a7967cf08e852e8e2e5157c4524260686" title="au_grant" alt="" coords="621,29,693,56"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#aa3b9f50325c52497ae61bcc3e2f37374" title="adjust_partition_size" alt="" coords="365,105,507,132"/>
+<area shape="rect" id="node6" href="$authenticate_8h.html#af2cbcb3deb351ad5c3dafaa7dc2ff290" title="au_revoke" alt="" coords="395,180,477,207"/>
+<area shape="rect" id="node7" href="$catalog__class_8c.html#a607be0a594e58483f6ffd7dbfd4e559e" title="catcls_get_object_set" alt="" coords="361,231,511,257"/>
+<area shape="rect" id="node8" href="$catalog__class_8c.html#a00147e67f79dc24215279c77d1cfe977" title="catcls_insert_subset" alt="" coords="365,281,507,308"/>
+<area shape="rect" id="node9" href="$catalog__class_8c.html#a48510ab1df2c4a8d0aa731ff9935f3dc" title="catcls_update_subset" alt="" coords="361,332,511,359"/>
+<area shape="rect" id="node10" href="$class__object_8h.html#a5905c7fe8008c53162cd11c60c7d0b53" title="classobj_change_constraint\l_comment" alt="" coords="565,375,748,417"/>
+<area shape="rect" id="node11" href="$class__object_8h.html#a1923e325fc37bd56f7a3f947ffd1a78e" title="classobj_change_constraint\l_status" alt="" coords="565,441,748,482"/>
+<area shape="rect" id="node12" href="$schema__manager_8h.html#ad7caf861302e1ceb2634622dbd8ba53a" title="classobj_drop_foreign\l_key_ref" alt="" coords="583,506,731,547"/>
+<area shape="rect" id="node13" href="$class__object_8h.html#a41c37337e789aad6d038d11584fe3694" title="classobj_find_prop\l_constraint" alt="" coords="591,571,722,613"/>
+<area shape="rect" id="node14" href="$class__object_8c.html#a341e05ed2e1e35e704b082a655381487" title="classobj_make_foreign\l_key_info_seq" alt="" coords="359,753,513,794"/>
+<area shape="rect" id="node15" href="$class__object_8c.html#a4d8be4ca638d147f129270c119668414" title="classobj_make_foreign\l_key_ref_seq" alt="" coords="359,687,513,729"/>
+<area shape="rect" id="node16" href="$schema__manager_8h.html#aafbbf994fe81ea00cc1441a2f1b7c4ee" title="classobj_put_foreign\l_key_ref" alt="" coords="586,637,727,678"/>
+<area shape="rect" id="node17" href="$class__object_8c.html#a96a893803b9dde709e16f7903bbdc303" title="classobj_make_function\l_index_info_seq" alt="" coords="355,818,517,859"/>
+<area shape="rect" id="node18" href="$class__object_8c.html#a105227a43e99a64d929c6b7970d2af9d" title="classobj_make_index\l_attr_prefix_seq" alt="" coords="363,883,509,925"/>
+<area shape="rect" id="node19" href="$class__object_8c.html#ab9862b81255f6da7d1e3709cd031eab5" title="classobj_make_index\l_filter_pred_seq" alt="" coords="363,949,509,990"/>
+<area shape="rect" id="node20" href="$class__object_8h.html#a5f3ca6c3c262624c3ddea5eb6a084d19" title="classobj_put_prop" alt="" coords="373,484,499,511"/>
+</map>

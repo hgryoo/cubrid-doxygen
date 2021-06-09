@@ -1,0 +1,19 @@
+<map id="logtb_free_tran_index" name="logtb_free_tran_index">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="220,139,355,165"/>
+<area shape="rect" id="node7" href="$log__2pc_8c.html#a704fb0332671ae6dd81e859ebd046128" title="log_2pc_attach_client" alt="" coords="213,424,361,451"/>
+<area shape="rect" id="node9" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="213,256,362,283"/>
+<area shape="rect" id="node10" href="$log__recovery_8c.html#a766a771dfebf096e54eca48d411cf0d0" title="log_recovery_finish\l_postpone" alt="" coords="220,307,355,349"/>
+<area shape="rect" id="node11" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="223,373,351,400"/>
+<area shape="rect" id="node12" href="$log__recovery_8c.html#a18e7fc0efb64ea17207486e0abacaebe" title="log_recovery_undo" alt="" coords="449,504,579,531"/>
+<area shape="rect" id="node13" href="$log__recovery_8c.html#a57545124a0b490108e49a8ca77acf2d7" title="log_rv_analysis_complete" alt="" coords="201,592,373,619"/>
+<area shape="rect" id="node15" href="$log__tran__table_8c.html#ac2c995e1792e559d274ee6c1ec0f6175" title="logtb_free_tran_index\l_with_undo_lsa" alt="" coords="214,526,361,567"/>
+<area shape="rect" id="node16" href="$log__tran__table_8c.html#ade7e8a4bfcf4f0c9ad892da1c7f5fe7d" title="logtb_release_tran\l_index" alt="" coords="223,190,351,231"/>
+<area shape="rect" id="node17" href="$classcubload_1_1session.html#a9a1141763c831728618858e47c4d26f5" title="cubload::session::notify\l_batch_done_and_register\l_tran_end" alt="" coords="200,643,375,699"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="456,147,572,173"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="469,29,559,56"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="443,197,585,224"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="449,81,579,122"/>
+<area shape="rect" id="node8" href="$log__2pc_8h.html#a318025a7b9ff40835b5dcd6fd7021919" title="log_2pc_attach_global_tran" alt="" coords="424,424,604,451"/>
+<area shape="rect" id="node14" href="$log__recovery_8c.html#ac171971a3d45b8f97159ace9995bb21e" title="log_rv_analysis_record" alt="" coords="437,592,591,619"/>
+<area shape="rect" id="node18" href="$classcubload_1_1load__task.html#aab17a6900df3310968e627d87783c662" title="cubload::load_task\l::notify_done_and_tran_end" alt="" coords="423,650,605,691"/>
+</map>

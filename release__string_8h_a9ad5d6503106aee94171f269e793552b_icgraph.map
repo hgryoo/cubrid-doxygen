@@ -1,0 +1,5 @@
+<map id="rel_compare" name="rel_compare">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a669e1ce0f8fe4fd698271b150702ac6b" title="net_client_ping_server\l_with_handshake" alt="" coords="166,5,318,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#ad9d584fa39ad4b97df4f2d58e5e8a8b2" title="server_ping_with_handshake" alt="" coords="147,71,337,98"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="385,13,539,39"/>
+</map>

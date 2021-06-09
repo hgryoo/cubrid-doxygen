@@ -1,0 +1,9 @@
+<map id="heap_get_spage_type" name="heap_get_spage_type">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a23cd5f642edebaad25e8fafd58600228" title="heap_create_internal" alt="" coords="596,10,739,37"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a7402228f44ae47527abdfb7547f451d9" title="heap_reinitialize_page" alt="" coords="207,35,357,62"/>
+<area shape="rect" id="node7" href="$heap__file_8h.html#a8c84408c0ac32806b79fc85ef944e7b1" title="heap_rv_redo_newpage" alt="" coords="203,86,361,113"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#afa840471c7dad8b08160e16bdaa75a0a" title="heap_vpid_init_new" alt="" coords="214,137,350,163"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#afefee08972f223958a34db36e63cde05" title="xheap_create" alt="" coords="787,10,887,37"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a1063293444bb398d29a2b95ccdcecd33" title="heap_reuse" alt="" coords="434,35,523,62"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#aeb5954dd4b49d091cd70b28e7a52f66e" title="heap_rv_redo_reuse\l_page_reuse_oid" alt="" coords="409,87,548,128"/>
+</map>

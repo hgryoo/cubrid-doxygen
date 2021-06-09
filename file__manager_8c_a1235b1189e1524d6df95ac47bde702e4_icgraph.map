@@ -1,0 +1,11 @@
+<map id="file_get_type" name="file_get_type">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a2227d0baf96c8e9ee396fcb52ecd3c73" title="heap_check_heap_file" alt="" coords="149,56,300,83"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a67e8a520cb4db4092a880f4f7f9da6a7" title="heap_hfid_cache_get" alt="" coords="152,157,297,184"/>
+<area shape="rect" id="node7" href="$vacuum_8c.html#aa58247a80d211dba7e1a0ad03691aee0" title="vacuum_heap_get_hfid\l_and_file_type" alt="" coords="551,110,707,151"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#a35f68404038b4fe7ac5a05100e4724d4" title="heap_scancache_start\l_internal" alt="" coords="552,177,705,218"/>
+<area shape="rect" id="node9" href="$heap__file_8c.html#a5627e2ae8539a422b14146ff3611e06e" title="heap_scancache_reset\l_modify" alt="" coords="551,245,707,286"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#a816077d2fcf52e1e8536a9e77355ecdf" title="xheap_destroy_newly\l_created" alt="" coords="151,310,299,351"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#af800f3bfd7690fa522c15142c2486142" title="heap_check_all_heaps" alt="" coords="348,5,503,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a70167f3572fd39fae0ddc463c682de15" title="xboot_checkdb_table" alt="" coords="556,57,701,84"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#a099cbf825a6f97e16fdeac3e7d8c3ccd" title="heap_get_class_info" alt="" coords="355,157,496,184"/>
+</map>

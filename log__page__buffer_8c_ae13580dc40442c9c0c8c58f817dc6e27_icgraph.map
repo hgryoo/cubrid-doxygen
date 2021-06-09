@@ -1,0 +1,17 @@
+<map id="logpb_get_log_buffer" name="logpb_get_log_buffer">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a3c6519e8a2cbe10f357ec1377b7152c7" title="logpb_dump_to_flush_page" alt="" coords="388,281,568,308"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="813,223,971,265"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a395681f78c8d3aa0e26c7132fb05e0df" title="logpb_flush_page" alt="" coords="417,484,539,511"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#acc38f369a49c35f2531c5b477fd0bbf8" title="logpb_get_page_id" alt="" coords="203,223,333,249"/>
+<area shape="rect" id="node12" href="$log__page__buffer_8c.html#af575d21295a4c2db72815cbffc5423b2" title="logpb_is_dirty" alt="" coords="217,85,319,112"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html#a7152cb8ed5c589ffd3b3ba8e753c2113" title="logpb_set_dirty" alt="" coords="423,417,533,444"/>
+<area shape="rect" id="node15" href="$log__page__buffer_8c.html#aba424036ec1b5f29053849bba67d9442" title="logpb_write_toflush\l_pages_to_archive" alt="" coords="201,150,335,191"/>
+<area shape="rect" id="node16" href="$log__page__buffer_8c.html#aff4e1c7df4260b5dc7ad3dd1b37e6baa" title="logpb_writev_append\l_pages" alt="" coords="196,325,340,366"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#a65f13ec63904f41531ee152c2939ba5a" title="logpb_dump" alt="" coords="645,231,737,257"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a831b69ec6d531cf9cc7dc60c2ab5fcb3" title="logpb_end_append" alt="" coords="1038,307,1169,333"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a978997a75ba311ff9ab0e14bb43100e5" title="logpb_next_append_page" alt="" coords="1019,357,1188,384"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="625,535,756,561"/>
+<area shape="rect" id="node9" href="$log__recovery_8c.html#a6e4cb0fa20df20ef22e01e5bae16b885" title="log_recovery_resetlog" alt="" coords="616,484,765,511"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#a61f96055cadac8693b95e145c25c1fcc" title="logpb_dump_information" alt="" coords="397,231,559,257"/>
+<area shape="rect" id="node14" href="$log__page__buffer_8c.html#a743f14dc2408e5b500f81858e5423216" title="logpb_start_append" alt="" coords="623,332,758,359"/>
+</map>

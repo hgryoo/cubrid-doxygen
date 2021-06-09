@@ -1,0 +1,5 @@
+<map id="heap_attrinfo_delete_lob" name="heap_attrinfo_delete_lob">
+<area shape="rect" id="node2" href="$locator__sr_8h.html#a77745dd2951889c2f4ae1d682ad63391" title="locator_delete_lob\l_force" alt="" coords="216,39,343,80"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a330cfcba16e2910848ac1ae251d50dc1" title="qexec_remove_duplicates\l_for_replace" alt="" coords="391,5,564,47"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#a3ec8ca9e5364109919ee52c486add7ec" title="locator_check_primary\l_key_delete" alt="" coords="401,71,554,112"/>
+</map>

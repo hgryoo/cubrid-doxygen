@@ -1,0 +1,14 @@
+<map id="pgbuf_lru_adjust_zones" name="pgbuf_lru_adjust_zones">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#a9583e774d489edc4243ece32dc62a92d" title="pgbuf_adjust_quotas" alt="" coords="222,85,365,112"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a7cc1c686b4d3e0a9de41d12d4bfa26b7" title="pgbuf_get_victim_from\l_lru_list" alt="" coords="216,257,371,298"/>
+<area shape="rect" id="node10" href="$page__buffer_8c.html#a1bc27d1a6244fb49011a2a271c976136" title="pgbuf_lru_add_new_bcb\l_to_top" alt="" coords="212,330,375,371"/>
+<area shape="rect" id="node13" href="$page__buffer_8c.html#a30de612d32bf24eec316c94bad440a6a" title="pgbuf_lru_boost_bcb" alt="" coords="222,412,365,439"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a7ddee48663b8b2801c073e9ecf87f041" title="pgbuf_assign_private_lru" alt="" coords="425,5,591,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#a5ee1208a8c23e2a5b9d3ed7ab72a4b62" title="pgbuf_release_private_lru" alt="" coords="423,56,593,83"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a06d2b0cbf44eb89ea6c4c9f068cf4344" title="pgbuf_get_page_flush\l_interval" alt="" coords="433,107,583,149"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#ae3559936e3204102a7a9a4fee6087017" title="pgbuf_get_victim" alt="" coords="664,232,785,259"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#a1869e0a6005a3553cf95f4573a52b4c0" title="pgbuf_lfcq_get_victim\l_from_private_lru" alt="" coords="433,225,583,266"/>
+<area shape="rect" id="node9" href="$page__buffer_8c.html#ad6a87f13e7f04e7143483b3737eb6c86" title="pgbuf_lfcq_get_victim\l_from_shared_lru" alt="" coords="433,290,583,331"/>
+<area shape="rect" id="node11" href="$page__buffer_8c.html#af1d28b14d0180489e3ec532a4dbf54d6" title="pgbuf_unlatch_void\l_zone_bcb" alt="" coords="441,355,575,397"/>
+<area shape="rect" id="node12" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="641,385,808,426"/>
+</map>

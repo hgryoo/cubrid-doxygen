@@ -1,0 +1,6 @@
+<map id="xboot_register_client" name="xboot_register_client">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a01c5641d7966ab43b12116327a2e6d4b" title="boot_register_client" alt="" coords="200,5,335,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a8e37c47455fc1ef6ebc9966c51cb64e1" title="sboot_register_client" alt="" coords="196,56,339,83"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="387,5,516,32"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="398,56,505,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="db_make_pointer" name="db_make_pointer">
+<area shape="rect" id="node2" href="$object__primitive_8c.html#a8265b8693dc70630ad2beb14e269f900" title="mr_getmem_ptr" alt="" coords="194,5,307,32"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a10f83f208e45ad0cfcf4c91cf075244e" title="mr_initval_ptr" alt="" coords="201,56,301,83"/>
+<area shape="rect" id="node5" href="$object__primitive_8c.html#a288d9efb4de2ddc5bcc056cc889dfefe" title="mr_setval_ptr" alt="" coords="200,107,301,133"/>
+<area shape="rect" id="node6" href="$object__template_8c.html#ae5117c624dc3ea7fcf19ca9a9f1f127f" title="obt_free_assignment" alt="" coords="179,157,322,184"/>
+<area shape="rect" id="node8" href="$object__template_8h.html#ac0afc57a8f78c33df643821349ba61e7" title="obt_set_obt" alt="" coords="205,208,296,235"/>
+<area shape="rect" id="node9" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="175,259,327,285"/>
+<area shape="rect" id="node3" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="375,49,515,90"/>
+<area shape="rect" id="node7" href="$object__template_8c.html#a62d1357fde410141f486de51f908a760" title="obt_free_template" alt="" coords="381,157,508,184"/>
+</map>

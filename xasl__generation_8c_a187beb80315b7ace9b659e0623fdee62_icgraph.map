@@ -1,0 +1,12 @@
+<map id="parser_generate_xasl" name="parser_generate_xasl">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#af68cfdd2cffdd748ff0f6581df99c031" title="do_prepare_select" alt="" coords="225,65,353,91"/>
+<area shape="rect" id="node7" href="$execute__statement_8c.html#a3253881929bb3083cba7e2825304d246" title="do_select_internal" alt="" coords="226,115,353,142"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#a9bdded722c577678b7742f16b0f61e26" title="pt_build_do_stmt_aptr\l_list_pre" alt="" coords="214,167,365,208"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#a27b378c84e037826e15488be63b31375" title="pt_make_aptr_parent_node" alt="" coords="200,233,379,259"/>
+<area shape="rect" id="node10" href="$xasl__generation_8c.html#a181ebc72c388222cddb1fadfbc053d90" title="pt_to_odku_info" alt="" coords="435,321,550,347"/>
+<area shape="rect" id="node11" href="$xasl__generation_8h.html#afe16617c99177ca7cb6d411d9e5e5713" title="pt_to_regu_variable" alt="" coords="222,358,357,385"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#aa5b68a09475423be2f6714fac2a83de9" title="do_prepare_statement" alt="" coords="607,65,757,91"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#ac634b027d1b85e4fbfb2cc7e8b803fc7" title="do_prepare_update" alt="" coords="427,27,559,54"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a5a96449a20d34f17f764bead35cde84e" title="do_prepare_delete" alt="" coords="429,102,557,129"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a92e684c00e2d830e80140690244b728e" title="do_prepare_merge" alt="" coords="428,153,557,179"/>
+</map>

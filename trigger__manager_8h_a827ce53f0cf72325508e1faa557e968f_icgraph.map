@@ -1,0 +1,6 @@
+<map id="tr_check_authorization" name="tr_check_authorization">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#a688689faf250a85805390314b667a2d9" title="do_alter_trigger" alt="" coords="207,5,317,32"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#ad6d510124ce6a9da39d3ba35650591fa" title="do_drop_trigger" alt="" coords="207,56,317,83"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="365,31,467,57"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="515,31,669,57"/>
+</map>

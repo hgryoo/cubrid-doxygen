@@ -1,0 +1,6 @@
+<map id="perfmon_server_dump_stats_to_buffer" name="perfmon_server_dump_stats_to_buffer">
+<area shape="rect" id="node2" href="$network__interface__sr_8c.html#af8b305c134eecb9f4358bd2dc4726977" title="er_log_slow_query" alt="" coords="236,5,367,32"/>
+<area shape="rect" id="node4" href="$perf__monitor_8c.html#a38bbe037f0aed7417e2a1bd4b3d58e6f" title="perfmon_stat_dump_in\l_buffer_thread_daemon_stats" alt="" coords="204,57,399,98"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="454,5,605,32"/>
+<area shape="rect" id="node5" href="$perf__monitor_8c.html#af47f65a3beed4f6f1d5c154ac1bc352b" title="f_dump_in_buffer_thread\l_daemon_stats" alt="" coords="447,57,612,98"/>
+</map>

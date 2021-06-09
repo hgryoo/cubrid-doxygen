@@ -1,0 +1,10 @@
+<map id="log_isolation_string" name="log_isolation_string">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a1799a28ad76ce5c876cfd920cf2573fa" title="logtb_descriptors_start_scan" alt="" coords="187,5,376,32"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#add392d8813bf6b16ff0e99b58dff8969" title="logtb_dump_tdes" alt="" coords="221,56,342,83"/>
+<area shape="rect" id="node6" href="$lock__manager_8c.html#a41b042bfa759a6fdd26b74b4b030d3f8" title="xlock_dump" alt="" coords="235,132,327,159"/>
+<area shape="rect" id="node3" href="$show__scan_8c.html#aecf736200d67937c5e8b499d2570ea1d" title="showstmt_scan_init" alt="" coords="437,5,576,32"/>
+<area shape="rect" id="node5" href="$log__tran__table_8c.html#a850b8bbb60976a9cbd23dab38dcf1767" title="xlogtb_dump_trantable" alt="" coords="430,56,583,83"/>
+<area shape="rect" id="node7" href="$lock__manager_8h.html#a504786492af357a6a63b3b255364b4c6" title="lock_demote_class_lock" alt="" coords="424,107,589,133"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#aec18ee174ec60f3d2f230c6ae03b2671" title="lock_dump" alt="" coords="464,157,549,184"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#a01dddcf63f62b4d2f38ed262abf8ea85" title="slock_dump" alt="" coords="461,208,553,235"/>
+</map>

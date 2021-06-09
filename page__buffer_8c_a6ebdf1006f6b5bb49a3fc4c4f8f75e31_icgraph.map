@@ -1,0 +1,9 @@
+<map id="pgbuf_bcb_flush_with_wal" name="pgbuf_bcb_flush_with_wal">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a7b2dfb96a20574b1b57312f01a840fbe" title="pgbuf_bcb_safe_flush\l_internal" alt="" coords="242,61,391,103"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a9575052dd0e19e22fba169b20a566af8" title="pgbuf_flush_neighbor_safe" alt="" coords="228,166,405,193"/>
+<area shape="rect" id="node8" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="659,188,789,229"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#abd4eba7853551f4117e645cb8bfdf847" title="pgbuf_flush_seq_list" alt="" coords="653,39,795,66"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a1c6db42e155da35aec836cf8e4924b4e" title="pgbuf_bcb_safe_flush\l_force_unlock" alt="" coords="455,28,604,69"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a975918d4e72d26e00999d5d693758206" title="pgbuf_bcb_safe_flush\l_force_lock" alt="" coords="455,93,604,135"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#a5a42202d4255c3757a74abd84a5aa993" title="pgbuf_flush_page_and\l_neighbors_fb" alt="" coords="453,159,605,200"/>
+</map>

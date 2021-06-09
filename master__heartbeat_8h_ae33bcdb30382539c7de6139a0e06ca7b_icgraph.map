@@ -1,0 +1,6 @@
+<map id="hb_get_node_info_string" name="hb_get_node_info_string">
+<area shape="rect" id="node2" href="$master__request_8c.html#a35ee558207e9b10c6ca7d2e6e16c089f" title="css_process_ha_node\l_list_info" alt="" coords="415,5,567,47"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8h.html#a6f9ed497c283816e8d6612d968519cd4" title="hb_reconfig_heartbeat" alt="" coords="216,71,367,98"/>
+<area shape="rect" id="node3" href="$master__request_8h.html#a0d0d71b7f22a154bc9f7522d09a17429" title="css_process_info_request" alt="" coords="615,46,789,73"/>
+<area shape="rect" id="node5" href="$master__request_8c.html#a8106ca5dc2c9380531e2da0788b90534" title="css_process_reconfig\l_heartbeat" alt="" coords="416,71,565,112"/>
+</map>

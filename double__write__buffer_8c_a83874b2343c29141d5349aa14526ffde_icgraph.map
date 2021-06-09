@@ -1,0 +1,5 @@
+<map id="dwb_wait_for_strucure_modification" name="dwb_wait_for_strucure_modification">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#aca527d0257d80e110577c000d35a8d97" title="dwb_acquire_next_slot" alt="" coords="207,5,361,32"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8h.html#a38ef0589ebaadb13a11f9bdf6ec322c7" title="dwb_flush_force" alt="" coords="225,56,343,83"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#a5d4e7c50b94d3152e02effcb1e4f54bf" title="dwb_set_data_on_next_slot" alt="" coords="409,5,593,32"/>
+</map>

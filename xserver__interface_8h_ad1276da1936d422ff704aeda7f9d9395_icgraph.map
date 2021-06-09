@@ -1,0 +1,5 @@
+<map id="xsession_set_tran_auto_commit" name="xsession_set_tran_auto_commit">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="233,5,383,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#abe5a5fb9e7d4da29e0db82283a10503e" title="sqmgr_prepare_and_execute\l_query" alt="" coords="213,57,403,98"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="451,35,557,61"/>
+</map>

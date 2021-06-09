@@ -1,0 +1,13 @@
+<map id="db_attribute_type" name="db_attribute_type">
+<area shape="rect" id="node2" href="$unload__schema_8c.html#ab989c73e8b4cc2bb0d52f27b163a64a6" title="emit_class_meta" alt="" coords="215,5,337,32"/>
+<area shape="rect" id="node4" href="$name__resolution_8c.html#a304afd05de4898b2f299ad9039e4299b" title="generate_natural_join\l_attrs_from_db_attrs" alt="" coords="203,57,349,98"/>
+<area shape="rect" id="node6" href="$db__vdb_8c.html#a8a9acc272edcabafab0a8476b3004673" title="get_reasonable_predicate" alt="" coords="191,123,361,149"/>
+<area shape="rect" id="node8" href="$load__db_8c.html#a8c376fb90f0ffdf8bbefc2dba100974e" title="ldr_compare_attribute\l_with_meta" alt="" coords="203,174,349,215"/>
+<area shape="rect" id="node10" href="$semantic__check_8c.html#a4546f0bea621480bbe409d5c6cdc6929" title="pt_check_drop" alt="" coords="223,240,329,267"/>
+<area shape="rect" id="node11" href="$semantic__check_8c.html#af12757b0fbf3db19385a417129423131" title="pt_get_attributes" alt="" coords="217,291,335,317"/>
+<area shape="rect" id="node12" href="$schema__manager_8h.html#a33cdf5d05999593bc49ec9d84581ef12" title="sm_get_descriptor_component" alt="" coords="176,341,376,368"/>
+<area shape="rect" id="node3" href="$unload__schema_8c.html#a7f79130b2669758e935be8a5b57261c1" title="emit_schema" alt="" coords="447,5,547,32"/>
+<area shape="rect" id="node5" href="$name__resolution_8c.html#aa840ef17b536fdc5fcd99304c3276767" title="get_natural_join_attrs\l_from_pt_spec" alt="" coords="424,57,571,98"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#a741f68771dcf741ec80804d2a90658b1" title="db_validate" alt="" coords="453,123,541,149"/>
+<area shape="rect" id="node9" href="$load__db_8c.html#a42a97b8a6a4d22670cb8c1c4f6115ae9" title="ldr_compare_storage\l_order" alt="" coords="426,174,569,215"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="db_query_format_name" name="db_query_format_name">
+<area shape="rect" id="node2" href="$esql__cli_8c.html#a5876fa6894a657fff9d772f831cceff8" title="copy_column_spec_to\l_sqlda" alt="" coords="235,49,387,90"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#abe38ad5955bc9354c1b3d2553cace2b5" title="create_select_to_insert_into" alt="" coords="219,115,404,141"/>
+<area shape="rect" id="node7" href="$csql__result_8c.html#aecdfca7c24bc3ed014f444d04f92ca25" title="csql_results" alt="" coords="265,165,357,192"/>
+<area shape="rect" id="node8" href="$execute__schema_8c.html#a52d780f43ce5a65f6e8ab75a4fa76d59" title="do_add_attribute_from\l_select_column" alt="" coords="236,217,387,258"/>
+<area shape="rect" id="node9" href="$execute__schema_8h.html#a189597b19b23b2586850fcd842f781b7" title="do_add_attributes" alt="" coords="473,283,598,309"/>
+<area shape="rect" id="node10" href="$cas__execute_8c.html#a977259b8d253fa1f9cd18f4e46ef726b" title="prepare_column_list\l_info_set" alt="" coords="242,334,381,375"/>
+<area shape="rect" id="node11" href="$execute__schema_8c.html#a98ce9fadceedf6689aa624997b9304a6" title="query_get_column_with_name" alt="" coords="212,400,411,427"/>
+<area shape="rect" id="node12" href="$cas__execute_8h.html#af5015131eafb7d0274a9dd77d2385655" title="ux_make_out_rs" alt="" coords="252,451,371,477"/>
+<area shape="rect" id="node3" href="$esql__cli_8c.html#a6a5bd145f5675109dcfb4cde5824c558" title="uci_describe" alt="" coords="488,5,583,32"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#a1b540716a72b98a145170be7a1ee4ad3" title="uci_object_describe" alt="" coords="467,56,604,83"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#a136d0b630baa343288da3e0f11d035d0" title="execute_create_select\l_query" alt="" coords="459,107,612,149"/>
+</map>

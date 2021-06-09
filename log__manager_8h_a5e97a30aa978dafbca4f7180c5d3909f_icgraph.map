@@ -1,0 +1,21 @@
+<map id="log_sysop_attach_to_outer" name="log_sysop_attach_to_outer">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#ac9b4d424db02d5d385762fb4d682853f" title="catalog_create" alt="" coords="236,5,343,32"/>
+<area shape="rect" id="node4" href="$system__catalog_8h.html#a79e76e64f86b7c8a5e071a9097b4ef85" title="catalog_end_access\l_with_dir_oid" alt="" coords="219,57,360,98"/>
+<area shape="rect" id="node6" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="216,123,363,149"/>
+<area shape="rect" id="node7" href="$file__manager_8h.html#a16d305dda24a6bc850b5fb1ce06f57a8" title="file_alloc_multiple" alt="" coords="227,173,352,200"/>
+<area shape="rect" id="node8" href="$overflow__file_8h.html#a0dea508c2a4861ae92f8a35813c01bfa" title="overflow_insert" alt="" coords="459,199,569,225"/>
+<area shape="rect" id="node9" href="$classcubload_1_1server__object__loader.html#a59e168f3f9d0312d95c9fe90786e5729" title="cubload::server_object\l_loader::flush_records" alt="" coords="213,275,366,317"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#a23cd5f642edebaad25e8fafd58600228" title="heap_create_internal" alt="" coords="218,341,361,368"/>
+<area shape="rect" id="node11" href="$log__2pc_8h.html#a6ae2e71f9ebb8789390c01087bb8e947" title="log_2pc_prepare_global_tran" alt="" coords="196,392,383,419"/>
+<area shape="rect" id="node12" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="252,443,327,469"/>
+<area shape="rect" id="node13" href="$log__manager_8h.html#a337f8a4c9ef75b8f01e4f5293d2f3381" title="log_abort_partial" alt="" coords="231,493,348,520"/>
+<area shape="rect" id="node14" href="$log__manager_8h.html#a390852f8765cd90576d47d02ef0d10b6" title="log_commit" alt="" coords="245,544,334,571"/>
+<area shape="rect" id="node15" href="$overflow__file_8h.html#acf0a82fadbaf6ca25f85cc615c5ceb1a" title="overflow_update" alt="" coords="231,595,348,621"/>
+<area shape="rect" id="node16" href="$query__executor_8c.html#acd4533cedf2007a5f83ab33c5281c081" title="qexec_execute_selupd_list" alt="" coords="200,645,379,672"/>
+<area shape="rect" id="node17" href="$btree_8c.html#ac6cf5583334e01375cf6f96c1db3dd7f" title="xbtree_add_index" alt="" coords="227,696,351,723"/>
+<area shape="rect" id="node18" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="451,721,577,748"/>
+<area shape="rect" id="node19" href="$locator__sr_8c.html#ace08b5cef55a9ee6741134de7b01f4de" title="xlocator_assign_oid\l_batch" alt="" coords="221,798,358,839"/>
+<area shape="rect" id="node20" href="$transaction__sr_8c.html#a9b5f535da0352cfafc4cd0966b36190d" title="xtran_server_end_topop" alt="" coords="209,864,370,891"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="431,5,597,32"/>
+<area shape="rect" id="node5" href="$system__catalog_8h.html#ade6c3fc1349d8627c3330c0ed25a8021" title="catalog_add_class_info" alt="" coords="435,64,593,91"/>
+</map>

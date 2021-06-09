@@ -1,0 +1,4 @@
+<map id="tran_server_set_global_tran_info" name="tran_server_set_global_tran_info">
+<area shape="rect" id="node2" href="$transaction__cl_8h.html#a661016e69b6e4d4b869874bc7f56566f" title="tran_set_global_tran_info" alt="" coords="207,13,373,39"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a7e213e074e9e6ccc6d14aa420e430f3d" title="db_set_global_transaction_info" alt="" coords="421,13,623,39"/>
+</map>

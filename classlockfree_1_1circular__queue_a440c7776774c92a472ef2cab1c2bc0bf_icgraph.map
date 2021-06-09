@@ -1,0 +1,7 @@
+<map id="lockfree::circular_queue::size" name="lockfree::circular_queue::size">
+<area shape="rect" id="node2" href="$classlockfree_1_1circular__queue.html#a6c4047310c369973fd178fcfc5795999" title="lockfree::circular\l_queue::is_half_full" alt="" coords="172,71,307,112"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#a56acda508bd853f4151f326af1f1d068" title="pgbuf_peek_stats" alt="" coords="177,139,302,166"/>
+<area shape="rect" id="node3" href="$vacuum_8c.html#a25daab97104455e9fa805fc81e61e92f" title="vacuum_data_unload\l_first_and_last_page" alt="" coords="361,5,507,47"/>
+<area shape="rect" id="node4" href="$vacuum_8c.html#ae66792b33521d74f515269ddc2e48672" title="vacuum_finished_block\l_vacuum" alt="" coords="355,71,513,112"/>
+<area shape="rect" id="node6" href="$perf__monitor_8c.html#a9d1547f69a11593dadcd6c45eaa9de21" title="perfmon_server_calc\l_stats" alt="" coords="363,136,505,177"/>
+</map>

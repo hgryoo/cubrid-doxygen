@@ -1,0 +1,7 @@
+<map id="tr_execute_deferred_activities" name="tr_execute_deferred_activities">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#af63384eb2a153421670765ec97a16a55" title="db_execute_deferred\l_activities" alt="" coords="205,5,348,47"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#abab83460820e08fd46668a24486e06a4" title="do_execute_trigger" alt="" coords="211,71,343,98"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#a41d04a7d0b17de73944be50c74e07715" title="tr_check_commit_triggers" alt="" coords="191,122,363,149"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="411,46,512,73"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="560,71,715,98"/>
+</map>

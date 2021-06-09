@@ -1,0 +1,6 @@
+<map id="coll_tailoring" name="coll_tailoring">
+<area shape="rect" id="node2" href="$structuca__options.html" title="{uca_options\n|+ sett_strength\l+ sett_backwards\l+ sett_caseLevel\l+ sett_caseFirst\l+ sett_expansions\l+ sett_contr_policy\l+ use_only_first_ce\l+ sett_match_contr\l|}" alt="" coords="5,13,141,193"/>
+<area shape="rect" id="node3" href="$structcubrid__tailor__rule.html" title="{cubrid_tailor_rule\n|+ start_cp_buf\l+ end_cp_buf\l+ start_cp_buf_type\l+ end_cp_buf_type\l+ start_weight\l+ step\l|}" alt="" coords="165,27,304,178"/>
+<area shape="rect" id="node4" href="$structldml__context.html" title="{ldml_context\n|+ ldml_file\l+ line_no\l|}" alt="" coords="328,57,424,149"/>
+<area shape="rect" id="node5" href="$structtailor__rule.html" title="{tailor_rule\n|+ level\l+ anchor_buf\l+ r_pos_type\l+ r_buf\l+ r_buf_size\l+ direction\l+ t_buf\l+ t_buf_size\l+ multiple_chars\l|}" alt="" coords="449,5,567,200"/>
+</map>

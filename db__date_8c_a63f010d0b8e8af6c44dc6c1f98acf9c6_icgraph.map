@@ -1,0 +1,18 @@
+<map id="day_of_week" name="day_of_week">
+<area shape="rect" id="node2" href="$db__date_8h.html#ae628637295e6a128b522d584475678a5" title="db_date_weekday" alt="" coords="165,112,291,139"/>
+<area shape="rect" id="node8" href="$string__opfunc_8h.html#a232bfdbd299af3a32b5932414b4167ec" title="db_get_date_weekday" alt="" coords="152,239,304,265"/>
+<area shape="rect" id="node10" href="$fetch_8c.html#a015b39ce4e28d2ff2328f6604037ea71" title="get_date_weekday" alt="" coords="163,391,293,417"/>
+<area shape="rect" id="node12" href="$string__opfunc_8h.html#ac494fc03121af1136abf4aaf2d3a97fc" title="get_day" alt="" coords="194,441,262,468"/>
+<area shape="rect" id="node14" href="$arithmetic_8c.html#a89c4cee2bccdb4a5d6b312d112112f31" title="round_date" alt="" coords="185,289,271,316"/>
+<area shape="rect" id="node16" href="$arithmetic_8c.html#a6862ca918413f4b587a38af98a6abf1d" title="truncate_date" alt="" coords="177,340,279,367"/>
+<area shape="rect" id="node3" href="$cnv_8c.html#a0e53713cdb8750d12d0c04f76d97d4fd" title="fmt_date_value" alt="" coords="368,36,479,63"/>
+<area shape="rect" id="node4" href="$cnv_8h.html#a3f9081b1b235025664edf100b2b778f5" title="db_string_date" alt="" coords="579,11,686,37"/>
+<area shape="rect" id="node5" href="$cnv_8h.html#ac6016f61a5b509eceb278ee73723d427" title="db_timestamp_string" alt="" coords="352,87,495,113"/>
+<area shape="rect" id="node6" href="$cnv_8h.html#a03e9fc5987518a65fc7392fa13976342" title="db_datetime_string" alt="" coords="357,137,489,164"/>
+<area shape="rect" id="node7" href="$csql__result__format_8c.html#a3f9c6dd70029eac0cd2c04d766c61c13" title="date_as_string" alt="" coords="370,188,477,215"/>
+<area shape="rect" id="node9" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="543,289,723,316"/>
+<area shape="rect" id="node11" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="573,340,692,367"/>
+<area shape="rect" id="node13" href="$string__opfunc_8c.html#a3eabfdbc0680237a3ba296973c5e75a4" title="date_to_char" alt="" coords="375,441,472,468"/>
+<area shape="rect" id="node15" href="$arithmetic_8h.html#a2ca1b6f705b0fbbcc8406fdc5d157d29" title="db_round_dbval" alt="" coords="367,289,480,316"/>
+<area shape="rect" id="node17" href="$arithmetic_8h.html#ad0311a523d0853262727aadf322d144d" title="db_trunc_dbval" alt="" coords="368,340,479,367"/>
+</map>

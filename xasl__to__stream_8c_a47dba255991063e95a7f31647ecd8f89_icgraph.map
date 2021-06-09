@@ -1,0 +1,9 @@
+<map id="xts_sizeof_list_id" name="xts_sizeof_list_id">
+<area shape="rect" id="node2" href="$xasl__to__stream_8c.html#a75f742e7cb16d232906497cea1dcd682" title="xts_save_list_id" alt="" coords="176,132,292,159"/>
+<area shape="rect" id="node3" href="$xasl__to__stream_8c.html#a6b300102f49620aba637c9e4a6f4066c" title="xts_process_aggregate_type" alt="" coords="341,5,531,32"/>
+<area shape="rect" id="node4" href="$xasl__to__stream_8c.html#a3613983a0bef1d303b45e76e212248bb" title="xts_process_analytic_type" alt="" coords="347,56,525,83"/>
+<area shape="rect" id="node5" href="$xasl__to__stream_8c.html#a0e8d93596ecf65c5e90cfb57119e4910" title="xts_process_buildlist_proc" alt="" coords="348,107,524,133"/>
+<area shape="rect" id="node6" href="$xasl__to__stream_8c.html#a668786726f34509f06689e47376aec69" title="xts_process_xasl_node" alt="" coords="580,157,739,184"/>
+<area shape="rect" id="node7" href="$xasl__to__stream_8c.html#abbcbae735fea0cf1d84042ef98f8d7f2" title="xts_process_connectby_proc" alt="" coords="340,208,532,235"/>
+<area shape="rect" id="node8" href="$xasl__to__stream_8c.html#ac39f101d06f1a793e15bfdf027a3b0fa" title="xts_process_srlist_id" alt="" coords="363,259,509,285"/>
+</map>

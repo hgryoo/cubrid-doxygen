@@ -1,0 +1,9 @@
+<map id="adjust_partition_range" name="adjust_partition_range">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a71e57012993f98148b4b9bb1236f7daa" title="do_create_partition" alt="" coords="220,88,352,115"/>
+<area shape="rect" id="node7" href="$execute__schema_8h.html#a8d9a955e21fdad284b4980448aba4ce8" title="do_drop_partition_list" alt="" coords="213,189,359,216"/>
+<area shape="rect" id="node8" href="$execute__schema_8c.html#aedeb2a4d7196782cc611f23eb45aa388" title="do_promote_partition_list" alt="" coords="203,240,369,267"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a3d065088ea9aebd736b48d0427c4c604" title="do_alter_partitioning_pre" alt="" coords="647,139,809,165"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a3bff2a1d9326a77b64702da53220fa4d" title="do_alter_partitioning_post" alt="" coords="423,37,593,64"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#aed95a2b379aae1e46aaf7878a9f0c334" title="do_reorganize_partition_pre" alt="" coords="417,88,599,115"/>
+<area shape="rect" id="node6" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="449,139,567,165"/>
+</map>

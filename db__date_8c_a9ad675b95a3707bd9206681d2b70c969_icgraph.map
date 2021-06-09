@@ -1,0 +1,20 @@
+<map id="db_timestamp_encode_w_reg" name="db_timestamp_encode_w_reg">
+<area shape="rect" id="node2" href="$db__date_8h.html#add9cafa119125d6b648982295791edf5" title="db_timestamp_encode_ses" alt="" coords="207,326,388,352"/>
+<area shape="rect" id="node19" href="$db__date_8h.html#a8288faf996abe68e8699b699bc81e408" title="db_timestamp_encode_sys" alt="" coords="437,630,618,656"/>
+<area shape="rect" id="node3" href="$db__value__table_8c.html#aa9a789deca402677a794455213dc5372" title="value_to_db_value" alt="" coords="462,123,593,150"/>
+<area shape="rect" id="node4" href="$cas__execute_8c.html#a235ed61a310d3fc128b8c64464ce6c47" title="netval_to_dbval" alt="" coords="471,174,584,200"/>
+<area shape="rect" id="node5" href="$cnv_8h.html#a89e2c64f3e0114c37491dea0315719f5" title="db_string_timestamp" alt="" coords="456,224,599,251"/>
+<area shape="rect" id="node6" href="$cnv_8h.html#a03e9fc5987518a65fc7392fa13976342" title="db_datetime_string" alt="" coords="461,275,593,302"/>
+<area shape="rect" id="node7" href="$db__macro_8c.html#a50005912f93d40f89614b934c8e3ac34" title="coerce_datetime_to\l_dbvalue" alt="" coords="684,145,820,186"/>
+<area shape="rect" id="node8" href="$db__date_8h.html#af744144c9396bb4a4ab3e0f049703500" title="db_timestamp_encode" alt="" coords="451,376,604,403"/>
+<area shape="rect" id="node9" href="$db__date_8h.html#a367e831f1e01cb4eeb0c7191c7ac26ba" title="db_date_parse_timestamp" alt="" coords="440,427,615,454"/>
+<area shape="rect" id="node10" href="$db__date_8h.html#aca437d07f28aa7f613ef26adc1e25f6f" title="db_string_to_timestamp_ex" alt="" coords="436,326,619,352"/>
+<area shape="rect" id="node11" href="$string__opfunc_8h.html#a60648e051e84a97b82fceb595d9af67b" title="db_to_timestamp" alt="" coords="691,452,813,479"/>
+<area shape="rect" id="node12" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="885,452,1065,479"/>
+<area shape="rect" id="node13" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="916,655,1035,682"/>
+<area shape="rect" id="node14" href="$object__domain_8h.html#a3ef8fad832e5b2d18462ff84b286782a" title="tp_value_coerce_strict" alt="" coords="451,579,604,606"/>
+<area shape="rect" id="node15" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="451,72,603,99"/>
+<area shape="rect" id="node16" href="$string__opfunc_8h.html#a38a1a2d06831e3a885f1ba8752d683da" title="db_datetime_to_timestamp" alt="" coords="438,528,617,555"/>
+<area shape="rect" id="node17" href="$execute__statement_8h.html#a808d1caf2a1fe3f468169c9e18fdafcd" title="do_evaluate_default_expr" alt="" coords="667,554,837,580"/>
+<area shape="rect" id="node18" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="677,503,827,530"/>
+</map>

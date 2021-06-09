@@ -1,0 +1,7 @@
+<map id="hl_mspace_s" name="hl_mspace_s">
+<area shape="rect" id="node2" href="$structmmap__trace__h__s.html" title="{mmap_trace_h_s\n|+ ptr\l|}" alt="" coords="5,270,128,347"/>
+<area shape="rect" id="node3" href="$structmalloc__state.html" title="{malloc_state\n|+ smallmap\l+ treemap\l+ dvsize\l+ topsize\l+ least_addr\l+ trim_check\l+ magic\l+ footprint\l+ max_footprint\l+ mflags\l|}" alt="" coords="214,204,327,413"/>
+<area shape="rect" id="node4" href="$structmalloc__chunk.html" title="{malloc_chunk\n|+ prev_foot\l+ head\l|}" alt="" coords="34,13,137,105"/>
+<area shape="rect" id="node5" href="$structmalloc__segment.html" title="{malloc_segment\n|+ base\l+ size\l+ sflags\l|}" alt="" coords="212,5,329,112"/>
+<area shape="rect" id="node6" href="$structmalloc__tree__chunk.html" title="{malloc_tree_chunk\n|+ prev_foot\l+ head\l+ index\l|}" alt="" coords="415,5,545,112"/>
+</map>

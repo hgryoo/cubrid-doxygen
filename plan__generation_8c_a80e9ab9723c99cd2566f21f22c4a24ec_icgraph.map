@@ -1,0 +1,6 @@
+<map id="add_sort_spec" name="add_sort_spec">
+<area shape="rect" id="node2" href="$plan__generation_8c.html#a851ad3e58cae2b277cdf3f058e304cac" title="gen_outer" alt="" coords="160,56,239,83"/>
+<area shape="rect" id="node5" href="$plan__generation_8c.html#a38a4745f054db7cd1f993f7e5fd494dd" title="make_sort_limit_proc" alt="" coords="287,107,433,133"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#a5ba46846df3d11008f3c7d2fd4fa6cf3" title="gen_inner" alt="" coords="321,5,399,32"/>
+<area shape="rect" id="node4" href="$plan__generation_8c.html#a5102adacf28a2cda8aa170e7b07af380" title="qo_to_xasl" alt="" coords="317,56,403,83"/>
+</map>

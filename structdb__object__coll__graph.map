@@ -1,0 +1,7 @@
+<map id="db_object" name="db_object">
+<area shape="rect" id="node2" href="$unionvid__oid.html" title="{vid_oid\n||}" alt="" coords="81,377,144,455"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,145,97,252"/>
+<area shape="rect" id="node4" href="$structvid__info.html" title="{vid_info\n|+ flags\l|}" alt="" coords="122,160,189,237"/>
+<area shape="rect" id="node5" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="143,5,240,83"/>
+<area shape="rect" id="node6" href="$structws__value__list.html" title="{ws_value_list\n||}" alt="" coords="177,276,278,353"/>
+</map>

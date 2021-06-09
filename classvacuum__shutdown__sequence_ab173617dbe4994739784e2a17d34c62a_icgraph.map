@@ -1,0 +1,4 @@
+<map id="vacuum_shutdown_sequence::is_shutdown_requested" name="vacuum_shutdown_sequence::is_shutdown_requested">
+<area shape="rect" id="node2" href="$vacuum_8c.html#ae66792b33521d74f515269ddc2e48672" title="vacuum_finished_block\l_vacuum" alt="" coords="248,5,407,47"/>
+<area shape="rect" id="node3" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="455,5,600,47"/>
+</map>

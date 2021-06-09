@@ -1,0 +1,6 @@
+<map id="la_release_all_page_buffers" name="la_release_all_page_buffers">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a985ea807a9f77fb66077722eea3554a9" title="la_apply_log_file" alt="" coords="191,5,310,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a7ba25f44bcecbaa522dd022fb722f0c5" title="la_apply_repl_log" alt="" coords="189,56,312,83"/>
+<area shape="rect" id="node3" href="$utility_8h.html#aa7a280251cdf100c28e06298f181b584" title="applylogdb" alt="" coords="390,5,474,32"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a074bae9d02a5d1762d2f938082877397" title="la_apply_commit_list" alt="" coords="360,56,504,83"/>
+</map>

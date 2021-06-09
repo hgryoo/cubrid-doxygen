@@ -1,0 +1,6 @@
+<map id="xrepl_set_info" name="xrepl_set_info">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#acfaaaddcf5fbd7967c50a500c5288759" title="repl_set_info" alt="" coords="203,5,299,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#ae6ae00caaccf6fea34a0d2fc9ff1b1b7" title="srepl_set_info" alt="" coords="200,56,303,83"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#ab21b6e3b0d4a2e3c6cb9736569fc66b8" title="xchksum_insert_repl\l_log_and_demote_table_lock" alt="" coords="156,107,347,149"/>
+<area shape="rect" id="node3" href="$locator__cl_8h.html#a5e8cd1cf986bb8fc666c1385cad9ba59" title="locator_flush_replication_info" alt="" coords="395,5,585,32"/>
+</map>

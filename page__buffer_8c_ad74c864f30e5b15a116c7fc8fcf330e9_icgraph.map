@@ -1,0 +1,13 @@
+<map id="pgbuf_wake_flush_waiters" name="pgbuf_wake_flush_waiters">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#aacfdde3e346ff6e9ecf80711fbcf3285" title="pgbuf_assign_direct\l_victim" alt="" coords="247,188,386,229"/>
+<area shape="rect" id="node10" href="$page__buffer_8c.html#a6ebdf1006f6b5bb49a3fc4c4f8f75e31" title="pgbuf_bcb_flush_with_wal" alt="" coords="229,414,404,441"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a7ef66aad01f8e682d9ce69bce1988bbd" title="pgbuf_get_victim_candidates\l_from_lru" alt="" coords="452,188,643,229"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a7cc1c686b4d3e0a9de41d12d4bfa26b7" title="pgbuf_get_victim_from\l_lru_list" alt="" coords="470,253,625,295"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#abaa51159b1cd1415ea6c06976a4c232f" title="pgbuf_lru_add_new_bcb\l_to_bottom" alt="" coords="466,319,629,360"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#afefe190b536faf7fecddcd0bff83e6e7" title="pgbuf_lru_fall_bcb\l_to_zone_3" alt="" coords="484,5,611,47"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="691,93,857,135"/>
+<area shape="rect" id="node9" href="$page__buffer_8c.html#af1d28b14d0180489e3ec532a4dbf54d6" title="pgbuf_unlatch_void\l_zone_bcb" alt="" coords="480,123,615,164"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="709,283,839,324"/>
+<area shape="rect" id="node11" href="$page__buffer_8c.html#a7b2dfb96a20574b1b57312f01a840fbe" title="pgbuf_bcb_safe_flush\l_internal" alt="" coords="473,436,622,477"/>
+<area shape="rect" id="node12" href="$page__buffer_8c.html#a9575052dd0e19e22fba169b20a566af8" title="pgbuf_flush_neighbor_safe" alt="" coords="459,502,636,529"/>
+</map>

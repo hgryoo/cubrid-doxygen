@@ -1,0 +1,5 @@
+<map id="log_rv_undoredo_partial_changes_recursive" name="log_rv_undoredo_partial_changes_recursive">
+<area shape="rect" id="node2" href="$log__recovery_8c.html#ab58608b3311d02710479684964e3d417" title="log_rv_undoredo_record\l_partial_changes" alt="" coords="212,39,372,80"/>
+<area shape="rect" id="node3" href="$btree_8c.html#aaa267465ef3900c62ee720e7cd2000b6" title="btree_rv_record_modify\l_internal" alt="" coords="420,5,579,47"/>
+<area shape="rect" id="node4" href="$log__recovery_8c.html#a4778616eda042a16c2f69398f42a8b85" title="log_rv_record_modify\l_internal" alt="" coords="426,71,573,112"/>
+</map>

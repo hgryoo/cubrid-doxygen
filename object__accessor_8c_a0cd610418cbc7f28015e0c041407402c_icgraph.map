@@ -1,0 +1,10 @@
+<map id="obj_isinstance" name="obj_isinstance">
+<area shape="rect" id="node2" href="$db__info_8c.html#abff5378f2d6b0407916bc74ca64d0269" title="db_is_instance" alt="" coords="159,165,268,192"/>
+<area shape="rect" id="node3" href="$cas__execute_8c.html#a155b399a63eb71ca8a1103ac41f668b1" title="fetch_result" alt="" coords="358,5,449,32"/>
+<area shape="rect" id="node4" href="$cas__function_8h.html#a0e7c2e21a118179ca22c4c90c647bd57" title="fn_oid" alt="" coords="539,165,596,192"/>
+<area shape="rect" id="node5" href="$query__method_8h.html#a4d924a91280fef1cebe25fbcfca186d7" title="method_invoke_for_server" alt="" coords="316,107,491,133"/>
+<area shape="rect" id="node6" href="$method__scan_8c.html#ab5c1ecda7b5379e97445b2d334767dcb" title="method_receive_results\l_for_stand_alone" alt="" coords="323,158,483,199"/>
+<area shape="rect" id="node7" href="$semantic__check_8c.html#abb85c54eca5fb7e5f403ec82e95e50f2" title="pt_check_method" alt="" coords="341,224,466,251"/>
+<area shape="rect" id="node8" href="$cas__execute_8h.html#afebc4123a586e04f57674b4a3da451cc" title="ux_check_object" alt="" coords="343,275,463,301"/>
+<area shape="rect" id="node9" href="$cas__execute_8c.html#a09fb612decd1a1a896712e730489a24a" title="ux_str_to_obj" alt="" coords="353,325,453,352"/>
+</map>

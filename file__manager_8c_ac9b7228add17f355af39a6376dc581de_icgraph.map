@@ -1,0 +1,6 @@
+<map id="file_table_add_full_sector" name="file_table_add_full_sector">
+<area shape="rect" id="node2" href="$file__manager_8c.html#adc0db5dfc925dc493ef06a24997d87d1" title="file_perm_alloc" alt="" coords="180,31,289,57"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a3a741355345c6add6859fa974b7025eb" title="file_alloc" alt="" coords="555,5,628,32"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a73d7f335d0b5680c0f40feccb2d4d936" title="file_numerable_add_page" alt="" coords="337,31,507,57"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a809af1534543d29a6f24183047377085" title="file_perm_dealloc" alt="" coords="361,81,483,108"/>
+</map>

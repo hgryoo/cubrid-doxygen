@@ -1,0 +1,7 @@
+<map id="pt_merge_regu_var_lists" name="pt_merge_regu_var_lists">
+<area shape="rect" id="node2" href="$xasl__generation_8c.html#a1298bde12567f59453bafcb81f1046d8" title="pt_add_regu_var_to_list" alt="" coords="223,5,383,32"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#a1f81e4037454c0979dfb4cccdb8a630d" title="pt_aggregate_info_update\l_scan_regu_list" alt="" coords="217,57,388,98"/>
+<area shape="rect" id="node6" href="$xasl__generation_8c.html#a830ba5e7b59a5982de355e6aa2c44ac1" title="pt_aggregate_info_update\l_value_and_reguvar_lists" alt="" coords="217,122,388,163"/>
+<area shape="rect" id="node3" href="$xasl__generation_8c.html#a0478bde64a46944b15437bb6ef408b0c" title="pt_split_pred_regu_list" alt="" coords="436,5,588,32"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#ad46a88b888478204b4db5bda01620a1e" title="pt_to_aggregate_node" alt="" coords="437,64,587,91"/>
+</map>

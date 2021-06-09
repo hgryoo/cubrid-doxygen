@@ -1,0 +1,21 @@
+<map id="thread_suspend_with_other_mutex" name="thread_suspend_with_other_mutex">
+<area shape="rect" id="node2" href="$critical__section_8c.html#aee015618d549d418b8934e4803ecfba2" title="csect_wait_on_promoter\l_queue" alt="" coords="199,5,363,47"/>
+<area shape="rect" id="node4" href="$critical__section_8c.html#a233b0efb081e39ccf6f6562bddb7c5fa" title="csect_wait_on_writer\l_queue" alt="" coords="208,71,353,112"/>
+<area shape="rect" id="node6" href="$log__writer_8h.html#af1e1368d8e63a233e503b44c7cad4f4e" title="logwr_log_ha_filestat\l_to_string" alt="" coords="209,136,353,177"/>
+<area shape="rect" id="node7" href="$thread__entry_8hpp.html#ae4aec9f0db38ca8a9c9ecfef70b13c41" title="thread_unlock_entry" alt="" coords="211,447,350,474"/>
+<area shape="rect" id="node3" href="$critical__section_8c.html#aa91f3de79a182a830e2221436df03935" title="csect_promote_critical\l_section" alt="" coords="419,5,573,47"/>
+<area shape="rect" id="node5" href="$critical__section_8h.html#a3d0e88877f7fc681032da8bec2c406fb" title="csect_enter_critical\l_section" alt="" coords="429,71,563,112"/>
+<area shape="rect" id="node8" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="418,137,574,163"/>
+<area shape="rect" id="node9" href="$connection__sr_8c.html#ab5a30720e8eb9812b4110d8893231655" title="css_free_wait_queue\l_entry" alt="" coords="423,188,569,229"/>
+<area shape="rect" id="node10" href="$connection__sr_8c.html#a7b14f5dcb61f10200379c033f8d47156" title="css_queue_packet" alt="" coords="431,254,561,281"/>
+<area shape="rect" id="node11" href="$connection__sr_8c.html#a4ae98ca7720529ffbc7f83697630ca18" title="css_return_queued_data\l_timeout" alt="" coords="414,305,578,347"/>
+<area shape="rect" id="node12" href="$server__support_8c.html#affa283d6ed08e3f1ecb10e54833154f4" title="css_stop_non_log_writer" alt="" coords="413,371,579,398"/>
+<area shape="rect" id="node13" href="$double__write__buffer_8c.html#af1df7c3fcfffd94b8560d7a575d65848" title="dwb_set_status_resumed" alt="" coords="411,422,581,449"/>
+<area shape="rect" id="node14" href="$double__write__buffer_8c.html#a63a546f3bd2182d9b4e0ead2aa4e6251" title="dwb_wait_for_block\l_completion" alt="" coords="629,440,767,481"/>
+<area shape="rect" id="node15" href="$double__write__buffer_8c.html#ad9e145e1ebb67b00cdff7dc617a94c16" title="dwb_signal_waiting\l_thread" alt="" coords="429,524,563,565"/>
+<area shape="rect" id="node16" href="$double__write__buffer_8c.html#a83874b2343c29141d5349aa14526ffde" title="dwb_wait_for_strucure\l_modification" alt="" coords="419,589,573,631"/>
+<area shape="rect" id="node17" href="$page__buffer_8c.html#ac9a59dd7ac23cdbc22052a9e1ab496c4" title="pgbuf_block_bcb" alt="" coords="436,655,556,682"/>
+<area shape="rect" id="node18" href="$page__buffer_8c.html#ad52a19e58500feeaa168bde701246375" title="pgbuf_allocate_bcb" alt="" coords="429,706,563,733"/>
+<area shape="rect" id="node19" href="$page__buffer_8c.html#adcf0e78bb68bbe6ee48cdc06e534ff41" title="pgbuf_add_fixed_at" alt="" coords="429,757,563,783"/>
+<area shape="rect" id="node20" href="$page__buffer_8c.html#aacfdde3e346ff6e9ecf80711fbcf3285" title="pgbuf_assign_direct\l_victim" alt="" coords="427,808,565,849"/>
+</map>

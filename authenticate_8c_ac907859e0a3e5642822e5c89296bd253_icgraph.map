@@ -1,0 +1,6 @@
+<map id="apply_grants" name="apply_grants">
+<area shape="rect" id="node2" href="$authenticate_8c.html#adf983ab6951322d3850ce69b0f114b15" title="update_cache" alt="" coords="149,56,252,83"/>
+<area shape="rect" id="node3" href="$authenticate_8c.html#a9302da9ee0937a6d96f0631d0145d41d" title="check_grant_option" alt="" coords="310,5,445,32"/>
+<area shape="rect" id="node4" href="$authenticate_8c.html#a63a4c36b25d39cf7195c55014ec223b9" title="check_authorization" alt="" coords="308,56,447,83"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#ac802ef70b84f3aa7df6103a81f3f8b65" title="au_get_class_privilege" alt="" coords="300,107,455,133"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="sm_class_has_triggers" name="sm_class_has_triggers">
+<area shape="rect" id="node2" href="$execute__statement_8c.html#a64dfb8ac55e46089afdb246594b4b597" title="delete_real_class" alt="" coords="234,5,357,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#a85e8dbc4b535c06c8b8520863eb93046" title="do_insert_checks" alt="" coords="429,333,553,360"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a5a96449a20d34f17f764bead35cde84e" title="do_prepare_delete" alt="" coords="231,131,359,157"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a92e684c00e2d830e80140690244b728e" title="do_prepare_merge" alt="" coords="231,181,360,208"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#ac634b027d1b85e4fbfb2cc7e8b803fc7" title="do_prepare_update" alt="" coords="229,232,361,259"/>
+<area shape="rect" id="node8" href="$execute__statement_8c.html#a6b47e54cc490643b3c953815ef8b84b3" title="insert_local" alt="" coords="251,283,339,309"/>
+<area shape="rect" id="node9" href="$execute__statement_8c.html#ac9b44e740a0faf24bf5260d2e6ca443b" title="is_server_insert_allowed" alt="" coords="213,333,378,360"/>
+<area shape="rect" id="node10" href="$execute__statement_8c.html#aaf9c7813f04d7d279a083415b271f64a" title="is_server_update_allowed" alt="" coords="209,384,381,411"/>
+<area shape="rect" id="node11" href="$semantic__check_8c.html#a74be8f892e6e90ed5692941e03bf1843" title="pt_check_alter" alt="" coords="242,435,349,461"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a8070f330b782d3244c678f467cdd440d" title="do_delete" alt="" coords="452,5,531,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="log_append_donetime_internal" name="log_append_donetime_internal">
+<area shape="rect" id="node2" href="$log__manager_8c.html#ad648d8d9254d7b13e3b7b1438ad4f8a7" title="log_append_abort_log" alt="" coords="419,5,567,32"/>
+<area shape="rect" id="node5" href="$log__manager_8c.html#aba63cb46c8cb6b70f5cd09b2349d740e" title="log_append_commit_log" alt="" coords="412,56,575,83"/>
+<area shape="rect" id="node7" href="$log__manager_8c.html#a6e4e93a7ea3dfe9cd5d4771c76d107e0" title="log_append_commit_log\l_with_lock" alt="" coords="201,107,364,149"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a205cb9f31defd227b8340f7f4bd24a09" title="log_complete" alt="" coords="648,5,747,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="623,56,772,83"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="636,111,759,137"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html#af5d8d7a7f98530300f39ddae25242248" title="log_append_repl_info\l_and_commit_log" alt="" coords="421,107,565,149"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="do_rename_partition" name="do_rename_partition">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#a53bb6f39da1ec8a04f7f61a2ae90ef85" title="sm_rename_class" alt="" coords="192,56,320,83"/>
+<area shape="rect" id="node3" href="$db__class_8c.html#ae79c65d1d55a21a06e2e0b918f033852" title="db_rename_class" alt="" coords="375,5,499,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8h.html#ac6844d00e93bf62a3defc37748351999" title="do_rename_partition" alt="" coords="368,56,507,83"/>
+</map>

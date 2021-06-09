@@ -1,0 +1,8 @@
+<map id="qmgr_free_temp_file_list" name="qmgr_free_temp_file_list">
+<area shape="rect" id="node2" href="$query__manager_8c.html#a308e4b2a461f3852aad1447d5553f929" title="qmgr_free_query_temp\l_file_helper" alt="" coords="225,45,380,86"/>
+<area shape="rect" id="node5" href="$session_8c.html#ad9a0de3bf095360f1f609ec1d9cfb7b2" title="session_free_sentry_data" alt="" coords="217,111,388,137"/>
+<area shape="rect" id="node3" href="$query__manager_8h.html#ace099a1e6a1109b25e6923004dcf2e05" title="qmgr_clear_trans_wakeup" alt="" coords="438,5,613,32"/>
+<area shape="rect" id="node4" href="$query__manager_8c.html#ad5845447b3eadd199c4735db36f1c259" title="qmgr_free_query_temp_file" alt="" coords="436,56,615,83"/>
+<area shape="rect" id="node6" href="$session_8c.html#a2b7195f4d807a71e7290871accba1d81" title="session_state_uninit" alt="" coords="455,108,596,135"/>
+<area shape="rect" id="node7" href="$session_8h.html#acb4cff8936b4c5262114816b3c286d6d" title="session_remove_query\l_entry_info" alt="" coords="447,159,603,201"/>
+</map>

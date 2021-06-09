@@ -1,0 +1,7 @@
+<map id="qo_plan_iscan_terms_cmp" name="qo_plan_iscan_terms_cmp">
+<area shape="rect" id="node2" href="$query__planner_8c.html#a17fe9b179b48078737a31c155c684638" title="qo_group_by_skip_plans_cmp" alt="" coords="479,5,676,32"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#a339ec9f3a7428a9562981e87be076b93" title="qo_plan_cmp" alt="" coords="724,107,823,133"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#a6d291bd84344eb7b08d5239c6d668489" title="qo_index_covering_plans_cmp" alt="" coords="231,109,431,136"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#a3acad1d3a3cf5722a879c152c0530721" title="qo_multi_range_opt\l_plans_cmp" alt="" coords="510,158,645,199"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a4b063e37fddd46b9a76217d4659a72a9" title="qo_order_by_skip_plans_cmp" alt="" coords="233,219,428,245"/>
+</map>

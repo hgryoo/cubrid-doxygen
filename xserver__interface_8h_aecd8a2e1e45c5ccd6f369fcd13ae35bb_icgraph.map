@@ -1,0 +1,6 @@
+<map id="xboot_add_volume_extension" name="xboot_add_volume_extension">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a420e5a1096274ad90eeadd7c5d2edb39" title="boot_add_volume_extension" alt="" coords="252,5,439,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a8575b0aff82934213a3b31d34302153e" title="sboot_add_volume_extension" alt="" coords="248,56,443,83"/>
+<area shape="rect" id="node3" href="$dbi_8h.html#a42f86a1af7f30d07a05cf9babd8a862b" title="db_add_volume_ex" alt="" coords="491,5,625,32"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="505,56,611,83"/>
+</map>

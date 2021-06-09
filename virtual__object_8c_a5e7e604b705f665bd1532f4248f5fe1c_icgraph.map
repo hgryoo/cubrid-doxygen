@@ -1,0 +1,7 @@
+<map id="vid_make_vobj" name="vid_make_vobj">
+<area shape="rect" id="node2" href="$virtual__object_8h.html#abd029d221a6187826131177eec01d6ff" title="vid_object_to_vobj" alt="" coords="163,81,293,108"/>
+<area shape="rect" id="node3" href="$classdb__value__printer.html#a7b0acde7c70f84f5d2f0d17128276391" title="db_value_printer::describe_data" alt="" coords="341,5,548,32"/>
+<area shape="rect" id="node4" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="369,56,521,83"/>
+<area shape="rect" id="node5" href="$object__primitive_8c.html#a085001b7721cb86787345e4324c4497c" title="mr_data_lengthval_object" alt="" coords="359,107,530,133"/>
+<area shape="rect" id="node6" href="$object__primitive_8c.html#a4df79f3029310a69760b8e4188eb243d" title="mr_data_writeval_object" alt="" coords="363,157,526,184"/>
+</map>

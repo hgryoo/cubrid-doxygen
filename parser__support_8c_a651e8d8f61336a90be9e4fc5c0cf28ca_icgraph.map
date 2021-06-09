@@ -1,0 +1,9 @@
+<map id="pt_create_param_for_value" name="pt_create_param_for_value">
+<area shape="rect" id="node2" href="$parser__support_8c.html#a58dd1d8230f5bc457eb897b859e4da16" title="pt_rewrite_to_auto\l_param" alt="" coords="195,112,324,154"/>
+<area shape="rect" id="node3" href="$parser_8h.html#abba9948ec677feaccc5865f14ceea1b7" title="qo_do_auto_parameterize" alt="" coords="374,40,545,66"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#ac0a20cb5a8c5692232eac5977bb39094" title="mq_auto_param_merge\l_clauses" alt="" coords="595,7,753,48"/>
+<area shape="rect" id="node5" href="$query__rewrite_8c.html#ace6201135ef7c3f735dc445859b48617" title="qo_optimize_queries" alt="" coords="603,120,745,146"/>
+<area shape="rect" id="node6" href="$query__rewrite_8c.html#a31625dba77932555709af4b651cb775b" title="qo_do_auto_parameterize\l_limit_clause" alt="" coords="374,142,545,183"/>
+<area shape="rect" id="node7" href="$query__rewrite_8c.html#acf355f67bc8247ac1c7b2a1b7d0feedf" title="qo_do_auto_parameterize\l_keylimit_clause" alt="" coords="374,207,545,248"/>
+<area shape="rect" id="node8" href="$execute__statement_8c.html#ad23d776ce7a07d19479803018049af45" title="do_prepare_insert_internal" alt="" coords="372,273,547,300"/>
+</map>

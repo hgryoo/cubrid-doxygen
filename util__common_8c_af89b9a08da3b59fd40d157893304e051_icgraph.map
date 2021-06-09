@@ -1,0 +1,6 @@
+<map id="util_split_ha_node" name="util_split_ha_node">
+<area shape="rect" id="node2" href="$utility_8h.html#a27c37e3afb01bc008d0925dc212b800c" title="util_get_num_of_ha\l_nodes" alt="" coords="181,5,315,47"/>
+<area shape="rect" id="node4" href="$util__common_8c.html#a8095e03eb720e40ee7499e1f6cc22231" title="util_is_replica_node" alt="" coords="180,71,316,98"/>
+<area shape="rect" id="node5" href="$utility_8h.html#a19f5136ee5eecaf7eba9ad6fd3adfd52" title="util_make_ha_conf" alt="" coords="377,97,507,123"/>
+<area shape="rect" id="node3" href="$connection__globals_8c.html#a401068c0fcb1730f3381ca2fc547f90e" title="css_get_required_conn\l_num_for_ha" alt="" coords="364,5,520,47"/>
+</map>

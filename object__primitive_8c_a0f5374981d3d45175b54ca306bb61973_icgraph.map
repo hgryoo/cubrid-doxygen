@@ -1,0 +1,6 @@
+<map id="mr_initmem_datetime" name="mr_initmem_datetime">
+<area shape="rect" id="node2" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="397,45,537,87"/>
+<area shape="rect" id="node3" href="$object__primitive_8c.html#add258cddee9d43e91c2a05f39d8e124c" title="mr_initval_datetime" alt="" coords="207,27,342,54"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a5c95600c3ff49d72aa29c6aeb54ccc87" title="mr_initval_datetimeltz" alt="" coords="200,78,349,105"/>
+<area shape="rect" id="node5" href="$object__primitive_8c.html#ad68c27a565cfcc4c2d2f0c88f8cfa99c" title="mr_setmem_datetime" alt="" coords="201,129,349,155"/>
+</map>

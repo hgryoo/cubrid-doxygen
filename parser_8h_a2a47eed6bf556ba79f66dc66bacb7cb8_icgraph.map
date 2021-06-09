@@ -1,0 +1,6 @@
+<map id="mq_free_virtual_query_cache" name="mq_free_virtual_query_cache">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#a33ecc4629252ff135669cf7bae56b5f4" title="sm_free_resident_classes\l_virtual_query_cache" alt="" coords="204,23,379,65"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a377cbc4f3e0978a261fdd2682c3624bd" title="sm_virtual_queries" alt="" coords="226,89,357,116"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#ad12b4fb9779983b783876760d6ad4a24" title="sm_final" alt="" coords="477,5,547,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#a3b0219c9ad80cc2dad107a148290edcb" title="sm_transaction_boundary" alt="" coords="427,56,597,83"/>
+</map>

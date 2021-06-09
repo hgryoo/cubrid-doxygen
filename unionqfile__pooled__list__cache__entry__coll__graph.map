@@ -1,0 +1,6 @@
+<map id="qfile_pooled_list_cache_entry" name="qfile_pooled_list_cache_entry">
+<area shape="rect" id="node2" href="$structqfile__list__cache__entry.html" title="{qfile_list_cache_entry\n|+ list_ht_no\l+ query_string\l+ time_created\l+ time_last_used\l+ ref_count\l+ deletion_marker\l|}" alt="" coords="270,351,418,501"/>
+<area shape="rect" id="node3" href="$structxasl__cache__ent.html" title="{xasl_cache_ent\n|+ del_id\l+ xasl_header_flag\l+ n_related_objects\l+ time_last_used\l+ ref_count\l+ clr_count\l+ list_ht_no\l+ free_data_on_uninit\l+ n_cache_clones\l+ cache_clones_capacity\l+ cache_clones_mutex\l+ time_last_rt_check\l+ initialized\l|+ xasl_cache_ent()\l+ ~xasl_cache_ent()\l+ init_clone_cache()\l}" alt="" coords="5,5,176,288"/>
+<area shape="rect" id="node4" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="269,64,419,229"/>
+<area shape="rect" id="node5" href="$structdb__value__array.html" title="{db_value_array\n|+ size\l|}" alt="" coords="443,108,554,185"/>
+</map>

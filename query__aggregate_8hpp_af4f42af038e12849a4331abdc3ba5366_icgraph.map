@@ -1,0 +1,6 @@
+<map id="qdata_free_agg_hentry" name="qdata_free_agg_hentry">
+<area shape="rect" id="node2" href="$query__aggregate_8hpp.html#a0c1a0d4736264858be8213e6ab677231" title="qdata_save_agg_htable\l_to_list" alt="" coords="208,64,367,105"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a17faac1fcc1657c08eccb5e91adfc86a" title="qexec_hash_gby_agg\l_tuple" alt="" coords="415,5,563,47"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a9c1b6caa93e08b016011a658c89661c1" title="qexec_free_agg_hash\l_context" alt="" coords="213,129,362,171"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#aeb8bf568b044802bdc42d5e200d45f27" title="qexec_groupby" alt="" coords="433,71,544,98"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="net_client_request_internal" name="net_client_request_internal">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a0326b26cb6dda39054c5ece6b4a3a50d" title="net_client_request" alt="" coords="181,495,309,521"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a8716b497346089672bab295078d17828" title="locator_find_class_oid" alt="" coords="376,5,527,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a1161435247022efd22d7889cfd861c2b" title="locator_reserve_class\l_names" alt="" coords="377,57,526,98"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#af0912839e061bb9e19a954dc6cb6fdb0" title="locator_get_reserved\l_class_name_oid" alt="" coords="380,122,523,163"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#a7b99477e8c820810cbc05253f6775899" title="locator_delete_class_name" alt="" coords="361,188,541,215"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#a88397effa18cdd43f3fc67e539704935" title="locator_rename_class_name" alt="" coords="357,239,545,265"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#a0423c520bd685096602d46d1c3d06b66" title="locator_assign_oid" alt="" coords="386,289,517,316"/>
+<area shape="rect" id="node9" href="$network__interface__cl_8h.html#a50cf9b4657f805143f07e15d1f2ea154" title="locator_assign_oid\l_batch" alt="" coords="386,341,517,382"/>
+<area shape="rect" id="node10" href="$network__interface__cl_8h.html#af49bebf9853336fa0f303e998222457f" title="heap_create" alt="" coords="405,407,498,433"/>
+<area shape="rect" id="node11" href="$network__interface__cl_8h.html#a624cfc5566d14b2b0b93b1a4b9607294" title="heap_destroy_newly\l_created" alt="" coords="381,458,522,499"/>
+<area shape="rect" id="node12" href="$network__interface__cl_8h.html#a46aad22b36277c8d23b3abf9de421403" title="heap_reclaim_addresses" alt="" coords="368,524,535,551"/>
+<area shape="rect" id="node13" href="$network__interface__cl_8h.html#af0b04fafae49ed36d85ff877cb098d27" title="file_apply_tde_to_class\l_files" alt="" coords="372,575,531,617"/>
+<area shape="rect" id="node14" href="$network__interface__cl_8h.html#af5768cbdabb1070a45c7fe8b9eea1b38" title="tde_get_mk_info" alt="" coords="392,641,511,668"/>
+<area shape="rect" id="node15" href="$network__interface__cl_8h.html#a7f4d0687a64b7a18a537ffa607870a6f" title="tde_change_mk_on_server" alt="" coords="362,692,541,719"/>
+<area shape="rect" id="node16" href="$network__interface__cl_8h.html#a9f19611c6e17a353595dbe45e642749d" title="disk_get_total_numpages" alt="" coords="366,743,537,769"/>
+<area shape="rect" id="node17" href="$network__interface__cl_8h.html#a756218cafecc8a88df43504bed43f383" title="disk_get_free_numpages" alt="" coords="368,793,535,820"/>
+<area shape="rect" id="node18" href="$network__interface__cl_8h.html#a3ac94ec9a4d21b5ebf28c021629edda8" title="log_reset_wait_msecs" alt="" coords="375,844,527,871"/>
+<area shape="rect" id="node19" href="$network__interface__cl_8h.html#ad943c0c990a083abda14e12eaff3d749" title="log_reset_isolation" alt="" coords="386,895,517,921"/>
+<area shape="rect" id="node20" href="$network__interface__cl_8h.html#a2c4897050b40a18bf917b7647f20fa81" title="log_checkpoint" alt="" coords="397,945,506,972"/>
+</map>

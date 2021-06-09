@@ -1,0 +1,7 @@
+<map id="log_append_dboutside_redo" name="log_append_dboutside_redo">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="263,31,353,57"/>
+<area shape="rect" id="node5" href="$disk__manager_8h.html#a55303cc2193f6a053bce1d984cc4f516" title="disk_rv_undo_format" alt="" coords="237,81,379,108"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#acab4b2c2b370376c9df6fde278ac1e48" title="disk_volume_expand" alt="" coords="236,132,380,159"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#aa1450d661897bab9929324e46c0b641d" title="disk_add_volume" alt="" coords="451,5,573,32"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a5fdac5331f81f23b3b65375177ded3f5" title="disk_format_first_volume" alt="" coords="428,56,596,83"/>
+</map>

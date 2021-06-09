@@ -1,0 +1,9 @@
+<map id="btree_write_record" name="btree_write_record">
+<area shape="rect" id="node2" href="$btree__load_8c.html#ad96235296b0b3438c2639b7f7111664b" title="btree_connect_page" alt="" coords="202,5,341,32"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#a73b823ef7264be8b5bd32dae1e5fc8cf" title="btree_first_oid" alt="" coords="219,56,323,83"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a5af8ba4607057c98ad45f0d91b6f7160" title="btree_key_insert_new_key" alt="" coords="183,107,360,133"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a777512037cd84eb5b53cc6492a81447f" title="btree_split_node" alt="" coords="413,171,530,197"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a29dab257ee803a595192321147caa5ed" title="btree_split_root" alt="" coords="416,233,527,260"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a7a1974789f71aceef777e399fbdf8e8d" title="btree_split_test" alt="" coords="216,208,327,235"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#a2e3d0063dd97e3546031d1f224c54831" title="btree_build_nleafs" alt="" coords="408,5,535,32"/>
+</map>

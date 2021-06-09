@@ -1,0 +1,21 @@
+<map id="envvar_vardir_file" name="envvar_vardir_file">
+<area shape="rect" id="node2" href="$databases__file_8c.html#ad9138d482a89472083b802db02f2608f" title="cfg_get_directory_filename" alt="" coords="177,107,356,134"/>
+<area shape="rect" id="node6" href="$file__io_8h.html#a063e5cd8e90a68224439a8d365c9836a" title="fileio_lock_la_dbname" alt="" coords="191,199,342,226"/>
+<area shape="rect" id="node8" href="$file__io_8h.html#a2fe991ded4328ea4b86bd35e068e2554" title="fileio_unlock_la_dbname" alt="" coords="185,263,349,290"/>
+<area shape="rect" id="node10" href="$broker__filename_8h.html#abedf993c3459b7636342e96fb71685a6" title="get_cubrid_file" alt="" coords="213,339,320,366"/>
+<area shape="rect" id="node17" href="$jsp__file_8h.html#ab9f7c5b321908d27d34f34bac14b726c" title="javasp_get_info_file" alt="" coords="198,390,335,417"/>
+<area shape="rect" id="node18" href="$jsp__file_8h.html#ae330eda60dafa33176fc7b5e1dab34ca" title="javasp_open_info" alt="" coords="205,441,328,467"/>
+<area shape="rect" id="node19" href="$jsp__file_8h.html#a87d5a2455067e2b26308e1c8aa01f85f" title="javasp_open_info_dir" alt="" coords="195,491,339,518"/>
+<area shape="rect" id="node20" href="$util__service_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="241,542,292,569"/>
+<area shape="rect" id="node3" href="$databases__file_8c.html#a516afc82c9231f20ae30ee3e8c566fba" title="cfg_ensure_directory\l_write" alt="" coords="428,5,571,47"/>
+<area shape="rect" id="node4" href="$databases__file_8h.html#af98b5d4ab1244a6feda3a1d3b843781b" title="cfg_maycreate_get_directory\l_filename" alt="" coords="404,71,595,112"/>
+<area shape="rect" id="node5" href="$databases__file_8c.html#aa5e7a87a79d076a8393ac1e9faf7354c" title="cfg_open_directory_file" alt="" coords="421,137,577,163"/>
+<area shape="rect" id="node7" href="$log__applier_8c.html#a2366fc9e055d3e14674d2bc1806534a6" title="la_lock_dbname" alt="" coords="441,187,557,214"/>
+<area shape="rect" id="node9" href="$log__applier_8c.html#ac7a0a69de5d34f84d7cc150459c6549a" title="la_unlock_dbname" alt="" coords="434,238,565,265"/>
+<area shape="rect" id="node11" href="$broker_8c.html#a923a7117fc6edab7a8239007fbd71a29" title="get_as_sql_log_filename" alt="" coords="417,289,582,315"/>
+<area shape="rect" id="node12" href="$broker_8c.html#ad1d98995dfc1df3365d73e39184fe89c" title="get_as_slow_log_filename" alt="" coords="412,339,587,366"/>
+<area shape="rect" id="node13" href="$broker__admin__pub_8h.html#ad2b7e17f9a9fe16d07b20db49cea8f6b" title="admin_start_cmd" alt="" coords="438,390,561,417"/>
+<area shape="rect" id="node14" href="$broker__config_8h.html#a687a401027428907342dab0643d44d0f" title="broker_config_read" alt="" coords="433,441,565,467"/>
+<area shape="rect" id="node15" href="$broker__error_8c.html#a8d301ca21aff4133ebf5ac9f0c148135" title="get_error_msg" alt="" coords="447,491,552,518"/>
+<area shape="rect" id="node16" href="$broker__tester_8c.html#ad65baf850c0b3f36a3663b6ebc171b68" title="get_master_shm_id" alt="" coords="431,542,567,569"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="xcol_create" name="xcol_create">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#a72d00d3a71b2949b3e52e57106476feb" title="cci_set_to_xcol" alt="" coords="164,71,277,98"/>
+<area shape="rect" id="node5" href="$cci__stub_8c.html#a9449cf872d07cc2ed918630c8dad2c00" title="ci_collection_new_impl" alt="" coords="143,122,299,149"/>
+<area shape="rect" id="node6" href="$cci__stub_8c.html#a4a7eb236de7abda6b2bed24d491d286e" title="xcol_copy" alt="" coords="180,173,261,199"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#aaea086744e8e056ed1576258d0704b0e" title="get_value_from_req\l_handle" alt="" coords="358,5,494,47"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#a95650a1fa64b1ccfe75d60acdc301d4c" title="get_value_from_tset" alt="" coords="356,71,496,98"/>
+<area shape="rect" id="node7" href="$cci__stub_8c.html#a1978e2dadde3ed97644e195756cd3bac" title="get_value_from_api_val" alt="" coords="347,173,505,199"/>
+</map>

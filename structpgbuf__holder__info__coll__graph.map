@@ -1,0 +1,4 @@
+<map id="pgbuf_holder_info" name="pgbuf_holder_info">
+<area shape="rect" id="node2" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="60,5,132,97"/>
+<area shape="rect" id="node3" href="$structpgbuf__watcher.html" title="{pgbuf_watcher\n|+ pgptr\l+ latch_mode\l+ page_was_unfixed\l+ initial_rank\l+ curr_rank\l+ magic\l+ watched_at\l+ init_at\l|}" alt="" coords="133,160,275,340"/>
+</map>

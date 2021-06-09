@@ -1,0 +1,5 @@
+<map id="uci_rollback" name="uci_rollback">
+<area shape="rect" id="node2" href="$esql__cli_8c.html#a288ea5272d6f511fcc93bf1b974af1e6" title="uci_disconnect" alt="" coords="144,5,253,32"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#a757dbaafd04d15630e854f52bdf858a4" title="uci_stop" alt="" coords="312,56,383,83"/>
+<area shape="rect" id="node3" href="$esql__cli_8c.html#a7ea0c0c414f93998422d83c65c7c8e32" title="uci_connect" alt="" coords="301,5,393,32"/>
+</map>

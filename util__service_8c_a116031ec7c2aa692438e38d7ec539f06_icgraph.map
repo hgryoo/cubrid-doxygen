@@ -1,0 +1,5 @@
+<map id="us_hb_deactivate" name="us_hb_deactivate">
+<area shape="rect" id="node2" href="$util__service_8c.html#a4d372c6d302a9107f320db64b66fad4f" title="process_heartbeat_start" alt="" coords="177,5,340,32"/>
+<area shape="rect" id="node4" href="$util__service_8c.html#ab0b1337fcf9e1cc6d6ba925d94583e0a" title="process_heartbeat_stop" alt="" coords="178,56,339,83"/>
+<area shape="rect" id="node3" href="$util__service_8c.html#a987ee80be18954803cfe4fc0e54bb118" title="process_heartbeat" alt="" coords="388,31,517,57"/>
+</map>

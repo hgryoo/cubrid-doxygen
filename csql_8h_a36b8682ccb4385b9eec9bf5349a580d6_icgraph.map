@@ -1,0 +1,6 @@
+<map id="csql_edit_write_file" name="csql_edit_write_file">
+<area shape="rect" id="node2" href="$csql__support_8c.html#a2e39a8f37ec6ea7afd5a455313294f17" title="csql_invoke_system\l_editor" alt="" coords="187,5,328,47"/>
+<area shape="rect" id="node4" href="$csql_8c.html#acb6f2bc4d9398b0587d85b79b0c9da78" title="csql_print_buffer" alt="" coords="198,71,317,98"/>
+<area shape="rect" id="node5" href="$csql_8c.html#a7523d7792766996ae66c1ef9949bccb4" title="csql_write_file" alt="" coords="205,122,310,149"/>
+<area shape="rect" id="node3" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="376,71,527,98"/>
+</map>

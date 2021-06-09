@@ -1,0 +1,19 @@
+<map id="logtb_is_active" name="logtb_is_active">
+<area shape="rect" id="node2" href="$lock__manager_8h.html#a504786492af357a6a63b3b255364b4c6" title="lock_demote_class_lock" alt="" coords="171,71,337,98"/>
+<area shape="rect" id="node5" href="$lock__manager_8c.html#a104e521b5f958d944f9443a0aff23348" title="lock_detect_local_deadlock" alt="" coords="163,169,345,195"/>
+<area shape="rect" id="node7" href="$slotted__page_8c.html#abf20303000c68e44e48f4fceed1d278c" title="spage_has_enough_total\l_space" alt="" coords="171,267,337,308"/>
+<area shape="rect" id="node15" href="$slotted__page_8c.html#a175f857ba7d9a698b4cb1d3d4ceb62e8" title="spage_save_space" alt="" coords="187,527,321,554"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="429,5,559,47"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#ac2e34e4cec9ec7a7d4e8ccbfdc8557d6" title="xlocator_demote_class_lock" alt="" coords="401,71,587,98"/>
+<area shape="rect" id="node6" href="$lock__manager_8h.html#a39894afba679cc8ff708080ea5ae6ac8" title="lock_initialize" alt="" coords="444,122,544,149"/>
+<area shape="rect" id="node8" href="$slotted__page_8c.html#a756e5a4b54913dd86e1ae6f3593f4594" title="spage_check_mvcc_updatable" alt="" coords="393,173,595,199"/>
+<area shape="rect" id="node9" href="$slotted__page_8c.html#afb80260750091b0cbf047137ac7275c3" title="spage_check_space" alt="" coords="423,223,565,250"/>
+<area shape="rect" id="node10" href="$slotted__page_8c.html#abbb2d30b5a8ab594f64f968c25fc5b60" title="spage_find_empty_slot" alt="" coords="643,274,799,301"/>
+<area shape="rect" id="node11" href="$slotted__page_8h.html#ab68d38c29c234969d85ddb87ddad1cfb" title="spage_split" alt="" coords="847,325,935,351"/>
+<area shape="rect" id="node12" href="$slotted__page_8c.html#a2225348843f5cb76dccbfbd1f0fe5dbb" title="spage_check_updatable" alt="" coords="413,375,575,402"/>
+<area shape="rect" id="node14" href="$slotted__page_8c.html#a8babb15f96118961deadfbb0c2c4f0f0" title="spage_put_helper" alt="" coords="432,426,556,453"/>
+<area shape="rect" id="node13" href="$slotted__page_8h.html#a730e0f7edabde62143313bc8fecf3193" title="spage_update" alt="" coords="669,426,772,453"/>
+<area shape="rect" id="node16" href="$slotted__page_8h.html#afd65f125e45ecee4ba04b6063c18bced" title="spage_delete" alt="" coords="445,578,543,605"/>
+<area shape="rect" id="node17" href="$slotted__page_8h.html#a7b3b2ecfd80f3b8ace03a602a03ec4b7" title="spage_merge" alt="" coords="671,603,771,630"/>
+<area shape="rect" id="node18" href="$slotted__page_8h.html#a26dce904e73bbe85947a5d1bab46d2f2" title="spage_take_out" alt="" coords="437,679,551,706"/>
+</map>

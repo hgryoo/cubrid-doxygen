@@ -1,0 +1,21 @@
+<map id="src/transaction/log_storage.hpp" name="src/transaction/log_storage.hpp">
+<area shape="rect" id="node2" href="$tde_8c.html" title="src/storage/tde.c" alt="" coords="5,102,125,129"/>
+<area shape="rect" id="node3" href="$log__2pc_8h.html" title="src/transaction/log\l_2pc.h" alt="" coords="530,95,659,136"/>
+<area shape="rect" id="node4" href="$log__impl_8h.html" title="src/transaction/log\l_impl.h" alt="" coords="633,184,762,225"/>
+<area shape="rect" id="node8" href="$log__global_8c.html" title="src/transaction/log\l_global.c" alt="" coords="275,273,405,315"/>
+<area shape="rect" id="node11" href="$log__append_8hpp.html" title="src/transaction/log\l_append.hpp" alt="" coords="1070,95,1199,136"/>
+<area shape="rect" id="node19" href="$log__archives_8hpp.html" title="src/transaction/log\l_archives.hpp" alt="" coords="377,95,506,136"/>
+<area shape="rect" id="node20" href="$log__writer_8c.html" title="src/transaction/log\l_writer.c" alt="" coords="1223,95,1353,136"/>
+<area shape="rect" id="node7" href="$log__2pc_8c.html" title="src/transaction/log\l_2pc.c" alt="" coords="709,273,838,315"/>
+<area shape="rect" id="node9" href="$log__recovery_8c.html" title="src/transaction/log\l_recovery.c" alt="" coords="555,273,685,315"/>
+<area shape="rect" id="node10" href="$transaction__sr_8c.html" title="src/transaction/transaction_sr.c" alt="" coords="251,191,456,218"/>
+<area shape="rect" id="node5" href="$vacuum_8c.html" title="src/query/vacuum.c" alt="" coords="1217,281,1354,307"/>
+<area shape="rect" id="node6" href="$double__write__buffer_8c.html" title="src/storage/double\l_write_buffer.c" alt="" coords="1699,273,1829,315"/>
+<area shape="rect" id="node12" href="$server__support_8c.html" title="src/connection/server\l_support.c" alt="" coords="2047,184,2193,225"/>
+<area shape="rect" id="node13" href="$list__file_8c.html" title="src/query/list_file.c" alt="" coords="889,191,1021,218"/>
+<area shape="rect" id="node14" href="$query__manager_8c.html" title="src/query/query_manager.c" alt="" coords="1045,191,1225,218"/>
+<area shape="rect" id="node15" href="$serial_8c.html" title="src/query/serial.c" alt="" coords="1249,191,1372,218"/>
+<area shape="rect" id="node16" href="$btree_8c.html" title="src/storage/btree.c" alt="" coords="1396,191,1527,218"/>
+<area shape="rect" id="node17" href="$btree__load_8c.html" title="src/storage/btree_load.c" alt="" coords="1601,191,1764,218"/>
+<area shape="rect" id="node18" href="$disk__manager_8c.html" title="src/storage/disk_manager.c" alt="" coords="1789,191,1971,218"/>
+</map>

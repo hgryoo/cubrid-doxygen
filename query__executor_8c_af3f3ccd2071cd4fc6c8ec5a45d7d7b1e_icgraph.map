@@ -1,0 +1,5 @@
+<map id="qexec_eval_ordbynum_pred" name="qexec_eval_ordbynum_pred">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a88c76f42fcdb0493ad08df615f85f379" title="qexec_ordby_put_next" alt="" coords="237,13,391,39"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#ace94f31b6618ddcdf735e6e3c126542d" title="qexec_topn_tuples_to\l_list_id" alt="" coords="239,64,389,105"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#afc8ab2de7aaa4b6d5ef71a493ff1e9fc" title="qexec_orderby_distinct\l_by_sorting" alt="" coords="439,5,595,47"/>
+</map>

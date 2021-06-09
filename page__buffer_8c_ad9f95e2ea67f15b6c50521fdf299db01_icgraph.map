@@ -1,0 +1,13 @@
+<map id="pgbuf_get_volume_id" name="pgbuf_get_volume_id">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a1fac11dc8d5a41e19a5efcc5c81a4c4e" title="disk_rv_reserve_sectors" alt="" coords="206,5,370,32"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a58d0c09f77d2f72b4faee4162764f195" title="disk_rv_unreserve_sectors" alt="" coords="199,56,377,83"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#ae992651fa819e40b4a7958f333640ae4" title="heap_chkreloc_next" alt="" coords="219,107,357,133"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#a3329393383b9a92ce790befa0b562618" title="heap_find_location\l_and_insert_rec_newhome" alt="" coords="199,158,377,199"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#acdbe82c4e3f3d9c4a543094ff6d27311" title="heap_get_insert_location\l_with_lock" alt="" coords="205,223,371,265"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#a22d95c7a19a0fd86f2f835d0bd6f6b6a" title="heap_get_mvcc_header" alt="" coords="208,289,368,316"/>
+<area shape="rect" id="node12" href="$heap__file_8h.html#a5bb5d09f056ffe72a3986544ac12e4f1" title="heap_rv_redo_reuse_page" alt="" coords="201,340,375,367"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a74f90f3011a14028be61f651827805d1" title="heap_check_all_pages\l_by_heapchain" alt="" coords="432,99,587,141"/>
+<area shape="rect" id="node9" href="$heap__file_8h.html#a20c08d91f9b9fad6d6260b6f53ce3ddf" title="heap_get_last_version" alt="" coords="433,239,585,265"/>
+<area shape="rect" id="node10" href="$locator__sr_8c.html#a4af1d4f8e39597fdb439d70ce878f453" title="locator_lock_and_get\l_object_internal" alt="" coords="641,257,787,298"/>
+<area shape="rect" id="node11" href="$heap__file_8h.html#a9022fc8e0667a9d05dca8ef3dff751fc" title="heap_get_visible_version\l_internal" alt="" coords="425,341,593,382"/>
+</map>

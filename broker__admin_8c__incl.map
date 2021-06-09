@@ -1,0 +1,14 @@
+<map id="src/broker/broker_admin.c" name="src/broker/broker_admin.c">
+<area shape="rect" id="node8" href="$cas__common_8h.html" title="cas_common.h" alt="" coords="459,155,570,181"/>
+<area shape="rect" id="node11" href="$broker__admin__pub_8h.html" title="broker_admin_pub.h" alt="" coords="888,80,1027,107"/>
+<area shape="rect" id="node12" href="$broker__config_8h.html" title="broker_config.h" alt="" coords="977,304,1087,331"/>
+<area shape="rect" id="node15" href="$broker__shm_8h.html" title="broker_shm.h" alt="" coords="672,229,773,256"/>
+<area shape="rect" id="node18" href="$broker__error_8h.html" title="broker_error.h" alt="" coords="1377,80,1479,107"/>
+<area shape="rect" id="node19" href="$broker__util_8h.html" title="broker_util.h" alt="" coords="477,80,571,107"/>
+<area shape="rect" id="node20" href="$util__func_8h.html" title="util_func.h" alt="" coords="320,80,403,107"/>
+<area shape="rect" id="node10" href="$porting_8h.html" title="porting.h" alt="" coords="615,379,687,405"/>
+<area shape="rect" id="node13" href="$environment__variable_8h.html" title="environment_variable.h" alt="" coords="1030,379,1186,405"/>
+<area shape="rect" id="node14" href="$shard__metadata_8h.html" title="shard_metadata.h" alt="" coords="969,155,1095,181"/>
+<area shape="rect" id="node16" href="$shard__shm_8h.html" title="shard_shm.h" alt="" coords="697,155,794,181"/>
+<area shape="rect" id="node17" href="$shard__key__func_8h.html" title="shard_key_func.h" alt="" coords="819,155,944,181"/>
+</map>

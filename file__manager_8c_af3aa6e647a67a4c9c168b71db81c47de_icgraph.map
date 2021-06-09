@@ -1,0 +1,8 @@
+<map id="file_create_temp" name="file_create_temp">
+<area shape="rect" id="node2" href="$query__manager_8h.html#ad9d4b1266739a7188db7c5a9d848c56c" title="qmgr_get_new_page" alt="" coords="172,97,315,123"/>
+<area shape="rect" id="node7" href="$external__sort_8c.html#ae88a25d3c753f1ad9629064c1b092270" title="sort_inphase_sort" alt="" coords="181,147,306,174"/>
+<area shape="rect" id="node3" href="$list__file_8c.html#a09a320a9e523837ac8c8de64dcb10a05" title="qfile_allocate_new\l_ovf_page" alt="" coords="380,5,509,47"/>
+<area shape="rect" id="node4" href="$list__file_8c.html#a53924a83c409288c48e6380a479fcb2d" title="qfile_allocate_new_page" alt="" coords="363,71,527,98"/>
+<area shape="rect" id="node5" href="$list__file_8c.html#a1914e43f4a96514cbc9f0555a5b69529" title="qfile_copy_list_pages" alt="" coords="371,122,518,149"/>
+<area shape="rect" id="node6" href="$list__file_8h.html#ab4f13b15b2ddac8fbd42965eb5a7dbbd" title="qfile_get_first_page" alt="" coords="377,173,512,199"/>
+</map>

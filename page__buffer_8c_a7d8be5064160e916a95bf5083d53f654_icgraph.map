@@ -1,0 +1,6 @@
+<map id="pgbuf_flush_victim_candidates" name="pgbuf_flush_victim_candidates">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a06d2b0cbf44eb89ea6c4c9f068cf4344" title="pgbuf_get_page_flush\l_interval" alt="" coords="197,5,347,47"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a7014e631a37bc9e0f7136303cbc78ae6" title="pgbuf_wakeup_page_flush\l_daemon" alt="" coords="184,71,360,112"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#ad52a19e58500feeaa168bde701246375" title="pgbuf_allocate_bcb" alt="" coords="418,49,553,75"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a7cc1c686b4d3e0a9de41d12d4bfa26b7" title="pgbuf_get_victim_from\l_lru_list" alt="" coords="408,100,563,141"/>
+</map>

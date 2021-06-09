@@ -1,0 +1,21 @@
+<map id="sysprm_print_parameters_for_qry_string" name="sysprm_print_parameters_for_qry_string">
+<area shape="rect" id="node2" href="$parser_8h.html#a3eb5b8714fd83d008cecc376f1d80dad" title="parser_print_tree" alt="" coords="223,452,341,479"/>
+<area shape="rect" id="node3" href="$query__graph_8c.html#affb4a344f89fc8f093f3aa024036b6a8" title="qo_term_dump" alt="" coords="437,5,545,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#a29b6c93216d5a115255abc56d5fd8378" title="qo_term_string" alt="" coords="437,56,545,83"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#aad549ea8a678c629c8e0ca45d5792665" title="qo_top_plan_print_json" alt="" coords="414,107,569,133"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a28d43758064c3edc8cc87a5e1c7fdbb9" title="qo_top_plan_print_text" alt="" coords="415,157,568,184"/>
+<area shape="rect" id="node7" href="$cnf_8c.html#a2e5307627aec3a0f89d91469a5ac093d" title="pt_transform_cnf_post" alt="" coords="415,208,567,235"/>
+<area shape="rect" id="node8" href="$parser_8h.html#aad3a2a097f967001a50f50bbb499e6e8" title="pt_get_one_tuple_from\l_list_id" alt="" coords="414,259,569,301"/>
+<area shape="rect" id="node9" href="$parser_8h.html#a4853e16b7c40c71fa14e72dcdb83f263" title="pt_short_print" alt="" coords="441,427,542,453"/>
+<area shape="rect" id="node10" href="$semantic__check_8c.html#a24bc4f0a91e527103132bf36d7bbfca6" title="pt_check_create_entity" alt="" coords="661,327,818,353"/>
+<area shape="rect" id="node11" href="$semantic__check_8c.html#a4b3d5d45219cedc7d9447296d9a21cc0" title="pt_check_single_valued_node" alt="" coords="641,379,837,405"/>
+<area shape="rect" id="node12" href="$semantic__check_8c.html#ae6d2d49f6f5e2a7ce58a870a49ecf9ae" title="pt_check_order_by" alt="" coords="673,432,805,459"/>
+<area shape="rect" id="node13" href="$semantic__check_8c.html#ab5177fe6352a4491decb75e6151a3ffa" title="pt_check_group_concat\l_order_by" alt="" coords="659,487,819,529"/>
+<area shape="rect" id="node14" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="649,561,829,588"/>
+<area shape="rect" id="node15" href="$query__result_8c.html#a932bd9992e27cbc4f384af9809128c66" title="pt_get_attr_name" alt="" coords="430,629,553,656"/>
+<area shape="rect" id="node16" href="$semantic__check_8h.html#a9707fb60111e3e2076af068d8572bef8" title="pt_check_union_type\l_compatibility_of_values_query" alt="" coords="389,681,593,722"/>
+<area shape="rect" id="node17" href="$semantic__check_8c.html#a23b3c3bf355683950ebdc1d31c167a45" title="pt_check_constraint" alt="" coords="422,747,561,773"/>
+<area shape="rect" id="node18" href="$semantic__check_8c.html#acde3305e74b4e1737c1dedadf17c38be" title="pt_compare_sort_spec_expr" alt="" coords="398,797,585,824"/>
+<area shape="rect" id="node19" href="$view__transform_8c.html#a156a59cb1b3ee893fdbb0dcd74375adc" title="mq_check_using_index" alt="" coords="412,848,571,875"/>
+<area shape="rect" id="node20" href="$xasl__generation_8h.html#ab0b2e9a90743aaf7796632286b0d757b" title="pt_to_pos_descr" alt="" coords="432,923,551,949"/>
+</map>

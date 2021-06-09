@@ -1,0 +1,9 @@
+<map id="io_backup_session" name="io_backup_session">
+<area shape="rect" id="node2" href="$structfileio__backup__buffer.html" title="{fileio_backup_buffer\n|+ loc_db_fullname\l+ log_path\l+ vdes\l+ vlabel\l+ name\l+ current_path\l+ dtype\l+ iosize\l+ count\l+ voltotalio\l+ alltotalio\l+ buffer\l+ ptr\l|}" alt="" coords="164,725,303,979"/>
+<area shape="rect" id="node3" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="181,5,286,244"/>
+<area shape="rect" id="node4" href="$structfileio__backup__header.html" title="{fileio_backup_header\n|+ iopageid\l+ magic\l+ db_compatibility\l+ bk_hdr_version\l+ db_creation\l+ start_time\l+ end_time\l+ db_release\l+ db_fullname\l+ db_iopagesize\l+ level\l+ unit_num\l+ bkup_iosize\l+ db_prec_bkvolname\l+ db_next_bkvolname\l+ bkpagesize\l+ zip_method\l+ zip_level\l+ skip_activelog\l|}" alt="" coords="158,321,309,663"/>
+<area shape="rect" id="node7" href="$structfileio__backup__db__buffer.html" title="{fileio_backup_db_buffer\n|+ level\l+ vdes\l+ volid\l+ nbytes\l+ vlabel\l|}" alt="" coords="333,424,491,560"/>
+<area shape="rect" id="node5" href="$structfileio__thread__info.html" title="{fileio_thread_info\n|+ tran_index\l+ num_threads\l+ act_r_threads\l+ end_r_threads\l+ pageid\l+ from_npages\l+ io_type\l+ errid\l+ only_updated_pages\l+ initialized\l+ check_ratio\l+ check_npages\l|}" alt="" coords="483,733,637,971"/>
+<area shape="rect" id="node6" href="$structfileio__queue.html" title="{fileio_queue\n|+ size\l|}" alt="" coords="516,453,607,531"/>
+<area shape="rect" id="node8" href="$structfileio__backup__page.html" title="{fileio_backup_page\n|+ iopageid\l+ dummy\l+ iopageid_dup\l|}" alt="" coords="345,71,479,178"/>
+</map>

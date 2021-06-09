@@ -1,0 +1,5 @@
+<map id="stx_map_stream_to_xasl_node_header" name="stx_map_stream_to_xasl_node_header">
+<area shape="rect" id="node2" href="$list__file_8h.html#a1d4cce2f2578d3ed514d5d74dd3f118a" title="qfile_load_xasl_node\l_header" alt="" coords="221,27,364,69"/>
+<area shape="rect" id="node3" href="$query__manager_8c.html#ae47542b0a40155b09eeac88006c5a778" title="xqmgr_prepare_query" alt="" coords="417,5,563,32"/>
+<area shape="rect" id="node4" href="$session__sr_8c.html#a0d35e693274bc6a3270401e41c46d02e" title="xsession_get_prepared\l_statement" alt="" coords="412,57,568,98"/>
+</map>

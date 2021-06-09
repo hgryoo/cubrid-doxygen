@@ -1,0 +1,9 @@
+<map id="cursor_get_current_oid" name="cursor_get_current_oid">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a8b0b331fbb4ac526c8bf86d8312af23c" title="db_query_get_tuple_oid" alt="" coords="208,81,367,108"/>
+<area shape="rect" id="node7" href="$db__stub_8c.html#aa1f0644e51db7fd51ebd4d194558a9ce" title="res_delete_row_internal" alt="" coords="208,132,367,159"/>
+<area shape="rect" id="node8" href="$db__stub_8c.html#a122e219845e0e05b2f42fbdac9d1c7f3" title="rs_set_db_value" alt="" coords="229,183,346,209"/>
+<area shape="rect" id="node3" href="$cas__execute_8c.html#a155b399a63eb71ca8a1103ac41f668b1" title="fetch_result" alt="" coords="442,5,533,32"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#aa6d7891c51dfb91a37c0e5b853e2b255" title="uci_delete_cs" alt="" coords="436,56,539,83"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#ae0ffc12ccf9b0a8af23d5548c8258bf5" title="uci_psh_curr_csr_oid" alt="" coords="415,107,560,133"/>
+<area shape="rect" id="node6" href="$cas__execute_8h.html#a7ad11e73f127e325f67eb4a41ee0f8cd" title="ux_cursor_update" alt="" coords="425,157,550,184"/>
+</map>

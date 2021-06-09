@@ -1,0 +1,21 @@
+<map id="pt_domain_to_data_type" name="pt_domain_to_data_type">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="443,118,584,159"/>
+<area shape="rect" id="node3" href="$parser_8h.html#a5ebda07f22df0159947262cb8fb635f3" title="pt_add_type_to_set" alt="" coords="445,184,581,211"/>
+<area shape="rect" id="node4" href="$name__resolution_8c.html#abf7ca432781d9c3b6d33cd45c5cc600a" title="pt_bind_names_post" alt="" coords="657,235,800,261"/>
+<area shape="rect" id="node5" href="$name__resolution_8c.html#a852a85fac2595f015ff09025949ac9d1" title="pt_make_method_call" alt="" coords="860,619,1009,645"/>
+<area shape="rect" id="node6" href="$name__resolution_8c.html#ad0c49a8d0a076e2313381c33a122d907" title="pt_bind_reserved_name" alt="" coords="433,285,593,312"/>
+<area shape="rect" id="node7" href="$semantic__check_8c.html#a5843229c5e01ec51876cbfc885b6377a" title="pt_check_alter_partition" alt="" coords="649,285,809,312"/>
+<area shape="rect" id="node8" href="$semantic__check_8c.html#ab5db455025783dc63b0964bb283a1115" title="pt_check_partitions" alt="" coords="446,336,581,363"/>
+<area shape="rect" id="node9" href="$parser_8h.html#a866f633e64741ea9c045cde4d6fabbbd" title="pt_domain_to_data_type" alt="" coords="217,605,381,632"/>
+<area shape="rect" id="node10" href="$parser_8h.html#a20508523dc52fae16537de5f21b5773d" title="pt_resolve_default\l_value" alt="" coords="449,387,577,429"/>
+<area shape="rect" id="node11" href="$name__resolution_8c.html#a674514a46fe9a58a4b7bcbcfd1adc64c" title="pt_find_attr_in_class_list" alt="" coords="645,757,812,784"/>
+<area shape="rect" id="node12" href="$name__resolution_8c.html#a6a1d3db8bec342e117ca88fdffa0543f" title="pt_get_attr_data_type" alt="" coords="439,757,587,784"/>
+<area shape="rect" id="node13" href="$name__resolution_8c.html#a875e2ebca8d7ddbdfc62b1dd6e2a9aea" title="pt_resolve_star_reserved\l_names" alt="" coords="429,809,597,850"/>
+<area shape="rect" id="node14" href="$name__resolution_8c.html#a268be3ed043866578f04312d2a7aa8a6" title="pt_resolve_method_type" alt="" coords="431,707,595,733"/>
+<area shape="rect" id="node15" href="$parser_8h.html#ac9aa04940c9e86ca7b21642e2c304762" title="pt_value_to_db" alt="" coords="458,235,569,261"/>
+<area shape="rect" id="node16" href="$type__checking_8c.html#a9e8ecf7badfa6534b66e5521881e1cc6" title="pt_eval_expr_type" alt="" coords="665,605,793,632"/>
+<area shape="rect" id="node17" href="$parser_8h.html#aa8c8fae70d8fe0f084d91fe7be9153e4" title="pt_string_to_db_domain" alt="" coords="433,899,593,925"/>
+<area shape="rect" id="node18" href="$semantic__check_8c.html#af12757b0fbf3db19385a417129423131" title="pt_get_attributes" alt="" coords="454,949,573,976"/>
+<area shape="rect" id="node19" href="$type__checking_8c.html#a6b3cced7171fea578443fd482e8899cf" title="pt_update_host_var\l_data_type" alt="" coords="445,1001,581,1042"/>
+<area shape="rect" id="node20" href="$xasl__generation_8c.html#a3ead422130b4be99a9cf96ba5d10d9e7" title="pt_fix_first_term_expr\l_for_iss" alt="" coords="439,1066,587,1107"/>
+</map>

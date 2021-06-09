@@ -1,0 +1,11 @@
+<map id="db_query_spec_next" name="db_query_spec_next">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a741f68771dcf741ec80804d2a90658b1" title="db_validate" alt="" coords="241,5,329,32"/>
+<area shape="rect" id="node3" href="$unload__schema_8c.html#ae700ca8c1f790a3eefa5e3b57d926fa7" title="emit_query_specs" alt="" coords="221,56,349,83"/>
+<area shape="rect" id="node5" href="$unload__schema_8c.html#a6e4a9939f83a885ca5f80a66f11a6db8" title="emit_query_specs_has\l_using_index" alt="" coords="207,107,363,149"/>
+<area shape="rect" id="node7" href="$view__transform_8c.html#a6fb474d3098dee755e9ced9598678cf0" title="mq_translate_subqueries" alt="" coords="201,173,368,200"/>
+<area shape="rect" id="node9" href="$semantic__check_8h.html#aced1baa2c89cbe642fcf5facaa5c887e" title="pt_check_cyclic_reference\l_in_view_spec" alt="" coords="196,249,373,290"/>
+<area shape="rect" id="node10" href="$semantic__check_8c.html#a66a04f6604f7429e55857a43d7ca8fbe" title="pt_vclass_compatible" alt="" coords="211,315,359,341"/>
+<area shape="rect" id="node4" href="$unload__schema_8c.html#a7f79130b2669758e935be8a5b57261c1" title="emit_schema" alt="" coords="437,56,537,83"/>
+<area shape="rect" id="node6" href="$unload__schema_8c.html#abd388bfbc611ef52c181895aad8d3b22" title="emit_indexes" alt="" coords="437,115,536,141"/>
+<area shape="rect" id="node8" href="$view__transform_8c.html#a85a6baf509b2579b68e8324ace3b0398" title="mq_virtual_queries" alt="" coords="421,173,552,200"/>
+</map>

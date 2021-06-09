@@ -1,0 +1,12 @@
+<map id="perfmon_get_activation_flag" name="perfmon_get_activation_flag">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a702a8aa6d5d50661354c9f98e270e1d1" title="pgbuf_delete_from_hash\l_chain" alt="" coords="239,49,403,90"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#a644583d3d67e407554c30a9c8c22147a" title="pgbuf_get_page_type\l_for_stat" alt="" coords="459,107,605,149"/>
+<area shape="rect" id="node9" href="$page__buffer_8c.html#af3ffb638cb88943a7e374cdeac9d27e9" title="pgbuf_insert_into_hash\l_chain" alt="" coords="243,166,399,207"/>
+<area shape="rect" id="node10" href="$page__buffer_8c.html#aecda933a6524aa85e8aca3adaaba9812" title="pgbuf_unlock_page" alt="" coords="253,232,388,259"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a88151b978de695fc8c76f011b0996962" title="pgbuf_victimize_bcb" alt="" coords="461,5,603,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a32645b0c2aace57799af8b647423a493" title="pgbuf_invalidate_bcb" alt="" coords="460,56,604,83"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#afde1751ceb069fe468ffa1b51283033f" title="pgbuf_unfix_debug" alt="" coords="666,56,797,83"/>
+<area shape="rect" id="node7" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="673,199,790,225"/>
+<area shape="rect" id="node8" href="$page__buffer_8h.html#a1bf1b7b6a62392916056f3c33e414f9d" title="pgbuf_promote_read\l_latch_debug" alt="" coords="661,107,801,149"/>
+<area shape="rect" id="node11" href="$page__buffer_8c.html#a8cbce269e04ed30279485fc77e786430" title="pgbuf_claim_bcb_for_fix" alt="" coords="451,275,613,301"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="or_varbit_length_internal" name="or_varbit_length_internal">
+<area shape="rect" id="node2" href="$object__representation_8c.html#a8d25be1cf78d74f6b1ff332e95fae066" title="or_packed_varbit_length" alt="" coords="216,39,379,65"/>
+<area shape="rect" id="node5" href="$object__representation_8c.html#a182b88871672f5da790c833ed601b2c8" title="or_varbit_length" alt="" coords="240,89,355,116"/>
+<area shape="rect" id="node3" href="$object__primitive_8c.html#a0efdc7ba9e32f388cc4604383501b8f0" title="mr_data_lengthmem_varbit" alt="" coords="427,5,605,32"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a17fa8c910e8440a71dd405ad4f29572a" title="mr_lengthval_varbit\l_internal" alt="" coords="449,57,583,98"/>
+<area shape="rect" id="node6" href="$object__primitive_8c.html#a89c3fc6fa0b2d15f067c39fbe32630c0" title="mr_index_lengthmem\l_varbit" alt="" coords="443,122,589,163"/>
+</map>

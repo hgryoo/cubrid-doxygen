@@ -1,0 +1,13 @@
+<map id="qmgr_query_entry" name="qmgr_query_entry">
+<area shape="rect" id="node2" href="$structqmgr__temp__file.html" title="{qmgr_temp_file\n|+ temp_file_type\l+ membuf_last\l+ membuf\l+ membuf_npages\l+ membuf_type\l+ preserved\l+ tde_encrypted\l|}" alt="" coords="815,160,946,325"/>
+<area shape="rect" id="node11" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="694,461,843,627"/>
+<area shape="rect" id="node3" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="742,5,803,97"/>
+<area shape="rect" id="node4" href="$structxasl__cache__ent.html" title="{xasl_cache_ent\n|+ del_id\l+ xasl_header_flag\l+ n_related_objects\l+ time_last_used\l+ ref_count\l+ clr_count\l+ list_ht_no\l+ free_data_on_uninit\l+ n_cache_clones\l+ cache_clones_capacity\l+ cache_clones_mutex\l+ time_last_rt_check\l+ initialized\l|+ xasl_cache_ent()\l+ ~xasl_cache_ent()\l+ init_clone_cache()\l}" alt="" coords="294,403,464,685"/>
+<area shape="rect" id="node10" href="$structqfile__list__cache__entry.html" title="{qfile_list_cache_entry\n|+ list_ht_no\l+ query_string\l+ time_created\l+ time_last_used\l+ ref_count\l+ deletion_marker\l|}" alt="" coords="517,748,665,899"/>
+<area shape="rect" id="node5" href="$structxasl__clone.html" title="{xasl_clone\n||}" alt="" coords="220,204,304,281"/>
+<area shape="rect" id="node6" href="$structxasl__stream.html" title="{xasl_stream\n|+ buffer\l+ buffer_size\l|}" alt="" coords="328,197,427,289"/>
+<area shape="rect" id="node7" href="$structxasl__id.html" title="{xasl_id\n|+ cache_flag\l|}" alt="" coords="329,13,426,90"/>
+<area shape="rect" id="node8" href="$structexecution__info.html" title="{execution_info\n|+ sql_hash_text\l+ sql_user_text\l+ sql_plan_text\l|}" alt="" coords="552,189,667,296"/>
+<area shape="rect" id="node9" href="$structxcache__related__object.html" title="{xcache_related_object\n|+ lock\l+ tcard\l|}" alt="" coords="43,197,195,289"/>
+<area shape="rect" id="node12" href="$structdb__value__array.html" title="{db_value_array\n|+ size\l|}" alt="" coords="558,505,669,583"/>
+</map>

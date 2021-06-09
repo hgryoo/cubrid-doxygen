@@ -1,0 +1,5 @@
+<map id="broker_delete_proxy_conn_by_proxy_id" name="broker_delete_proxy_conn_by_proxy_id">
+<area shape="rect" id="node2" href="$broker_8c.html#aaa219607a30bcb567284745904217927" title="stop_proxy_server" alt="" coords="192,13,321,39"/>
+<area shape="rect" id="node3" href="$broker_8c.html#a76748bb9e898b446e576c83bf758bbe4" title="proxy_monitor_worker" alt="" coords="559,13,709,39"/>
+<area shape="rect" id="node4" href="$broker_8c.html#a02ec798c2dc7a6eb69afe65e7aa57b36" title="restart_proxy_server" alt="" coords="369,38,511,65"/>
+</map>

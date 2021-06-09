@@ -1,0 +1,6 @@
+<map id="src/storage/statistics_sr.h" name="src/storage/statistics_sr.h">
+<area shape="rect" id="node2" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node3" href="$xasl__cache_8c.html" title="src/query/xasl_cache.c" alt="" coords="213,87,370,114"/>
+<area shape="rect" id="node4" href="$statistics__sr_8c.html" title="src/storage/statistics_sr.c" alt="" coords="394,87,567,114"/>
+<area shape="rect" id="node5" href="$system__catalog_8c.html" title="src/storage/system\l_catalog.c" alt="" coords="592,80,727,121"/>
+</map>

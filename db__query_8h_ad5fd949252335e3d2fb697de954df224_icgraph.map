@@ -1,0 +1,21 @@
+<map id="db_query_end_internal" name="db_query_end_internal">
+<area shape="rect" id="node2" href="$db__query_8h.html#a9dbd5c8456837711ceea4f233543f99a" title="db_clear_client_query\l_result" alt="" coords="205,125,353,166"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#a970de5fbc3e3f278f3f5e0f211cbf950" title="db_query_end" alt="" coords="228,557,331,584"/>
+<area shape="rect" id="node3" href="$transaction__cl_8h.html#a7bfba1482cf01aa4a926674145c7e29e" title="tran_2pc_prepare" alt="" coords="436,5,559,32"/>
+<area shape="rect" id="node4" href="$transaction__cl_8h.html#a351fb6b676910a2ef50a2bf03980e724" title="tran_2pc_prepare_global_tran" alt="" coords="401,56,593,83"/>
+<area shape="rect" id="node5" href="$transaction__cl_8h.html#a1d5ef42a794f24bbb7d41f3eaf164e8f" title="tran_abort" alt="" coords="457,107,537,133"/>
+<area shape="rect" id="node6" href="$transaction__cl_8h.html#a938f5814219f14c56e528805ddca545a" title="tran_abort_only_client" alt="" coords="423,157,572,184"/>
+<area shape="rect" id="node7" href="$transaction__cl_8h.html#a901b4a89a27aa3bc5c8ffdcc1f9e3150" title="tran_commit" alt="" coords="450,208,545,235"/>
+<area shape="rect" id="node9" href="$db__stub_8c.html#ab242af2c1340154cca21ea5210ef9f7c" title="rs_destroyf" alt="" coords="454,259,541,285"/>
+<area shape="rect" id="node10" href="$db__stub_8c.html#a1413ba1452b828fbb08425face08a290" title="stmt_exec_prepared\l_batch_internal" alt="" coords="427,310,567,351"/>
+<area shape="rect" id="node11" href="$db__stub_8c.html#a1270305253397f2df6f248228ca271c1" title="stmt_exec_batch_query\l_internal" alt="" coords="417,375,578,417"/>
+<area shape="rect" id="node12" href="$tz__compile_8c.html#a42f887cbeff90bb6259a8a76b968da6c" title="tzc_compute_timezone\l_checksum" alt="" coords="419,441,576,482"/>
+<area shape="rect" id="node13" href="$cas__execute_8h.html#a472d04640cef98dd54b3a79112fe1f01" title="ux_execute_all" alt="" coords="443,507,552,533"/>
+<area shape="rect" id="node14" href="$cas__execute_8h.html#a9ed8dbb79ec60d86f9dc963bb9df0567" title="ux_next_result" alt="" coords="444,557,551,584"/>
+<area shape="rect" id="node15" href="$cas__execute_8h.html#a58deea8c335da5c20867f4664eeb7e5f" title="ux_execute_batch" alt="" coords="433,608,561,635"/>
+<area shape="rect" id="node16" href="$cas__execute_8h.html#ade7073d72caa16357d55df7b214b2da3" title="ux_execute_array" alt="" coords="435,659,560,685"/>
+<area shape="rect" id="node17" href="$cas__execute_8h.html#a3cc2e1d8c04d121a19d93bf56ca9d7bd" title="ux_free_result" alt="" coords="445,709,549,736"/>
+<area shape="rect" id="node18" href="$cas__execute_8c.html#ab161e16c9f3a49971d2b04792745e715" title="sch_query_execute" alt="" coords="430,760,565,787"/>
+<area shape="rect" id="node19" href="$cas__function_8h.html#a86aae9afd60e21af7c964ea5752ba309" title="fn_get_query_info" alt="" coords="435,811,560,837"/>
+<area shape="rect" id="node20" href="$dbi__compat_8h.html#a741f68771dcf741ec80804d2a90658b1" title="db_validate" alt="" coords="453,861,541,888"/>
+</map>

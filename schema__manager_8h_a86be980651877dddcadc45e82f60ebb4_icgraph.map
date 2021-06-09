@@ -1,0 +1,12 @@
+<map id="sm_fetch_all_objects" name="sm_fetch_all_objects">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a4769056d3bd3c7640c48eb32a71bc95a" title="au_force_write_new_auth" alt="" coords="199,56,369,83"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a8ef65722ebb74827d87fe0b28052e097" title="db_fetch_all_objects" alt="" coords="213,107,355,133"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a9a7126291b0a3a41ce98d78165bd9d80" title="db_get_all_objects" alt="" coords="219,157,349,184"/>
+<area shape="rect" id="node9" href="$schema__manager_8c.html#a6dba97b2ae6799b80d00882a36541411" title="sm_fetch_all_objects\l_internal" alt="" coords="211,209,357,250"/>
+<area shape="rect" id="node11" href="$trigger__manager_8h.html#a59f430d45a56d62b7da95312a3fc072b" title="tr_get_class_name" alt="" coords="218,275,350,301"/>
+<area shape="rect" id="node3" href="$boot__cl_8c.html#a1c906d817cb0b45ca6b099228f903201" title="catcls_vclass_install" alt="" coords="423,5,566,32"/>
+<area shape="rect" id="node4" href="$utility_8h.html#a782e5c7e88490d6faaf37d0c32511675" title="createdb" alt="" coords="459,56,531,83"/>
+<area shape="rect" id="node7" href="$authenticate_8h.html#acf08ecf34ed25bda32e5baf8deeb5a99" title="au_start" alt="" coords="460,107,529,133"/>
+<area shape="rect" id="node8" href="$unload__schema_8c.html#ae4e4a6438d4cb0fc3c9e64d959f73b48" title="emit_stored_procedure" alt="" coords="417,157,572,184"/>
+<area shape="rect" id="node10" href="$schema__manager_8h.html#a7371b4630be2f1442e5a7142f3dd50cc" title="sm_fetch_all_objects\l_of_dirty_version" alt="" coords="422,209,567,250"/>
+</map>

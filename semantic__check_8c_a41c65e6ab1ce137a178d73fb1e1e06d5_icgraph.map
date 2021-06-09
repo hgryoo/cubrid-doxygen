@@ -1,0 +1,6 @@
+<map id="pt_attr_check_default_cs_coll" name="pt_attr_check_default_cs_coll">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#ac8eacd48feb9548404602a075d45b0a2" title="do_add_attribute" alt="" coords="219,5,338,32"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#a74be8f892e6e90ed5692941e03bf1843" title="pt_check_alter" alt="" coords="225,56,332,83"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#a24bc4f0a91e527103132bf36d7bbfca6" title="pt_check_create_entity" alt="" coords="200,107,357,133"/>
+<area shape="rect" id="node3" href="$execute__schema_8h.html#a189597b19b23b2586850fcd842f781b7" title="do_add_attributes" alt="" coords="405,5,531,32"/>
+</map>

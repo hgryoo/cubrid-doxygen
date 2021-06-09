@@ -1,0 +1,5 @@
+<map id="xts_process_aggregate_type" name="xts_process_aggregate_type">
+<area shape="rect" id="node2" href="$xasl__to__stream_8c.html#a379705c9caab7610dada22b4146c6232" title="xts_save_aggregate_type" alt="" coords="243,31,413,57"/>
+<area shape="rect" id="node3" href="$xasl__to__stream_8c.html#a0e8d93596ecf65c5e90cfb57119e4910" title="xts_process_buildlist_proc" alt="" coords="469,5,645,32"/>
+<area shape="rect" id="node4" href="$xasl__to__stream_8c.html#ab7be406f2b1ca44950d9ced12dcc94d6" title="xts_process_buildvalue_proc" alt="" coords="461,56,652,83"/>
+</map>

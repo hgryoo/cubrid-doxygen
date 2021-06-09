@@ -1,0 +1,13 @@
+<map id="pt_function_is_allowed_as_function_index" name="pt_function_is_allowed_as_function_index">
+<area shape="rect" id="node2" href="$parser_8h.html#a67ba69740636e8edb52401bb1db78e3a" title="pt_is_function_index_expr" alt="" coords="208,249,381,275"/>
+<area shape="rect" id="node3" href="$query__graph_8c.html#a9f6cc31a9a487652c9b5a06731400662" title="build_query_graph_function\l_index" alt="" coords="439,5,619,47"/>
+<area shape="rect" id="node4" href="$query__graph_8c.html#ab76ae813d7255a341fbe827078d32354" title="lookup_node" alt="" coords="481,71,576,98"/>
+<area shape="rect" id="node5" href="$query__graph_8c.html#a47247a7ac61fc0bec90c177303e0e678" title="lookup_seg" alt="" coords="485,122,573,149"/>
+<area shape="rect" id="node6" href="$query__graph_8c.html#a4d322007ce6983e3472645dbca6b53ec" title="qo_analyze_term" alt="" coords="683,223,804,250"/>
+<area shape="rect" id="node7" href="$query__graph_8c.html#a53580f97eea3cf5cb4b8fe8237731a79" title="set_seg_expr" alt="" coords="479,223,579,250"/>
+<area shape="rect" id="node8" href="$query__graph_8c.html#a2101b00a28698c9d64e6f003e73871dd" title="is_local_name" alt="" coords="476,274,581,301"/>
+<area shape="rect" id="node9" href="$query__rewrite_8c.html#a3b7657e36b3388bff539eaa056ea7034" title="qo_rewrite_like_terms" alt="" coords="454,325,603,351"/>
+<area shape="rect" id="node10" href="$semantic__check_8c.html#a037d720c8f15dd86df8710577a97dafa" title="pt_check_with_info" alt="" coords="676,401,811,427"/>
+<area shape="rect" id="node11" href="$semantic__check_8c.html#acf014bcd1cf76e11476da2c954d81304" title="pt_check_function_index_expr" alt="" coords="429,426,628,453"/>
+<area shape="rect" id="node12" href="$execute__schema_8h.html#a781ed558285ee6b9acf14a6291ac6262" title="do_recreate_func_index\l_constr" alt="" coords="449,477,609,519"/>
+</map>

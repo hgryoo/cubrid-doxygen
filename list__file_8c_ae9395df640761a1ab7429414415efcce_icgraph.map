@@ -1,0 +1,11 @@
+<map id="qfile_add_tuple_to_list_id" name="qfile_add_tuple_to_list_id">
+<area shape="rect" id="node2" href="$list__file_8h.html#a2005306af0ac913c31afc556976d6f5b" title="qfile_add_overflow\l_tuple_to_list" alt="" coords="190,123,321,164"/>
+<area shape="rect" id="node5" href="$list__file_8h.html#a88701afa7143306fcc56a84af346b37d" title="qfile_add_tuple_get\l_pos_in_list" alt="" coords="188,188,323,229"/>
+<area shape="rect" id="node6" href="$list__file_8h.html#a1e2a42b61030009d8c1e0a978ef043db" title="qfile_add_tuple_to_list" alt="" coords="180,71,331,98"/>
+<area shape="rect" id="node7" href="$list__file_8h.html#a7367427e8def1151f9a947ca981eab03" title="qfile_fast_intint_tuple\l_to_list" alt="" coords="183,253,328,295"/>
+<area shape="rect" id="node8" href="$list__file_8h.html#a79b427702c441e92eac44f705adaa4c4" title="qfile_fast_intval_tuple\l_to_list" alt="" coords="181,319,329,360"/>
+<area shape="rect" id="node9" href="$list__file_8h.html#a0beac1181962d1d3f8f62564fc787f53" title="qfile_fast_val_tuple\l_to_list" alt="" coords="188,384,323,425"/>
+<area shape="rect" id="node10" href="$list__file_8h.html#ab25660ebc30a310c22427b3c20172f00" title="qfile_generate_tuple\l_into_list" alt="" coords="186,5,325,47"/>
+<area shape="rect" id="node3" href="$list__file_8c.html#a087deaf4ae4f9a4db0ce90622930f11f" title="qfile_put_next_sort_item" alt="" coords="379,71,543,98"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a88c76f42fcdb0493ad08df615f85f379" title="qexec_ordby_put_next" alt="" coords="384,126,537,153"/>
+</map>

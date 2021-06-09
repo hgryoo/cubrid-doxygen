@@ -1,0 +1,5 @@
+<map id="t_shard_io_global" name="t_shard_io_global">
+<area shape="rect" id="node2" href="$structt__shard__io.html" title="{t_shard_io\n|+ shard_id\l+ max_num_cas\l+ cur_num_cas\l+ num_cas_in_tran\l|}" alt="" coords="53,233,187,355"/>
+<area shape="rect" id="node3" href="$structt__shard__queue.html" title="{t_shard_queue\n|+ lock\l+ cond\l|}" alt="" coords="5,42,112,134"/>
+<area shape="rect" id="node4" href="$structt__cas__io.html" title="{t_cas_io\n|+ status\l+ cas_id\l+ shard_id\l+ is_in_tran\l+ ctx_cid\l+ ctx_uid\l+ fd\l|}" alt="" coords="136,5,227,171"/>
+</map>

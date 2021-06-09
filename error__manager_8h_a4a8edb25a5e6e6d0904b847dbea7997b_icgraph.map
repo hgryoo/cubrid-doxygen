@@ -1,0 +1,8 @@
+<map id="er_stack_clearall" name="er_stack_clearall">
+<area shape="rect" id="node2" href="$transaction__cl_8h.html#a7bfba1482cf01aa4a926674145c7e29e" title="tran_2pc_prepare" alt="" coords="208,9,331,36"/>
+<area shape="rect" id="node4" href="$transaction__cl_8h.html#a351fb6b676910a2ef50a2bf03980e724" title="tran_2pc_prepare_global_tran" alt="" coords="173,61,365,88"/>
+<area shape="rect" id="node6" href="$transaction__cl_8h.html#a1d5ef42a794f24bbb7d41f3eaf164e8f" title="tran_abort" alt="" coords="229,112,309,139"/>
+<area shape="rect" id="node7" href="$transaction__cl_8h.html#a901b4a89a27aa3bc5c8ffdcc1f9e3150" title="tran_commit" alt="" coords="222,163,317,189"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ab871643946eb265abdaf1b1996c3f0a6" title="db_2pc_prepare_transaction" alt="" coords="413,5,599,32"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a3cca7bdc9fbbc82a6a1f11f3ff071232" title="db_2pc_prepare_to_commit\l_transaction" alt="" coords="415,57,597,98"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="cubpacking::packer::get_all_packed_size" name="cubpacking::packer::get_all_packed_size">
+<area shape="rect" id="node2" href="$classcubpacking_1_1packer.html#a2ad722e77a1b468888ff83d14f67c3bd" title="cubpacking::packer\l::append_to_buffer_and\l_pack_all" alt="" coords="425,84,584,140"/>
+<area shape="rect" id="node3" href="$structclientids.html#a6909d4f4eba6e58a06b04b9c353add44" title="clientids::get_packed_size" alt="" coords="201,5,377,32"/>
+<area shape="rect" id="node4" href="$structboot__client__credential.html#aeaec9485e25d27c9c3bf0d4ef3714f3f" title="boot_client_credential\l::get_packed_size" alt="" coords="431,13,579,54"/>
+<area shape="rect" id="node5" href="$classcubpacking_1_1packer.html#a0e046295f3bba0ec037411e8f4e12680" title="cubpacking::packer\l::set_buffer_and_pack_all" alt="" coords="204,233,375,274"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#a01c5641d7966ab43b12116327a2e6d4b" title="boot_register_client" alt="" coords="437,265,572,292"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#a8ea5d812135a340f7df7a6a335fa3f26" title="loaddb_init" alt="" coords="463,316,547,343"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#a769e2393dcd859ccab49bfaa11a9c229" title="loaddb_install_class" alt="" coords="435,367,574,393"/>
+<area shape="rect" id="node9" href="$network__interface__cl_8h.html#adad0d571045df6943bae6047ec56773d" title="loaddb_load_batch" alt="" coords="439,417,570,444"/>
+<area shape="rect" id="node10" href="$network__interface__sr_8h.html#a9c1e10de2f480a8803e4f8c5ec5dc178" title="sloaddb_load_batch" alt="" coords="436,164,573,191"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#a1ccc17c2b8ede3474490170c0ac13f1c" title="sloaddb_fetch_status" alt="" coords="431,215,578,241"/>
+</map>

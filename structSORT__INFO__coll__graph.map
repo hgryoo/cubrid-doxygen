@@ -1,0 +1,15 @@
+<map id="SORT_INFO" name="SORT_INFO">
+<area shape="rect" id="node2" href="$structrecdes.html" title="{recdes\n|+ area_size\l+ length\l+ type\l+ data\l|}" alt="" coords="229,903,320,1024"/>
+<area shape="rect" id="node3" href="$structSORTKEY__INFO.html" title="{SORTKEY_INFO\n|+ nkeys\l+ use_original\l+ error\l|}" alt="" coords="344,910,469,1017"/>
+<area shape="rect" id="node4" href="$structSUBKEY__INFO.html" title="{SUBKEY_INFO\n|+ col\l+ permuted_col\l+ sort_f\l+ is_desc\l+ is_nulls_first\l+ use_cmp_dom\l|}" alt="" coords="330,667,449,818"/>
+<area shape="rect" id="node5" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="432,432,581,597"/>
+<area shape="rect" id="node14" href="$structqfile__list__scan__id.html" title="{qfile_list_scan_id\n|+ status\l+ position\l+ curr_pgptr\l+ curr_tpl\l+ keep_page_on_finish\l+ curr_offset\l+ curr_tplno\l|}" alt="" coords="545,660,701,825"/>
+<area shape="rect" id="node6" href="$structqmgr__temp__file.html" title="{qmgr_temp_file\n|+ temp_file_type\l+ membuf_last\l+ membuf\l+ membuf_npages\l+ membuf_type\l+ preserved\l+ tde_encrypted\l|}" alt="" coords="441,182,572,347"/>
+<area shape="rect" id="node7" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="219,5,280,97"/>
+<area shape="rect" id="node8" href="$structsort__list.html" title="{sort_list\n|+ del_id\l+ s_order\l+ s_nulls\l|}" alt="" coords="835,211,912,318"/>
+<area shape="rect" id="node9" href="$structqfile__tuple__descriptor.html" title="{qfile_tuple_descriptor\n|+ item\l+ item_size\l+ tpl_size\l+ f_cnt\l+ clear_f_val_at_clone\l_decache\l+ sortkey_info\l+ sort_rec\l|}" alt="" coords="658,175,811,355"/>
+<area shape="rect" id="node10" href="$structqfile__tuple__record.html" title="{qfile_tuple_record\n|+ tpl\l+ size\l|}" alt="" coords="979,5,1103,97"/>
+<area shape="rect" id="node13" href="$structqfile__sort__scan__id.html" title="{qfile_sort_scan_id\n||}" alt="" coords="559,925,686,1002"/>
+<area shape="rect" id="node11" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="5,219,77,311"/>
+<area shape="rect" id="node12" href="$structqfile__tuple__value__type__list.html" title="{qfile_tuple_value_type_list\n|+ type_cnt\l|}" alt="" coords="242,226,417,303"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mq_set_references" name="mq_set_references">
+<area shape="rect" id="node2" href="$view__transform_8c.html#ac2af608ca69b9d163d770abdf0bc3930" title="mq_reset_spec_ids" alt="" coords="199,5,333,32"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#a80910f89ee7d52754106d818cb9f4298" title="pt_query_set_reference" alt="" coords="187,56,345,83"/>
+<area shape="rect" id="node6" href="$query__rewrite_8c.html#a4b3aa0a9cadb50ab555a45756db384cd" title="qo_analyze_path_join" alt="" coords="193,107,339,133"/>
+<area shape="rect" id="node3" href="$view__transform_8h.html#a1ff88d45177979c4b374fc66c6b3276f" title="mq_reset_ids_in_statement" alt="" coords="393,5,576,32"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#ad32942b01c9b9459279d90dbf17611da" title="parser_generate_xasl_pre" alt="" coords="399,56,570,83"/>
+</map>

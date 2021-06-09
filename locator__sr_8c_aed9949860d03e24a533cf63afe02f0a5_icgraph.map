@@ -1,0 +1,15 @@
+<map id="locator_allocate_copy_area_by_attr_info" name="locator_allocate_copy_area_by_attr_info">
+<area shape="rect" id="node2" href="$locator__sr_8h.html#a891018ca0e900f206c7635aa258af74b" title="locator_attribute_info\l_force" alt="" coords="213,241,356,283"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a330cfcba16e2910848ac1ae251d50dc1" title="qexec_remove_duplicates\l_for_replace" alt="" coords="417,5,590,47"/>
+<area shape="rect" id="node13" href="$locator__sr_8c.html#ab623f9bf50158809fe229738392c62a9" title="locator_mvcc_reev_cond\l_assigns" alt="" coords="201,307,368,348"/>
+<area shape="rect" id="node14" href="$query__executor_8c.html#aa21867168640201b25f7aeaf72c203cd" title="qexec_oid_of_duplicate\l_key_update" alt="" coords="205,433,364,475"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#aa789b9a1da1ee681d9ad9464672c2325" title="qexec_execute_update" alt="" coords="425,71,581,98"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a6a52d397abf14eeef1f1a23bccd2ed42" title="qexec_execute_delete" alt="" coords="427,122,579,149"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="639,173,788,199"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#aedafb43c80a9e4a8e19101d2e236487a" title="qexec_execute_duplicate\l_key_update" alt="" coords="419,521,588,563"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#ae6812e87919ebe9f115d770cfe30ad9c" title="qexec_execute_increment" alt="" coords="416,223,591,250"/>
+<area shape="rect" id="node9" href="$compactdb__sr_8c.html#af8d44168ffe6aff088291e3bc5771d7e" title="process_object" alt="" coords="448,274,559,301"/>
+<area shape="rect" id="node10" href="$heap__file_8h.html#a745a52a21d15c06a1af94740bfc9c287" title="heap_object_upgrade\l_domain" alt="" coords="431,325,576,367"/>
+<area shape="rect" id="node11" href="$locator__sr_8c.html#a3ec8ca9e5364109919ee52c486add7ec" title="locator_check_primary\l_key_delete" alt="" coords="427,391,580,432"/>
+<area shape="rect" id="node12" href="$locator__sr_8c.html#a65b9f6b49b3eaa536a20c55db7f99b3f" title="locator_check_primary\l_key_update" alt="" coords="427,456,580,497"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="pt_check_grammar_charset_collation" name="pt_check_grammar_charset_collation">
+<area shape="rect" id="node2" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="255,5,374,32"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a3a1f09af8380d53c78b0c3c04bd6dc48" title="do_set_names" alt="" coords="261,56,368,83"/>
+<area shape="rect" id="node6" href="$semantic__check_8c.html#a24bc4f0a91e527103132bf36d7bbfca6" title="pt_check_create_entity" alt="" coords="236,107,393,133"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="441,31,543,57"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="591,31,745,57"/>
+</map>

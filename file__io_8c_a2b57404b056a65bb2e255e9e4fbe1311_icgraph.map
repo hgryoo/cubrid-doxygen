@@ -1,0 +1,13 @@
+<map id="fileio_is_volume_descriptor_equal" name="fileio_is_volume_descriptor_equal">
+<area shape="rect" id="node2" href="$file__io_8c.html#ac4dfbfc1389fac0209015c5392d8f9b9" title="fileio_decache" alt="" coords="446,56,551,83"/>
+<area shape="rect" id="node5" href="$file__io_8c.html#af48f5d6e407feaa0f2aa356b1a55ce74" title="fileio_get_lockf_type" alt="" coords="428,5,569,32"/>
+<area shape="rect" id="node6" href="$file__io_8c.html#a554de8378a7521353faf914373e9cd42" title="fileio_get_volume_id" alt="" coords="232,169,372,196"/>
+<area shape="rect" id="node8" href="$file__io_8c.html#aca6d2f0fa8db31627a725fcb74139310" title="pwrite_with_injected\l_fault" alt="" coords="635,245,775,286"/>
+<area shape="rect" id="node10" href="$file__io_8h.html#aff918dda8b87d3fa893d1c2909e5f2c3" title="fileio_is_permanent\l_volume_descriptor" alt="" coords="235,221,369,262"/>
+<area shape="rect" id="node12" href="$file__io_8h.html#a52cc679b3a23afba6d84fedc94a25c8b" title="fileio_write_or_add\l_to_dwb" alt="" coords="237,377,367,418"/>
+<area shape="rect" id="node3" href="$file__io_8h.html#a7ecce4d4e9da240bf6a6ff7e1db94834" title="fileio_dismount" alt="" coords="650,115,759,141"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#a8cf259ab943265dcde2b40f55227a8c6" title="fileio_dismount_without\l_fsync" alt="" coords="625,49,784,90"/>
+<area shape="rect" id="node7" href="$file__io_8h.html#a83b8cfea9740f8a406990894c4974b44" title="fileio_get_volume_label\l_by_fd" alt="" coords="420,107,577,149"/>
+<area shape="rect" id="node9" href="$file__io_8h.html#a4571e2ee793cb5c067a638b4d23d0e49" title="fileio_synchronize_all" alt="" coords="631,169,778,196"/>
+<area shape="rect" id="node11" href="$file__io_8h.html#a49fcc0528a57dbe9db113ad5a6dc93ee" title="fileio_synchronize" alt="" coords="435,224,562,251"/>
+</map>

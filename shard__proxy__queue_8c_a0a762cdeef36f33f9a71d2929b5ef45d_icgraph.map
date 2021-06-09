@@ -1,0 +1,7 @@
+<map id="shard_cqueue_is_full" name="shard_cqueue_is_full">
+<area shape="rect" id="node2" href="$shard__proxy__queue_8h.html#a79ecf42ceb6b7db527869cb261ac3a33" title="shard_cqueue_enqueue" alt="" coords="197,105,356,132"/>
+<area shape="rect" id="node3" href="$shard__proxy__handler_8c.html#a59229032b84f12d4bb10fe36f392dd82" title="proxy_context_initialize" alt="" coords="406,5,565,32"/>
+<area shape="rect" id="node4" href="$shard__proxy__handler_8h.html#ad47624c26abea442faf5abe0f241adaf" title="proxy_context_free" alt="" coords="419,80,552,107"/>
+<area shape="rect" id="node5" href="$shard__proxy__io_8c.html#ae5c9f3439a357b46c09f5492e1814ffe" title="proxy_client_io_initialize" alt="" coords="404,131,567,157"/>
+<area shape="rect" id="node6" href="$shard__proxy__io_8h.html#a2fc1c25bca1b69da4bce220fb49ea8cb" title="proxy_client_io_free" alt="" coords="416,181,555,208"/>
+</map>

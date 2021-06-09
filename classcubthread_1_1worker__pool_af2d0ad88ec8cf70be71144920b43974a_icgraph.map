@@ -1,0 +1,14 @@
+<map id="cubthread::worker_pool::get_max_count" name="cubthread::worker_pool::get_max_count">
+<area shape="rect" id="node2" href="$server__support_8h.html#a210ecd4da2ee50429699f86b20655ea8" title="css_are_all_request\l_handlers_suspended" alt="" coords="226,5,374,47"/>
+<area shape="rect" id="node4" href="$server__support_8h.html#a3a6598c51f396012f0629af5a62f4717" title="css_get_num_connection\l_workers" alt="" coords="215,71,385,112"/>
+<area shape="rect" id="node6" href="$server__support_8h.html#a4cce5ab7e86872c5c2786f66fb49d35e" title="css_get_num_request\l_workers" alt="" coords="225,136,375,177"/>
+<area shape="rect" id="node8" href="$classcubthread_1_1manager.html#a07c7c562496051f31c22f79786a05b14" title="cubthread::manager\l::destroy_worker_pool" alt="" coords="225,220,375,261"/>
+<area shape="rect" id="node13" href="$classcubthread_1_1worker__pool__task__capper.html#a31269c0efb9c4682c84812bbd0b7f41c" title="cubthread::worker_pool\l_task_capper::worker_pool\l_task_capper" alt="" coords="211,285,389,341"/>
+<area shape="rect" id="node3" href="$lock__manager_8c.html#a104e521b5f958d944f9443a0aff23348" title="lock_detect_local_deadlock" alt="" coords="671,75,853,102"/>
+<area shape="rect" id="node5" href="$server__support_8h.html#a8521a6ca9bbd1f8b94d7a3f0d6ae4fb7" title="css_get_num_total_workers" alt="" coords="437,74,623,101"/>
+<area shape="rect" id="node7" href="$lock__manager_8c.html#a491458bff3831dac1d6446156ced02e2" title="lock_victimize_first\l_thread_mapfunc" alt="" coords="463,125,597,167"/>
+<area shape="rect" id="node9" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="729,242,795,269"/>
+<area shape="rect" id="node10" href="$btree__load_8c.html#a72589bdf8ecdb8521c23103b862503c0" title="online_index_builder" alt="" coords="461,242,599,269"/>
+<area shape="rect" id="node11" href="$vacuum_8h.html#af25d42ec55b764c884b146fa41b015f7" title="vacuum_stop_workers" alt="" coords="453,293,607,319"/>
+<area shape="rect" id="node12" href="$namespacecubload.html#aac37c9bf41d59ebec63d3a1d44fc4c6a" title="cubload::worker_manager\l_unregister_session" alt="" coords="445,344,615,385"/>
+</map>

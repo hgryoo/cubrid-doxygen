@@ -1,0 +1,8 @@
+<map id="oid_get_rep_read_tran_oid" name="oid_get_rep_read_tran_oid">
+<area shape="rect" id="node2" href="$lock__manager_8h.html#a504786492af357a6a63b3b255364b4c6" title="lock_demote_class_lock" alt="" coords="228,71,393,98"/>
+<area shape="rect" id="node5" href="$lock__manager_8h.html#a039adf79f7b8839277c035670e009fd9" title="lock_rep_read_tran" alt="" coords="245,122,377,149"/>
+<area shape="rect" id="node7" href="$lock__manager_8h.html#a599d30dae661fe8e9c5046fbb7475554" title="lock_wait_state_to\l_string" alt="" coords="245,173,376,215"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="469,5,600,47"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#ac2e34e4cec9ec7a7d4e8ccbfdc8557d6" title="xlocator_demote_class_lock" alt="" coords="441,71,628,98"/>
+<area shape="rect" id="node6" href="$transaction__sr_8c.html#adea9113696646ab1a88c8e0e348180fa" title="xtran_lock_rep_read" alt="" coords="465,122,604,149"/>
+</map>

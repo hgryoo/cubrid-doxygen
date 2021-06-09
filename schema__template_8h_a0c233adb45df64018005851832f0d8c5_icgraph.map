@@ -1,0 +1,11 @@
+<map id="smt_add_set_argument_domain" name="smt_add_set_argument_domain">
+<area shape="rect" id="node2" href="$db__class_8c.html#af7381cff07ac0ca24028847f5e9c5a09" title="add_arg_domain" alt="" coords="231,129,348,156"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#a7692d470fc8447bdf7ddae1eefdf13a5" title="dbt_add_set_argument\l_domain" alt="" coords="212,181,367,222"/>
+<area shape="rect" id="node8" href="$execute__schema_8h.html#aa5d1dee3966bdbe30a7ce6cfa3023302" title="do_add_methods" alt="" coords="229,247,350,273"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ac175b1ba8faa687ad634e7db9981b17d" title="db_add_argument" alt="" coords="445,5,570,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#ae6195ff85bb7350b94010e8d068cf7fe" title="db_add_set_argument\l_domain" alt="" coords="432,57,583,98"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a5adf7f71f047fbc22649a80c3300360d" title="db_set_class_method\l_arg_domain" alt="" coords="433,122,582,163"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#ab97625cea0a9b499a90e40a22f3838bf" title="db_set_method_arg_domain" alt="" coords="415,188,600,215"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="437,239,578,281"/>
+<area shape="rect" id="node10" href="$execute__schema_8h.html#a8b332c276e98ddfbbe0e10068f6d76b6" title="do_create_local" alt="" coords="451,305,564,332"/>
+</map>

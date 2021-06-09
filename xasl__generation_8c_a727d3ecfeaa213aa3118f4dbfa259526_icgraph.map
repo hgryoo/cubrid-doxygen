@@ -1,0 +1,6 @@
+<map id="pt_mvcc_flag_specs_cond_reev" name="pt_mvcc_flag_specs_cond_reev">
+<area shape="rect" id="node2" href="$xasl__generation_8h.html#a4ffda647bdf164dbc2ed5f4e418c7ff3" title="pt_to_delete_xasl" alt="" coords="198,54,322,81"/>
+<area shape="rect" id="node5" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="196,105,324,131"/>
+<area shape="rect" id="node3" href="$execute__statement_8c.html#a018270c1c91a88694cac8747af9bd25a" title="build_xasl_for_server\l_delete" alt="" coords="372,5,517,47"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a5a96449a20d34f17f764bead35cde84e" title="do_prepare_delete" alt="" coords="381,95,509,122"/>
+</map>

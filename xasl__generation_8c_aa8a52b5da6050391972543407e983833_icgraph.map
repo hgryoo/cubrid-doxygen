@@ -1,0 +1,6 @@
+<map id="pt_to_uncorr_subquery_list" name="pt_to_uncorr_subquery_list">
+<area shape="rect" id="node2" href="$xasl__generation_8c.html#a32bccb2ea0d026533b46c708eb21835d" title="pt_set_aptr" alt="" coords="232,56,319,83"/>
+<area shape="rect" id="node3" href="$xasl__generation_8c.html#ac00afe3347320f27638ab8dbd860fa5c" title="pt_to_buildlist_proc" alt="" coords="373,5,508,32"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#ab1a51869aa06f95a76d04529f2bdc244" title="pt_to_buildvalue_proc" alt="" coords="367,56,515,83"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#a4737ebd73daa55c35ac5caf3034c4057" title="pt_to_union_proc" alt="" coords="380,107,501,133"/>
+</map>

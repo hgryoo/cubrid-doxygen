@@ -1,0 +1,11 @@
+<map id="pt_rewrite_to_auto_param" name="pt_rewrite_to_auto_param">
+<area shape="rect" id="node2" href="$execute__statement_8c.html#ad23d776ce7a07d19479803018049af45" title="do_prepare_insert_internal" alt="" coords="183,7,357,33"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#ac0a20cb5a8c5692232eac5977bb39094" title="mq_auto_param_merge\l_clauses" alt="" coords="405,57,564,98"/>
+<area shape="rect" id="node6" href="$parser_8h.html#abba9948ec677feaccc5865f14ceea1b7" title="qo_do_auto_parameterize" alt="" coords="185,112,355,139"/>
+<area shape="rect" id="node8" href="$query__rewrite_8c.html#ace6201135ef7c3f735dc445859b48617" title="qo_optimize_queries" alt="" coords="414,197,555,224"/>
+<area shape="rect" id="node9" href="$query__rewrite_8c.html#acf355f67bc8247ac1c7b2a1b7d0feedf" title="qo_do_auto_parameterize\l_keylimit_clause" alt="" coords="185,214,355,255"/>
+<area shape="rect" id="node10" href="$query__rewrite_8c.html#a31625dba77932555709af4b651cb775b" title="qo_do_auto_parameterize\l_limit_clause" alt="" coords="185,279,355,321"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#ac42fde5a83480adf42c2276a5b6c0c47" title="do_prepare_insert" alt="" coords="422,5,547,32"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#a44cfd5b50ec11c28105968c441189ebc" title="mq_translate_helper" alt="" coords="612,64,751,91"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#afe56199df5cbc88a2f7aef1dc0cb0bdc" title="do_execute_update" alt="" coords="417,123,552,149"/>
+</map>

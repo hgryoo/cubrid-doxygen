@@ -1,0 +1,8 @@
+<map id="cubthread::worker_pool::get_stats" name="cubthread::worker_pool::get_stats">
+<area shape="rect" id="node2" href="$server__support_8h.html#ab0257bdf6f8044443edb8bc5bbdf5345" title="css_get_thread_stats" alt="" coords="223,5,369,32"/>
+<area shape="rect" id="node4" href="$classcubthread_1_1worker__pool.html#a550521d27b62120acdfff7be3bb61bbe" title="cubthread::worker_pool\l::er_log_stats" alt="" coords="217,122,375,163"/>
+<area shape="rect" id="node7" href="$namespacecubload.html#a724923416f68b9ed71074a91773f8102" title="cubload::worker_manager\l_get_stats" alt="" coords="211,57,381,98"/>
+<area shape="rect" id="node3" href="$perf__monitor_8c.html#a9d1547f69a11593dadcd6c45eaa9de21" title="perfmon_server_calc\l_stats" alt="" coords="435,31,577,73"/>
+<area shape="rect" id="node5" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="631,129,697,156"/>
+<area shape="rect" id="node6" href="$vacuum_8h.html#af25d42ec55b764c884b146fa41b015f7" title="vacuum_stop_workers" alt="" coords="429,155,583,181"/>
+</map>

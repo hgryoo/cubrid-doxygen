@@ -1,0 +1,15 @@
+<map id="db_seq_create" name="db_seq_create">
+<area shape="rect" id="node2" href="$cursor_8c.html#a459d993177f7f7fc7b9d60b8b9c090d4" title="cursor_fixup_set_vobjs" alt="" coords="167,5,323,32"/>
+<area shape="rect" id="node4" href="$dbtype__function_8h.html#a08c1944afc91bb447d33feaf6a9ef382" title="db_value_domain_default" alt="" coords="160,56,329,83"/>
+<area shape="rect" id="node5" href="$cas__execute_8c.html#a235ed61a310d3fc128b8c64464ce6c47" title="netval_to_dbval" alt="" coords="188,107,301,133"/>
+<area shape="rect" id="node6" href="$parser_8h.html#a2ec0c565180360fd5b91fe6a2484b39f" title="pt_db_value_initialize" alt="" coords="171,157,318,184"/>
+<area shape="rect" id="node7" href="$parse__evaluate_8c.html#a8c4be930836f528e1f5dea8ef14f7767" title="pt_evaluate_tree_internal" alt="" coords="161,208,328,235"/>
+<area shape="rect" id="node8" href="$query__opfunc_8c.html#a9361d7d1b6a9aa17eb833fa7fc6ee829" title="qdata_convert_dbvals\l_to_set" alt="" coords="170,259,319,301"/>
+<area shape="rect" id="node9" href="$query__opfunc_8c.html#a6b94d2d895a5914234b43e76a8a80b12" title="qdata_convert_table\l_to_set" alt="" coords="175,325,314,366"/>
+<area shape="rect" id="node10" href="$xasl__generation_8c.html#ad18613777002d4972fc7189371e04782" title="regu_make_constant_vid" alt="" coords="161,391,328,417"/>
+<area shape="rect" id="node11" href="$xasl__generation_8c.html#a3fb8e988e87eb4bbd2a189a1d7a4f8c2" title="setof_mop_to_setof_vobj" alt="" coords="377,416,545,443"/>
+<area shape="rect" id="node12" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="169,492,321,519"/>
+<area shape="rect" id="node13" href="$virtual__object_8h.html#a455a9b4975cf2c7b700dab0ddedda811" title="vid_encode_object" alt="" coords="179,543,310,569"/>
+<area shape="rect" id="node14" href="$virtual__object_8c.html#a4cee73285967c01f96531d5c4bc46794" title="vid_make_vid" alt="" coords="193,593,296,620"/>
+<area shape="rect" id="node3" href="$cursor_8c.html#a327c17c554adf034de19a93504e3dff0" title="cursor_fixup_vobjs" alt="" coords="396,5,527,32"/>
+</map>

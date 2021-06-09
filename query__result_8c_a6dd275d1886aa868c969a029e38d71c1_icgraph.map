@@ -1,0 +1,9 @@
+<map id="pt_find_size_from_dbtype" name="pt_find_size_from_dbtype">
+<area shape="rect" id="node2" href="$query__result_8c.html#a79ebd3ae15ff73e5c13716937dcaf7dc" title="db_object_describe" alt="" coords="224,5,359,32"/>
+<area shape="rect" id="node4" href="$query__result_8c.html#a2f980da9427324d6653e4b34af8d2f2d" title="db_object_fetch" alt="" coords="234,56,349,83"/>
+<area shape="rect" id="node6" href="$query__result_8c.html#abf306fa5ab8d1d900c8dbc19db9d158b" title="pt_fillin_type_size" alt="" coords="228,115,355,141"/>
+<area shape="rect" id="node3" href="$esql__cli_8c.html#a1b540716a72b98a145170be7a1ee4ad3" title="uci_object_describe" alt="" coords="415,5,552,32"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#aeda19eb710f3e5c40f2ce6e13beaebd0" title="uci_object_fetch" alt="" coords="425,56,542,83"/>
+<area shape="rect" id="node7" href="$db__vdb_8c.html#ae1f8dc2b98ed7ccc4bb2aeefc7b5a47e" title="db_compile_statement\l_local" alt="" coords="407,107,560,149"/>
+<area shape="rect" id="node8" href="$parser__support_8c.html#a5ca85724577c4181396db354d5bb4485" title="pt_get_select_query\l_columns" alt="" coords="414,173,553,214"/>
+</map>

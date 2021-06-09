@@ -1,0 +1,21 @@
+<map id="pt_common_type" name="pt_common_type">
+<area shape="rect" id="node2" href="$type__checking_8c.html#a70e80890fe5cc7dc579945877e78830d" title="pt_coerce_3args" alt="" coords="689,17,808,44"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#af5f21a604b5c0d78d71acc756f9e556b" title="pt_coerce_value_internal" alt="" coords="197,185,364,212"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#a9e8ecf7badfa6534b66e5521881e1cc6" title="pt_eval_expr_type" alt="" coords="685,215,813,241"/>
+<area shape="rect" id="node6" href="$type__checking_8c.html#a7080b776eb273664135ab15a1c2cf1ec" title="pt_get_common_datetime_type" alt="" coords="647,93,851,120"/>
+<area shape="rect" id="node9" href="$semantic__check_8c.html#a8b412bfe9c322bf797e32e141a7ea1f7" title="pt_combine_compatible_info" alt="" coords="187,761,374,788"/>
+<area shape="rect" id="node12" href="$type__checking_8c.html#a99f4c6e7595f6bd9e47e48a9b450351b" title="pt_common_type_op" alt="" coords="445,273,587,300"/>
+<area shape="rect" id="node13" href="$type__checking_8c.html#ac7021dfde9b6a6505d9e6f35c309dc7c" title="pt_eval_type_pre" alt="" coords="220,425,341,452"/>
+<area shape="rect" id="node14" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="191,476,371,503"/>
+<area shape="rect" id="node15" href="$type__checking_8c.html#adc609d68f00cc76239407cb764291f2b" title="pt_expr_get_return_type" alt="" coords="199,527,362,553"/>
+<area shape="rect" id="node16" href="$type__checking_8c.html#a2d7aa4bbfb0a4b42d435326a3430ef09" title="pt_get_common_arg_type\l_of_width_bucket" alt="" coords="195,578,367,619"/>
+<area shape="rect" id="node17" href="$type__checking_8c.html#adc306ae2e9db2f04bfba3d6b593ac0b3" title="pt_get_common_collection_type" alt="" coords="176,644,385,671"/>
+<area shape="rect" id="node18" href="$semantic__check_8c.html#a10df2150a93a8e9d732384eca22f95fa" title="pt_get_common_type\l_for_union" alt="" coords="207,695,354,737"/>
+<area shape="rect" id="node19" href="$query__result_8c.html#add350bb425480676cae6b2344c623091" title="pt_get_select_list" alt="" coords="454,509,578,536"/>
+<area shape="rect" id="node20" href="$semantic__check_8c.html#a07158031a22b6ab95047694786f3fc16" title="pt_union_compatible" alt="" coords="210,812,351,839"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#a77359a400a50940bbc35e671b683d3e9" title="pt_coerce_value" alt="" coords="457,105,575,132"/>
+<area shape="rect" id="node7" href="$type__checking_8c.html#a35a39aa3b7c00f88521373aaac78f2ed" title="pt_coerce_value_explicit" alt="" coords="433,156,599,183"/>
+<area shape="rect" id="node8" href="$type__checking_8c.html#ad1106a94fbd3bd9052ad24a24bfe6c3c" title="pt_coerce_value_for\l_default_value" alt="" coords="447,207,585,249"/>
+<area shape="rect" id="node10" href="$semantic__check_8h.html#a9707fb60111e3e2076af068d8572bef8" title="pt_check_union_type\l_compatibility_of_values_query" alt="" coords="647,695,851,737"/>
+<area shape="rect" id="node11" href="$semantic__check_8c.html#af5f6b8d13922f9e500b3a5116fbf4df3" title="pt_get_values_query\l_compatible_info" alt="" coords="445,695,587,737"/>
+</map>

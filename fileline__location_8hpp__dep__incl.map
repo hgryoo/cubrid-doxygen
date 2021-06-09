@@ -1,0 +1,10 @@
+<map id="src/base/fileline_location.hpp" name="src/base/fileline_location.hpp">
+<area shape="rect" id="node2" href="$fileline__location_8cpp.html" title="src/base/fileline_location.cpp" alt="" coords="278,80,469,107"/>
+<area shape="rect" id="node3" href="$resource__tracker_8hpp.html" title="src/base/resource_tracker.hpp" alt="" coords="493,80,691,107"/>
+<area shape="rect" id="node4" href="$memory__alloc_8c.html" title="src/base/memory_alloc.c" alt="" coords="5,162,173,189"/>
+<area shape="rect" id="node5" href="$resource__tracker_8cpp.html" title="src/base/resource_tracker.cpp" alt="" coords="198,162,397,189"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html" title="src/storage/page_buffer.c" alt="" coords="421,162,592,189"/>
+<area shape="rect" id="node7" href="$critical__section_8c.html" title="src/thread/critical\l_section.c" alt="" coords="616,155,739,196"/>
+<area shape="rect" id="node8" href="$critical__section__tracker_8cpp.html" title="src/thread/critical\l_section_tracker.cpp" alt="" coords="763,155,906,196"/>
+<area shape="rect" id="node9" href="$thread__entry_8cpp.html" title="src/thread/thread_entry.cpp" alt="" coords="931,162,1112,189"/>
+</map>

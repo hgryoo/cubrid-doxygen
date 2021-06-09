@@ -1,0 +1,15 @@
+<map id="locale_data" name="locale_data">
+<area shape="rect" id="node2" href="$structtext__conversion.html" title="{text_conversion\n|+ conv_type\l+ win_codepages\l+ nl_lang_str\l+ byte_flag\l+ utf8_first_cp\l+ utf8_last_cp\l+ text_first_cp\l+ text_last_cp\l+ utf8_to_text_func\l+ text_to_utf8_func\l+ init_conv_func\l|}" alt="" coords="5,593,140,817"/>
+<area shape="rect" id="node3" href="$structconv__cp__to__bytes.html" title="{conv_cp_to_bytes\n|+ size\l+ bytes\l|}" alt="" coords="9,314,137,406"/>
+<area shape="rect" id="node4" href="$structalphabet__data.html" title="{alphabet_data\n|+ a_type\l+ codeset\l+ l_count\l+ lower_multiplier\l+ lower_cp\l+ upper_multiplier\l+ upper_cp\l+ do_not_save\l|}" alt="" coords="165,615,290,795"/>
+<area shape="rect" id="node5" href="$structtext__conversion__prm.html" title="{text_conversion_prm\n|+ conv_type\l+ win_codepages\l+ nl_lang_str\l+ conv_file\l|}" alt="" coords="315,645,457,766"/>
+<area shape="rect" id="node6" href="$structunicode__normalization.html" title="{unicode_normalization\n|+ unicode_mappings_count\l+ unicode_mapping_index\l+ list_full_decomp\l+ do_not_save\l|}" alt="" coords="482,645,663,766"/>
+<area shape="rect" id="node7" href="$structunicode__mapping.html" title="{unicode_mapping\n|+ cp\l+ size\l+ buffer\l|}" alt="" coords="503,307,626,413"/>
+<area shape="rect" id="node8" href="$structlocale__collation.html" title="{locale_collation\n|+ do_not_save\l|}" alt="" coords="1016,667,1127,744"/>
+<area shape="rect" id="node9" href="$structcoll__tailoring.html" title="{coll_tailoring\n|+ coll_name\l+ coll_id\l+ sett_max_cp\l+ count_rules\l+ max_rules\l+ cub_count_rules\l+ cub_max_rules\l|}" alt="" coords="1229,277,1359,443"/>
+<area shape="rect" id="node10" href="$structldml__context.html" title="{ldml_context\n|+ ldml_file\l+ line_no\l|}" alt="" coords="797,27,893,119"/>
+<area shape="rect" id="node13" href="$structalphabet__tailoring.html" title="{alphabet_tailoring\n|+ sett_max_letters\l+ alphabet_mode\l+ unicode_data_file\l+ count_rules\l+ max_rules\l|}" alt="" coords="651,292,785,428"/>
+<area shape="rect" id="node11" href="$structcoll__data.html" title="{coll_data\n|+ coll_id\l+ coll_name\l+ weights\l+ next_cp\l+ weights_ti\l+ next_cp_ti\l+ w_count\l+ uca_exp_num\l+ uca_num\l+ uca_w_l13\l+ uca_w_l4\l+ count_contr\l+ contr_min_size\l+ cp_first_contr_array\l+ cp_first_contr_offset\l+ cp_first_contr_count\l+ checksum\l|}" alt="" coords="883,204,1036,516"/>
+<area shape="rect" id="node12" href="$structcoll__data__ref.html" title="{coll_data_ref\n|+ coll_weights_ref\l+ coll_next_cp_ref\l+ coll_uca_num_ref\l+ coll_uca_w_l13_ref\l+ coll_uca_w_l4_ref\l+ coll_contr_list_ref\l+ coll_cp_first_contr\l_array_ref\l|}" alt="" coords="1060,270,1205,450"/>
+<area shape="rect" id="node14" href="$structtransform__rule.html" title="{transform_rule\n|+ type\l+ src\l+ src_size\l+ dest\l+ dest_size\l|}" alt="" coords="613,5,719,141"/>
+</map>

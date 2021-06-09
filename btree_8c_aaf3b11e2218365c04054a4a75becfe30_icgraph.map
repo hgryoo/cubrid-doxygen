@@ -1,0 +1,5 @@
+<map id="btree_record_object_clear_mvcc_flags" name="btree_record_object_clear_mvcc_flags">
+<area shape="rect" id="node2" href="$btree_8c.html#aa44907cd78fcd3639c5baa13304d9297" title="btree_remove_mvccid" alt="" coords="189,46,340,73"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a6c36f5a2e9faf6cec9a2d418abf2ee7c" title="btree_record_remove\l_insid" alt="" coords="388,5,532,47"/>
+<area shape="rect" id="node4" href="$btree_8c.html#af9acfd244a7a7269df1d1d9978987f22" title="btree_record_remove\l_delid" alt="" coords="388,71,532,112"/>
+</map>

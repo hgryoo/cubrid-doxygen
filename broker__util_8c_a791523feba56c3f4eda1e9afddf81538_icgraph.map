@@ -1,0 +1,13 @@
+<map id="ut_kill_process" name="ut_kill_process">
+<area shape="rect" id="node2" href="$broker__util_8h.html#a7a87921243221bb5ac7f8f9909b339f8" title="ut_kill_as_process" alt="" coords="173,132,304,159"/>
+<area shape="rect" id="node9" href="$broker__util_8h.html#a739de3560ad2969af6678f229eec1b2a" title="ut_kill_broker_process" alt="" coords="163,259,315,285"/>
+<area shape="rect" id="node10" href="$broker__util_8h.html#afb9b777582aca7c128e8f39d51fa0065" title="ut_kill_proxy_process" alt="" coords="165,309,313,336"/>
+<area shape="rect" id="node3" href="$broker_8c.html#a254fa58d82c00fb41cf32ab29a13d684" title="stop_appl_server" alt="" coords="369,5,490,32"/>
+<area shape="rect" id="node4" href="$broker_8c.html#a707ee8142e767eaaf3e1460fec372dd6" title="restart_appl_server" alt="" coords="363,56,496,83"/>
+<area shape="rect" id="node5" href="$broker_8c.html#a04a97cd176b4d71f2ec755559b4ce750" title="connect_srv" alt="" coords="383,107,476,133"/>
+<area shape="rect" id="node6" href="$broker__admin__pub_8h.html#af8e8e279d05d6361203a52304e19eeff" title="admin_restart_cmd" alt="" coords="363,157,496,184"/>
+<area shape="rect" id="node7" href="$broker__admin__pub_8c.html#a0253b88a1fe9f364c189d8042ac8eae2" title="as_inactivate" alt="" coords="380,208,479,235"/>
+<area shape="rect" id="node8" href="$broker__admin__pub_8c.html#a2069352d734d14eb117b09560ade8dcd" title="br_inactivate" alt="" coords="544,259,640,285"/>
+<area shape="rect" id="node11" href="$broker_8c.html#aaa219607a30bcb567284745904217927" title="stop_proxy_server" alt="" coords="365,309,494,336"/>
+<area shape="rect" id="node12" href="$broker__admin__pub_8c.html#a360e3e8bf49653cfc4ffd884475ced9a" title="proxy_inactivate" alt="" coords="371,360,488,387"/>
+</map>

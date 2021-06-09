@@ -1,0 +1,8 @@
+<map id="src/base/msgcat_set_log.hpp" name="src/base/msgcat_set_log.hpp">
+<area shape="rect" id="node2" href="$file__io_8c.html" title="src/storage/file_io.c" alt="" coords="5,102,141,129"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html" title="src/transaction/log\l_applier.c" alt="" coords="165,95,294,136"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html" title="src/transaction/log\l_manager.c" alt="" coords="318,95,447,136"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html" title="src/transaction/log\l_page_buffer.c" alt="" coords="471,95,601,136"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html" title="src/transaction/log\l_recovery.c" alt="" coords="625,95,754,136"/>
+<area shape="rect" id="node7" href="$log__writer_8c.html" title="src/transaction/log\l_writer.c" alt="" coords="778,95,907,136"/>
+</map>

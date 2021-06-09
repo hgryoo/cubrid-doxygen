@@ -1,0 +1,6 @@
+<map id="file_get_tran_num_temp_files" name="file_get_tran_num_temp_files">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a266493da17b6d1e9ec9c2494c86164a0" title="file_tempcache_drop\l_tran_temp_files" alt="" coords="238,23,381,65"/>
+<area shape="rect" id="node5" href="$log__tran__table_8c.html#a1799a28ad76ce5c876cfd920cf2573fa" title="logtb_descriptors_start_scan" alt="" coords="215,89,404,116"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="452,5,575,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="459,56,568,83"/>
+</map>

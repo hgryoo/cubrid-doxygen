@@ -1,0 +1,5 @@
+<map id="val_list_node" name="val_list_node">
+<area shape="rect" id="node2" href="$structqproc__db__value__list.html" title="{qproc_db_value_list\n||+ qproc_db_value_list()\l}" alt="" coords="171,292,328,369"/>
+<area shape="rect" id="node3" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="5,5,139,229"/>
+<area shape="rect" id="node4" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="261,79,358,156"/>
+</map>

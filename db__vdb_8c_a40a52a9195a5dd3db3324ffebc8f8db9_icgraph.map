@@ -1,0 +1,15 @@
+<map id="db_get_query_type_list" name="db_get_query_type_list">
+<area shape="rect" id="node2" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="209,31,380,57"/>
+<area shape="rect" id="node5" href="$db__vdb_8c.html#a78481e1554c3d1807c07bcb8bfc7cd54" title="db_compile_and_execute\l_queries_internal" alt="" coords="210,166,379,207"/>
+<area shape="rect" id="node11" href="$cas__execute_8c.html#a977259b8d253fa1f9cd18f4e46ef726b" title="prepare_column_list\l_info_set" alt="" coords="225,231,364,273"/>
+<area shape="rect" id="node12" href="$db__stub_8c.html#adc3082e0315129d13d32476c3ab7331a" title="stmt_bind_resultset\l_meta_handle" alt="" coords="227,297,363,338"/>
+<area shape="rect" id="node13" href="$esql__cli_8c.html#a36d9c91b915ea0efce4be6271bb73e38" title="uci_prepare" alt="" coords="250,363,339,389"/>
+<area shape="rect" id="node14" href="$cas__execute_8c.html#ace493c88c381cec40bd3d9ebc6ba754e" title="ux_use_sp_out" alt="" coords="239,413,350,440"/>
+<area shape="rect" id="node3" href="$csql_8c.html#a5a64da02076e414cb5f4ebdeb89248b4" title="start_csql" alt="" coords="645,5,724,32"/>
+<area shape="rect" id="node4" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="437,31,588,57"/>
+<area shape="rect" id="node6" href="$db__vdb_8c.html#a66e982d5480ef969873f27b038465417" title="db_compile_and_execute\l_local" alt="" coords="428,82,597,123"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#a9a920e93130fedecbd918200ca8b8024" title="db_execute" alt="" coords="468,148,557,175"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#a8326e216f443ded93864d14723424447" title="db_execute_oid" alt="" coords="456,199,569,225"/>
+<area shape="rect" id="node9" href="$dbi__compat_8h.html#a6a4302d668bc2b1a41285166d517710a" title="db_get_query_format" alt="" coords="441,249,585,276"/>
+<area shape="rect" id="node10" href="$dbi__compat_8h.html#a999b896df64759cbc26ab8d27a1e5141" title="db_query_execute" alt="" coords="449,300,577,327"/>
+</map>

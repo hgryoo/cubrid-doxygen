@@ -1,0 +1,6 @@
+<map id="setobj_insert_element" name="setobj_insert_element">
+<area shape="rect" id="node2" href="$set__object_8h.html#a2637cbedf333d3bfbd24cefe7db06bc6" title="set_insert_element" alt="" coords="203,56,335,83"/>
+<area shape="rect" id="node3" href="$db__set__function_8h.html#a8ad905fb16bfd1eec0ca2bc432a23348" title="db_seq_insert" alt="" coords="401,5,504,32"/>
+<area shape="rect" id="node4" href="$db__set__function_8h.html#a15c94da1291b9dc11339fd04ba68ccb3" title="db_col_insert" alt="" coords="403,56,502,83"/>
+<area shape="rect" id="node5" href="$trigger__manager_8c.html#a903e9b2397f758ed09660ea58ecf8a74" title="register_user_trigger" alt="" coords="383,107,523,133"/>
+</map>

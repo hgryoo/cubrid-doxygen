@@ -1,0 +1,6 @@
+<map id="TheFixedHeapType" name="TheFixedHeapType">
+<area shape="rect" id="node2" href="$classHL_1_1LockedHeap.html" title="{HL::LockedHeap\&lt; SpinLock\lType, FreelistHeap\&lt; ZoneHeap\l\&lt; MallocHeap, 0 \&gt; \&gt; \&gt;\n||+ malloc()\l+ free()\l+ getSize()\l+ getSize()\l+ lock()\l+ unlock()\l}" alt="" coords="211,277,417,457"/>
+<area shape="rect" id="node3" href="$classHL_1_1FreelistHeap.html" title="{HL::FreelistHeap\&lt; ZoneHeap\l\&lt; MallocHeap, 0 \&gt; \&gt;\n||+ malloc()\l+ free()\l+ clear()\l}" alt="" coords="5,35,199,156"/>
+<area shape="rect" id="node4" href="$classHL_1_1SpinLockType.html" title="{HL::SpinLockType\n|&#45; mutex\l|+ SpinLockType()\l+ ~SpinLockType()\l+ lock()\l+ unlock()\l+ MyInterlockedExchange()\l&#45; contendedLock()\l&#45; onMultiprocessor()\l&#45; yieldProcessor()\l}" alt="" coords="223,5,405,185"/>
+<area shape="rect" id="node5" href="$classHL_1_1LockedHeap.html" title="{HL::LockedHeap\&lt; LockType,\l Super \&gt;\n||+ malloc()\l+ free()\l+ getSize()\l+ getSize()\l+ lock()\l+ unlock()\l}" alt="" coords="429,13,623,178"/>
+</map>

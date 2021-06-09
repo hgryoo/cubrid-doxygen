@@ -1,0 +1,14 @@
+<map id="sysprm_change_parameter_values" name="sysprm_change_parameter_values">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#af63ac188972f8891747005d487779079" title="db_set_system_parameters" alt="" coords="649,188,832,215"/>
+<area shape="rect" id="node10" href="$system__parameter_8c.html#a4ec31a9cb79fca746211d6033d5d9b8c" title="prm_tune_parameters" alt="" coords="240,209,388,236"/>
+<area shape="rect" id="node11" href="$system__parameter_8h.html#abe9d55192d5e70a8323d99e2b1589c04" title="xsysprm_change_server\l_parameters" alt="" coords="232,261,396,302"/>
+<area shape="rect" id="node3" href="$cas__execute_8h.html#a1c80a0c9c5c1a9dd684ca1e938106d16" title="ux_set_default_setting" alt="" coords="901,5,1054,32"/>
+<area shape="rect" id="node4" href="$dbi_8h.html#a2e0e18a570314dd6ff7c8d1da91eefaf" title="db_set_system_parameters\l_for_ha_repl" alt="" coords="886,57,1069,98"/>
+<area shape="rect" id="node5" href="$dbi_8h.html#abd2d1be090b737e77e6ad72c8ef0a5e1" title="db_reset_system_parameters\l_from_assignments" alt="" coords="880,122,1075,163"/>
+<area shape="rect" id="node6" href="$csql_8c.html#ab34b6db3f30265df0d6363adae28a50e" title="csql_set_sys_param" alt="" coords="906,188,1049,215"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#a1e2648659a62a89bf40cb71195b06812" title="do_set_sys_params" alt="" coords="908,239,1047,265"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#a3a1f09af8380d53c78b0c3c04bd6dc48" title="do_set_names" alt="" coords="924,289,1031,316"/>
+<area shape="rect" id="node9" href="$execute__statement_8h.html#a67655c1188c3bd7d3abecb351dfb15a2" title="do_set_timezone" alt="" coords="917,340,1038,367"/>
+<area shape="rect" id="node12" href="$network__interface__cl_8c.html#a05f431c6b9f94b9260d7bab53298fa99" title="sysprm_change_server\l_parameters" alt="" coords="444,210,601,251"/>
+<area shape="rect" id="node13" href="$network__interface__sr_8h.html#a5a508bc4bbce9f0e0cadefa99b7979bd" title="sprm_server_change\l_parameters" alt="" coords="451,275,594,317"/>
+</map>

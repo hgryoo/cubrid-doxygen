@@ -1,0 +1,18 @@
+<map id="locator_is_exist_class_name_entry" name="locator_is_exist_class_name_entry">
+<area shape="rect" id="node2" href="$locator__sr_8c.html#adecb56661a8c0b7ebd008b74d8e3b512" title="locator_defence_drop\l_class_name_entry" alt="" coords="471,5,617,47"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#a92e66577d09468848d4c6e520b3d5c0d" title="locator_drop_class\l_name_entry" alt="" coords="236,64,367,105"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#add2f875353eea2b50e0bdafde6f03ddd" title="xlocator_rename_class_name" alt="" coords="447,155,641,182"/>
+<area shape="rect" id="node6" href="$locator__sr_8h.html#ac2b7679cfa8d66e9f365d5718615b343" title="locator_initialize" alt="" coords="244,333,359,359"/>
+<area shape="rect" id="node11" href="$locator__sr_8c.html#af3ab0f3f2ecac276ea14acb0b47d36db" title="locator_permoid_class_name" alt="" coords="206,231,397,258"/>
+<area shape="rect" id="node12" href="$locator__sr_8c.html#a30e033205bec93939e31495d341048b6" title="locator_savepoint_class\l_name_entry" alt="" coords="220,500,383,541"/>
+<area shape="rect" id="node14" href="$locator__sr_8c.html#a059eaea3ab806c4e02ccd5fafadaf432" title="xlocator_delete_class_name" alt="" coords="208,282,395,309"/>
+<area shape="rect" id="node15" href="$locator__sr_8c.html#ad4e0899560f1552b3e77d2ebf5edbb2c" title="xlocator_find_class_oid" alt="" coords="222,383,381,410"/>
+<area shape="rect" id="node16" href="$locator__sr_8c.html#a53886d19e60326c42a8e134ea06fd0f5" title="xlocator_find_lockhint\l_class_oids" alt="" coords="227,435,375,476"/>
+<area shape="rect" id="node17" href="$locator__sr_8c.html#ac60dfa15780b342f9b6d49b25c6172c3" title="xlocator_reserve_class_name" alt="" coords="204,130,399,157"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#a922a0c5f839b07dc18e05320911311f4" title="locator_drop_transient\l_class_name_entries" alt="" coords="689,35,840,76"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="477,257,611,283"/>
+<area shape="rect" id="node8" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="461,307,627,334"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="462,358,626,385"/>
+<area shape="rect" id="node10" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="496,409,592,435"/>
+<area shape="rect" id="node13" href="$locator__sr_8h.html#a8da45a40cc27a0af630ee2e7c756b9e1" title="locator_savepoint_transient\l_class_name_entries" alt="" coords="453,500,635,541"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="lob_locator_is_valid" name="lob_locator_is_valid">
+<area shape="rect" id="node2" href="$transaction__transient_8hpp.html#a4b245c24099b14761db5dc475bc45754" title="tx_lob_locator_clear" alt="" coords="191,107,330,133"/>
+<area shape="rect" id="node7" href="$transaction__transient_8hpp.html#aa3c2ef0d11d1d8545e613be8596d8eb7" title="xtx_add_lob_locator" alt="" coords="191,259,330,285"/>
+<area shape="rect" id="node10" href="$transaction__transient_8hpp.html#a93cd9a48b34f765ecc98df18a611f2a6" title="xtx_change_state_of\l_locator" alt="" coords="189,343,332,385"/>
+<area shape="rect" id="node13" href="$transaction__transient_8hpp.html#a9b297b9a60e21e71717b9197cf4c9937" title="xtx_drop_lob_locator" alt="" coords="189,441,332,468"/>
+<area shape="rect" id="node16" href="$transaction__transient_8hpp.html#a0a94a818467df511e3ba1643ee4dc08a" title="xtx_find_lob_locator" alt="" coords="191,543,330,569"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="399,5,522,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="406,56,515,83"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a337f8a4c9ef75b8f01e4f5293d2f3381" title="log_abort_partial" alt="" coords="402,107,519,133"/>
+<area shape="rect" id="node6" href="$transaction__sr_8c.html#a9b5f535da0352cfafc4cd0966b36190d" title="xtran_server_end_topop" alt="" coords="380,157,541,184"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#a2b85a85153db1fa672f938f781524f45" title="slog_add_lob_locator" alt="" coords="389,208,533,235"/>
+<area shape="rect" id="node9" href="$lob__locator_8hpp.html#aafdb3cc6e57b5768ece6737894a87080" title="lob_locator_add" alt="" coords="404,259,517,285"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#a67e759708b9ee2b8de3f01b82f259d6c" title="slog_change_state_of\l_locator" alt="" coords="386,310,535,351"/>
+<area shape="rect" id="node12" href="$lob__locator_8hpp.html#a44c3af7677bff383417b36100ba40632" title="lob_locator_change\l_state" alt="" coords="393,375,528,417"/>
+<area shape="rect" id="node14" href="$network__interface__sr_8h.html#aab271eb0aacc61706d1b053194c87958" title="slog_drop_lob_locator" alt="" coords="387,441,535,468"/>
+<area shape="rect" id="node15" href="$lob__locator_8hpp.html#a818b52eaeadd07f645ce28217a4a2026" title="lob_locator_drop" alt="" coords="402,492,519,519"/>
+<area shape="rect" id="node17" href="$network__interface__sr_8h.html#abade4bb4932c1a496549c8ec9b7e1f3c" title="slog_find_lob_locator" alt="" coords="389,543,533,569"/>
+<area shape="rect" id="node18" href="$lob__locator_8hpp.html#a512e8fc882bf7af23cd19daeeae52d4f" title="lob_locator_find" alt="" coords="404,593,517,620"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="pt_is_function_index_expr" name="pt_is_function_index_expr">
+<area shape="rect" id="node2" href="$query__graph_8c.html#a9f6cc31a9a487652c9b5a06731400662" title="build_query_graph_function\l_index" alt="" coords="236,5,416,47"/>
+<area shape="rect" id="node4" href="$execute__schema_8h.html#a781ed558285ee6b9acf14a6291ac6262" title="do_recreate_func_index\l_constr" alt="" coords="246,71,406,112"/>
+<area shape="rect" id="node5" href="$query__graph_8c.html#a2101b00a28698c9d64e6f003e73871dd" title="is_local_name" alt="" coords="273,187,379,214"/>
+<area shape="rect" id="node6" href="$query__graph_8c.html#a4d322007ce6983e3472645dbca6b53ec" title="qo_analyze_term" alt="" coords="489,121,610,147"/>
+<area shape="rect" id="node7" href="$query__graph_8c.html#ab76ae813d7255a341fbe827078d32354" title="lookup_node" alt="" coords="279,238,373,265"/>
+<area shape="rect" id="node11" href="$query__graph_8c.html#a53580f97eea3cf5cb4b8fe8237731a79" title="set_seg_expr" alt="" coords="673,339,773,366"/>
+<area shape="rect" id="node12" href="$query__graph_8c.html#a47247a7ac61fc0bec90c177303e0e678" title="lookup_seg" alt="" coords="282,289,370,315"/>
+<area shape="rect" id="node14" href="$semantic__check_8c.html#acf014bcd1cf76e11476da2c954d81304" title="pt_check_function_index_expr" alt="" coords="227,466,425,493"/>
+<area shape="rect" id="node15" href="$semantic__check_8c.html#a037d720c8f15dd86df8710577a97dafa" title="pt_check_with_info" alt="" coords="482,441,617,467"/>
+<area shape="rect" id="node16" href="$query__rewrite_8c.html#a3b7657e36b3388bff539eaa056ea7034" title="qo_rewrite_like_terms" alt="" coords="251,517,401,543"/>
+<area shape="rect" id="node3" href="$query__graph_8c.html#a36e513d9217f9a2e0c5d27f73f300a14" title="qo_optimize_helper" alt="" coords="482,13,617,39"/>
+<area shape="rect" id="node8" href="$query__planner_8c.html#a277037b8e66c8dadc6f901893506dc1b" title="qo_index_cardinality" alt="" coords="479,171,619,198"/>
+<area shape="rect" id="node9" href="$query__planner_8c.html#a0875eef5c989efc80b0c19fa3fde1e0d" title="qo_validate_index_attr\l_notnull" alt="" coords="473,223,625,264"/>
+<area shape="rect" id="node10" href="$query__graph_8c.html#a7b873fc8d52ed07235b219ce3b3da252" title="set_seg_node" alt="" coords="498,289,601,315"/>
+<area shape="rect" id="node13" href="$query__graph_8c.html#a06afab6442de2e9a6c06ddc220e4dede" title="qo_join_segment" alt="" coords="489,339,609,366"/>
+</map>

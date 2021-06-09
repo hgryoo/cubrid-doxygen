@@ -1,0 +1,21 @@
+<map id="pt_init_assignments_helper" name="pt_init_assignments_helper">
+<area shape="rect" id="node2" href="$execute__statement_8c.html#a1040c4c3e98b05cd3be45fa49cb0babd" title="check_trigger" alt="" coords="457,56,557,83"/>
+<area shape="rect" id="node6" href="$execute__statement_8c.html#a0d27c05bd51d5bff9800d9215928ae5a" title="init_update_data" alt="" coords="224,132,341,159"/>
+<area shape="rect" id="node7" href="$execute__statement_8c.html#ad3e5836d399eca9cc6f181c57a9e4957" title="update_object_by_oid" alt="" coords="649,183,797,209"/>
+<area shape="rect" id="node8" href="$execute__statement_8c.html#a549b89c3cb634fe4951a70c2429877e9" title="update_class_attributes" alt="" coords="427,183,587,209"/>
+<area shape="rect" id="node9" href="$xasl__generation_8h.html#ae7fcc94bf6a04c854d21fcf10d01795d" title="pt_append_omitted_on\l_update_expr_assignments" alt="" coords="192,335,373,377"/>
+<area shape="rect" id="node10" href="$xasl__generation_8c.html#a181ebc72c388222cddb1fadfbc053d90" title="pt_to_odku_info" alt="" coords="449,313,564,340"/>
+<area shape="rect" id="node11" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="443,481,571,508"/>
+<area shape="rect" id="node12" href="$xasl__generation_8c.html#ad40a4696a329c337de0d1b4cec048d27" title="pt_to_merge_update_xasl" alt="" coords="421,383,592,409"/>
+<area shape="rect" id="node13" href="$parser_8h.html#a4d9ff1e3fa7095555ffb26f48baeccd2" title="pt_count_assignments" alt="" coords="206,81,359,108"/>
+<area shape="rect" id="node14" href="$xasl__generation_8c.html#ae7914a079ccb4207cf389a990b0eacad" title="pt_mvcc_flag_specs\l_assign_reev" alt="" coords="211,503,354,545"/>
+<area shape="rect" id="node15" href="$xasl__generation_8c.html#a95bda85faecf1ad599a17d0246d9dbc0" title="pt_mvcc_set_spec_assign\l_reev_extra_indexes" alt="" coords="194,569,371,610"/>
+<area shape="rect" id="node16" href="$semantic__check_8c.html#a0b451ee9161f58ef68e25130560adfe3" title="pt_no_attr_and_meta\l_attr_updates" alt="" coords="211,634,355,675"/>
+<area shape="rect" id="node19" href="$semantic__check_8c.html#a8ace6e3dcf7c5b1840dc5f4df6fed4b7" title="pt_semantic_check_local" alt="" coords="198,700,367,727"/>
+<area shape="rect" id="node20" href="$xasl__generation_8c.html#af4e24679ad6873dc40aa572309b25c70" title="pt_substitute_assigned\l_name_node" alt="" coords="205,751,361,793"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#aa869afaf1879b3b1965e919b0f4767d0" title="do_check_delete_trigger" alt="" coords="642,5,805,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a09546c18f6ab8fe284702bb5b6fa8569" title="do_check_insert_trigger" alt="" coords="643,56,803,83"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a0a11f76d5629a90d60a1809ddb819770" title="do_check_update_trigger" alt="" coords="640,107,807,133"/>
+<area shape="rect" id="node17" href="$view__transform_8c.html#a15e8fee6c161f2d461b1298690346c20" title="mq_check_update" alt="" coords="443,667,571,693"/>
+<area shape="rect" id="node18" href="$view__transform_8c.html#aacde768b497e096a66c5a4bf83387ed4" title="mq_check_merge" alt="" coords="444,616,569,643"/>
+</map>

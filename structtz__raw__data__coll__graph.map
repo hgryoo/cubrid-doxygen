@@ -1,0 +1,10 @@
+<map id="tz_raw_data" name="tz_raw_data">
+<area shape="rect" id="node2" href="$structtz__raw__country.html" title="{tz_raw_country\n|+ id\l+ code\l+ full_name\l+ is_used\l|}" alt="" coords="5,343,116,465"/>
+<area shape="rect" id="node3" href="$structtz__raw__ds__ruleset.html" title="{tz_raw_ds_ruleset\n|+ rule_count\l+ name\l+ is_used\l|}" alt="" coords="141,351,269,457"/>
+<area shape="rect" id="node4" href="$structtz__raw__ds__rule.html" title="{tz_raw_ds_rule\n|+ from_year\l+ to_year\l+ type\l+ in_month\l+ at_time\l+ at_time_type\l+ save_time\l+ letter_abbrev\l|}" alt="" coords="149,27,260,207"/>
+<area shape="rect" id="node5" href="$structtz__raw__zone__info.html" title="{tz_raw_zone_info\n|+ offset_rule_count\l+ id\l+ country_id\l+ alias_count\l+ aliases\l+ clone_of\l+ clone_of_id\l+ code\l+ coordinates\l+ full_name\l+ comments\l|}" alt="" coords="293,292,428,516"/>
+<area shape="rect" id="node6" href="$structtz__raw__offset__rule.html" title="{tz_raw_offset_rule\n|+ gmt_off\l+ until_year\l+ until_mon\l+ until_day\l+ until_hour\l+ until_min\l+ until_sec\l+ ds_ruleset_name\l+ format\l+ until_time_type\l+ until_flag\l|}" alt="" coords="294,5,427,229"/>
+<area shape="rect" id="node7" href="$structtz__leap__sec.html" title="{tz_leap_sec\n|+ year\l+ month\l+ day\l+ corr_negative\l+ is_rolling\l|}" alt="" coords="453,336,565,472"/>
+<area shape="rect" id="node8" href="$structtz__raw__link.html" title="{tz_raw_link\n|+ name\l+ alias\l+ zone_id\l|}" alt="" coords="589,351,677,457"/>
+<area shape="rect" id="node9" href="$structtz__raw__context.html" title="{tz_raw_context\n|+ current_line\l+ current_file\l|}" alt="" coords="701,358,812,450"/>
+</map>

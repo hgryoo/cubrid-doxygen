@@ -1,0 +1,9 @@
+<map id="or_pack_ptr" name="or_pack_ptr">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#aaf5f589a1d20495e0b078532ac12767f" title="qfile_get_list_file_page" alt="" coords="161,5,316,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a4dc2e17f8bbda1fb057aed8a632458cb" title="qmgr_end_query" alt="" coords="179,56,298,83"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#af5588ff08bd4f5d52ccbf0219200ce0d" title="qmgr_execute_query" alt="" coords="167,107,310,133"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="163,157,314,184"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#abe5a5fb9e7d4da29e0db82283a10503e" title="sqmgr_prepare_and_execute\l_query" alt="" coords="144,209,333,250"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#a09892fdeb1d0a25ac378217c002187da" title="tran_server_commit" alt="" coords="170,275,307,301"/>
+<area shape="rect" id="node3" href="$cursor_8c.html#a36cf5ce57b77059de4370bb06a3bf542" title="cursor_get_list_file_page" alt="" coords="381,5,548,32"/>
+</map>

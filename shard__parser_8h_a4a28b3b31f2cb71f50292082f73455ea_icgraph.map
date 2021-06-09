@@ -1,0 +1,9 @@
+<map id="sp_get_next_hint" name="sp_get_next_hint">
+<area shape="rect" id="node2" href="$shard__proxy__function_8c.html#a96f7c96bf00a69ada8249bc8852f94cd" title="proxy_get_shard_id" alt="" coords="189,89,324,116"/>
+<area shape="rect" id="node6" href="$shard__statement_8h.html#a23fefc14f19e234655152950ac0caac6" title="shard_stmt_set_hint_list" alt="" coords="175,39,339,65"/>
+<area shape="rect" id="node7" href="$shard__parser_8c.html#a6ed69b8620374da108c819d2bcf91425" title="sp_free_parser_hint\l_from_ctx" alt="" coords="189,147,325,189"/>
+<area shape="rect" id="node3" href="$shard__proxy__function_8h.html#a1129ea179bc5b956c36d68cb474abd99" title="fn_proxy_client_prepare" alt="" coords="387,5,547,32"/>
+<area shape="rect" id="node4" href="$shard__proxy__function_8c.html#affba070c8d56d9b5d6f48c7202361d29" title="proxy_client_execute\l_internal" alt="" coords="394,122,539,163"/>
+<area shape="rect" id="node5" href="$shard__proxy__function_8h.html#a311b744e4b544961d2d2f9e8e85bc6dc" title="fn_proxy_client_prepare\l_and_execute" alt="" coords="387,57,547,98"/>
+<area shape="rect" id="node8" href="$shard__parser_8h.html#a83ed83045eeec96642a31e109eb7f266" title="sp_destroy_parser" alt="" coords="402,188,531,215"/>
+</map>

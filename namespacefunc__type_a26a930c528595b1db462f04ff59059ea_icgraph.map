@@ -1,0 +1,5 @@
+<map id="func_type::is_type_with_collation" name="func_type::is_type_with_collation">
+<area shape="rect" id="node2" href="$namespacefunc__type.html#aac1506b4eba8737e14d5b08c279e9b35" title="func_type::can_signature\l_have_collation" alt="" coords="183,5,351,47"/>
+<area shape="rect" id="node3" href="$classfunc__type_1_1Node.html#aee04c2de1c380cbcf1ed55e684fe75af" title="func_type::Node::check\l_arg_compat" alt="" coords="399,35,560,76"/>
+<area shape="rect" id="node4" href="$classfunc__type_1_1Node.html#acdef77e4e64ce753027eba47a5d21937" title="func_type::Node::set\l_return_type" alt="" coords="195,123,339,164"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="src/query/xasl_cache.h" name="src/query/xasl_cache.h">
+<area shape="rect" id="node2" href="$event__log_8c.html" title="src/base/event_log.c" alt="" coords="5,80,148,107"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="553,229,736,271"/>
+<area shape="rect" id="node4" href="$list__file_8h.html" title="src/query/list_file.h" alt="" coords="860,80,992,107"/>
+<area shape="rect" id="node5" href="$list__file_8c.html" title="src/query/list_file.c" alt="" coords="193,237,325,263"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html" title="src/query/query_executor.c" alt="" coords="349,237,529,263"/>
+<area shape="rect" id="node8" href="$query__manager_8c.html" title="src/query/query_manager.c" alt="" coords="1471,237,1651,263"/>
+<area shape="rect" id="node9" href="$xasl__cache_8c.html" title="src/query/xasl_cache.c" alt="" coords="761,237,918,263"/>
+<area shape="rect" id="node10" href="$locator__sr_8c.html" title="src/transaction/locator_sr.c" alt="" coords="1267,237,1447,263"/>
+<area shape="rect" id="node11" href="$log__manager_8c.html" title="src/transaction/log\l_manager.c" alt="" coords="1675,229,1804,271"/>
+<area shape="rect" id="node12" href="$log__tran__table_8c.html" title="src/transaction/log\l_tran_table.c" alt="" coords="1828,229,1957,271"/>
+<area shape="rect" id="node17" href="$serial_8c.html" title="src/query/serial.c" alt="" coords="1827,80,1950,107"/>
+<area shape="rect" id="node18" href="$session_8c.html" title="src/session/session.c" alt="" coords="1974,80,2123,107"/>
+<area shape="rect" id="node19" href="$session__sr_8c.html" title="src/session/session_sr.c" alt="" coords="2148,80,2315,107"/>
+<area shape="rect" id="node20" href="$boot__sr_8c.html" title="src/transaction/boot_sr.c" alt="" coords="2339,80,2505,107"/>
+<area shape="rect" id="node6" href="$query__manager_8h.html" title="src/query/query_manager.h" alt="" coords="1369,155,1549,181"/>
+<area shape="rect" id="node13" href="$query__aggregate_8cpp.html" title="src/query/query_aggregate.cpp" alt="" coords="929,155,1131,181"/>
+<area shape="rect" id="node14" href="$query__analytic_8cpp.html" title="src/query/query_analytic.cpp" alt="" coords="1155,155,1345,181"/>
+<area shape="rect" id="node15" href="$query__evaluator_8c.html" title="src/query/query_evaluator.c" alt="" coords="477,155,660,181"/>
+<area shape="rect" id="node16" href="$query__opfunc_8c.html" title="src/query/query_opfunc.c" alt="" coords="736,155,905,181"/>
+</map>

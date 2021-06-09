@@ -1,0 +1,6 @@
+<map id="cci_collection_s" name="cci_collection_s">
+<area shape="rect" id="node2" href="$structapi__collection__s.html" title="{api_collection_s\n|+ conn\l|}" alt="" coords="39,248,154,325"/>
+<area shape="rect" id="node3" href="$structapi__collection__ifs__s.html" title="{api_collection_ifs_s\n|+ length\l+ insert\l+ update\l+ delete\l+ get_elem_domain_info\l+ get_elem\l+ destroy\l|}" alt="" coords="5,13,169,178"/>
+<area shape="rect" id="node4" href="$structvalue__indexer__s.html" title="{value_indexer_s\n||}" alt="" coords="196,248,312,325"/>
+<area shape="rect" id="node5" href="$structvalue__indexer__ifs__s.html" title="{value_indexer_ifs_s\n|+ check\l+ length\l+ get\l+ set\l+ map\l+ insert\l+ delete\l+ destroy\l|}" alt="" coords="193,5,331,185"/>
+</map>

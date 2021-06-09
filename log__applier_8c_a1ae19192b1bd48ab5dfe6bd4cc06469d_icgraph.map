@@ -1,0 +1,11 @@
+<map id="la_log_copy_fromlog" name="la_log_copy_fromlog">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a3bc011a19f402148b5f8c465eb8044c3" title="la_get_log_data" alt="" coords="408,56,521,83"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#a26071ffa5f9060256e41ea5350061de9" title="la_get_next_update_log" alt="" coords="385,157,544,184"/>
+<area shape="rect" id="node7" href="$log__applier_8c.html#a930826f579c5bf3d1346cf40cafcebf8" title="la_get_undoredo_diff" alt="" coords="195,107,337,133"/>
+<area shape="rect" id="node8" href="$log__applier_8c.html#a11a9dcfe08f7320ceeb89cf086d77bf9" title="la_make_repl_item" alt="" coords="201,208,331,235"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a6a1468ac5911db62a7c26a0403d91b51" title="la_get_overflow_recdes" alt="" coords="596,5,755,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a37ef46eaee81a2d30f60982bc465783b" title="la_get_recdes" alt="" coords="807,81,909,108"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#ae0f331a6f107b8f05e20e77a390b608e" title="la_get_relocation_recdes" alt="" coords="592,107,759,133"/>
+<area shape="rect" id="node9" href="$log__applier_8c.html#a35df2910fea95b3a5bd61ea136809ed1" title="la_set_repl_log" alt="" coords="410,208,519,235"/>
+<area shape="rect" id="node10" href="$log__applier_8c.html#aed21c8533b8b30df07b392392218fd09" title="la_get_next_repl_item\l_from_log" alt="" coords="390,259,539,301"/>
+</map>

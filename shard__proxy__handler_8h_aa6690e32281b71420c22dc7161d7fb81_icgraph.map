@@ -1,0 +1,15 @@
+<map id="proxy_event_set_buffer" name="proxy_event_set_buffer">
+<area shape="rect" id="node2" href="$shard__proxy__function_8c.html#affba070c8d56d9b5d6f48c7202361d29" title="proxy_client_execute\l_internal" alt="" coords="229,57,375,98"/>
+<area shape="rect" id="node5" href="$shard__proxy__handler_8h.html#a599e6855e64c7e5122ac3fc38261f5a1" title="proxy_event_new_with\l_error" alt="" coords="225,174,379,215"/>
+<area shape="rect" id="node8" href="$shard__proxy__handler_8h.html#a64f82f03edf75b709e58e828e3dcb0d1" title="proxy_event_new_with_req" alt="" coords="212,247,392,273"/>
+<area shape="rect" id="node11" href="$shard__proxy__handler_8h.html#a2285bb6d7e86ace8615e32c2084feeb1" title="proxy_event_new_with\l_rsp_ex" alt="" coords="225,313,379,354"/>
+<area shape="rect" id="node13" href="$shard__proxy__function_8c.html#aec839e61666cafa0e374c68b5f8104c1" title="proxy_send_prepared\l_stmt_to_client" alt="" coords="229,407,375,449"/>
+<area shape="rect" id="node3" href="$shard__proxy__function_8h.html#a851780c664a397663a77ea0526af3bb8" title="fn_proxy_client_execute" alt="" coords="449,5,611,32"/>
+<area shape="rect" id="node4" href="$shard__proxy__function_8h.html#aaf67694dfc5305b1cb2d75304c9e1379" title="fn_proxy_client_execute\l_array" alt="" coords="449,57,611,98"/>
+<area shape="rect" id="node6" href="$shard__proxy__function_8h.html#aecdb57a783bffc4f067a7931e8872525" title="fn_proxy_cas_prepare" alt="" coords="455,123,605,149"/>
+<area shape="rect" id="node7" href="$shard__proxy__handler_8h.html#a70e55cf3751f5cf864646960b59159b8" title="proxy_context_send\l_error" alt="" coords="461,174,599,215"/>
+<area shape="rect" id="node9" href="$shard__proxy__handler_8h.html#a3d49aac8c5aded54b6e47c0f2f6796e9" title="proxy_event_new_with_rsp" alt="" coords="440,240,620,267"/>
+<area shape="rect" id="node10" href="$shard__proxy__function_8c.html#a3c3fc344b70b0c846f51c8dd349a0c4d" title="proxy_send_request\l_to_cas_with_new_event" alt="" coords="445,291,615,333"/>
+<area shape="rect" id="node12" href="$shard__proxy__function_8h.html#a5aa4754a98e50eb0372177459c73df7d" title="fn_proxy_client_get\l_db_parameter" alt="" coords="463,357,597,398"/>
+<area shape="rect" id="node14" href="$shard__proxy__function_8h.html#a1129ea179bc5b956c36d68cb474abd99" title="fn_proxy_client_prepare" alt="" coords="450,423,610,449"/>
+</map>

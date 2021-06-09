@@ -1,0 +1,5 @@
+<map id="log_does_active_user_exist" name="log_does_active_user_exist">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a1c33e89338417b7d7283bd66a1c8e315" title="au_find_user_to_drop" alt="" coords="201,31,348,57"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a4dc4cb7c9cf9bb677ad496a770c911c2" title="db_find_user_to_drop" alt="" coords="398,5,545,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#a7a4c57c9fc9c28036944c6f86d97bbf9" title="au_drop_user_method" alt="" coords="396,56,547,83"/>
+</map>

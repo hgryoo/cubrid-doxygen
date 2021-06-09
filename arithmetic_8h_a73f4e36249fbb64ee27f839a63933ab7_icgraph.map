@@ -1,0 +1,5 @@
+<map id="db_accumulate_json_arrayagg" name="db_accumulate_json_arrayagg">
+<area shape="rect" id="node2" href="$query__aggregate_8cpp.html#ae648488289a189182d88cdf6ec9eb4d8" title="qdata_aggregate_value\l_to_accumulator" alt="" coords="195,39,351,80"/>
+<area shape="rect" id="node3" href="$query__aggregate_8hpp.html#ab44b50dac7f00cac2fd85e2231977397" title="qdata_aggregate_accumulator\l_to_accumulator" alt="" coords="399,5,595,47"/>
+<area shape="rect" id="node4" href="$query__aggregate_8cpp.html#a6af66372180ec76e84b1a86861352c70" title="qdata_aggregate_multiple\l_values_to_accumulator" alt="" coords="411,71,582,112"/>
+</map>

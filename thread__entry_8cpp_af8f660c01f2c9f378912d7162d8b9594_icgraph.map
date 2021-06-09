@@ -1,0 +1,16 @@
+<map id="thread_wakeup_internal" name="thread_wakeup_internal">
+<area shape="rect" id="node2" href="$thread__entry_8hpp.html#af09be8fd5fd996a36c69379ae8ed31fd" title="thread_wakeup" alt="" coords="236,163,347,189"/>
+<area shape="rect" id="node15" href="$thread__entry_8hpp.html#aadcbbca9cb56320f38ed04282cb2ea1a" title="thread_wakeup_already\l_had_mutex" alt="" coords="212,402,371,443"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a40df18ac8c724923274a8e32aa969e0b" title="heap_classrepr_free" alt="" coords="429,5,568,32"/>
+<area shape="rect" id="node4" href="$critical__section_8c.html#af3edb4dcb3043b1f019314e0af65fb2b" title="csect_wakeup_waiting\l_writer" alt="" coords="421,57,576,98"/>
+<area shape="rect" id="node5" href="$critical__section_8c.html#a9159a80d3e333dceb29c79f2beb98da8" title="csect_wakeup_waiting\l_promoter" alt="" coords="421,122,576,163"/>
+<area shape="rect" id="node6" href="$thread__entry_8hpp.html#ae4aec9f0db38ca8a9c9ecfef70b13c41" title="thread_unlock_entry" alt="" coords="429,355,568,381"/>
+<area shape="rect" id="node14" href="$log__tran__table_8c.html#a0f1b29352d4d268c0ec15f2fc30b117f" title="logtb_find_thread_by\l_tran_index_except_me" alt="" coords="419,187,579,229"/>
+<area shape="rect" id="node7" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="632,251,788,277"/>
+<area shape="rect" id="node8" href="$connection__sr_8c.html#ab5a30720e8eb9812b4110d8893231655" title="css_free_wait_queue\l_entry" alt="" coords="637,433,783,474"/>
+<area shape="rect" id="node9" href="$connection__sr_8c.html#a7b14f5dcb61f10200379c033f8d47156" title="css_queue_packet" alt="" coords="645,499,775,525"/>
+<area shape="rect" id="node10" href="$server__support_8c.html#affa283d6ed08e3f1ecb10e54833154f4" title="css_stop_non_log_writer" alt="" coords="627,549,793,576"/>
+<area shape="rect" id="node11" href="$double__write__buffer_8c.html#ad9e145e1ebb67b00cdff7dc617a94c16" title="dwb_signal_waiting\l_thread" alt="" coords="643,302,777,343"/>
+<area shape="rect" id="node12" href="$page__buffer_8c.html#aacfdde3e346ff6e9ecf80711fbcf3285" title="pgbuf_assign_direct\l_victim" alt="" coords="641,367,779,409"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="631,601,789,642"/>
+</map>

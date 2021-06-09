@@ -1,0 +1,5 @@
+<map id="prior_update_header_mvcc_info" name="prior_update_header_mvcc_info">
+<area shape="rect" id="node2" href="$log__append_8cpp.html#a553a400bcf304b06d81ee6ec64b8a352" title="LOG_PRIOR_LSA_LAST\l_APPEND_OFFSET" alt="" coords="192,19,363,61"/>
+<area shape="rect" id="node4" href="$log__append_8cpp.html#a055967129308b00d1f5fab263f24da07" title="prior_lsa_next_record\l_internal" alt="" coords="611,49,757,90"/>
+<area shape="rect" id="node3" href="$log__append_8cpp.html#a2b0b0be158884ed4ce5dcd2060c6bcee" title="prior_lsa_append_data" alt="" coords="411,5,563,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="locator_classname_entry" name="locator_classname_entry">
+<area shape="rect" id="node2" href="$structlocator__classname__action.html" title="{locator_classname_action\n|+ action\l|}" alt="" coords="26,307,199,384"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,71,97,178"/>
+<area shape="rect" id="node4" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="121,5,227,244"/>
+</map>

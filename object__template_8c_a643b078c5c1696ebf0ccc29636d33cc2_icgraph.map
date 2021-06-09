@@ -1,0 +1,10 @@
+<map id="validate_template" name="validate_template">
+<area shape="rect" id="node2" href="$object__template_8c.html#ab1a49f2b7b043063d70b8f50111e7e9f" title="obt_apply_assignments" alt="" coords="177,5,336,32"/>
+<area shape="rect" id="node4" href="$object__template_8h.html#a8a4844db8f8b024d75d7fd680e450801" title="obt_update_internal" alt="" coords="406,56,541,83"/>
+<area shape="rect" id="node5" href="$object__template_8h.html#a1affa004d9de99858a41d34da5ff59a5" title="obt_assign" alt="" coords="214,208,299,235"/>
+<area shape="rect" id="node6" href="$object__template_8h.html#a44c39456dfd1bc4b582b1d0a58eae46a" title="obt_set" alt="" coords="441,183,506,209"/>
+<area shape="rect" id="node7" href="$object__template_8h.html#a5394f1475d86e60678dbd085de589b9d" title="obt_desc_set" alt="" coords="423,245,523,272"/>
+<area shape="rect" id="node8" href="$object__template_8c.html#abb4ee8a2801fdfb00668170896203922" title="obt_final_check" alt="" coords="200,107,313,133"/>
+<area shape="rect" id="node9" href="$object__template_8h.html#ab5bcae36a896605d3f0db775af2e44b1" title="obt_populate_known\l_arguments" alt="" coords="186,310,327,351"/>
+<area shape="rect" id="node3" href="$object__template_8c.html#abc5170d741f334b44491f85f208354a2" title="obt_convert_set_templates" alt="" coords="384,5,563,32"/>
+</map>

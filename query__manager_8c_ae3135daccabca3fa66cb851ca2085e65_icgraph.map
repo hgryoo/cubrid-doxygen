@@ -1,0 +1,6 @@
+<map id="qmgr_get_temp_file_from_list" name="qmgr_get_temp_file_from_list">
+<area shape="rect" id="node2" href="$query__manager_8h.html#aaa8c170e8f4d4b7262ac11e8a280b2b0" title="qmgr_create_new_temp_file" alt="" coords="189,56,375,83"/>
+<area shape="rect" id="node3" href="$list__file_8h.html#a9a0cb0a6d85281f2415ed963cdbe90f6" title="qfile_open_list" alt="" coords="439,5,544,32"/>
+<area shape="rect" id="node4" href="$list__file_8h.html#ab4f13b15b2ddac8fbd42965eb5a7dbbd" title="qfile_get_first_page" alt="" coords="424,56,559,83"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a7c9417cbf00ad332e508fad017f05b5e" title="qexec_setup_list_id" alt="" coords="423,107,560,133"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="qo_is_seq_scan" name="qo_is_seq_scan">
+<area shape="rect" id="node2" href="$plan__generation_8c.html#a851ad3e58cae2b277cdf3f058e304cac" title="gen_outer" alt="" coords="183,56,261,83"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#ad9f1c263b54d456e2f3774c12d1c5832" title="qo_find_best_nljoin\l_inner_plan_on_info" alt="" coords="335,158,473,199"/>
+<area shape="rect" id="node7" href="$query__planner_8c.html#adbe3220b1de0a7016bbbddcd472a1157" title="qo_nljoin_cost" alt="" coords="169,193,275,220"/>
+<area shape="rect" id="node8" href="$query__planner_8c.html#a339ec9f3a7428a9562981e87be076b93" title="qo_plan_cmp" alt="" coords="173,248,271,275"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#a5ba46846df3d11008f3c7d2fd4fa6cf3" title="gen_inner" alt="" coords="365,5,443,32"/>
+<area shape="rect" id="node4" href="$plan__generation_8c.html#a38a4745f054db7cd1f993f7e5fd494dd" title="make_sort_limit_proc" alt="" coords="331,56,477,83"/>
+<area shape="rect" id="node5" href="$plan__generation_8c.html#a5102adacf28a2cda8aa170e7b07af380" title="qo_to_xasl" alt="" coords="361,107,447,133"/>
+<area shape="rect" id="node9" href="$query__planner_8c.html#a92abfe11b06761802c38109874bf0966" title="qo_check_planvec" alt="" coords="339,224,469,251"/>
+<area shape="rect" id="node10" href="$query__planner_8c.html#ad05159ceea3cd56e476d102cd8e6e766" title="qo_cmp_planvec" alt="" coords="344,275,464,301"/>
+<area shape="rect" id="node11" href="$query__planner_8c.html#adafe7df4a463064ba79b4df4fe6009b7" title="qo_search_partition_join" alt="" coords="323,325,485,352"/>
+</map>

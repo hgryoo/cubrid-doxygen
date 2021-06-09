@@ -1,0 +1,6 @@
+<map id="vacuum_find_dropped_file" name="vacuum_find_dropped_file">
+<area shape="rect" id="node2" href="$vacuum_8h.html#a0a55bc5bf18a3ecd596732eb313bf5c1" title="vacuum_is_file_dropped" alt="" coords="227,71,389,98"/>
+<area shape="rect" id="node3" href="$vacuum_8c.html#a2e814432b50f4504d10689047b62c061" title="vacuum_process_log\l_record" alt="" coords="461,5,606,47"/>
+<area shape="rect" id="node4" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="492,71,575,98"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#af6c98f91ee46d76cd9a9e576c6456d3e" title="file_tracker_item_reuse_heap" alt="" coords="437,122,629,149"/>
+</map>

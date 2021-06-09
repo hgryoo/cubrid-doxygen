@@ -1,0 +1,21 @@
+<map id="clientids::get_program_name" name="clientids::get_program_name">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#a2d646e2f8b64f926daa7423e27acd011" title="boot_get_host_name" alt="" coords="269,99,411,126"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="717,23,856,50"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="722,125,851,151"/>
+<area shape="rect" id="node6" href="$boot__cl_8h.html#a877f98e0af300da5022a243a77c00b20" title="boot_set_server_session_key" alt="" coords="243,226,437,253"/>
+<area shape="rect" id="node8" href="$event__log_8c.html#ac69bb6adfe0570baac15495da9987e6d" title="event_log_print_client\l_ids_info" alt="" coords="266,277,414,319"/>
+<area shape="rect" id="node10" href="$log__tran__table_8c.html#a1799a28ad76ce5c876cfd920cf2573fa" title="logtb_descriptors_start_scan" alt="" coords="245,343,435,370"/>
+<area shape="rect" id="node11" href="$log__tran__table_8c.html#add392d8813bf6b16ff0e99b58dff8969" title="logtb_dump_tdes" alt="" coords="279,394,401,421"/>
+<area shape="rect" id="node13" href="$log__tran__table_8c.html#a3483c66c62679c5496431f3194beea96" title="logtb_find_client_name\l_host_pid" alt="" coords="263,445,417,487"/>
+<area shape="rect" id="node18" href="$structclientids.html#a23d1ed6e6cec047985880a8a17f215c8" title="clientids::set_ids" alt="" coords="280,511,400,538"/>
+<area shape="rect" id="node19" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="269,562,411,589"/>
+<area shape="rect" id="node20" href="$log__tran__table_8c.html#a43c0d2b516b1f640c117949dc79b8fc1" title="xlogtb_get_pack_tran\l_table" alt="" coords="267,613,413,655"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a0f10de6a4a686a08a8f0d049c63d92c8" title="db_find_or_create_session" alt="" coords="489,74,666,101"/>
+<area shape="rect" id="node7" href="$dbi_8h.html#a402cab52b60a53be226c20007601581f" title="db_set_server_session_key" alt="" coords="485,226,669,253"/>
+<area shape="rect" id="node9" href="$event__log_8h.html#a09af3f502c02c2b88a365b2e511ae8e4" title="event_log_log_flush\l_thr_wait" alt="" coords="509,277,646,319"/>
+<area shape="rect" id="node12" href="$log__tran__table_8c.html#a850b8bbb60976a9cbd23dab38dcf1767" title="xlogtb_dump_trantable" alt="" coords="501,343,654,370"/>
+<area shape="rect" id="node14" href="$connection__support_8c.html#abaf945a4466e4e038e5855e74d636e14" title="css_default_server\l_timeout_fn" alt="" coords="511,395,643,436"/>
+<area shape="rect" id="node15" href="$event__log_8h.html#ad761e111d08ee918436356596b12f903" title="event_log_print_client_info" alt="" coords="489,461,665,487"/>
+<area shape="rect" id="node16" href="$lock__manager_8h.html#a504786492af357a6a63b3b255364b4c6" title="lock_demote_class_lock" alt="" coords="495,511,660,538"/>
+<area shape="rect" id="node17" href="$page__buffer_8c.html#ac9a59dd7ac23cdbc22052a9e1ab496c4" title="pgbuf_block_bcb" alt="" coords="517,562,637,589"/>
+</map>

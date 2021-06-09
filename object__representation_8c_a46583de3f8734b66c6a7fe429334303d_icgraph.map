@@ -1,0 +1,10 @@
+<map id="or_get_json_schema" name="or_get_json_schema">
+<area shape="rect" id="node2" href="$catalog__class_8c.html#aedfe9f2db3867cad7afc8362d6e72c44" title="catcls_get_or_value\l_from_domain" alt="" coords="199,71,338,112"/>
+<area shape="rect" id="node5" href="$transform__cl_8c.html#af2c01e8f25e41c96b42163ab63dc96e5" title="disk_to_domain2" alt="" coords="209,137,329,163"/>
+<area shape="rect" id="node6" href="$object__representation_8c.html#a5954efc90404c815b960238fd76c37bd" title="or_get_json_validator" alt="" coords="196,187,341,214"/>
+<area shape="rect" id="node9" href="$object__representation_8c.html#aec57593240dcc1c5a5c1b191a17ec2a9" title="unpack_domain" alt="" coords="604,213,717,239"/>
+<area shape="rect" id="node3" href="$catalog__class_8c.html#a7d582bb9c89ad8c12586b7d4f9da0fbe" title="catcls_get_or_value\l_from_attribute" alt="" coords="403,5,542,47"/>
+<area shape="rect" id="node4" href="$catalog__class_8c.html#a9b59b40bee738607ab7f47baaac4f445" title="catcls_get_or_value\l_from_method_argument" alt="" coords="389,71,556,112"/>
+<area shape="rect" id="node7" href="$object__representation__sr_8c.html#a7b104bc9e45a3a891d439efa24e58425" title="or_get_domain_internal" alt="" coords="395,137,551,163"/>
+<area shape="rect" id="node8" href="$object__representation_8c.html#a317f9b110b019a4094ff4d455d4b7cdc" title="unpack_domain_2" alt="" coords="409,187,536,214"/>
+</map>

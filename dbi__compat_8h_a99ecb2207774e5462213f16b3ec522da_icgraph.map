@@ -1,0 +1,21 @@
+<map id="db_domain_precision" name="db_domain_precision">
+<area shape="rect" id="node2" href="$cas__execute_8c.html#a84cdd99b9ce3af86eb22341d5453c6cb" title="class_attr_info" alt="" coords="433,5,540,32"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#a5876fa6894a657fff9d772f831cceff8" title="copy_column_spec_to\l_sqlda" alt="" coords="203,307,355,349"/>
+<area shape="rect" id="node7" href="$unload__schema_8c.html#a93901a5a81ab83809e7fc4f575b24912" title="emit_domain_def" alt="" coords="219,373,340,400"/>
+<area shape="rect" id="node8" href="$cas__execute_8c.html#aeb3a878b45705e977994d0c23006f7c0" title="get_domain_str" alt="" coords="224,424,335,451"/>
+<area shape="rect" id="node9" href="$cas__execute_8h.html#a2bf4dcc534861efb19d74730e608b95b" title="get_set_domain" alt="" coords="222,104,337,131"/>
+<area shape="rect" id="node10" href="$cas__execute_8c.html#a776ecaee0a6b29bfcd6665c7b1459a2d" title="oid_attr_info_set" alt="" coords="427,60,546,87"/>
+<area shape="rect" id="node11" href="$cas__execute_8c.html#a977259b8d253fa1f9cd18f4e46ef726b" title="prepare_column_list\l_info_set" alt="" coords="417,119,556,161"/>
+<area shape="rect" id="node12" href="$cas__execute_8h.html#a1bd9bc93817b4285a729524ba70bdcad" title="ux_get_parameter_info" alt="" coords="409,203,564,229"/>
+<area shape="rect" id="node13" href="$cas__execute_8h.html#af5015131eafb7d0274a9dd77d2385655" title="ux_make_out_rs" alt="" coords="427,255,546,281"/>
+<area shape="rect" id="node14" href="$parser_8h.html#a866f633e64741ea9c045cde4d6fabbbd" title="pt_domain_to_data_type" alt="" coords="197,499,361,525"/>
+<area shape="rect" id="node15" href="$db__object_8c.html#a3ad346f6fb74134bdc51d8836f44ec6a" title="rm_api_get_info" alt="" coords="222,549,337,576"/>
+<area shape="rect" id="node16" href="$cas__execute_8h.html#a09f36de4c7844474d929c4c03b0a2c26" title="ux_col_get" alt="" coords="237,600,322,627"/>
+<area shape="rect" id="node17" href="$cas__execute_8c.html#a9201ae649114e34b5a7e59d7c00a4cd6" title="ux_get_generated_keys\l_client_insert" alt="" coords="199,651,359,693"/>
+<area shape="rect" id="node18" href="$cas__execute_8c.html#a735668caa8859a320e62614b989b6787" title="ux_get_generated_keys\l_server_insert" alt="" coords="199,717,359,758"/>
+<area shape="rect" id="node19" href="$db__value__table_8c.html#aa9a789deca402677a794455213dc5372" title="value_to_db_value" alt="" coords="214,783,345,809"/>
+<area shape="rect" id="node20" href="$db__object_8c.html#a5b48692904aafd5ccbaa5fdd120b88e7" title="vt_api_init_domain" alt="" coords="214,833,345,860"/>
+<area shape="rect" id="node3" href="$cas__execute_8c.html#a10d159c69f789986c636cb4a91f1db7c" title="fetch_attribute" alt="" coords="612,5,717,32"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#a6a5bd145f5675109dcfb4cde5824c558" title="uci_describe" alt="" coords="439,360,534,387"/>
+<area shape="rect" id="node6" href="$esql__cli_8c.html#a1b540716a72b98a145170be7a1ee4ad3" title="uci_object_describe" alt="" coords="418,309,555,336"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pt_null_xasl" name="pt_null_xasl">
+<area shape="rect" id="node2" href="$xasl__generation_8h.html#aa08e377a0433d0f9d3167b1bb6bb0b1e" title="pt_to_insert_xasl" alt="" coords="144,56,265,83"/>
+<area shape="rect" id="node3" href="$xasl__generation_8c.html#a62d8452ce27196198a2631bc7fbd50de" title="pt_make_regu_insert" alt="" coords="329,5,472,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#ad23d776ce7a07d19479803018049af45" title="do_prepare_insert_internal" alt="" coords="313,56,488,83"/>
+<area shape="rect" id="node5" href="$execute__statement_8c.html#a23b83ebe747105f23c26bc7165fa06dd" title="do_insert_at_server" alt="" coords="333,107,469,133"/>
+</map>

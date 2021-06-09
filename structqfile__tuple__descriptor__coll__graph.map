@@ -1,0 +1,7 @@
+<map id="qfile_tuple_descriptor" name="qfile_tuple_descriptor">
+<area shape="rect" id="node2" href="$structqfile__list__merge__info.html" title="{qfile_list_merge_info\n|+ join_type\l+ single_fetch\l+ ls_column_cnt\l+ ls_pos_cnt\l+ ls_outer_column\l+ ls_outer_unique\l+ ls_inner_column\l+ ls_inner_unique\l+ ls_outer_inner_list\l+ ls_pos_list\l|}" alt="" coords="5,292,147,501"/>
+<area shape="rect" id="node3" href="$structqfile__tuple__record.html" title="{qfile_tuple_record\n|+ tpl\l+ size\l|}" alt="" coords="170,351,294,443"/>
+<area shape="rect" id="node4" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="318,358,415,435"/>
+<area shape="rect" id="node5" href="$uniondb__domain__info.html" title="{db_domain_info\n||}" alt="" coords="253,79,366,156"/>
+<area shape="rect" id="node6" href="$uniondb__data.html" title="{db_data\n|+ i\l+ sh\l+ bigint\l+ f\l+ d\l+ p\l+ time\l+ date\l+ utime\l+ error\l+ rset\l|}" alt="" coords="390,5,458,229"/>
+</map>

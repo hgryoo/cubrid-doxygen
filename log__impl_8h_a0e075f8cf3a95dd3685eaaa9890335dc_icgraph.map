@@ -1,0 +1,9 @@
+<map id="logtb_get_new_tran_id" name="logtb_get_new_tran_id">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a205cb9f31defd227b8340f7f4bd24a09" title="log_complete" alt="" coords="231,85,329,112"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="205,136,355,163"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#a3bc8e667a4001db19a340b7f600ba3ae" title="logtb_allocate_tran\l_index" alt="" coords="215,187,345,229"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a390852f8765cd90576d47d02ef0d10b6" title="log_commit" alt="" coords="425,5,515,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="433,56,507,83"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a766a771dfebf096e54eca48d411cf0d0" title="log_recovery_finish\l_postpone" alt="" coords="403,107,537,149"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#a18e7fc0efb64ea17207486e0abacaebe" title="log_recovery_undo" alt="" coords="405,173,535,200"/>
+</map>

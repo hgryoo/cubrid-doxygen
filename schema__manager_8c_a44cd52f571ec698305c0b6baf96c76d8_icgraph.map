@@ -1,0 +1,7 @@
+<map id="sm_find_class_with_purpose" name="sm_find_class_with_purpose">
+<area shape="rect" id="node2" href="$dbi_8h.html#a6c7a3bbb305819c099dcc6d42f123816" title="db_find_class_with\l_purpose" alt="" coords="191,74,324,115"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#a4546f0bea621480bbe409d5c6cdc6929" title="pt_check_drop" alt="" coords="399,5,505,32"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#a6401776ba9e99c9c43e76b4779b65eec" title="pt_find_class" alt="" coords="403,56,501,83"/>
+<area shape="rect" id="node5" href="$name__resolution_8c.html#a84c1cf704953be8df2ca248c8cd9eb7d" title="pt_make_flat_name_list" alt="" coords="372,107,532,133"/>
+<area shape="rect" id="node6" href="$name__resolution_8c.html#ae281a2d875f05ba1e9e584aa49a05ccb" title="pt_resolve_partition_spec" alt="" coords="580,107,751,133"/>
+</map>

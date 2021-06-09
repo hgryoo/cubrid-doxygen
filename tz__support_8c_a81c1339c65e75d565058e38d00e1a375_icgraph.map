@@ -1,0 +1,8 @@
+<map id="tz_set_tz_region_system" name="tz_set_tz_region_system">
+<area shape="rect" id="node2" href="$system__parameter_8c.html#aeb766c3f75b6f9f14c54acc8fa40bab3" title="prm_load_by_section" alt="" coords="624,13,769,39"/>
+<area shape="rect" id="node4" href="$system__parameter_8c.html#ab48c1182bb4c9d3cf9b308648452949a" title="sysprm_set_value" alt="" coords="221,70,349,97"/>
+<area shape="rect" id="node3" href="$system__parameter_8c.html#aef60e7f0f0cc8041a2886d5d164b3052" title="prm_read_and_parse\l_ini_file" alt="" coords="817,5,960,47"/>
+<area shape="rect" id="node5" href="$system__parameter_8c.html#ad22fdde48ffe1d6d1d9a2630702d8acc" title="prm_set" alt="" coords="452,38,521,65"/>
+<area shape="rect" id="node6" href="$system__parameter_8h.html#a76159be55591db8a904b497e3cc3253a" title="sysprm_change_parameter\l_values" alt="" coords="397,89,576,131"/>
+<area shape="rect" id="node7" href="$system__parameter_8c.html#a207a050534ba33f2254972305484011e" title="sysprm_set_sysprm_value\l_from_parameter" alt="" coords="397,155,576,196"/>
+</map>

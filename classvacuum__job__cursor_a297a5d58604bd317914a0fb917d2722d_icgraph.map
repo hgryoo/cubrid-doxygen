@@ -1,0 +1,6 @@
+<map id="vacuum_job_cursor::set_on_vacuum_data_start" name="vacuum_job_cursor::set_on_vacuum_data_start">
+<area shape="rect" id="node2" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="232,56,307,83"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="355,5,489,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a4ddd3694ee7effd5a8477603cadec249" title="cvacuum" alt="" coords="385,56,459,83"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#a9a3181c08916a72b1163c260ca7de7e5" title="svacuum" alt="" coords="385,107,459,133"/>
+</map>

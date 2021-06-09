@@ -1,0 +1,11 @@
+<map id="pt_insert_value_info" name="pt_insert_value_info">
+<area shape="rect" id="node6" href="$unionpt__statement__info.html" title="{pt_statement_info\n||}" alt="" coords="632,660,758,737"/>
+<area shape="rect" id="node2" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="704,292,801,369"/>
+<area shape="rect" id="node3" href="$uniondb__domain__info.html" title="{db_domain_info\n||}" alt="" coords="638,79,752,156"/>
+<area shape="rect" id="node4" href="$uniondb__data.html" title="{db_data\n|+ i\l+ sh\l+ bigint\l+ f\l+ d\l+ p\l+ time\l+ date\l+ utime\l+ error\l+ rset\l|}" alt="" coords="776,5,844,229"/>
+<area shape="rect" id="node5" href="$structparser__node.html" title="{parser_node\n|+ node_type\l+ parser_id\l+ line_number\l+ column_number\l+ buffer_pos\l+ sql_user_text\l+ sql_user_text_len\l+ etc\l+ spec_ident\l+ alias_print\l+ type_enum\l+ recompile\l+ cannot_prepare\l+ partition_pruned\l+ si_datetime\l+ si_tran_id\l+ clt_cache_check\l+ clt_cache_reusable\l+ use_plan_cache\l+ use_query_cache\l+ is_hidden_column\l+ is_paren\l+ with_rollup\l+ force_auto_parameterize\l+ do_not_fold\l+ is_cnf_start\l+ is_click_counter\l+ is_value_query\l+ do_not_replace_orderby\l+ is_added_by_parser\l+ is_alias_enabled_expr\l+ is_wrapped_res_for_coll\l+ is_system_generated_stmt\l+ use_auto_commit\l+ flag\l|}" alt="" coords="277,888,468,1464"/>
+<area shape="rect" id="node7" href="$structcache__time.html" title="{cache_time\n|+ sec\l+ usec\l|}" alt="" coords="49,432,138,524"/>
+<area shape="rect" id="node10" href="$structxasl__id.html" title="{xasl_id\n|+ cache_flag\l|}" alt="" coords="122,660,220,737"/>
+<area shape="rect" id="node8" href="$structparser__varchar.html" title="{parser_varchar\n|+ length\l+ bytes\l|}" alt="" coords="244,653,352,745"/>
+<area shape="rect" id="node9" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="376,587,510,811"/>
+</map>

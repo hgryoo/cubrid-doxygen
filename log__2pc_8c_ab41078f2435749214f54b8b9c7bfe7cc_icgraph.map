@@ -1,0 +1,9 @@
+<map id="log_2pc_clear_and_is_tran_distributed" name="log_2pc_clear_and_is_tran_distributed">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="207,115,282,141"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#a390852f8765cd90576d47d02ef0d10b6" title="log_commit" alt="" coords="200,165,289,192"/>
+<area shape="rect" id="node3" href="$log__2pc_8c.html#a704fb0332671ae6dd81e859ebd046128" title="log_2pc_attach_client" alt="" coords="337,5,485,32"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="533,115,676,141"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a43c3e6965dc07096503c8de506a1069f" title="log_abort_all_active\l_transaction" alt="" coords="343,107,480,149"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="376,173,447,200"/>
+<area shape="rect" id="node7" href="$transaction__sr_8c.html#a1fd2b691cc614d3d3b1a709338eb0403" title="xtran_server_abort" alt="" coords="346,224,477,251"/>
+</map>

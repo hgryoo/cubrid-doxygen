@@ -1,0 +1,6 @@
+<map id="put_pointer" name="put_pointer">
+<area shape="rect" id="node2" href="$esql__cli_8c.html#a0bccad905369644d33901c8d9e326e2b" title="uci_get_db_value" alt="" coords="151,5,274,32"/>
+<area shape="rect" id="node3" href="$esql__cli_8c.html#a73366eb765dd631cb239220679c466c7" title="uci_get_next_column" alt="" coords="140,56,285,83"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#ab97bc90e3ae7e33d19e048a9832c158b" title="uci_get_value" alt="" coords="357,31,460,57"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#a044799ebde987070274385bf3b7eb285" title="uci_get_value_indirect" alt="" coords="333,81,484,108"/>
+</map>

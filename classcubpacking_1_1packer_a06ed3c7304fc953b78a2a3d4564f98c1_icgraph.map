@@ -1,0 +1,8 @@
+<map id="cubpacking::packer::get_all_packed_size_recursive" name="cubpacking::packer::get_all_packed_size_recursive">
+<area shape="rect" id="node2" href="$classcubpacking_1_1packer.html#add9f535258f7041f64f03d225f90a60f" title="cubpacking::packer\l::get_all_packed_size" alt="" coords="201,58,349,100"/>
+<area shape="rect" id="node7" href="$classcubpacking_1_1packer.html#ae4f33f23b725f4390acebebed7329011" title="cubpacking::packer\l::get_all_packed_size\l_starting_offset" alt="" coords="201,123,349,179"/>
+<area shape="rect" id="node3" href="$classcubpacking_1_1packer.html#a2ad722e77a1b468888ff83d14f67c3bd" title="cubpacking::packer\l::append_to_buffer_and\l_pack_all" alt="" coords="621,6,780,62"/>
+<area shape="rect" id="node4" href="$structclientids.html#a6909d4f4eba6e58a06b04b9c353add44" title="clientids::get_packed_size" alt="" coords="397,95,573,122"/>
+<area shape="rect" id="node5" href="$structboot__client__credential.html#aeaec9485e25d27c9c3bf0d4ef3714f3f" title="boot_client_credential\l::get_packed_size" alt="" coords="627,104,775,145"/>
+<area shape="rect" id="node6" href="$classcubpacking_1_1packer.html#a0e046295f3bba0ec037411e8f4e12680" title="cubpacking::packer\l::set_buffer_and_pack_all" alt="" coords="400,29,571,70"/>
+</map>

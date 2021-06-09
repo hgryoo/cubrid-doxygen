@@ -1,0 +1,7 @@
+<map id="css_send_close_request" name="css_send_close_request">
+<area shape="rect" id="node2" href="$client__support_8h.html#a5558db24ec6db0282fc841b378da12a5" title="css_terminate" alt="" coords="220,66,324,93"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="552,62,705,89"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#af807b21fe58bf3fc403c4ce452c5ad08" title="boot_server_die_or\l_changed" alt="" coords="372,29,504,71"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#a8c553c753ee63dd0222b2bfafc3cac9d" title="net_client_final" alt="" coords="383,95,493,122"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#aa7c761be8f5657cac984575d176eefbf" title="net_client_init" alt="" coords="387,146,489,173"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="sort_list" name="sort_list">
+<area shape="rect" id="node2" href="$structqfile__tuple__value__position.html" title="{qfile_tuple_value_position\n|+ pos_no\l|}" alt="" coords="5,307,176,384"/>
+<area shape="rect" id="node3" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="24,5,157,229"/>
+</map>

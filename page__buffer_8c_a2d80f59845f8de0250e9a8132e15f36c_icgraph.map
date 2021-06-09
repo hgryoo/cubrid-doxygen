@@ -1,0 +1,14 @@
+<map id="pgbuf_bcb_is_direct_victim" name="pgbuf_bcb_is_direct_victim">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#aacfdde3e346ff6e9ecf80711fbcf3285" title="pgbuf_assign_direct\l_victim" alt="" coords="192,188,331,229"/>
+<area shape="rect" id="node11" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="203,435,320,462"/>
+<area shape="rect" id="node12" href="$page__buffer_8c.html#a32645b0c2aace57799af8b647423a493" title="pgbuf_invalidate_bcb" alt="" coords="629,221,773,247"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a7ef66aad01f8e682d9ce69bce1988bbd" title="pgbuf_get_victim_candidates\l_from_lru" alt="" coords="379,188,569,229"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a7cc1c686b4d3e0a9de41d12d4bfa26b7" title="pgbuf_get_victim_from\l_lru_list" alt="" coords="397,253,551,295"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#abaa51159b1cd1415ea6c06976a4c232f" title="pgbuf_lru_add_new_bcb\l_to_bottom" alt="" coords="393,319,555,360"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#afefe190b536faf7fecddcd0bff83e6e7" title="pgbuf_lru_fall_bcb\l_to_zone_3" alt="" coords="411,5,537,47"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="617,129,784,171"/>
+<area shape="rect" id="node10" href="$page__buffer_8c.html#af1d28b14d0180489e3ec532a4dbf54d6" title="pgbuf_unlatch_void\l_zone_bcb" alt="" coords="407,71,541,112"/>
+<area shape="rect" id="node8" href="$page__buffer_8h.html#afde1751ceb069fe468ffa1b51283033f" title="pgbuf_unfix_debug" alt="" coords="846,187,977,214"/>
+<area shape="rect" id="node9" href="$page__buffer_8h.html#acb30faadf59202892e5dd7a8afcde82e" title="pgbuf_invalidate_debug" alt="" coords="832,137,991,163"/>
+<area shape="rect" id="node13" href="$page__buffer_8h.html#a172d7adc186f7dc6862f73c7fd2e8e55" title="pgbuf_invalidate_all\l_debug" alt="" coords="843,239,979,280"/>
+</map>

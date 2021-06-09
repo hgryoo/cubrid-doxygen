@@ -1,0 +1,6 @@
+<map id="fileio_node" name="fileio_node">
+<area shape="rect" id="node2" href="$structfileio__backup__page.html" title="{fileio_backup_page\n|+ iopageid\l+ dummy\l+ iopageid_dup\l|}" alt="" coords="5,160,139,267"/>
+<area shape="rect" id="node3" href="$structfileio__page.html" title="{fileio_page\n|+ page\l|}" alt="" coords="30,13,114,90"/>
+<area shape="rect" id="node4" href="$structfile__zip__info.html" title="{file_zip_info\n|+ buf_size\l|}" alt="" coords="163,175,253,252"/>
+<area shape="rect" id="node5" href="$structfile__zip__page.html" title="{file_zip_page\n|+ buf_len\l+ buf\l|}" alt="" coords="159,5,257,97"/>
+</map>

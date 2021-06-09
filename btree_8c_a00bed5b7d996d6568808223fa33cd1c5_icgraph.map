@@ -1,0 +1,5 @@
+<map id="btree_record_replace_object" name="btree_record_replace_object">
+<area shape="rect" id="node2" href="$btree_8c.html#ae87b2a2f7a65e83645a51c9717466cbe" title="btree_overflow_record\l_replace_object" alt="" coords="196,39,347,80"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a318997abfe282d72e924f6a1556d0a3f" title="btree_remove_delete\l_mvccid_unique_internal" alt="" coords="395,5,560,47"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a748a60d980be800bbef3524a564d3fc0" title="btree_replace_first\l_oid_with_ovfl_oid" alt="" coords="413,71,542,112"/>
+</map>

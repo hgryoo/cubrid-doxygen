@@ -1,0 +1,7 @@
+<map id="sl_write_catalog" name="sl_write_catalog">
+<area shape="rect" id="node2" href="$log__applier__sql__log_8c.html#a94509722419fb2be0a5faa6f154502b3" title="sl_open_next_file" alt="" coords="169,56,292,83"/>
+<area shape="rect" id="node4" href="$log__applier__sql__log_8c.html#a30bf48bf48f89b2d0d5bbfedafa10145" title="sl_write_sql" alt="" coords="479,56,569,83"/>
+<area shape="rect" id="node5" href="$log__applier__sql__log_8c.html#a6ddeeccd8fcdd1479d4e64c646ed13d1" title="sl_read_catalog" alt="" coords="174,157,287,184"/>
+<area shape="rect" id="node3" href="$log__applier__sql__log_8c.html#acec2a14f1dba3e16cf2f07519256ffdc" title="sl_log_open" alt="" coords="340,5,431,32"/>
+<area shape="rect" id="node6" href="$log__applier__sql__log_8h.html#af1c1ef09643ecdc42c9325c4d31e474b" title="sl_init" alt="" coords="357,157,413,184"/>
+</map>

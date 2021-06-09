@@ -1,0 +1,6 @@
+<map id="make_activity" name="make_activity">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#af554c38d1679b2cf503445e11b71ae17" title="object_to_trigger" alt="" coords="156,31,275,57"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#ab86886b8498d463986948822d3086b33" title="tr_create_trigger" alt="" coords="157,81,273,108"/>
+<area shape="rect" id="node3" href="$trigger__manager_8c.html#a9895534c1b72fd9bd0bde607bb2bdbff" title="validate_trigger" alt="" coords="323,5,433,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#adb8433e711d54260aa2106b6f1e0582c" title="tr_map_trigger" alt="" coords="481,31,587,57"/>
+</map>

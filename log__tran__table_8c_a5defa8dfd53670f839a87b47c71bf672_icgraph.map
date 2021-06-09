@@ -1,0 +1,5 @@
+<map id="logtb_find_current_client_name" name="logtb_find_current_client_name">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#ab1baaf9555c9e40298e40455abda7d41" title="logtb_am_i_dba_client" alt="" coords="179,56,329,83"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a417466c5b91bc56afb51eba64733e9ad" title="logtb_check_kill_tran_auth" alt="" coords="377,5,553,32"/>
+<area shape="rect" id="node4" href="$network__sr_8c.html#ae411c65a8239aaf3abb5a8524667b9db" title="net_server_request" alt="" coords="399,56,532,83"/>
+</map>

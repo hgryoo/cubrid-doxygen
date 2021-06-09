@@ -1,0 +1,6 @@
+<map id="fetch_proc_node" name="fetch_proc_node">
+<area shape="rect" id="node2" href="$structcubxasl_1_1pred__expr.html" title="{cubxasl::pred_expr\n|+ pe\l+ type\l|+ clear_xasl()\l}" alt="" coords="5,160,137,252"/>
+<area shape="rect" id="node4" href="$structcubxasl_1_1pred.html" title="{cubxasl::pred\n|+ bool_op\l|}" alt="" coords="25,337,125,414"/>
+<area shape="rect" id="node3" href="$structcubxasl_1_1eval__term.html" title="{cubxasl::eval_term\n|+ et_type\l+ et\l|}" alt="" coords="5,5,137,97"/>
+<area shape="rect" id="node5" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="267,167,364,245"/>
+</map>

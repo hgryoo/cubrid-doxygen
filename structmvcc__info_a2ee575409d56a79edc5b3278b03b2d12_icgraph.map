@@ -1,0 +1,7 @@
+<map id="mvcc_info::init" name="mvcc_info::init">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#aa7de35bdeabe20d888ecec1e78ed6d35" title="logtb_initialize_tdes" alt="" coords="160,56,296,83"/>
+<area shape="rect" id="node5" href="$unittests__snapshot_8c.html#acefdd54e934f99584cb80f438c4c5795" title="logtb_initialize_tdes\l_for_mvcc_testing" alt="" coords="160,107,296,149"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a182347f41511bed32f584218e27429e5" title="logtb_allocate_tdes_area" alt="" coords="344,5,511,32"/>
+<area shape="rect" id="node4" href="$log__system__tran_8cpp.html#aba9e2fa09d0a2c55fedde39e867dbb2b" title="systdes_create_tdes" alt="" coords="356,56,499,83"/>
+<area shape="rect" id="node6" href="$unittests__snapshot_8c.html#a28e23dc81e34ad0fe6e888a57e26a86f" title="logtb_initialize_mvcc\l_testing" alt="" coords="356,107,499,149"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="catcls_compile_catalog_classes" name="catcls_compile_catalog_classes">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="216,123,351,149"/>
+<area shape="rect" id="node7" href="$boot__cl_8c.html#a1c906d817cb0b45ca6b099228f903201" title="catcls_vclass_install" alt="" coords="212,211,355,237"/>
+<area shape="rect" id="node9" href="$utility_8h.html#a782e5c7e88490d6faaf37d0c32511675" title="createdb" alt="" coords="247,261,319,288"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="416,5,532,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="409,57,539,98"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="403,123,545,149"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="429,197,519,224"/>
+<area shape="rect" id="node8" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="405,248,543,275"/>
+</map>

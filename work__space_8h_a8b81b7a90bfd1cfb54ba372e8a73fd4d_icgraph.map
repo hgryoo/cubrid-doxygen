@@ -1,0 +1,11 @@
+<map id="ws_abort_mops" name="ws_abort_mops">
+<area shape="rect" id="node2" href="$transaction__cl_8h.html#a1d5ef42a794f24bbb7d41f3eaf164e8f" title="tran_abort" alt="" coords="203,157,283,184"/>
+<area shape="rect" id="node9" href="$transaction__cl_8h.html#a62d23d4ee828236473e300945ab38221" title="tran_internal_abort\l_upto_savepoint" alt="" coords="564,277,693,318"/>
+<area shape="rect" id="node10" href="$transaction__cl_8h.html#a938f5814219f14c56e528805ddca545a" title="tran_abort_only_client" alt="" coords="168,360,317,387"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#aa39d14f1ff60fe1a21729c84eccfa1b6" title="conn_end_tran" alt="" coords="387,5,494,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="365,56,516,83"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a26759c4cc713de3bcca3ec273be98e6b" title="db_abort_transaction" alt="" coords="369,107,512,133"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a4c7b6d793882524879066322c121e1ff" title="do_rollback" alt="" coords="397,157,485,184"/>
+<area shape="rect" id="node7" href="$boot__cl_8h.html#aa7beb3207bb2b041cfbaf347ea2bf51a" title="boot_shutdown_client" alt="" coords="367,208,515,235"/>
+<area shape="rect" id="node8" href="$transaction__cl_8h.html#af107da90cb2131360dd501abdabbf34c" title="tran_unilaterally_abort" alt="" coords="366,259,515,285"/>
+</map>

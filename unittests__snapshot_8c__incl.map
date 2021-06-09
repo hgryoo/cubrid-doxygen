@@ -1,0 +1,15 @@
+<map id="src/executables/unittests_snapshot.c" name="src/executables/unittests_snapshot.c">
+<area shape="rect" id="node2" href="$porting_8h.html" title="porting.h" alt="" coords="461,244,533,271"/>
+<area shape="rect" id="node4" href="$thread__manager_8hpp.html" title="thread_manager.hpp" alt="" coords="1107,95,1247,121"/>
+<area shape="rect" id="node14" href="$log__impl_8h.html" title="log_impl.h" alt="" coords="423,95,504,121"/>
+<area shape="rect" id="node5" href="$thread__entry_8hpp.html" title="thread_entry.hpp" alt="" coords="583,169,701,196"/>
+<area shape="rect" id="node6" href="$thread__entry__task_8hpp.html" title="thread_entry_task.hpp" alt="" coords="1284,169,1435,196"/>
+<area shape="rect" id="node7" href="$thread__task_8hpp.html" title="thread_task.hpp" alt="" coords="1307,244,1422,271"/>
+<area shape="rect" id="node9" href="$thread__waiter_8hpp.html" title="thread_waiter.hpp" alt="" coords="1455,244,1581,271"/>
+<area shape="rect" id="node10" href="$base__flag_8hpp.html" title="base_flag.hpp" alt="" coords="1073,169,1176,196"/>
+<area shape="rect" id="node15" href="$boot_8h.html" title="boot.h" alt="" coords="501,169,559,196"/>
+<area shape="rect" id="node16" href="$client__credentials_8hpp.html" title="client_credentials.hpp" alt="" coords="243,244,391,271"/>
+<area shape="rect" id="node17" href="$btree__unique_8hpp.html" title="btree_unique.hpp" alt="" coords="35,169,156,196"/>
+<area shape="rect" id="node18" href="$connection__globals_8h.html" title="connection_globals.h" alt="" coords="282,169,426,196"/>
+<area shape="rect" id="node19" href="$critical__section_8h.html" title="critical_section.h" alt="" coords="726,169,846,196"/>
+</map>

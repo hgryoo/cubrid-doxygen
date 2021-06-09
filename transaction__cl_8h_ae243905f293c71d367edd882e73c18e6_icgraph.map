@@ -1,0 +1,14 @@
+<map id="tran_get_tran_settings" name="tran_get_tran_settings">
+<area shape="rect" id="node2" href="$db__stub_8c.html#a402c82a61e22d5c184fbe6805c96e894" title="ci_conn_get_option_impl" alt="" coords="204,5,369,32"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a458c2241b480242211312c6273ee1b4f" title="db_get_tran_settings" alt="" coords="215,56,358,83"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a1e6cca6496f9a46ab48da05ea51b19a6" title="do_get_xaction" alt="" coords="231,107,342,133"/>
+<area shape="rect" id="node6" href="$execute__statement_8c.html#a0685e3dd240ce11dae4b647c417d0fd4" title="set_iso_level" alt="" coords="237,157,336,184"/>
+<area shape="rect" id="node9" href="$cas__execute_8h.html#a38e0edc102c72c3c42bc8483c898459f" title="ux_get_tran_setting" alt="" coords="219,259,355,285"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#ae22c0170a96b1ef6195bf6ede189fadb" title="pt_check_isolation_lvl" alt="" coords="419,56,569,83"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#a9367422aa1fee38db7338977534a60f3" title="do_get_stats" alt="" coords="445,107,543,133"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#adc0fb0803f8c57ce11f25db35f37dd9e" title="do_set_xaction" alt="" coords="439,157,549,184"/>
+<area shape="rect" id="node10" href="$cas__function_8h.html#a1500373f1d1958461d77d312a59b70ef" title="fn_get_db_parameter" alt="" coords="422,208,566,235"/>
+<area shape="rect" id="node11" href="$cas_8c.html#aa26111eda88b6eb96a57ef4330170447" title="set_db_parameter" alt="" coords="431,259,557,285"/>
+<area shape="rect" id="node12" href="$cas__execute_8h.html#ac78915e1b3aaad00dc639e634a821ee4" title="ux_get_default_setting" alt="" coords="417,309,571,336"/>
+<area shape="rect" id="node13" href="$cas__execute_8h.html#a1c80a0c9c5c1a9dd684ca1e938106d16" title="ux_set_default_setting" alt="" coords="417,360,571,387"/>
+</map>

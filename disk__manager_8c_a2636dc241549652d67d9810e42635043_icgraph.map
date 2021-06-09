@@ -1,0 +1,11 @@
+<map id="disk_purpose_to_string" name="disk_purpose_to_string">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#aa1450d661897bab9929324e46c0b641d" title="disk_add_volume" alt="" coords="221,53,344,80"/>
+<area shape="rect" id="node5" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="209,104,356,131"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#a971276e3a06ae7991c85b248038f7c57" title="disk_vhdr_dump" alt="" coords="224,155,341,181"/>
+<area shape="rect" id="node9" href="$disk__manager_8h.html#aa716b220b9de1da00962c74e0b166c0a" title="disk_volume_header\l_next_scan" alt="" coords="212,206,353,247"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a24432937a48bec91095efd8acca6d4aa" title="disk_add_volume_extension" alt="" coords="417,5,603,32"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#ae499b237d71a7f52450298b19618122a" title="disk_extend" alt="" coords="464,56,556,83"/>
+<area shape="rect" id="node7" href="$disk__manager_8h.html#a1666d0b535e8cc5981b370194267bc10" title="disk_rv_dump_hdr" alt="" coords="446,108,574,135"/>
+<area shape="rect" id="node8" href="$disk__manager_8c.html#ada59880f878d1cf9d3b102d47e29053a" title="disk_dump_volume_system_info" alt="" coords="404,159,616,185"/>
+<area shape="rect" id="node10" href="$show__scan_8c.html#aecf736200d67937c5e8b499d2570ea1d" title="showstmt_scan_init" alt="" coords="441,213,579,240"/>
+</map>

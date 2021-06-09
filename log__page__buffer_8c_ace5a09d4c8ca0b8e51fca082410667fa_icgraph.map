@@ -1,0 +1,5 @@
+<map id="logpb_add_archive_page_info" name="logpb_add_archive_page_info">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="247,31,415,57"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#a978997a75ba311ff9ab0e14bb43100e5" title="logpb_next_append_page" alt="" coords="463,5,632,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="496,56,599,83"/>
+</map>

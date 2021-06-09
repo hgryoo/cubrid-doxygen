@@ -1,0 +1,14 @@
+<map id="or_pack_errcode" name="or_pack_errcode">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#adc14b38b7389296639f9b588b8652a4f" title="sacl_reload" alt="" coords="223,5,311,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a20f89bbbb221128011fb5cb64de4bd83" title="sfile_apply_tde_to\l_class_files" alt="" coords="204,57,331,98"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#a2c138e74e1fc630588956eb4218fab28" title="shf_create" alt="" coords="226,123,309,149"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#ac79abd6b2455ac210b2c6df4a2f02886" title="shf_destroy" alt="" coords="222,173,313,200"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a6528eff8be8f5fcdd688c372ddad3c15" title="shf_destroy_when_new" alt="" coords="188,224,347,251"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#a2afad2d25ebe99a9c920b50406fe62cb" title="shf_heap_reclaim_addresses" alt="" coords="172,275,363,301"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#ac9cb06a252331643f6c76fc0eebe14f5" title="slog_checkpoint" alt="" coords="209,325,325,352"/>
+<area shape="rect" id="node10" href="$network__interface__sr_8h.html#aedbeefb5ed60eebfc18560ea1378de6e" title="sqst_update_all_statistics" alt="" coords="181,376,354,403"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#a513fa1243d3dd7f6762b49237c608133" title="sqst_update_statistics" alt="" coords="191,427,344,453"/>
+<area shape="rect" id="node12" href="$network__interface__sr_8h.html#aebb9501cb4618dbabde1180b42f2de4b" title="stde_change_mk_on_server" alt="" coords="175,477,360,504"/>
+<area shape="rect" id="node13" href="$network__interface__sr_8h.html#acd9c75999dfe254c1e876372eba9978e" title="stde_get_mk_info" alt="" coords="205,528,330,555"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="411,275,517,301"/>
+</map>

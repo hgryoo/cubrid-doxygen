@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['xa_5fswitch_5ft',['xa_switch_t',['../structxa__switch__t.html',1,'']]],
+  ['xasl_5fcache_5fent',['xasl_cache_ent',['../structxasl__cache__ent.html',1,'']]],
+  ['xasl_5fclone',['xasl_clone',['../structxasl__clone.html',1,'']]],
+  ['xasl_5fid',['xasl_id',['../structxasl__id.html',1,'']]],
+  ['xasl_5fnode',['xasl_node',['../structxasl__node.html',1,'']]],
+  ['xasl_5fnode_5fheader',['xasl_node_header',['../structxasl__node__header.html',1,'']]],
+  ['xasl_5fstate',['xasl_state',['../structxasl__state.html',1,'']]],
+  ['xasl_5fstream',['xasl_stream',['../structxasl__stream.html',1,'']]],
+  ['xasl_5fsupp_5finfo',['xasl_supp_info',['../structxasl__supp__info.html',1,'']]],
+  ['xasl_5funpack_5finfo',['xasl_unpack_info',['../structxasl__unpack__info.html',1,'']]],
+  ['xcache',['xcache',['../structxcache.html',1,'']]],
+  ['xcache_5fcleanup_5fcandidate',['xcache_cleanup_candidate',['../structxcache__cleanup__candidate.html',1,'']]],
+  ['xcache_5frelated_5fobject',['xcache_related_object',['../structxcache__related__object.html',1,'']]],
+  ['xcache_5fstats',['xcache_stats',['../structxcache__stats.html',1,'']]],
+  ['xentry',['xentry',['../structxentry.html',1,'']]],
+  ['xid_5ft',['xid_t',['../structxid__t.html',1,'']]],
+  ['xml_5felement',['xml_element',['../structxml__element.html',1,'']]],
+  ['xml_5felement_5fdef',['xml_element_def',['../structxml__element__def.html',1,'']]],
+  ['xml_5fparser_5fdata',['xml_parser_data',['../structxml__parser__data.html',1,'']]],
+  ['xts_5fvisited_5fptr',['xts_visited_ptr',['../structxts__visited__ptr.html',1,'']]]
+];

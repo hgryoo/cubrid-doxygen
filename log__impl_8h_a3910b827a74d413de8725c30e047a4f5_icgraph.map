@@ -1,0 +1,13 @@
+<map id="logpb_page_check_corruption" name="logpb_page_check_corruption">
+<area shape="rect" id="node2" href="$log__recovery_8c.html#afd45fb1ef67df793b067695e37d91623" title="log_recovery_analysis" alt="" coords="271,101,421,128"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#ae6c98e5e47207858ca8e9683cbfdfde2" title="logpb_debug_check_log_page" alt="" coords="248,247,444,273"/>
+<area shape="rect" id="node3" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="535,5,631,32"/>
+<area shape="rect" id="node5" href="$file__io_8c.html#aca6d2f0fa8db31627a725fcb74139310" title="pwrite_with_injected\l_fault" alt="" coords="513,57,653,98"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a4eab49e93d9b7ef62c929efc625e5cec" title="logpb_fetch_header\l_from_active_log" alt="" coords="515,122,650,163"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a721f75e714fb216eb1c86e38c1640644" title="logpb_read_page_from_file" alt="" coords="721,291,899,317"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#acadd68b314ff158d221266ebcc9a11b4" title="logpb_read_page_from\l_active_log" alt="" coords="506,239,659,281"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#aba424036ec1b5f29053849bba67d9442" title="logpb_write_toflush\l_pages_to_archive" alt="" coords="515,357,650,398"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="731,371,889,413"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#ad2a4086ead560587d249dcefe4a943e4" title="logpb_fetch_from_archive" alt="" coords="497,305,668,332"/>
+<area shape="rect" id="node12" href="$log__page__buffer_8c.html#aca52bf7ea3cda88146355cbbbf9a4d87" title="logpb_find_oldest_available\l_page_id" alt="" coords="492,474,673,515"/>
+</map>

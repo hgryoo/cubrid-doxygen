@@ -1,0 +1,10 @@
+<map id="pgbuf_search_hash_chain" name="pgbuf_search_hash_chain">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#a41039f334804ca635d00d7911be11c1b" title="pgbuf_copy_from_area" alt="" coords="227,5,381,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#a6b01f06784aac39287aeb3f0f4f3f348" title="pgbuf_copy_to_area" alt="" coords="235,56,373,83"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="245,107,363,133"/>
+<area shape="rect" id="node7" href="$page__buffer_8h.html#afe78724b7abcc4efb6d4b28c49a46ebc" title="pgbuf_ordered_fix_debug" alt="" coords="429,132,596,159"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#a5a42202d4255c3757a74abd84a5aa993" title="pgbuf_flush_page_and\l_neighbors_fb" alt="" coords="228,209,380,250"/>
+<area shape="rect" id="node3" href="$external__sort_8c.html#ab90cc4dcd121dfef8f22316bc1931f06" title="sort_write_area" alt="" coords="457,5,568,32"/>
+<area shape="rect" id="node5" href="$external__sort_8c.html#a676a1cf3b5b359286a1c1fe17ea65d40" title="sort_read_area" alt="" coords="459,56,567,83"/>
+<area shape="rect" id="node9" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="447,209,578,250"/>
+</map>

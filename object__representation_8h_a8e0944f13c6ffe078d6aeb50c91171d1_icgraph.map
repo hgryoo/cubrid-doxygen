@@ -1,0 +1,13 @@
+<map id="or_unpack_mem_value" name="or_unpack_mem_value">
+<area shape="rect" id="node2" href="$log__applier_8c.html#afd4e57b14d49a93039899444fe0d18b5" title="la_get_item_pk_value" alt="" coords="212,107,360,133"/>
+<area shape="rect" id="node7" href="$locator__sr_8c.html#a873466f35219880006bf0d32ad9b6ae7" title="locator_repl_get_key\l_value" alt="" coords="215,197,357,238"/>
+<area shape="rect" id="node9" href="$log__manager_8c.html#a663a6c912eb23797196e582be80f1e47" title="log_repl_data_dump" alt="" coords="217,263,355,289"/>
+<area shape="rect" id="node11" href="$work__space_8h.html#ad59f4e429ba562fd32ce6464ca0317b2" title="ws_set_repl_error_into\l_error_link" alt="" coords="209,314,363,355"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a18990ec75cf521042876913c1a3c187e" title="la_apply_delete_log" alt="" coords="436,5,572,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a7ba25f44bcecbaa522dd022fb722f0c5" title="la_apply_repl_log" alt="" coords="645,81,768,108"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a2d40a24d77f7d73ad8df508c20a5dbdb" title="la_apply_update_log" alt="" coords="434,107,574,133"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#aae222bafc8147044057c499295141b9b" title="la_apply_insert_log" alt="" coords="437,157,571,184"/>
+<area shape="rect" id="node8" href="$locator__sr_8c.html#a73774f0c161927b6f0c0fd13d4e1bf2c" title="xlocator_repl_force" alt="" coords="438,208,570,235"/>
+<area shape="rect" id="node10" href="$log__manager_8c.html#a0181d44c2433e036612a8c59bd75351b" title="log_dump_record_replication" alt="" coords="411,263,597,289"/>
+<area shape="rect" id="node12" href="$locator__cl_8c.html#adebfdcb1c506d82286150c94316fa2bd" title="locator_repl_mflush\l_check_error" alt="" coords="437,314,571,355"/>
+</map>

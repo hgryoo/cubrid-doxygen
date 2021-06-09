@@ -1,0 +1,10 @@
+<map id="qo_zero_cost" name="qo_zero_cost">
+<area shape="rect" id="node2" href="$query__planner_8c.html#a4087ca4d81587988194936310ca3ea6b" title="qo_iscan_cost" alt="" coords="171,5,278,32"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#ab845c5b6ae21d5c6011aee521f57fd29" title="qo_plan_get_cost_fn" alt="" coords="153,56,296,83"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a52601ecd85b550e6782530250406f63f" title="qo_plan_set_cost_fn" alt="" coords="153,140,296,167"/>
+<area shape="rect" id="node4" href="$csql_8c.html#ad52f6714d8b860d9e1747c69ebc993a4" title="csql_get_sys_param" alt="" coords="531,27,673,53"/>
+<area shape="rect" id="node5" href="$query__graph_8c.html#a31dd0c6a6b3dd7142060af28162e04ca" title="qo_get_optimization\l_param" alt="" coords="344,49,483,90"/>
+<area shape="rect" id="node7" href="$csql_8c.html#ab34b6db3f30265df0d6363adae28a50e" title="csql_set_sys_param" alt="" coords="531,169,673,196"/>
+<area shape="rect" id="node8" href="$query__planner_8c.html#a67c8506a5f8204422d7615c5dc2ed053" title="qo_set_cost" alt="" coords="367,165,460,192"/>
+<area shape="rect" id="node9" href="$query__graph_8c.html#aab0e8db1c2f17a3d181ca07a8d44c927" title="qo_set_optimization\l_param" alt="" coords="344,217,483,258"/>
+</map>

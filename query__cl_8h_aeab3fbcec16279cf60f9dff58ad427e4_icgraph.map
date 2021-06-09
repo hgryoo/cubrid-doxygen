@@ -1,0 +1,8 @@
+<map id="prepare_and_execute_query" name="prepare_and_execute_query">
+<area shape="rect" id="node2" href="$execute__statement_8c.html#a018270c1c91a88694cac8747af9bd25a" title="build_xasl_for_server\l_delete" alt="" coords="200,5,345,47"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a03d6c3dd66c5672f93355abe0c023af9" title="do_execute_do" alt="" coords="217,71,328,98"/>
+<area shape="rect" id="node5" href="$execute__statement_8c.html#a23b83ebe747105f23c26bc7165fa06dd" title="do_insert_at_server" alt="" coords="205,122,341,149"/>
+<area shape="rect" id="node6" href="$execute__statement_8c.html#a3253881929bb3083cba7e2825304d246" title="do_select_internal" alt="" coords="209,173,336,199"/>
+<area shape="rect" id="node7" href="$execute__statement_8c.html#ad93b35b9fc9ad0e54accf1afa9483324" title="update_at_server" alt="" coords="211,223,334,250"/>
+<area shape="rect" id="node3" href="$execute__statement_8c.html#a64dfb8ac55e46089afdb246594b4b597" title="delete_real_class" alt="" coords="393,13,516,39"/>
+</map>

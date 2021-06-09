@@ -1,0 +1,21 @@
+<map id="intl_identifier_lower" name="intl_identifier_lower">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#aaa542c4c891c69ad42f3c3e786d03325" title="catalog_get_cardinality\l_by_name" alt="" coords="204,5,359,47"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a71e57012993f98148b4b9bb1236f7daa" title="do_create_partition" alt="" coords="215,71,347,98"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a6d5023a6cc407b5d1d0222db0157e162" title="do_create_serial" alt="" coords="463,114,581,141"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#ac27490ba3ba1d7150a96711cd63145ed" title="do_get_serial_obj_id" alt="" coords="211,173,351,199"/>
+<area shape="rect" id="node9" href="$structcubload_1_1load__args.html#a525edb77ff73b659e1d0a874782fc2d1" title="cubload::load_args\l::parse_ignore_class_file" alt="" coords="198,275,365,316"/>
+<area shape="rect" id="node11" href="$parser__support_8c.html#a0c92b1c36d45d362aaa61326cd9031b4" title="pt_make_query_describe\l_w_identifier" alt="" coords="439,373,605,415"/>
+<area shape="rect" id="node12" href="$parser__support_8c.html#abcdf4391e31707aa649835833440a11a" title="pt_make_query_show\l_columns" alt="" coords="207,340,356,381"/>
+<area shape="rect" id="node13" href="$parser__support_8c.html#a34207b9b9d7e11d3afe931744aa4ca4e" title="pt_make_query_show\l_create_view" alt="" coords="207,457,356,499"/>
+<area shape="rect" id="node14" href="$parser__support_8c.html#a10b5a894507ddc79c5ba23825f719534" title="pt_make_query_show\l_index" alt="" coords="207,523,356,564"/>
+<area shape="rect" id="node15" href="$parse__tree__cl_8c.html#aae5866811522c11b1928319564f304f6" title="pt_print_name" alt="" coords="229,589,333,615"/>
+<area shape="rect" id="node16" href="$schema__manager_8h.html#a64438f425ba52141408a92c7d749b1b9" title="sc_set_current_schema" alt="" coords="201,639,362,666"/>
+<area shape="rect" id="node17" href="$schema__manager_8c.html#a8f14b510429c4737e835a5ca247b411c" title="sm_default_constraint_name" alt="" coords="187,690,376,717"/>
+<area shape="rect" id="node18" href="$schema__manager_8h.html#ab16ef96f3397d05eb3dabab975169812" title="sm_produce_constraint_name" alt="" coords="424,715,620,742"/>
+<area shape="rect" id="node19" href="$schema__manager_8h.html#a229f32cc22421d73193320e6acd329ec" title="sm_downcase_name" alt="" coords="209,223,354,250"/>
+<area shape="rect" id="node20" href="$classcubload_1_1server__class__installer.html#aad8bb8924402d6729d19bb0f728dab2b" title="cubload::server_class\l_installer::to_lowercase\l_identifier" alt="" coords="202,791,361,847"/>
+<area shape="rect" id="node3" href="$query__opfunc_8h.html#a296028f272d6f2014687a04eca528a4a" title="qdata_get_cardinality" alt="" coords="449,13,595,39"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#ac78ed602718434e660dfe3f61cf88719" title="do_create_auto_increment\l_serial" alt="" coords="435,231,609,272"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#ad37d6b13f9139f97baed90d66d276468" title="do_update_maxvalue\l_of_auto_increment_serial" alt="" coords="435,165,609,207"/>
+<area shape="rect" id="node10" href="$load__db_8c.html#a23f7dd8322d469075360a3461ff250e0" title="loaddb_internal" alt="" coords="467,297,577,323"/>
+</map>

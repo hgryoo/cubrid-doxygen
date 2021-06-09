@@ -1,0 +1,8 @@
+<map id="pt_false_search_condition" name="pt_false_search_condition">
+<area shape="rect" id="node2" href="$semantic__check_8c.html#a037d720c8f15dd86df8710577a97dafa" title="pt_check_with_info" alt="" coords="233,5,368,32"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#a439919f9220c26974d4b2cbf0560cdb3" title="pt_false_where" alt="" coords="245,56,356,83"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#ab1a51869aa06f95a76d04529f2bdc244" title="pt_to_buildvalue_proc" alt="" coords="227,107,375,133"/>
+<area shape="rect" id="node6" href="$query__graph_8c.html#a10ce29a8c21906fb18b58d642f17e88a" title="qo_add_term" alt="" coords="252,157,349,184"/>
+<area shape="rect" id="node7" href="$query__rewrite_8c.html#a479b048b1aea5107446249c6ecdf0b28" title="qo_check_condition\l_yields_null" alt="" coords="232,209,369,250"/>
+<area shape="rect" id="node3" href="$semantic__check_8h.html#a6dca0fd158b0b8bf89b6a5a5cd0abeb2" title="pt_semantic_check" alt="" coords="423,5,557,32"/>
+</map>

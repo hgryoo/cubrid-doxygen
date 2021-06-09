@@ -1,0 +1,12 @@
+<map id="or_align" name="or_align">
+<area shape="rect" id="node2" href="$btree_8c.html#a3a9d1b18b6eb999825c00a291398f04f" title="btree_recompress_record" alt="" coords="120,31,289,57"/>
+<area shape="rect" id="node4" href="$db__json_8cpp.html#abb73a74f78ae2bdbf56d50d0b8b49c0f" title="db_json_unpack_string\l_to_value" alt="" coords="127,105,282,146"/>
+<area shape="rect" id="node7" href="$log__recovery_8c.html#a714f5a0c8ca696520eb1cf8b1b706d96" title="log_rv_undoredo_partial\l_changes_recursive" alt="" coords="125,170,284,211"/>
+<area shape="rect" id="node9" href="$object__representation_8c.html#a82dbc30038d10ce96c7e0e3c11f24706" title="or_put_string_aligned\l_with_length" alt="" coords="132,235,277,277"/>
+<area shape="rect" id="node11" href="$object__representation_8c.html#aec57593240dcc1c5a5c1b191a17ec2a9" title="unpack_domain" alt="" coords="148,301,261,328"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a1012b26ece22db26540906ab85b6ef30" title="btree_merge_node" alt="" coords="381,5,510,32"/>
+<area shape="rect" id="node5" href="$db__json_8cpp.html#a9ab726814b3638f0d3f8318555afd2ab" title="db_json_unpack_object\l_to_value" alt="" coords="366,57,525,98"/>
+<area shape="rect" id="node6" href="$db__json_8cpp.html#aaad8044d51008c88b839230ebd076124" title="db_json_deserialize\l_doc_internal" alt="" coords="601,57,737,98"/>
+<area shape="rect" id="node8" href="$log__recovery_8c.html#ab58608b3311d02710479684964e3d417" title="log_rv_undoredo_record\l_partial_changes" alt="" coords="365,174,525,215"/>
+<area shape="rect" id="node10" href="$classJSON__SERIALIZER.html#a7862843451f7968b161aff6dd9aa06d2" title="JSON_SERIALIZER::PackString" alt="" coords="337,243,553,269"/>
+</map>

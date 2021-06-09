@@ -1,0 +1,5 @@
+<map id="statement_get_reshandle_or_affectedrows" name="statement_get_reshandle_or_affectedrows">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#ab0e0cea2cd92d8354ff5f74f3837a465" title="ci_stmt_execute_immediate_impl" alt="" coords="221,5,437,32"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#a54582ad3e939dd9b2623370888b0a4b8" title="ci_stmt_execute_impl" alt="" coords="255,56,404,83"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#a88e32375644f540306272199a9c3ba6a" title="ci_stmt_next_result_impl" alt="" coords="246,107,413,133"/>
+</map>

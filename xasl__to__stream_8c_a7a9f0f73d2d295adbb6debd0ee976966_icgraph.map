@@ -1,0 +1,7 @@
+<map id="xts_process_sort_list" name="xts_process_sort_list">
+<area shape="rect" id="node2" href="$xasl__to__stream_8c.html#afc2588eebc3951cd2f19be5617c5af05" title="xts_save_sort_list" alt="" coords="200,57,328,83"/>
+<area shape="rect" id="node3" href="$xasl__to__stream_8c.html#a668786726f34509f06689e47376aec69" title="xts_process_xasl_node" alt="" coords="613,6,772,33"/>
+<area shape="rect" id="node4" href="$xasl__to__stream_8c.html#a0e8d93596ecf65c5e90cfb57119e4910" title="xts_process_buildlist_proc" alt="" coords="383,31,559,58"/>
+<area shape="rect" id="node5" href="$xasl__to__stream_8c.html#a6b300102f49620aba637c9e4a6f4066c" title="xts_process_aggregate_type" alt="" coords="376,82,565,109"/>
+<area shape="rect" id="node6" href="$xasl__to__stream_8c.html#aa31895a1193ec878e6b1de6c24716c56" title="xts_process_analytic\l_eval_type" alt="" coords="398,133,543,175"/>
+</map>

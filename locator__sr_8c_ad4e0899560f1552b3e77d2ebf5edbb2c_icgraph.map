@@ -1,0 +1,21 @@
+<map id="xlocator_find_class_oid" name="xlocator_find_class_oid">
+<area shape="rect" id="node2" href="$btree_8h.html#ab5691dc679be8018d28d890c68fc43f2" title="btree_index_start_scan" alt="" coords="215,5,373,32"/>
+<area shape="rect" id="node4" href="$system__catalog_8h.html#aaa542c4c891c69ad42f3c3e786d03325" title="catalog_get_cardinality\l_by_name" alt="" coords="217,122,371,163"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#a66e113bc5e468a3bcf9aa79f1c001537" title="catcls_find_and_set\l_cached_class_oid" alt="" coords="456,109,595,150"/>
+<area shape="rect" id="node8" href="$catalog__class_8c.html#abc8b96e54e978fb4e97181030c7c89ed" title="catcls_find_class_oid\l_by_class_name" alt="" coords="221,239,367,281"/>
+<area shape="rect" id="node14" href="$heap__file_8h.html#ae40e25c53556e39487155e520ad67fa8" title="heap_header_capacity\l_start_scan" alt="" coords="218,57,370,98"/>
+<area shape="rect" id="node15" href="$heap__file_8h.html#ab7c22521ae5b0786918abc192a3ba4a8" title="heap_set_autoincrement\l_value" alt="" coords="212,305,376,346"/>
+<area shape="rect" id="node16" href="$classcubload_1_1server__class__installer.html#a2d1767a893b982746943dc51bcfa9bbc" title="cubload::server_class\l_installer::locate_class" alt="" coords="217,370,371,411"/>
+<area shape="rect" id="node18" href="$network__interface__cl_8h.html#a8716b497346089672bab295078d17828" title="locator_find_class_oid" alt="" coords="219,436,369,463"/>
+<area shape="rect" id="node19" href="$log__tran__table_8c.html#a0a9d01c5bbf7b84c16ac5deafb9b8f00" title="logtb_tran_prepare\l_count_optim_classes" alt="" coords="218,487,370,529"/>
+<area shape="rect" id="node20" href="$network__interface__sr_8h.html#af1c571801ba8826f94add19e4d73eeaf" title="slocator_find_class_oid" alt="" coords="215,553,373,580"/>
+<area shape="rect" id="node3" href="$show__scan_8c.html#aecf736200d67937c5e8b499d2570ea1d" title="showstmt_scan_init" alt="" coords="456,7,595,33"/>
+<area shape="rect" id="node5" href="$query__opfunc_8h.html#a296028f272d6f2014687a04eca528a4a" title="qdata_get_cardinality" alt="" coords="453,57,598,84"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="675,244,809,271"/>
+<area shape="rect" id="node9" href="$boot__sr_8c.html#a9adaf98f87a60f6b3d1411c1976df4ec" title="catcls_compile_catalog\l_classes" alt="" coords="446,174,605,215"/>
+<area shape="rect" id="node10" href="$catalog__class_8c.html#ae5a7d7ee65169187ff2edadd52509381" title="catcls_get_apply_info\l_log_record_time" alt="" coords="451,239,599,281"/>
+<area shape="rect" id="node11" href="$boot__sr_8c.html#ac583d2461969caba1e703a428f34acf1" title="catcls_get_db_collation" alt="" coords="446,305,605,332"/>
+<area shape="rect" id="node12" href="$catalog__class_8c.html#a84555f5478d1bbab02c00fce5c73fbae" title="catcls_get_or_value\l_from_class" alt="" coords="456,357,595,398"/>
+<area shape="rect" id="node13" href="$boot__sr_8c.html#ac5db54613797691755b7065620cdd8bd" title="catcls_get_server_compat_info" alt="" coords="424,423,627,449"/>
+<area shape="rect" id="node17" href="$classcubload_1_1server__class__installer.html#a89af67a1b5d3945be06a5519427a66de" title="cubload::server_class\l_installer::check_class" alt="" coords="448,474,603,515"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="css_set_net_header" name="css_set_net_header">
+<area shape="rect" id="node2" href="$connection__support_8h.html#adc9d474c0606505275d05f71db925550" title="css_send_data" alt="" coords="216,429,327,455"/>
+<area shape="rect" id="node18" href="$connection__support_8h.html#a5f57ef5bfdeddf46f09b8538c1e0707b" title="css_send_error" alt="" coords="216,479,327,506"/>
+<area shape="rect" id="node19" href="$connection__support_8h.html#a22a063da64db5362b79f59b31c9b6cfe" title="css_send_request_with\l_data_buffer" alt="" coords="192,555,351,596"/>
+<area shape="rect" id="node20" href="$connection__support_8h.html#a554aafd262166a90823950cbba347451" title="css_send_request_with\l_socket" alt="" coords="192,620,351,661"/>
+<area shape="rect" id="node3" href="$heartbeat_8c.html#a243855ba97faaf9001fe4061d0fa8ad2" title="css_connect_to_master\l_server" alt="" coords="411,5,573,47"/>
+<area shape="rect" id="node4" href="$master__request_8c.html#aaae1a70ecf231d399b4c1bf59e9466cf" title="css_process_activate\l_heartbeat" alt="" coords="417,71,567,112"/>
+<area shape="rect" id="node5" href="$master__request_8c.html#aa22e4ecc93abfab13bc15895001e2877" title="css_process_all_count_info" alt="" coords="401,137,583,163"/>
+<area shape="rect" id="node6" href="$master__request_8c.html#a3ca023f1a557951756625caffcdcb117" title="css_process_all_list_info" alt="" coords="408,187,576,214"/>
+<area shape="rect" id="node7" href="$master__request_8c.html#a84403afda2e7c1c759fd6c2108756293" title="css_process_deact_confirm\l_no_server" alt="" coords="399,239,585,280"/>
+<area shape="rect" id="node8" href="$master__request_8c.html#ae3ee2fcbe417719a5c6a54146b6f2d66" title="css_process_deact_confirm\l_stop_all" alt="" coords="399,304,585,345"/>
+<area shape="rect" id="node9" href="$master__request_8c.html#a3e010067a99860164d727e8d1600508e" title="css_process_deact_stop_all" alt="" coords="399,370,585,397"/>
+<area shape="rect" id="node10" href="$master__request_8c.html#aee37914b846db533c53e257a148bd4c0" title="css_process_deactivate\l_heartbeat" alt="" coords="411,421,573,463"/>
+<area shape="rect" id="node11" href="$master__request_8c.html#aaa4089547f6ea9804a36beb890be8131" title="css_process_get_server\l_ha_mode" alt="" coords="410,487,574,528"/>
+<area shape="rect" id="node12" href="$master__request_8c.html#aeae2197f9135c8922548701124eed573" title="css_process_ha_admin_info" alt="" coords="399,553,585,579"/>
+<area shape="rect" id="node13" href="$master__request_8c.html#a46cff02c38f4dbb4c8109f4438981df5" title="css_process_ha_deregister\l_by_args" alt="" coords="401,604,583,645"/>
+<area shape="rect" id="node14" href="$master__request_8c.html#a964d8c20ad7ec01296b19cdc0b977974" title="css_process_ha_deregister\l_by_pid" alt="" coords="401,669,583,711"/>
+<area shape="rect" id="node15" href="$master__request_8c.html#a35ee558207e9b10c6ca7d2e6e16c089f" title="css_process_ha_node\l_list_info" alt="" coords="416,735,568,776"/>
+<area shape="rect" id="node16" href="$master__request_8c.html#a0089eb50c64c93955163bfb60945999f" title="css_process_ha_ping\l_host_info" alt="" coords="418,800,566,841"/>
+<area shape="rect" id="node17" href="$master__request_8c.html#a9092e3dd577d17262fae61923cc95447" title="css_process_ha_process\l_list_info" alt="" coords="407,865,577,907"/>
+</map>

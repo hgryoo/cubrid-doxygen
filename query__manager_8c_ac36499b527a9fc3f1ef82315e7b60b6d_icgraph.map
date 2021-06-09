@@ -1,0 +1,8 @@
+<map id="qmgr_allocate_tempfile_with_buffer" name="qmgr_allocate_tempfile_with_buffer">
+<area shape="rect" id="node2" href="$query__manager_8h.html#aaa8c170e8f4d4b7262ac11e8a280b2b0" title="qmgr_create_new_temp_file" alt="" coords="209,67,395,93"/>
+<area shape="rect" id="node6" href="$query__manager_8c.html#a322eec038b5fb9b9deb7821bd044f026" title="qmgr_initialize_temp\l_file_list" alt="" coords="231,129,373,170"/>
+<area shape="rect" id="node3" href="$list__file_8h.html#a9a0cb0a6d85281f2415ed963cdbe90f6" title="qfile_open_list" alt="" coords="459,5,564,32"/>
+<area shape="rect" id="node4" href="$list__file_8h.html#ab4f13b15b2ddac8fbd42965eb5a7dbbd" title="qfile_get_first_page" alt="" coords="444,56,579,83"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a7c9417cbf00ad332e508fad017f05b5e" title="qexec_setup_list_id" alt="" coords="443,107,580,133"/>
+<area shape="rect" id="node7" href="$query__manager_8h.html#af4f328c92e903e58012d29296381edd5" title="qmgr_initialize" alt="" coords="459,157,564,184"/>
+</map>

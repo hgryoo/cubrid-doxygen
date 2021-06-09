@@ -1,0 +1,21 @@
+<map id="disk_volheader_check_magic" name="disk_volheader_check_magic">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#a09e2ab7104c4384bafcd3cf693a49719" title="pgbuf_set_dirty" alt="" coords="204,513,315,539"/>
+<area shape="rect" id="node3" href="$list__file_8c.html#a35b00173b06eddbf2db92d9dbe9b5403" title="qfile_set_dirty_page\l_and_skip_logging" alt="" coords="393,5,531,47"/>
+<area shape="rect" id="node4" href="$query__manager_8h.html#a45919f750ef4a04f9e35809f1e5295b5" title="qmgr_set_dirty_page" alt="" coords="391,71,533,98"/>
+<area shape="rect" id="node5" href="$query__manager_8c.html#a2f49a5d957919162d9e2544467bb183d" title="qmgr_init_external\l_file_page" alt="" coords="398,123,526,164"/>
+<area shape="rect" id="node6" href="$vacuum_8c.html#a89f14ebfbdb67ac4fa2e102306e05377" title="vacuum_set_dirty_data\l_page_dont_free" alt="" coords="383,188,541,229"/>
+<area shape="rect" id="node7" href="$vacuum_8h.html#a3171e0413044eaee675846edbfb3a086" title="vacuum_heap_page" alt="" coords="823,342,961,369"/>
+<area shape="rect" id="node8" href="$vacuum_8c.html#a2dd9467a7b92621f353ace6da7cfc295" title="vacuum_heap_record\l_insid_and_prev_version" alt="" coords="609,305,775,347"/>
+<area shape="rect" id="node9" href="$vacuum_8c.html#ab08a1e44f9d9db235a21e9fc4cde9992" title="vacuum_heap_record" alt="" coords="619,371,765,398"/>
+<area shape="rect" id="node10" href="$vacuum_8c.html#a21a09fb70213284c38077da5c94adf52" title="vacuum_heap_page_log\l_and_reset" alt="" coords="381,407,543,448"/>
+<area shape="rect" id="node11" href="$vacuum_8h.html#ace71b7c043ac822741cf92955ee7a814" title="vacuum_rv_redo_vacuum\l_heap_page" alt="" coords="377,472,547,513"/>
+<area shape="rect" id="node12" href="$vacuum_8h.html#a717849147c83fedac43ef63b36b90d03" title="vacuum_rv_redo_remove\l_ovf_insid" alt="" coords="378,537,546,579"/>
+<area shape="rect" id="node13" href="$vacuum_8h.html#aef2fef245e840fb488a1cc5cdeabc803" title="vacuum_rv_redo_vacuum\l_complete" alt="" coords="377,603,547,644"/>
+<area shape="rect" id="node14" href="$vacuum_8h.html#a738a93ce33c02f0bf41727245127bd2e" title="vacuum_rv_redo_initialize\l_data_page" alt="" coords="376,668,548,709"/>
+<area shape="rect" id="node15" href="$vacuum_8h.html#abd2ad1a64f33de97ede2bcb22f3ec496" title="vacuum_rv_redo_data\l_finished" alt="" coords="387,733,537,775"/>
+<area shape="rect" id="node16" href="$vacuum_8h.html#ac8beddd489795d6a1cc07e7f56d03822" title="vacuum_rv_undoredo\l_data_set_link" alt="" coords="389,799,535,840"/>
+<area shape="rect" id="node17" href="$vacuum_8h.html#a0c167be9820ea38343fd0076cad9333a" title="vacuum_rv_redo_append_data" alt="" coords="363,865,561,891"/>
+<area shape="rect" id="node18" href="$vacuum_8h.html#a0985ef0e8ea5f0590bf65f7303850a87" title="vacuum_rv_redo_start_job" alt="" coords="375,915,549,942"/>
+<area shape="rect" id="node19" href="$vacuum_8h.html#ad1cb56bb24d718ff923e3231cca3e247" title="vacuum_rv_redo_add\l_dropped_file" alt="" coords="389,967,535,1008"/>
+<area shape="rect" id="node20" href="$vacuum_8h.html#aa87dc18f2d17e0481e174e565b136634" title="vacuum_rv_undo_add\l_dropped_file" alt="" coords="387,1032,537,1073"/>
+</map>

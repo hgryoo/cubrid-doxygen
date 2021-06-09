@@ -1,0 +1,11 @@
+<map id="check_authorization" name="check_authorization">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#a2cf118f2ffbccb0ad6860e0e9217f939" title="find_all_triggers" alt="" coords="212,5,325,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#a827ce53f0cf72325508e1faa557e968f" title="tr_check_authorization" alt="" coords="192,56,345,83"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#a94fe1954d05e02fb4c78f222fea68ea6" title="tr_drop_trigger" alt="" coords="216,107,321,133"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#a379df045bc5cc99a1ddc0dc939438977" title="tr_find_trigger" alt="" coords="218,157,319,184"/>
+<area shape="rect" id="node7" href="$trigger__manager_8h.html#a090f9222b1897ace9158bdc6c423f111" title="tr_rename_trigger" alt="" coords="207,208,330,235"/>
+<area shape="rect" id="node8" href="$trigger__manager_8h.html#a3723e68368b2ac200640fce036257c22" title="tr_set_comment" alt="" coords="211,259,327,285"/>
+<area shape="rect" id="node9" href="$trigger__manager_8h.html#aada41ea0a6a7860c3ef109957ae6706b" title="tr_set_priority" alt="" coords="218,309,319,336"/>
+<area shape="rect" id="node10" href="$trigger__manager_8h.html#a12bda517b4f25cb4c10d40c9e4abd742" title="tr_set_status" alt="" coords="219,360,318,387"/>
+<area shape="rect" id="node3" href="$trigger__manager_8h.html#a14f5b43df08174a47dc684724938fccc" title="tr_find_all_triggers" alt="" coords="393,5,521,32"/>
+</map>

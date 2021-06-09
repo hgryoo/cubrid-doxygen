@@ -1,0 +1,21 @@
+<map id="logtb_find_client_name_host_pid" name="logtb_find_client_name_host_pid">
+<area shape="rect" id="node2" href="$connection__support_8c.html#abaf945a4466e4e038e5855e74d636e14" title="css_default_server\l_timeout_fn" alt="" coords="230,115,362,156"/>
+<area shape="rect" id="node3" href="$event__log_8h.html#ad761e111d08ee918436356596b12f903" title="event_log_print_client_info" alt="" coords="208,181,384,207"/>
+<area shape="rect" id="node9" href="$lock__manager_8h.html#a504786492af357a6a63b3b255364b4c6" title="lock_demote_class_lock" alt="" coords="441,473,606,499"/>
+<area shape="rect" id="node12" href="$page__buffer_8c.html#ac9a59dd7ac23cdbc22052a9e1ab496c4" title="pgbuf_block_bcb" alt="" coords="236,365,356,391"/>
+<area shape="rect" id="node14" href="$page__buffer_8c.html#a1ad3b117720feb9f4798b6bc79cd3023" title="pgbuf_latch_bcb_upon_fix" alt="" coords="437,422,610,449"/>
+<area shape="rect" id="node16" href="$lock__manager_8c.html#a41b042bfa759a6fdd26b74b4b030d3f8" title="xlock_dump" alt="" coords="250,521,342,547"/>
+<area shape="rect" id="node19" href="$log__tran__table_8c.html#ab02994b89f22de6b5346a2e448282d87" title="xlogtb_kill_tran_index" alt="" coords="223,571,369,598"/>
+<area shape="rect" id="node20" href="$transaction__sr_8c.html#a1fd2b691cc614d3d3b1a709338eb0403" title="xtran_server_abort" alt="" coords="231,622,361,649"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8c.html#a0eb59ade53933c2873e28f2b7456cafc" title="event_log_many_ioreads" alt="" coords="440,71,607,98"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8c.html#aa5c954ff181513db7f09d533b4db9c47" title="event_log_slow_query" alt="" coords="448,122,599,149"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8c.html#a4a3b1e68dea5e0cb9fc930812c1a2407" title="event_log_temp_expand\l_pages" alt="" coords="442,173,605,215"/>
+<area shape="rect" id="node7" href="$lock__manager_8c.html#a104e521b5f958d944f9443a0aff23348" title="lock_detect_local_deadlock" alt="" coords="432,239,615,266"/>
+<area shape="rect" id="node8" href="$lock__manager_8h.html#a599d30dae661fe8e9c5046fbb7475554" title="lock_wait_state_to\l_string" alt="" coords="458,5,589,47"/>
+<area shape="rect" id="node10" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="691,436,821,477"/>
+<area shape="rect" id="node11" href="$locator__sr_8c.html#ac2e34e4cec9ec7a7d4e8ccbfdc8557d6" title="xlocator_demote_class_lock" alt="" coords="663,502,849,529"/>
+<area shape="rect" id="node13" href="$page__buffer_8c.html#a7b2dfb96a20574b1b57312f01a840fbe" title="pgbuf_bcb_safe_flush\l_internal" alt="" coords="449,356,598,397"/>
+<area shape="rect" id="node15" href="$page__buffer_8h.html#a1bf1b7b6a62392916056f3c33e414f9d" title="pgbuf_promote_read\l_latch_debug" alt="" coords="453,291,593,332"/>
+<area shape="rect" id="node17" href="$network__interface__cl_8h.html#aec18ee174ec60f3d2f230c6ae03b2671" title="lock_dump" alt="" coords="481,574,566,601"/>
+<area shape="rect" id="node18" href="$network__interface__sr_8h.html#a01dddcf63f62b4d2f38ed262abf8ea85" title="slock_dump" alt="" coords="477,523,569,550"/>
+</map>

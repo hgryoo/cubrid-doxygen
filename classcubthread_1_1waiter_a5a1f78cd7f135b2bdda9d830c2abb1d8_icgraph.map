@@ -1,0 +1,7 @@
+<map id="cubthread::waiter::get_stats_value_count" name="cubthread::waiter::get_stats_value_count">
+<area shape="rect" id="node2" href="$classcubthread_1_1waiter.html#acbdb11100108804d9b603653de7515f8" title="cubthread::waiter::\lget_stat_name" alt="" coords="218,5,349,47"/>
+<area shape="rect" id="node3" href="$classcubthread_1_1daemon.html#afd9cbb28f44f731cfc7b15077a7e2bfc" title="cubthread::daemon::\lget_stat_name" alt="" coords="425,64,566,105"/>
+<area shape="rect" id="node5" href="$classcubthread_1_1daemon.html#a3b201b6fa3e93e4aa9640acf6beeadbd" title="cubthread::daemon::\lget_stats_value_count" alt="" coords="207,123,360,164"/>
+<area shape="rect" id="node4" href="$perf__monitor_8c.html#a9bb2ec73da51aaad362a2f5860b0d167" title="perfmon_per_daemon\l_stat_count" alt="" coords="631,93,777,135"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#a87f07b4e008ec03f3f93a2f561e1328f" title="pgbuf_daemons_get_stats" alt="" coords="408,181,583,207"/>
+</map>

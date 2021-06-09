@@ -1,0 +1,5 @@
+<map id="find_signature" name="find_signature">
+<area shape="rect" id="node2" href="$schema__template_8c.html#a9f27f34ad4b9de9ec170735e2f2c329c" title="find_argument" alt="" coords="156,46,260,73"/>
+<area shape="rect" id="node3" href="$schema__template_8h.html#a0c233adb45df64018005851832f0d8c5" title="smt_add_set_argument\l_domain" alt="" coords="308,5,467,47"/>
+<area shape="rect" id="node4" href="$schema__template_8h.html#a7577e919b97613a157deefba302e9c1c" title="smt_assign_argument\l_domain" alt="" coords="312,71,463,112"/>
+</map>

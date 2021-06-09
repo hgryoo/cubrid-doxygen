@@ -1,0 +1,6 @@
+<map id="btree_find_next_index_record_holding_current" name="btree_find_next_index_record_holding_current">
+<area shape="rect" id="node2" href="$btree_8c.html#acf572b9f860df07709a76ae5b6d338cd" title="btree_find_next_index\l_record" alt="" coords="213,49,363,90"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a9cee3845595271aa83509e06f62c979e" title="btree_find_lower_bound_leaf" alt="" coords="411,5,597,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a4ffa8945c9592a8580932671d45ff575" title="btree_get_stats_with\l_fullscan" alt="" coords="645,23,788,65"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a1b5f950350c0e1997489fad31cc8cdff" title="btree_get_stats_with\l_AR_sampling" alt="" coords="433,107,575,149"/>
+</map>

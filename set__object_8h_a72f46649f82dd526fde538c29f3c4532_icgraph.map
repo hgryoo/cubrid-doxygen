@@ -1,0 +1,8 @@
+<map id="col_add" name="col_add">
+<area shape="rect" id="node2" href="$set__object_8h.html#a4122526b7613da5853776eafb7a125e3" title="setobj_add_element" alt="" coords="120,105,259,132"/>
+<area shape="rect" id="node7" href="$set__object_8h.html#a9fef91e5fae6bccc6dac162c678e89b1" title="setobj_put_value" alt="" coords="129,156,249,183"/>
+<area shape="rect" id="node3" href="$set__object_8h.html#a29a0b885c2d84dff7c88a1d43dffe4bd" title="set_add_element" alt="" coords="311,29,433,56"/>
+<area shape="rect" id="node4" href="$set__object_8h.html#af991513f62de207f901f4b59d60f5881" title="setobj_difference" alt="" coords="311,80,433,107"/>
+<area shape="rect" id="node5" href="$set__object_8h.html#ae90f51e4193a8fd5c140ed527d03e05d" title="setobj_union" alt="" coords="325,131,419,157"/>
+<area shape="rect" id="node6" href="$set__object_8h.html#a021043e1a125b60613e8474dd3d00dd9" title="setobj_intersection" alt="" coords="307,181,437,208"/>
+</map>

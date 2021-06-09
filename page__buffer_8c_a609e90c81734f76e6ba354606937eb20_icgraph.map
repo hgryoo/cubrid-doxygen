@@ -1,0 +1,8 @@
+<map id="pgbuf_bcb_check_and_reset_fix_and_avoid_dealloc" name="pgbuf_bcb_check_and_reset_fix_and_avoid_dealloc">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a8cbce269e04ed30279485fc77e786430" title="pgbuf_claim_bcb_for_fix" alt="" coords="389,5,551,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a702a8aa6d5d50661354c9f98e270e1d1" title="pgbuf_delete_from_hash\l_chain" alt="" coords="388,158,552,199"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#a90501157aa646894800f4a2ee370ca93" title="pgbuf_put_bcb_into\l_invalid_list" alt="" coords="205,67,340,109"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="613,55,731,81"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a88151b978de695fc8c76f011b0996962" title="pgbuf_victimize_bcb" alt="" coords="601,165,743,192"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a32645b0c2aace57799af8b647423a493" title="pgbuf_invalidate_bcb" alt="" coords="600,109,744,136"/>
+</map>

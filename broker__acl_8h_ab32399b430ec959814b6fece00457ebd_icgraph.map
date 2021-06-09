@@ -1,0 +1,7 @@
+<map id="access_control_read_config_file" name="access_control_read_config_file">
+<area shape="rect" id="node2" href="$broker__acl_8h.html#ac7e4e2b80e60236c3a5b174d74205879" title="access_control_set_shm" alt="" coords="196,56,363,83"/>
+<area shape="rect" id="node6" href="$broker__admin__pub_8h.html#a41bdda88792b1fbe250d0ce200e841a2" title="admin_acl_reload_cmd" alt="" coords="202,107,357,133"/>
+<area shape="rect" id="node3" href="$broker__admin__pub_8h.html#ad2b7e17f9a9fe16d07b20db49cea8f6b" title="admin_start_cmd" alt="" coords="411,5,533,32"/>
+<area shape="rect" id="node5" href="$broker__admin__pub_8h.html#a21e0332265b07017b4f3211c3f455640" title="admin_on_cmd" alt="" coords="417,56,527,83"/>
+<area shape="rect" id="node4" href="$broker__admin_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="581,56,632,83"/>
+</map>

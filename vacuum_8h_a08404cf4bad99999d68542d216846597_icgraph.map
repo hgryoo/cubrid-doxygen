@@ -1,0 +1,6 @@
+<map id="xvacuum_dump" name="xvacuum_dump">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#ae171b76881e6eef20bf6a5b6bb57e487" title="svacuum_dump" alt="" coords="168,5,283,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a9c857454e31bf21226e34e33c467548d" title="vacuum_dump" alt="" coords="172,56,279,83"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="331,5,437,32"/>
+<area shape="rect" id="node5" href="$utility_8h.html#a69d8b97e3258dcdbbc336a3316c560b3" title="vacuumdb" alt="" coords="343,56,425,83"/>
+</map>

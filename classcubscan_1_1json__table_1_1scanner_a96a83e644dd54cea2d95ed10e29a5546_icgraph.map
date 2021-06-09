@@ -1,0 +1,5 @@
+<map id="cubscan::json_table::scanner::reset_ordinality" name="cubscan::json_table::scanner::reset_ordinality">
+<area shape="rect" id="node2" href="$classcubscan_1_1json__table_1_1scanner.html#a4f319e2c68c0bf6e6206d3ddddbf796a" title="cubscan::json_table\l::scanner::clear" alt="" coords="225,5,364,47"/>
+<area shape="rect" id="node3" href="$classcubscan_1_1json__table_1_1scanner.html#a99af789495d777cd1b1d8dd7c713ff68" title="cubscan::json_table\l::scanner::open" alt="" coords="225,71,364,112"/>
+<area shape="rect" id="node4" href="$classcubscan_1_1json__table_1_1scanner.html#a1fbf64712fdd4bfec13974a1600e6689" title="cubscan::json_table\l::scanner::next_scan" alt="" coords="412,71,556,112"/>
+</map>

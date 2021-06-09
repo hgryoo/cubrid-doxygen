@@ -1,0 +1,13 @@
+<map id="db_query_format_free" name="db_query_format_free">
+<area shape="rect" id="node2" href="$esql__cli_8c.html#a57a85e29bd9864079353971b62cd9c74" title="alloc_dynamic" alt="" coords="218,5,323,32"/>
+<area shape="rect" id="node3" href="$esql__cli_8c.html#a36d9c91b915ea0efce4be6271bb73e38" title="uci_prepare" alt="" coords="429,31,518,57"/>
+<area shape="rect" id="node4" href="$csql_8c.html#acfdadb9a16a3492a1cfce32340d9ddb9" title="free_attr_spec" alt="" coords="218,107,323,133"/>
+<area shape="rect" id="node6" href="$esql__cli_8c.html#a90012cabf86c0f2c3f9f491fc6efab9b" title="free_dynamic" alt="" coords="221,157,321,184"/>
+<area shape="rect" id="node10" href="$cas__handle_8h.html#a8fd6135dc96627c5048e54fac2536a4e" title="hm_qresult_end" alt="" coords="213,208,328,235"/>
+<area shape="rect" id="node11" href="$cas__execute_8c.html#a977259b8d253fa1f9cd18f4e46ef726b" title="prepare_column_list\l_info_set" alt="" coords="201,259,340,301"/>
+<area shape="rect" id="node12" href="$esql__cli_8c.html#a1b540716a72b98a145170be7a1ee4ad3" title="uci_object_describe" alt="" coords="202,325,339,352"/>
+<area shape="rect" id="node5" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="388,81,559,108"/>
+<area shape="rect" id="node7" href="$esql__cli_8c.html#a4dc639f81455620789c31e6e9dc591e0" title="uci_commit" alt="" coords="429,132,518,159"/>
+<area shape="rect" id="node8" href="$esql__cli_8c.html#a3f1292e2638d968d7939200fb85708a1" title="uci_rollback" alt="" coords="428,183,519,209"/>
+<area shape="rect" id="node9" href="$esql__cli_8c.html#a3e14a78f45e1471094da61125d67bc82" title="clean_up" alt="" coords="436,233,511,260"/>
+</map>

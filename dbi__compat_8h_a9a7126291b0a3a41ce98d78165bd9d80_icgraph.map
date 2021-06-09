@@ -1,0 +1,7 @@
+<map id="db_get_all_objects" name="db_get_all_objects">
+<area shape="rect" id="node2" href="$authenticate_8h.html#acf08ecf34ed25bda32e5baf8deeb5a99" title="au_start" alt="" coords="227,56,296,83"/>
+<area shape="rect" id="node5" href="$unload__schema_8c.html#ae4e4a6438d4cb0fc3c9e64d959f73b48" title="emit_stored_procedure" alt="" coords="184,107,339,133"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="387,5,525,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="391,56,521,83"/>
+<area shape="rect" id="node6" href="$unloaddb_8h.html#aab2eec8bbc4988ca57d5cef87fafc87b" title="extract_classes" alt="" coords="399,107,513,133"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="file_extdata_start" name="file_extdata_start">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="648,81,731,108"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#abb82ced608ae78194f2b7d44850a3cd2" title="file_extdata_at" alt="" coords="206,300,313,327"/>
+<area shape="rect" id="node15" href="$file__manager_8c.html#adc0db5dfc925dc493ef06a24997d87d1" title="file_perm_alloc" alt="" coords="843,484,953,511"/>
+<area shape="rect" id="node16" href="$file__manager_8c.html#a55c34f23406a73f99ed598f8f5f57152" title="file_table_move_partial\l_sectors_to_header" alt="" coords="612,477,767,518"/>
+<area shape="rect" id="node17" href="$file__manager_8c.html#ac8f142782aee9f4ffc3e460a001838b5" title="file_extdata_find_ordered" alt="" coords="176,503,343,529"/>
+<area shape="rect" id="node18" href="$file__manager_8c.html#aa0715617bdfb03dfc414a408364f5d89" title="file_extdata_merge\l_ordered" alt="" coords="193,655,325,697"/>
+<area shape="rect" id="node19" href="$file__manager_8c.html#a977275bbed81d4275cc6fec928bb8cd6" title="file_extdata_merge\l_unordered" alt="" coords="193,721,325,762"/>
+<area shape="rect" id="node20" href="$file__manager_8c.html#a0fe1ac2ba5d73e34057539e939a76032" title="file_temp_reset_user\l_pages" alt="" coords="188,786,331,827"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a76b48022b881809b35f193418dcc8aba" title="file_create_with_npages" alt="" coords="817,5,979,32"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a64196cd150853d3b210a8f55740f0839" title="file_create_temp_internal" alt="" coords="815,56,981,83"/>
+<area shape="rect" id="node5" href="$file__manager_8h.html#aa6e3dfe54417c209a4ceaf419a916848" title="file_create_ehash" alt="" coords="836,107,960,133"/>
+<area shape="rect" id="node6" href="$file__manager_8h.html#ac26203672282f7ce035695376bcfe3ca" title="file_create_ehash_dir" alt="" coords="825,157,971,184"/>
+<area shape="rect" id="node8" href="$file__manager_8h.html#a12556c033545ba1fd43da7be7c2f9d61" title="file_check_vpid" alt="" coords="421,132,533,159"/>
+<area shape="rect" id="node9" href="$file__manager_8h.html#a67263eaf010a14799dbb1527f9a1327d" title="file_dealloc" alt="" coords="434,183,521,209"/>
+<area shape="rect" id="node10" href="$file__manager_8c.html#a8c531d3096c6c1acc2d434bc9bcaa129" title="file_extdata_apply\l_funcs" alt="" coords="414,234,541,275"/>
+<area shape="rect" id="node11" href="$file__manager_8c.html#a69df34ca3f1e090985833e7142f6412e" title="file_extdata_find_and\l_remove_item" alt="" coords="617,351,762,393"/>
+<area shape="rect" id="node12" href="$file__manager_8c.html#abb6d1590ad949e436ad4d25ebdff424b" title="file_extdata_find_nth_vpid" alt="" coords="391,401,564,428"/>
+<area shape="rect" id="node13" href="$file__manager_8c.html#abd572a3cdba97d45f194793186be7d48" title="file_extdata_insert_at" alt="" coords="404,452,551,479"/>
+<area shape="rect" id="node14" href="$file__manager_8c.html#a7a29ad3d2fe61e18c723ee7e90719519" title="file_extdata_remove_at" alt="" coords="399,300,556,327"/>
+</map>

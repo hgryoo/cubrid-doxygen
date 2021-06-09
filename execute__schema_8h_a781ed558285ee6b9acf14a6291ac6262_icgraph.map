@@ -1,0 +1,9 @@
+<map id="do_recreate_func_index_constr" name="do_recreate_func_index_constr">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a03dbf8ec3962e323a7e7fdcd814c8ce3" title="do_alter_clause_change\l_attribute" alt="" coords="213,5,376,47"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#afaa7284d4b1251a4e20e4232705f1c3b" title="do_copy_indexes" alt="" coords="233,71,356,98"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a2bf3e5ef2f2a10e5650ca02e30858597" title="do_create_partition\l_constraint" alt="" coords="229,123,361,164"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#a117d19cbdb55baa5877f998a7c3e9310" title="do_recreate_renamed\l_class_indexes" alt="" coords="221,188,368,229"/>
+<area shape="rect" id="node7" href="$schema__manager_8c.html#ae946e6aefead200daf0e5ddbc5fcd417" title="sm_add_secondary_index\l_on_partition" alt="" coords="424,284,597,325"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="238,329,351,355"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a6544008aa1b341b93a0f8f80361f982f" title="do_alter" alt="" coords="477,13,545,39"/>
+</map>

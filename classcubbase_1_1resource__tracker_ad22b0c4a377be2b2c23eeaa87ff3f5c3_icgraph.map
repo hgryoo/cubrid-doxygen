@@ -1,0 +1,7 @@
+<map id="cubbase::resource_tracker::increment" name="cubbase::resource_tracker::increment">
+<area shape="rect" id="node2" href="$memory__alloc_8h.html#a4d50846166aa74ad4236a840d9ef9d01" title="db_private_alloc_debug" alt="" coords="404,31,563,57"/>
+<area shape="rect" id="node5" href="$memory__alloc_8h.html#a377f2d890a557f9ddbe01f8f305f5fcb" title="db_private_realloc\l_debug" alt="" coords="229,53,356,94"/>
+<area shape="rect" id="node6" href="$memory__alloc_8h.html#a90468d1f03d2f4aea23e7bd7b161fc0c" title="db_private_realloc\l_external" alt="" coords="420,97,547,138"/>
+<area shape="rect" id="node3" href="$memory__alloc_8h.html#a0022f15db6f4420cdcfdeba7882fa46f" title="db_destroy_private_heap" alt="" coords="612,5,779,32"/>
+<area shape="rect" id="node4" href="$memory__alloc_8h.html#a18ef468fd65007892876ac24d21b34f5" title="db_private_alloc_external" alt="" coords="611,56,780,83"/>
+</map>

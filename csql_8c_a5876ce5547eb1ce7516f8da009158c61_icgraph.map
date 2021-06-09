@@ -1,0 +1,12 @@
+<map id="csql_exit" name="csql_exit">
+<area shape="rect" id="node2" href="$csql_8h.html#ad943e40bc7dfda2191b3c6be8295b1c1" title="csql" alt="" coords="824,93,871,120"/>
+<area shape="rect" id="node5" href="$csql__support_8c.html#ab9e5ea814200ff2b303e3bc1e77ea3fc" title="csql_check_server_down" alt="" coords="128,144,297,171"/>
+<area shape="rect" id="node7" href="$csql_8c.html#a5a64da02076e414cb5f4ebdeb89248b4" title="start_csql" alt="" coords="697,220,776,247"/>
+<area shape="rect" id="node11" href="$csql_8c.html#a683c35075b379a8c2b9801cbc6a6bced" title="csql_exit_session" alt="" coords="511,296,637,323"/>
+<area shape="rect" id="node3" href="$csql__launcher_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="929,68,980,95"/>
+<area shape="rect" id="node4" href="$utility_8h.html#a782e5c7e88490d6faaf37d0c32511675" title="createdb" alt="" coords="919,119,991,145"/>
+<area shape="rect" id="node6" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="499,195,649,221"/>
+<area shape="rect" id="node8" href="$csql_8c.html#a192cd886b7f5ff7c78d6e1e0f91f8c6a" title="display_error" alt="" coords="350,93,446,120"/>
+<area shape="rect" id="node9" href="$csql__result_8c.html#aecdfca7c24bc3ed014f444d04f92ca25" title="csql_results" alt="" coords="352,144,444,171"/>
+<area shape="rect" id="node10" href="$csql__session_8c.html#a8d775d1f42719f3b0cf5379f2c1a28a5" title="csql_help_info" alt="" coords="345,195,451,221"/>
+</map>

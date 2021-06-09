@@ -1,0 +1,5 @@
+<map id="getmem_elo_with_type" name="getmem_elo_with_type">
+<area shape="rect" id="node2" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="380,14,520,56"/>
+<area shape="rect" id="node3" href="$object__primitive_8c.html#acb6e428d4388b94c3e1aa1a26f795f14" title="mr_getmem_blob" alt="" coords="209,22,332,48"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a3e1f6427952e1290e4fe8919e499d58e" title="mr_getmem_clob" alt="" coords="209,72,332,99"/>
+</map>

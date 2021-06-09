@@ -1,0 +1,13 @@
+<map id="pt_semantic_check" name="pt_semantic_check">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#ad22f2359217e110cbb0dc82891c25414" title="check_default_on_update\l_clause" alt="" coords="200,19,371,61"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="215,137,356,178"/>
+<area shape="rect" id="node7" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="226,203,345,229"/>
+<area shape="rect" id="node8" href="$execute__schema_8c.html#a38f878be1e2e058229cfef91516d5880" title="get_att_default_from_def" alt="" coords="202,85,369,112"/>
+<area shape="rect" id="node9" href="$semantic__check_8c.html#a24bc4f0a91e527103132bf36d7bbfca6" title="pt_check_create_entity" alt="" coords="669,329,827,356"/>
+<area shape="rect" id="node10" href="$semantic__check_8c.html#a2f72b1c989980fdf7907db4383e9f46d" title="pt_check_create_view" alt="" coords="450,304,602,331"/>
+<area shape="rect" id="node11" href="$semantic__check_8c.html#ad3fdd6cb586a725778ba7e2192129d28" title="pt_check_vclass_query_spec" alt="" coords="188,253,383,280"/>
+<area shape="rect" id="node12" href="$parser_8h.html#a60bdeaf2c9959a852a6b36a87905620a" title="pt_compile" alt="" coords="243,405,328,432"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#ac8eacd48feb9548404602a075d45b0a2" title="do_add_attribute" alt="" coords="467,5,585,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a4b5c1edbe844b65f680fa8eceaa5683e" title="do_change_att_schema_only" alt="" coords="431,56,621,83"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#ae2c6030d8ef2ca1dcc6d04266020dcef" title="check_change_attribute" alt="" coords="446,107,606,133"/>
+</map>

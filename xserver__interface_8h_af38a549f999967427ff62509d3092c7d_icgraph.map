@@ -1,0 +1,6 @@
+<map id="xboot_backup" name="xboot_backup">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a4063b720c7c3f62d788ba8ce6c1d6fe1" title="boot_backup" alt="" coords="159,5,255,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a74265f7323374cc4c532fc99a18fa443" title="sboot_backup" alt="" coords="156,56,259,83"/>
+<area shape="rect" id="node3" href="$utility_8h.html#acdc7722a7a0cb7dc07e151d7b82d0c15" title="backupdb" alt="" coords="321,5,399,32"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="307,56,413,83"/>
+</map>

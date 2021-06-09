@@ -1,0 +1,5 @@
+<map id="flag::is_set" name="flag::is_set">
+<area shape="rect" id="node2" href="$classlockfree_1_1circular__queue.html#a91ff7bcd4f296476d61b8449aa2df017" title="lockfree::circular\l_queue::unblock" alt="" coords="140,41,259,83"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1circular__queue.html#a5bc10051f1f711c2b86cdb48b3d3ffb9" title="lockfree::circular\l_queue::produce" alt="" coords="318,5,437,47"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1circular__queue.html#a0b1f31d419a8f907fec6efa87395355d" title="lockfree::circular\l_queue::init_blocked\l_cursors" alt="" coords="307,70,448,126"/>
+</map>

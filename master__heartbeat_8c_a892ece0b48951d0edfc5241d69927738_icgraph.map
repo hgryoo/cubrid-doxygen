@@ -1,0 +1,4 @@
+<map id="hb_is_heartbeat_valid" name="hb_is_heartbeat_valid">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#a90e86baa17c811cb595751e617b3db15" title="hb_cluster_receive\l_heartbeat" alt="" coords="201,5,332,47"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#a001ab4383bc49a72a06eff3e87a5a056" title="hb_thread_cluster_reader" alt="" coords="380,13,548,39"/>
+</map>

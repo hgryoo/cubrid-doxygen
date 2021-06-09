@@ -1,0 +1,18 @@
+<map id="classobj_make_class_constraints" name="classobj_make_class_constraints">
+<area shape="rect" id="node2" href="$class__object_8h.html#a76c9c4b8441bcfb9bb8bd95e49289dd6" title="classobj_cache_class\l_constraints" alt="" coords="209,140,359,181"/>
+<area shape="rect" id="node7" href="$schema__manager_8c.html#a94a5ab245d87fe80cc5e41e78cf18554" title="transfer_disk_structures" alt="" coords="663,273,825,299"/>
+<area shape="rect" id="node9" href="$schema__template_8h.html#ab51f553d1e53355523d765c1ea2e0ad4" title="smt_rename_any" alt="" coords="683,349,805,375"/>
+<area shape="rect" id="node10" href="$class__object_8h.html#a7703722447201ba90b4514d1ae28076a" title="classobj_copy_props" alt="" coords="212,501,356,527"/>
+<area shape="rect" id="node11" href="$schema__manager_8c.html#a6e76a4904bcf8892701103fa8cf2188c" title="flatten_properties" alt="" coords="453,501,575,527"/>
+<area shape="rect" id="node12" href="$schema__manager_8c.html#a5d83138572f99f63b95bd21fa9ef0fec" title="collect_hier_class_info" alt="" coords="207,602,361,629"/>
+<area shape="rect" id="node13" href="$schema__manager_8c.html#a2577f4a162fc4eb1eac765f7383139b2" title="filter_local_constraints" alt="" coords="208,551,360,578"/>
+<area shape="rect" id="node14" href="$schema__template_8c.html#a453a9bee53daaced438ced16a81bba5d" title="smt_check_foreign_key" alt="" coords="204,653,364,679"/>
+<area shape="rect" id="node15" href="$schema__template_8h.html#a5c1c56350170f2623d55a028ba1d0faa" title="smt_check_index_exist" alt="" coords="205,703,363,730"/>
+<area shape="rect" id="node16" href="$schema__template_8c.html#a5414a2058077307c2aefdb7ebdb67bf6" title="smt_find_owner_of_constraint" alt="" coords="416,349,612,375"/>
+<area shape="rect" id="node17" href="$schema__manager_8c.html#ad976623d2bf1138f7d4da0acc8061e5d" title="update_fk_ref_partitioned\l_class" alt="" coords="200,755,368,796"/>
+<area shape="rect" id="node3" href="$class__object_8h.html#ae2536afefe1d187d8bc736a97dc1675c" title="classobj_fixup_loaded\l_class" alt="" coords="439,5,589,47"/>
+<area shape="rect" id="node4" href="$class__object_8h.html#a3220191cf2a26a22f94e71692b1a5032" title="classobj_install_template" alt="" coords="660,42,828,69"/>
+<area shape="rect" id="node5" href="$schema__manager_8c.html#a03dd3817bfa2054e8de4857679583815" title="allocate_disk_structures" alt="" coords="433,173,595,199"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="457,247,571,274"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#a46905b698e1a61916384860ef3f740ce" title="sm_drop_index" alt="" coords="689,167,799,194"/>
+</map>

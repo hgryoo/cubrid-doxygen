@@ -1,0 +1,5 @@
+<map id="pruningset_intersect" name="pruningset_intersect">
+<area shape="rect" id="node2" href="$partition_8c.html#a326bd70bfeeaf432f310c564e0a26c44" title="partition_match_key\l_range" alt="" coords="210,5,349,47"/>
+<area shape="rect" id="node4" href="$partition_8c.html#a76ec3a19d459a681ec9409a505776c43" title="partition_match_pred_expr" alt="" coords="192,71,367,98"/>
+<area shape="rect" id="node3" href="$partition_8c.html#a066dd321eb39153884fd55a1193384a9" title="partition_match_index_key" alt="" coords="415,13,592,39"/>
+</map>

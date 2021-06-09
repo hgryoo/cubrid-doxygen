@@ -1,0 +1,21 @@
+<map id="pgbuf_check_bcb_page_vpid" name="pgbuf_check_bcb_page_vpid">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a6ebdf1006f6b5bb49a3fc4c4f8f75e31" title="pgbuf_bcb_flush_with_wal" alt="" coords="244,101,419,127"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a8fcb9f06c911dd15ea90ac6691edbbbf" title="pgbuf_check_page_ptype\l_internal" alt="" coords="246,291,417,332"/>
+<area shape="rect" id="node12" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="273,189,390,215"/>
+<area shape="rect" id="node13" href="$page__buffer_8h.html#add423e5b0a2a154224d4ab7810fc0e6a" title="pgbuf_get_page_id" alt="" coords="490,407,621,434"/>
+<area shape="rect" id="node18" href="$page__buffer_8h.html#a17e80064f8a2c4ca732039acf0391249" title="pgbuf_get_page_ptype" alt="" coords="255,239,408,266"/>
+<area shape="rect" id="node19" href="$page__buffer_8h.html#a087e0ba35d14f58979e47ce998f2bcb1" title="pgbuf_set_page_ptype" alt="" coords="255,407,408,434"/>
+<area shape="rect" id="node20" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="248,459,415,500"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a7b2dfb96a20574b1b57312f01a840fbe" title="pgbuf_bcb_safe_flush\l_internal" alt="" coords="481,5,630,47"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a9575052dd0e19e22fba169b20a566af8" title="pgbuf_flush_neighbor_safe" alt="" coords="467,71,644,98"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="490,123,621,164"/>
+<area shape="rect" id="node7" href="$page__buffer_8h.html#a252162afe06ed982b16541a422f59e82" title="pgbuf_check_page_ptype" alt="" coords="470,357,641,383"/>
+<area shape="rect" id="node11" href="$page__buffer_8h.html#a0febe49d4aa6519e93d9642d296596b6" title="pgbuf_check_page_type\l_no_error" alt="" coords="474,291,637,332"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#a5bb5d09f056ffe72a3986544ac12e4f1" title="heap_rv_redo_reuse_page" alt="" coords="693,357,868,383"/>
+<area shape="rect" id="node9" href="$heap__file_8c.html#a3329393383b9a92ce790befa0b562618" title="heap_find_location\l_and_insert_rec_newhome" alt="" coords="692,291,869,332"/>
+<area shape="rect" id="node10" href="$page__buffer_8h.html#afe78724b7abcc4efb6d4b28c49a46ebc" title="pgbuf_ordered_fix_debug" alt="" coords="697,239,864,266"/>
+<area shape="rect" id="node14" href="$heap__file_8h.html#a22d95c7a19a0fd86f2f835d0bd6f6b6a" title="heap_get_mvcc_header" alt="" coords="701,458,861,485"/>
+<area shape="rect" id="node15" href="$heap__file_8c.html#ae992651fa819e40b4a7958f333640ae4" title="heap_chkreloc_next" alt="" coords="711,509,850,535"/>
+<area shape="rect" id="node16" href="$heap__file_8c.html#acdbe82c4e3f3d9c4a543094ff6d27311" title="heap_get_insert_location\l_with_lock" alt="" coords="697,560,864,601"/>
+<area shape="rect" id="node17" href="$slotted__page_8c.html#a20bfc1211d4d973c33438a590775b924" title="spage_take_slot_in_use" alt="" coords="699,407,862,434"/>
+</map>

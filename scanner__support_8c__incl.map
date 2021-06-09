@@ -1,0 +1,13 @@
+<map id="src/parser/scanner_support.c" name="src/parser/scanner_support.c">
+<area shape="rect" id="node4" href="$porting_8h.html" title="porting.h" alt="" coords="5,169,77,196"/>
+<area shape="rect" id="node5" href="$parser__message_8h.html" title="parser_message.h" alt="" coords="185,95,314,121"/>
+<area shape="rect" id="node6" href="$parser_8h.html" title="parser.h" alt="" coords="339,95,408,121"/>
+<area shape="rect" id="node12" href="$chartype_8h.html" title="chartype.h" alt="" coords="432,95,515,121"/>
+<area shape="rect" id="node13" href="$language__support_8h.html" title="language_support.h" alt="" coords="815,95,950,121"/>
+<area shape="rect" id="node14" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="786,169,886,196"/>
+<area shape="rect" id="node16" href="$csql__grammar__scan_8h.html" title="csql_grammar_scan.h" alt="" coords="641,95,791,121"/>
+<area shape="rect" id="node17" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="600,169,715,196"/>
+<area shape="rect" id="node18" href="$misc__string_8h.html" title="misc_string.h" alt="" coords="974,95,1074,121"/>
+<area shape="rect" id="node10" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="609,244,706,271"/>
+<area shape="rect" id="node11" href="$parse__tree_8h.html" title="parse_tree.h" alt="" coords="185,169,279,196"/>
+</map>

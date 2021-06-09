@@ -1,0 +1,21 @@
+<map id="thread_wakeup_already_had_mutex" name="thread_wakeup_already_had_mutex">
+<area shape="rect" id="node2" href="$connection__sr_8c.html#ab5a30720e8eb9812b4110d8893231655" title="css_free_wait_queue\l_entry" alt="" coords="409,156,555,197"/>
+<area shape="rect" id="node5" href="$connection__sr_8c.html#a7b14f5dcb61f10200379c033f8d47156" title="css_queue_packet" alt="" coords="870,171,1001,198"/>
+<area shape="rect" id="node7" href="$server__support_8c.html#affa283d6ed08e3f1ecb10e54833154f4" title="css_stop_non_log_writer" alt="" coords="399,222,565,248"/>
+<area shape="rect" id="node9" href="$double__write__buffer_8c.html#ad9e145e1ebb67b00cdff7dc617a94c16" title="dwb_signal_waiting\l_thread" alt="" coords="415,273,549,314"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="403,390,561,432"/>
+<area shape="rect" id="node12" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="404,456,560,483"/>
+<area shape="rect" id="node13" href="$page__buffer_8c.html#aacfdde3e346ff6e9ecf80711fbcf3285" title="pgbuf_assign_direct\l_victim" alt="" coords="413,512,551,553"/>
+<area shape="rect" id="node20" href="$thread__entry_8hpp.html#ae4aec9f0db38ca8a9c9ecfef70b13c41" title="thread_unlock_entry" alt="" coords="212,338,351,364"/>
+<area shape="rect" id="node3" href="$connection__sr_8c.html#af071f6e6432663f8ed4c61c8605fb748" title="clear_wait_queue_entry\l_and_free_buffer" alt="" coords="629,105,788,146"/>
+<area shape="rect" id="node4" href="$connection__sr_8c.html#acca77d961ddea1869c0f9c1b7058e8d6" title="css_queue_data_packet" alt="" coords="627,171,790,198"/>
+<area shape="rect" id="node6" href="$connection__sr_8c.html#a76266027214c0261af26a2377f99d7d3" title="css_remove_and_free\l_wait_queue_entry" alt="" coords="633,40,784,81"/>
+<area shape="rect" id="node8" href="$server__support_8c.html#ad9793b78930d95c3ef58cfec55f490df" title="css_stop_all_workers" alt="" coords="635,222,783,248"/>
+<area shape="rect" id="node10" href="$double__write__buffer_8c.html#a56c95efd3338a9c6905b76749cbb76e8" title="dwb_signal_waiting\l_threads" alt="" coords="641,273,776,314"/>
+<area shape="rect" id="node14" href="$page__buffer_8c.html#a7ef66aad01f8e682d9ce69bce1988bbd" title="pgbuf_get_victim_candidates\l_from_lru" alt="" coords="613,573,804,614"/>
+<area shape="rect" id="node15" href="$page__buffer_8c.html#a7cc1c686b4d3e0a9de41d12d4bfa26b7" title="pgbuf_get_victim_from\l_lru_list" alt="" coords="631,638,786,680"/>
+<area shape="rect" id="node16" href="$page__buffer_8c.html#abaa51159b1cd1415ea6c06976a4c232f" title="pgbuf_lru_add_new_bcb\l_to_bottom" alt="" coords="627,704,790,745"/>
+<area shape="rect" id="node17" href="$page__buffer_8c.html#afefe190b536faf7fecddcd0bff83e6e7" title="pgbuf_lru_fall_bcb\l_to_zone_3" alt="" coords="645,390,772,432"/>
+<area shape="rect" id="node18" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="852,485,1019,526"/>
+<area shape="rect" id="node19" href="$page__buffer_8c.html#af1d28b14d0180489e3ec532a4dbf54d6" title="pgbuf_unlatch_void\l_zone_bcb" alt="" coords="641,456,776,497"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="lang_get_txt_conv" name="lang_get_txt_conv">
+<area shape="rect" id="node2" href="$intl__support_8h.html#a2f0b799390fcb82b5bdf1358774f046d" title="intl_text_dbcs_to_utf8" alt="" coords="200,5,351,32"/>
+<area shape="rect" id="node4" href="$intl__support_8h.html#a6d710b689134dc290675d7752e0b7b1a" title="intl_text_single_byte\l_to_utf8" alt="" coords="205,57,346,98"/>
+<area shape="rect" id="node5" href="$intl__support_8h.html#a6f737e6b58b6e9ee08670d1cf720565c" title="intl_text_utf8_to_dbcs" alt="" coords="200,123,351,149"/>
+<area shape="rect" id="node6" href="$intl__support_8h.html#a7b3e276e33cc656d2e0c0fd5303d43ca" title="intl_text_utf8_to_single_byte" alt="" coords="181,173,369,200"/>
+<area shape="rect" id="node7" href="$csql_8c.html#a5a64da02076e414cb5f4ebdeb89248b4" title="start_csql" alt="" coords="236,224,315,251"/>
+<area shape="rect" id="node3" href="$language__support_8c.html#ae455bef4c810e301896b3ae6c3c83c55" title="init_user_locales" alt="" coords="417,93,536,120"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="lockfree::hashmap&lt; Key, T &gt;::freelist_node_data" name="lockfree::hashmap&lt; Key, T &gt;::freelist_node_data">
+<area shape="rect" id="node2" href="$structlf__entry__descriptor.html" title="{lf_entry_descriptor\n|+ of_local_next\l+ of_next\l+ of_del_tran_id\l+ of_key\l+ of_mutex\l+ using_mutex\l+ f_alloc\l+ f_free\l+ f_init\l+ f_uninit\l+ f_key_copy\l+ f_key_cmp\l+ f_hash\l+ f_duplicate\l|}" alt="" coords="19,5,148,273"/>
+</map>

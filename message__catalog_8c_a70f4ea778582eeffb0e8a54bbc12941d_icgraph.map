@@ -1,0 +1,21 @@
+<map id="msgcat_gets" name="msgcat_gets">
+<area shape="rect" id="node2" href="$error__manager_8h.html#aefbe440effda7544df457fb8ed2eef51" title="er_init" alt="" coords="324,427,381,453"/>
+<area shape="rect" id="node20" href="$message__catalog_8h.html#a14ddcfb2d878994f50c3b6849f668e37" title="msgcat_message" alt="" coords="151,528,276,555"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a41432d6c390710a31b7362a3507ba711" title="acldb" alt="" coords="477,5,530,32"/>
+<area shape="rect" id="node4" href="$utility_8h.html#a6eee0780c64ebd6cc83ede414f3b89c8" title="addvoldb" alt="" coords="466,56,541,83"/>
+<area shape="rect" id="node5" href="$utility_8h.html#a24cb82c7693b92a6eb14285a1f9a89e3" title="alterdbhost" alt="" coords="460,107,547,133"/>
+<area shape="rect" id="node6" href="$utility_8h.html#a1121acb4378516c4bfd22d8533d4178a" title="applyinfo" alt="" coords="466,157,541,184"/>
+<area shape="rect" id="node7" href="$utility_8h.html#aa7a280251cdf100c28e06298f181b584" title="applylogdb" alt="" coords="461,477,545,504"/>
+<area shape="rect" id="node8" href="$utility_8h.html#acdc7722a7a0cb7dc07e151d7b82d0c15" title="backupdb" alt="" coords="464,528,543,555"/>
+<area shape="rect" id="node9" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="439,309,568,336"/>
+<area shape="rect" id="node10" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="436,579,571,605"/>
+<area shape="rect" id="node11" href="$boot__cl_8c.html#aad79151cb08126366c53b243fbccafbb" title="boot_shutdown_client\l_at_exit" alt="" coords="429,361,577,402"/>
+<area shape="rect" id="node12" href="$cas_8c.html#a860d9ee786081f5655e997ed55d494e8" title="cas_main" alt="" coords="464,427,543,453"/>
+<area shape="rect" id="node13" href="$utility_8h.html#adb342b09bb32721302a0c5fd9b041b65" title="changemode" alt="" coords="455,629,551,656"/>
+<area shape="rect" id="node14" href="$utility_8h.html#ac06f1222f77817f8a2c5cec94152102b" title="checkdb" alt="" coords="468,680,539,707"/>
+<area shape="rect" id="node15" href="$utility_8h.html#a17e5e9027694b5ebcafb93de6b62544f" title="checksumdb" alt="" coords="455,731,551,757"/>
+<area shape="rect" id="node16" href="$utility_8h.html#a007cc0b03b360bba3ad584107baba295" title="copydb" alt="" coords="471,781,535,808"/>
+<area shape="rect" id="node17" href="$utility_8h.html#a420bc9b6c5022fb8468f60f634bd2ac0" title="copylogdb" alt="" coords="463,832,544,859"/>
+<area shape="rect" id="node18" href="$utility_8h.html#a782e5c7e88490d6faaf37d0c32511675" title="createdb" alt="" coords="625,259,697,285"/>
+<area shape="rect" id="node19" href="$csql_8h.html#ad943e40bc7dfda2191b3c6be8295b1c1" title="csql" alt="" coords="480,259,527,285"/>
+</map>

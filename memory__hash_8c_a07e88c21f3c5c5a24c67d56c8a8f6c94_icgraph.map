@@ -1,0 +1,21 @@
+<map id="mht_calculate_htsize" name="mht_calculate_htsize">
+<area shape="rect" id="node2" href="$memory__hash_8h.html#a7b3a79a9b238f019bc78e4c6bbbf539a" title="mht_create" alt="" coords="211,428,297,455"/>
+<area shape="rect" id="node19" href="$memory__hash_8h.html#a4e7b1fbfde9ed464e0cadad76d4e181e" title="mht_create_hls" alt="" coords="199,479,309,505"/>
+<area shape="rect" id="node20" href="$memory__hash_8c.html#a6e939e669a387d7071ac1b4466a11b8b" title="mht_rehash" alt="" coords="209,529,299,556"/>
+<area shape="rect" id="node3" href="$error__manager_8c.html#a1386dba61dd07f68ed3214124cfc2fcf" title="er_call_stack_init" alt="" coords="386,5,509,32"/>
+<area shape="rect" id="node4" href="$shard__statement_8h.html#af77fe89a17aa1d70f2c3484b5ad5b548" title="shard_stmt_initialize" alt="" coords="377,56,518,83"/>
+<area shape="rect" id="node5" href="$unittests__snapshot_8c.html#acefdd54e934f99584cb80f438c4c5795" title="logtb_initialize_tdes\l_for_mvcc_testing" alt="" coords="379,107,515,149"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#a72f1dcb1d7aade1a9d3a0988ac081206" title="tr_init" alt="" coords="420,173,475,200"/>
+<area shape="rect" id="node7" href="$work__space_8h.html#a7f356c42f2ee46cc4ff3f8cd9a06f0f7" title="ws_init" alt="" coords="416,224,479,251"/>
+<area shape="rect" id="node8" href="$name__resolution_8c.html#a39d82df2f4483cbce5f6f6fb064469be" title="pt_make_subclass_list" alt="" coords="370,275,525,301"/>
+<area shape="rect" id="node9" href="$parse__evaluate_8c.html#ac38bf10ba27dc32abcb58f7de1ba0f58" title="pt_associate_label\l_with_value" alt="" coords="382,326,513,367"/>
+<area shape="rect" id="node10" href="$list__file_8h.html#af7add2e6af06ebc6cfe4c1f0c989513f" title="qfile_initialize_list\l_cache" alt="" coords="385,391,509,433"/>
+<area shape="rect" id="node11" href="$partition__sr_8h.html#a09bc594af4326653f6d3e64a1ba4e319" title="partition_cache_init" alt="" coords="380,457,515,484"/>
+<area shape="rect" id="node12" href="$query__executor_8c.html#af5f9520767bb565b883b5b96fe41bd39" title="qexec_alloc_agg_hash\l_context" alt="" coords="370,509,525,550"/>
+<area shape="rect" id="node13" href="$serial_8h.html#aeac3d01d696bc5d57030cae77e38eb58" title="serial_initialize_cache_pool" alt="" coords="357,575,537,601"/>
+<area shape="rect" id="node14" href="$catalog__class_8c.html#afd4aaf02e4327588eeb7d9ddf842531a" title="catcls_initialize_class\l_oid_to_oid_hash_table" alt="" coords="368,626,527,667"/>
+<area shape="rect" id="node15" href="$heap__file_8c.html#a8f66c7ca2e74dffde318cba3280a340b" title="heap_chkreloc_start" alt="" coords="378,692,517,719"/>
+<area shape="rect" id="node16" href="$heap__file_8c.html#a703d3215a6e96a95b300fdf291e1e8f6" title="heap_chnguess_initialize" alt="" coords="364,743,531,769"/>
+<area shape="rect" id="node17" href="$heap__file_8c.html#ae964f616d8572d31c9fcec0926240bdb" title="heap_stats_bestspace\l_initialize" alt="" coords="371,794,524,835"/>
+<area shape="rect" id="node18" href="$page__buffer_8c.html#a1efe41710dad75ef89dc6b45481ebeb4" title="pgbuf_initialize_aout_list" alt="" coords="365,860,529,887"/>
+</map>

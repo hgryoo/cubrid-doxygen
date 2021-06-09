@@ -1,0 +1,15 @@
+<map id="LOG_RESET_APPEND_LSA" name="LOG_RESET_APPEND_LSA">
+<area shape="rect" id="node2" href="$log__manager_8c.html#a10b1531de945222c7f6e61d99db281b2" title="log_find_end_log" alt="" coords="265,5,383,32"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="1212,157,1355,184"/>
+<area shape="rect" id="node8" href="$log__recovery_8c.html#afd45fb1ef67df793b067695e37d91623" title="log_recovery_analysis" alt="" coords="869,157,1020,184"/>
+<area shape="rect" id="node10" href="$log__recovery_8c.html#a6e4cb0fa20df20ef22e01e5bae16b885" title="log_recovery_resetlog" alt="" coords="249,157,399,184"/>
+<area shape="rect" id="node13" href="$log__recovery_8c.html#a541c101e110ab8f58ef4e618a678edfd" title="log_rv_analysis_log_end" alt="" coords="451,259,615,285"/>
+<area shape="rect" id="node14" href="$log__page__buffer_8c.html#a2e4a0eee53c67888cd1625c9884ff350" title="logpb_fetch_header" alt="" coords="677,284,811,311"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#af70d0e6ef6233c296087a8a4c7b26843" title="xlog_dump" alt="" coords="490,5,575,32"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a95f060b401ef97e5ff9be51b7a304a5b" title="log_initialize" alt="" coords="1433,107,1527,133"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a425ed5fad08e748df89edfd0350986f9" title="log_restart_emergency" alt="" coords="1403,157,1557,184"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="1433,208,1527,235"/>
+<area shape="rect" id="node9" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="1068,157,1164,184"/>
+<area shape="rect" id="node11" href="$log__recovery_8c.html#a57545124a0b490108e49a8ca77acf2d7" title="log_rv_analysis_complete" alt="" coords="447,208,619,235"/>
+<area shape="rect" id="node12" href="$log__recovery_8c.html#ac171971a3d45b8f97159ace9995bb21e" title="log_rv_analysis_record" alt="" coords="667,208,821,235"/>
+</map>

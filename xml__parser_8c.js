@@ -1,0 +1,37 @@
+var xml__parser_8c =
+[
+    [ "IS_XML_ROOT", "xml__parser_8c.html#a71eb15714a7add5249417d95a9ef6469", null ],
+    [ "XML_READ_BUFFSIZE", "xml__parser_8c.html#aab3a46acb500436c6018aace83c4e4ee", null ],
+    [ "XML_ROOT_DEPTH", "xml__parser_8c.html#ad9fa083dc6aa36338d65ea14f03192b1", null ],
+    [ "XML_INS_POS", "xml__parser_8c.html#a331ea0c5ae09af0506024bdd923a4d2e", [
+      [ "XML_INS_POS_UNDEF", "xml__parser_8c.html#a331ea0c5ae09af0506024bdd923a4d2ea16799fb6fce6bdb447c233c43e9be199", null ],
+      [ "XML_INS_POS_AFTER", "xml__parser_8c.html#a331ea0c5ae09af0506024bdd923a4d2ea8be0efdacbb213107a51d327c7339804", null ],
+      [ "XML_INS_POS_BEFORE", "xml__parser_8c.html#a331ea0c5ae09af0506024bdd923a4d2eaaa8247a319ef0e7fdadbf774524c2a55", null ]
+    ] ],
+    [ "add_xml_element", "xml__parser_8c.html#aa936266fdc5a2c142b308c8cb80170d1", null ],
+    [ "check_xml_elem_name", "xml__parser_8c.html#a1d7ad4d2b5cb9d9006af25c15e7bd2d8", null ],
+    [ "create_xml_node", "xml__parser_8c.html#ae5f16c963dc720a25fd804cfa4e853a0", null ],
+    [ "get_elem_path_token_at", "xml__parser_8c.html#a4a284e933b75b71019f7259089b8bfe2", null ],
+    [ "get_short_elem_name", "xml__parser_8c.html#a3414597344eb262f55f769a886ed0546", null ],
+    [ "select_xml_branch_node", "xml__parser_8c.html#a04a80617568f9ce146dad99ace12b6ab", null ],
+    [ "select_xml_node_for_ins", "xml__parser_8c.html#af100e2a3d6887572396f65f23c13e854", null ],
+    [ "xml_check_att_value", "xml__parser_8c.html#a8cb14562e01e44eb0429eac163cc7039", null ],
+    [ "xml_check_include_loop", "xml__parser_8c.html#a626ddad5c378f730f6d6dcdcfc9bbd81", null ],
+    [ "xml_clone_node", "xml__parser_8c.html#a2f39afead41e36ef4e5396264289d832", null ],
+    [ "xml_copy_schema_tree", "xml__parser_8c.html#a7a5e7e3ec59c55e1341a3c85b0586df2", null ],
+    [ "xml_create_subparser", "xml__parser_8c.html#a9d970faa8ab34cb37ee00ac3aca1358e", null ],
+    [ "xml_data_handler", "xml__parser_8c.html#a5ddc70360dd980d0d1989f6dd771ccdc", null ],
+    [ "xml_destroy_parser", "xml__parser_8c.html#ac18408d3370337802ed51698aaf13b96", null ],
+    [ "xml_destroy_parser_data", "xml__parser_8c.html#a1351f795bc1df0496c093b91be75fafe", null ],
+    [ "xml_destroy_schema_tree", "xml__parser_8c.html#ae3b1b17e726ea990cedc6d9707d5aad1", null ],
+    [ "xml_elem_end", "xml__parser_8c.html#ae23e934aff98806ef0d9b212fe40185d", null ],
+    [ "xml_elem_start", "xml__parser_8c.html#a9929b52c5a612c2abe586546fca2d348", null ],
+    [ "xml_get_att_value", "xml__parser_8c.html#a62b51f0c48d16f544e42a3a5f8604d16", null ],
+    [ "xml_header_validation_utf8", "xml__parser_8c.html#acfd55854746093b32fbeb99d155c89c9", null ],
+    [ "xml_init_parser", "xml__parser_8c.html#abd4dbfe8c81328762779025d436db86d", null ],
+    [ "xml_init_parser_common", "xml__parser_8c.html#a449354fcd5828145708a244f161a5920", null ],
+    [ "xml_init_schema_tree", "xml__parser_8c.html#ad9901aa8fed0f163c180ef8646393f09", null ],
+    [ "xml_parse", "xml__parser_8c.html#a7d4687fc3ffbd95eb6318d619ac912ca", null ],
+    [ "xml_parser_exec", "xml__parser_8c.html#abc6d184808987975c080e7301337d377", null ],
+    [ "xml_elem_XML", "xml__parser_8c.html#a76a74c04ecb7c2683044c0524384bbc1", null ]
+];

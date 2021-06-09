@@ -1,0 +1,5 @@
+<map id="shard_cqueue_dequeue" name="shard_cqueue_dequeue">
+<area shape="rect" id="node2" href="$shard__proxy__io_8c.html#a6bf591c36c1a792f109acc21529a47f5" title="proxy_client_io_new" alt="" coords="395,13,535,39"/>
+<area shape="rect" id="node4" href="$shard__proxy__handler_8h.html#ab3b7dbc74c3d6cf94ce046a4fcfaa1db" title="proxy_context_new" alt="" coords="212,38,347,65"/>
+<area shape="rect" id="node3" href="$shard__proxy__io_8c.html#ae75f048fbcfb22da57966d53b574bc38" title="proxy_socket_io_new\l_client" alt="" coords="583,5,731,47"/>
+</map>

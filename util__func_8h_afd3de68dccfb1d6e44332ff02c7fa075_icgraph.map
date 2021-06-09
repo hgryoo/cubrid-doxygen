@@ -1,0 +1,6 @@
+<map id="util_disarm_signal_handlers" name="util_disarm_signal_handlers">
+<area shape="rect" id="node2" href="$util__func_8h.html#a23511860584173eb7ec5b74c00e3a613" title="util_arm_signal_handlers" alt="" coords="180,56,345,83"/>
+<area shape="rect" id="node3" href="$load__db_8c.html#a5671984042276ef3b0d96e39f9f1f02b" title="ldr_exec_query_from_file" alt="" coords="393,5,560,32"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8hpp.html#a05e2ff26121a9a79da4a401c07cd5430" title="ldr_sa_load" alt="" coords="433,56,521,83"/>
+<area shape="rect" id="node5" href="$load__db_8c.html#a85b04c28baf55011413127255548b77c" title="register_signal_handlers" alt="" coords="395,107,558,133"/>
+</map>

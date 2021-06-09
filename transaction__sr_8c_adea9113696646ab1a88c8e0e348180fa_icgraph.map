@@ -1,0 +1,5 @@
+<map id="xtran_lock_rep_read" name="xtran_lock_rep_read">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#a620f79b8a510f629de75a91353258a62" title="slocator_find_lockhint\l_class_oids" alt="" coords="192,5,340,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a7c1c8209c4552e78a29cac5e35570afd" title="stran_lock_rep_read" alt="" coords="197,71,335,98"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="388,42,495,69"/>
+</map>

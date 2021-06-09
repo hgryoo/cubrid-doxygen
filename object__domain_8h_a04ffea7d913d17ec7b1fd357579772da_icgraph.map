@@ -1,0 +1,11 @@
+<map id="tp_domain_resolve" name="tp_domain_resolve">
+<area shape="rect" id="node2" href="$btree__load_8h.html#a361d7113292124710ae14f68a7d55b53" title="btree_generate_prefix\l_domain" alt="" coords="199,49,346,90"/>
+<area shape="rect" id="node6" href="$semantic__check_8c.html#afab59b9d3dce837b4c095111e8506c88" title="pt_assignment_compatible" alt="" coords="184,115,361,141"/>
+<area shape="rect" id="node7" href="$name__resolution_8c.html#ad0c49a8d0a076e2313381c33a122d907" title="pt_bind_reserved_name" alt="" coords="193,165,353,192"/>
+<area shape="rect" id="node8" href="$name__resolution_8c.html#a875e2ebca8d7ddbdfc62b1dd6e2a9aea" title="pt_resolve_star_reserved\l_names" alt="" coords="189,217,357,258"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#ae115559464c7b24184e599859c2590f8" title="pt_to_index_info" alt="" coords="214,283,331,309"/>
+<area shape="rect" id="node10" href="$query__executor_8c.html#ad3cbf827ba4bda1771f279c6e4c80302" title="qexec_resolve_domains\l_for_aggregation" alt="" coords="191,334,354,375"/>
+<area shape="rect" id="node3" href="$btree__load_8h.html#a873a8121dd7ec1da514c239aacf97e99" title="btree_glean_root_header_info" alt="" coords="409,5,601,32"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="442,56,569,83"/>
+<area shape="rect" id="node5" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="440,107,571,149"/>
+</map>

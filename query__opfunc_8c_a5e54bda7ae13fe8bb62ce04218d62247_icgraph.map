@@ -1,0 +1,9 @@
+<map id="qdata_add_bigint_to_utime_asymmetry" name="qdata_add_bigint_to_utime_asymmetry">
+<area shape="rect" id="node2" href="$query__opfunc_8c.html#a42a19572b1aadbd84723625d0b89c91f" title="qdata_add_bigint_to_date" alt="" coords="192,107,363,134"/>
+<area shape="rect" id="node5" href="$query__opfunc_8c.html#a8477389dec645616e3bc9b32c6587b9b" title="qdata_add_bigint_to\l_timestamptz" alt="" coords="208,41,347,83"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#ad7eb5badeb9ab02b96e334e1d0dc3e22" title="qdata_add_bigint_to\l_utime" alt="" coords="208,159,347,200"/>
+<area shape="rect" id="node3" href="$query__opfunc_8c.html#aaa4fc64a3aae2f00688cccdae601613f" title="qdata_add_bigint_to\l_dbval" alt="" coords="427,71,565,112"/>
+<area shape="rect" id="node4" href="$query__opfunc_8c.html#a7b1c4facc96d90122888d28a06a927f2" title="qdata_add_date_to_dbval" alt="" coords="411,137,581,163"/>
+<area shape="rect" id="node6" href="$query__opfunc_8c.html#a927652a53714429f11f67ba9be24c0f3" title="qdata_add_timestamptz\l_to_dbval" alt="" coords="415,5,577,47"/>
+<area shape="rect" id="node8" href="$query__opfunc_8c.html#a0eb805b64d080bc8ceec1fd0c94815da" title="qdata_add_utime_to\l_dbval" alt="" coords="427,188,565,229"/>
+</map>

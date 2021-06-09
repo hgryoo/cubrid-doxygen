@@ -1,0 +1,5 @@
+<map id="numeric_init_pow_of_10_helper" name="numeric_init_pow_of_10_helper">
+<area shape="rect" id="node2" href="$numeric__opfunc_8c.html#a2175112a0ebad05117af9527649658d9" title="numeric_get_pow_of_10" alt="" coords="195,42,357,69"/>
+<area shape="rect" id="node3" href="$numeric__opfunc_8h.html#a047b26a933d0a5a7c76cf8284ccc202b" title="numeric_coerce_num\l_to_bigint" alt="" coords="405,5,552,47"/>
+<area shape="rect" id="node4" href="$numeric__opfunc_8c.html#a64ba3935bc690474fb14a2e83e6e755f" title="numeric_overflow" alt="" coords="417,71,541,98"/>
+</map>

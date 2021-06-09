@@ -1,0 +1,6 @@
+<map id="xtran_server_get_global_tran_info" name="xtran_server_get_global_tran_info">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#aee10228c6ddae81d012de566ed302a82" title="stran_server_get_global\l_tran_info" alt="" coords="213,5,373,47"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a479bb655e51bb799abda0a644df31886" title="tran_server_get_global\l_tran_info" alt="" coords="217,71,370,112"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="451,13,558,39"/>
+<area shape="rect" id="node5" href="$transaction__cl_8h.html#ad321f00a277e92bd46776256b27f4bf6" title="tran_get_global_tran_info" alt="" coords="421,78,588,105"/>
+</map>

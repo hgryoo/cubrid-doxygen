@@ -1,0 +1,15 @@
+<map id="spage_set_slot" name="spage_set_slot">
+<area shape="rect" id="node2" href="$slotted__page_8c.html#ac33b090f83b5b1e95199906eb3cbe369" title="spage_add_new_slot" alt="" coords="170,5,314,32"/>
+<area shape="rect" id="node3" href="$slotted__page_8c.html#a0461d050a2a7df8f932f2f2929578d7f" title="spage_find_empty_slot_at" alt="" coords="579,56,753,83"/>
+<area shape="rect" id="node4" href="$slotted__page_8c.html#abbb2d30b5a8ab594f64f968c25fc5b60" title="spage_find_empty_slot" alt="" coords="164,169,320,196"/>
+<area shape="rect" id="node7" href="$slotted__page_8c.html#ad885c58f064c307c6d5927fb7fb62155" title="spage_reduce_a_slot" alt="" coords="169,271,315,297"/>
+<area shape="rect" id="node10" href="$slotted__page_8c.html#a6d60c4bcd7c67bbb77ded3a6254cd6dc" title="spage_shift_slot_down" alt="" coords="165,220,319,247"/>
+<area shape="rect" id="node11" href="$slotted__page_8c.html#a13c871504d6df8e56fcc94d444c63504" title="spage_shift_slot_up" alt="" coords="173,321,311,348"/>
+<area shape="rect" id="node13" href="$slotted__page_8c.html#a493ecd5f1f20fc0cfdfe05580ec3d2b5" title="spage_update_record\l_after_compact" alt="" coords="169,373,315,414"/>
+<area shape="rect" id="node5" href="$slotted__page_8c.html#a7743951007c39122cd9abb306cad75a0" title="spage_find_slot_for\l_insert" alt="" coords="382,107,517,149"/>
+<area shape="rect" id="node6" href="$slotted__page_8h.html#ab68d38c29c234969d85ddb87ddad1cfb" title="spage_split" alt="" coords="405,173,493,200"/>
+<area shape="rect" id="node8" href="$slotted__page_8h.html#afd65f125e45ecee4ba04b6063c18bced" title="spage_delete" alt="" coords="400,224,499,251"/>
+<area shape="rect" id="node9" href="$slotted__page_8h.html#a6037bd413b86972cd0d7d05884d8d319" title="spage_reclaim" alt="" coords="396,275,503,301"/>
+<area shape="rect" id="node12" href="$slotted__page_8c.html#a20bfc1211d4d973c33438a590775b924" title="spage_take_slot_in_use" alt="" coords="368,325,531,352"/>
+<area shape="rect" id="node14" href="$slotted__page_8h.html#a730e0f7edabde62143313bc8fecf3193" title="spage_update" alt="" coords="398,380,501,407"/>
+</map>

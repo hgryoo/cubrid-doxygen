@@ -1,0 +1,14 @@
+<map id="JSON_VALIDATOR::get_schema_raw" name="JSON_VALIDATOR::get_schema_raw">
+<area shape="rect" id="node2" href="$db__json_8cpp.html#a13159f57672fbf60500430ec43664cc7" title="db_json_are_validators\l_equal" alt="" coords="220,49,375,90"/>
+<area shape="rect" id="node5" href="$db__json_8cpp.html#a41e3f43faa6f8aff0ee7a71c2d8ad434" title="db_json_get_schema\l_raw_from_validator" alt="" coords="225,282,370,323"/>
+<area shape="rect" id="node3" href="$object__domain_8c.html#a7456fd9935e987594dbf6d8fdd09829c" title="tp_domain_match_internal" alt="" coords="437,5,611,32"/>
+<area shape="rect" id="node4" href="$object__domain_8c.html#a177fb8a9d1db6a1432d48ea47676fe65" title="tp_is_domain_cached" alt="" coords="450,56,598,83"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#aef2e76a59d35c9c1fd7aa9bacda49500" title="db_domain_raw_json\l_schema" alt="" coords="452,107,596,149"/>
+<area shape="rect" id="node7" href="$classobject__printer.html#a9164ae03f7d1848451177277970c7d01" title="object_printer::describe\l_domain" alt="" coords="445,173,603,214"/>
+<area shape="rect" id="node8" href="$transform__cl_8c.html#a818baaa79a7871d05ed1ffb8c10f469f" title="domain_size" alt="" coords="477,239,571,265"/>
+<area shape="rect" id="node9" href="$transform__cl_8c.html#ad41fd78f7a855252f1db089aec2393be" title="domain_to_disk" alt="" coords="673,264,787,291"/>
+<area shape="rect" id="node10" href="$object__representation_8c.html#a240c28eb1aa08b286ee44689cc725ba9" title="or_packed_json_validator\l_length" alt="" coords="439,341,609,382"/>
+<area shape="rect" id="node11" href="$object__representation_8c.html#aaccb11cefb7c72ca5c6d08f464a2d5bc" title="or_put_json_validator" alt="" coords="451,407,597,433"/>
+<area shape="rect" id="node12" href="$parser_8h.html#a866f633e64741ea9c045cde4d6fabbbd" title="pt_domain_to_data_type" alt="" coords="442,481,606,508"/>
+<area shape="rect" id="node13" href="$query__executor_8c.html#a02c2422318d4f6e94263e47ee1fe55e4" title="qexec_schema_get_type_desc" alt="" coords="423,532,625,559"/>
+</map>

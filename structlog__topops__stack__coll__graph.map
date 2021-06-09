@@ -1,0 +1,4 @@
+<map id="log_topops_stack" name="log_topops_stack">
+<area shape="rect" id="node2" href="$structlog__topops__addresses.html" title="{log_topops_addresses\n||}" alt="" coords="5,321,157,399"/>
+<area shape="rect" id="node3" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="29,5,134,244"/>
+</map>

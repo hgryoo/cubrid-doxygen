@@ -1,0 +1,7 @@
+<map id="alloc_cursor" name="alloc_cursor">
+<area shape="rect" id="node2" href="$esql__cli_8c.html#a90012cabf86c0f2c3f9f491fc6efab9b" title="free_dynamic" alt="" coords="145,56,245,83"/>
+<area shape="rect" id="node6" href="$esql__cli_8c.html#adc61dd435a4de08df9ddb2d62d6ad8ad" title="uci_open_cs" alt="" coords="148,107,243,133"/>
+<area shape="rect" id="node3" href="$esql__cli_8c.html#a4dc639f81455620789c31e6e9dc591e0" title="uci_commit" alt="" coords="294,5,383,32"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#a3f1292e2638d968d7939200fb85708a1" title="uci_rollback" alt="" coords="293,56,384,83"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#a3e14a78f45e1471094da61125d67bc82" title="clean_up" alt="" coords="301,107,376,133"/>
+</map>

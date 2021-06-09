@@ -1,0 +1,14 @@
+<map id="help_print_describe_comment" name="help_print_describe_comment">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a5cfe0a7ffd242da92334d64fce12f629" title="au_export_users" alt="" coords="219,56,337,83"/>
+<area shape="rect" id="node4" href="$class__object_8h.html#aed085cd6ec115777bbc6e97ef63bb2a1" title="classobj_filter_components" alt="" coords="188,5,368,32"/>
+<area shape="rect" id="node6" href="$unload__schema_8c.html#a088cdc98b21b469dcbad882f4bd92c78" title="emit_attribute_def" alt="" coords="215,107,341,133"/>
+<area shape="rect" id="node7" href="$unload__schema_8c.html#ad1821163552264bc45cfdc6439b12d7f" title="emit_foreign_key" alt="" coords="217,157,339,184"/>
+<area shape="rect" id="node8" href="$unload__schema_8c.html#a2d1ff595a8674eee80c5d89ce8140793" title="emit_index_def" alt="" coords="223,208,333,235"/>
+<area shape="rect" id="node9" href="$unload__schema_8c.html#af229be3149e12a38147b89edb94eee35" title="emit_partition_parts" alt="" coords="210,259,346,285"/>
+<area shape="rect" id="node10" href="$unload__schema_8c.html#a7f79130b2669758e935be8a5b57261c1" title="emit_schema" alt="" coords="228,309,328,336"/>
+<area shape="rect" id="node11" href="$unload__schema_8c.html#aefce85871e326d5129c3cfb5cecae457" title="emit_unique_def" alt="" coords="219,360,337,387"/>
+<area shape="rect" id="node12" href="$object__print_8h.html#abada67940a11d79dbd1b4c20c98b8741" title="help_print_obj" alt="" coords="227,411,329,437"/>
+<area shape="rect" id="node13" href="$trigger__description_8hpp.html#a577010140143969b3e85607b46ef9215" title="tr_dump_trigger" alt="" coords="222,461,334,488"/>
+<area shape="rect" id="node3" href="$unloaddb_8h.html#aab2eec8bbc4988ca57d5cef87fafc87b" title="extract_classes" alt="" coords="426,157,541,184"/>
+<area shape="rect" id="node5" href="$schema__manager_8c.html#a96ce41517a7747de4242b0d67f73aa9d" title="build_storage_order" alt="" coords="416,5,551,32"/>
+</map>

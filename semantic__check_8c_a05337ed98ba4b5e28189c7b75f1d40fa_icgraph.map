@@ -1,0 +1,6 @@
+<map id="pt_is_compatible_without_cast" name="pt_is_compatible_without_cast">
+<area shape="rect" id="node2" href="$semantic__check_8c.html#afab59b9d3dce837b4c095111e8506c88" title="pt_assignment_compatible" alt="" coords="255,5,432,32"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#a984c58a8dce942b9fdbb5aa128d5f55d" title="pt_to_compatible_cast" alt="" coords="485,85,638,112"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#a2e380b6808468e06fbaf40911f9d2edc" title="pt_values_query_to\l_compatible_cast" alt="" coords="276,107,411,149"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#a72fab3ec678b321a3b20f3c8d035c43b" title="pt_coerce_insert_values" alt="" coords="480,5,643,32"/>
+</map>

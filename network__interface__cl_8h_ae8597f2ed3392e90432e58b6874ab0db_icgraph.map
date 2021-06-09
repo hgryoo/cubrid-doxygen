@@ -1,0 +1,4 @@
+<map id="tran_server_2pc_prepare" name="tran_server_2pc_prepare">
+<area shape="rect" id="node2" href="$transaction__cl_8h.html#a7bfba1482cf01aa4a926674145c7e29e" title="tran_2pc_prepare" alt="" coords="219,5,341,32"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ab871643946eb265abdaf1b1996c3f0a6" title="db_2pc_prepare_transaction" alt="" coords="389,5,575,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="qo_is_index_mro_scan" name="qo_is_index_mro_scan">
+<area shape="rect" id="node2" href="$query__planner_8c.html#a3acad1d3a3cf5722a879c152c0530721" title="qo_multi_range_opt\l_plans_cmp" alt="" coords="215,5,350,47"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#a339ec9f3a7428a9562981e87be076b93" title="qo_plan_cmp" alt="" coords="421,57,520,83"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#a95e522736be6c3ba92de264e5383eba5" title="qo_search_planner" alt="" coords="405,137,536,163"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#a1000b1d3b4351e05470c810726c1c163" title="qo_unset_multi_range\l_optimization" alt="" coords="208,173,357,215"/>
+</map>

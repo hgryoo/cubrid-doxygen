@@ -1,0 +1,4 @@
+<map id="tz_raw_ds_ruleset" name="tz_raw_ds_ruleset">
+<area shape="rect" id="node2" href="$structtz__raw__ds__rule.html" title="{tz_raw_ds_rule\n|+ from_year\l+ to_year\l+ type\l+ in_month\l+ at_time\l+ at_time_type\l+ save_time\l+ letter_abbrev\l|}" alt="" coords="14,175,125,355"/>
+<area shape="rect" id="node3" href="$structtz__ds__change__on.html" title="{tz_ds_change_on\n|+ type\l+ day_of_month\l+ day_of_week\l|}" alt="" coords="7,5,131,112"/>
+</map>

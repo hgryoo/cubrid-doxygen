@@ -1,0 +1,10 @@
+<map id="clientids::set_user" name="clientids::set_user">
+<area shape="rect" id="node2" href="$session_8h.html#a6d0df7bc1aa7c11d391d5725e5b73a94" title="login_user" alt="" coords="214,5,295,32"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#ad70d6d8f6b2c53c4b87e6c2f4e3cb9c4" title="logtb_set_user_name" alt="" coords="181,56,328,83"/>
+<area shape="rect" id="node6" href="$structclientids.html#acc0caf5acb4d6e14f3698a5ee2a8949a" title="clientids::set_ids" alt="" coords="195,144,315,171"/>
+<area shape="rect" id="node3" href="$session__sr_8c.html#ae6af93ab463952bb42ab4da67918bf3b" title="xlogin_user" alt="" coords="429,5,517,32"/>
+<area shape="rect" id="node5" href="$log__tran__table_8c.html#a3dcf3df7c6a7c0f7e3a91ca6f4e9dee9" title="logtb_set_current_user_name" alt="" coords="376,56,569,83"/>
+<area shape="rect" id="node7" href="$classcubload_1_1load__task.html#aa4e8a989957626a602b12db671672fdb" title="cubload::load_task\l::execute" alt="" coords="407,107,538,149"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#af367ea7ca740da91a90b19b7fb7a867b" title="logtb_set_tdes" alt="" coords="419,173,526,200"/>
+<area shape="rect" id="node9" href="$structclientids.html#a23d1ed6e6cec047985880a8a17f215c8" title="clientids::set_ids" alt="" coords="413,224,533,251"/>
+</map>

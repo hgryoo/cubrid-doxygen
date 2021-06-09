@@ -1,0 +1,16 @@
+<map id="qdata_copy_db_value_to_tuple_value" name="qdata_copy_db_value_to_tuple_value">
+<area shape="rect" id="node2" href="$query__opfunc_8h.html#ab92eb03bb3303ee8e501d2f6c7157af6" title="qdata_copy_valptr_list\l_to_tuple" alt="" coords="207,203,359,245"/>
+<area shape="rect" id="node10" href="$query__executor_8c.html#a88c76f42fcdb0493ad08df615f85f379" title="qexec_ordby_put_next" alt="" coords="206,387,359,413"/>
+<area shape="rect" id="node11" href="$list__file_8h.html#afe162faadd15ad9b5de00a51b123bfaa" title="qfile_copy_tuple_descr\l_to_tuple" alt="" coords="205,438,360,479"/>
+<area shape="rect" id="node14" href="$list__file_8c.html#aaf94fe7fb3ac09fbda80afe028d848e5" title="qfile_save_normal_tuple" alt="" coords="201,536,364,563"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#ab586cfb0848f940d47ca7f4c2fbb8708" title="qexec_end_one_iteration" alt="" coords="419,5,586,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a124dfc1f7fe85f3de4683346c32e666b" title="qexec_end_buildvalueblock\l_iterations" alt="" coords="412,57,593,98"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#aca3e5eec1423cc628767b7d7a8631244" title="qexec_execute_connect_by" alt="" coords="641,137,825,164"/>
+<area shape="rect" id="node6" href="$query__executor_8h.html#a2be66313ab0041341af58712bbfd2aad" title="qexec_insert_tuple\l_into_list" alt="" coords="437,174,568,215"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#aa016f9b3923d8aea5a3b2d91717d63db" title="qexec_update_connect\l_by_lists" alt="" coords="655,218,811,259"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#ace4cbe7f3418a09d43ee9ad479be8e06" title="qexec_gby_finalize\l_group" alt="" coords="436,291,569,333"/>
+<area shape="rect" id="node9" href="$scan__manager_8c.html#af9d9abbe4d8ebd522ae8043b27d63626" title="scan_dump_key_into\l_tuple" alt="" coords="430,357,575,398"/>
+<area shape="rect" id="node12" href="$query__aggregate_8hpp.html#a180603e6448ef4e047a26eff860f1e32" title="qdata_save_agg_hentry\l_to_list" alt="" coords="423,422,583,463"/>
+<area shape="rect" id="node13" href="$query__executor_8c.html#a6394d4bb03d48d1a78d2d365c297a7ab" title="qexec_analytic_finalize\l_group" alt="" coords="424,487,581,529"/>
+<area shape="rect" id="node15" href="$list__file_8h.html#a3b35d2af52e1fce760989209fc7bdc2b" title="qfile_save_tuple" alt="" coords="445,553,561,580"/>
+</map>

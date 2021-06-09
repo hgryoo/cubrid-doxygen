@@ -1,0 +1,13 @@
+<map id="src/api/db_collection.c" name="src/api/db_collection.c">
+<area shape="rect" id="node3" href="$db__stub_8h.html" title="db_stub.h" alt="" coords="451,80,530,107"/>
+<area shape="rect" id="node16" href="$api__util_8h.html" title="api_util.h" alt="" coords="893,80,968,107"/>
+<area shape="rect" id="node18" href="$dbi_8h.html" title="dbi.h" alt="" coords="1100,80,1151,107"/>
+<area shape="rect" id="node7" href="$api__common_8h.html" title="api_common.h" alt="" coords="592,155,699,181"/>
+<area shape="rect" id="node8" href="$parser_8h.html" title="parser.h" alt="" coords="723,155,792,181"/>
+<area shape="rect" id="node10" href="$parse__tree_8h.html" title="parse_tree.h" alt="" coords="446,229,541,256"/>
+<area shape="rect" id="node11" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="531,304,672,331"/>
+<area shape="rect" id="node12" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="289,379,405,405"/>
+<area shape="rect" id="node14" href="$transaction__cl_8h.html" title="transaction_cl.h" alt="" coords="289,304,404,331"/>
+<area shape="rect" id="node15" href="$api__compat_8h.html" title="api_compat.h" alt="" coords="235,155,335,181"/>
+<area shape="rect" id="node20" href="$dbtran__def_8h.html" title="dbtran_def.h" alt="" coords="1121,155,1215,181"/>
+</map>

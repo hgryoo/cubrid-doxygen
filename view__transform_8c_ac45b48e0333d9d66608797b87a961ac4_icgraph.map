@@ -1,0 +1,10 @@
+<map id="mq_is_updatable_local" name="mq_is_updatable_local">
+<area shape="rect" id="node2" href="$view__transform_8h.html#a5590a6909392a651df839bd9e3198a85" title="mq_is_updatable" alt="" coords="226,157,346,184"/>
+<area shape="rect" id="node9" href="$view__transform_8h.html#a7dad9293caaa9f3b7355c4f07c7f88c5" title="mq_is_updatable_strict" alt="" coords="208,237,364,264"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a1f86ffc840bf6625dde39ec5330f7cf1" title="db_is_updatable_object" alt="" coords="419,5,578,32"/>
+<area shape="rect" id="node4" href="$object__template_8c.html#a0451bc34e21472dc8f9ad4b19b35f9c2" title="make_template" alt="" coords="443,56,554,83"/>
+<area shape="rect" id="node5" href="$virtual__object_8h.html#a593c829934b8604934ec7da609924644" title="vid_build_virtual_mop" alt="" coords="425,107,572,133"/>
+<area shape="rect" id="node6" href="$parser_8h.html#af6d48eb6f1781fa254ccc2025cd97bc1" title="pt_spec_to_oid_attr" alt="" coords="431,157,567,184"/>
+<area shape="rect" id="node7" href="$view__transform_8c.html#a3d399b954d4d3a433e941f0b845f4021" title="mq_check_non_updatable\l_vclass_oid" alt="" coords="412,259,585,301"/>
+<area shape="rect" id="node8" href="$view__transform_8c.html#a9cec308f51c43369786ec5e035da65d1" title="mq_set_virt_object" alt="" coords="433,208,565,235"/>
+</map>

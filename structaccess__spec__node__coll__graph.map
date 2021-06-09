@@ -1,0 +1,17 @@
+<map id="access_spec_node" name="access_spec_node">
+<area shape="rect" id="node2" href="$structindx__info.html" title="{indx_info\n|+ coverage\l+ range_type\l+ orderby_desc\l+ groupby_desc\l+ use_desc_index\l+ orderby_skip\l+ groupby_skip\l+ use_iss\l+ func_idx_col_id\l+ ils_prefix_len\l|}" alt="" coords="263,447,391,656"/>
+<area shape="rect" id="node3" href="$structkey__range.html" title="{key_range\n|+ range\l|}" alt="" coords="33,20,115,97"/>
+<area shape="rect" id="node4" href="$structkey__info.html" title="{key_info\n|+ key_cnt\l+ is_constant\l+ key_limit_reset\l+ is_user_given_keylimit\l|}" alt="" coords="112,219,279,340"/>
+<area shape="rect" id="node5" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="584,5,676,112"/>
+<area shape="rect" id="node14" href="$structcls__spec__node.html" title="{cls_spec_node\n|+ attrids_key\l+ num_attrs_key\l+ num_attrs_pred\l+ attrids_pred\l+ attrids_rest\l+ num_attrs_rest\l+ schema_type\l+ num_attrs_reserved\l+ attrids_range\l+ num_attrs_range\l|}" alt="" coords="1346,175,1495,384"/>
+<area shape="rect" id="node6" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="419,241,521,318"/>
+<area shape="rect" id="node7" href="$structcubxasl_1_1pred__expr.html" title="{cubxasl::pred_expr\n|+ pe\l+ type\l|+ clear_xasl()\l}" alt="" coords="716,505,848,597"/>
+<area shape="rect" id="node8" href="$unionhybrid__node.html" title="{hybrid_node\n||}" alt="" coords="981,513,1073,590"/>
+<area shape="rect" id="node9" href="$structreguval__list__spec__node.html" title="{reguval_list_spec_node\n||}" alt="" coords="545,241,704,318"/>
+<area shape="rect" id="node10" href="$structmethod__spec__node.html" title="{method_spec_node\n||}" alt="" coords="728,241,863,318"/>
+<area shape="rect" id="node11" href="$structcubxasl_1_1json__table_1_1spec__node.html" title="{cubxasl::json_table\l::spec_node\n|+ m_node_count\l|+ spec_node()\l+ init()\l+ clear_xasl()\l}" alt="" coords="887,219,1021,340"/>
+<area shape="rect" id="node12" href="$structset__spec__node.html" title="{set_spec_node\n|+ set_ptr\l|}" alt="" coords="1045,241,1156,318"/>
+<area shape="rect" id="node13" href="$structlist__spec__node.html" title="{list_spec_node\n|+ hash_list_scan_yn\l|}" alt="" coords="1180,241,1323,318"/>
+<area shape="rect" id="node15" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="1555,20,1652,97"/>
+<area shape="rect" id="node16" href="$structshowstmt__spec__node.html" title="{showstmt_spec_node\n|+ show_type\l|}" alt="" coords="1519,241,1669,318"/>
+</map>

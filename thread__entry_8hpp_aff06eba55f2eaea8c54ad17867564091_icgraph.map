@@ -1,0 +1,5 @@
+<map id="thread_need_clear_trace" name="thread_need_clear_trace">
+<area shape="rect" id="node2" href="$query__executor_8h.html#a8117e936942551d7d4b2362e9638260f" title="qexec_execute_query" alt="" coords="404,5,553,32"/>
+<area shape="rect" id="node4" href="$session_8h.html#a90c7a29a6b5865f2f964a9b45cc44de7" title="session_clear_trace\l_stats" alt="" coords="217,27,356,69"/>
+<area shape="rect" id="node3" href="$query__manager_8c.html#ab406973856e1d1e95ebbc7bd111f9d19" title="qmgr_process_query" alt="" coords="601,5,744,32"/>
+</map>

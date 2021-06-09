@@ -1,0 +1,13 @@
+<map id="pr_midxkey_get_element_offset" name="pr_midxkey_get_element_offset">
+<area shape="rect" id="node2" href="$btree_8c.html#af2ae50bc7cd958ee86f6ffd54475cd53" title="btree_node_size_uncompressed" alt="" coords="220,32,429,59"/>
+<area shape="rect" id="node5" href="$object__primitive_8h.html#af68e0f90dbf424c2fa038314baf5561d" title="pr_midxkey_add_prefix" alt="" coords="247,159,403,186"/>
+<area shape="rect" id="node9" href="$object__primitive_8h.html#ae12a8c594fad2fc0fab2db8c4b6a5d40" title="PRIM_SET_NULL" alt="" coords="501,235,631,262"/>
+<area shape="rect" id="node10" href="$object__primitive_8h.html#ab70b01bc0d2fcdc724aa629c09d3e99a" title="pr_midxkey_remove_prefix" alt="" coords="235,260,414,287"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a1012b26ece22db26540906ab85b6ef30" title="btree_merge_node" alt="" coords="703,83,832,110"/>
+<area shape="rect" id="node4" href="$btree_8c.html#ace8e9cc58e0182724fe9ab92f273b796" title="btree_node_mergeable" alt="" coords="489,32,643,59"/>
+<area shape="rect" id="node6" href="$btree_8h.html#a1cd65044d563de3d69d3ba530a1b2773" title="btree_read_record" alt="" coords="503,83,629,110"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a3a9d1b18b6eb999825c00a291398f04f" title="btree_recompress_record" alt="" coords="481,184,651,211"/>
+<area shape="rect" id="node8" href="$btree_8c.html#ad062a0004fdcdd68d6519c00d3619595" title="btree_verify_leaf_node" alt="" coords="489,134,643,160"/>
+<area shape="rect" id="node11" href="$btree_8c.html#a418459de2ae077f698e4c4356d7c6070" title="btree_compress_node" alt="" coords="491,286,641,312"/>
+<area shape="rect" id="node12" href="$btree_8c.html#a5af8ba4607057c98ad45f0d91b6f7160" title="btree_key_insert_new_key" alt="" coords="477,336,655,363"/>
+</map>

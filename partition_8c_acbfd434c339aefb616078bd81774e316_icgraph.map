@@ -1,0 +1,19 @@
+<map id="partition_free_partition_predicate" name="partition_free_partition_predicate">
+<area shape="rect" id="node2" href="$partition__sr_8h.html#af9a2feea32c0c4aa004f290e6bec8429" title="partition_clear_pruning\l_context" alt="" coords="204,369,356,410"/>
+<area shape="rect" id="node3" href="$partition__sr_8h.html#aef1b14c7f20079f1a0ef94745945d48c" title="partition_load_pruning\l_context" alt="" coords="404,310,552,351"/>
+<area shape="rect" id="node4" href="$partition__sr_8h.html#a0482c972f8f45183a5004af78aa62c43" title="partition_prune_spec" alt="" coords="617,5,760,32"/>
+<area shape="rect" id="node5" href="$partition__sr_8h.html#a2c2951ea01d81ffde3b0a7b482a43244" title="partition_prune_insert" alt="" coords="615,56,762,83"/>
+<area shape="rect" id="node6" href="$partition__sr_8h.html#a84fd6a22d1230b8a66c013dd59f4bf53" title="partition_prune_update" alt="" coords="612,107,765,133"/>
+<area shape="rect" id="node7" href="$partition__sr_8h.html#a474874e24a5fca17cd631c5b2d052ebb" title="partition_get_partition_oids" alt="" coords="600,157,777,184"/>
+<area shape="rect" id="node8" href="$partition__sr_8h.html#ad73856aeaeb01df0c055d16ef66c0a84" title="partition_load_aggregate\l_helper" alt="" coords="607,209,770,250"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#aa4f8eb367446d125e493efce4bc8821c" title="qexec_init_agg_hierarchy\l_helpers" alt="" coords="825,333,995,374"/>
+<area shape="rect" id="node10" href="$partition_8c.html#a68ec2dbaa264a0c442b8174af1056bfe" title="partition_attrinfo\l_get_key" alt="" coords="631,274,746,315"/>
+<area shape="rect" id="node11" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="614,391,763,417"/>
+<area shape="rect" id="node12" href="$btree_8c.html#a2e7915ece5fd5cc886b764284234b627" title="xbtree_find_multi_uniques" alt="" coords="602,441,775,468"/>
+<area shape="rect" id="node13" href="$btree_8h.html#a4664a4220d7c646d3c508225dcdc284b" title="btree_check_foreign_key" alt="" coords="605,493,772,520"/>
+<area shape="rect" id="node14" href="$btree__load_8c.html#a3a58f0efdf76a4d2a1e8bc8b915ed0b1" title="btree_load_check_fk" alt="" coords="617,561,760,588"/>
+<area shape="rect" id="node15" href="$locator__sr_8c.html#ae6813da76ea952fcffc0263b60099e8b" title="locator_check_foreign_key" alt="" coords="600,621,777,648"/>
+<area shape="rect" id="node16" href="$locator__sr_8c.html#ae8a912f57490caa58cd390d22535fd7b" title="redistribute_partition_data" alt="" coords="603,676,774,703"/>
+<area shape="rect" id="node17" href="$log__tran__table_8c.html#a9ffda1f7148f6fcf8ba1d3c45f39b9df" title="logtb_tran_load_global\l_stats_func" alt="" coords="613,730,764,771"/>
+<area shape="rect" id="node18" href="$query__executor_8c.html#a932781dc0a9318628d031c8f25c76c87" title="qexec_clear_internal\l_classes" alt="" coords="407,478,549,519"/>
+</map>

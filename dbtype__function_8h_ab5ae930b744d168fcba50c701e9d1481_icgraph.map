@@ -1,0 +1,21 @@
+<map id="db_get_numeric" name="db_get_numeric">
+<area shape="rect" id="node2" href="$db__macro_8c.html#aaac41ec0708d386802559c899a7d90aa" title="coerce_char_to_dbvalue" alt="" coords="178,5,341,32"/>
+<area shape="rect" id="node4" href="$arithmetic_8h.html#ad9378ae2c0b068c4a537e3c1ea67fa12" title="db_floor_dbval" alt="" coords="435,259,542,285"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="627,157,807,184"/>
+<area shape="rect" id="node7" href="$arithmetic_8c.html#ac452ff9e0f644a66073dcadf6d85d4be" title="db_width_bucket_calculate\l_numeric" alt="" coords="170,193,349,234"/>
+<area shape="rect" id="node9" href="$memory__hash_8h.html#a4a785441bf0504e86be2219006667469" title="mht_valhash" alt="" coords="211,384,307,411"/>
+<area shape="rect" id="node10" href="$object__primitive_8c.html#a3eae850b027d7bd9343a5bf884e50124" title="mr_data_writeval_numeric" alt="" coords="172,435,347,461"/>
+<area shape="rect" id="node13" href="$object__primitive_8c.html#a4fb363ea0e2d464a9c45ff2425943e73" title="mr_setmem_numeric" alt="" coords="417,485,561,512"/>
+<area shape="rect" id="node14" href="$object__primitive_8c.html#a3c1dcd68c1f429b97e8404483050990d" title="mr_setval_numeric" alt="" coords="193,536,325,563"/>
+<area shape="rect" id="node15" href="$numeric__opfunc_8h.html#aeb96ad9df330193b5bc7b8044ecb10c4" title="numeric_db_value_increase" alt="" coords="168,587,351,613"/>
+<area shape="rect" id="node16" href="$numeric__opfunc_8h.html#adb233ee9f2a46720fec3fc732bbd1a16" title="numeric_db_value_is_zero" alt="" coords="171,141,347,168"/>
+<area shape="rect" id="node18" href="$numeric__opfunc_8h.html#ac7699555a0850613ed829d1d378029ab" title="numeric_db_value_print" alt="" coords="180,637,339,664"/>
+<area shape="rect" id="node20" href="$query__opfunc_8h.html#a139074fc8216bb3a88b835978eb84132" title="qdata_unary_minus_dbval" alt="" coords="402,309,575,336"/>
+<area shape="rect" id="node3" href="$dbtype__function_8h.html#a016e76c19ca1ec9246142c13e6734336" title="db_value_put" alt="" coords="439,5,538,32"/>
+<area shape="rect" id="node6" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="657,259,776,285"/>
+<area shape="rect" id="node8" href="$arithmetic_8h.html#adf4aacac0bedf0308441680f08dd50d1" title="db_width_bucket" alt="" coords="429,208,549,235"/>
+<area shape="rect" id="node11" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="647,453,787,494"/>
+<area shape="rect" id="node12" href="$object__primitive_8c.html#a592d7cf2f86e0b6433fd06fe4cc30960" title="mr_index_writeval_numeric" alt="" coords="399,435,579,461"/>
+<area shape="rect" id="node17" href="$query__opfunc_8c.html#a2142f5df6a6fe6a880f6dd6a179c7d5a" title="qdata_is_divided_zero" alt="" coords="413,157,564,184"/>
+<area shape="rect" id="node19" href="$db__macro_8c.html#a503142a67c11c0373d308b8ddc829fed" title="valcnv_convert_data\l_to_string" alt="" coords="417,630,560,671"/>
+</map>

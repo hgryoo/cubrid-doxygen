@@ -1,0 +1,5 @@
+<map id="tp_ubi_to_bi_with_args" name="tp_ubi_to_bi_with_args">
+<area shape="rect" id="node2" href="$object__domain_8c.html#a86f1f5e0e0169d7003a6d28658abcfff" title="tp_hex_str_to_bi" alt="" coords="223,5,342,32"/>
+<area shape="rect" id="node4" href="$object__domain_8c.html#adcce36e0c26c69034055567f36e0f38f" title="tp_scientific_str_to_bi" alt="" coords="208,56,357,83"/>
+<area shape="rect" id="node3" href="$object__domain_8c.html#aba5f2e1d90b295298b22d53036e8aa0b" title="tp_atobi" alt="" coords="405,31,473,57"/>
+</map>

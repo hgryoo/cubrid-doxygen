@@ -1,0 +1,11 @@
+<map id="tran_get_query_timeout" name="tran_get_query_timeout">
+<area shape="rect" id="node2" href="$query__cl_8h.html#ab778ee35e2c7018fc30ac7f98b886669" title="execute_query" alt="" coords="232,157,339,184"/>
+<area shape="rect" id="node10" href="$query__cl_8h.html#aeab3fbcec16279cf60f9dff58ad427e4" title="prepare_and_execute\l_query" alt="" coords="212,209,359,250"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a8340db60b99d2305e581a997044657ee" title="do_execute_delete" alt="" coords="420,5,551,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a50ddf81e4f4f001d75513104cec3607e" title="do_execute_insert" alt="" coords="421,56,549,83"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#af259588ebb962b880ecb05ae0b82c5e9" title="do_execute_merge" alt="" coords="419,107,551,133"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#acbd760c1942dbf1e164bde9ee1c473c9" title="do_execute_select" alt="" coords="420,157,551,184"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#aeb0727e2943818bb2f6be2e9c6bce087" title="do_execute_session\l_statement" alt="" coords="415,209,556,250"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#afe56199df5cbc88a2f7aef1dc0cb0bdc" title="do_execute_update" alt="" coords="418,275,553,301"/>
+<area shape="rect" id="node9" href="$tz__compile_8c.html#a42f887cbeff90bb6259a8a76b968da6c" title="tzc_compute_timezone\l_checksum" alt="" coords="407,326,564,367"/>
+</map>

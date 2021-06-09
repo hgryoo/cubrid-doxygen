@@ -1,0 +1,11 @@
+<map id="ws_find_class" name="ws_find_class">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a71e57012993f98148b4b9bb1236f7daa" title="do_create_partition" alt="" coords="175,50,307,77"/>
+<area shape="rect" id="node7" href="$locator__cl_8h.html#a162cc8c5c073ef8db7db3d789a6a447b" title="locator_add_class" alt="" coords="178,101,305,128"/>
+<area shape="rect" id="node8" href="$locator__cl_8c.html#ab9fb1f62ff38efae9c657efd41a2e342" title="locator_find_class\l_by_name" alt="" coords="178,152,305,194"/>
+<area shape="rect" id="node9" href="$locator__cl_8h.html#acb2594bc1facd4c6f4b08c0d2a93bf62" title="locator_lockhint_classes" alt="" coords="159,218,324,245"/>
+<area shape="rect" id="node10" href="$locator__cl_8h.html#a9b9db6b5afc03d88c66322c4162d652e" title="locator_prepare_rename\l_class" alt="" coords="161,270,322,311"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a3d065088ea9aebd736b48d0427c4c604" title="do_alter_partitioning_pre" alt="" coords="601,25,764,52"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a3bff2a1d9326a77b64702da53220fa4d" title="do_alter_partitioning_post" alt="" coords="377,25,548,52"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#aed95a2b379aae1e46aaf7878a9f0c334" title="do_reorganize_partition_pre" alt="" coords="372,76,553,102"/>
+<area shape="rect" id="node6" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="403,126,522,153"/>
+</map>

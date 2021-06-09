@@ -1,0 +1,6 @@
+<map id="pgbuf_bcb_should_be_moved_to_bottom_lru" name="pgbuf_bcb_should_be_moved_to_bottom_lru">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="208,49,375,90"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#afde1751ceb069fe468ffa1b51283033f" title="pgbuf_unfix_debug" alt="" coords="437,5,567,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#acb30faadf59202892e5dd7a8afcde82e" title="pgbuf_invalidate_debug" alt="" coords="423,56,581,83"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#ab1daac3aca23e828c958d851d0b535b6" title="pgbuf_dealloc_page" alt="" coords="433,107,571,133"/>
+</map>

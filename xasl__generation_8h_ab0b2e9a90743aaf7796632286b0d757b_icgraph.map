@@ -1,0 +1,8 @@
+<map id="pt_to_pos_descr" name="pt_to_pos_descr">
+<area shape="rect" id="node2" href="$semantic__check_8c.html#a8ace6e3dcf7c5b1840dc5f4df6fed4b7" title="pt_semantic_check_local" alt="" coords="172,13,341,40"/>
+<area shape="rect" id="node4" href="$parser__support_8c.html#a7c3a82fadda5192c02b1f4323af30d19" title="pt_sort_spec_cover\l_groupby" alt="" coords="189,71,325,113"/>
+<area shape="rect" id="node7" href="$query__planner_8c.html#ae3656f5a8781a44487ae893bc2de03f2" title="qo_plan_compute_iscan\l_sort_list" alt="" coords="389,174,552,215"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#a037d720c8f15dd86df8710577a97dafa" title="pt_check_with_info" alt="" coords="403,5,538,32"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#ada02ab019308bd415fbb3eb45eb7733c" title="qo_check_groupby_skip\l_descending" alt="" coords="389,57,552,98"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#ad04b877a86065b76342661464afe91b7" title="qo_top_plan_new" alt="" coords="600,123,723,149"/>
+</map>

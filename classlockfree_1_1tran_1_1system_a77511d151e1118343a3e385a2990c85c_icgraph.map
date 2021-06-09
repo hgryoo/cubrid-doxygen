@@ -1,0 +1,14 @@
+<map id="lockfree::tran::system::get_max_transaction_count" name="lockfree::tran::system::get_max_transaction_count">
+<area shape="rect" id="node2" href="$classlockfree_1_1tran_1_1table.html#aa80b771c0a1ed0d90662d752cb23f0f7" title="lockfree::tran::table\l::compute_min_active\l_tranid" alt="" coords="254,27,405,83"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1tran_1_1table.html#a5bf5bee00d899fee7e4058b4f55a6b5b" title="lockfree::tran::table\l::get_current_retire_count" alt="" coords="244,121,415,163"/>
+<area shape="rect" id="node5" href="$classlockfree_1_1tran_1_1table.html#a2ead52197e03116de1961b5dcd10affd" title="lockfree::tran::table\l::get_descriptor" alt="" coords="262,187,397,228"/>
+<area shape="rect" id="node11" href="$classlockfree_1_1tran_1_1table.html#a3b8a77c9701a7ff50c794107fd3cd8be" title="lockfree::tran::table\l::get_total_reclaim_count" alt="" coords="245,252,413,293"/>
+<area shape="rect" id="node12" href="$classlockfree_1_1tran_1_1table.html#a10d79ac9b5c577ec927d9bb13af94556" title="lockfree::tran::table\l::get_total_retire_count" alt="" coords="252,317,407,359"/>
+<area shape="rect" id="node13" href="$classlockfree_1_1tran_1_1table.html#a4478bef956294e3f5e447bd0a3adc0d2" title="lockfree::tran::table\l::table" alt="" coords="262,383,397,424"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1tran_1_1table.html#afecb8fa3dfd423dbee24a097bc8ac95b" title="lockfree::tran::table\l::get_new_global_tranid" alt="" coords="463,5,621,47"/>
+<area shape="rect" id="node6" href="$classlockfree_1_1freelist.html#af5a1aeac1b8815263e1f59094c51b13e" title="lockfree::freelist\l::claim" alt="" coords="485,71,599,112"/>
+<area shape="rect" id="node7" href="$classlockfree_1_1freelist.html#a5908096c0dd5806ce81793e9501212d1" title="lockfree::freelist\l::retire" alt="" coords="485,136,599,177"/>
+<area shape="rect" id="node8" href="$classlockfree_1_1hashmap.html#ae76110d7be4cf37db1b8caa5957827f4" title="lockfree::hashmap::\lget_tran_descriptor" alt="" coords="473,201,611,243"/>
+<area shape="rect" id="node9" href="$classlockfree_1_1tran_1_1table.html#a3028c221e1734e8b4cfc74fc169e3ca1" title="lockfree::tran::table\l::start_tran" alt="" coords="475,267,609,308"/>
+<area shape="rect" id="node10" href="$classlockfree_1_1tran_1_1table.html#aecfdfdff38e703024c38336f858782cb" title="lockfree::tran::table\l::end_tran" alt="" coords="475,332,609,373"/>
+</map>

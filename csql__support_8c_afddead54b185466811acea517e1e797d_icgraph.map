@@ -1,0 +1,10 @@
+<map id="iq_input_device_is_a_tty" name="iq_input_device_is_a_tty">
+<area shape="rect" id="node2" href="$csql__support_8c.html#a30833cdb6d7b391f8fff21e9f30f106d" title="csql_popen" alt="" coords="183,157,271,184"/>
+<area shape="rect" id="node3" href="$csql__support_8c.html#abadd4567f8ee4b5f9bed11896bdde8ac" title="csql_display_more_lines" alt="" coords="319,5,483,32"/>
+<area shape="rect" id="node4" href="$csql_8c.html#ad3f65a0ccb2951a16bf6b75d4958e5c0" title="csql_display_trace" alt="" coords="335,56,466,83"/>
+<area shape="rect" id="node5" href="$csql__session_8c.html#ac150e46c628ffdcc340983ebba520674" title="csql_dump_alltran" alt="" coords="337,107,464,133"/>
+<area shape="rect" id="node6" href="$csql__session_8c.html#a8d775d1f42719f3b0cf5379f2c1a28a5" title="csql_help_info" alt="" coords="348,157,453,184"/>
+<area shape="rect" id="node7" href="$csql_8c.html#a406c630407212f230ab28e1cb6551524" title="display_buffer" alt="" coords="349,208,452,235"/>
+<area shape="rect" id="node8" href="$csql__result_8c.html#aea4adb64598d0c9fd11ea63605bc8bd7" title="display_empty_result" alt="" coords="328,259,473,285"/>
+<area shape="rect" id="node9" href="$csql__result_8c.html#ab899148bf45eb093098d685a989c6a11" title="write_results_to_stream" alt="" coords="320,309,481,336"/>
+</map>

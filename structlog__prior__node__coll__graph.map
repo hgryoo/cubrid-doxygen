@@ -1,0 +1,4 @@
+<map id="log_prior_node" name="log_prior_node">
+<area shape="rect" id="node2" href="$structlog__rec__header.html" title="{log_rec_header\n|+ trid\l+ type\l|}" alt="" coords="119,336,230,428"/>
+<area shape="rect" id="node3" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="26,5,131,244"/>
+</map>

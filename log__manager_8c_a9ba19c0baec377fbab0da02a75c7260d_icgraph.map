@@ -1,0 +1,7 @@
+<map id="log_append_undo_crumbs" name="log_append_undo_crumbs">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a1c8ac655e0ef2b622fa7d90219a3af33" title="heap_mvcc_log_insert" alt="" coords="239,5,391,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ab689c730c941c75daa26b5d968070f3c" title="log_append_undo_data" alt="" coords="237,56,392,83"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a34b6f583b3036cd74a105b48d8f4be6d" title="log_append_undo_data2" alt="" coords="233,107,396,133"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a699da5ea92f9390e4ae6169d7b2ac73a" title="log_append_undo_recdes2" alt="" coords="227,157,403,184"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#a233044a0039e3ea744a43d2c5a597e11" title="heap_log_insert_physical" alt="" coords="451,5,619,32"/>
+</map>

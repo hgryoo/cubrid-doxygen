@@ -1,0 +1,18 @@
+<map id="db_get_session_id" name="db_get_session_id">
+<area shape="rect" id="node2" href="$cas__log_8h.html#a7f8b9486166a266f0577e6a1ab888643" title="cas_access_log" alt="" coords="215,61,331,88"/>
+<area shape="rect" id="node3" href="$cas_8c.html#a860d9ee786081f5655e997ed55d494e8" title="cas_main" alt="" coords="624,120,703,146"/>
+<area shape="rect" id="node4" href="$cas_8c.html#a8ce5ccc67487221f7ce23ec6797341e1" title="cas_make_session_for\l_driver" alt="" coords="195,112,351,154"/>
+<area shape="rect" id="node5" href="$cas_8c.html#a0c8d8d06a78688f0b5e9d1fcc85ee8b9" title="cas_send_connect_reply\l_to_driver" alt="" coords="409,112,576,154"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a7ba066f70fb1b1be0fe0db5dbc9b222f" title="db_end_session" alt="" coords="215,280,331,306"/>
+<area shape="rect" id="node13" href="$dbi__compat_8h.html#a0f10de6a4a686a08a8f0d049c63d92c8" title="db_find_or_create_session" alt="" coords="184,405,361,432"/>
+<area shape="rect" id="node17" href="$cas__execute_8h.html#a6cf8ab228bd9085f07d615c1a0dc1517" title="ux_get_session_id" alt="" coords="207,456,338,482"/>
+<area shape="rect" id="node7" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="417,456,568,482"/>
+<area shape="rect" id="node8" href="$csql_8c.html#a5a64da02076e414cb5f4ebdeb89248b4" title="start_csql" alt="" coords="624,456,703,482"/>
+<area shape="rect" id="node9" href="$csql_8c.html#ac88d690d090a8a98af1abbb778c61468" title="csql_exit_cleanup" alt="" coords="429,229,556,256"/>
+<area shape="rect" id="node10" href="$csql_8c.html#a683c35075b379a8c2b9801cbc6a6bced" title="csql_exit_session" alt="" coords="429,506,556,533"/>
+<area shape="rect" id="node11" href="$load__db_8c.html#a23f7dd8322d469075360a3461ff250e0" title="loaddb_internal" alt="" coords="438,280,547,306"/>
+<area shape="rect" id="node12" href="$cas__execute_8h.html#a500aa7450688ccf2a854f27091951c1d" title="ux_end_session" alt="" coords="435,178,551,205"/>
+<area shape="rect" id="node14" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="423,557,562,584"/>
+<area shape="rect" id="node15" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="428,608,557,634"/>
+<area shape="rect" id="node16" href="$cas__execute_8h.html#a2bfc849a249d18d8e67ad6840558e742" title="ux_database_connect" alt="" coords="418,405,567,432"/>
+</map>

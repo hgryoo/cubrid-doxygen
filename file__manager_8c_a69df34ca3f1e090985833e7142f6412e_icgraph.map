@@ -1,0 +1,6 @@
+<map id="file_extdata_find_and_remove_item" name="file_extdata_find_and_remove_item">
+<area shape="rect" id="node2" href="$file__manager_8c.html#a809af1534543d29a6f24183047377085" title="file_perm_dealloc" alt="" coords="213,5,335,32"/>
+<area shape="rect" id="node3" href="$file__manager_8c.html#af5423ddf6eaedabd0060fb5adbf411ee" title="file_rv_dealloc_internal" alt="" coords="397,31,552,57"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#ad81ce9083599f88ad373b8730a9b3ac2" title="file_tracker_unregister" alt="" coords="199,107,349,133"/>
+<area shape="rect" id="node5" href="$file__manager_8h.html#a9db2cf7e69746367fcfc73918106e71b" title="file_destroy" alt="" coords="430,107,519,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hb_valid_result_string" name="hb_valid_result_string">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#a90e86baa17c811cb595751e617b3db15" title="hb_cluster_receive\l_heartbeat" alt="" coords="217,5,348,47"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8h.html#ae33bcdb30382539c7de6139a0e06ca7b" title="hb_get_node_info_string" alt="" coords="201,71,364,98"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#a001ab4383bc49a72a06eff3e87a5a056" title="hb_thread_cluster_reader" alt="" coords="412,13,580,39"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8h.html#a6f9ed497c283816e8d6612d968519cd4" title="hb_reconfig_heartbeat" alt="" coords="421,67,571,94"/>
+<area shape="rect" id="node6" href="$master__request_8c.html#a35ee558207e9b10c6ca7d2e6e16c089f" title="css_process_ha_node\l_list_info" alt="" coords="420,119,572,160"/>
+</map>

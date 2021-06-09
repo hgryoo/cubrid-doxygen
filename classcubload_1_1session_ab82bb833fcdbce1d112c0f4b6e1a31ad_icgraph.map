@@ -1,0 +1,21 @@
+<map id="cubload::session::is_failed" name="cubload::session::is_failed">
+<area shape="rect" id="node2" href="$classcubload_1_1load__task.html#aa4e8a989957626a602b12db671672fdb" title="cubload::load_task\l::execute" alt="" coords="645,442,776,484"/>
+<area shape="rect" id="node3" href="$classcubload_1_1session.html#ae7fa1f4f3739de8ea87f1ca154f6d2df" title="cubload::session::fetch\l_status" alt="" coords="201,144,358,185"/>
+<area shape="rect" id="node4" href="$classcubload_1_1session.html#a13ad694fdc70ecbda40d1ba57aab468f" title="cubload::session::load\l_batch" alt="" coords="430,93,582,134"/>
+<area shape="rect" id="node6" href="$classcubload_1_1server__object__loader.html#afa7d5b4e2d5dfc2df8a227882987fb22" title="cubload::server_object\l_loader::finish_line" alt="" coords="203,209,356,250"/>
+<area shape="rect" id="node7" href="$classcubload_1_1server__object__loader.html#a59e168f3f9d0312d95c9fe90786e5729" title="cubload::server_object\l_loader::flush_records" alt="" coords="203,274,356,316"/>
+<area shape="rect" id="node8" href="$classcubload_1_1session.html#af7b882aec97dd0768d4b17f04d3dc7fd" title="cubload::session::install\l_class" alt="" coords="198,340,361,381"/>
+<area shape="rect" id="node10" href="$classcubload_1_1session.html#ad5dc421aadbdda046f66f4f54485b1d1" title="cubload::session::notify\l_batch_done" alt="" coords="199,405,359,446"/>
+<area shape="rect" id="node12" href="$classcubload_1_1session.html#a9a1141763c831728618858e47c4d26f5" title="cubload::session::notify\l_batch_done_and_register\l_tran_end" alt="" coords="192,470,367,526"/>
+<area shape="rect" id="node14" href="$classcubload_1_1server__object__loader.html#a650359afcdc658bf979fc90c1deb2e12" title="cubload::server_object\l_loader::process_line" alt="" coords="203,549,356,590"/>
+<area shape="rect" id="node15" href="$classcubload_1_1server__class__installer.html#a86cf1201180014331d1d9c05bf624883" title="cubload::server_class\l_installer::register\l_class_with_attributes" alt="" coords="203,614,355,670"/>
+<area shape="rect" id="node17" href="$classcubload_1_1session.html#a811b3a770356a65a22fcd19aa4fa23f3" title="cubload::session::wait\l_for_completion" alt="" coords="203,693,355,734"/>
+<area shape="rect" id="node20" href="$classcubload_1_1session.html#a61e8034473675b2d2fffae963a95bb53" title="cubload::session::wait\l_for_previous_batch" alt="" coords="430,758,582,800"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#a1ccc17c2b8ede3474490170c0ac13f1c" title="sloaddb_fetch_status" alt="" coords="433,159,579,186"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#aa04827e49a2d0a38359cc70bc6342566" title="sloaddb_install_class" alt="" coords="433,347,579,374"/>
+<area shape="rect" id="node11" href="$classcubload_1_1load__task.html#a516a332e8343a51a20593165e18b76f8" title="cubload::load_task\l::notify_done" alt="" coords="441,408,571,449"/>
+<area shape="rect" id="node13" href="$classcubload_1_1load__task.html#aab17a6900df3310968e627d87783c662" title="cubload::load_task\l::notify_done_and_tran_end" alt="" coords="415,476,597,517"/>
+<area shape="rect" id="node16" href="$classcubload_1_1server__class__installer.html#a3b91f6983a771aa51f2409004ba4537f" title="cubload::server_class\l_installer::install_class" alt="" coords="429,576,583,617"/>
+<area shape="rect" id="node18" href="$network__interface__sr_8h.html#add13200b9ab3246719ffd545a1f669e2" title="sloaddb_destroy" alt="" coords="447,642,565,668"/>
+<area shape="rect" id="node19" href="$session_8h.html#ac09e7cc4c25a9685b687d87bd33bc9be" title="session_stop_attached\l_threads" alt="" coords="428,693,584,734"/>
+</map>

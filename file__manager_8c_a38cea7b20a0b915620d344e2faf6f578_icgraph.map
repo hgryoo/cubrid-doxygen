@@ -1,0 +1,8 @@
+<map id="file_partsect_alloc" name="file_partsect_alloc">
+<area shape="rect" id="node2" href="$file__manager_8c.html#adc0db5dfc925dc493ef06a24997d87d1" title="file_perm_alloc" alt="" coords="180,97,289,123"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#a3caedf6598ee654efb9b8be761cc8edc" title="file_temp_alloc" alt="" coords="180,173,289,199"/>
+<area shape="rect" id="node3" href="$file__manager_8c.html#ac9b7228add17f355af39a6376dc581de" title="file_table_add_full\l_sector" alt="" coords="359,5,485,47"/>
+<area shape="rect" id="node4" href="$file__manager_8h.html#a3a741355345c6add6859fa974b7025eb" title="file_alloc" alt="" coords="555,173,628,199"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a809af1534543d29a6f24183047377085" title="file_perm_dealloc" alt="" coords="361,122,483,149"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#a73d7f335d0b5680c0f40feccb2d4d936" title="file_numerable_add_page" alt="" coords="337,173,507,199"/>
+</map>

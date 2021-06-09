@@ -1,0 +1,9 @@
+<map id="cubpacking::unpacker::unpack_bool" name="cubpacking::unpacker::unpack_bool">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#a9c1e10de2f480a8803e4f8c5ec5dc178" title="sloaddb_load_batch" alt="" coords="205,5,343,32"/>
+<area shape="rect" id="node4" href="$structcubload_1_1load__args.html#a2215efa1ff66c6544fd916da8dcff82a" title="cubload::load_args\l::unpack" alt="" coords="209,57,339,98"/>
+<area shape="rect" id="node6" href="$classcubload_1_1load__status.html#a9ae97e9d71d68b9471cd13159a1512ff" title="cubload::load_status\l::unpack" alt="" coords="203,122,345,163"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="580,36,687,63"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#a9bac6f44802bcadf83fa395b26b93c42" title="sloaddb_init" alt="" coords="417,61,508,88"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#a888a245020ec53eba6e7fd3b295a8bc3" title="loaddb_fetch_status" alt="" coords="393,121,532,148"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#adad0d571045df6943bae6047ec56773d" title="loaddb_load_batch" alt="" coords="397,172,528,199"/>
+</map>

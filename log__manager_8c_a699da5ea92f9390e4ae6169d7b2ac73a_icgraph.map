@@ -1,0 +1,13 @@
+<map id="log_append_undo_recdes2" name="log_append_undo_recdes2">
+<area shape="rect" id="node2" href="$system__catalog_8c.html#a9c2e081a1ad60c3c50ab5196538fe502" title="catalog_adjust_directory\l_count" alt="" coords="256,101,419,142"/>
+<area shape="rect" id="node4" href="$system__catalog_8c.html#adfbf222479a168c21ec18083794167eb" title="catalog_drop_representation_item" alt="" coords="765,163,983,190"/>
+<area shape="rect" id="node6" href="$system__catalog_8c.html#a6a2596b6bb09db04e0189d4d9fcf1903" title="catalog_put_representation_item" alt="" coords="769,36,979,63"/>
+<area shape="rect" id="node7" href="$system__catalog_8h.html#a4dce6236aa7369102102ae1429aadb7e" title="catalog_drop_old_representations" alt="" coords="229,239,445,266"/>
+<area shape="rect" id="node8" href="$system__catalog_8c.html#a5788fcf5257fd1c11a183bb9d16a8a40" title="catalog_drop_representation\l_helper" alt="" coords="245,290,430,332"/>
+<area shape="rect" id="node9" href="$system__catalog_8c.html#addb1c3894b0ad1ea94347993af226e8a" title="catalog_put_record\l_into_page" alt="" coords="271,356,403,397"/>
+<area shape="rect" id="node10" href="$system__catalog_8h.html#aa17c0fb2e8eda2108b37a57d26fba19f" title="catalog_update_class_info" alt="" coords="249,422,425,448"/>
+<area shape="rect" id="node11" href="$heap__file_8c.html#a512d30dc792740a94604451092dc9493" title="heap_update_bigone" alt="" coords="267,472,408,499"/>
+<area shape="rect" id="node12" href="$log__manager_8h.html#a64824ea1b8a8bb4faef3a97096b3cca2" title="log_append_undo_recdes" alt="" coords="253,523,422,550"/>
+<area shape="rect" id="node3" href="$system__catalog_8c.html#aec316b7290fcf54222b9ab7bf86895f9" title="catalog_drop_directory" alt="" coords="529,138,682,164"/>
+<area shape="rect" id="node5" href="$system__catalog_8c.html#ae91c4d3ad90a56831581466096150876" title="catalog_insert_representation_item" alt="" coords="493,87,717,114"/>
+</map>

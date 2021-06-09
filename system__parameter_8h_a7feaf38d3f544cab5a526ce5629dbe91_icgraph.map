@@ -1,0 +1,6 @@
+<map id="sysprm_pack_session_parameters" name="sysprm_pack_session_parameters">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a2b24f229af26cd4cb7e193b840385d8c" title="csession_find_or_create\l_session" alt="" coords="205,5,368,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a7cce10b54f3fd06231384b44776b3007" title="ssession_find_or_create\l_session" alt="" coords="205,71,368,112"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a0f10de6a4a686a08a8f0d049c63d92c8" title="db_find_or_create_session" alt="" coords="416,13,593,39"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="451,78,558,105"/>
+</map>

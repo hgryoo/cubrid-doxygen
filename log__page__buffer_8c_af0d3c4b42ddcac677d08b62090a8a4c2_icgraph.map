@@ -1,0 +1,7 @@
+<map id="logpb_get_log_buffer_index" name="logpb_get_log_buffer_index">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a3e0182aa5d5810429c559da1e8d347ff" title="logpb_copy_page" alt="" coords="213,42,336,69"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="196,93,353,135"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#aa36fb2c7b67e09da43ca73cbf46f0eb0" title="logpb_locate_page" alt="" coords="209,159,340,186"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#aab023e1a9bbef2bdff8c2da6a017a14e" title="logpb_copy_page_from\l_log_buffer" alt="" coords="401,5,557,47"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a7960a034a57d6eed6cccbdd3261db6d7" title="logpb_fetch_page" alt="" coords="417,71,541,98"/>
+</map>

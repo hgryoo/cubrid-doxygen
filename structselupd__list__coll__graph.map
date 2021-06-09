@@ -1,0 +1,7 @@
+<map id="selupd_list" name="selupd_list">
+<area shape="rect" id="node2" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,160,97,267"/>
+<area shape="rect" id="node3" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="121,175,187,252"/>
+<area shape="rect" id="node4" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="123,5,185,97"/>
+<area shape="rect" id="node5" href="$structregu__varlist__list__node.html" title="{regu_varlist_list_node\n||+ regu_varlist_list_node()\l}" alt="" coords="211,175,379,252"/>
+<area shape="rect" id="node6" href="$structregu__variable__list__node.html" title="{regu_variable_list_node\n||}" alt="" coords="216,13,375,90"/>
+</map>

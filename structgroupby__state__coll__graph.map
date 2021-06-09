@@ -1,0 +1,21 @@
+<map id="groupby_state" name="groupby_state">
+<area shape="rect" id="node2" href="$structcubxasl_1_1aggregate__list__node.html" title="{cubxasl::aggregate\l_list_node\n|+ function\l+ option\l+ opr_dbtype\l+ original_opr_dbtype\l+ flag_agg_optimize\l|}" alt="" coords="1010,498,1157,649"/>
+<area shape="rect" id="node20" href="$structgroupby__dimension.html" title="{groupby_dimension\n|+ d_flag\l|}" alt="" coords="983,968,1118,1045"/>
+<area shape="rect" id="node3" href="$structsort__list.html" title="{sort_list\n|+ del_id\l+ s_order\l+ s_nulls\l|}" alt="" coords="1410,5,1488,112"/>
+<area shape="rect" id="node7" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="1184,189,1333,355"/>
+<area shape="rect" id="node11" href="$structxasl__node.html" title="{xasl_node\n|+ type\l+ flag\l+ orderby_limit\l+ ordbynum_flag\l+ is_single_tuple\l+ option\l+ limit_offset\l+ limit_row_count\l+ level_regu\l+ isleaf_regu\l+ iscycle_regu\l+ instnum_flag\l+ next_scan_on\l+ next_scan_block_on\l+ cat_fetched\l+ query_in_progress\l+ scan_op_type\l+ upd_del_class_cnt\l+ mvcc_reev_extra_cls_cnt\l+ proc\l+ cardinality\l+ projected_size\l+ n_oid_list\l+ class_locks\l+ tcard_list\l+ query_alias\l+ dbval_cnt\l+ iscan_oid_order\l+ max_iterations\l|}" alt="" coords="1495,763,1678,1251"/>
+<area shape="rect" id="node4" href="$unioncubxasl_1_1aggregate__specific__function__info.html" title="{cubxasl::aggregate\l_specific_function_info\n||}" alt="" coords="1005,226,1160,318"/>
+<area shape="rect" id="node5" href="$structcubxasl_1_1aggregate__accumulator.html" title="{cubxasl::aggregate\l_accumulator\n|+ curr_cnt\l+ clear_value_at_clone\l_decache\l+ clear_value2_at_clone\l_decache\l|}" alt="" coords="697,197,860,347"/>
+<area shape="rect" id="node6" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="420,20,518,97"/>
+<area shape="rect" id="node18" href="$structcubquery_1_1aggregate__hash__context.html" title="{cubquery::aggregate\l_hash_context\n|+ state\l+ accumulator_domains\l+ hash_size\l+ group_count\l+ tuple_count\l+ part_scan_code\l+ sorted_count\l|}" alt="" coords="448,917,610,1097"/>
+<area shape="rect" id="node14" href="$structqfile__list__scan__id.html" title="{qfile_list_scan_id\n|+ status\l+ position\l+ curr_pgptr\l+ curr_tpl\l+ keep_page_on_finish\l+ curr_offset\l+ curr_tplno\l|}" alt="" coords="830,491,986,656"/>
+<area shape="rect" id="node8" href="$structregu__variable__list__node.html" title="{regu_variable_list_node\n||}" alt="" coords="1902,233,2060,311"/>
+<area shape="rect" id="node13" href="$structvalptr__list__node.html" title="{valptr_list_node\n|+ valptr_cnt\l|+ valptr_list_node()\l}" alt="" coords="1914,535,2048,612"/>
+<area shape="rect" id="node9" href="$structrecdes.html" title="{recdes\n|+ area_size\l+ length\l+ type\l+ data\l|}" alt="" coords="214,513,305,634"/>
+<area shape="rect" id="node10" href="$structval__list__node.html" title="{val_list_node\n|+ val_cnt\l|+ val_list_node()\l}" alt="" coords="1766,535,1884,612"/>
+<area shape="rect" id="node12" href="$structcubxasl_1_1pred__expr.html" title="{cubxasl::pred_expr\n|+ pe\l+ type\l|+ clear_xasl()\l}" alt="" coords="1294,527,1426,619"/>
+<area shape="rect" id="node15" href="$structqfile__tuple__record.html" title="{qfile_tuple_record\n|+ tpl\l+ size\l|}" alt="" coords="426,226,550,318"/>
+<area shape="rect" id="node16" href="$structSORTKEY__INFO.html" title="{SORTKEY_INFO\n|+ nkeys\l+ use_original\l+ error\l|}" alt="" coords="680,520,805,627"/>
+<area shape="rect" id="node17" href="$structxasl__state.html" title="{xasl_state\n|+ query_id\l+ qp_xasl_line\l|}" alt="" coords="2126,961,2233,1053"/>
+<area shape="rect" id="node19" href="$structlk__composite__lock.html" title="{lk_composite_lock\n||}" alt="" coords="2257,968,2388,1045"/>
+</map>

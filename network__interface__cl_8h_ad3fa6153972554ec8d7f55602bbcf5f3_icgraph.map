@@ -1,0 +1,13 @@
+<map id="stats_update_statistics" name="stats_update_statistics">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#aa1103605b7e5cf2b26a8ee5a2ecea440" title="sm_update_statistics" alt="" coords="211,245,357,272"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a550644fdffe2aff6b4a4d09c6791fb15" title="optimizedb" alt="" coords="460,5,545,32"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#a8bbe6819210340d7df414b5cbed213bc" title="ldr_update_statistics" alt="" coords="431,56,574,83"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a79ddf7bfe272e7c77fb59150ffa22f44" title="sm_update_catalog_statistics" alt="" coords="405,107,600,133"/>
+<area shape="rect" id="node6" href="$schema__manager_8c.html#abf471e77adf42a9be5ff53dc9d51cd76" title="update_subclasses" alt="" coords="435,157,570,184"/>
+<area shape="rect" id="node7" href="$schema__manager_8c.html#af5d108d7bc0dbdecea7edd27580dbfe0" title="update_class" alt="" coords="654,196,753,223"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="446,283,559,309"/>
+<area shape="rect" id="node9" href="$schema__manager_8h.html#a46905b698e1a61916384860ef3f740ce" title="sm_drop_index" alt="" coords="648,296,759,323"/>
+<area shape="rect" id="node10" href="$schema__manager_8h.html#ac770726929bfb229a6fde8c58f2e1374" title="sm_add_constraint" alt="" coords="437,384,569,411"/>
+<area shape="rect" id="node11" href="$execute__schema_8c.html#a01222261e7695803bebc1209fe887577" title="do_reorganize_partition_post" alt="" coords="409,435,597,461"/>
+<area shape="rect" id="node12" href="$execute__statement_8h.html#a92e6728e9b85ff99255dd27fef6477f3" title="do_update_stats" alt="" coords="443,485,562,512"/>
+</map>

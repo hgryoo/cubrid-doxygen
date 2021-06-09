@@ -1,0 +1,10 @@
+<map id="set_get_type" name="set_get_type">
+<area shape="rect" id="node2" href="$db__set__function_8h.html#a15c94da1291b9dc11339fd04ba68ccb3" title="db_col_insert" alt="" coords="173,5,271,32"/>
+<area shape="rect" id="node3" href="$db__set__function_8h.html#ae6c72986e9ead164d9c30c85de70ed53" title="db_col_put" alt="" coords="179,56,265,83"/>
+<area shape="rect" id="node5" href="$db__set__function_8h.html#acace2875b508f03aa602736214d83547" title="db_col_type" alt="" coords="176,107,268,133"/>
+<area shape="rect" id="node6" href="$db__set__function_8h.html#a111b81f1febf76b1a41aeee34833f130" title="db_set_type" alt="" coords="175,157,269,184"/>
+<area shape="rect" id="node9" href="$object__primitive_8c.html#a94216dda8b74e100668aea330218d24a" title="mr_data_readval_set" alt="" coords="151,208,293,235"/>
+<area shape="rect" id="node4" href="$db__collection_8c.html#a07a7b430f9f8c66118043c9d491858dd" title="set_to_db_value_mapf" alt="" coords="349,56,502,83"/>
+<area shape="rect" id="node7" href="$unload__schema_8c.html#a64c567644bf0beeda3723fc1d0139f7c" title="ex_contains_object\l_reference" alt="" coords="358,129,493,170"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#a3fb8e988e87eb4bbd2a189a1d7a4f8c2" title="setof_mop_to_setof_vobj" alt="" coords="341,195,509,221"/>
+</map>

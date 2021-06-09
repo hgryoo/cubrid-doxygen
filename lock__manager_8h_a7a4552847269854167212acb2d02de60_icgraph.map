@@ -1,0 +1,8 @@
+<map id="lock_unlock_all" name="lock_unlock_all">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="184,107,293,133"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="177,5,300,32"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="164,56,313,83"/>
+<area shape="rect" id="node3" href="$log__2pc_8c.html#a8f0d3e711958d90183e5813a073b4696" title="log_2pc_commit_second\l_phase" alt="" coords="361,15,528,57"/>
+<area shape="rect" id="node4" href="$log__2pc_8c.html#acf5f3bbe0b21f92332c8b664cd39e251" title="log_2pc_recovery_abort\l_decision" alt="" coords="365,81,525,122"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="407,147,482,173"/>
+</map>

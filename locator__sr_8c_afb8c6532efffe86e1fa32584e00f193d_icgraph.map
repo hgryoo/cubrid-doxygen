@@ -1,0 +1,8 @@
+<map id="xlocator_fetch" name="xlocator_fetch">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a23b1dee5e79fd342263c84151d349b22" title="locator_fetch" alt="" coords="178,5,275,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#ad54c8df422b50d3a632d1c83a048a464" title="slocator_fetch" alt="" coords="175,56,279,83"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#ae0b773e954c8caecf01501e44a90269f" title="xlocator_does_exist" alt="" coords="157,107,296,133"/>
+<area shape="rect" id="node7" href="$locator__sr_8c.html#a5c8d9e0e052fa675c79fa8e769a0c956" title="xlocator_get_class" alt="" coords="161,157,292,184"/>
+<area shape="rect" id="node3" href="$locator__cl_8c.html#ae31de882d630b39d0dc5e0f2670f63d3" title="locator_lock" alt="" coords="351,5,443,32"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="344,56,451,83"/>
+</map>

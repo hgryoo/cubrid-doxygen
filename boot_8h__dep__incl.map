@@ -1,0 +1,21 @@
+<map id="src/transaction/boot.h" name="src/transaction/boot.h">
+<area shape="rect" id="node2" href="$databases__file_8c.html" title="src/base/databases\l_file.c" alt="" coords="5,169,141,211"/>
+<area shape="rect" id="node3" href="$xserver__interface_8h.html" title="src/base/xserver_interface.h" alt="" coords="975,87,1161,114"/>
+<area shape="rect" id="node15" href="$connection__defs_8h.html" title="src/connection/connection\l_defs.h" alt="" coords="151,80,326,121"/>
+<area shape="rect" id="node16" href="$connection__globals_8c.html" title="src/connection/connection\l_globals.c" alt="" coords="1186,80,1361,121"/>
+<area shape="rect" id="node17" href="$elo_8c.html" title="src/object/elo.c" alt="" coords="1385,87,1495,114"/>
+<area shape="rect" id="node18" href="$boot__cl_8h.html" title="src/transaction/boot_cl.h" alt="" coords="785,87,951,114"/>
+<area shape="rect" id="node19" href="$boot__sr_8h.html" title="src/transaction/boot_sr.h" alt="" coords="594,87,761,114"/>
+<area shape="rect" id="node20" href="$log__impl_8h.html" title="src/transaction/log\l_impl.h" alt="" coords="441,80,570,121"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8c.html" title="src/communication/network\l_interface_cl.c" alt="" coords="778,169,961,211"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="571,169,754,211"/>
+<area shape="rect" id="node6" href="$network__sr_8c.html" title="src/communication/network_sr.c" alt="" coords="336,177,547,203"/>
+<area shape="rect" id="node7" href="$server__support_8c.html" title="src/connection/server\l_support.c" alt="" coords="165,169,312,211"/>
+<area shape="rect" id="node8" href="$util__sa_8c.html" title="src/executables/util_sa.c" alt="" coords="985,177,1151,203"/>
+<area shape="rect" id="node9" href="$load__server__loader_8cpp.html" title="src/loaddb/load_server\l_loader.cpp" alt="" coords="1175,169,1329,211"/>
+<area shape="rect" id="node10" href="$load__session_8cpp.html" title="src/loaddb/load_session.cpp" alt="" coords="1353,177,1540,203"/>
+<area shape="rect" id="node11" href="$load__worker__manager_8cpp.html" title="src/loaddb/load_worker\l_manager.cpp" alt="" coords="1565,169,1721,211"/>
+<area shape="rect" id="node12" href="$query__executor_8c.html" title="src/query/query_executor.c" alt="" coords="1745,177,1925,203"/>
+<area shape="rect" id="node13" href="$query__manager_8c.html" title="src/query/query_manager.c" alt="" coords="1949,177,2129,203"/>
+<area shape="rect" id="node14" href="$serial_8c.html" title="src/query/serial.c" alt="" coords="2153,177,2276,203"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="src/api/api_handle.h" name="src/api/api_handle.h">
+<area shape="rect" id="node2" href="$api__common_8h.html" title="src/api/api_common.h" alt="" coords="345,80,496,107"/>
+<area shape="rect" id="node5" href="$cubrid__api_8c.html" title="src/api/cubrid_api.c" alt="" coords="507,155,641,181"/>
+<area shape="rect" id="node7" href="$db__stub_8c.html" title="src/api/db_stub.c" alt="" coords="489,229,611,256"/>
+<area shape="rect" id="node8" href="$api__handle_8c.html" title="src/api/api_handle.c" alt="" coords="717,80,855,107"/>
+<area shape="rect" id="node3" href="$api__value__indexer_8c.html" title="src/api/api_value_indexer.c" alt="" coords="5,155,185,181"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html" title="src/api/cci_stub.c" alt="" coords="210,155,335,181"/>
+<area shape="rect" id="node6" href="$db__stub_8h.html" title="src/api/db_stub.h" alt="" coords="359,155,482,181"/>
+</map>

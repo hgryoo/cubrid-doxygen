@@ -1,0 +1,5 @@
+<map id="pt_mvcc_set_spec_assign_reev_extra_indexes" name="pt_mvcc_set_spec_assign_reev_extra_indexes">
+<area shape="rect" id="node2" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="231,31,359,57"/>
+<area shape="rect" id="node3" href="$execute__statement_8c.html#ad1b6d12004eb6abd43b16257fa2cb16c" title="statement_to_update_xasl" alt="" coords="407,5,581,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#ac634b027d1b85e4fbfb2cc7e8b803fc7" title="do_prepare_update" alt="" coords="428,56,560,83"/>
+</map>

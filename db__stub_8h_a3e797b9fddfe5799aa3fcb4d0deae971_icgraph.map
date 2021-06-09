@@ -1,0 +1,7 @@
+<map id="coerce_value_to_db_value" name="coerce_value_to_db_value">
+<area shape="rect" id="node2" href="$db__collection_8c.html#a5339f2e3e27d3e6073e00d92898f00e4" title="col_api_insert" alt="" coords="210,5,313,32"/>
+<area shape="rect" id="node3" href="$db__collection_8c.html#a3c62764a86676dea07310bc5b72eaa42" title="col_api_update" alt="" coords="207,56,316,83"/>
+<area shape="rect" id="node4" href="$db__stub_8c.html#a6509eb6d479da20fde3394f3a6a1b0b0" title="stmt_set_parameter\l_internal" alt="" coords="192,107,331,149"/>
+<area shape="rect" id="node5" href="$db__stub_8c.html#a8e9333644318af5ff7313a616f1697ff" title="ci_stmt_register_out\l_parameter_impl" alt="" coords="402,78,542,119"/>
+<area shape="rect" id="node6" href="$db__stub_8c.html#aafbd4a27511927c6ec92457407e9126c" title="ci_stmt_set_parameter_impl" alt="" coords="379,144,565,171"/>
+</map>

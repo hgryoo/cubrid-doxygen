@@ -1,0 +1,5 @@
+<map id="heap_vacuum_all_objects" name="heap_vacuum_all_objects">
+<area shape="rect" id="node2" href="$locator__sr_8c.html#ae8a912f57490caa58cd390d22535fd7b" title="redistribute_partition_data" alt="" coords="232,13,403,39"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#a4fd1b6b9619ed9d747c279ebda201d06" title="xlocator_upgrade_instances\l_domain" alt="" coords="225,64,409,105"/>
+<area shape="rect" id="node3" href="$locator__sr_8h.html#a6b7a6924480746a910036fc7526b0f64" title="xlocator_redistribute\l_partition_data" alt="" coords="457,5,596,47"/>
+</map>

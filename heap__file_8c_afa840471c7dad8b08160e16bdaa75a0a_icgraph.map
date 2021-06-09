@@ -1,0 +1,6 @@
+<map id="heap_vpid_init_new" name="heap_vpid_init_new">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a464c22cdfccaf9ba32e38befc750f859" title="heap_alloc_new_page" alt="" coords="189,15,340,42"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a24b8c714d34488d9989103a9235c4b9f" title="heap_vpid_alloc" alt="" coords="207,67,322,94"/>
+<area shape="rect" id="node3" href="$locator__sr_8h.html#a04d5e2ed684cc4d2b3e5a09765fb88de" title="locator_multi_insert\l_force" alt="" coords="411,5,546,47"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#af256d9deeaf7200651bfe15fc3b12207" title="heap_stats_find_best_page" alt="" coords="388,71,569,98"/>
+</map>

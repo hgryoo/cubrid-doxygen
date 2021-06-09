@@ -1,0 +1,8 @@
+<map id="locator_get_object" name="locator_get_object">
+<area shape="rect" id="node2" href="$locator__sr_8c.html#aa2a539cc181f7092735583eb6feaa11a" title="locator_lock_and_return\l_object" alt="" coords="187,82,347,123"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#ae0b773e954c8caecf01501e44a90269f" title="xlocator_does_exist" alt="" coords="604,89,743,116"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#aa0228de3d463d4f25f995136288bfbb8" title="qexec_execute_obj_fetch" alt="" coords="181,224,352,251"/>
+<area shape="rect" id="node3" href="$locator__sr_8c.html#afb8c6532efffe86e1fa32584e00f193d" title="xlocator_fetch" alt="" coords="426,5,530,32"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#ac1db221d5d8f2910fc84a738e9c30491" title="xlocator_fetch_lockhint\l_classes" alt="" coords="400,57,556,98"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#ab0245c26a24226f23c26bc80b86e4c4a" title="xlocator_fetch_lockset" alt="" coords="401,123,555,149"/>
+</map>

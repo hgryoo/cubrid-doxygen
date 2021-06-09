@@ -1,0 +1,7 @@
+<map id="log_2pc_prepare_global_tran" name="log_2pc_prepare_global_tran">
+<area shape="rect" id="node2" href="$log__2pc_8h.html#a2a445aff173f33094b8973bd770dcb30" title="log_2pc_prepare" alt="" coords="267,5,385,32"/>
+<area shape="rect" id="node4" href="$transaction__sr_8c.html#aea50e8cae070815c3c3786ef7a2727f2" title="xtran_server_2pc_prepare\l_global_tran" alt="" coords="240,57,412,98"/>
+<area shape="rect" id="node3" href="$transaction__sr_8c.html#a30688dea2fb0fbdd145e5181979ceb5b" title="xtran_server_2pc_prepare" alt="" coords="460,5,632,32"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#a36e15cbbb034ffbb05d07593bab9b9c5" title="tran_server_2pc_prepare\l_global_tran" alt="" coords="463,57,629,98"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#a419f07f676d9a22b270fbc057646b13a" title="stran_server_2pc_prepare\l_global_tran" alt="" coords="460,122,632,163"/>
+</map>

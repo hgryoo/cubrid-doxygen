@@ -1,0 +1,6 @@
+<map id="cubthread::daemon::get_stats_value_count" name="cubthread::daemon::get_stats_value_count">
+<area shape="rect" id="node2" href="$classcubthread_1_1daemon.html#afd9cbb28f44f731cfc7b15077a7e2bfc" title="cubthread::daemon::\lget_stat_name" alt="" coords="207,5,348,47"/>
+<area shape="rect" id="node3" href="$perf__monitor_8c.html#a9bb2ec73da51aaad362a2f5860b0d167" title="perfmon_per_daemon\l_stat_count" alt="" coords="410,56,557,97"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#a87f07b4e008ec03f3f93a2f561e1328f" title="pgbuf_daemons_get_stats" alt="" coords="396,122,571,149"/>
+<area shape="rect" id="node4" href="$perf__monitor_8c.html#a38bbe037f0aed7417e2a1bd4b3d58e6f" title="perfmon_stat_dump_in\l_buffer_thread_daemon_stats" alt="" coords="619,85,813,127"/>
+</map>

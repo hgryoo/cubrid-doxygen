@@ -1,0 +1,6 @@
+<map id="net_cleanup_client_queues" name="net_cleanup_client_queues">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#af5588ff08bd4f5d52ccbf0219200ce0d" title="qmgr_execute_query" alt="" coords="184,5,327,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a95c98385d6b15933fd29c45f0569e45d" title="tran_server_abort" alt="" coords="194,56,317,83"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#a09892fdeb1d0a25ac378217c002187da" title="tran_server_commit" alt="" coords="187,107,324,133"/>
+<area shape="rect" id="node3" href="$query__cl_8h.html#ab778ee35e2c7018fc30ac7f98b886669" title="execute_query" alt="" coords="375,5,481,32"/>
+</map>

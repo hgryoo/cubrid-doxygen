@@ -1,0 +1,7 @@
+<map id="qfile_start_scan_fix" name="qfile_start_scan_fix">
+<area shape="rect" id="node2" href="$scan__manager_8h.html#a4402f2b181176c682984f77b4efda619" title="scan_reset_scan_block" alt="" coords="188,71,347,98"/>
+<area shape="rect" id="node6" href="$scan__manager_8h.html#afeb99c1807d3f8fcc4a8d1c144a4ef87" title="scan_start_scan" alt="" coords="208,122,327,149"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a7a02780c41945102d789c5c730c3fe9a" title="qexec_next_scan_block\l_iterations" alt="" coords="395,5,557,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a3ba286b3f8a60ba4dd45993cb9c87c42" title="qexec_intprt_fnc" alt="" coords="605,42,724,69"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a7f4c93cc11a284d13f0844c5ef6daeaf" title="qexec_execute_scan" alt="" coords="403,122,549,149"/>
+</map>

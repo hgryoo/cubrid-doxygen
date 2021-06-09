@@ -1,0 +1,5 @@
+<map id="perfmon_print_timer_to_buffer" name="perfmon_print_timer_to_buffer">
+<area shape="rect" id="node2" href="$perf__monitor_8h.html#a898f7dfecd2c4dd8a7735d7dc98f0972" title="perfmon_server_dump\l_stats_to_buffer" alt="" coords="191,35,341,76"/>
+<area shape="rect" id="node3" href="$perf__monitor_8c.html#a38bbe037f0aed7417e2a1bd4b3d58e6f" title="perfmon_stat_dump_in\l_buffer_thread_daemon_stats" alt="" coords="389,5,584,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8c.html#af8b305c134eecb9f4358bd2dc4726977" title="er_log_slow_query" alt="" coords="421,71,552,98"/>
+</map>

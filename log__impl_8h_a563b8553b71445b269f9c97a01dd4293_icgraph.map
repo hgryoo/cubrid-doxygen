@@ -1,0 +1,21 @@
+<map id="logtb_set_check_interrupt" name="logtb_set_check_interrupt">
+<area shape="rect" id="node2" href="$btree_8c.html#a817f3908f139a51ad647ea391836b176" title="btree_delete_internal" alt="" coords="248,5,391,32"/>
+<area shape="rect" id="node3" href="$btree_8c.html#ad1aaeb962fb1b3619b6a3df47e124a94" title="btree_verify_node" alt="" coords="257,56,382,83"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#ae499b237d71a7f52450298b19618122a" title="disk_extend" alt="" coords="273,107,365,133"/>
+<area shape="rect" id="node5" href="$disk__manager_8h.html#a3e817661d1b1d12e8287beaac17f820c" title="disk_is_page_sector\l_reserved_with_debug_crash" alt="" coords="224,158,415,199"/>
+<area shape="rect" id="node6" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="246,275,393,301"/>
+<area shape="rect" id="node7" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="502,237,585,264"/>
+<area shape="rect" id="node8" href="$file__manager_8c.html#a3caedf6598ee654efb9b8be761cc8edc" title="file_temp_alloc" alt="" coords="489,313,598,340"/>
+<area shape="rect" id="node9" href="$double__write__buffer_8c.html#a63a546f3bd2182d9b4e0ead2aa4e6251" title="dwb_wait_for_block\l_completion" alt="" coords="251,377,388,418"/>
+<area shape="rect" id="node10" href="$double__write__buffer_8c.html#a83874b2343c29141d5349aa14526ffde" title="dwb_wait_for_strucure\l_modification" alt="" coords="243,442,396,483"/>
+<area shape="rect" id="node11" href="$file__manager_8h.html#a9db2cf7e69746367fcfc73918106e71b" title="file_destroy" alt="" coords="275,508,364,535"/>
+<area shape="rect" id="node12" href="$file__manager_8c.html#a0fe1ac2ba5d73e34057539e939a76032" title="file_temp_reset_user\l_pages" alt="" coords="248,559,391,601"/>
+<area shape="rect" id="node13" href="$heap__file_8h.html#a2bb0074abacb02fee124e8018a62d5cc" title="heap_does_exist" alt="" coords="259,625,379,652"/>
+<area shape="rect" id="node14" href="$heap__file_8h.html#a455bca38c3599344599944eed9ca49f4" title="heap_is_object_not_null" alt="" coords="463,651,624,677"/>
+<area shape="rect" id="node15" href="$log__tran__table_8c.html#ac81ee2d37e00a5343e7213b8280f3b53" title="logtb_reflect_global\l_unique_stats_to_btree" alt="" coords="241,727,398,769"/>
+<area shape="rect" id="node16" href="$log__tran__table_8c.html#a3480cda1ffc8521c5f450418549b0197" title="logtb_tran_update_all\l_global_unique_stats" alt="" coords="247,793,392,834"/>
+<area shape="rect" id="node17" href="$external__sort_8c.html#a8fdf60cc057bb8465e2107bdff30e633" title="px_sort_myself" alt="" coords="264,859,375,885"/>
+<area shape="rect" id="node18" href="$query__executor_8c.html#a245119e401f88d3fcc2f5308183aaeeb" title="qexec_destroy_upddel\l_ehash_files" alt="" coords="243,910,395,951"/>
+<area shape="rect" id="node19" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="254,975,385,1017"/>
+<area shape="rect" id="node20" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="282,1041,357,1068"/>
+</map>

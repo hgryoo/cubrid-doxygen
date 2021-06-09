@@ -1,0 +1,8 @@
+<map id="sm_exist_index" name="sm_exist_index">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#ae946e6aefead200daf0e5ddbc5fcd417" title="sm_add_secondary_index\l_on_partition" alt="" coords="328,5,501,47"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#a46905b698e1a61916384860ef3f740ce" title="sm_drop_index" alt="" coords="359,117,470,143"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="167,133,280,159"/>
+<area shape="rect" id="node6" href="$schema__manager_8c.html#a94a5ab245d87fe80cc5e41e78cf18554" title="transfer_disk_structures" alt="" coords="333,178,496,205"/>
+<area shape="rect" id="node7" href="$schema__template_8h.html#ab51f553d1e53355523d765c1ea2e0ad4" title="smt_rename_any" alt="" coords="353,229,476,255"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#ac770726929bfb229a6fde8c58f2e1374" title="sm_add_constraint" alt="" coords="549,13,681,39"/>
+</map>

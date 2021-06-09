@@ -1,0 +1,7 @@
+<map id="db_value_get" name="db_value_get">
+<area shape="rect" id="node2" href="$db__value__table_8c.html#a2bb7ca4b167371b9b488703484bb2a2c" title="db_value_to_value" alt="" coords="152,71,283,98"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#ab97bc90e3ae7e33d19e048a9832c158b" title="uci_get_value" alt="" coords="166,122,269,149"/>
+<area shape="rect" id="node3" href="$db__value__table_8c.html#a60032122fd4bd94841433c0fa49fe63a" title="coerce_db_value_to\l_value" alt="" coords="331,5,469,47"/>
+<area shape="rect" id="node4" href="$db__value__table_8c.html#a321c149379e809b1d0e79c5d5648449c" title="vbt_api_get_value" alt="" coords="337,71,463,98"/>
+<area shape="rect" id="node6" href="$esql__cli_8c.html#af36a8196a2adc6a8dc010105c2a7156d" title="uci_get_descriptor" alt="" coords="336,122,464,149"/>
+</map>

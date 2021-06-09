@@ -1,0 +1,5 @@
+<map id="btree_get_root_vpid_from_btid" name="btree_get_root_vpid_from_btid">
+<area shape="rect" id="node2" href="$btree__load_8c.html#a2e3d0063dd97e3546031d1f224c54831" title="btree_build_nleafs" alt="" coords="189,5,316,32"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="364,56,491,83"/>
+<area shape="rect" id="node4" href="$btree_8c.html#ac6cf5583334e01375cf6f96c1db3dd7f" title="xbtree_add_index" alt="" coords="191,107,315,133"/>
+</map>

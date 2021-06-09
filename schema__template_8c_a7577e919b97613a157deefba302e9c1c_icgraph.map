@@ -1,0 +1,14 @@
+<map id="smt_assign_argument_domain" name="smt_assign_argument_domain">
+<area shape="rect" id="node2" href="$db__class_8c.html#af7381cff07ac0ca24028847f5e9c5a09" title="add_arg_domain" alt="" coords="223,129,341,156"/>
+<area shape="rect" id="node7" href="$authenticate_8h.html#a14a359c7ddcd8795538260f79f78dd58" title="au_add_method_check\l_authorization" alt="" coords="204,270,360,311"/>
+<area shape="rect" id="node8" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="462,239,539,265"/>
+<area shape="rect" id="node10" href="$dbi__compat_8h.html#a87f83dff642719a565d82f8cbb7b4e2d" title="dbt_add_argument" alt="" coords="217,336,347,363"/>
+<area shape="rect" id="node11" href="$execute__schema_8h.html#aa5d1dee3966bdbe30a7ce6cfa3023302" title="do_add_methods" alt="" coords="221,387,343,413"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ac175b1ba8faa687ad634e7db9981b17d" title="db_add_argument" alt="" coords="438,5,563,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#ae6195ff85bb7350b94010e8d068cf7fe" title="db_add_set_argument\l_domain" alt="" coords="425,57,576,98"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a5adf7f71f047fbc22649a80c3300360d" title="db_set_class_method\l_arg_domain" alt="" coords="426,122,575,163"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#ab97625cea0a9b499a90e40a22f3838bf" title="db_set_method_arg_domain" alt="" coords="408,188,593,215"/>
+<area shape="rect" id="node9" href="$boot__cl_8c.html#a1c906d817cb0b45ca6b099228f903201" title="catcls_vclass_install" alt="" coords="429,289,572,316"/>
+<area shape="rect" id="node12" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="430,366,571,407"/>
+<area shape="rect" id="node13" href="$execute__schema_8h.html#a8b332c276e98ddfbbe0e10068f6d76b6" title="do_create_local" alt="" coords="444,432,557,459"/>
+</map>

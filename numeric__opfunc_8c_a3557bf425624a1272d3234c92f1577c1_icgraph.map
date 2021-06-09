@@ -1,0 +1,7 @@
+<map id="numeric_db_value_abs" name="numeric_db_value_abs">
+<area shape="rect" id="node2" href="$arithmetic_8h.html#a58633e38e60a11f720b34b5cb2e48e09" title="db_abs_dbval" alt="" coords="208,81,311,108"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="395,5,502,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a6d5023a6cc407b5d1d0222db0157e162" title="do_create_serial" alt="" coords="390,56,507,83"/>
+<area shape="rect" id="node5" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="389,107,508,133"/>
+<area shape="rect" id="node6" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="359,157,539,184"/>
+</map>

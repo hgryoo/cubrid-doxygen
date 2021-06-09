@@ -1,0 +1,9 @@
+<map id="pt_to_pred_expr_with_arg" name="pt_to_pred_expr_with_arg">
+<area shape="rect" id="node2" href="$plan__generation_8c.html#a80e9ab9723c99cd2566f21f22c4a24ec" title="add_sort_spec" alt="" coords="422,31,529,57"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#ac00afe3347320f27638ab8dbd860fa5c" title="pt_to_buildlist_proc" alt="" coords="408,107,543,133"/>
+<area shape="rect" id="node6" href="$xasl__generation_8h.html#aba7372e8c066bf245959fa0f3c56a7ff" title="pt_to_instnum_pred" alt="" coords="224,43,360,69"/>
+<area shape="rect" id="node7" href="$xasl__generation_8h.html#a51c767f4c1d823baa3593c5954e21438" title="pt_to_pred_expr" alt="" coords="235,144,349,171"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#a4737ebd73daa55c35ac5caf3034c4057" title="pt_to_union_proc" alt="" coords="231,195,353,221"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#a851ad3e58cae2b277cdf3f058e304cac" title="gen_outer" alt="" coords="591,5,669,32"/>
+<area shape="rect" id="node4" href="$plan__generation_8c.html#a38a4745f054db7cd1f993f7e5fd494dd" title="make_sort_limit_proc" alt="" coords="717,5,864,32"/>
+</map>

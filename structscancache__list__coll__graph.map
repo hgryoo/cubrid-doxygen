@@ -1,0 +1,5 @@
+<map id="scancache_list" name="scancache_list">
+<area shape="rect" id="node2" href="$structpruning__scan__cache.html" title="{pruning_scan_cache\n|+ is_scan_cache_started\l+ n_indexes\l|}" alt="" coords="112,307,280,399"/>
+<area shape="rect" id="node3" href="$structheap__scancache.html" title="{heap_scancache\n|+ debug_initpattern\l+ page_latch\l+ cache_last_fix_page\l+ num_btids\l+ file_type\l|+ start_area()\l+ end_area()\l+ reserve_area()\l+ assign_recdes_to_area()\l+ is_recdes_assigned\l_to_area()\l+ get_area_block_allocator()\l&#45; alloc_area()\l}" alt="" coords="5,5,192,244"/>
+<area shape="rect" id="node4" href="$structfunc__pred__unpack__info.html" title="{func_pred_unpack_info\n||}" alt="" coords="217,86,373,163"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="free_cursor" name="free_cursor">
+<area shape="rect" id="node2" href="$esql__cli_8c.html#a3e14a78f45e1471094da61125d67bc82" title="clean_up" alt="" coords="152,13,227,39"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#a750f329ab077fb55d3e38f8a79a91db3" title="uci_close_cs" alt="" coords="140,63,239,90"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#a4dc639f81455620789c31e6e9dc591e0" title="uci_commit" alt="" coords="145,114,234,141"/>
+<area shape="rect" id="node6" href="$esql__cli_8c.html#a3f1292e2638d968d7939200fb85708a1" title="uci_rollback" alt="" coords="144,165,235,191"/>
+<area shape="rect" id="node3" href="$object__primitive_8c.html#adf58ac7815ac095185388fe6d12749e0" title="pr_midxkey_compare\l_element" alt="" coords="287,5,433,47"/>
+</map>

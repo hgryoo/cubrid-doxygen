@@ -1,0 +1,8 @@
+<map id="pt_common_collation" name="pt_common_collation">
+<area shape="rect" id="node2" href="$classfunc__type_1_1Node.html#aee04c2de1c380cbcf1ed55e684fe75af" title="func_type::Node::check\l_arg_compat" alt="" coords="209,5,371,47"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#aa6896991bcf6e76a0984eec801f87a91" title="pt_apply_union_select\l_list_collation" alt="" coords="215,71,365,112"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#a06007d90431b174a63875bf60871f3a7" title="pt_check_expr_collation" alt="" coords="209,137,371,163"/>
+<area shape="rect" id="node6" href="$type__checking_8c.html#a3623841cbeb65f9186dabf2ca6eab6bd" title="pt_check_function_collation" alt="" coords="199,187,381,214"/>
+<area shape="rect" id="node7" href="$type__checking_8c.html#a34a6c33848010ae7689e2d1f7c9ae87a" title="pt_eval_function_type_old" alt="" coords="429,213,603,239"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#a8ace6e3dcf7c5b1840dc5f4df6fed4b7" title="pt_semantic_check_local" alt="" coords="431,78,601,105"/>
+</map>

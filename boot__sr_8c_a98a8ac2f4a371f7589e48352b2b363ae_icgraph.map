@@ -1,0 +1,9 @@
+<map id="xboot_find_number_permanent_volumes" name="xboot_find_number_permanent_volumes">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a6b7b83a443f52a51559280aa5676745e" title="boot_find_number_permanent\l_volumes" alt="" coords="257,5,450,47"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a1a84495d7e351a40e4168507bb0a2c7e" title="disk_check" alt="" coords="309,75,397,102"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#ada2cf573dcbd4e89d661e38660675f13" title="sboot_find_number_permanent\l_volumes" alt="" coords="253,135,453,176"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#af1c4189f6d602e281d78df5508b42dc0" title="db_num_volumes" alt="" coords="537,7,661,34"/>
+<area shape="rect" id="node5" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="525,58,672,85"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#ace20b0215551fade39404f63fbbcc932" title="xboot_check_db_consistency" alt="" coords="501,109,696,135"/>
+<area shape="rect" id="node8" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="545,159,652,186"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="pt_find_entity" name="pt_find_entity">
+<area shape="rect" id="node2" href="$query__graph_8c.html#a2101b00a28698c9d64e6f003e73871dd" title="is_local_name" alt="" coords="332,5,437,32"/>
+<area shape="rect" id="node4" href="$method__transform_8c.html#aabcd12138f005d4af8551bd64e653c33" title="meth_find_outside_refs\l_subquery" alt="" coords="306,57,463,98"/>
+<area shape="rect" id="node7" href="$view__transform_8c.html#abcff25b3a27a3983b4ceff20666d069e" title="mq_push_arg2" alt="" coords="331,123,438,149"/>
+<area shape="rect" id="node8" href="$view__transform_8c.html#aeb4df161e95664d5813ac0f5ed5aff6d" title="mq_push_dot_in_query" alt="" coords="307,175,463,201"/>
+<area shape="rect" id="node9" href="$view__transform_8c.html#af7d6ca65ec68176b36cbda6e5634ad93" title="mq_rewrite_agg_names" alt="" coords="305,227,465,253"/>
+<area shape="rect" id="node10" href="$query__result_8c.html#abf306fa5ab8d1d900c8dbc19db9d158b" title="pt_fillin_type_size" alt="" coords="531,332,658,359"/>
+<area shape="rect" id="node11" href="$parser_8h.html#aa5497acb7188029d3d1e00442610fd58" title="pt_find_entity" alt="" coords="153,281,253,308"/>
+<area shape="rect" id="node12" href="$name__resolution_8c.html#a1aa9eb98e4c2e318951dcdc1cb238944" title="pt_get_resolution" alt="" coords="324,383,445,409"/>
+<area shape="rect" id="node13" href="$name__resolution_8c.html#a3da94b800490019b382c67202c500f7c" title="pt_find_path_entity" alt="" coords="319,433,451,460"/>
+<area shape="rect" id="node14" href="$name__resolution_8c.html#af8145e8be34bbfc4b25a633f4dd78683" title="pt_find_entity_in_scopes" alt="" coords="301,484,468,511"/>
+<area shape="rect" id="node15" href="$query__result_8c.html#a64f5349ea89750fcf058c25aa9c910fd" title="pt_get_src_domain" alt="" coords="319,332,451,359"/>
+<area shape="rect" id="node16" href="$type__checking_8c.html#a7e95ac0522aada661a88c876786dddfa" title="pt_fold_const_expr" alt="" coords="319,535,451,561"/>
+<area shape="rect" id="node3" href="$query__graph_8c.html#a4d322007ce6983e3472645dbca6b53ec" title="qo_analyze_term" alt="" coords="534,5,655,32"/>
+<area shape="rect" id="node5" href="$method__transform_8c.html#a659da08c67eda3e93d4d154b99971632" title="meth_find_outside_refs" alt="" coords="516,111,673,137"/>
+<area shape="rect" id="node6" href="$method__transform_8c.html#a5ea22dbdb015758e4f405d5c5964bdc5" title="meth_translate_spec" alt="" coords="721,85,864,112"/>
+</map>

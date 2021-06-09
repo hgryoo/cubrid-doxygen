@@ -1,0 +1,11 @@
+<map id="pgbuf_get_holder" name="pgbuf_get_holder">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#a0c37f4ddcf646b9cd0c53f568c929fa4" title="pgbuf_attach_watcher\l_debug" alt="" coords="177,6,328,47"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="194,72,311,98"/>
+<area shape="rect" id="node8" href="$page__buffer_8h.html#a6794bee5f01bdb2291ab63e6c9c39002" title="pgbuf_ordered_unfix\l_debug" alt="" coords="403,211,541,252"/>
+<area shape="rect" id="node9" href="$page__buffer_8h.html#a85bc7da253e81ef0a2669f7934c4b693" title="pgbuf_replace_watcher\l_debug" alt="" coords="175,174,331,215"/>
+<area shape="rect" id="node10" href="$page__buffer_8h.html#afde1751ceb069fe468ffa1b51283033f" title="pgbuf_unfix_debug" alt="" coords="187,240,318,266"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a9b12f4a81c72a927263dbac8b1cfc032" title="heap_scan_pb_lock_and\l_fetch_debug" alt="" coords="613,26,779,67"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#a92d71be45b75ca7c89e700787c33914c" title="pgbuf_fix_with_retry" alt="" coords="403,33,541,60"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#afe78724b7abcc4efb6d4b28c49a46ebc" title="pgbuf_ordered_fix_debug" alt="" coords="389,84,555,110"/>
+<area shape="rect" id="node7" href="$page__buffer_8h.html#a130532104328cc6d57cda05541d66afc" title="pgbuf_fix_if_not_deallocated\l_with_caller" alt="" coords="379,135,565,176"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="btree_scan_clear_key" name="btree_scan_clear_key">
+<area shape="rect" id="node2" href="$btree_8h.html#a1be6e0cc0c79543691b106f6a93962bd" title="btree_get_next_key_info" alt="" coords="417,13,581,39"/>
+<area shape="rect" id="node4" href="$btree_8h.html#aed9b279abdb5bbcf1c57775b0f87125e" title="btree_keyoid_checkscan\l_check" alt="" coords="203,267,369,308"/>
+<area shape="rect" id="node5" href="$btree_8h.html#a6a858da89f97ed88a8691a4add05f6ae" title="btree_range_scan" alt="" coords="437,129,562,155"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#a3ec8ca9e5364109919ee52c486add7ec" title="locator_check_primary\l_key_delete" alt="" coords="629,88,783,129"/>
+<area shape="rect" id="node7" href="$locator__sr_8c.html#a65b9f6b49b3eaa536a20c55db7f99b3f" title="locator_check_primary\l_key_update" alt="" coords="629,189,783,231"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a39c9ceb9a7a481c7b09af8289cd58fdb" title="btree_range_scan_read\l_record" alt="" coords="207,332,365,373"/>
+<area shape="rect" id="node9" href="$btree_8c.html#a22ac1f4661f52143d9014574a4367447" title="btree_range_scan_start" alt="" coords="207,114,365,141"/>
+<area shape="rect" id="node10" href="$locator__sr_8c.html#a51e657615992656a81f637c25fe9cda3" title="locator_prefetch_index\l_page_internal" alt="" coords="209,397,363,439"/>
+<area shape="rect" id="node11" href="$scan__manager_8h.html#a65d1080ce2d6fb5fabbca942d9396dfe" title="scan_end_scan" alt="" coords="229,463,343,490"/>
+<area shape="rect" id="node3" href="$scan__manager_8c.html#a957eb3cfd3ff14261305d7745b389faa" title="scan_next_index_key\l_info_scan" alt="" coords="632,5,780,47"/>
+</map>

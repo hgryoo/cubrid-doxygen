@@ -1,0 +1,18 @@
+<map id="lock_unlock_object_lock_internal" name="lock_unlock_object_lock_internal">
+<area shape="rect" id="node2" href="$lock__manager_8h.html#af71ffbe318b9dfc659a2bb6c260685d7" title="lock_remove_object_lock" alt="" coords="187,353,356,380"/>
+<area shape="rect" id="node3" href="$lock__manager_8h.html#a78d80a86bb554d27a428e1f120107563" title="lock_unlock_object\l_donot_move_to_non2pl" alt="" coords="190,404,353,446"/>
+<area shape="rect" id="node4" href="$scan__manager_8c.html#a83a031612a32a47d6c0d2efd73d558a5" title="scan_next_heap_scan" alt="" coords="847,73,999,100"/>
+<area shape="rect" id="node5" href="$scan__manager_8c.html#a221ec5152ea226b1fc997d257f520c60" title="scan_next_index_lookup_heap" alt="" coords="823,429,1023,456"/>
+<area shape="rect" id="node6" href="$btree_8h.html#a7f5a06b1c4b807e7f69bbc8a9effa63b" title="btree_find_foreign_key" alt="" coords="408,248,561,274"/>
+<area shape="rect" id="node7" href="$locator__sr_8c.html#a3ec8ca9e5364109919ee52c486add7ec" title="locator_check_primary\l_key_delete" alt="" coords="617,215,771,256"/>
+<area shape="rect" id="node8" href="$locator__sr_8c.html#a65b9f6b49b3eaa536a20c55db7f99b3f" title="locator_check_primary\l_key_update" alt="" coords="617,484,771,526"/>
+<area shape="rect" id="node9" href="$btree_8c.html#aba9c5ef479403d77f7f91c985f1128a6" title="btree_key_find_and\l_lock_unique_of_unique" alt="" coords="404,299,565,340"/>
+<area shape="rect" id="node10" href="$btree_8c.html#a4a29f5f9816e9307055792dc57d9ae84" title="btree_key_find_and\l_lock_unique_of_non\l_unique" alt="" coords="413,364,557,420"/>
+<area shape="rect" id="node11" href="$btree_8c.html#ad40756f7c8c28e6a45092d3df8ac03b8" title="xbtree_find_unique" alt="" coords="419,444,550,470"/>
+<area shape="rect" id="node12" href="$btree_8c.html#a38375397bff59ceba84c8f7680593da6" title="btree_fk_object_does\l_exist" alt="" coords="411,495,558,536"/>
+<area shape="rect" id="node13" href="$btree_8c.html#a47ec7c5cf4f83c21beeef6944fab8d27" title="btree_insert_internal" alt="" coords="415,561,554,588"/>
+<area shape="rect" id="node14" href="$system__catalog_8h.html#a79e76e64f86b7c8a5e071a9097b4ef85" title="catalog_end_access\l_with_dir_oid" alt="" coords="414,612,555,654"/>
+<area shape="rect" id="node15" href="$locator__sr_8c.html#afb8c6532efffe86e1fa32584e00f193d" title="xlocator_fetch" alt="" coords="433,678,537,705"/>
+<area shape="rect" id="node16" href="$locator__sr_8c.html#a4af1d4f8e39597fdb439d70ce878f453" title="locator_lock_and_get\l_object_internal" alt="" coords="412,80,557,122"/>
+<area shape="rect" id="node17" href="$locator__sr_8h.html#aec26f2360b0f83e93b04cb302b147cb3" title="locator_lock_and_get\l_object_with_evaluation" alt="" coords="613,110,775,151"/>
+</map>

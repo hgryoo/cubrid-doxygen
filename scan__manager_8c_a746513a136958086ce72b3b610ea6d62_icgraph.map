@@ -1,0 +1,11 @@
+<map id="scan_handle_single_scan" name="scan_handle_single_scan">
+<area shape="rect" id="node2" href="$scan__manager_8h.html#aff7456e122b8a5eb75ff993f36126359" title="scan_next_scan" alt="" coords="224,157,341,184"/>
+<area shape="rect" id="node10" href="$scan__manager_8h.html#a79c880dbd55cec116064405e639a56cf" title="scan_prev_scan" alt="" coords="224,208,341,235"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a7f4c93cc11a284d13f0844c5ef6daeaf" title="qexec_execute_scan" alt="" coords="409,5,554,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a3ba286b3f8a60ba4dd45993cb9c87c42" title="qexec_intprt_fnc" alt="" coords="422,56,541,83"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#aae780f3598f8e002d08caef216a1c5b4" title="qexec_merge_fnc" alt="" coords="419,107,544,133"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#aa789b9a1da1ee681d9ad9464672c2325" title="qexec_execute_update" alt="" coords="403,157,559,184"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#a6a52d397abf14eeef1f1a23bccd2ed42" title="qexec_execute_delete" alt="" coords="405,208,557,235"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="407,259,556,285"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#aca3e5eec1423cc628767b7d7a8631244" title="qexec_execute_connect_by" alt="" coords="389,309,573,336"/>
+</map>

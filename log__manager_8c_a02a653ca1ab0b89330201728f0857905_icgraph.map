@@ -1,0 +1,6 @@
+<map id="log_update_global_btid_online_index_stats" name="log_update_global_btid_online_index_stats">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="208,78,317,105"/>
+<area shape="rect" id="node3" href="$log__2pc_8c.html#a8f0d3e711958d90183e5813a073b4696" title="log_2pc_commit_second\l_phase" alt="" coords="365,5,532,47"/>
+<area shape="rect" id="node4" href="$log__2pc_8c.html#acf5f3bbe0b21f92332c8b664cd39e251" title="log_2pc_recovery_abort\l_decision" alt="" coords="369,71,529,112"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="411,137,486,163"/>
+</map>

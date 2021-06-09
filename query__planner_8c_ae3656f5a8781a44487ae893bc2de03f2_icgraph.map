@@ -1,0 +1,10 @@
+<map id="qo_plan_compute_iscan_sort_list" name="qo_plan_compute_iscan_sort_list">
+<area shape="rect" id="node2" href="$query__planner_8c.html#a82cfa5f4b039ab1cc94a7b66059f2802" title="qo_index_scan_new" alt="" coords="399,81,539,108"/>
+<area shape="rect" id="node7" href="$query__planner_8c.html#a2e536d726c8f7999dbd9cca454a3ba87" title="qo_join_new" alt="" coords="421,157,516,184"/>
+<area shape="rect" id="node8" href="$query__planner_8c.html#a6e6f8a32d2609f63d8b60d59715d6e43" title="qo_plan_is_orderby\l_skip_candidate" alt="" coords="216,209,351,250"/>
+<area shape="rect" id="node9" href="$query__planner_8c.html#ad04b877a86065b76342661464afe91b7" title="qo_top_plan_new" alt="" coords="222,107,345,133"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#af82cb548f7164f198d9a008f149b5eb3" title="qo_generate_index_scan" alt="" coords="605,5,772,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#a95e522736be6c3ba92de264e5383eba5" title="qo_search_planner" alt="" coords="839,56,969,83"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#a6d502f0e742e3f1448fefff588540079" title="qo_generate_join_index_scan" alt="" coords="592,157,785,184"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a828d6b03fe00333fa2bcf640e6f7325a" title="qo_generate_loose_index_scan" alt="" coords="587,107,791,133"/>
+</map>

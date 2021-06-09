@@ -1,0 +1,5 @@
+<map id="partition_prune_heap_scan" name="partition_prune_heap_scan">
+<area shape="rect" id="node2" href="$partition__sr_8h.html#a0482c972f8f45183a5004af78aa62c43" title="partition_prune_spec" alt="" coords="231,31,373,57"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a637deab5f1ea552740d503c5fab6d636" title="qexec_prune_spec" alt="" coords="441,5,572,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#aa0228de3d463d4f25f995136288bfbb8" title="qexec_execute_obj_fetch" alt="" coords="421,56,592,83"/>
+</map>

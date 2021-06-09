@@ -1,0 +1,12 @@
+<map id="xtran_server_end_topop" name="xtran_server_end_topop">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a6a52d397abf14eeef1f1a23bccd2ed42" title="qexec_execute_delete" alt="" coords="429,5,581,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="223,56,372,83"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a98038934d3c74520f49e6c153067683b" title="qexec_execute_merge" alt="" coords="428,107,581,133"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#aa789b9a1da1ee681d9ad9464672c2325" title="qexec_execute_update" alt="" coords="219,157,375,184"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a9cc3bf5d11d0323422c639a20a915c89" title="stran_server_end_topop" alt="" coords="217,208,378,235"/>
+<area shape="rect" id="node9" href="$network__interface__cl_8h.html#a36e15cbbb034ffbb05d07593bab9b9c5" title="tran_server_2pc_prepare\l_global_tran" alt="" coords="215,259,380,301"/>
+<area shape="rect" id="node10" href="$locator__sr_8c.html#ac04114037ed20e59c26776f0851d2d15" title="xlocator_force" alt="" coords="245,325,349,352"/>
+<area shape="rect" id="node11" href="$locator__sr_8c.html#a73774f0c161927b6f0c0fd13d4e1bf2c" title="xlocator_repl_force" alt="" coords="231,376,363,403"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a7f75e30ca5ca44e386fde62197337c0a" title="qexec_execute_mainblock\l_internal" alt="" coords="629,74,805,115"/>
+<area shape="rect" id="node8" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="451,208,558,235"/>
+</map>

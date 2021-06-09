@@ -1,0 +1,6 @@
+<map id="jsp_get_argument_count" name="jsp_get_argument_count">
+<area shape="rect" id="node2" href="$jsp__cl_8c.html#a332dd57d1e6e81b51453fd8cf054b677" title="jsp_do_call_stored\l_procedure" alt="" coords="227,23,358,65"/>
+<area shape="rect" id="node5" href="$jsp__cl_8c.html#a6c89586d908a37d9a20efab6828d8487" title="jsp_send_call_request" alt="" coords="217,89,368,116"/>
+<area shape="rect" id="node3" href="$jsp__cl_8h.html#aa82029ea7e2d5d2696530e92d42ba082" title="jsp_call_from_server" alt="" coords="431,5,574,32"/>
+<area shape="rect" id="node4" href="$jsp__cl_8h.html#a8717d3a57e5a94ca836a2022b796793d" title="jsp_call_stored_procedure" alt="" coords="416,56,589,83"/>
+</map>

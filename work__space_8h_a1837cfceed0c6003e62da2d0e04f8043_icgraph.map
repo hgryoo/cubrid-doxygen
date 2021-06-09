@@ -1,0 +1,7 @@
+<map id="ws_release_user_instance" name="ws_release_user_instance">
+<area shape="rect" id="node2" href="$log__applier_8c.html#aae222bafc8147044057c499295141b9b" title="la_apply_insert_log" alt="" coords="233,5,366,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a2d40a24d77f7d73ad8df508c20a5dbdb" title="la_apply_update_log" alt="" coords="229,56,369,83"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a390461d66ad3104850cb216ea17fc356" title="la_create_repl_filter" alt="" coords="232,107,367,133"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a7ba25f44bcecbaa522dd022fb722f0c5" title="la_apply_repl_log" alt="" coords="417,31,540,57"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#a985ea807a9f77fb66077722eea3554a9" title="la_apply_log_file" alt="" coords="419,107,538,133"/>
+</map>

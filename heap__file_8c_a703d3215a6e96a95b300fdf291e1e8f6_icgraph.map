@@ -1,0 +1,9 @@
+<map id="heap_chnguess_initialize" name="heap_chnguess_initialize">
+<area shape="rect" id="node2" href="$heap__file_8c.html#ae6beb99cf2079e11b1dccc51763f02cb" title="heap_chnguess_realloc" alt="" coords="221,56,380,83"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a1bd47a9dfa569f39c05bbbdccff9ae9b" title="heap_manager_initialize" alt="" coords="220,132,381,159"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a05915a651c5d2111b162ade7fb7e23f4" title="heap_chnguess_get" alt="" coords="443,5,582,32"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#ac9584bea021ba4e96367b33472f916a4" title="heap_chnguess_put" alt="" coords="443,56,582,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="445,107,580,133"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="429,157,596,184"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="431,208,595,235"/>
+</map>

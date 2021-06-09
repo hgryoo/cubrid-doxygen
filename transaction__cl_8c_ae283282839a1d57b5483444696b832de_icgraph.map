@@ -1,0 +1,5 @@
+<map id="tran_abort_upto_user_savepoint" name="tran_abort_upto_user_savepoint">
+<area shape="rect" id="node2" href="$db__admin_8c.html#a272b07cea72393b984aee3c5db7b4615" title="db_abort_to_savepoint\l_internal" alt="" coords="197,23,351,65"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a4522e3e380dda20f5f45b43ef58408f5" title="db_abort_to_savepoint" alt="" coords="399,5,552,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a4c7b6d793882524879066322c121e1ff" title="do_rollback" alt="" coords="431,56,519,83"/>
+</map>

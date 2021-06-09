@@ -1,0 +1,6 @@
+<map id="hb_job_dequeue" name="hb_job_dequeue">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#ad7580044403dd1e5d18c41c41728563b" title="hb_cluster_job_dequeue" alt="" coords="175,8,337,35"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#a328b097221b7aff1336e82ca1cc93891" title="hb_resource_job_dequeue" alt="" coords="169,60,343,87"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#a21a050fc109dec3d3e6729b9b54b7b2c" title="hb_thread_cluster_worker" alt="" coords="391,5,561,32"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#aa39ce75bf6ca2ea860453562a95b00ca" title="hb_thread_resource\l_worker" alt="" coords="408,57,544,98"/>
+</map>

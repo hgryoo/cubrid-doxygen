@@ -1,0 +1,13 @@
+<map id="intl_is_currency_symbol" name="intl_is_currency_symbol">
+<area shape="rect" id="node2" href="$load__sa__loader_8cpp.html#a47f4535910f8b6c2cd48d79f54cda445" title="ldr_monetary_elem" alt="" coords="234,56,366,83"/>
+<area shape="rect" id="node5" href="$string__opfunc_8c.html#af7d786734d573d6df30b46779f6a4cbf" title="make_number" alt="" coords="248,107,352,133"/>
+<area shape="rect" id="node7" href="$string__opfunc_8c.html#a207bd6ef9c9d0c05b891afa65117a2bb" title="number_to_char" alt="" coords="243,157,357,184"/>
+<area shape="rect" id="node10" href="$locale__support_8c.html#a475ba88dbe23ddef89a83158be965e17" title="start_currency" alt="" coords="247,208,353,235"/>
+<area shape="rect" id="node11" href="$namespacecubload.html#a6d9abf0aeb2cfc129b38ba4c4bd69f67" title="cubload::to_db_monetary" alt="" coords="216,259,384,285"/>
+<area shape="rect" id="node3" href="$load__sa__loader_8cpp.html#a64da2fd564b5a96fb6bad814a685e815" title="ldr_monetary_db_monetary" alt="" coords="432,5,611,32"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#af41b16fc6c7965267350c2502f2bde99" title="ldr_init_loader" alt="" coords="470,56,573,83"/>
+<area shape="rect" id="node6" href="$string__opfunc_8h.html#a054828717c4464bccfc880f886ddee05" title="db_to_number" alt="" coords="469,107,573,133"/>
+<area shape="rect" id="node8" href="$string__opfunc_8h.html#a40d199455d72c2f7f044ed110747bbb9" title="db_to_char" alt="" coords="478,157,565,184"/>
+<area shape="rect" id="node9" href="$string__opfunc_8h.html#a556b385cb2fad7ffcff4b054965ddfa4" title="db_format" alt="" coords="481,208,561,235"/>
+<area shape="rect" id="node12" href="$namespacecubload.html#a6d702c4d8a100157f6f5f902483d665c" title="cubload::init_setters" alt="" coords="452,259,591,285"/>
+</map>

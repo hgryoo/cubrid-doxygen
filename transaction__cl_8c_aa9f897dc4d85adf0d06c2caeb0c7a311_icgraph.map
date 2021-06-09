@@ -1,0 +1,10 @@
+<map id="tran_cache_tran_settings" name="tran_cache_tran_settings">
+<area shape="rect" id="node2" href="$boot__cl_8c.html#acbbffeaf60c21d508959f4e5c8e06e93" title="boot_client" alt="" coords="262,93,347,120"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a5d98688d5706fd68216d7931e5638a3b" title="logpb_fatal_error_internal" alt="" coords="221,211,388,237"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="439,43,592,69"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="643,5,781,32"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="647,81,777,108"/>
+<area shape="rect" id="node6" href="$boot__cl_8h.html#af807b21fe58bf3fc403c4ce452c5ad08" title="boot_server_die_or\l_changed" alt="" coords="449,145,581,186"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a2cd9afddaaf8f29730d0b3d0ad2be1da" title="logpb_fatal_error" alt="" coords="456,211,575,237"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#a9e349e88b9bed778916cd0bc667a0350" title="logpb_fatal_error_exit\l_immediately_wo_flush" alt="" coords="436,262,595,303"/>
+</map>

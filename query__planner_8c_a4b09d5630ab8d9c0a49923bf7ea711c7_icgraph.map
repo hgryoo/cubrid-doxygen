@@ -1,0 +1,6 @@
+<map id="qo_is_sort_limit" name="qo_is_sort_limit">
+<area shape="rect" id="node2" href="$query__planner_8c.html#a339ec9f3a7428a9562981e87be076b93" title="qo_plan_cmp" alt="" coords="167,56,265,83"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#a92abfe11b06761802c38109874bf0966" title="qo_check_planvec" alt="" coords="329,5,460,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#ad05159ceea3cd56e476d102cd8e6e766" title="qo_cmp_planvec" alt="" coords="335,56,455,83"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#adafe7df4a463064ba79b4df4fe6009b7" title="qo_search_partition_join" alt="" coords="313,107,476,133"/>
+</map>

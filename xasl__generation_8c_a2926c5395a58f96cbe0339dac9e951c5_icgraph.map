@@ -1,0 +1,6 @@
+<map id="pt_attribute_to_regu" name="pt_attribute_to_regu">
+<area shape="rect" id="node2" href="$xasl__generation_8c.html#ad788a32c6dbf8dfac566aa97061a5a44" title="pt_clone_val_list" alt="" coords="199,5,317,32"/>
+<area shape="rect" id="node4" href="$xasl__generation_8h.html#a3ac53d18939d1793b3e70828d5a8dc77" title="pt_to_fetch_proc" alt="" coords="199,56,317,83"/>
+<area shape="rect" id="node5" href="$xasl__generation_8h.html#afe16617c99177ca7cb6d411d9e5e5713" title="pt_to_regu_variable" alt="" coords="191,131,325,157"/>
+<area shape="rect" id="node3" href="$xasl__generation_8h.html#a728da7d5b9b5550603a615d3ac24bb7a" title="ptqo_to_list_scan_proc" alt="" coords="373,5,529,32"/>
+</map>

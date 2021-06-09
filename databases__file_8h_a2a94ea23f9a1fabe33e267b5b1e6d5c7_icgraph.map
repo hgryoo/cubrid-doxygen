@@ -1,0 +1,10 @@
+<map id="cfg_create_host_list" name="cfg_create_host_list">
+<area shape="rect" id="node2" href="$databases__file_8h.html#a16d637ab5661b6bb4f782766c7514f71" title="cfg_get_hosts" alt="" coords="192,157,296,184"/>
+<area shape="rect" id="node3" href="$databases__file_8h.html#a27e52dbae492e12eb0a31d5124e93441" title="cfg_read_directory" alt="" coords="356,56,485,83"/>
+<area shape="rect" id="node4" href="$databases__file_8h.html#a1928f638abb47aaef1e62242915952fe" title="cfg_read_directory_ex" alt="" coords="545,5,696,32"/>
+<area shape="rect" id="node5" href="$utility_8h.html#a24cb82c7693b92a6eb14285a1f9a89e3" title="alterdbhost" alt="" coords="744,56,831,83"/>
+<area shape="rect" id="node6" href="$databases__file_8h.html#a22507505c33ea2783dbefda2424583d5" title="cfg_update_db" alt="" coords="367,157,474,184"/>
+<area shape="rect" id="node7" href="$databases__file_8h.html#a4b7791fab1df3110c4b7f69d79db0e3e" title="cfg_new_db" alt="" coords="375,208,467,235"/>
+<area shape="rect" id="node8" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="556,259,685,285"/>
+<area shape="rect" id="node9" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="344,309,497,336"/>
+</map>

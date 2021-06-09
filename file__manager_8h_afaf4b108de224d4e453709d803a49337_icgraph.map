@@ -1,0 +1,17 @@
+<map id="file_descriptor_get" name="file_descriptor_get">
+<area shape="rect" id="node2" href="$btree_8h.html#a3c85046f2365a12a2921225c99808a5f" title="btree_check_by_btid" alt="" coords="197,5,339,32"/>
+<area shape="rect" id="node6" href="$btree_8h.html#a55f97cabd292e8ffe5fdaf6e9fca4c2e" title="btree_dump_capacity" alt="" coords="195,56,341,83"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a647df004b16189f2ac3be850b7caa11b" title="btree_fix_ovfl_oid\l_pages_by_btid" alt="" coords="206,107,330,149"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#a3665cd7a7a16a249b1e017ef9266b2d9" title="heap_capacity_next_scan" alt="" coords="181,173,355,200"/>
+<area shape="rect" id="node9" href="$heap__file_8h.html#a2227d0baf96c8e9ee396fcb52ecd3c73" title="heap_check_heap_file" alt="" coords="193,224,343,251"/>
+<area shape="rect" id="node11" href="$heap__file_8h.html#a8d42af92624dd8527bdb9824c62a0f00" title="heap_dump" alt="" coords="223,275,313,301"/>
+<area shape="rect" id="node12" href="$heap__file_8h.html#aab6c8ba67c5d4defaf1467462382cb75" title="heap_dump_capacity" alt="" coords="195,325,341,352"/>
+<area shape="rect" id="node13" href="$vacuum_8h.html#a2cb21fa7816f2d0a4cf699cae9e7fd7b" title="vacuum_data_load_and\l_recover" alt="" coords="189,377,347,418"/>
+<area shape="rect" id="node14" href="$vacuum_8c.html#aa58247a80d211dba7e1a0ad03691aee0" title="vacuum_heap_get_hfid\l_and_file_type" alt="" coords="190,442,346,483"/>
+<area shape="rect" id="node16" href="$vacuum_8h.html#aced5f71cdc4f742daed9800b70e6bf55" title="vacuum_reset_data_after\l_copydb" alt="" coords="183,507,353,549"/>
+<area shape="rect" id="node3" href="$btree_8h.html#af27c203a145aacd4feb9d7c85ea2dac1" title="btree_check_all" alt="" coords="434,5,547,32"/>
+<area shape="rect" id="node4" href="$btree_8h.html#ae775f364d8fca6839b22774cf4ec35f7" title="btree_check_by_class_oid" alt="" coords="403,72,579,99"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a70167f3572fd39fae0ddc463c682de15" title="xboot_checkdb_table" alt="" coords="627,115,772,141"/>
+<area shape="rect" id="node10" href="$heap__file_8h.html#af800f3bfd7690fa522c15142c2486142" title="heap_check_all_heaps" alt="" coords="413,224,568,251"/>
+<area shape="rect" id="node15" href="$vacuum_8h.html#a3171e0413044eaee675846edbfb3a086" title="vacuum_heap_page" alt="" coords="421,449,560,476"/>
+</map>

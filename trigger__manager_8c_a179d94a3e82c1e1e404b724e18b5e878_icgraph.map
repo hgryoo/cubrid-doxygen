@@ -1,0 +1,8 @@
+<map id="insert_trigger_list" name="insert_trigger_list">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#acaa2f1df9caa37249b4765b4d2faa2d7" title="reinsert_trigger_list" alt="" coords="184,5,316,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#a63a05f6489a3ce3498ff66caf7655618" title="tr_add_cache_trigger" alt="" coords="179,56,321,83"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#ab86886b8498d463986948822d3086b33" title="tr_create_trigger" alt="" coords="192,107,308,133"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#aa62cab01de1b47040f2a7b1901f77976" title="tr_update_user_cache" alt="" coords="175,157,325,184"/>
+<area shape="rect" id="node7" href="$trigger__manager_8h.html#ad89d5f60cc42a200b24266423ad11f9d" title="tr_validate_schema\l_cache" alt="" coords="183,233,317,274"/>
+<area shape="rect" id="node3" href="$trigger__manager_8c.html#ad320c6b0d23000576db60f81b3b8b2fe" title="reorder_schema_caches" alt="" coords="373,5,537,32"/>
+</map>

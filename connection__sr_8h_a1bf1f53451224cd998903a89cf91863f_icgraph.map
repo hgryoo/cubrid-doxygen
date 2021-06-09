@@ -1,0 +1,7 @@
+<map id="css_shutdown_conn_by_tran_index" name="css_shutdown_conn_by_tran_index">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#ac726b982b2a6034a8f7b5f72bbd7de12" title="logtb_slam_transaction" alt="" coords="229,71,385,98"/>
+<area shape="rect" id="node5" href="$log__tran__table_8c.html#a6162cf50793bc050bab311ce4b8effa7" title="xlogtb_kill_or_interrupt_tran" alt="" coords="216,122,397,149"/>
+<area shape="rect" id="node3" href="$server__support_8h.html#a5692baaa6c9df9b84010366971aac54c" title="css_change_ha_server\l_state" alt="" coords="462,5,618,47"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#ab02994b89f22de6b5346a2e448282d87" title="xlogtb_kill_tran_index" alt="" coords="467,71,613,98"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#ad3f52ec3a1ab7fd6082f917ec75a9e40" title="sthread_kill_or_interrupt_tran" alt="" coords="445,122,635,149"/>
+</map>

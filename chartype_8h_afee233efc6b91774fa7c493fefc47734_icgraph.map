@@ -1,0 +1,10 @@
+<map id="char_isupper_iso8859" name="char_isupper_iso8859">
+<area shape="rect" id="node2" href="$chartype_8h.html#a3371534574c6223434aa1fffb1d6ebc1" title="char_tolower_iso8859" alt="" coords="201,148,349,175"/>
+<area shape="rect" id="node7" href="$intl__support_8h.html#aeb11e556973577e1144fcedfe35df029" title="intl_identifier_mht\l_1strlowerhash" alt="" coords="413,225,537,266"/>
+<area shape="rect" id="node8" href="$intl__support_8h.html#a9ff5f417981a3b47bbd547db1582d24b" title="intl_tolower_iso8859" alt="" coords="205,287,345,313"/>
+<area shape="rect" id="node3" href="$intl__support_8h.html#ae5d07af6159509f762822f10d75a1395" title="intl_lower_string" alt="" coords="417,5,533,32"/>
+<area shape="rect" id="node4" href="$intl__support_8h.html#af1f9b0d2b613834c0b0a304e5960968a" title="intl_identifier_casecmp\l_w_size" alt="" coords="397,57,552,98"/>
+<area shape="rect" id="node5" href="$intl__support_8h.html#a2822c33ddedbee95fb8ee1ebddf5c8a7" title="intl_case_match_tok" alt="" coords="403,123,546,149"/>
+<area shape="rect" id="node6" href="$intl__support_8h.html#a8fc072ea611dcffad0baf7674a591e7c" title="intl_identifier_lower" alt="" coords="408,173,541,200"/>
+<area shape="rect" id="node9" href="$language__support_8c.html#a2d61cbd6b27050a2e3e96320ecd8dd41" title="check_env_lang_val" alt="" coords="405,291,545,317"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="db_execute_statement" name="db_execute_statement">
+<area shape="rect" id="node2" href="$csql_8c.html#ad3f65a0ccb2951a16bf6b75d4958e5c0" title="csql_display_trace" alt="" coords="226,5,357,32"/>
+<area shape="rect" id="node3" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="423,5,593,32"/>
+<area shape="rect" id="node4" href="$cas__function_8h.html#a86aae9afd60e21af7c964ea5752ba309" title="fn_get_query_info" alt="" coords="229,107,354,133"/>
+<area shape="rect" id="node5" href="$load__db_8c.html#a5671984042276ef3b0d96e39f9f1f02b" title="ldr_exec_query_from_file" alt="" coords="208,157,375,184"/>
+<area shape="rect" id="node7" href="$cas__execute_8c.html#ab161e16c9f3a49971d2b04792745e715" title="sch_query_execute" alt="" coords="224,208,359,235"/>
+<area shape="rect" id="node13" href="$esql__cli_8c.html#ae3202975f22cc48f7d50dd6943b61736" title="uci_execute_immediate" alt="" coords="212,259,371,285"/>
+<area shape="rect" id="node14" href="$esql__cli_8c.html#a251d8527b2af365292ad24dd8dd4cac1" title="uci_static" alt="" coords="252,309,331,336"/>
+<area shape="rect" id="node15" href="$cas__execute_8h.html#a58deea8c335da5c20867f4664eeb7e5f" title="ux_execute_batch" alt="" coords="227,360,355,387"/>
+<area shape="rect" id="node6" href="$load__db_8c.html#a23f7dd8322d469075360a3461ff250e0" title="loaddb_internal" alt="" coords="453,56,563,83"/>
+<area shape="rect" id="node8" href="$cas__execute_8c.html#a20acd5cba2b70d1565406bd0ab63e13f" title="sch_attr_info" alt="" coords="459,107,557,133"/>
+<area shape="rect" id="node9" href="$cas__execute_8c.html#a8e50c76585838a1d54a22c77da75ec58" title="sch_class_info" alt="" coords="453,157,563,184"/>
+<area shape="rect" id="node10" href="$cas__execute_8c.html#a0fe5773880fb3d369c26a73a8ca2ccc8" title="sch_direct_super_class" alt="" coords="429,208,587,235"/>
+<area shape="rect" id="node11" href="$cas__execute_8c.html#a9159b2be7aeb10d7f9824f97d513680b" title="sch_primary_key" alt="" coords="447,259,569,285"/>
+<area shape="rect" id="node12" href="$cas__execute_8c.html#aa31f19f7be785588c3a996f43baa81f5" title="sch_queryspec" alt="" coords="453,309,563,336"/>
+<area shape="rect" id="node16" href="$cas__function_8h.html#a0a2cf3821b50c136de71b03a9f25c788" title="fn_execute_batch" alt="" coords="445,360,571,387"/>
+</map>

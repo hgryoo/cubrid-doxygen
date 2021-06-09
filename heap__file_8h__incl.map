@@ -1,0 +1,14 @@
+<map id="src/storage/heap_file.h" name="src/storage/heap_file.h">
+<area shape="rect" id="node3" href="$file__manager_8h.html" title="file_manager.h" alt="" coords="147,80,253,107"/>
+<area shape="rect" id="node4" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="271,304,404,331"/>
+<area shape="rect" id="node6" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="547,304,680,331"/>
+<area shape="rect" id="node9" href="$page__buffer_8h.html" title="page_buffer.h" alt="" coords="472,155,573,181"/>
+<area shape="rect" id="node10" href="$mem__block_8hpp.html" title="mem_block.hpp" alt="" coords="677,229,792,256"/>
+<area shape="rect" id="node11" href="$perf__monitor_8h.html" title="perf_monitor.h" alt="" coords="547,229,653,256"/>
+<area shape="rect" id="node12" href="$tde_8h.html" title="tde.h" alt="" coords="371,229,421,256"/>
+<area shape="rect" id="node13" href="$heap__attrinfo_8h.html" title="heap_attrinfo.h" alt="" coords="1009,80,1117,107"/>
+<area shape="rect" id="node14" href="$mvcc_8h.html" title="mvcc.h" alt="" coords="817,229,882,256"/>
+<area shape="rect" id="node5" href="$disk__manager_8h.html" title="disk_manager.h" alt="" coords="181,229,296,256"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html" title="log_manager.h" alt="" coords="104,155,211,181"/>
+<area shape="rect" id="node8" href="$oid_8h.html" title="oid.h" alt="" coords="29,155,80,181"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="qmgr_free_query_temp_file_helper" name="qmgr_free_query_temp_file_helper">
+<area shape="rect" id="node2" href="$query__manager_8h.html#ace099a1e6a1109b25e6923004dcf2e05" title="qmgr_clear_trans_wakeup" alt="" coords="210,85,385,112"/>
+<area shape="rect" id="node6" href="$query__manager_8c.html#ad5845447b3eadd199c4735db36f1c259" title="qmgr_free_query_temp_file" alt="" coords="208,199,387,225"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="468,5,591,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="475,56,584,83"/>
+<area shape="rect" id="node5" href="$log__tran__table_8c.html#ade7e8a4bfcf4f0c9ad892da1c7f5fe7d" title="logtb_release_tran\l_index" alt="" coords="465,107,593,149"/>
+<area shape="rect" id="node7" href="$query__manager_8c.html#a0382e2abbf209165a152f42248749e82" title="xqmgr_end_query" alt="" coords="467,173,592,200"/>
+<area shape="rect" id="node8" href="$query__manager_8c.html#acca53c25556757b153c16afc23f6ccd4" title="xqmgr_execute_query" alt="" coords="454,224,605,251"/>
+<area shape="rect" id="node9" href="$query__manager_8c.html#a55f2eab3bb1fa4d953fa300f40ff9708" title="xqmgr_prepare_and_execute\l_query" alt="" coords="435,275,624,317"/>
+</map>

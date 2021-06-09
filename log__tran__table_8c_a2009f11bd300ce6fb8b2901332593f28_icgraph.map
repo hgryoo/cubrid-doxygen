@@ -1,0 +1,16 @@
+<map id="logtb_assign_tran_index" name="logtb_assign_tran_index">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="216,72,383,99"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="232,189,367,216"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="455,248,598,275"/>
+<area shape="rect" id="node9" href="$classcubload_1_1load__task.html#aa4e8a989957626a602b12db671672fdb" title="cubload::load_task\l::execute" alt="" coords="234,295,365,337"/>
+<area shape="rect" id="node10" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="225,404,374,431"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="451,5,602,32"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="469,56,585,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="482,131,571,157"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="461,182,592,223"/>
+<area shape="rect" id="node11" href="$log__2pc_8c.html#a8f0d3e711958d90183e5813a073b4696" title="log_2pc_commit_second\l_phase" alt="" coords="443,299,610,341"/>
+<area shape="rect" id="node12" href="$log__2pc_8c.html#acf5f3bbe0b21f92332c8b664cd39e251" title="log_2pc_recovery_abort\l_decision" alt="" coords="447,365,607,406"/>
+<area shape="rect" id="node13" href="$log__2pc_8c.html#a7d6a6b9fe0b6a28683b065fdc629f7da" title="log_2pc_recovery_aborted\l_informing_participants" alt="" coords="439,430,614,471"/>
+<area shape="rect" id="node14" href="$log__2pc_8c.html#a2c2f7703db38e95affce3b8302fdc868" title="log_2pc_recovery_commit\l_decision" alt="" coords="439,495,614,537"/>
+<area shape="rect" id="node15" href="$log__2pc_8c.html#a0465c34ab3418ef8ad6cc575f19f57d1" title="log_2pc_recovery_committed\l_informing_participants" alt="" coords="431,561,623,602"/>
+</map>

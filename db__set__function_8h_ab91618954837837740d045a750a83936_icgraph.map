@@ -1,0 +1,16 @@
+<map id="db_col_size" name="db_col_size">
+<area shape="rect" id="node2" href="$cas__execute_8c.html#a0fa7461a216bb80c11fc333a5565d7b6" title="execute_info_set" alt="" coords="163,81,285,108"/>
+<area shape="rect" id="node6" href="$db__collection_8c.html#adf9367b6acdab9210b73a871fcddf6b8" title="fill_collection" alt="" coords="175,167,273,193"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#a48691b3c7d9c7e4ce90d665d74fa2ac6" title="pt_to_list_key" alt="" coords="173,221,275,248"/>
+<area shape="rect" id="node10" href="$query__graph_8c.html#a4d322007ce6983e3472645dbca6b53ec" title="qo_analyze_term" alt="" coords="163,272,285,299"/>
+<area shape="rect" id="node12" href="$cas__execute_8h.html#a09f36de4c7844474d929c4c03b0a2c26" title="ux_col_get" alt="" coords="181,323,267,349"/>
+<area shape="rect" id="node14" href="$cas__execute_8h.html#a023c6b50bdbd122b368d69f67c260d85" title="ux_col_size" alt="" coords="179,373,269,400"/>
+<area shape="rect" id="node15" href="$cas__execute_8c.html#a9201ae649114e34b5a7e59d7c00a4cd6" title="ux_get_generated_keys\l_client_insert" alt="" coords="144,425,304,466"/>
+<area shape="rect" id="node3" href="$cas__execute_8h.html#a480b90c05f39d0bea260091e4aabe256" title="ux_execute" alt="" coords="379,5,469,32"/>
+<area shape="rect" id="node4" href="$cas__execute_8h.html#a472d04640cef98dd54b3a79112fe1f01" title="ux_execute_all" alt="" coords="369,56,479,83"/>
+<area shape="rect" id="node5" href="$cas__execute_8h.html#a93e3389bccb4a45ef423390b55274a5f" title="ux_execute_call" alt="" coords="366,107,482,133"/>
+<area shape="rect" id="node7" href="$db__stub_8h.html#aaf95a2759091f1969373136514d8c8b0" title="api_collection_create\l_from_db_value" alt="" coords="352,158,496,199"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#ae115559464c7b24184e599859c2590f8" title="pt_to_index_info" alt="" coords="365,224,483,251"/>
+<area shape="rect" id="node11" href="$query__graph_8c.html#a10ce29a8c21906fb18b58d642f17e88a" title="qo_add_term" alt="" coords="375,275,473,301"/>
+<area shape="rect" id="node13" href="$cas__function_8h.html#a30af4989294d48398141aa917cbbda6c" title="fn_collection" alt="" coords="377,347,471,373"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="fileio_backup_volume" name="fileio_backup_volume">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="449,5,552,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#af2f4679f1d456bc7b4eeb8aa5996c61a" title="logpb_backup_for_volume" alt="" coords="200,31,373,57"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a5d98688d5706fd68216d7931e5638a3b" title="logpb_fatal_error_internal" alt="" coords="203,81,370,108"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#af38a549f999967427ff62509d3092c7d" title="xboot_backup" alt="" coords="628,5,731,32"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a2cd9afddaaf8f29730d0b3d0ad2be1da" title="logpb_fatal_error" alt="" coords="441,68,560,95"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a9e349e88b9bed778916cd0bc667a0350" title="logpb_fatal_error_exit\l_immediately_wo_flush" alt="" coords="421,119,580,161"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="ws_chn" name="ws_chn">
+<area shape="rect" id="node2" href="$locator__cl_8h.html#a807841a659df9ea7613f212dca2e61d2" title="locator_get_cache_coherency\l_number" alt="" coords="351,57,545,98"/>
+<area shape="rect" id="node6" href="$locator__cl_8c.html#ae31de882d630b39d0dc5e0f2670f63d3" title="locator_lock" alt="" coords="165,104,257,131"/>
+<area shape="rect" id="node7" href="$locator__cl_8c.html#ae2d2ef0074e3218a23790885d5db5d0c" title="locator_lock_set" alt="" coords="389,144,507,171"/>
+<area shape="rect" id="node8" href="$locator__cl_8c.html#a97fdc87a854adcee66cb56d5f7ebbc12" title="locator_lock_and_doesexist" alt="" coords="120,205,303,232"/>
+<area shape="rect" id="node9" href="$locator__cl_8c.html#ae9380f74b20b73719986c9937b5c447e" title="locator_lock_class\l_of_instance" alt="" coords="146,257,277,298"/>
+<area shape="rect" id="node10" href="$locator__cl_8c.html#a64a3c65ddfbb8241b0adceabbebad61e" title="locator_lock_nested" alt="" coords="379,377,517,404"/>
+<area shape="rect" id="node11" href="$locator__cl_8h.html#acb2594bc1facd4c6f4b08c0d2a93bf62" title="locator_lockhint_classes" alt="" coords="129,373,294,400"/>
+<area shape="rect" id="node12" href="$locator__cl_8c.html#a5ea47f9f4bc80a259672a6af280b3ef1" title="locator_set_chn_classes\l_objects" alt="" coords="128,425,295,466"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a8cd87c580f399036e4cbe1346e4b7a86" title="db_chn" alt="" coords="639,5,703,32"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#a5b9930b38fd12b54b5835e275e64e573" title="pt_has_modified_class\l_helper" alt="" coords="593,57,748,98"/>
+<area shape="rect" id="node5" href="$compile_8c.html#a3513a741df42de5cb060652abdfd7d92" title="pt_set_class_chn" alt="" coords="609,123,733,149"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="cubmem::extensible_block::freemem" name="cubmem::extensible_block::freemem">
+<area shape="rect" id="node2" href="$classlog__postpone__cache.html#a58059eb7b85a3e6dbe1a6a80fc2a36bb" title="log_postpone_cache\l::reset" alt="" coords="192,115,333,156"/>
+<area shape="rect" id="node7" href="$classrecord__descriptor.html#ac744112c5d3d359bd7899edd9dc43569" title="record_descriptor::\lset_external_buffer" alt="" coords="196,224,329,265"/>
+<area shape="rect" id="node3" href="$classlog__postpone__cache.html#a3640e54783cc219f708e146703059e88" title="log_postpone_cache\l::do_postpone" alt="" coords="385,5,526,47"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#a95f9d78f6596d07a91842fab70321950" title="log_rollback" alt="" coords="410,71,501,98"/>
+<area shape="rect" id="node5" href="$log__tran__table_8c.html#a6c5edebbae75e1a92360baf780ce8377" title="logtb_clear_tdes" alt="" coords="397,122,514,149"/>
+<area shape="rect" id="node6" href="$log__tran__table_8c.html#af367ea7ca740da91a90b19b7fb7a867b" title="logtb_set_tdes" alt="" coords="402,173,509,199"/>
+<area shape="rect" id="node8" href="$locator__sr_8h.html#aed9949860d03e24a533cf63afe02f0a5" title="locator_allocate_copy\l_area_by_attr_info" alt="" coords="381,224,529,265"/>
+<area shape="rect" id="node9" href="$serial_8c.html#aedd39ef4c027b8c4568faa44f288ea1a" title="serial_update_serial\l_object" alt="" coords="387,289,524,331"/>
+</map>

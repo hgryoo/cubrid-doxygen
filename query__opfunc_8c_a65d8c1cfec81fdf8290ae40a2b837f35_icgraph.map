@@ -1,0 +1,11 @@
+<map id="qdata_get_valptr_type_list" name="qdata_get_valptr_type_list">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a124dfc1f7fe85f3de4683346c32e666b" title="qexec_end_buildvalueblock\l_iterations" alt="" coords="228,5,409,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#aca3e5eec1423cc628767b7d7a8631244" title="qexec_execute_connect_by" alt="" coords="661,71,845,98"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a75ae07a17bba2b206fbea48645d117a8" title="qexec_execute_analytic" alt="" coords="237,122,400,149"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#aeb8bf568b044802bdc42d5e200d45f27" title="qexec_groupby" alt="" coords="263,173,374,199"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#a0a2827b7dd90f44c98c2db198764613e" title="qexec_groupby_index" alt="" coords="245,223,393,250"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#ae47800885bf99317e76891357cc149c2" title="qexec_start_connect\l_by_lists" alt="" coords="247,275,390,316"/>
+<area shape="rect" id="node9" href="$query__executor_8h.html#a7d0bca1e8254f25b16a026620d4ebdab" title="qexec_start_mainblock\l_iterations" alt="" coords="457,228,613,269"/>
+<area shape="rect" id="node10" href="$scan__manager_8c.html#a4e810231b5bf34cdc31e8baf7dfb02af" title="scan_init_indx_coverage" alt="" coords="236,391,401,418"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a425bc11259dd76219569ccff1917b387" title="qexec_end_mainblock\l_iterations" alt="" coords="460,5,611,47"/>
+</map>

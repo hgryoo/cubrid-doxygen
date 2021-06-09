@@ -1,0 +1,7 @@
+<map id="db_check_authorization" name="db_check_authorization">
+<area shape="rect" id="node2" href="$view__transform_8c.html#a0628941e2bc0e28683c9bee3c4113892" title="mq_check_authorization\l_path_entities" alt="" coords="220,5,383,47"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#afd8e3772618184adddd0e1bb5bb4d61b" title="mq_translate_tree" alt="" coords="484,30,611,57"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#abd6a582ba1a125c277accd91b2d91afb" title="mq_compute_authorization" alt="" coords="212,122,391,149"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#a0247955013f24aa1a4ed20ff11b76d6c" title="mq_compute_query_authorization" alt="" coords="439,97,656,123"/>
+<area shape="rect" id="node6" href="$view__transform_8c.html#a85a6baf509b2579b68e8324ace3b0398" title="mq_virtual_queries" alt="" coords="482,147,613,174"/>
+</map>

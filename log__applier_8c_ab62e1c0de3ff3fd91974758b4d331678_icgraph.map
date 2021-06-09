@@ -1,0 +1,8 @@
+<map id="la_restart_on_bulk_flush_error" name="la_restart_on_bulk_flush_error">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a2619bf3c9fa91a51b2bcea7e15f149ff" title="la_flush_repl_items" alt="" coords="181,107,316,133"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a18990ec75cf521042876913c1a3c187e" title="la_apply_delete_log" alt="" coords="375,5,511,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#aae222bafc8147044057c499295141b9b" title="la_apply_insert_log" alt="" coords="377,56,510,83"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a70b0708cb334329d40d7e73128d87e70" title="la_apply_statement_log" alt="" coords="364,107,523,133"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#a2d40a24d77f7d73ad8df508c20a5dbdb" title="la_apply_update_log" alt="" coords="373,157,513,184"/>
+<area shape="rect" id="node7" href="$log__applier_8c.html#afde2fa0f59dca906a1bf5795f8e1b583" title="la_log_commit" alt="" coords="390,208,497,235"/>
+</map>

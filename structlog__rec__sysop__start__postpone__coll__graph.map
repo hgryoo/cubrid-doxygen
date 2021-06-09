@@ -1,0 +1,7 @@
+<map id="log_rec_sysop_start_postpone" name="log_rec_sysop_start_postpone">
+<area shape="rect" id="node2" href="$structlog__rec__sysop__end.html" title="{log_rec_sysop_end\n|+ type\l+ is_sysop_postpone\l+ run_postpone\l+ @181\l|}" alt="" coords="188,491,335,612"/>
+<area shape="rect" id="node3" href="$structlog__rec__mvcc__undo.html" title="{log_rec_mvcc_undo\n|+ mvccid\l|}" alt="" coords="5,226,144,303"/>
+<area shape="rect" id="node4" href="$structlog__rec__undo.html" title="{log_rec_undo\n|+ length\l|}" alt="" coords="97,5,196,83"/>
+<area shape="rect" id="node5" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="371,145,477,384"/>
+<area shape="rect" id="node6" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="257,219,319,311"/>
+</map>

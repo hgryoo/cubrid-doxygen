@@ -1,0 +1,9 @@
+<map id="cubbase::restrack_set_error" name="cubbase::restrack_set_error">
+<area shape="rect" id="node2" href="$namespacecubbase.html#a1dffe90179c931db06b0b911d701e895" title="cubbase::restrack_assert" alt="" coords="204,115,373,142"/>
+<area shape="rect" id="node3" href="$classcubbase_1_1resource__tracker.html#a7c8a18d6da9eecbf46dcbc9a864ee1c2" title="cubbase::resource_tracker\l::clear_all" alt="" coords="645,36,821,77"/>
+<area shape="rect" id="node4" href="$classcubbase_1_1resource__tracker.html#a6433cc43662fddb4e3003ee39ed85079" title="cubbase::resource_tracker\l::~resource_tracker" alt="" coords="869,7,1045,48"/>
+<area shape="rect" id="node5" href="$namespacecubsync.html#ae7165273f9e21a0cf9d642e4b572bea9" title="cubsync::cstrack_assert" alt="" coords="427,86,592,113"/>
+<area shape="rect" id="node6" href="$classcubbase_1_1resource__tracker.html#a6b1f9ced7f2d0af6c5f3ef04d7fbc6bb" title="cubbase::resource_tracker\l::decrement" alt="" coords="421,137,597,179"/>
+<area shape="rect" id="node7" href="$classcubbase_1_1resource__tracker.html#ad22b0c4a377be2b2c23eeaa87ff3f5c3" title="cubbase::resource_tracker\l::increment" alt="" coords="421,203,597,244"/>
+<area shape="rect" id="node8" href="$classcubbase_1_1resource__tracker.html#aa811ad505dbc0161792ef40ea1fd5300" title="cubbase::resource_tracker\l::pop_track" alt="" coords="421,268,597,309"/>
+</map>

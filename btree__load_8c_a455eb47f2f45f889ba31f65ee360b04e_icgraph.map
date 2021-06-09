@@ -1,0 +1,10 @@
+<map id="btree_init_node_header" name="btree_init_node_header">
+<area shape="rect" id="node2" href="$btree__load_8c.html#a1ac6ed02bab79e3feead71009d6db3be" title="btree_load_new_page" alt="" coords="209,107,357,133"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a777512037cd84eb5b53cc6492a81447f" title="btree_split_node" alt="" coords="416,208,533,235"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a29dab257ee803a595192321147caa5ed" title="btree_split_root" alt="" coords="419,259,530,285"/>
+<area shape="rect" id="node9" href="$btree_8c.html#a7a1974789f71aceef777e399fbdf8e8d" title="btree_split_test" alt="" coords="228,208,339,235"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#ad96235296b0b3438c2639b7f7111664b" title="btree_connect_page" alt="" coords="405,5,544,32"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#a2e3d0063dd97e3546031d1f224c54831" title="btree_build_nleafs" alt="" coords="602,44,729,71"/>
+<area shape="rect" id="node5" href="$btree__load_8c.html#aedf651a4177f910e479ec130a42b475b" title="btree_proceed_leaf" alt="" coords="409,107,541,133"/>
+<area shape="rect" id="node6" href="$btree__load_8c.html#a152e2fb9000bb23ccd9be5a7c9c5bfba" title="btree_construct_leafs" alt="" coords="592,120,739,147"/>
+</map>

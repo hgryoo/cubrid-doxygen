@@ -1,0 +1,9 @@
+<map id="disk_get_link" name="disk_get_link">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#ab74caf88bedd2ce61fe46987e7823997" title="boot_check_permanent\l_volumes" alt="" coords="165,5,323,47"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#ab97a88a5a9b58393fdbb7dc5e1a05a23" title="boot_find_rest_permanent\l_volumes" alt="" coords="395,64,567,105"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a9442e1f6f686474552cea7bb425b401b" title="logpb_recreate_volume_info" alt="" coords="152,126,336,153"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#ace20b0215551fade39404f63fbbcc932" title="xboot_check_db_consistency" alt="" coords="384,13,579,39"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a62b08f2d8b59af24bc9f7150fe2b8897" title="boot_find_rest_volumes" alt="" coords="627,71,787,98"/>
+<area shape="rect" id="node7" href="$disk__manager_8h.html#a55303cc2193f6a053bce1d984cc4f516" title="disk_rv_undo_format" alt="" coords="410,130,553,157"/>
+<area shape="rect" id="node8" href="$log__recovery_8c.html#a94f1505b0a4e2ec34df15da4fb8e0395" title="log_recovery_notpartof\l_volumes" alt="" coords="404,181,559,223"/>
+</map>

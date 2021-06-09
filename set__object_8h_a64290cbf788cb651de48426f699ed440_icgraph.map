@@ -1,0 +1,8 @@
+<map id="set_area_reset" name="set_area_reset">
+<area shape="rect" id="node2" href="$area__alloc_8h.html#af3f8aba875a94979778bb92eb69fe92a" title="area_final" alt="" coords="161,88,240,114"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="291,37,444,64"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="495,12,633,38"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="499,74,629,101"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="288,138,447,165"/>
+<area shape="rect" id="node7" href="$unittests__area_8c.html#ac2b9f33eee7a638ac1499ba124af7818" title="test_area" alt="" coords="329,189,405,216"/>
+</map>

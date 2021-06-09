@@ -1,0 +1,6 @@
+<map id="CRC::Calculate" name="CRC::Calculate">
+<area shape="rect" id="node2" href="$crypt__opfunc_8h.html#aa076205a7ab459bedd80b0d9f18785c9" title="crypt_crc32" alt="" coords="168,64,259,91"/>
+<area shape="rect" id="node3" href="$arithmetic_8h.html#a2ab702586e5cd69557aa5e0d3d18a83a" title="db_crc32_dbval" alt="" coords="349,5,462,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#ac60f22fdc6e134afaca3f3fb694b7a64" title="logpb_compute_page\l_checksum" alt="" coords="333,57,478,98"/>
+<area shape="rect" id="node5" href="$log__writer_8c.html#a8c0761293ce20706233bc7badd73739e" title="logwr_check_page_checksum" alt="" coords="307,123,504,149"/>
+</map>

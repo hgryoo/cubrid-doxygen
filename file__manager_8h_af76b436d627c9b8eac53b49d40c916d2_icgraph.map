@@ -1,0 +1,11 @@
+<map id="file_map_pages" name="file_map_pages">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a4aa1649ad60867f8884dc92d09ea41e9" title="catalog_dump" alt="" coords="203,31,306,57"/>
+<area shape="rect" id="node4" href="$system__catalog_8c.html#ade4f4a3ba8b869d1c1b86ded150ca40b" title="catalog_find_optimal_page" alt="" coords="167,103,343,129"/>
+<area shape="rect" id="node8" href="$system__catalog_8h.html#a8573879ea5efec96a7e338d4ed127600" title="catalog_reclaim_space" alt="" coords="177,153,332,180"/>
+<area shape="rect" id="node9" href="$heap__file_8c.html#a74f90f3011a14028be61f651827805d1" title="heap_check_all_pages\l_by_heapchain" alt="" coords="177,205,332,246"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a2dc1d81846b6a8e684f6751695e96604" title="diagdb" alt="" coords="473,5,533,32"/>
+<area shape="rect" id="node5" href="$system__catalog_8c.html#ae91c4d3ad90a56831581466096150876" title="catalog_insert_representation_item" alt="" coords="391,56,615,83"/>
+<area shape="rect" id="node6" href="$system__catalog_8h.html#a33bd784cfe3eb47580d2593b97a12fdf" title="catalog_add_representation" alt="" coords="412,107,593,133"/>
+<area shape="rect" id="node7" href="$system__catalog_8h.html#ade6c3fc1349d8627c3330c0ed25a8021" title="catalog_add_class_info" alt="" coords="423,157,582,184"/>
+<area shape="rect" id="node10" href="$heap__file_8h.html#a6c8e6a7c0e058271191fd35091b687f3" title="heap_check_all_pages" alt="" coords="425,212,580,239"/>
+</map>

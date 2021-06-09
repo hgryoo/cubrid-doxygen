@@ -1,0 +1,7 @@
+<map id="es_posix_delete_file" name="es_posix_delete_file">
+<area shape="rect" id="node2" href="$es_8h.html#a85daafaae7e65285fdc167f61d47fb41" title="es_delete_file" alt="" coords="193,85,296,112"/>
+<area shape="rect" id="node3" href="$elo_8h.html#af406eb24867177d9a708ef216ed2221b" title="elo_copy" alt="" coords="379,5,454,32"/>
+<area shape="rect" id="node4" href="$elo_8h.html#a0249443f6e32df5b6e29768e6ca534c2" title="elo_delete" alt="" coords="376,56,457,83"/>
+<area shape="rect" id="node5" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="344,107,489,149"/>
+<area shape="rect" id="node6" href="$transaction__transient_8hpp.html#a4b245c24099b14761db5dc475bc45754" title="tx_lob_locator_clear" alt="" coords="347,173,486,200"/>
+</map>

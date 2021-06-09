@@ -1,0 +1,8 @@
+<map id="fpcache_ent" name="fpcache_ent">
+<area shape="rect" id="node2" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="140,248,232,355"/>
+<area shape="rect" id="node3" href="$structpred__expr__with__context.html" title="{pred_expr_with_context\n|+ num_attrs_pred\l+ attrids_pred\l|}" alt="" coords="257,255,417,347"/>
+<area shape="rect" id="node4" href="$structcubxasl_1_1pred__expr.html" title="{cubxasl::pred_expr\n|+ pe\l+ type\l|+ clear_xasl()\l}" alt="" coords="5,49,137,141"/>
+<area shape="rect" id="node5" href="$structheap__cache__attrinfo.html" title="{heap_cache_attrinfo\n|+ dummy\l|}" alt="" coords="267,57,406,134"/>
+<area shape="rect" id="node6" href="$structxasl__unpack__info.html" title="{xasl_unpack_info\n|+ packed_xasl\l+ alloc_buf\l+ packed_size\l+ ptr_lwm\l+ ptr_max\l+ alloc_size\l+ track_allocated_bufers\l+ use_xasl_clone\l|}" alt="" coords="430,5,595,185"/>
+<area shape="rect" id="node7" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="441,263,542,340"/>
+</map>

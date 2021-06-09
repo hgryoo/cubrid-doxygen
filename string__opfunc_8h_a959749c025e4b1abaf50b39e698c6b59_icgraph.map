@@ -1,0 +1,11 @@
+<map id="qstr_trim_trailing" name="qstr_trim_trailing">
+<area shape="rect" id="node2" href="$parser__support_8c.html#a027ceed4c22e33884c5aaf46dc19a584" title="pt_check_enum_data_type" alt="" coords="172,78,351,105"/>
+<area shape="rect" id="node5" href="$string__opfunc_8c.html#a1e778401d284563e1b53fc5a7ded640b" title="qstr_trim" alt="" coords="225,137,298,163"/>
+<area shape="rect" id="node7" href="$string__opfunc_8c.html#a32e2cd89e670c2367e72b17948cd2656" title="varchar_truncated" alt="" coords="198,213,325,239"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#af508e79375458c0792a3a99e0c552992" title="pt_check_attribute\l_domain" alt="" coords="399,5,528,47"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a82ac841021e985e46534a3d42d9fd38a" title="validate_attribute\l_domain" alt="" coords="403,71,524,112"/>
+<area shape="rect" id="node6" href="$string__opfunc_8h.html#a8ac84601c5463af4375e9e1f622fcb7c" title="db_string_trim" alt="" coords="411,137,515,163"/>
+<area shape="rect" id="node8" href="$string__opfunc_8c.html#a84ed3661182f80247c957d1d69ae3a52" title="qstr_coerce" alt="" coords="418,187,509,214"/>
+<area shape="rect" id="node9" href="$string__opfunc_8c.html#a94f40afe88ea8e44593319ed39544a26" title="qstr_concatenate" alt="" coords="402,238,525,265"/>
+<area shape="rect" id="node10" href="$string__opfunc_8c.html#a3c7c397b1511668cda117eeac8e11dec" title="qstr_grow_string" alt="" coords="404,289,523,315"/>
+</map>

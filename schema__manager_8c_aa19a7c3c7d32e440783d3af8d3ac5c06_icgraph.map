@@ -1,0 +1,21 @@
+<map id="sm_get_class" name="sm_get_class">
+<area shape="rect" id="node2" href="$authenticate_8c.html#acf524f52131eaeb3f3dce7bd174acd3f" title="au_find_user_cache\l_index" alt="" coords="156,49,295,90"/>
+<area shape="rect" id="node5" href="$db__info_8c.html#a295d0c34b4b65c6e2838988cd3557f9c" title="db_get_class" alt="" coords="176,360,275,387"/>
+<area shape="rect" id="node18" href="$query__result_8c.html#a2f980da9427324d6653e4b34af8d2f2d" title="db_object_fetch" alt="" coords="168,411,283,437"/>
+<area shape="rect" id="node19" href="$object__template_8h.html#ae3a1af80f0007cc038db1ae5d4b48d0b" title="obt_edit_object" alt="" coords="170,461,281,488"/>
+<area shape="rect" id="node20" href="$trigger__manager_8h.html#a71fae3e0638f0155a9f51f80eb7a8c8d" title="tr_is_trigger" alt="" coords="180,512,271,539"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="389,5,467,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#a148c5d7fffeac4d1bb9461e184a6b13c" title="au_set_user" alt="" coords="381,56,475,83"/>
+<area shape="rect" id="node6" href="$object__template_8c.html#aa097b566b93dee9ebb80ad561313295b" title="cache_validation" alt="" coords="369,107,487,133"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#a32cc414770f4a752a5ec484b311ae312" title="db_dput" alt="" coords="394,157,462,184"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#a987601cd86ba3fc72e2a17188738c980" title="db_is_updatable_attribute" alt="" coords="343,208,513,235"/>
+<area shape="rect" id="node9" href="$dbi__compat_8h.html#a6fee6b5937589480aa0a72074e69adcd" title="db_put" alt="" coords="397,259,459,285"/>
+<area shape="rect" id="node10" href="$execute__statement_8c.html#a58b010816d96024eb901391f2b2207b3" title="delete_object_tuple" alt="" coords="361,309,495,336"/>
+<area shape="rect" id="node11" href="$view__transform_8h.html#a67afca1985f6d6a00e0346692bd59e86" title="mq_get_expression" alt="" coords="361,360,495,387"/>
+<area shape="rect" id="node12" href="$view__transform_8c.html#a1fade77eddfd11c9e16c5f7f9995d85a" title="mq_translate_value" alt="" coords="361,411,495,437"/>
+<area shape="rect" id="node13" href="$object__primitive_8c.html#aaf4d28cc6f3dfca404daff24309386b1" title="mr_cmpval_object" alt="" coords="364,461,492,488"/>
+<area shape="rect" id="node14" href="$db__object_8c.html#a4dfaafb73c79825cdd24159a7e1ac49c" title="or_create" alt="" coords="390,512,466,539"/>
+<area shape="rect" id="node15" href="$parser_8h.html#a8c0505697b170c0007c8c9726758ca44" title="pt_eval_path_expr" alt="" coords="364,563,492,589"/>
+<area shape="rect" id="node16" href="$parser_8h.html#a81fed221e67fa0719c7067ac2837b042" title="pt_exec_trigger_stmt" alt="" coords="356,613,500,640"/>
+<area shape="rect" id="node17" href="$parse__dbi_8c.html#aa7eac8cee01ab72b3ebdda22f057805f" title="pt_get_object_data_type" alt="" coords="346,664,510,691"/>
+</map>

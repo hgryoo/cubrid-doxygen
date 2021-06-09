@@ -1,0 +1,8 @@
+<map id="or_get_domain_and_cache" name="or_get_domain_and_cache">
+<area shape="rect" id="node2" href="$object__representation__sr_8h.html#a4d8b5863852379bed246c3c507ae9c27" title="or_get_all_representation" alt="" coords="475,5,642,32"/>
+<area shape="rect" id="node4" href="$object__representation__sr_8c.html#a4ef5b712a59b303dcc884350533cdf18" title="or_get_current_representation" alt="" coords="231,69,425,96"/>
+<area shape="rect" id="node7" href="$object__representation__sr_8c.html#a68f749262702a286c41eae3a019b0748" title="or_get_old_representation" alt="" coords="473,157,644,184"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a33eb619ca4646cdd57d5f1c5ee5a6072" title="heap_classrepr_dump_all" alt="" coords="692,5,861,32"/>
+<area shape="rect" id="node5" href="$object__representation__sr_8h.html#a84364ed617fd672301b2e3e111d8dbba" title="or_get_classrep" alt="" coords="719,68,834,95"/>
+<area shape="rect" id="node6" href="$object__representation__sr_8h.html#a2149e11bfeea165384d559664486fc0b" title="or_get_classrep_noindex" alt="" coords="693,144,860,171"/>
+</map>

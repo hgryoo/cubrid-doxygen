@@ -1,0 +1,15 @@
+<map id="obj_desc_set" name="obj_desc_set">
+<area shape="rect" id="node2" href="$db__obj_8c.html#af112aef99d96f6c04dc12aeaf58e8542" title="db_dput_internal" alt="" coords="152,107,269,133"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#a6456f540adc1cab307f0fdab42ad265a" title="ldr_generic" alt="" coords="168,259,253,285"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a32cc414770f4a752a5ec484b311ae312" title="db_dput" alt="" coords="374,5,442,32"/>
+<area shape="rect" id="node5" href="$load__sa__loader_8cpp.html#a488809224162e03b06ad6a8080924efa" title="ldr_bstr_db_varbit" alt="" coords="345,56,471,83"/>
+<area shape="rect" id="node6" href="$load__sa__loader_8cpp.html#a6d7c1ddeecd0bff84045167e632225ab" title="ldr_class_oid_db_object" alt="" coords="327,107,489,133"/>
+<area shape="rect" id="node7" href="$load__sa__loader_8cpp.html#af7a6f8b06ff0c4429d7a18e91c32bc1e" title="ldr_collection_db_collection" alt="" coords="317,157,499,184"/>
+<area shape="rect" id="node8" href="$load__sa__loader_8cpp.html#a0d2f4843e2592a7266e462749ef0255c" title="ldr_int_db_generic" alt="" coords="345,208,471,235"/>
+<area shape="rect" id="node9" href="$load__sa__loader_8cpp.html#a0fe7c8006c910912a5675bf34057e8a7" title="ldr_json_db_json" alt="" coords="349,259,467,285"/>
+<area shape="rect" id="node10" href="$load__sa__loader_8cpp.html#aff73b22714128c907296f5a62f899b71" title="ldr_nstr_db_varnchar" alt="" coords="337,309,479,336"/>
+<area shape="rect" id="node11" href="$load__sa__loader_8cpp.html#abe1c7b16fef76993a8ebe0404b189d97" title="ldr_numeric_db_generic" alt="" coords="329,360,487,387"/>
+<area shape="rect" id="node12" href="$load__sa__loader_8cpp.html#a8a0efbc0e641f5e6240b1ac3b0babdfa" title="ldr_real_db_generic" alt="" coords="341,411,475,437"/>
+<area shape="rect" id="node13" href="$load__sa__loader_8cpp.html#a85d73fb87de953dc5b25c9cb3e72828e" title="ldr_str_db_generic" alt="" coords="344,461,472,488"/>
+<area shape="rect" id="node14" href="$load__sa__loader_8cpp.html#a495f80198bff192f48db51d5d7cecbb7" title="ldr_xstr_db_varbit" alt="" coords="345,512,471,539"/>
+</map>

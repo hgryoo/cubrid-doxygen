@@ -1,0 +1,10 @@
+<map id="logpb_compute_page_checksum" name="logpb_compute_page_checksum">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#af5a4ba88aed2320228581266485d0652" title="logpb_page_has_valid\l_checksum" alt="" coords="213,26,364,67"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a03b5695bf1ff418e262d62804dd5131c" title="logpb_set_page_checksum" alt="" coords="199,147,379,173"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#a3910b827a74d413de8725c30e047a4f5" title="logpb_page_check_corruption" alt="" coords="427,5,621,32"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#af82ae9aa46256f2446febdc4673bb15b" title="logpb_write_page_to_disk" alt="" coords="438,56,610,83"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#aff4e1c7df4260b5dc7ad3dd1b37e6baa" title="logpb_writev_append\l_pages" alt="" coords="452,107,596,149"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="440,173,608,200"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="450,224,598,251"/>
+<area shape="rect" id="node9" href="$log__writer_8h.html#af1e1368d8e63a233e503b44c7cad4f4e" title="logwr_log_ha_filestat\l_to_string" alt="" coords="452,275,596,317"/>
+</map>

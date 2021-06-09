@@ -1,0 +1,7 @@
+<map id="sl_log_open" name="sl_log_open">
+<area shape="rect" id="node2" href="$log__applier__sql__log_8c.html#a30bf48bf48f89b2d0d5bbfedafa10145" title="sl_write_sql" alt="" coords="144,81,235,108"/>
+<area shape="rect" id="node3" href="$log__applier__sql__log_8h.html#a0ad71584dff521ebc9c6c8f14e4e6c9d" title="sl_write_insert_sql" alt="" coords="295,5,426,32"/>
+<area shape="rect" id="node4" href="$log__applier__sql__log_8h.html#a0fa1fcdd69a15bf6ddbf7a5b8a4343cc" title="sl_write_update_sql" alt="" coords="292,56,429,83"/>
+<area shape="rect" id="node5" href="$log__applier__sql__log_8h.html#ad6d0b7661f50dd3fc3110b24c04f6d4a" title="sl_write_delete_sql" alt="" coords="294,107,427,133"/>
+<area shape="rect" id="node6" href="$log__applier__sql__log_8h.html#ad9c921ee55ab854a69ab2c6a3f6603df" title="sl_write_statement_sql" alt="" coords="283,157,439,184"/>
+</map>

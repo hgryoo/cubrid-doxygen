@@ -1,0 +1,8 @@
+<map id="heap_scanrange_start" name="heap_scanrange_start">
+<area shape="rect" id="node2" href="$scan__manager_8h.html#afeb99c1807d3f8fcc4a8d1c144a4ef87" title="scan_start_scan" alt="" coords="204,107,323,133"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#aabe6a73176c447365adf5a71e0db3d0a" title="qexec_init_next_partition" alt="" coords="373,5,539,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a6069afab32f23903fd3a8d1105a3d19e" title="qexec_next_scan_block" alt="" coords="589,31,752,57"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a4dbbb4d771851eb52f910bdb277a257c" title="qexec_merge_list_outer" alt="" coords="376,107,536,133"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#a7434d4df88025f4102477e48ba7e6011" title="qexec_next_merge_block" alt="" coords="371,157,541,184"/>
+<area shape="rect" id="node7" href="$scan__manager_8h.html#a59d7448b9bad93a9d2d99672b30f68b1" title="scan_open_list_scan" alt="" coords="384,208,528,235"/>
+</map>

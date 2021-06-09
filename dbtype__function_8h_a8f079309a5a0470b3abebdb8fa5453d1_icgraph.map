@@ -1,0 +1,6 @@
+<map id="db_value_type_is_collection" name="db_value_type_is_collection">
+<area shape="rect" id="node2" href="$partition_8c.html#a5f7bf877902a15bd50cb57375ae35786" title="partition_prune_hash" alt="" coords="239,5,381,32"/>
+<area shape="rect" id="node4" href="$partition_8c.html#a022aa19b4bd957ad65d257a4e83c3bbb" title="partition_prune_list" alt="" coords="245,56,375,83"/>
+<area shape="rect" id="node5" href="$query__graph_8c.html#a4d322007ce6983e3472645dbca6b53ec" title="qo_analyze_term" alt="" coords="249,107,371,133"/>
+<area shape="rect" id="node3" href="$partition_8c.html#a1987723550488402d1800ff2f5a860a9" title="partition_prune_db_val" alt="" coords="429,31,581,57"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="prior_set_tde_encrypted" name="prior_set_tde_encrypted">
+<area shape="rect" id="node2" href="$log__manager_8c.html#af9eab79304e58db6d98885f7a771b20c" title="log_append_compensate\l_internal" alt="" coords="218,14,385,55"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a853fd7ef5f6abc4a182d6e79f0a4846f" title="log_append_postpone" alt="" coords="227,80,375,107"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#ad39dc10a11df5427f5af4c203e9d98a6" title="log_append_redo_crumbs" alt="" coords="216,131,387,157"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a487dabcb7a4dc15bab76299fb5ff1660" title="log_append_undoredo\l_crumbs" alt="" coords="445,139,593,181"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html#abf1cc4e746e0b5939da9868aec3613da" title="log_append_repl_info\l_internal" alt="" coords="229,233,373,274"/>
+<area shape="rect" id="node9" href="$log__manager_8h.html#ab82d5be060189c3aa56e57399a458e3a" title="log_append_run_postpone" alt="" coords="215,299,388,325"/>
+<area shape="rect" id="node10" href="$log__manager_8c.html#a8f981d31c8124f3f159c5c64d7af30fe" title="log_append_sysop_end" alt="" coords="222,349,381,376"/>
+<area shape="rect" id="node11" href="$log__manager_8h.html#a9ba19c0baec377fbab0da02a75c7260d" title="log_append_undo_crumbs" alt="" coords="215,400,388,427"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a1b9d7ef3a0e157511a172c7dc6439ca5" title="log_append_compensate" alt="" coords="436,5,603,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#abb91bc4aca8cb9ed6264576e8102979e" title="log_append_compensate\l_with_undo_nxlsa" alt="" coords="436,57,603,98"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="get_domain_internal" name="get_domain_internal">
+<area shape="rect" id="node2" href="$schema__template_8c.html#a60a3058e63c5ae45c201b15a38c2bd75" title="get_domain" alt="" coords="192,163,281,189"/>
+<area shape="rect" id="node3" href="$schema__template_8h.html#ae371b46c5129829a71ebc198c1e0d45c" title="smt_add_attribute_any" alt="" coords="335,5,489,32"/>
+<area shape="rect" id="node4" href="$schema__template_8h.html#a0c233adb45df64018005851832f0d8c5" title="smt_add_set_argument\l_domain" alt="" coords="333,57,491,98"/>
+<area shape="rect" id="node5" href="$schema__template_8h.html#a4d320b9e78973714d8812c6ef842bd7a" title="smt_add_set_attribute\l_domain" alt="" coords="337,122,487,163"/>
+<area shape="rect" id="node6" href="$schema__template_8h.html#a7577e919b97613a157deefba302e9c1c" title="smt_assign_argument\l_domain" alt="" coords="337,187,487,229"/>
+<area shape="rect" id="node7" href="$schema__template_8c.html#a8d2b08109613a72ee33af9e1198e6a71" title="smt_change_attribute" alt="" coords="339,253,485,280"/>
+<area shape="rect" id="node8" href="$schema__template_8h.html#aa4f2c622ffe150b07376e859f454812c" title="smt_delete_set_attribute\l_domain" alt="" coords="329,305,495,346"/>
+</map>

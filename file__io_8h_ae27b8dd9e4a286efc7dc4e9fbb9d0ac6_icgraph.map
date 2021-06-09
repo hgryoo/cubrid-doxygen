@@ -1,0 +1,9 @@
+<map id="fileio_make_volume_ext_name" name="fileio_make_volume_ext_name">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#ae5b9470915ba62402d6ff0dc1e10280f" title="boot_get_new_volume\l_name_and_id" alt="" coords="194,5,346,47"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#aa1450d661897bab9929324e46c0b641d" title="disk_add_volume" alt="" coords="425,42,548,69"/>
+<area shape="rect" id="node4" href="$log__recovery_8c.html#a94f1505b0a4e2ec34df15da4fb8e0395" title="log_recovery_notpartof\l_volumes" alt="" coords="193,123,347,164"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a71808222b6542ca378f0c48c1dab1d62" title="logpb_next_where_path" alt="" coords="191,189,349,215"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="439,130,535,157"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="413,185,561,211"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="397,236,576,277"/>
+</map>

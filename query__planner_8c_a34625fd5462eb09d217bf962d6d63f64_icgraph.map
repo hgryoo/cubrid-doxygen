@@ -1,0 +1,6 @@
+<map id="qo_alloc_info" name="qo_alloc_info">
+<area shape="rect" id="node2" href="$query__planner_8c.html#abf65a5118fdb1892f752f7b1fe193a53" title="planner_visit_node" alt="" coords="163,5,293,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#ad1a25c2a4131f42a4170844e8e4b2faa" title="qo_combine_partitions" alt="" coords="152,56,304,83"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#a95e522736be6c3ba92de264e5383eba5" title="qo_search_planner" alt="" coords="352,81,483,108"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#a86f0243af75dc7c05920d1e061c1f547" title="planner_permutate" alt="" coords="353,5,482,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="tz_get_leapsec_support" name="tz_get_leapsec_support">
+<area shape="rect" id="node2" href="$tz__support_8h.html#aa0449a797e8ff983a6aa1b056afe431c" title="tz_timestamp_decode_sec" alt="" coords="213,5,392,32"/>
+<area shape="rect" id="node4" href="$tz__support_8h.html#adb712256332113b3207b4a8791b70de7" title="tz_timestamp_encode\l_leap_sec_adj" alt="" coords="227,57,378,98"/>
+<area shape="rect" id="node3" href="$db__date_8h.html#a0aedf8cf2a19383e730cb3d5b6abb903" title="db_timestamp_decode_utc" alt="" coords="440,5,619,32"/>
+<area shape="rect" id="node5" href="$db__date_8h.html#af17e083987e6daefb99f2ec566a9588e" title="db_timestamp_encode_utc" alt="" coords="440,64,619,91"/>
+</map>

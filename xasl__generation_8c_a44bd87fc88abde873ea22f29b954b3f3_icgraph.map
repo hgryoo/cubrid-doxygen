@@ -1,0 +1,8 @@
+<map id="pt_mark_spec_list_for_update_clause" name="pt_mark_spec_list_for_update_clause">
+<area shape="rect" id="node2" href="$xasl__generation_8h.html#a4ffda647bdf164dbc2ed5f4e418c7ff3" title="pt_to_delete_xasl" alt="" coords="397,29,521,55"/>
+<area shape="rect" id="node5" href="$xasl__generation_8h.html#a0fd6a284ec97f6ee26384ca36e11590f" title="pt_to_merge_update\l_query" alt="" coords="205,29,345,71"/>
+<area shape="rect" id="node6" href="$xasl__generation_8h.html#a5922ed3fb3f0afecdb69ea391afa9826" title="pt_to_upd_del_query" alt="" coords="204,95,347,122"/>
+<area shape="rect" id="node7" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="395,146,523,173"/>
+<area shape="rect" id="node3" href="$execute__statement_8c.html#a018270c1c91a88694cac8747af9bd25a" title="build_xasl_for_server\l_delete" alt="" coords="571,5,716,47"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a5a96449a20d34f17f764bead35cde84e" title="do_prepare_delete" alt="" coords="579,95,707,122"/>
+</map>

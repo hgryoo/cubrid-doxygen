@@ -1,0 +1,6 @@
+<map id="css_is_log_writer" name="css_is_log_writer">
+<area shape="rect" id="node2" href="$server__support_8c.html#a57ed4030f2aca25e8d0763770b26a679" title="css_find_not_stopped" alt="" coords="185,5,334,32"/>
+<area shape="rect" id="node4" href="$server__support_8c.html#a98d5bb3a9ef95d5ab9c88967ab4060e4" title="css_stop_log_writer" alt="" coords="190,56,329,83"/>
+<area shape="rect" id="node5" href="$server__support_8c.html#affa283d6ed08e3f1ecb10e54833154f4" title="css_stop_non_log_writer" alt="" coords="176,107,343,133"/>
+<area shape="rect" id="node3" href="$server__support_8c.html#ad9793b78930d95c3ef58cfec55f490df" title="css_stop_all_workers" alt="" coords="391,56,539,83"/>
+</map>

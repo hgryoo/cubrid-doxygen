@@ -1,0 +1,21 @@
+<map id="db_json_get_copy_of_doc" name="db_json_get_copy_of_doc">
+<area shape="rect" id="node2" href="$dbtype__function_8h.html#a571604501ed8c55fdbbe38c899c28c15" title="db_get_deep_copy_of_json" alt="" coords="227,56,407,83"/>
+<area shape="rect" id="node5" href="$db__json_8cpp.html#a6173507178ce38fd8c0e337205e4cc03" title="db_value_to_json_doc" alt="" coords="241,427,392,453"/>
+<area shape="rect" id="node20" href="$object__primitive_8c.html#a4f4f8b525058f6236ff3c50c22d3efc3" title="mr_setval_json" alt="" coords="261,477,372,504"/>
+<area shape="rect" id="node3" href="$object__primitive_8c.html#aa09ce7b8c86372cfaad601978ce7f863" title="mr_setmem_json" alt="" coords="483,5,605,32"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a23f5b8528d8c46742f3537474632515f" title="mr_getmem_json" alt="" coords="483,56,605,83"/>
+<area shape="rect" id="node6" href="$arithmetic_8h.html#aef14961c01987faf0103338a88ca7dd8" title="db_evaluate_json_contains" alt="" coords="455,107,633,133"/>
+<area shape="rect" id="node7" href="$arithmetic_8h.html#ae5f841da78992192e755de1b9255943f" title="db_evaluate_json_type\l_dbval" alt="" coords="467,158,621,199"/>
+<area shape="rect" id="node8" href="$arithmetic_8h.html#a855648617f3677e63f24a7f40338eb60" title="db_evaluate_json_length" alt="" coords="461,224,627,251"/>
+<area shape="rect" id="node9" href="$arithmetic_8h.html#aa1f0c64570acf682ab8c9827ae5cb7b8" title="db_evaluate_json_depth" alt="" coords="463,275,625,301"/>
+<area shape="rect" id="node10" href="$arithmetic_8h.html#afb0ef84e52aa254e54cd8b805b4b648a" title="db_evaluate_json_unquote" alt="" coords="456,325,632,352"/>
+<area shape="rect" id="node11" href="$arithmetic_8h.html#aa4c3018c143841bb5947f995169e0d46" title="db_evaluate_json_pretty" alt="" coords="463,376,625,403"/>
+<area shape="rect" id="node12" href="$arithmetic_8h.html#ab470c44093546dda6945ac722166878b" title="db_evaluate_json_extract" alt="" coords="459,427,629,453"/>
+<area shape="rect" id="node13" href="$arithmetic_8h.html#a3ae9cd1e0fa8addd77aab2929d9bc1f4" title="db_evaluate_json_insert" alt="" coords="463,477,625,504"/>
+<area shape="rect" id="node14" href="$arithmetic_8h.html#ab06c85462bca8d854280dfaf3d5f0987" title="db_evaluate_json_replace" alt="" coords="458,528,630,555"/>
+<area shape="rect" id="node15" href="$arithmetic_8h.html#a03b2fc6c423f30ea11d8e7fc4ade194f" title="db_evaluate_json_set" alt="" coords="470,579,618,605"/>
+<area shape="rect" id="node16" href="$arithmetic_8h.html#a08e4b7c859bd415f1e6500e836bb2366" title="db_evaluate_json_keys" alt="" coords="465,629,623,656"/>
+<area shape="rect" id="node17" href="$arithmetic_8h.html#af043fc71cab0a467cf7c7a0e7ffbac64" title="db_evaluate_json_remove" alt="" coords="457,680,631,707"/>
+<area shape="rect" id="node18" href="$arithmetic_8h.html#ab0934308cbf5ad9e2c6d5dcb70f9049e" title="db_evaluate_json_array\l_append" alt="" coords="465,731,623,773"/>
+<area shape="rect" id="node19" href="$arithmetic_8h.html#a9af1a166a342d2e992cae86c69a68c39" title="db_evaluate_json_array\l_insert" alt="" coords="465,797,623,838"/>
+</map>

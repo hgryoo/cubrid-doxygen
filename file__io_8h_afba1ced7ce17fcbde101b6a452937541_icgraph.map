@@ -1,0 +1,10 @@
+<map id="fileio_find_previous_perm_volume" name="fileio_find_previous_perm_volume">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="194,56,285,83"/>
+<area shape="rect" id="node5" href="$file__io_8c.html#ac4dfbfc1389fac0209015c5392d8f9b9" title="fileio_decache" alt="" coords="187,165,292,192"/>
+<area shape="rect" id="node7" href="$file__io_8h.html#af10927c1c82f7fe8c40e2ed37b742ba8" title="fileio_restore_volume" alt="" coords="573,149,718,176"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="556,242,735,283"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#aa1450d661897bab9929324e46c0b641d" title="disk_add_volume" alt="" coords="363,5,485,32"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a5fdac5331f81f23b3b65375177ded3f5" title="disk_format_first_volume" alt="" coords="340,56,508,83"/>
+<area shape="rect" id="node6" href="$file__io_8h.html#a7ecce4d4e9da240bf6a6ff7e1db94834" title="fileio_dismount" alt="" coords="369,224,479,251"/>
+<area shape="rect" id="node9" href="$file__io_8h.html#a8cf259ab943265dcde2b40f55227a8c6" title="fileio_dismount_without\l_fsync" alt="" coords="345,158,503,199"/>
+</map>

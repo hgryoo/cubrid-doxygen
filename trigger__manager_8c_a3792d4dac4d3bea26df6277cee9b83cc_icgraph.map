@@ -1,0 +1,7 @@
+<map id="run_user_triggers" name="run_user_triggers">
+<area shape="rect" id="node2" href="$trigger__manager_8h.html#a6156edd6b804b5f36cd6c4001dc778f4" title="tr_check_abort_triggers" alt="" coords="184,31,343,57"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#a41d04a7d0b17de73944be50c74e07715" title="tr_check_commit_triggers" alt="" coords="177,81,349,108"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#afa0330b36f45069776820158359e133e" title="tr_check_rollback_triggers" alt="" coords="176,132,351,159"/>
+<area shape="rect" id="node3" href="$transaction__cl_8h.html#af107da90cb2131360dd501abdabbf34c" title="tran_unilaterally_abort" alt="" coords="399,5,548,32"/>
+<area shape="rect" id="node4" href="$transaction__cl_8h.html#a938f5814219f14c56e528805ddca545a" title="tran_abort_only_client" alt="" coords="399,56,548,83"/>
+</map>

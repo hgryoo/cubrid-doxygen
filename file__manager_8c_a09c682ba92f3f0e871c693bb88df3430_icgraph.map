@@ -1,0 +1,11 @@
+<map id="file_tempcache_retire_entry" name="file_tempcache_retire_entry">
+<area shape="rect" id="node2" href="$file__manager_8c.html#a64196cd150853d3b210a8f55740f0839" title="file_create_temp_internal" alt="" coords="200,81,367,108"/>
+<area shape="rect" id="node7" href="$file__manager_8h.html#a1e8435c4aa4eab3f0553811b58021f59" title="file_temp_preserve" alt="" coords="217,157,349,184"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#a1a30188f8cc913b7b98aa1ccc5bdefde" title="file_temp_retire_internal" alt="" coords="203,208,363,235"/>
+<area shape="rect" id="node10" href="$file__manager_8c.html#a722ae14045e317d8c823cb3d97b9c48a" title="file_tempcache_cache\l_or_drop_entries" alt="" coords="207,259,359,301"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a2b5d5e1c2b18751b00a2de81ffb8ac3b" title="file_create_query_area" alt="" coords="433,5,586,32"/>
+<area shape="rect" id="node5" href="$file__manager_8h.html#af3aa6e647a67a4c9c168b71db81c47de" title="file_create_temp" alt="" coords="450,56,569,83"/>
+<area shape="rect" id="node6" href="$file__manager_8h.html#a0ff8af98d5ca99bbef410eb9f3e2974a" title="file_create_temp_numerable" alt="" coords="417,107,602,133"/>
+<area shape="rect" id="node4" href="$query__manager_8h.html#a6d204ec3a6700171ebe500d61be313b0" title="qmgr_create_result_file" alt="" coords="652,81,809,108"/>
+<area shape="rect" id="node8" href="$session_8c.html#af4c7654f725bfa926f16b06aa819e56c" title="session_preserve_temporary\l_files" alt="" coords="415,209,604,250"/>
+</map>

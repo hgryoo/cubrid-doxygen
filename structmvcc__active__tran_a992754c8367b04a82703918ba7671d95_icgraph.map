@@ -1,0 +1,6 @@
+<map id="mvcc_active_tran::reset_start_mvccid" name="mvcc_active_tran::reset_start_mvccid">
+<area shape="rect" id="node2" href="$classmvcctable.html#ac23081b89cc7fd64240d0d948ce7b308" title="mvcctable::reset_start\l_mvccid" alt="" coords="216,49,368,90"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="420,5,563,32"/>
+<area shape="rect" id="node4" href="$log__recovery_8c.html#afd45fb1ef67df793b067695e37d91623" title="log_recovery_analysis" alt="" coords="416,56,567,83"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="427,107,555,133"/>
+</map>

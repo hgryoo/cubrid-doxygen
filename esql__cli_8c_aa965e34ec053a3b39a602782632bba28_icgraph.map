@@ -1,0 +1,10 @@
+<map id="free_db_values" name="free_db_values">
+<area shape="rect" id="node2" href="$esql__cli_8c.html#a3e14a78f45e1471094da61125d67bc82" title="clean_up" alt="" coords="199,42,274,69"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#acc956fc3540c9b05a8aab6a61b95620d" title="pop_uci_environment" alt="" coords="164,122,309,149"/>
+<area shape="rect" id="node9" href="$esql__cli_8c.html#a288ea5272d6f511fcc93bf1b974af1e6" title="uci_disconnect" alt="" coords="182,173,291,199"/>
+<area shape="rect" id="node3" href="$object__primitive_8c.html#adf58ac7815ac095185388fe6d12749e0" title="pr_midxkey_compare\l_element" alt="" coords="363,5,510,47"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#a251d8527b2af365292ad24dd8dd4cac1" title="uci_static" alt="" coords="397,71,476,98"/>
+<area shape="rect" id="node6" href="$esql__cli_8c.html#adc61dd435a4de08df9ddb2d62d6ad8ad" title="uci_open_cs" alt="" coords="389,122,484,149"/>
+<area shape="rect" id="node7" href="$esql__cli_8c.html#a70f208e67ee627aa6266d945583940a0" title="uci_execute" alt="" coords="391,173,483,199"/>
+<area shape="rect" id="node8" href="$esql__cli_8c.html#ae3202975f22cc48f7d50dd6943b61736" title="uci_execute_immediate" alt="" coords="357,223,516,250"/>
+</map>

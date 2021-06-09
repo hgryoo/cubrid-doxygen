@@ -1,0 +1,7 @@
+<map id="disk_stab_count_free" name="disk_stab_count_free">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#aeec03ae8e7c25ee787b85ac8140c8596" title="disk_check_volume" alt="" coords="229,5,366,32"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a11c0f285080de4a726add2b851dac9c1" title="disk_rv_redo_format" alt="" coords="227,56,367,83"/>
+<area shape="rect" id="node5" href="$disk__manager_8h.html#a636a75a6b5ad42273ee31512c59b2321" title="disk_rv_volhead_extend_redo" alt="" coords="200,107,395,133"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#a1ae52075d2aa7b8e8ffd2cb55c301005" title="disk_volume_boot" alt="" coords="234,157,361,184"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a1a84495d7e351a40e4168507bb0a2c7e" title="disk_check" alt="" coords="443,5,531,32"/>
+</map>

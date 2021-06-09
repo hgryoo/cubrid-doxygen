@@ -1,0 +1,8 @@
+<map id="sp_is_pair_token" name="sp_is_pair_token">
+<area shape="rect" id="node2" href="$shard__statement_8h.html#a7fa963afea776def3c65b3aa56b2a812" title="shard_stmt_rewrite_sql" alt="" coords="559,5,716,32"/>
+<area shape="rect" id="node4" href="$shard__parser_8h.html#ab74502f325420f2ce8997aa9b268a5f8" title="sp_get_hint_arg" alt="" coords="173,64,288,91"/>
+<area shape="rect" id="node6" href="$shard__parser_8c.html#a96f39bc99ed0035f112a929da40f567f" title="sp_parse_sql_internal" alt="" coords="563,119,711,145"/>
+<area shape="rect" id="node3" href="$shard__proxy__function_8h.html#a1129ea179bc5b956c36d68cb474abd99" title="fn_proxy_client_prepare" alt="" coords="764,5,924,32"/>
+<area shape="rect" id="node5" href="$shard__parser_8c.html#ae7a98e52e416d588fbef6712a40614f5" title="sp_process_token" alt="" coords="359,93,487,120"/>
+<area shape="rect" id="node7" href="$shard__statement_8c.html#a9723d3169ba29602ec7bbf6b3afc8902" title="shard_stmt_change_shard\l_val_to_id" alt="" coords="336,27,511,69"/>
+</map>

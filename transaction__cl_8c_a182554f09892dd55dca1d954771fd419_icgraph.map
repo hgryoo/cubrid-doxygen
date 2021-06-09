@@ -1,0 +1,8 @@
+<map id="tran_is_active_and_has_updated" name="tran_is_active_and_has_updated">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#aa7beb3207bb2b041cfbaf347ea2bf51a" title="boot_shutdown_client" alt="" coords="184,115,332,141"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="385,5,523,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="389,56,519,83"/>
+<area shape="rect" id="node5" href="$boot__cl_8c.html#aad79151cb08126366c53b243fbccafbb" title="boot_shutdown_client\l_at_exit" alt="" coords="380,107,528,149"/>
+<area shape="rect" id="node6" href="$db__stub_8c.html#a316de5360d359d3b0fca32c74e4cc358" title="ci_conn_close_impl" alt="" coords="386,173,522,200"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#a760ba78fe8b25f4961aaff8824eafacb" title="db_shutdown" alt="" coords="405,224,503,251"/>
+</map>

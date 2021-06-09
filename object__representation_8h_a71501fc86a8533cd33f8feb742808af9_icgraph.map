@@ -1,0 +1,21 @@
+<map id="or_skip_set_header" name="or_skip_set_header">
+<area shape="rect" id="node2" href="$catalog__class_8c.html#a607be0a594e58483f6ffd7dbfd4e559e" title="catcls_get_object_set" alt="" coords="787,13,937,39"/>
+<area shape="rect" id="node4" href="$catalog__class_8c.html#afbe6716d19654258c0a0d7394fc733db" title="catcls_get_subset" alt="" coords="196,246,324,273"/>
+<area shape="rect" id="node11" href="$transform__cl_8c.html#a352a819670078925f67dbf41f46c6a94" title="get_object_set" alt="" coords="207,478,313,505"/>
+<area shape="rect" id="node14" href="$transform__cl_8c.html#a843cb788c55f59e7ca16290c804544b0" title="get_substructure_set" alt="" coords="188,579,332,606"/>
+<area shape="rect" id="node19" href="$transform__cl_8c.html#ae3c335836272d388cf85de41b491d259" title="install_substructure_set" alt="" coords="570,782,730,809"/>
+<area shape="rect" id="node20" href="$object__representation_8c.html#afc2528c302d332029c608e0051848365" title="or_get_enumeration" alt="" coords="192,833,328,859"/>
+<area shape="rect" id="node3" href="$catalog__class_8c.html#a84555f5478d1bbab02c00fce5c73fbae" title="catcls_get_or_value\l_from_class" alt="" coords="1177,164,1316,205"/>
+<area shape="rect" id="node5" href="$catalog__class_8c.html#a20b67129e6b35baa140e4105f7f9ae75" title="catcls_convert_attr\l_id_to_name" alt="" coords="383,209,516,251"/>
+<area shape="rect" id="node6" href="$catalog__class_8c.html#a7d582bb9c89ad8c12586b7d4f9da0fbe" title="catcls_get_or_value\l_from_attribute" alt="" coords="581,89,719,131"/>
+<area shape="rect" id="node7" href="$catalog__class_8c.html#aedfe9f2db3867cad7afc8362d6e72c44" title="catcls_get_or_value\l_from_domain" alt="" coords="380,92,519,133"/>
+<area shape="rect" id="node8" href="$catalog__class_8c.html#a9b59b40bee738607ab7f47baaac4f445" title="catcls_get_or_value\l_from_method_argument" alt="" coords="567,155,733,196"/>
+<area shape="rect" id="node9" href="$catalog__class_8c.html#ab5c086ec39b9f9581f7c909c85635e03" title="catcls_get_or_value\l_from_method_signiture" alt="" coords="781,208,943,249"/>
+<area shape="rect" id="node10" href="$catalog__class_8c.html#a181bda4e0bcee78fd6ac8e8f5877f0ca" title="catcls_get_or_value\l_from_method" alt="" coords="991,208,1129,249"/>
+<area shape="rect" id="node12" href="$transform__cl_8c.html#abbfdce0d1a4eb0e066a1f503161fa721" title="disk_to_attribute" alt="" coords="390,478,509,505"/>
+<area shape="rect" id="node13" href="$transform__cl_8c.html#a7e9edf7ef6d40f43dc2b1c5dcca4594d" title="disk_to_class" alt="" coords="1009,529,1111,555"/>
+<area shape="rect" id="node15" href="$transform__cl_8c.html#af2c01e8f25e41c96b42163ab63dc96e5" title="disk_to_domain2" alt="" coords="389,630,509,657"/>
+<area shape="rect" id="node16" href="$transform__cl_8c.html#a188f0f456dffd30d15bd24cd9ff5a4a4" title="disk_to_metharg" alt="" coords="390,579,509,606"/>
+<area shape="rect" id="node17" href="$transform__cl_8c.html#a027569457b40f4a1fcde5e74cba6af06" title="disk_to_methsig" alt="" coords="591,630,709,657"/>
+<area shape="rect" id="node18" href="$transform__cl_8c.html#a3a42dc749c0ed2f160c9ca8e8b1edc48" title="disk_to_method" alt="" coords="805,630,919,657"/>
+</map>

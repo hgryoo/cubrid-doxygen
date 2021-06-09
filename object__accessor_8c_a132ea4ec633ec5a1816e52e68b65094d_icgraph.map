@@ -1,0 +1,10 @@
+<map id="find_unique" name="find_unique">
+<area shape="rect" id="node2" href="$object__accessor_8h.html#ab156c725f5f4a41ffac3798e838cad51" title="obj_desc_find_unique" alt="" coords="141,31,288,57"/>
+<area shape="rect" id="node4" href="$object__accessor_8h.html#a400703eb0e3daf744f444514123472cb" title="obj_find_unique" alt="" coords="159,132,271,159"/>
+<area shape="rect" id="node3" href="$db__obj_8c.html#a14f14621f859969c9ee0bcbcf5b86144" title="db_dfind_unique" alt="" coords="369,5,485,32"/>
+<area shape="rect" id="node5" href="$db__obj_8c.html#a9b83a61047272e6292c3625d7341854a" title="db_find_unique" alt="" coords="373,56,482,83"/>
+<area shape="rect" id="node6" href="$db__obj_8c.html#a823ba33c7b13ae541b9b5199b904bdd7" title="db_find_unique_write_mode" alt="" coords="336,107,519,133"/>
+<area shape="rect" id="node7" href="$authenticate_8h.html#afb3c317e408bd9ad5a72bcc7c52877e2" title="au_find_user" alt="" coords="379,157,475,184"/>
+<area shape="rect" id="node8" href="$authenticate_8h.html#a1c33e89338417b7d7283bd66a1c8e315" title="au_find_user_to_drop" alt="" coords="354,208,501,235"/>
+<area shape="rect" id="node9" href="$authenticate_8c.html#a8a7c21f89841de7a41578a09e4cd63b5" title="au_set_new_auth" alt="" coords="365,259,489,285"/>
+</map>

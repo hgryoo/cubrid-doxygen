@@ -1,0 +1,8 @@
+<map id="log_can_skip_undo_logging" name="log_can_skip_undo_logging">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a9ba19c0baec377fbab0da02a75c7260d" title="log_append_undo_crumbs" alt="" coords="235,71,408,98"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a487dabcb7a4dc15bab76299fb5ff1660" title="log_append_undoredo\l_crumbs" alt="" coords="247,5,395,47"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#a1c8ac655e0ef2b622fa7d90219a3af33" title="heap_mvcc_log_insert" alt="" coords="468,13,620,39"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ab689c730c941c75daa26b5d968070f3c" title="log_append_undo_data" alt="" coords="467,63,621,90"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a34b6f583b3036cd74a105b48d8f4be6d" title="log_append_undo_data2" alt="" coords="463,114,625,141"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a699da5ea92f9390e4ae6169d7b2ac73a" title="log_append_undo_recdes2" alt="" coords="456,165,632,191"/>
+</map>

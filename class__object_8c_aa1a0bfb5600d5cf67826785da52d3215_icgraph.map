@@ -1,0 +1,12 @@
+<map id="classobj_make_prop" name="classobj_make_prop">
+<area shape="rect" id="node2" href="$class__object_8h.html#a17622b0d9fbfa6e567c0b692a2d83668" title="classobj_put_index" alt="" coords="195,180,328,207"/>
+<area shape="rect" id="node10" href="$transform__cl_8c.html#a5169ad91b05e94d735221116d3d0d9d3" title="tf_attribute_default\l_expr_to_property" alt="" coords="196,231,327,273"/>
+<area shape="rect" id="node11" href="$virtual__object_8h.html#afa9fe049dde718b4eb0a04fdae0e0b71" title="vid_att_in_obj_id" alt="" coords="202,321,321,348"/>
+<area shape="rect" id="node3" href="$class__object_8h.html#a7703722447201ba90b4514d1ae28076a" title="classobj_copy_props" alt="" coords="386,5,530,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#a6e76a4904bcf8892701103fa8cf2188c" title="flatten_properties" alt="" coords="608,31,731,57"/>
+<area shape="rect" id="node5" href="$class__object_8h.html#a1ae64f7bcdcc5298b388cac06651d3be" title="classobj_populate_class\l_properties" alt="" coords="376,107,540,149"/>
+<area shape="rect" id="node6" href="$schema__manager_8c.html#ae4753271b1ad5f658307b6269fefd248" title="allocate_disk_structures\l_index" alt="" coords="377,173,539,214"/>
+<area shape="rect" id="node7" href="$schema__manager_8c.html#a94a5ab245d87fe80cc5e41e78cf18554" title="transfer_disk_structures" alt="" coords="588,276,751,303"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="401,313,515,340"/>
+<area shape="rect" id="node9" href="$schema__template_8c.html#a55c2e64a58efb6de635e8fb18a509269" title="smt_add_constraint\l_to_property" alt="" coords="390,365,526,406"/>
+</map>

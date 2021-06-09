@@ -1,0 +1,12 @@
+<map id="desc_value_print" name="desc_value_print">
+<area shape="rect" id="node2" href="$unload__schema_8c.html#a088cdc98b21b469dcbad882f4bd92c78" title="emit_attribute_def" alt="" coords="203,56,330,83"/>
+<area shape="rect" id="node5" href="$unload__schema_8c.html#af229be3149e12a38147b89edb94eee35" title="emit_partition_parts" alt="" coords="199,107,335,133"/>
+<area shape="rect" id="node7" href="$unload__schema_8c.html#ae4e4a6438d4cb0fc3c9e64d959f73b48" title="emit_stored_procedure" alt="" coords="413,208,567,235"/>
+<area shape="rect" id="node9" href="$unload__schema_8c.html#ace2348b07aba5e56ee57e47034f04064" title="emit_stored_procedure_args" alt="" coords="173,208,360,235"/>
+<area shape="rect" id="node10" href="$unload__schema_8c.html#a19c7529861ddae68e39dc5e12d23e60e" title="export_serial" alt="" coords="442,259,538,285"/>
+<area shape="rect" id="node11" href="$load__object_8c.html#a6593d2c4494902862467f60edd76b3ae" title="print_set" alt="" coords="231,309,303,336"/>
+<area shape="rect" id="node3" href="$unload__schema_8c.html#a19c3aac178f3e95b85d38f07818bc14a" title="emit_class_attributes" alt="" coords="417,5,563,32"/>
+<area shape="rect" id="node4" href="$unload__schema_8c.html#ad469eaff0640ab475046abf543226b20" title="emit_instance_attributes" alt="" coords="408,56,572,83"/>
+<area shape="rect" id="node6" href="$unload__schema_8c.html#a3bf7f94c009b9b80b8b2ee2263250f8a" title="emit_partition_info" alt="" coords="426,107,554,133"/>
+<area shape="rect" id="node8" href="$unloaddb_8h.html#aab2eec8bbc4988ca57d5cef87fafc87b" title="extract_classes" alt="" coords="620,233,735,260"/>
+</map>

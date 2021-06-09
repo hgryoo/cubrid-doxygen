@@ -1,0 +1,5 @@
+<map id="pruningset_union" name="pruningset_union">
+<area shape="rect" id="node2" href="$partition_8c.html#a066dd321eb39153884fd55a1193384a9" title="partition_match_index_key" alt="" coords="173,5,351,32"/>
+<area shape="rect" id="node4" href="$partition_8c.html#a76ec3a19d459a681ec9409a505776c43" title="partition_match_pred_expr" alt="" coords="175,56,349,83"/>
+<area shape="rect" id="node3" href="$partition_8c.html#a0f5875d7be9c8f82a9d6d8466ff4559a" title="partition_prune_index_scan" alt="" coords="399,31,579,57"/>
+</map>

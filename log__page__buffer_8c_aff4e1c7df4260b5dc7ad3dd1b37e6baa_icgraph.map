@@ -1,0 +1,8 @@
+<map id="logpb_writev_append_pages" name="logpb_writev_append_pages">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="197,74,355,116"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#aae63a58319305452b39af03c698e37cb" title="logpb_append_next_record" alt="" coords="620,19,797,46"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="403,82,571,108"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a978997a75ba311ff9ab0e14bb43100e5" title="logpb_next_append_page" alt="" coords="624,95,793,122"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a831b69ec6d531cf9cc7dc60c2ab5fcb3" title="logpb_end_append" alt="" coords="422,31,553,58"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#ab5c84aff4d15372a2d150897ad6d2b80" title="logpb_flush_pages_direct" alt="" coords="403,183,572,210"/>
+</map>

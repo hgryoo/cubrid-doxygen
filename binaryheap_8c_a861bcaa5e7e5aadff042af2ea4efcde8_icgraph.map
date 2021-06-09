@@ -1,0 +1,10 @@
+<map id="bh_destroy" name="bh_destroy">
+<area shape="rect" id="node2" href="$filter__pred__cache_8h.html#a2b6c8e8b0184a6f6a542fbde52b55e67" title="fpcache_finalize" alt="" coords="162,5,278,32"/>
+<area shape="rect" id="node5" href="$query__executor_8h.html#a8ffca36cae36a3f9c8c3c2c3f79be082" title="qexec_clear_xasl" alt="" coords="159,131,281,157"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#aac567ecb8be0fd3493d033b3703a8324" title="qexec_setup_topn_proc" alt="" coords="140,181,300,208"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#ace94f31b6618ddcdf735e6e3c126542d" title="qexec_topn_tuples_to\l_list_id" alt="" coords="145,233,295,274"/>
+<area shape="rect" id="node8" href="$xasl__cache_8c.html#aa7785005697a346bf3659805e7a386b4" title="xcache_cleanup" alt="" coords="162,299,278,325"/>
+<area shape="rect" id="node9" href="$xasl__cache_8h.html#adc96202d331d1b9eb3a44231954634e6" title="xcache_finalize" alt="" coords="164,56,276,83"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="361,5,495,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="348,56,508,83"/>
+</map>

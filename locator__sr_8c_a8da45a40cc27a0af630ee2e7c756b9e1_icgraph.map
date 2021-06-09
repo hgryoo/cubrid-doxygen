@@ -1,0 +1,14 @@
+<map id="locator_savepoint_transient_class_name_entries" name="locator_savepoint_transient_class_name_entries">
+<area shape="rect" id="node2" href="$transaction__sr_8c.html#ace0d1199b573b1c5a5cf64183ee33148" title="xtran_server_savepoint" alt="" coords="235,56,392,83"/>
+<area shape="rect" id="node5" href="$transaction__sr_8c.html#abc6a0429d9b60eb46bcd731ceb9d6b4c" title="xtran_server_start\l_topop" alt="" coords="250,282,377,323"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a012d03ddeae8ee4eec86dba52aa7895f" title="tran_server_savepoint" alt="" coords="447,5,598,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#aa887f777e43276b4923c4f7328d89bcb" title="stran_server_savepoint" alt="" coords="444,56,601,83"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#a36e15cbbb034ffbb05d07593bab9b9c5" title="tran_server_2pc_prepare\l_global_tran" alt="" coords="440,107,605,149"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a14a1ccf5f4d8c4ca20eac644ad7b6348" title="stran_server_start\l_topop" alt="" coords="459,173,586,214"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#aa789b9a1da1ee681d9ad9464672c2325" title="qexec_execute_update" alt="" coords="445,239,601,265"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#a98038934d3c74520f49e6c153067683b" title="qexec_execute_merge" alt="" coords="653,289,807,316"/>
+<area shape="rect" id="node10" href="$query__executor_8c.html#a6a52d397abf14eeef1f1a23bccd2ed42" title="qexec_execute_delete" alt="" coords="447,340,599,367"/>
+<area shape="rect" id="node11" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="448,391,597,417"/>
+<area shape="rect" id="node12" href="$locator__sr_8c.html#a73774f0c161927b6f0c0fd13d4e1bf2c" title="xlocator_repl_force" alt="" coords="457,441,589,468"/>
+<area shape="rect" id="node13" href="$locator__sr_8c.html#ac04114037ed20e59c26776f0851d2d15" title="xlocator_force" alt="" coords="471,492,575,519"/>
+</map>

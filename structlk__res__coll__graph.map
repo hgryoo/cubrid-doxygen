@@ -1,0 +1,5 @@
+<map id="lk_res" name="lk_res">
+<area shape="rect" id="node2" href="$structlk__res__key.html" title="{lk_res_key\n|+ type\l|}" alt="" coords="9,189,94,267"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,5,97,112"/>
+<area shape="rect" id="node4" href="$structlk__entry.html" title="{lk_entry\n|+ dummy\l|}" alt="" coords="118,189,195,267"/>
+</map>

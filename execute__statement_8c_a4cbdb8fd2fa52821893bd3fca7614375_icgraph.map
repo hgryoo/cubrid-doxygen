@@ -1,0 +1,6 @@
+<map id="do_update_auto_increment_serial_on_rename" name="do_update_auto_increment_serial_on_rename">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#aee88046198ed8215f4873a60e4a1350e" title="dbt_rename" alt="" coords="282,13,373,39"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a4b5c1edbe844b65f680fa8eceaa5683e" title="do_change_att_schema_only" alt="" coords="232,63,423,90"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a53bb6f39da1ec8a04f7f61a2ae90ef85" title="sm_rename_class" alt="" coords="263,114,391,141"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="471,5,612,47"/>
+</map>

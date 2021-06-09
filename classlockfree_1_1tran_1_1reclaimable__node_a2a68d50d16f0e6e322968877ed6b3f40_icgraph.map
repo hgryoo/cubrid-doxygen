@@ -1,0 +1,5 @@
+<map id="lockfree::tran::reclaimable_node::reclaim" name="lockfree::tran::reclaimable_node::reclaim">
+<area shape="rect" id="node2" href="$classlockfree_1_1tran_1_1descriptor.html#a5f12e49578a1fed59f3898c21fb41fa4" title="lockfree::tran::descriptor\l::reclaim_retired_head" alt="" coords="225,12,388,53"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1tran_1_1descriptor.html#ad1560715c6f4711750f793451c55a271" title="lockfree::tran::descriptor\l::~descriptor" alt="" coords="436,71,599,112"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1tran_1_1descriptor.html#a79052fd01859dbe6b3c8dd9b4b2cc7b4" title="lockfree::tran::descriptor\l::reclaim_retired_list" alt="" coords="436,5,599,47"/>
+</map>

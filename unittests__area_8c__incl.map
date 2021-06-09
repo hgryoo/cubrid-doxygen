@@ -1,0 +1,14 @@
+<map id="src/executables/unittests_area.c" name="src/executables/unittests_area.c">
+<area shape="rect" id="node2" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="249,319,346,345"/>
+<area shape="rect" id="node5" href="$db__set_8h.html" title="db_set.h" alt="" coords="20,244,92,271"/>
+<area shape="rect" id="node7" href="$porting_8h.html" title="porting.h" alt="" coords="880,169,952,196"/>
+<area shape="rect" id="node9" href="$lock__free_8h.html" title="lock_free.h" alt="" coords="577,95,663,121"/>
+<area shape="rect" id="node13" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="167,244,284,271"/>
+<area shape="rect" id="node14" href="$set__object_8h.html" title="set_object.h" alt="" coords="359,169,452,196"/>
+<area shape="rect" id="node19" href="$class__object_8h.html" title="class_object.h" alt="" coords="228,169,335,196"/>
+<area shape="rect" id="node20" href="$object__template_8h.html" title="object_template.h" alt="" coords="299,95,424,121"/>
+<area shape="rect" id="node3" href="$error__code_8h.html" title="error_code.h" alt="" coords="497,393,591,420"/>
+<area shape="rect" id="node10" href="$lockfree__bitmap_8hpp.html" title="lockfree_bitmap.hpp" alt="" coords="527,169,665,196"/>
+<area shape="rect" id="node15" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="607,244,723,271"/>
+<area shape="rect" id="node17" href="$locator_8h.html" title="locator.h" alt="" coords="308,244,380,271"/>
+</map>

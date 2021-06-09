@@ -1,0 +1,8 @@
+<map id="locator_repl_flush_all" name="locator_repl_flush_all">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a2619bf3c9fa91a51b2bcea7e15f149ff" title="la_flush_repl_items" alt="" coords="197,107,332,133"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a18990ec75cf521042876913c1a3c187e" title="la_apply_delete_log" alt="" coords="391,5,527,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a2d40a24d77f7d73ad8df508c20a5dbdb" title="la_apply_update_log" alt="" coords="389,56,529,83"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#aae222bafc8147044057c499295141b9b" title="la_apply_insert_log" alt="" coords="393,107,526,133"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#a70b0708cb334329d40d7e73128d87e70" title="la_apply_statement_log" alt="" coords="380,157,539,184"/>
+<area shape="rect" id="node7" href="$log__applier_8c.html#afde2fa0f59dca906a1bf5795f8e1b583" title="la_log_commit" alt="" coords="406,208,513,235"/>
+</map>

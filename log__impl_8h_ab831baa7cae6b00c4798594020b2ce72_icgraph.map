@@ -1,0 +1,21 @@
+<map id="logtb_get_system_tdes" name="logtb_get_system_tdes">
+<area shape="rect" id="node2" href="$log__impl_8h.html#a8457e2cd601261fe399b83db88ca70dd" title="LOG_FIND_TDES" alt="" coords="229,438,359,465"/>
+<area shape="rect" id="node20" href="$vacuum_8c.html#a2054be663df65ee715be458816f4c751" title="vacuum_worker_allocate\l_resources" alt="" coords="211,490,377,531"/>
+<area shape="rect" id="node3" href="$event__log_8h.html#aeaa987b85941659c10ef8b2b43c1f9e1" title="event_log_bind_values" alt="" coords="442,110,597,137"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8c.html#a0eb59ade53933c2873e28f2b7456cafc" title="event_log_many_ioreads" alt="" coords="669,10,835,37"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8c.html#aa5c954ff181513db7f09d533b4db9c47" title="event_log_slow_query" alt="" coords="677,62,827,89"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8c.html#a4a3b1e68dea5e0cb9fc930812c1a2407" title="event_log_temp_expand\l_pages" alt="" coords="671,116,833,158"/>
+<area shape="rect" id="node7" href="$lock__manager_8h.html#a599d30dae661fe8e9c5046fbb7475554" title="lock_wait_state_to\l_string" alt="" coords="687,187,817,228"/>
+<area shape="rect" id="node8" href="$locator__sr_8c.html#af096d92bd6e916c082fbef1b98cf6c8d" title="locator_decr_num_transient\l_classnames" alt="" coords="428,314,611,355"/>
+<area shape="rect" id="node9" href="$locator__sr_8c.html#a92e66577d09468848d4c6e520b3d5c0d" title="locator_drop_class\l_name_entry" alt="" coords="687,328,817,370"/>
+<area shape="rect" id="node10" href="$log__manager_8c.html#a922a0c5f839b07dc18e05320911311f4" title="locator_drop_transient\l_class_name_entries" alt="" coords="891,328,1041,370"/>
+<area shape="rect" id="node11" href="$locator__sr_8c.html#a2306a5054d97cbf1cbbb2c4a8b9da1dd" title="locator_force_for_multi\l_update" alt="" coords="442,548,597,590"/>
+<area shape="rect" id="node12" href="$locator__sr_8c.html#a741e689884011a0c7f987e278055a8ca" title="locator_get_num_transient\l_classnames" alt="" coords="432,431,607,472"/>
+<area shape="rect" id="node13" href="$locator__sr_8h.html#a8da45a40cc27a0af630ee2e7c756b9e1" title="locator_savepoint_transient\l_class_name_entries" alt="" coords="661,483,843,524"/>
+<area shape="rect" id="node14" href="$locator__sr_8c.html#a8f25c41064bb5a5d23638570423db5c4" title="locator_incr_num_transient\l_classnames" alt="" coords="430,614,609,655"/>
+<area shape="rect" id="node15" href="$locator__sr_8h.html#a4955d5ba9c9a9197d618e2929d3dcee1" title="locator_update_index" alt="" coords="447,680,592,706"/>
+<area shape="rect" id="node16" href="$log__2pc_8h.html#a318025a7b9ff40835b5dcd6fd7021919" title="log_2pc_attach_global_tran" alt="" coords="662,756,842,782"/>
+<area shape="rect" id="node17" href="$log__2pc_8c.html#a3cf6674df689960ceebaee59702c4539" title="log_2pc_check_duplicate\l_global_tran_id" alt="" coords="435,832,603,874"/>
+<area shape="rect" id="node18" href="$log__2pc_8c.html#a71a85f726dce1cf6b973153e44c6d56e" title="log_2pc_find_tran_descriptor" alt="" coords="425,730,613,757"/>
+<area shape="rect" id="node19" href="$log__2pc_8h.html#a6e0cbc913a06a06ddd6e4494c50d671c" title="log_2pc_get_global\l_tran_info" alt="" coords="453,898,586,939"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="lockfree::tran::table::get_new_global_tranid" name="lockfree::tran::table::get_new_global_tranid">
+<area shape="rect" id="node2" href="$classlockfree_1_1tran_1_1descriptor.html#a2dc1d777c98549f4fa72bf76a9645d15" title="lockfree::tran::descriptor\l::start_tran_and_increment_id" alt="" coords="212,39,407,80"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1hashmap.html#a22a26c82e21b90f1debd70162466c7f2" title="lockfree::hashmap::\lpromote_tran_force" alt="" coords="467,5,605,47"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1tran_1_1descriptor.html#ad54c5e767bfe1e5497042af1b6f6a7d8" title="lockfree::tran::descriptor\l::retire_node" alt="" coords="455,71,617,112"/>
+</map>

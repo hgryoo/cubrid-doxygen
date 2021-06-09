@@ -1,0 +1,11 @@
+<map id="or_put_sub_domain" name="or_put_sub_domain">
+<area shape="rect" id="node2" href="$transform__cl_8c.html#a7772451c6ef5eb0f5e3fa864461fa26d" title="put_substructure_set" alt="" coords="188,172,332,198"/>
+<area shape="rect" id="node3" href="$transform__cl_8c.html#ad41fd78f7a855252f1db089aec2393be" title="domain_to_disk" alt="" coords="400,96,513,122"/>
+<area shape="rect" id="node4" href="$transform__cl_8c.html#ad691f008c1a726bda967447b3c906bc1" title="metharg_to_disk" alt="" coords="590,45,709,72"/>
+<area shape="rect" id="node5" href="$transform__cl_8c.html#a86620869dca802c0075268d1fe0551e1" title="methsig_to_disk" alt="" coords="765,20,883,46"/>
+<area shape="rect" id="node6" href="$transform__cl_8c.html#ac81b2c7073a8cac33ce951a3d727a2dd" title="attribute_to_disk" alt="" coords="590,121,709,148"/>
+<area shape="rect" id="node7" href="$transform__cl_8c.html#afae1dc57f5387c6e05852c7ecc53c3ac" title="repattribute_to_disk" alt="" coords="581,172,717,198"/>
+<area shape="rect" id="node8" href="$transform__cl_8c.html#a0fb64eec8dc9d36bca3c4ba7d6427868" title="method_to_disk" alt="" coords="399,248,514,274"/>
+<area shape="rect" id="node9" href="$transform__cl_8c.html#a3590c3824e64e09e183d98422fc30143" title="representation_to_disk" alt="" coords="380,298,533,325"/>
+<area shape="rect" id="node10" href="$transform__cl_8c.html#ae977cc1aa7be4ecb46d65d25e953a1d8" title="put_class_attributes" alt="" coords="387,349,526,376"/>
+</map>

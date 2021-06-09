@@ -1,0 +1,8 @@
+<map id="dwb_destroy_wait_queue" name="dwb_destroy_wait_queue">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#a5776b24a954909a353c19d6029fccb0a" title="dwb_destroy_internal" alt="" coords="407,5,553,32"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8c.html#a0e1b4279bba2ced7f70f5eb056db3502" title="dwb_finalize_block" alt="" coords="223,56,355,83"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#a5f895a64d283260b4d3b6147b49c17c0" title="dwb_destroy" alt="" coords="607,5,703,32"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8h.html#a73fd65b5e5208dc676dab35b729a84fc" title="dwb_recreate" alt="" coords="605,56,705,83"/>
+<area shape="rect" id="node6" href="$double__write__buffer_8c.html#ab180db015df6cfbabb8c7e1692c00ab1" title="dwb_create_internal" alt="" coords="411,56,549,83"/>
+<area shape="rect" id="node7" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="403,107,557,149"/>
+</map>

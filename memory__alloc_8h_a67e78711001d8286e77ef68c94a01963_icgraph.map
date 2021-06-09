@@ -1,0 +1,12 @@
+<map id="db_ostk_alloc" name="db_ostk_alloc">
+<area shape="rect" id="node2" href="$parser__support_8h.html#a7b4b30d4d70d9831cf49643cd7a8c12e" title="pt_alloc_packing_buf" alt="" coords="156,224,300,251"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#a9ff7f1b8c43b85ac9cbf2d5e1ce18926" title="make_mergelist_proc" alt="" coords="348,5,495,32"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#a33efa5b50f01bcfd93ec0e5f35b5e6b1" title="pt_table_info_alloc" alt="" coords="356,56,487,83"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#a07afac1cb40ff52493124ab0dce001ea" title="pt_symbol_info_alloc" alt="" coords="349,107,493,133"/>
+<area shape="rect" id="node6" href="$xasl__generation_8c.html#a6607f8114807e23efb6fd35004db1291" title="pt_make_json_table\l_spec_node_internal" alt="" coords="351,158,492,199"/>
+<area shape="rect" id="node7" href="$xasl__generation_8c.html#aa29ba5dac6e624de9bb8ca4d4a724420" title="pt_make_json_table\l_spec_node" alt="" coords="543,190,681,231"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#ad31c8959ac1d50bc8b1c2ab1a102e552" title="pt_to_outlist" alt="" coords="565,303,659,329"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#a7ef91e0c976e74e0238c2fef4a538202" title="pt_plan_query" alt="" coords="370,325,473,352"/>
+<area shape="rect" id="node10" href="$xasl__regu__alloc_8hpp.html#a6650b1153906f2723d8999fbd26d9009" title="regu_alloc" alt="" coords="381,376,462,403"/>
+<area shape="rect" id="node11" href="$xasl__regu__alloc_8hpp.html#a08ce82964d1bdc4ac6f399c2a3f6d37e" title="regu_array_alloc" alt="" coords="363,427,480,453"/>
+</map>

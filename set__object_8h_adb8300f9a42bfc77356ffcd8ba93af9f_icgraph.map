@@ -1,0 +1,12 @@
+<map id="swizzle_value" name="swizzle_value">
+<area shape="rect" id="node2" href="$set__object_8c.html#a7f56a649fbd2fece76ecff8fe1327536" title="assign_set_value" alt="" coords="165,107,288,133"/>
+<area shape="rect" id="node7" href="$set__object_8c.html#a9a81b29be28d9b4134bb682621801252" title="check_set_object" alt="" coords="165,157,289,184"/>
+<area shape="rect" id="node8" href="$set__object_8h.html#a121da72cfa4b3bcf6b2e4614411277d4" title="setobj_filter" alt="" coords="374,208,463,235"/>
+<area shape="rect" id="node9" href="$set__object_8h.html#acd1ad8beecc4a0f3eef040c0fb7989f1" title="setobj_convert_oids\l_to_objects" alt="" coords="157,259,296,301"/>
+<area shape="rect" id="node10" href="$set__object_8h.html#acda38b621e20e48b238e313f4e5de392" title="setobj_get_element" alt="" coords="159,325,294,352"/>
+<area shape="rect" id="node3" href="$set__object_8h.html#a4122526b7613da5853776eafb7a125e3" title="setobj_add_element" alt="" coords="349,5,488,32"/>
+<area shape="rect" id="node4" href="$set__object_8h.html#a54ff98de53c99ab2bf69fb1ebd4196c9" title="setobj_coerce" alt="" coords="367,56,470,83"/>
+<area shape="rect" id="node5" href="$set__object_8h.html#aebab8e636a8c6b1ee6407541226d4c07" title="setobj_insert_element" alt="" coords="344,107,493,133"/>
+<area shape="rect" id="node6" href="$set__object_8h.html#a9a311d40bb3ecd064a5d8a97f6da96e3" title="setobj_put_element" alt="" coords="351,157,486,184"/>
+<area shape="rect" id="node11" href="$set__object_8h.html#a44e001853544a3f6d61720ef72385710" title="set_get_element" alt="" coords="359,325,478,352"/>
+</map>

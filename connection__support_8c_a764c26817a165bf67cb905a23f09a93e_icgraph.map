@@ -1,0 +1,21 @@
+<map id="css_send_request" name="css_send_request">
+<area shape="rect" id="node2" href="$client__support_8h.html#a21a96408ff489b345b02324da654c7fc" title="css_client_init" alt="" coords="209,72,314,99"/>
+<area shape="rect" id="node4" href="$connection__cl_8c.html#a0d1affc4b4f269c9fcf5930c01ad2b07" title="css_common_connect" alt="" coords="185,188,338,215"/>
+<area shape="rect" id="node9" href="$broker_8c.html#aaf77c4e492ff43d6075e0831c6e4876e" title="get_server_state_from\l_master" alt="" coords="185,319,337,361"/>
+<area shape="rect" id="node11" href="$commdb_8c.html#a16f1940dfc3faa310b03c644295d5d90" title="send_request_no_args" alt="" coords="185,432,338,459"/>
+<area shape="rect" id="node19" href="$commdb_8c.html#a3d101a515aec41c118e0ceadb8a23f2d" title="send_request_one_arg" alt="" coords="185,483,338,509"/>
+<area shape="rect" id="node20" href="$commdb_8c.html#a8d48b4515287024019b4de575fc6e447" title="send_request_two_args" alt="" coords="181,533,341,560"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#aa7c761be8f5657cac984575d176eefbf" title="net_client_init" alt="" coords="419,5,521,32"/>
+<area shape="rect" id="node5" href="$heartbeat_8c.html#a243855ba97faaf9001fe4061d0fa8ad2" title="css_connect_to_master\l_server" alt="" coords="389,57,551,98"/>
+<area shape="rect" id="node6" href="$connection__cl_8h.html#a482eb768590c72960b206628302aaf0b" title="css_connect_to_master\l_timeout" alt="" coords="389,122,551,163"/>
+<area shape="rect" id="node7" href="$connection__cl_8c.html#a35010916428582d33de48b7430cb3e6a" title="css_server_connect" alt="" coords="401,188,539,215"/>
+<area shape="rect" id="node8" href="$connection__cl_8c.html#ab25efa35368d6684e0c29e18f691ea10" title="css_server_connect\l_part_two" alt="" coords="401,239,539,281"/>
+<area shape="rect" id="node10" href="$broker_8c.html#a3c0fea810f127a7d3ea21e966b62d951" title="server_monitor_thr_f" alt="" coords="399,305,541,332"/>
+<area shape="rect" id="node12" href="$commdb_8c.html#a4d53b4adebb9f36b24f52abd96f4fc40" title="send_for_start_time" alt="" coords="401,356,539,383"/>
+<area shape="rect" id="node13" href="$commdb_8c.html#a8db2e01e4eb1989589d65b5353237b54" title="send_for_server_count" alt="" coords="393,407,547,433"/>
+<area shape="rect" id="node14" href="$commdb_8c.html#af172cd5196642e3f42015196b17cacdc" title="send_for_all_count" alt="" coords="405,457,535,484"/>
+<area shape="rect" id="node15" href="$commdb_8c.html#a0a295a614fb49ea76e873697407b6497" title="send_for_server_stats" alt="" coords="395,508,545,535"/>
+<area shape="rect" id="node16" href="$commdb_8c.html#abd5a331febb8b4ae6a3382d71a03abe7" title="send_for_all_stats" alt="" coords="406,559,534,585"/>
+<area shape="rect" id="node17" href="$commdb_8c.html#af0a5bdda1e57114e2b2aeca744b8ee23" title="send_for_request_count" alt="" coords="389,609,551,636"/>
+<area shape="rect" id="node18" href="$commdb_8c.html#aaf3000e545c6bb56428f4847096fc703" title="process_master_kill" alt="" coords="401,660,539,687"/>
+</map>

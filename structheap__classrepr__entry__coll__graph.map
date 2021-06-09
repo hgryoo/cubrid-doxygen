@@ -1,0 +1,6 @@
+<map id="heap_classrepr_entry" name="heap_classrepr_entry">
+<area shape="rect" id="node2" href="$structor__classrep.html" title="{or_classrep\n|+ id\l+ fixed_length\l+ n_attributes\l+ n_variable\l+ n_shared_attrs\l+ n_class_attrs\l+ n_indexes\l+ needs_indexes\l+ has_partition_info\l|}" alt="" coords="87,675,223,869"/>
+<area shape="rect" id="node3" href="$structor__attribute.html" title="{or_attribute\n|+ id\l+ type\l+ def_order\l+ location\l+ position\l+ on_update_expr\l+ n_btids\l+ max_btids\l+ is_fixed\l+ is_autoincrement\l+ is_notnull\l|}" alt="" coords="88,175,221,399"/>
+<area shape="rect" id="node5" href="$structor__index.html" title="{or_index\n|+ asc_desc\l+ attrs_prefix_length\l+ btname\l+ type\l+ n_atts\l+ index_status\l|}" alt="" coords="260,461,401,612"/>
+<area shape="rect" id="node4" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="33,5,125,112"/>
+</map>

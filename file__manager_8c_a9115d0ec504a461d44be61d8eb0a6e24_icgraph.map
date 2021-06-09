@@ -1,0 +1,16 @@
+<map id="file_partsect_set_bit" name="file_partsect_set_bit">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="229,107,312,133"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#a4c61a0360e115f67e787cbfc06d40047" title="file_extdata_collect\l_ftab_pages" alt="" coords="203,209,338,250"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#ab4e6734f7b6120acd90f5d46d56e6700" title="file_table_collect\l_ftab_pages" alt="" coords="421,259,540,301"/>
+<area shape="rect" id="node10" href="$file__manager_8c.html#a38cea7b20a0b915620d344e2faf6f578" title="file_partsect_alloc" alt="" coords="207,325,334,352"/>
+<area shape="rect" id="node12" href="$file__manager_8c.html#a3caedf6598ee654efb9b8be761cc8edc" title="file_temp_alloc" alt="" coords="426,376,535,403"/>
+<area shape="rect" id="node13" href="$file__manager_8c.html#aa08ad11c1dfde490334cc8eae91dfc21" title="file_rv_partsect_update" alt="" coords="192,427,349,453"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a76b48022b881809b35f193418dcc8aba" title="file_create_with_npages" alt="" coords="399,5,562,32"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a64196cd150853d3b210a8f55740f0839" title="file_create_temp_internal" alt="" coords="397,56,564,83"/>
+<area shape="rect" id="node5" href="$file__manager_8h.html#aa6e3dfe54417c209a4ceaf419a916848" title="file_create_ehash" alt="" coords="419,107,543,133"/>
+<area shape="rect" id="node6" href="$file__manager_8h.html#ac26203672282f7ce035695376bcfe3ca" title="file_create_ehash_dir" alt="" coords="408,157,553,184"/>
+<area shape="rect" id="node8" href="$file__manager_8h.html#a9db2cf7e69746367fcfc73918106e71b" title="file_destroy" alt="" coords="436,208,525,235"/>
+<area shape="rect" id="node11" href="$file__manager_8c.html#adc0db5dfc925dc493ef06a24997d87d1" title="file_perm_alloc" alt="" coords="426,325,535,352"/>
+<area shape="rect" id="node14" href="$file__manager_8h.html#a2dd9e6bbf1c49988cf1e482d055f7cdb" title="file_rv_partsect_set" alt="" coords="413,427,549,453"/>
+<area shape="rect" id="node15" href="$file__manager_8h.html#a7a28623739a8db48c551ffa8d9ec768e" title="file_rv_partsect_clear" alt="" coords="407,477,554,504"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="da_create" name="da_create">
+<area shape="rect" id="node2" href="$utility_8h.html#ac06f1222f77817f8a2c5cec94152102b" title="checkdb" alt="" coords="186,5,257,32"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a17e5e9027694b5ebcafb93de6b62544f" title="checksumdb" alt="" coords="173,56,269,83"/>
+<area shape="rect" id="node4" href="$util__service_8c.html#a600189435f4fb288aa3a8ec9d67fd60a" title="us_hb_process_applylogdb" alt="" coords="132,157,311,184"/>
+<area shape="rect" id="node7" href="$util__service_8c.html#ab8df63b9a64a2df5043964ad46232e20" title="us_hb_process_copylogdb" alt="" coords="133,107,309,133"/>
+<area shape="rect" id="node8" href="$util__service_8c.html#a72d07de25278f292f37d040a43357784" title="us_hb_process_start" alt="" coords="150,208,293,235"/>
+<area shape="rect" id="node5" href="$util__service_8c.html#a3ba3a304fce4ed0835b25bae5b1f24a8" title="process_heartbeat_util" alt="" coords="379,157,533,184"/>
+<area shape="rect" id="node6" href="$util__service_8c.html#aacb64393ad82784e02a9a7bc1c3fbf6f" title="process_heartbeat_replication" alt="" coords="359,107,553,133"/>
+<area shape="rect" id="node9" href="$util__service_8c.html#a4d372c6d302a9107f320db64b66fad4f" title="process_heartbeat_start" alt="" coords="375,208,537,235"/>
+</map>

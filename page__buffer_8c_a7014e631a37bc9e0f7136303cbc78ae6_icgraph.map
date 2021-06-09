@@ -1,0 +1,8 @@
+<map id="pgbuf_wakeup_page_flush_daemon" name="pgbuf_wakeup_page_flush_daemon">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#ad52a19e58500feeaa168bde701246375" title="pgbuf_allocate_bcb" alt="" coords="799,11,933,38"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a7cc1c686b4d3e0a9de41d12d4bfa26b7" title="pgbuf_get_victim_from\l_lru_list" alt="" coords="229,60,384,101"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a8cbce269e04ed30279485fc77e786430" title="pgbuf_claim_bcb_for_fix" alt="" coords="981,11,1144,38"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#ae3559936e3204102a7a9a4fee6087017" title="pgbuf_get_victim" alt="" coords="629,66,751,93"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a1869e0a6005a3553cf95f4573a52b4c0" title="pgbuf_lfcq_get_victim\l_from_private_lru" alt="" coords="432,85,581,127"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#ad6a87f13e7f04e7143483b3737eb6c86" title="pgbuf_lfcq_get_victim\l_from_shared_lru" alt="" coords="432,151,581,192"/>
+</map>

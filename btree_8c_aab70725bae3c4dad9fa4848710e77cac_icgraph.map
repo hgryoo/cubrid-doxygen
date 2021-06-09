@@ -1,0 +1,8 @@
+<map id="btree_add_mvccid" name="btree_add_mvccid">
+<area shape="rect" id="node2" href="$btree_8c.html#af672da2eb4b0968b4e7db6251e51a2a1" title="btree_online_index\l_change_state" alt="" coords="194,104,325,145"/>
+<area shape="rect" id="node7" href="$btree_8c.html#aa801683ee27f6b7771ad9bff1f420e93" title="btree_record_add_delid" alt="" coords="181,170,337,197"/>
+<area shape="rect" id="node3" href="$btree_8c.html#ad4120a97c500c3e5925d571c3baf09c1" title="btree_key_online_index\l_IB_insert" alt="" coords="385,5,544,47"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a22870f850aa05a7db4d75ebf47f293de" title="btree_key_online_index\l_tran_insert" alt="" coords="385,71,544,112"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a0c69fa8afd6c6bad66e5f29a21e8b664" title="btree_key_online_index\l_tran_delete" alt="" coords="385,136,544,177"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a52840a60a1039d18a0a43d49b7411a9a" title="btree_key_online_index\l_tran_insert_DF" alt="" coords="385,201,544,243"/>
+</map>

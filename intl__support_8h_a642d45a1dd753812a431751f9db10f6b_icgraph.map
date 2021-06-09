@@ -1,0 +1,20 @@
+<map id="intl_convert_charset" name="intl_convert_charset">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#ae5567b6b475c49ef1448ab2663eef094" title="db_string_convert_to" alt="" coords="209,101,352,127"/>
+<area shape="rect" id="node6" href="$object__primitive_8c.html#af86e561ceb50c1bb6bf45e29efa96730" title="mr_data_lengthval_nchar" alt="" coords="197,247,364,274"/>
+<area shape="rect" id="node9" href="$object__primitive_8c.html#a30a67f6680c33d66ac9a9176832b91ba" title="mr_lengthval_varnchar\l_internal" alt="" coords="204,379,357,420"/>
+<area shape="rect" id="node12" href="$object__primitive_8c.html#a4033e6408a3e3abddfca39655a5ad920" title="mr_readval_nchar_internal" alt="" coords="193,466,368,493"/>
+<area shape="rect" id="node13" href="$object__primitive_8c.html#aebd1249992eb262898adc4ecc3e780e4" title="mr_readval_varnchar\l_internal" alt="" coords="209,517,352,559"/>
+<area shape="rect" id="node14" href="$object__primitive_8c.html#a6eff6bc300fcd070ba3517c737e3fa3a" title="mr_writeval_nchar_internal" alt="" coords="192,605,369,631"/>
+<area shape="rect" id="node17" href="$object__primitive_8c.html#a7f960851492e52fc5a405f22e52a8923" title="mr_writeval_varnchar\l_internal" alt="" coords="207,745,354,787"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#ad19ec3a1c9d3ada8d8cf8fc3c78c70a1" title="pt_json_str_codeset\l_normalization" alt="" coords="441,5,579,47"/>
+<area shape="rect" id="node4" href="$string__opfunc_8h.html#a0a58389fcce7ab4260247ba112a8d7ee" title="db_json_convert_to_utf8" alt="" coords="428,71,592,98"/>
+<area shape="rect" id="node5" href="$string__opfunc_8h.html#a4970af452df899258924dfaebad2d626" title="db_json_copy_and_convert\l_to_utf8" alt="" coords="420,123,600,164"/>
+<area shape="rect" id="node7" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="651,517,791,559"/>
+<area shape="rect" id="node8" href="$object__primitive_8c.html#a43b19a1e7d0f5b2ec8d45f2e49aefc2f" title="mr_index_lengthval\l_nchar" alt="" coords="443,240,577,281"/>
+<area shape="rect" id="node10" href="$object__primitive_8c.html#ad02752185bc1a912876c26406c4b5530" title="mr_index_lengthval\l_varnchar" alt="" coords="443,357,577,399"/>
+<area shape="rect" id="node11" href="$object__primitive_8c.html#a69e17cd5fca19738596bccf57361ae1c" title="mr_data_lengthval_varnchar" alt="" coords="417,423,603,450"/>
+<area shape="rect" id="node15" href="$object__primitive_8c.html#a762b9036bf4a92fcfba2b71b5fa1c3f5" title="mr_index_writeval_nchar" alt="" coords="427,626,593,653"/>
+<area shape="rect" id="node16" href="$object__primitive_8c.html#a3d8638ed91f6d7d981a47bfaee1f1ad3" title="mr_data_writeval_nchar" alt="" coords="430,677,590,703"/>
+<area shape="rect" id="node18" href="$object__primitive_8c.html#a3d011cda8556adcd34c033789a3bfc1f" title="mr_index_writeval_varnchar" alt="" coords="418,778,602,805"/>
+<area shape="rect" id="node19" href="$object__primitive_8c.html#a0a1e13a061ca72f2a979b08dacb1a8fd" title="mr_data_writeval_varnchar" alt="" coords="421,829,599,855"/>
+</map>

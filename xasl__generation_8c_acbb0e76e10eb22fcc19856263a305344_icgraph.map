@@ -1,0 +1,6 @@
+<map id="pt_make_regu_constant" name="pt_make_regu_constant">
+<area shape="rect" id="node2" href="$xasl__generation_8c.html#aa7ca0abaad98a07d7de25a93842c9e1c" title="pt_make_vid" alt="" coords="215,56,311,83"/>
+<area shape="rect" id="node4" href="$xasl__generation_8h.html#afe16617c99177ca7cb6d411d9e5e5713" title="pt_to_regu_variable" alt="" coords="544,56,679,83"/>
+<area shape="rect" id="node3" href="$xasl__generation_8c.html#a4cc7a435267cd055546f6828b3883866" title="pt_function_to_regu" alt="" coords="359,5,495,32"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#a2926c5395a58f96cbe0339dac9e951c5" title="pt_attribute_to_regu" alt="" coords="359,56,496,83"/>
+</map>

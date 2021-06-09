@@ -1,0 +1,13 @@
+<map id="clientids::get_login_name" name="clientids::get_login_name">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="253,56,382,83"/>
+<area shape="rect" id="node5" href="$log__tran__table_8c.html#a1799a28ad76ce5c876cfd920cf2573fa" title="logtb_descriptors_start_scan" alt="" coords="223,107,412,133"/>
+<area shape="rect" id="node7" href="$log__tran__table_8c.html#add392d8813bf6b16ff0e99b58dff8969" title="logtb_dump_tdes" alt="" coords="257,157,378,184"/>
+<area shape="rect" id="node9" href="$structclientids.html#a23d1ed6e6cec047985880a8a17f215c8" title="clientids::set_ids" alt="" coords="257,208,377,235"/>
+<area shape="rect" id="node10" href="$log__tran__table_8c.html#a43c0d2b516b1f640c117949dc79b8fc1" title="xlogtb_get_pack_tran\l_table" alt="" coords="244,259,391,301"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a77bd95c7f71d0f419d0f69a3090c4836" title="conn_restart_client" alt="" coords="471,5,603,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a4f475937ff6abf40ab472a149d37ae11" title="db_restart" alt="" coords="497,56,577,83"/>
+<area shape="rect" id="node6" href="$show__scan_8c.html#aecf736200d67937c5e8b499d2570ea1d" title="showstmt_scan_init" alt="" coords="467,107,606,133"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#a850b8bbb60976a9cbd23dab38dcf1767" title="xlogtb_dump_trantable" alt="" coords="460,157,613,184"/>
+<area shape="rect" id="node11" href="$network__interface__cl_8h.html#a14d06011c191f095ee20c087a9ca3519" title="logtb_get_pack_tran\l_table" alt="" coords="467,234,606,275"/>
+<area shape="rect" id="node12" href="$network__interface__sr_8h.html#a8449cd5f85b314ae2aeafed15512b51b" title="slogtb_get_pack_tran\l_table" alt="" coords="463,299,610,341"/>
+</map>

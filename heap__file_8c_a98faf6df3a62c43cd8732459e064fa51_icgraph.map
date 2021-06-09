@@ -1,0 +1,6 @@
+<map id="heap_get_class_supers" name="heap_get_class_supers">
+<area shape="rect" id="node2" href="$partition__sr_8h.html#a98667b767c15f1dcf55042338a10cedb" title="partition_find_root\l_class_oid" alt="" coords="212,64,337,105"/>
+<area shape="rect" id="node3" href="$partition__sr_8h.html#aef1b14c7f20079f1a0ef94745945d48c" title="partition_load_pruning\l_context" alt="" coords="403,5,551,47"/>
+<area shape="rect" id="node4" href="$partition__sr_8h.html#a84fd6a22d1230b8a66c013dd59f4bf53" title="partition_prune_update" alt="" coords="617,42,771,69"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a364a77bbb2342abbe5e8668fbd33c2b0" title="qexec_evaluate_aggregates\l_optimize" alt="" coords="385,123,569,164"/>
+</map>

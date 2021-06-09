@@ -1,0 +1,21 @@
+<map id="db_compile_statement_local" name="db_compile_statement_local">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a1d3ecb39d3f27d5c44fb24082ea38423" title="au_delete_auth_of_dropping\l_table" alt="" coords="207,67,391,109"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#a78481e1554c3d1807c07bcb8bfc7cd54" title="db_compile_and_execute\l_queries_internal" alt="" coords="444,81,613,122"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a47cee80497593880d438b0f0291aac45" title="db_compile_statement" alt="" coords="222,389,375,416"/>
+<area shape="rect" id="node15" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="667,597,819,638"/>
+<area shape="rect" id="node16" href="$db__vdb_8c.html#a2f479c7755c512521e37e7bf27b78436" title="db_open_buffer_and\l_compile_first_statement" alt="" coords="215,303,383,345"/>
+<area shape="rect" id="node17" href="$db__vdb_8c.html#ac69f13e43ae60dcbdb63c3e77ba2c017" title="do_process_prepare\l_statement" alt="" coords="229,677,368,718"/>
+<area shape="rect" id="node18" href="$db__stub_8c.html#a1270305253397f2df6f248228ca271c1" title="stmt_exec_batch_query\l_internal" alt="" coords="218,742,379,783"/>
+<area shape="rect" id="node19" href="$db__stub_8c.html#a316bbdc5f4f9519839b0c186665856e6" title="stmt_exec_one_statement" alt="" coords="211,808,387,835"/>
+<area shape="rect" id="node20" href="$db__stub_8c.html#a7fe6b2c90c8229bff396b2db348b9d39" title="stmt_prepare_internal" alt="" coords="225,859,372,885"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="453,29,605,56"/>
+<area shape="rect" id="node6" href="$tz__compile_8c.html#a42f887cbeff90bb6259a8a76b968da6c" title="tzc_compute_timezone\l_checksum" alt="" coords="450,146,607,187"/>
+<area shape="rect" id="node7" href="$cas__execute_8h.html#aee0aa1d2154b6630cb99732f71ad118a" title="ux_prepare" alt="" coords="485,212,572,239"/>
+<area shape="rect" id="node8" href="$cas__execute_8h.html#a480b90c05f39d0bea260091e4aabe256" title="ux_execute" alt="" coords="484,263,573,289"/>
+<area shape="rect" id="node9" href="$cas__execute_8h.html#a472d04640cef98dd54b3a79112fe1f01" title="ux_execute_all" alt="" coords="474,313,583,340"/>
+<area shape="rect" id="node10" href="$cas__execute_8h.html#a58deea8c335da5c20867f4664eeb7e5f" title="ux_execute_batch" alt="" coords="465,364,593,391"/>
+<area shape="rect" id="node11" href="$cas__execute_8h.html#ade7073d72caa16357d55df7b214b2da3" title="ux_execute_array" alt="" coords="466,415,591,441"/>
+<area shape="rect" id="node12" href="$cas__execute_8c.html#ab161e16c9f3a49971d2b04792745e715" title="sch_query_execute" alt="" coords="461,465,596,492"/>
+<area shape="rect" id="node13" href="$cas__function_8h.html#a86aae9afd60e21af7c964ea5752ba309" title="fn_get_query_info" alt="" coords="466,516,591,543"/>
+<area shape="rect" id="node14" href="$db__vdb_8c.html#aa67900db91e4c062a739ff4d40d69a3c" title="do_recompile_and_execute\l_prepared_statement" alt="" coords="439,567,619,609"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="pt_node_etc" name="pt_node_etc">
+<area shape="rect" id="node2" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="147,136,299,177"/>
+<area shape="rect" id="node6" href="$name__resolution_8c.html#ac03fadb421cce37d09d2e35b807e75cf" title="pt_count_ctes_post" alt="" coords="155,202,291,229"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ad6b414798f5f576f2df94299d7842810" title="db_execute_and_keep\l_statement" alt="" coords="361,5,513,47"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#a884a12ed3b75319fe569e73870bc485c" title="db_execute_statement\l_local" alt="" coords="359,71,514,112"/>
+<area shape="rect" id="node5" href="$db__vdb_8c.html#aa67900db91e4c062a739ff4d40d69a3c" title="do_recompile_and_execute\l_prepared_statement" alt="" coords="347,136,527,177"/>
+<area shape="rect" id="node7" href="$parser_8h.html#a861278b4c2a2f085cd9c4dd07a9b646f" title="pt_resolve_cte_specs" alt="" coords="362,202,511,229"/>
+</map>

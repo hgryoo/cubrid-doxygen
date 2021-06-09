@@ -1,0 +1,6 @@
+<map id="hb_cluster_load_ping_host_list" name="hb_cluster_load_ping_host_list">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#aae0ca8a6e93a5b4796a9e648e0081b77" title="hb_cluster_initialize" alt="" coords="197,5,333,32"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#abcba91f0e0527d2a12822ed9953835fc" title="hb_reload_config" alt="" coords="205,56,325,83"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8h.html#ad3854f3310ba585c385d71a4c1616b09" title="hb_master_init" alt="" coords="403,5,510,32"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8h.html#a6f9ed497c283816e8d6612d968519cd4" title="hb_reconfig_heartbeat" alt="" coords="381,56,532,83"/>
+</map>

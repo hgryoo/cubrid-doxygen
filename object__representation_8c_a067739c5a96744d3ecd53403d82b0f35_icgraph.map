@@ -1,0 +1,5 @@
+<map id="or_get_timestamptz" name="or_get_timestamptz">
+<area shape="rect" id="node2" href="$object__primitive_8c.html#af1385fe3178964b3308d2bdc4f75e732" title="mr_data_readmem_timestamptz" alt="" coords="191,5,400,32"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a87e93c72bc92055b7fddf5b8658d4ad1" title="mr_data_readval_timestamptz" alt="" coords="197,56,394,83"/>
+<area shape="rect" id="node3" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="448,23,588,65"/>
+</map>

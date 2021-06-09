@@ -1,0 +1,21 @@
+<map id="css_ha_server_state_string" name="css_ha_server_state_string">
+<area shape="rect" id="node2" href="$utility_8h.html#a17e5e9027694b5ebcafb93de6b62544f" title="checksumdb" alt="" coords="715,55,811,82"/>
+<area shape="rect" id="node3" href="$checksumdb_8c.html#ad26a713bc1aa88a9ca1e61ef21215c84" title="chksum_report_header" alt="" coords="223,80,378,107"/>
+<area shape="rect" id="node5" href="$server__support_8h.html#a5692baaa6c9df9b84010366971aac54c" title="css_change_ha_server\l_state" alt="" coords="463,190,619,232"/>
+<area shape="rect" id="node9" href="$master__request_8c.html#aaa4089547f6ea9804a36beb890be8131" title="css_process_get_server\l_ha_mode" alt="" coords="219,132,383,173"/>
+<area shape="rect" id="node11" href="$server__support_8c.html#ad3adfa46363c3256509cadd6c9030475" title="css_transit_ha_server\l_state" alt="" coords="225,249,376,290"/>
+<area shape="rect" id="node14" href="$dbi__compat_8h.html#a9e8828a1d6b9967d72135ed957390cd2" title="db_get_ha_server_state" alt="" coords="220,315,381,342"/>
+<area shape="rect" id="node15" href="$master__heartbeat_8h.html#ab880145486461ca4ccd9cc3ef6c35b01" title="hb_resource_receive\l_changemode" alt="" coords="229,366,372,408"/>
+<area shape="rect" id="node16" href="$master__heartbeat_8c.html#af2f59a0ac1f17f2c3bb37bc3515ef63e" title="hb_resource_send_changemode" alt="" coords="196,432,405,459"/>
+<area shape="rect" id="node17" href="$log__applier_8c.html#a66109c2ee48a3383a836285465ea62aa" title="la_change_state" alt="" coords="242,483,359,510"/>
+<area shape="rect" id="node18" href="$log__applier_8c.html#ae29a327cb902156f5431da85b865f21b" title="la_log_record_process" alt="" coords="225,534,377,560"/>
+<area shape="rect" id="node19" href="$log__applier_8c.html#a61df29370069d0a128f78c566b8e445a" title="la_print_log_header" alt="" coords="233,584,368,611"/>
+<area shape="rect" id="node20" href="$log__manager_8h.html#a53d35f511b18f8af20ed5eb09c286c73" title="log_active_log_header\l_next_scan" alt="" coords="225,636,376,677"/>
+<area shape="rect" id="node4" href="$checksumdb_8c.html#a16378b3360c0ce7070d1503e4803aac9" title="chksum_report" alt="" coords="487,80,595,107"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#ab275afe2b2e11383cae924c9b34cd50f" title="sboot_change_ha_mode" alt="" coords="682,198,845,224"/>
+<area shape="rect" id="node7" href="$server__support_8c.html#ae58c62456655b0400a42763aa98b0232" title="css_process_change\l_server_ha_mode_request" alt="" coords="676,249,851,290"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="696,147,831,174"/>
+<area shape="rect" id="node10" href="$master__request_8h.html#a0d0d71b7f22a154bc9f7522d09a17429" title="css_process_info_request" alt="" coords="453,139,628,166"/>
+<area shape="rect" id="node12" href="$server__support_8h.html#a8af24e655f140f2a4ca56b831054b16f" title="css_check_ha_server\l_state_for_client" alt="" coords="466,256,615,297"/>
+<area shape="rect" id="node13" href="$server__support_8h.html#aa9d4922ce427909a91784770a99a3b16" title="css_notify_ha_log_applier\l_state" alt="" coords="455,321,627,362"/>
+</map>

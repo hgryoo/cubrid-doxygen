@@ -1,0 +1,6 @@
+<map id="spage_delete_for_recovery" name="spage_delete_for_recovery">
+<area shape="rect" id="node2" href="$btree_8h.html#ad1ea51ae23f83460a237c7b0f93792f4" title="btree_rv_noderec_undo\l_insert" alt="" coords="232,5,389,47"/>
+<area shape="rect" id="node3" href="$system__catalog_8h.html#ae31f0cab468d274429c5eb665921313b" title="catalog_rv_insert_undo" alt="" coords="233,71,389,98"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a089106fc948d8ad7723048a42378095b" title="heap_rv_undo_insert" alt="" coords="239,122,382,149"/>
+<area shape="rect" id="node5" href="$slotted__page_8h.html#ab68d38c29c234969d85ddb87ddad1cfb" title="spage_split" alt="" coords="267,173,355,199"/>
+</map>

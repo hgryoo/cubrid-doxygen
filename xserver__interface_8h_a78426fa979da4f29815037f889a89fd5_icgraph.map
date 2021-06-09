@@ -1,0 +1,6 @@
+<map id="xtran_server_partial_abort" name="xtran_server_partial_abort">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#a102b542c8c64bb17c0311759e58488d4" title="stran_server_partial\l_abort" alt="" coords="189,5,325,47"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#abcd0fd9e317b8da72cdc7f5613a3ed24" title="tran_server_partial\l_abort" alt="" coords="193,71,322,112"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="385,13,491,39"/>
+<area shape="rect" id="node5" href="$transaction__cl_8h.html#a62d23d4ee828236473e300945ab38221" title="tran_internal_abort\l_upto_savepoint" alt="" coords="373,71,503,112"/>
+</map>

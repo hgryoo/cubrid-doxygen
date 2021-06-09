@@ -1,0 +1,12 @@
+<map id="css_queue_remove_header_entry_ptr" name="css_queue_remove_header_entry_ptr">
+<area shape="rect" id="node2" href="$connection__cl_8h.html#a7bb87f7c020bc88c88c5729fe1a339d1" title="css_connect_to_cubrid\l_server" alt="" coords="659,28,815,69"/>
+<area shape="rect" id="node4" href="$connection__cl_8h.html#ae4b6d7023ea379f62eddf90089af1855" title="css_return_data_buffer" alt="" coords="240,86,395,113"/>
+<area shape="rect" id="node8" href="$connection__cl_8c.html#a3b24ea5a17b51e822bc4a0629626a9d8" title="css_return_queued_data" alt="" coords="235,35,399,62"/>
+<area shape="rect" id="node9" href="$connection__sr_8h.html#ad05c25b47445c78d07bbec8810db2016" title="css_return_queued_error" alt="" coords="235,166,400,193"/>
+<area shape="rect" id="node3" href="$client__support_8h.html#a21a96408ff489b345b02324da654c7fc" title="css_client_init" alt="" coords="863,35,968,62"/>
+<area shape="rect" id="node5" href="$connection__list__cl_8c.html#a8b9fe015833fbd1bb2ab65ed260ec1e7" title="css_queue_data_packet" alt="" coords="448,86,611,113"/>
+<area shape="rect" id="node6" href="$connection__sr_8h.html#afcd0ccababe9471e2ff31025115890ba" title="css_receive_data" alt="" coords="467,35,591,62"/>
+<area shape="rect" id="node7" href="$connection__cl_8h.html#aef75ae6246d4a4c6819d35f9adfb3101" title="css_receive_error" alt="" coords="467,137,592,163"/>
+<area shape="rect" id="node10" href="$client__support_8c.html#a72aeba68d635f30a28376a00ddf4b554" title="css_test_for_server\l_errors" alt="" coords="461,188,598,229"/>
+<area shape="rect" id="node11" href="$server__support_8c.html#a6c2f1481ccaaffb4eaac24f46f2aaaf6" title="css_test_for_client\l_errors" alt="" coords="463,253,595,295"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="check_xml_elem_name" name="check_xml_elem_name">
+<area shape="rect" id="node2" href="$xml__parser_8c.html#aa936266fdc5a2c142b308c8cb80170d1" title="add_xml_element" alt="" coords="448,25,572,51"/>
+<area shape="rect" id="node4" href="$xml__parser_8c.html#a04a80617568f9ce146dad99ace12b6ab" title="select_xml_branch_node" alt="" coords="212,25,379,51"/>
+<area shape="rect" id="node5" href="$xml__parser_8c.html#af100e2a3d6887572396f65f23c13e854" title="select_xml_node_for_ins" alt="" coords="212,75,379,102"/>
+<area shape="rect" id="node6" href="$xml__parser_8c.html#a9929b52c5a612c2abe586546fca2d348" title="xml_elem_start" alt="" coords="240,126,351,153"/>
+<area shape="rect" id="node3" href="$xml__parser_8c.html#ad9901aa8fed0f163c180ef8646393f09" title="xml_init_schema_tree" alt="" coords="641,25,791,51"/>
+<area shape="rect" id="node7" href="$xml__parser_8c.html#a449354fcd5828145708a244f161a5920" title="xml_init_parser_common" alt="" coords="427,126,593,153"/>
+</map>

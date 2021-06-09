@@ -1,0 +1,8 @@
+<map id="fileio_continue_restore" name="fileio_continue_restore">
+<area shape="rect" id="node2" href="$file__io_8c.html#a66c6de07286da1c9850e69522a423fd4" title="fileio_read_restore" alt="" coords="206,68,334,95"/>
+<area shape="rect" id="node7" href="$file__io_8h.html#ae03fe0d348dc4382d997df5f33a209bc" title="fileio_start_restore" alt="" coords="205,123,335,149"/>
+<area shape="rect" id="node3" href="$file__io_8h.html#ab5d5666569b33c99fb006d20a429f7d1" title="fileio_list_restore" alt="" coords="411,123,531,149"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#adecb1a5bfb1b62c936972d1f16931d7c" title="fileio_get_next_restore_file" alt="" coords="383,5,560,32"/>
+<area shape="rect" id="node6" href="$file__io_8c.html#a157a4b3f42d0806c718deb2f6d0ba697" title="fileio_decompress_restore\l_volume" alt="" coords="384,57,559,98"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#adaf3756eb46d2f608fb945c678a665c8" title="logpb_restore" alt="" coords="608,89,708,116"/>
+</map>

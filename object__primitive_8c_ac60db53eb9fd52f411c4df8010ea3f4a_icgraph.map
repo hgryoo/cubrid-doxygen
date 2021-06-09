@@ -1,0 +1,21 @@
+<map id="pr_area_init" name="pr_area_init">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="151,146,285,173"/>
+<area shape="rect" id="node7" href="$object__primitive_8h.html#ae12a8c594fad2fc0fab2db8c4b6a5d40" title="PRIM_SET_NULL" alt="" coords="153,501,283,527"/>
+<area shape="rect" id="node19" href="$work__space_8h.html#a7f356c42f2ee46cc4ff3f8cd9a06f0f7" title="ws_init" alt="" coords="187,551,249,578"/>
+<area shape="rect" id="node20" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="143,602,293,629"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="372,197,488,223"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="365,5,495,47"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="359,71,501,98"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="385,146,475,173"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#ac3ce10467021e10265bcd79357dcba60" title="db_get_schema_def_dbval" alt="" coords="341,450,519,477"/>
+<area shape="rect" id="node9" href="$schema__manager_8h.html#aafbbf994fe81ea00cc1441a2f1b7c4ee" title="classobj_put_foreign\l_key_ref" alt="" coords="567,493,708,535"/>
+<area shape="rect" id="node10" href="$object__primitive_8h.html#abdd8e69e6de537d16c0272caacd1618e" title="pr_clear_value" alt="" coords="377,602,483,629"/>
+<area shape="rect" id="node11" href="$set__object_8h.html#ae7290c96c20122c940a27c6ee603c6fd" title="col_delete" alt="" coords="597,559,678,586"/>
+<area shape="rect" id="node12" href="$set__object_8h.html#a49e011387621c5eaa260b46ce6f565d0" title="col_drop" alt="" coords="756,403,827,430"/>
+<area shape="rect" id="node13" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="578,678,697,705"/>
+<area shape="rect" id="node14" href="$set__object_8c.html#a061d9b02ed6e00377bf070805b935333" title="col_null_values" alt="" coords="375,298,485,325"/>
+<area shape="rect" id="node15" href="$set__object_8h.html#a17c3a46a385f3c5259dd65b496c9aadc" title="col_insert" alt="" coords="391,349,469,375"/>
+<area shape="rect" id="node16" href="$set__object_8h.html#a9fef91e5fae6bccc6dac162c678e89b1" title="setobj_put_value" alt="" coords="370,399,490,426"/>
+<area shape="rect" id="node17" href="$arithmetic_8h.html#a2ab702586e5cd69557aa5e0d3d18a83a" title="db_crc32_dbval" alt="" coords="373,703,487,730"/>
+<area shape="rect" id="node18" href="$fetch_8c.html#a05cc348edfa9d51b8dea3ad38064450f" title="get_hour_minute_or\l_second" alt="" coords="362,755,498,796"/>
+</map>

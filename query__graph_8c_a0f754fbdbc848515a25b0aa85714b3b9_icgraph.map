@@ -1,0 +1,11 @@
+<map id="qo_need_skip_execution" name="qo_need_skip_execution">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#a50ddf81e4f4f001d75513104cec3607e" title="do_execute_insert" alt="" coords="413,71,541,97"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="589,71,744,97"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#afc8676086646494b31f8b100d05f13da" title="do_insert_template" alt="" coords="226,71,358,97"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a661feaacf0e01e3f0f72364db8648b7a" title="do_merge" alt="" coords="253,172,331,199"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="427,172,528,199"/>
+<area shape="rect" id="node7" href="$query__cl_8h.html#ab778ee35e2c7018fc30ac7f98b886669" title="execute_query" alt="" coords="239,121,345,148"/>
+<area shape="rect" id="node8" href="$query__cl_8h.html#aeab3fbcec16279cf60f9dff58ad427e4" title="prepare_and_execute\l_query" alt="" coords="219,274,365,315"/>
+<area shape="rect" id="node9" href="$query__cl_8h.html#a758f796c665b00b32ed41b73447702e8" title="prepare_query" alt="" coords="240,340,344,367"/>
+<area shape="rect" id="node10" href="$xasl__generation_8c.html#a7ef91e0c976e74e0238c2fef4a538202" title="pt_plan_query" alt="" coords="241,391,343,417"/>
+</map>

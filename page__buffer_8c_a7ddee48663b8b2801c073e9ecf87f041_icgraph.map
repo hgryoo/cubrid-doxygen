@@ -1,0 +1,7 @@
+<map id="pgbuf_assign_private_lru" name="pgbuf_assign_private_lru">
+<area shape="rect" id="node2" href="$session_8h.html#aee058bef79cef1a5ff0ae8033b1afb6c" title="session_state_create" alt="" coords="220,5,367,32"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#a36fb5103effdeb06fe620798b36af461" title="vacuum_initialize" alt="" coords="232,56,355,83"/>
+<area shape="rect" id="node3" href="$session__sr_8c.html#ac83ab8e16f4b13b412f3b7baaf8eecce" title="xsession_create_new" alt="" coords="423,5,571,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="429,56,564,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="415,107,579,133"/>
+</map>

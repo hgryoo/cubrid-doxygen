@@ -1,0 +1,8 @@
+<map id="db_seq_size" name="db_seq_size">
+<area shape="rect" id="node2" href="$query__opfunc_8c.html#a3a79cbfe23e4a7b038ea023922f65068" title="qdata_add_sequence\l_to_dbval" alt="" coords="159,22,305,63"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#aa2bf26a73d91c3d7ac2570c961bf8936" title="set_has_objs" alt="" coords="183,88,281,115"/>
+<area shape="rect" id="node6" href="$xasl__generation_8c.html#a3fb8e988e87eb4bbd2a189a1d7a4f8c2" title="setof_mop_to_setof_vobj" alt="" coords="148,139,316,165"/>
+<area shape="rect" id="node7" href="$virtual__object_8h.html#a987cc077d1aed3146651c8b5e72c5173" title="vid_fetch_instance" alt="" coords="167,189,297,216"/>
+<area shape="rect" id="node3" href="$query__opfunc_8h.html#a9fa70ad6fa6a96385c1600dd2e37f203" title="qdata_add_dbval" alt="" coords="544,29,664,56"/>
+<area shape="rect" id="node4" href="$query__opfunc_8h.html#aac9d8a58076279ce106291800e69f542" title="qdata_strcat_dbval" alt="" coords="364,55,496,81"/>
+</map>

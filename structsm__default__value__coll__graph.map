@@ -1,0 +1,6 @@
+<map id="sm_default_value" name="sm_default_value">
+<area shape="rect" id="node2" href="$structdb__default__expr.html" title="{db_default_expr\n|+ default_expr_type\l+ default_expr_op\l+ default_expr_format\l|}" alt="" coords="5,292,155,399"/>
+<area shape="rect" id="node3" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="179,307,277,384"/>
+<area shape="rect" id="node4" href="$uniondb__domain__info.html" title="{db_domain_info\n||}" alt="" coords="114,79,227,156"/>
+<area shape="rect" id="node5" href="$uniondb__data.html" title="{db_data\n|+ i\l+ sh\l+ bigint\l+ f\l+ d\l+ p\l+ time\l+ date\l+ utime\l+ error\l+ rset\l|}" alt="" coords="251,5,319,229"/>
+</map>

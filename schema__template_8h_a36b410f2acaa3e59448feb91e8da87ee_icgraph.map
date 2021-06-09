@@ -1,0 +1,9 @@
+<map id="smt_add_attribute_w_dflt" name="smt_add_attribute_w_dflt">
+<area shape="rect" id="node2" href="$class__object_8c.html#a4d542200702e13cb1b51050d70f99b58" title="classobj_copy_attribute_like" alt="" coords="221,5,408,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a279fbb77f55d4b55210cc2962afa8d14" title="dbt_add_attribute" alt="" coords="253,56,376,83"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#ab36a662b13db74b50cdb6599ecd1afe2" title="dbt_add_class_attribute" alt="" coords="235,107,395,133"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#aa4be1b078aba956c3cfef2b05392085d" title="dbt_add_shared_attribute" alt="" coords="231,157,399,184"/>
+<area shape="rect" id="node8" href="$execute__schema_8c.html#a52d780f43ce5a65f6e8ab75a4fa76d59" title="do_add_attribute_from\l_select_column" alt="" coords="239,209,390,250"/>
+<area shape="rect" id="node3" href="$class__object_8h.html#a50dc37f5abd0f57a486f0becf02ade22" title="classobj_make_template_like" alt="" coords="456,5,649,32"/>
+<area shape="rect" id="node5" href="$trigger__manager_8c.html#af58f67029308197cdea0e081eb275f2a" title="define_trigger_classes" alt="" coords="477,56,629,83"/>
+</map>

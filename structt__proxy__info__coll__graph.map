@@ -1,0 +1,7 @@
+<map id="t_proxy_info" name="t_proxy_info">
+<area shape="rect" id="node2" href="$structt__client__info.html" title="{t_client_info\n|+ client_id\l+ client_ip\l+ connect_time\l+ driver_info\l+ driver_version\l+ func_code\l+ req_time\l+ res_time\l+ isolation_level\l+ lock_timeout\l|}" alt="" coords="5,189,121,399"/>
+<area shape="rect" id="node3" href="$structt__shard__info.html" title="{t_shard_info\n|+ shard_id\l+ min_appl_server\l+ max_appl_server\l+ num_appl_server\l+ waiter_count\l+ as_info_index_base\l|}" alt="" coords="146,219,295,369"/>
+<area shape="rect" id="node4" href="$structt__shm__shard__key__stat.html" title="{t_shm_shard_key_stat\n|+ num_key_range\l|}" alt="" coords="319,255,474,333"/>
+<area shape="rect" id="node5" href="$structt__shm__shard__key__range__stat.html" title="{t_shm_shard_key_range_stat\n|+ min\l+ max\l+ shard_id\l+ num_range_queries_requested\l|}" alt="" coords="291,5,502,127"/>
+<area shape="rect" id="node6" href="$structt__shm__shard__conn__stat.html" title="{t_shm_shard_conn_stat\n|+ shard_id\l+ num_hint_key_queries\l_requested\l+ num_hint_id_queries\l_requested\l+ num_no_hint_queries\l_requested\l|}" alt="" coords="499,211,663,377"/>
+</map>

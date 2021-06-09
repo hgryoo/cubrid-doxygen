@@ -1,0 +1,6 @@
+<map id="heap_create_internal" name="heap_create_internal">
+<area shape="rect" id="node2" href="$heap__file_8c.html#afefee08972f223958a34db36e63cde05" title="xheap_create" alt="" coords="196,56,296,83"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#af49bebf9853336fa0f303e998222457f" title="heap_create" alt="" coords="381,5,474,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a2c138e74e1fc630588956eb4218fab28" title="shf_create" alt="" coords="386,56,469,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="344,107,511,133"/>
+</map>

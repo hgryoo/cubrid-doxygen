@@ -1,0 +1,6 @@
+<map id="db_set" name="db_set">
+<area shape="rect" id="node2" href="$structsetobj.html" title="{setobj\n|+ coltype\l+ size\l+ lastinsert\l+ topblock\l+ arraytop\l+ topblockcount\l+ sorted\l+ may_have_temporary_oids\l|}" alt="" coords="107,807,297,987"/>
+<area shape="rect" id="node3" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="126,321,259,545"/>
+<area shape="rect" id="node4" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="12,5,187,259"/>
+<area shape="rect" id="node5" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="309,637,407,715"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="locator_set_sig_interrupt" name="locator_set_sig_interrupt">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a29f5d50186b3b05740179956a597efde" title="db_set_interrupt" alt="" coords="217,147,332,174"/>
+<area shape="rect" id="node3" href="$util__cs_8c.html#a19fb6a82454653c5d087c49df72e0a4b" title="backupdb_sig_interrupt\l_handler" alt="" coords="380,5,536,47"/>
+<area shape="rect" id="node4" href="$csql_8c.html#ad3f65a0ccb2951a16bf6b75d4958e5c0" title="csql_display_trace" alt="" coords="393,71,523,98"/>
+<area shape="rect" id="node5" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="584,97,755,123"/>
+<area shape="rect" id="node6" href="$cas_8c.html#a82a4271444049b1bd9184b82dcd506b4" title="process_request" alt="" coords="399,173,517,199"/>
+<area shape="rect" id="node7" href="$cas_8c.html#a9e76e52fc9a2f7fb68f919856d5a0ae5" title="query_cancel" alt="" coords="409,223,507,250"/>
+<area shape="rect" id="node8" href="$csql_8c.html#ade126c7b0588583fb545c6fdb7df5087" title="signal_intr" alt="" coords="417,274,499,301"/>
+</map>

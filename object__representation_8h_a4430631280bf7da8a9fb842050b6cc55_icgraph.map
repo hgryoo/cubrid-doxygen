@@ -1,0 +1,10 @@
+<map id="or_get_bigint" name="or_get_bigint">
+<area shape="rect" id="node2" href="$db__json_8cpp.html#ae45b744d74c7577df6c35ca0bfffc8cf" title="db_json_unpack_bigint\l_to_value" alt="" coords="149,5,304,47"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a3d5f4685c3ad31a1ada990eaa52e2be1" title="mr_data_readmem_bigint" alt="" coords="556,71,724,98"/>
+<area shape="rect" id="node6" href="$object__primitive_8c.html#a29e22399e0551e05b824396e20875e59" title="mr_data_readval_bigint" alt="" coords="352,122,508,149"/>
+<area shape="rect" id="node7" href="$object__primitive_8c.html#ace48e41c9d5f63d08ca9600248f38c43" title="peekmem_elo" alt="" coords="175,198,278,225"/>
+<area shape="rect" id="node3" href="$db__json_8cpp.html#aaad8044d51008c88b839230ebd076124" title="db_json_deserialize\l_doc_internal" alt="" coords="362,5,498,47"/>
+<area shape="rect" id="node5" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="772,165,912,207"/>
+<area shape="rect" id="node8" href="$object__primitive_8c.html#a9dc31bf9e9fd73c391c8311ac4880afb" title="mr_data_readmem_elo" alt="" coords="353,223,507,250"/>
+<area shape="rect" id="node9" href="$object__primitive_8c.html#a6121041fd0b0d30aab4b73dc58c820a0" title="readval_elo_with_type" alt="" coords="565,274,715,301"/>
+</map>

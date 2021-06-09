@@ -1,0 +1,6 @@
+<map id="pgbuf_copy_to_area" name="pgbuf_copy_to_area">
+<area shape="rect" id="node2" href="$external__sort_8c.html#a676a1cf3b5b359286a1c1fe17ea65d40" title="sort_read_area" alt="" coords="192,64,300,91"/>
+<area shape="rect" id="node3" href="$external__sort_8c.html#ac9b6855d69afd12a4205aa72ec31dadd" title="sort_exphase_merge" alt="" coords="348,5,491,32"/>
+<area shape="rect" id="node4" href="$external__sort_8c.html#a8d5351bc6db3ed4d8fb9e90a6a9b1a4b" title="sort_exphase_merge\l_elim_dup" alt="" coords="348,57,491,98"/>
+<area shape="rect" id="node5" href="$external__sort_8c.html#ae88a25d3c753f1ad9629064c1b092270" title="sort_inphase_sort" alt="" coords="357,123,482,149"/>
+</map>

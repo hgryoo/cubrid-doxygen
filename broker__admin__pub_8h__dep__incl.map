@@ -1,0 +1,9 @@
+<map id="src/broker/broker_admin_pub.h" name="src/broker/broker_admin_pub.h">
+<area shape="rect" id="node2" href="$broker__admin_8c.html" title="src/broker/broker_admin.c" alt="" coords="5,102,179,129"/>
+<area shape="rect" id="node3" href="$broker__admin__pub_8c.html" title="src/broker/broker_admin\l_pub.c" alt="" coords="203,95,365,136"/>
+<area shape="rect" id="node4" href="$broker__admin__so_8c.html" title="src/broker/broker_admin_so.c" alt="" coords="389,102,584,129"/>
+<area shape="rect" id="node5" href="$broker__changer_8c.html" title="src/broker/broker_changer.c" alt="" coords="608,102,792,129"/>
+<area shape="rect" id="node6" href="$broker__filename_8c.html" title="src/broker/broker_filename.c" alt="" coords="816,102,1003,129"/>
+<area shape="rect" id="node7" href="$shard__metadata_8c.html" title="src/broker/shard_metadata.c" alt="" coords="1027,102,1215,129"/>
+<area shape="rect" id="node8" href="$shard__shm_8c.html" title="src/broker/shard_shm.c" alt="" coords="1239,102,1398,129"/>
+</map>

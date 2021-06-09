@@ -1,0 +1,6 @@
+<map id="mvcc_active_tran::units_to_bytes" name="mvcc_active_tran::units_to_bytes">
+<area shape="rect" id="node2" href="$structmvcc__active__tran.html#a3384484485d373415165d00109565d6e" title="mvcc_active_tran::get\l_bit_area_memsize" alt="" coords="215,49,365,90"/>
+<area shape="rect" id="node3" href="$structmvcc__active__tran.html#a9821943954e3266bf1fa5971df43341d" title="mvcc_active_tran::copy_to" alt="" coords="419,5,598,32"/>
+<area shape="rect" id="node4" href="$structmvcc__active__tran.html#ac19f2fcd645b6eeb6799a199a7c97103" title="mvcc_active_tran::ltrim_area" alt="" coords="413,56,604,83"/>
+<area shape="rect" id="node5" href="$structmvcc__active__tran.html#ab45c2bd2755f7760f372e337dd4f301c" title="mvcc_active_tran::reset" alt="" coords="427,107,590,133"/>
+</map>

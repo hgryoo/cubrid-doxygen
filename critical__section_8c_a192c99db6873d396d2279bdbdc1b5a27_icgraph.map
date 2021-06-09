@@ -1,0 +1,9 @@
+<map id="sync_reset_stats_metrics" name="sync_reset_stats_metrics">
+<area shape="rect" id="node2" href="$critical__section_8h.html#a1dd9956f011c572fb0f8157292711cd9" title="csect_dump_statistics" alt="" coords="239,19,393,46"/>
+<area shape="rect" id="node5" href="$critical__section_8h.html#ae7da923c126735882465b956780bc39c" title="rmutex_dump_statistics" alt="" coords="235,70,397,96"/>
+<area shape="rect" id="node6" href="$critical__section_8h.html#a3296f9f71583e08e73b4a5f08fd11a31" title="rwlock_dump_statistics" alt="" coords="237,120,395,147"/>
+<area shape="rect" id="node7" href="$critical__section_8c.html#a6793968064e8a1132fa1b3f19f4c0964" title="sync_consume_sync_stats\l_from_pool" alt="" coords="225,172,407,213"/>
+<area shape="rect" id="node3" href="$critical__section_8h.html#ac7a489f638cc5cfe42647e7652b3347e" title="sync_dump_statistics" alt="" coords="455,70,604,96"/>
+<area shape="rect" id="node4" href="$critical__section_8h.html#ac7e9dfe45fd2766bc49bfede3bf967da" title="csect_name_at" alt="" coords="652,44,763,71"/>
+<area shape="rect" id="node8" href="$critical__section_8c.html#a4c5ca7d5427a37dfe5549c2886b68d5e" title="sync_allocate_sync\l_stats" alt="" coords="461,172,598,213"/>
+</map>

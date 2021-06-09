@@ -1,0 +1,19 @@
+<map id="log_unzip" name="log_unzip">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a3bc011a19f402148b5f8c465eb8044c3" title="la_get_log_data" alt="" coords="382,56,495,83"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#a26071ffa5f9060256e41ea5350061de9" title="la_get_next_update_log" alt="" coords="359,157,518,184"/>
+<area shape="rect" id="node7" href="$log__applier_8c.html#a930826f579c5bf3d1346cf40cafcebf8" title="la_get_undoredo_diff" alt="" coords="147,107,290,133"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html#a128ca366cd96cb3ed13c24722f5d43d8" title="log_dump_data" alt="" coords="163,208,274,235"/>
+<area shape="rect" id="node9" href="$log__manager_8h.html#a1aaae82081fc2e08d67075003e537842" title="log_get_undo_record" alt="" coords="147,259,290,285"/>
+<area shape="rect" id="node11" href="$log__manager_8c.html#a9207223dc64d4badfed6fa1237931a6a" title="log_rollback_record" alt="" coords="151,309,286,336"/>
+<area shape="rect" id="node12" href="$log__recovery_8c.html#a5be1bd7683450802e81ea4b40e03ef91" title="log_rv_get_unzip_log_data" alt="" coords="131,360,307,387"/>
+<area shape="rect" id="node14" href="$log__recovery_8c.html#ac8b688935ca41cc96e536f5a162323d7" title="log_rv_redo_record" alt="" coords="153,411,285,437"/>
+<area shape="rect" id="node15" href="$log__recovery_8c.html#a4709cc43d55b85d001d933feb62b5f9e" title="log_rv_undo_record" alt="" coords="151,461,286,488"/>
+<area shape="rect" id="node16" href="$vacuum_8c.html#a2e814432b50f4504d10689047b62c061" title="vacuum_process_log\l_record" alt="" coords="146,513,291,554"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a6a1468ac5911db62a7c26a0403d91b51" title="la_get_overflow_recdes" alt="" coords="575,5,733,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a37ef46eaee81a2d30f60982bc465783b" title="la_get_recdes" alt="" coords="785,81,888,108"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#ae0f331a6f107b8f05e20e77a390b608e" title="la_get_relocation_recdes" alt="" coords="571,107,737,133"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#aa8d2c0d3e65b71a9cd934d587d4bc2a6" title="heap_get_visible_version\l_from_log" alt="" coords="355,251,523,293"/>
+<area shape="rect" id="node13" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="375,385,503,412"/>
+<area shape="rect" id="node17" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="366,479,511,521"/>
+<area shape="rect" id="node18" href="$vacuum_8c.html#a98dc5dfb2fca47a345da4f0f7c678554" title="vacuum_recover_lost\l_block_data" alt="" coords="365,545,512,586"/>
+</map>

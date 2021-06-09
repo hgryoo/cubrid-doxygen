@@ -1,0 +1,6 @@
+<map id="dl_destroy_dynamic_loader" name="dl_destroy_dynamic_loader">
+<area shape="rect" id="node2" href="$dynamic__load_8h.html#a8c4d916bd0044924187662dc279ec41d" title="dl_destroy_module" alt="" coords="192,31,323,57"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="572,5,711,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="577,68,706,95"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="371,31,524,57"/>
+</map>

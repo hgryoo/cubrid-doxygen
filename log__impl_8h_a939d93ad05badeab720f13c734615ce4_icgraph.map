@@ -1,0 +1,9 @@
+<map id="logpb_fetch_header_with_buffer" name="logpb_fetch_header_with_buffer">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a45020463486a6bde25e2428528cb5654" title="logpb_delete" alt="" coords="211,56,305,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a2e4a0eee53c67888cd1625c9884ff350" title="logpb_fetch_header" alt="" coords="191,107,325,133"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#ae4e8d582d0a9a203bde7da29096cb726" title="logpb_remove_all_in\l_log_path" alt="" coords="188,158,328,199"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="379,5,546,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="376,56,549,83"/>
+<area shape="rect" id="node6" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="391,107,534,133"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="395,165,530,192"/>
+</map>

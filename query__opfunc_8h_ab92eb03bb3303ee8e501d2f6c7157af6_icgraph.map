@@ -1,0 +1,10 @@
+<map id="qdata_copy_valptr_list_to_tuple" name="qdata_copy_valptr_list_to_tuple">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a124dfc1f7fe85f3de4683346c32e666b" title="qexec_end_buildvalueblock\l_iterations" alt="" coords="205,5,387,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#aca3e5eec1423cc628767b7d7a8631244" title="qexec_execute_connect_by" alt="" coords="639,71,823,98"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#ab586cfb0848f940d47ca7f4c2fbb8708" title="qexec_end_one_iteration" alt="" coords="213,122,379,149"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#ace4cbe7f3418a09d43ee9ad479be8e06" title="qexec_gby_finalize\l_group" alt="" coords="229,173,363,215"/>
+<area shape="rect" id="node7" href="$query__executor_8h.html#a2be66313ab0041341af58712bbfd2aad" title="qexec_insert_tuple\l_into_list" alt="" coords="231,239,361,280"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#aa016f9b3923d8aea5a3b2d91717d63db" title="qexec_update_connect\l_by_lists" alt="" coords="435,268,591,309"/>
+<area shape="rect" id="node9" href="$scan__manager_8c.html#af9d9abbe4d8ebd522ae8043b27d63626" title="scan_dump_key_into\l_tuple" alt="" coords="223,356,369,397"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a425bc11259dd76219569ccff1917b387" title="qexec_end_mainblock\l_iterations" alt="" coords="437,5,588,47"/>
+</map>

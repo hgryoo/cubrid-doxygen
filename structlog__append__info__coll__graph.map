@@ -1,0 +1,5 @@
+<map id="log_append_info" name="log_append_info">
+<area shape="rect" id="node2" href="$structlog__page.html" title="{log_page\n|+ area\l|}" alt="" coords="26,270,101,347"/>
+<area shape="rect" id="node3" href="$structlog__hdrpage.html" title="{log_hdrpage\n|+ logical_pageid\l+ offset\l+ flags\l+ checksum\l|}" alt="" coords="5,5,121,127"/>
+<area shape="rect" id="node4" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="124,189,229,428"/>
+</map>

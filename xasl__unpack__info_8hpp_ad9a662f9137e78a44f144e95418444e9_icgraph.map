@@ -1,0 +1,21 @@
+<map id="xasl_stream_get_ptr_block" name="xasl_stream_get_ptr_block">
+<area shape="rect" id="node2" href="$xasl__stream_8hpp.html#a5072590c6a95b7357f01f501acae2ea2" title="stx_get_struct_visited_ptr" alt="" coords="193,351,365,377"/>
+<area shape="rect" id="node18" href="$xasl__stream_8hpp.html#a547afbf4b5ace99613bb96c92d0a3c9a" title="stx_mark_struct_visited" alt="" coords="199,401,360,428"/>
+<area shape="rect" id="node19" href="$xasl__to__stream_8c.html#af14ff3ce41fa9c7ac2d02a9150fdbce1" title="xts_get_offset_visited_ptr" alt="" coords="193,452,365,479"/>
+<area shape="rect" id="node20" href="$xasl__to__stream_8c.html#aef8f56a136b326fdb811f24f01bebb8c" title="xts_mark_ptr_visited" alt="" coords="208,503,351,529"/>
+<area shape="rect" id="node3" href="$stream__to__xasl_8c.html#a2348a92f6c54610b5b6efe722166129e" title="stx_build_regu_value_list" alt="" coords="421,325,589,352"/>
+<area shape="rect" id="node4" href="$xasl__stream_8hpp.html#adf997c4c91c32845b74aa730ec686ca8" title="stx_restore" alt="" coords="461,376,548,403"/>
+<area shape="rect" id="node5" href="$stream__to__xasl_8c.html#a3ee331341e1e44dd4ce078ce9519e00d" title="stx_restore_aggregate_type" alt="" coords="413,427,596,453"/>
+<area shape="rect" id="node6" href="$stream__to__xasl_8c.html#a5afb47db4e9cd025e4d90094df01be92" title="stx_restore_analytic\l_eval_type" alt="" coords="435,478,574,519"/>
+<area shape="rect" id="node7" href="$stream__to__xasl_8c.html#ac3001346b64d14535de6505160be4976" title="stx_restore_analytic_type" alt="" coords="419,544,590,571"/>
+<area shape="rect" id="node8" href="$stream__to__xasl_8c.html#a99895304023841d82ad259264e348242" title="stx_restore_arith_type" alt="" coords="429,595,580,621"/>
+<area shape="rect" id="node9" href="$stream__to__xasl_8c.html#a657f4d6cb42627e68fdb8324f0c95240" title="stx_restore_cache_attrinfo" alt="" coords="417,645,593,672"/>
+<area shape="rect" id="node10" href="$stream__to__xasl_8c.html#ae69e641deda344713d7d5b7016795061" title="stx_restore_db_value" alt="" coords="431,696,578,723"/>
+<area shape="rect" id="node11" href="$stream__to__xasl_8c.html#a37694d7e3ce6da2e9d143b3d9011a04f" title="stx_restore_func_pred" alt="" coords="429,747,580,773"/>
+<area shape="rect" id="node12" href="$stream__to__xasl_8c.html#a7ebc9407bebb5a75a55df894419b5361" title="stx_restore_function_type" alt="" coords="419,5,591,32"/>
+<area shape="rect" id="node13" href="$stream__to__xasl_8c.html#aca24f07b10536442f7aaba85fc9d6778" title="stx_restore_indx_info" alt="" coords="431,56,578,83"/>
+<area shape="rect" id="node14" href="$stream__to__xasl_8c.html#a21224ee564ac39d0b2a186925eb463dd" title="stx_restore_list_id" alt="" coords="441,107,569,133"/>
+<area shape="rect" id="node15" href="$stream__to__xasl_8c.html#a67a27d72e1912ad70d6f14b22ac98638" title="stx_restore_method_sig" alt="" coords="424,157,585,184"/>
+<area shape="rect" id="node16" href="$stream__to__xasl_8c.html#ae546b4b957743eeedd0bde520f19e309" title="stx_restore_method\l_sig_list" alt="" coords="436,209,573,250"/>
+<area shape="rect" id="node17" href="$stream__to__xasl_8c.html#af6bd8fb8f6eb297f05a2d13202029da1" title="stx_restore_outptr_list" alt="" coords="429,275,580,301"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hb_cluster_send_heartbeat_internal" name="hb_cluster_send_heartbeat_internal">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#ae4f11a0bfd00085e99405bceaa0d9ecf" title="hb_cluster_send_heartbeat_req" alt="" coords="236,71,439,98"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#a6422fa7fcc0da8806f493eb0d0fa2b1a" title="hb_cluster_send_heartbeat_resp" alt="" coords="232,126,443,153"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#a52fae7e8673fc66f45c8ec438e0ad690" title="hb_cluster_request\l_heartbeat_to_all" alt="" coords="492,5,624,47"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#a25db7817bb427ccd2146827091c889b1" title="hb_cluster_cleanup" alt="" coords="491,71,625,98"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8c.html#a90e86baa17c811cb595751e617b3db15" title="hb_cluster_receive\l_heartbeat" alt="" coords="493,123,623,164"/>
+</map>

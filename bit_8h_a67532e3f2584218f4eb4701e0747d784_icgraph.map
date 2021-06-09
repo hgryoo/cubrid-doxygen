@@ -1,0 +1,8 @@
+<map id="bit64_count_zeros" name="bit64_count_zeros">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#ab3c87170a33f0da79ef346732de2693c" title="disk_stab_count_free" alt="" coords="181,81,328,108"/>
+<area shape="rect" id="node7" href="$unittests__bit_8c.html#a60d26ef9d4a5be77ee84ae6929cf8985" title="main" alt="" coords="229,132,280,159"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a11c0f285080de4a726add2b851dac9c1" title="disk_rv_redo_format" alt="" coords="403,5,543,32"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a636a75a6b5ad42273ee31512c59b2321" title="disk_rv_volhead_extend_redo" alt="" coords="376,56,571,83"/>
+<area shape="rect" id="node5" href="$disk__manager_8c.html#a1ae52075d2aa7b8e8ffd2cb55c301005" title="disk_volume_boot" alt="" coords="410,107,537,133"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#aeec03ae8e7c25ee787b85ac8140c8596" title="disk_check_volume" alt="" coords="405,157,542,184"/>
+</map>

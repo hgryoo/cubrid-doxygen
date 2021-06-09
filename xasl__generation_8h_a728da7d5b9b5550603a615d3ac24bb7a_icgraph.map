@@ -1,0 +1,6 @@
+<map id="ptqo_to_list_scan_proc" name="ptqo_to_list_scan_proc">
+<area shape="rect" id="node2" href="$plan__generation_8c.html#aca1dd0abed7e71ece2102e9c1adf785c" title="init_list_scan_proc" alt="" coords="209,56,340,83"/>
+<area shape="rect" id="node5" href="$plan__generation_8c.html#a9ff7f1b8c43b85ac9cbf2d5e1ce18926" title="make_mergelist_proc" alt="" coords="388,107,535,133"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#a5ba46846df3d11008f3c7d2fd4fa6cf3" title="gen_inner" alt="" coords="422,5,501,32"/>
+<area shape="rect" id="node4" href="$plan__generation_8c.html#a851ad3e58cae2b277cdf3f058e304cac" title="gen_outer" alt="" coords="583,31,661,57"/>
+</map>

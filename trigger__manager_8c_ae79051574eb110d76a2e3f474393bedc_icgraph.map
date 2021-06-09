@@ -1,0 +1,17 @@
+<map id="tr_before_object" name="tr_before_object">
+<area shape="rect" id="node2" href="$object__accessor_8h.html#a656f7a11efc0d147c9af471b68edf2f2" title="obj_delete" alt="" coords="207,284,288,311"/>
+<area shape="rect" id="node15" href="$object__template_8c.html#ab1a49f2b7b043063d70b8f50111e7e9f" title="obt_apply_assignments" alt="" coords="168,335,327,361"/>
+<area shape="rect" id="node16" href="$trigger__manager_8h.html#aa0ae14907b4f262059d5037db52c479e" title="tr_before" alt="" coords="211,385,284,412"/>
+<area shape="rect" id="node3" href="$authenticate_8c.html#aa44ed2266e160f8a81a8b400744c7da3" title="au_delete_new_auth" alt="" coords="399,5,541,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#a432ae2e4cbf4a4657fc1165dd0f553a7" title="au_drop_user" alt="" coords="420,56,520,83"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="662,81,739,108"/>
+<area shape="rect" id="node6" href="$authenticate_8c.html#a6d6d63b0e417da4f892561898c64893c" title="au_make_user" alt="" coords="417,157,523,184"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#ac74a9903459e4085602bf896ea135f7b" title="db_drop" alt="" coords="436,208,504,235"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#a21188172805695aba5e22265472fd774" title="dbt_drop_attribute" alt="" coords="407,259,533,285"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html#a4b5c1edbe844b65f680fa8eceaa5683e" title="do_change_att_schema_only" alt="" coords="375,309,565,336"/>
+<area shape="rect" id="node10" href="$jsp__cl_8c.html#a12b7cdb428499b5990e60ffa51ff4d76" title="drop_stored_procedure" alt="" coords="393,360,547,387"/>
+<area shape="rect" id="node11" href="$jsp__cl_8c.html#a492fc77e32ed00bc045be5703c4aba55" title="jsp_add_stored_procedure" alt="" coords="613,440,788,467"/>
+<area shape="rect" id="node12" href="$jsp__cl_8c.html#a5ae7532d8b80611831949995873a9de2" title="jsp_add_stored_procedure\l_argument" alt="" coords="383,462,557,503"/>
+<area shape="rect" id="node13" href="$db__stub_8c.html#aa1f0644e51db7fd51ebd4d194558a9ce" title="res_delete_row_internal" alt="" coords="391,528,549,555"/>
+<area shape="rect" id="node14" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="394,603,546,629"/>
+</map>

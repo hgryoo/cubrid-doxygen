@@ -1,0 +1,18 @@
+<map id="db_value_create" name="db_value_create">
+<area shape="rect" id="node2" href="$db__collection_8c.html#a5339f2e3e27d3e6073e00d92898f00e4" title="col_api_insert" alt="" coords="221,51,324,78"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="197,103,349,144"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#a4031e13892e89e8a3b919278737eded3" title="do_create_trigger" alt="" coords="211,169,334,195"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#a0d658fe69305515b1fbf890a91000bfa" title="do_get_optimization\l_param" alt="" coords="203,220,342,261"/>
+<area shape="rect" id="node9" href="$execute__statement_8h.html#a9367422aa1fee38db7338977534a60f3" title="do_get_stats" alt="" coords="224,286,321,313"/>
+<area shape="rect" id="node10" href="$execute__statement_8h.html#afeb88675be95347ead147b1d7e9b444a" title="do_get_trigger" alt="" coords="221,337,325,363"/>
+<area shape="rect" id="node11" href="$execute__statement_8h.html#a1e6cca6496f9a46ab48da05ea51b19a6" title="do_get_xaction" alt="" coords="217,387,328,414"/>
+<area shape="rect" id="node12" href="$execute__statement_8c.html#afc8676086646494b31f8b100d05f13da" title="do_insert_template" alt="" coords="447,489,579,515"/>
+<area shape="rect" id="node13" href="$db__collection_8c.html#adf9367b6acdab9210b73a871fcddf6b8" title="fill_collection" alt="" coords="224,489,321,515"/>
+<area shape="rect" id="node14" href="$execute__statement_8c.html#a2ed4e36685dfd7b5d4e82516a415d0e9" title="insert_subquery_results" alt="" coords="193,539,353,566"/>
+<area shape="rect" id="node15" href="$semantic__check_8h.html#a9707fb60111e3e2076af068d8572bef8" title="pt_check_union_type\l_compatibility_of_values_query" alt="" coords="171,591,375,632"/>
+<area shape="rect" id="node16" href="$xasl__generation_8c.html#a62d8452ce27196198a2631bc7fbd50de" title="pt_make_regu_insert" alt="" coords="201,657,344,683"/>
+<area shape="rect" id="node17" href="$db__value__table_8c.html#a6e8b182b982e0780e5cf8ff1ad758773" title="vbt_lazy_init_db_value" alt="" coords="195,707,350,734"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#ad6b414798f5f576f2df94299d7842810" title="db_execute_and_keep\l_statement" alt="" coords="437,5,589,47"/>
+<area shape="rect" id="node5" href="$db__vdb_8c.html#a884a12ed3b75319fe569e73870bc485c" title="db_execute_statement\l_local" alt="" coords="435,71,590,112"/>
+<area shape="rect" id="node6" href="$db__vdb_8c.html#aa67900db91e4c062a739ff4d40d69a3c" title="do_recompile_and_execute\l_prepared_statement" alt="" coords="423,136,603,177"/>
+</map>

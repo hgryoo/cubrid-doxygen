@@ -1,0 +1,4 @@
+<map id="locator_list_nested_mops" name="locator_list_nested_mops">
+<area shape="rect" id="node2" href="$structlist__mops.html" title="{list_mops\n|+ num\l|}" alt="" coords="53,321,132,399"/>
+<area shape="rect" id="node3" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="5,5,180,259"/>
+</map>

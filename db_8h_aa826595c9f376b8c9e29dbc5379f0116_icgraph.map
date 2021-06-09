@@ -1,0 +1,12 @@
+<map id="db_create_internal" name="db_create_internal">
+<area shape="rect" id="node2" href="$authenticate_8c.html#a8a7c21f89841de7a41578a09e4cd63b5" title="au_set_new_auth" alt="" coords="189,31,313,57"/>
+<area shape="rect" id="node5" href="$boot__cl_8c.html#ae1c31550294abe00870d12f9569a0114" title="boot_add_charsets" alt="" coords="185,81,317,108"/>
+<area shape="rect" id="node6" href="$boot__cl_8h.html#a23206f121c6c773602c8b8e6123b0c55" title="boot_add_collations" alt="" coords="182,132,319,159"/>
+<area shape="rect" id="node7" href="$boot__cl_8c.html#a0d1a409c37bd1d24e85c7e843b1a22e9" title="boot_add_data_type" alt="" coords="181,183,320,209"/>
+<area shape="rect" id="node8" href="$boot__cl_8c.html#afc3f9ea83d4f2eb3c5797467ffc144fc" title="boot_define_dual" alt="" coords="191,233,311,260"/>
+<area shape="rect" id="node9" href="$dbi__compat_8h.html#a98c2e26053f556b0dc8395d6c2d8da2f" title="db_create" alt="" coords="211,284,290,311"/>
+<area shape="rect" id="node10" href="$load__sa__loader_8cpp.html#af1a349e8741eb78e5613ea0cb0b4cc45" title="find_instance" alt="" coords="201,335,300,361"/>
+<area shape="rect" id="node11" href="$load__sa__loader_8cpp.html#a9aa0f48f3bf9f906b3741ad03b78545b" title="ldr_reset_context" alt="" coords="189,385,312,412"/>
+<area shape="rect" id="node3" href="$authenticate_8c.html#a0cf1518313fe5852f425a19899d8391e" title="au_insert_new_auth" alt="" coords="371,5,510,32"/>
+<area shape="rect" id="node4" href="$authenticate_8c.html#aba91d5852ea11e58f057a8df7d57a403" title="au_update_new_auth" alt="" coords="368,56,513,83"/>
+</map>

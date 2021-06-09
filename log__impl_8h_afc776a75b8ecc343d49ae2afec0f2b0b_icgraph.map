@@ -1,0 +1,5 @@
+<map id="logtb_find_client_type" name="logtb_find_client_type">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#af20a75c04b4f9789850e4ebe1fc051ad" title="logtb_find_current\l_client_type" alt="" coords="205,5,331,47"/>
+<area shape="rect" id="node4" href="$network__sr_8c.html#ae411c65a8239aaf3abb5a8524667b9db" title="net_server_request" alt="" coords="201,71,335,98"/>
+<area shape="rect" id="node3" href="$transaction__sr_8c.html#adea9113696646ab1a88c8e0e348180fa" title="xtran_lock_rep_read" alt="" coords="383,13,521,39"/>
+</map>

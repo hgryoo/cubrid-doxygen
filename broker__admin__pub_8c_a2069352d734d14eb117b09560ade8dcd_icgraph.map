@@ -1,0 +1,11 @@
+<map id="br_inactivate" name="br_inactivate">
+<area shape="rect" id="node2" href="$broker__admin__pub_8h.html#a14999819eaeeb81cb1aa69aef429116f" title="admin_off_cmd" alt="" coords="155,81,266,108"/>
+<area shape="rect" id="node5" href="$broker__admin__pub_8h.html#a21e0332265b07017b4f3211c3f455640" title="admin_on_cmd" alt="" coords="155,31,266,57"/>
+<area shape="rect" id="node7" href="$broker__admin__pub_8h.html#ad2b7e17f9a9fe16d07b20db49cea8f6b" title="admin_start_cmd" alt="" coords="149,132,272,159"/>
+<area shape="rect" id="node9" href="$broker__admin__pub_8h.html#aea3392ab9991db755b0a823eb606be60" title="admin_stop_cmd" alt="" coords="150,183,271,209"/>
+<area shape="rect" id="node3" href="$broker__admin_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="329,107,380,133"/>
+<area shape="rect" id="node4" href="$broker__admin__so_8h.html#a4d672b8a19b59795b8378a4854782050" title="uc_off" alt="" coords="325,56,384,83"/>
+<area shape="rect" id="node6" href="$broker__admin__so_8h.html#a6c80b8cfc0cb9e9115e9050aaa233c57" title="uc_on" alt="" coords="326,5,383,32"/>
+<area shape="rect" id="node8" href="$broker__admin__so_8h.html#ac361a945adcacad1ba7294ff3f7700d9" title="uc_start" alt="" coords="320,157,389,184"/>
+<area shape="rect" id="node10" href="$broker__admin__so_8h.html#a7afad58d060fdba2a70dfa29e974e571" title="uc_stop" alt="" coords="321,208,389,235"/>
+</map>

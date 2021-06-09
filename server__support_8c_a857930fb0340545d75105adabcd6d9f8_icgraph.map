@@ -1,0 +1,17 @@
+<map id="css_send_reply_and_2_data_to_client" name="css_send_reply_and_2_data_to_client">
+<area shape="rect" id="node2" href="$server__support_8h.html#ae83ac2ba0d1904f1344cb35833301104" title="css_send_reply_and\l_3_data_to_client" alt="" coords="205,174,347,215"/>
+<area shape="rect" id="node10" href="$network__interface__sr_8h.html#a79186ccdff23a4e8f11acc361e525f86" title="slocator_does_exist" alt="" coords="431,371,569,397"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#ad54c8df422b50d3a632d1c83a048a464" title="slocator_fetch" alt="" coords="224,421,328,448"/>
+<area shape="rect" id="node12" href="$network__interface__sr_8h.html#a8e8e270747fa0a1d4703c06d53ccc880" title="slocator_fetch_all" alt="" coords="214,472,338,499"/>
+<area shape="rect" id="node13" href="$network__interface__sr_8h.html#a39438f04ddf6b4a0273eefef2bf2942a" title="slocator_force" alt="" coords="224,523,328,549"/>
+<area shape="rect" id="node14" href="$network__interface__sr_8h.html#ae50188bc8329d7dd7a1250983eeb93fe" title="slocator_get_class" alt="" coords="211,573,341,600"/>
+<area shape="rect" id="node15" href="$network__interface__sr_8h.html#af145518f527269bec34841069d7769c5" title="slocator_notify_isolation\l_incons" alt="" coords="195,625,357,666"/>
+<area shape="rect" id="node16" href="$network__interface__sr_8h.html#ad65187f377a0026c2af8227b77aeb9dc" title="slocator_repl_force" alt="" coords="210,691,342,717"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8h.html#ab576a5707796c76521eed6869bb2dd65" title="slocator_fetch_lockset" alt="" coords="423,5,577,32"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#a7de0b4c0d9ed4ce61aa75f4757aa9412" title="slocator_fetch_all\l_reference_lockset" alt="" coords="434,57,566,98"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="425,123,575,149"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#abe5a5fb9e7d4da29e0db82283a10503e" title="sqmgr_prepare_and_execute\l_query" alt="" coords="405,174,595,215"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#a620f79b8a510f629de75a91353258a62" title="slocator_find_lockhint\l_class_oids" alt="" coords="426,239,574,281"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#aa69fdc77b0c4a4abee0cc6efd9eb18b7" title="slocator_fetch_lockhint\l_classes" alt="" coords="422,305,578,346"/>
+<area shape="rect" id="node4" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="643,371,749,397"/>
+</map>

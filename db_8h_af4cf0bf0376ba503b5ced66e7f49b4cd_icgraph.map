@@ -1,0 +1,16 @@
+<map id="db_execute_statement_local" name="db_execute_statement_local">
+<area shape="rect" id="node2" href="$authenticate_8c.html#aaf9859e56ac7f259cde7f167e1e0a609" title="au_compute_groups" alt="" coords="231,31,369,57"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a1d3ecb39d3f27d5c44fb24082ea38423" title="au_delete_auth_of_dropping\l_table" alt="" coords="208,82,392,123"/>
+<area shape="rect" id="node6" href="$authenticate_8h.html#a432ae2e4cbf4a4657fc1165dd0f553a7" title="au_drop_user" alt="" coords="250,148,350,175"/>
+<area shape="rect" id="node7" href="$authenticate_8c.html#a19834076a0fc4f36b7af2e4f1094dcfb" title="au_get_new_auth" alt="" coords="238,199,362,225"/>
+<area shape="rect" id="node8" href="$db__vdb_8c.html#a78481e1554c3d1807c07bcb8bfc7cd54" title="db_compile_and_execute\l_queries_internal" alt="" coords="215,250,385,291"/>
+<area shape="rect" id="node9" href="$dbi__compat_8h.html#af9bd6b1ca9d48913f3c7af27f0536dd2" title="db_execute_statement" alt="" coords="223,316,377,343"/>
+<area shape="rect" id="node10" href="$db__query_8h.html#a5939664a0d49b1cd82321d2df2ff2763" title="db_execute_with_values" alt="" coords="217,367,383,393"/>
+<area shape="rect" id="node11" href="$execute__schema_8h.html#a0ca53719d282b2611e36999a182f7c9e" title="do_check_rows_for_null" alt="" coords="219,417,381,444"/>
+<area shape="rect" id="node12" href="$execute__schema_8c.html#a8843a5510e98769586c9da9fdaf50ef4" title="do_run_update_query\l_for_class" alt="" coords="227,469,373,510"/>
+<area shape="rect" id="node13" href="$schema__manager_8c.html#a74a7b74c0b75fb805a8392f15887cea6" title="sm_truncate_using_delete" alt="" coords="213,535,387,561"/>
+<area shape="rect" id="node14" href="$db__stub_8c.html#a1270305253397f2df6f248228ca271c1" title="stmt_exec_batch_query\l_internal" alt="" coords="219,586,381,627"/>
+<area shape="rect" id="node15" href="$tz__compile_8c.html#a42f887cbeff90bb6259a8a76b968da6c" title="tzc_compute_timezone\l_checksum" alt="" coords="221,651,379,693"/>
+<area shape="rect" id="node3" href="$authenticate_8c.html#ada79c42256625eef01008fd31cd7a5b3" title="au_add_member_internal" alt="" coords="440,5,607,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#aa0c24965d6f0630211fb1e4e1f6769d2" title="au_drop_member" alt="" coords="462,56,585,83"/>
+</map>

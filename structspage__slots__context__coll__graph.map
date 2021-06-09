@@ -1,0 +1,4 @@
+<map id="spage_slots_context" name="spage_slots_context">
+<area shape="rect" id="node2" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="5,13,77,105"/>
+<area shape="rect" id="node3" href="$structspage__slot.html" title="{spage_slot\n|+ offset_to_record\l+ record_length\l+ record_type\l|}" alt="" coords="101,5,229,112"/>
+</map>

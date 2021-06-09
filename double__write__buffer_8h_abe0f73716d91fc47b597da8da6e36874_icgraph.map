@@ -1,0 +1,18 @@
+<map id="dwb_is_created" name="dwb_is_created">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#a9990a5604abb5bdf77d643cd0023fe5b" title="dwb_flush_block" alt="" coords="193,241,312,268"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#a52cc679b3a23afba6d84fedc94a25c8b" title="fileio_write_or_add\l_to_dwb" alt="" coords="607,74,738,115"/>
+<area shape="rect" id="node5" href="$file__io_8h.html#a6aef95977713b43fcfa1f809b4525c6d" title="fileio_initialize_pages" alt="" coords="808,52,953,78"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a6ebdf1006f6b5bb49a3fc4c4f8f75e31" title="pgbuf_bcb_flush_with_wal" alt="" coords="585,157,760,184"/>
+<area shape="rect" id="node8" href="$double__write__buffer_8h.html#af1b89963ffb5ce9bfc9809ad6369dada" title="dwb_read_page" alt="" coords="616,284,729,310"/>
+<area shape="rect" id="node10" href="$double__write__buffer_8h.html#af8ee903ba19ba86334655b76109eb6b4" title="dwb_get_volume_name" alt="" coords="173,376,332,402"/>
+<area shape="rect" id="node11" href="$file__io_8c.html#a10164455761b62055fa2006bb4e53e9c" title="fileio_write_restore" alt="" coords="187,426,318,453"/>
+<area shape="rect" id="node12" href="$file__io_8h.html#a0556d02a20dedd9f698cdb46ffa264b2" title="fileio_writev" alt="" coords="207,477,298,504"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="169,528,337,554"/>
+<area shape="rect" id="node14" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="179,578,327,605"/>
+<area shape="rect" id="node15" href="$log__page__buffer_8c.html#af82ae9aa46256f2446febdc4673bb15b" title="logpb_write_page_to_disk" alt="" coords="167,629,339,656"/>
+<area shape="rect" id="node16" href="$log__page__buffer_8c.html#aba424036ec1b5f29053849bba67d9442" title="logpb_write_toflush\l_pages_to_archive" alt="" coords="185,680,320,722"/>
+<area shape="rect" id="node17" href="$log__page__buffer_8c.html#aff4e1c7df4260b5dc7ad3dd1b37e6baa" title="logpb_writev_append\l_pages" alt="" coords="181,746,325,787"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#ab2537553c0bc21020c4a4003916d89a5" title="dwb_add_page" alt="" coords="407,174,517,201"/>
+<area shape="rect" id="node7" href="$double__write__buffer_8c.html#a371f8a6887e91534959cf058cfcf56d8" title="dwb_flush_next_block" alt="" coords="387,225,537,252"/>
+<area shape="rect" id="node9" href="$double__write__buffer_8c.html#aa1c921b3d5e5877187b7b9207051e839" title="dwb_starts_structure\l_modification" alt="" coords="390,276,534,318"/>
+</map>

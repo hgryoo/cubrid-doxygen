@@ -1,0 +1,8 @@
+<map id="btree_get_perf_btree_page_type" name="btree_get_perf_btree_page_type">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#a644583d3d67e407554c30a9c8c22147a" title="pgbuf_get_page_type\l_for_stat" alt="" coords="201,69,348,110"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#acd505156c087ce3e22c45d295938612d" title="pgbuf_has_perm_pages\l_fixed" alt="" coords="195,145,355,186"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="414,5,531,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#a1bf1b7b6a62392916056f3c33e414f9d" title="pgbuf_promote_read\l_latch_debug" alt="" coords="403,57,543,98"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#afde1751ceb069fe468ffa1b51283033f" title="pgbuf_unfix_debug" alt="" coords="407,123,538,149"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#aa91abaf89af63e703737ac5c00d7cd7d" title="logpb_flush_pages" alt="" coords="407,173,538,200"/>
+</map>

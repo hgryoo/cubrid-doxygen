@@ -1,0 +1,7 @@
+<map id="log_rollback" name="log_rollback">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="148,78,257,105"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a8ba8a8666ca892dac7b456367d153965" title="log_sysop_abort" alt="" coords="144,129,261,155"/>
+<area shape="rect" id="node3" href="$log__2pc_8c.html#a8f0d3e711958d90183e5813a073b4696" title="log_2pc_commit_second\l_phase" alt="" coords="309,5,476,47"/>
+<area shape="rect" id="node4" href="$log__2pc_8c.html#acf5f3bbe0b21f92332c8b664cd39e251" title="log_2pc_recovery_abort\l_decision" alt="" coords="313,71,473,112"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="355,137,430,163"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="logpb_finalize_flush_info" name="logpb_finalize_flush_info">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a5ea6483fb4af95ef44ff7eb9d6d35a05" title="logpb_finalize_pool" alt="" coords="237,246,369,273"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html#a139438143755418b14a0a8e3ab5c3967" title="logpb_initialize_flush_info" alt="" coords="217,322,388,349"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="691,44,822,70"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="685,94,828,121"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="487,44,558,70"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#ac92df3fb17efd887483ccf4616f20f27" title="log_rv_outside_noop_redo" alt="" coords="436,246,609,273"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a10dc05607248603c703e1c9d1e5a5b0f" title="logpb_initialize_pool" alt="" coords="453,348,592,374"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a63a720215fa477b0b24287fe33f11464" title="logpb_find_header_parameters" alt="" coords="657,200,856,226"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="667,307,846,348"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a45020463486a6bde25e2428528cb5654" title="logpb_delete" alt="" coords="709,377,804,404"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#ae4e8d582d0a9a203bde7da29096cb726" title="logpb_remove_all_in\l_log_path" alt="" coords="687,436,827,478"/>
+<area shape="rect" id="node12" href="$log__tran__table_8c.html#aea65dea16f0d4816ff1ff6f22019f660" title="logtb_define_trantable" alt="" coords="448,196,597,222"/>
+</map>

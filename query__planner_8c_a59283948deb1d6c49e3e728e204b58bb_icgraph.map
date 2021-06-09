@@ -1,0 +1,6 @@
+<map id="qo_compute_projected_segs" name="qo_compute_projected_segs">
+<area shape="rect" id="node2" href="$query__planner_8c.html#a34625fd5462eb09d217bf962d6d63f64" title="qo_alloc_info" alt="" coords="241,56,340,83"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#abf65a5118fdb1892f752f7b1fe193a53" title="planner_visit_node" alt="" coords="399,5,529,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#ad1a25c2a4131f42a4170844e8e4b2faa" title="qo_combine_partitions" alt="" coords="388,56,540,83"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#a95e522736be6c3ba92de264e5383eba5" title="qo_search_planner" alt="" coords="588,81,719,108"/>
+</map>

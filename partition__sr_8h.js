@@ -1,0 +1,26 @@
+var partition__sr_8h =
+[
+    [ "pruning_scan_cache", "structpruning__scan__cache.html", "structpruning__scan__cache" ],
+    [ "scancache_list", "structscancache__list.html", "structscancache__list" ],
+    [ "pruning_context", "structpruning__context.html", "structpruning__context" ],
+    [ "HIERARCHY_AGGREGATE_HELPER", "partition__sr_8h.html#a47d92254dca9631d36fc81bba19d9471", null ],
+    [ "PRUNING_CONTEXT", "partition__sr_8h.html#a1ecdf65c6b0c304faec27759551efe89", null ],
+    [ "PRUNING_SCAN_CACHE", "partition__sr_8h.html#a99f3d3c1aee36bd9640739c10404e76a", null ],
+    [ "SCANCACHE_LIST", "partition__sr_8h.html#a880b3c8827f07f4513da6f5642fba7de", null ],
+    [ "partition_cache_finalize", "partition__sr_8h.html#ab02785ce6fb41431104189dc8ca29d6d", null ],
+    [ "partition_cache_init", "partition__sr_8h.html#a09bc594af4326653f6d3e64a1ba4e319", null ],
+    [ "partition_clear_pruning_context", "partition__sr_8h.html#af9a2feea32c0c4aa004f290e6bec8429", null ],
+    [ "partition_decache_class", "partition__sr_8h.html#a52a95bcc2d70fec238c91c2b07d02230", null ],
+    [ "partition_find_root_class_oid", "partition__sr_8h.html#a98667b767c15f1dcf55042338a10cedb", null ],
+    [ "partition_get_partition_oids", "partition__sr_8h.html#a474874e24a5fca17cd631c5b2d052ebb", null ],
+    [ "partition_get_scancache", "partition__sr_8h.html#a957d7baf1c66483d47911491e1ca1853", null ],
+    [ "partition_init_pruning_context", "partition__sr_8h.html#aac65572fda8e6df6494c757bde44812e", null ],
+    [ "partition_load_aggregate_helper", "partition__sr_8h.html#ad73856aeaeb01df0c055d16ef66c0a84", null ],
+    [ "partition_load_pruning_context", "partition__sr_8h.html#aef1b14c7f20079f1a0ef94745945d48c", null ],
+    [ "partition_new_scancache", "partition__sr_8h.html#a115719869653408e0b7b69bd5f7f3425", null ],
+    [ "partition_prune_insert", "partition__sr_8h.html#a2c2951ea01d81ffde3b0a7b482a43244", null ],
+    [ "partition_prune_partition_index", "partition__sr_8h.html#a4b03551c057e006010580063659d3a6c", null ],
+    [ "partition_prune_spec", "partition__sr_8h.html#a0482c972f8f45183a5004af78aa62c43", null ],
+    [ "partition_prune_unique_btid", "partition__sr_8h.html#ab96db6f944439496bb12bb19d6dc9237", null ],
+    [ "partition_prune_update", "partition__sr_8h.html#a84fd6a22d1230b8a66c013dd59f4bf53", null ]
+];

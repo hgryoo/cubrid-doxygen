@@ -1,0 +1,4 @@
+<map id="db_executed_statement_type" name="db_executed_statement_type">
+<area shape="rect" id="node2" href="$structdb__query__type.html" title="{db_query_type\n|+ col_type\l+ name\l+ attr_name\l+ spec_name\l+ original_name\l+ db_type\l+ size\l+ visible_type\l|}" alt="" coords="45,307,159,487"/>
+<area shape="rect" id="node3" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="35,5,169,229"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="css_return_open_entry" name="css_return_open_entry">
+<area shape="rect" id="node2" href="$client__support_8h.html#a089d946c1ae14c43ba995f687a6eb7f5" title="css_cleanup_client\l_queues" alt="" coords="227,9,361,51"/>
+<area shape="rect" id="node4" href="$client__support_8h.html#a21a96408ff489b345b02324da654c7fc" title="css_client_init" alt="" coords="241,101,347,127"/>
+<area shape="rect" id="node6" href="$client__support_8h.html#a4bbd0753c2bea71f02beaa96086b9e67" title="css_send_data_to_server" alt="" coords="209,163,379,190"/>
+<area shape="rect" id="node8" href="$client__support_8h.html#a140a5eb921b7e6b400e659d635ea4182" title="css_send_error_to_server" alt="" coords="208,221,380,247"/>
+<area shape="rect" id="node10" href="$client__support_8h.html#a92cc3c0ac0a9fe316469b8ddb6ef0a0c" title="css_send_req_to_server" alt="" coords="212,274,376,301"/>
+<area shape="rect" id="node18" href="$client__support_8h.html#a39c6279760e6a0952c6f7bf76c690b76" title="css_send_req_to_server\l_2_data" alt="" coords="212,325,376,367"/>
+<area shape="rect" id="node19" href="$client__support_8h.html#a50c1dba985b708494ac6eb196af187ec" title="css_send_req_to_server\l_no_reply" alt="" coords="212,391,376,432"/>
+<area shape="rect" id="node20" href="$client__support_8h.html#a982bf4d65db840388096c7e3891a9bac" title="css_send_request_to\l_server_with_buffer" alt="" coords="221,456,367,497"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#af569982b8a0578cc9182b014a3d9f62d" title="net_cleanup_client\l_queues" alt="" coords="437,5,568,47"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#aa7c761be8f5657cac984575d176eefbf" title="net_client_init" alt="" coords="451,71,554,98"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#a7178fe265609749a89d3bf52b834ad2f" title="net_client_send_data" alt="" coords="430,122,575,149"/>
+<area shape="rect" id="node9" href="$network__cl_8c.html#afef936de275a8223e831cae4ef7d3645" title="return_error_to_server" alt="" coords="428,173,577,199"/>
+<area shape="rect" id="node11" href="$network__interface__cl_8h.html#a0326b26cb6dda39054c5ece6b4a3a50d" title="net_client_request" alt="" coords="625,377,753,403"/>
+<area shape="rect" id="node12" href="$network__interface__cl_8h.html#a837e242daf7159115213185ff8caf058" title="net_client_request2" alt="" coords="435,274,570,301"/>
+<area shape="rect" id="node13" href="$network__interface__cl_8h.html#a261083c3e18a7eea14b719b5a4ecc063" title="net_client_request2\l_no_malloc" alt="" coords="435,325,570,367"/>
+<area shape="rect" id="node14" href="$network__interface__cl_8h.html#a5780d77262457477d69b7205385f3fb6" title="net_client_request\l_2recv_copyarea" alt="" coords="439,391,567,432"/>
+<area shape="rect" id="node15" href="$network__interface__cl_8h.html#ab573cd7021cce8c0449068cada8cf14d" title="net_client_request\l_3recv_copyarea" alt="" coords="439,456,567,497"/>
+<area shape="rect" id="node16" href="$network__cl_8c.html#a530485811be304dcfbd5315d407f8573" title="net_client_request\l_internal" alt="" coords="439,521,567,563"/>
+<area shape="rect" id="node17" href="$network__interface__cl_8h.html#a400c1cdd6251fc411dd235307ae5291b" title="net_client_request\l_recv_copyarea" alt="" coords="439,587,567,628"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="btree_node_header_redo_log" name="btree_node_header_redo_log">
+<area shape="rect" id="node2" href="$btree_8c.html#a7e6a2a7c52c52fd7d265d9f1c4282382" title="btree_merge_root" alt="" coords="277,13,400,39"/>
+<area shape="rect" id="node4" href="$btree_8c.html#ab825e934326ccefc3cff98a3743bd83c" title="btree_set_vpid_previous_vpid" alt="" coords="241,63,436,90"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a777512037cd84eb5b53cc6492a81447f" title="btree_split_node" alt="" coords="504,114,621,141"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a044540db3ec67e88e9313f84c6b242ee" title="btree_split_node_and\l_advance" alt="" coords="689,157,835,199"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a29dab257ee803a595192321147caa5ed" title="btree_split_root" alt="" coords="507,215,618,242"/>
+<area shape="rect" id="node3" href="$btree_8c.html#acea286eb82079783f298baa39d4cd373" title="btree_merge_node_and\l_advance" alt="" coords="484,5,641,47"/>
+</map>

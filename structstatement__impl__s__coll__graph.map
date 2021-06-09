@@ -1,0 +1,10 @@
+<map id="statement_impl_s" name="statement_impl_s">
+<area shape="rect" id="node8" href="$structbatch__result__impl__s.html" title="{batch_result_impl_s\n|+ COMMON_API_STRUCTURE\l_HEADER\l|}" alt="" coords="5,924,221,1016"/>
+<area shape="rect" id="node9" href="$structparameter__meta__impl__s.html" title="{parameter_meta_impl_s\n|+ COMMON_API_STRUCTURE\l_HEADER\l|}" alt="" coords="245,924,461,1016"/>
+<area shape="rect" id="node2" href="$structdlisth__s.html" title="{dlisth_s\n||}" alt="" coords="31,343,97,421"/>
+<area shape="rect" id="node3" href="$structvalue__indexer__s.html" title="{value_indexer_s\n||}" alt="" coords="183,343,299,421"/>
+<area shape="rect" id="node4" href="$structvalue__indexer__ifs__s.html" title="{value_indexer_ifs_s\n|+ check\l+ length\l+ get\l+ set\l+ map\l+ insert\l+ delete\l+ destroy\l|}" alt="" coords="173,27,310,207"/>
+<area shape="rect" id="node5" href="$structconnection__impl__s.html" title="{connection_impl_s\n|+ COMMON_API_STRUCTURE\l_HEADER\l+ err_buf\l+ rid\l+ conn\l+ conn_handle\l+ autocommit\l+ n_need_complete\l|}" alt="" coords="324,292,540,472"/>
+<area shape="rect" id="node6" href="$structcci__object__pool__s.html" title="{cci_object_pool_s\n|+ err_buf\l|}" alt="" coords="405,659,531,737"/>
+<area shape="rect" id="node7" href="$structbh__interface__s.html" title="{bh_interface_s\n|+ alloc_handle\l+ destroy_handle\l+ lookup\l+ bind_to_handle\l+ bind_get_parent\l+ bind_prune\l+ bind_graft\l+ bind_get_first_child\l+ bind_get_next_sibling\l+ bind_map\l+ destroy\l|}" alt="" coords="353,5,511,229"/>
+</map>

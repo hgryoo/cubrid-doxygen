@@ -1,0 +1,7 @@
+<map id="log_wakeup_remove_log_archive_daemon" name="log_wakeup_remove_log_archive_daemon">
+<area shape="rect" id="node2" href="$log__manager_8c.html#af75c618a8808a3cbda88f71cc7026ee1" title="log_get_checkpoint\l_interval" alt="" coords="235,5,370,47"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="219,71,387,98"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="435,5,603,47"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a978997a75ba311ff9ab0e14bb43100e5" title="logpb_next_append_page" alt="" coords="435,71,604,98"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="468,122,571,149"/>
+</map>

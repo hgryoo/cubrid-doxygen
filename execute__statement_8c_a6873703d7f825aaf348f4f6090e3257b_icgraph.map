@@ -1,0 +1,6 @@
+<map id="do_create_serial_internal" name="do_create_serial_internal">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#ac78ed602718434e660dfe3f61cf88719" title="do_create_auto_increment\l_serial" alt="" coords="220,23,395,65"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a6d5023a6cc407b5d1d0222db0157e162" title="do_create_serial" alt="" coords="249,89,366,116"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#ac8eacd48feb9548404602a075d45b0a2" title="do_add_attribute" alt="" coords="479,5,597,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a4b5c1edbe844b65f680fa8eceaa5683e" title="do_change_att_schema_only" alt="" coords="443,56,633,83"/>
+</map>

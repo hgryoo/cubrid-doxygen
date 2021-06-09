@@ -1,0 +1,15 @@
+<map id="classobj_decompose_property_oid" name="classobj_decompose_property_oid">
+<area shape="rect" id="node2" href="$class__object_8h.html#a6e05bf37b8959eed17b3c8bff654b756" title="classobj_btid_from\l_property_value" alt="" coords="223,129,354,171"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#ad7caf861302e1ceb2634622dbd8ba53a" title="classobj_drop_foreign\l_key_ref" alt="" coords="215,195,363,236"/>
+<area shape="rect" id="node9" href="$class__object_8h.html#ae4ab58d868c35b41950eb2344530bd45" title="classobj_oid_from_property\l_value" alt="" coords="198,64,379,105"/>
+<area shape="rect" id="node10" href="$schema__manager_8h.html#aafbbf994fe81ea00cc1441a2f1b7c4ee" title="classobj_put_foreign\l_key_ref" alt="" coords="218,260,359,301"/>
+<area shape="rect" id="node11" href="$object__representation__sr_8c.html#a3f934b90780f720cd40b1233372fb111" title="or_install_btids_constraint" alt="" coords="652,414,825,441"/>
+<area shape="rect" id="node12" href="$object__representation__sr_8c.html#a925710e8afa7d1578f6f974582b92d78" title="or_install_btids_foreign_key" alt="" coords="197,326,380,353"/>
+<area shape="rect" id="node14" href="$object__representation__sr_8c.html#a722d072c7585272b245ce5e030dbba20" title="or_install_btids_foreign\l_key_ref" alt="" coords="211,377,366,419"/>
+<area shape="rect" id="node3" href="$class__object_8c.html#adb57c23db2e1e7d236e78e6e1086cebc" title="classobj_cache_constraint\l_entry" alt="" coords="428,239,604,280"/>
+<area shape="rect" id="node4" href="$class__object_8c.html#a89048143fe0278cdb56d05843086a99f" title="classobj_make_foreign\l_key_info" alt="" coords="439,71,593,112"/>
+<area shape="rect" id="node5" href="$class__object_8h.html#adcdeb22925cf5227b08160c4791627cd" title="classobj_make_class\l_constraints" alt="" coords="665,121,812,163"/>
+<area shape="rect" id="node6" href="$schema__manager_8c.html#a6e76a4904bcf8892701103fa8cf2188c" title="flatten_properties" alt="" coords="873,158,996,185"/>
+<area shape="rect" id="node7" href="$class__object_8c.html#a29a1c3352bf17abbf07f92a8a2756dea" title="classobj_make_foreign\l_key_ref" alt="" coords="439,5,593,47"/>
+<area shape="rect" id="node13" href="$object__representation__sr_8c.html#afad6b4f1759d49944e668fff6e609e3c" title="or_install_btids_class" alt="" coords="443,385,589,411"/>
+</map>

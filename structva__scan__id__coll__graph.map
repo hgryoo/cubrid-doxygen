@@ -1,0 +1,7 @@
+<map id="va_scan_id" name="va_scan_id">
+<area shape="rect" id="node2" href="$structmethod__scan__buffer.html" title="{method_scan_buffer\n|+ s\l+ oid_cols\l+ val_cnt\l|}" alt="" coords="198,593,338,700"/>
+<area shape="rect" id="node3" href="$structmethod__info.html" title="{method_info\n||}" alt="" coords="5,299,99,377"/>
+<area shape="rect" id="node4" href="$structcursor__id.html" title="{cursor_id\n|+ query_id\l+ oid_ent_count\l+ position\l+ on_overflow\l+ tuple_no\l+ buffer\l+ buffer_area\l+ buffer_filled_size\l+ buffer_tuple_count\l+ current_tuple_no\l+ current_tuple_offset\l+ current_tuple_p\l+ oid_col_no\l+ current_tuple_length\l+ oid_col_no_cnt\l+ prefetch_lock_mode\l+ current_tuple_value\l_index\l+ current_tuple_value_p\l+ is_updatable\l+ is_oid_included\l+ is_copy_tuple_value\l|}" alt="" coords="123,145,285,531"/>
+<area shape="rect" id="node5" href="$structqproc__db__value__list.html" title="{qproc_db_value_list\n||+ qproc_db_value_list()\l}" alt="" coords="409,299,567,377"/>
+<area shape="rect" id="node6" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="334,5,431,83"/>
+</map>

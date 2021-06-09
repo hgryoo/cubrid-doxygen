@@ -1,0 +1,11 @@
+<map id="clientids::reset" name="clientids::reset">
+<area shape="rect" id="node2" href="$classcubload_1_1load__task.html#aa4e8a989957626a602b12db671672fdb" title="cubload::load_task\l::execute" alt="" coords="168,34,299,75"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#ade7e8a4bfcf4f0c9ad892da1c7f5fe7d" title="logtb_release_tran\l_index" alt="" coords="169,99,297,141"/>
+<area shape="rect" id="node8" href="$structclientids.html#abf1b563dd6ff47a8860c43b081a9202b" title="clientids::set_system\l_internal" alt="" coords="160,209,307,250"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="365,5,531,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="589,31,740,57"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="377,107,519,133"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#ab5d8cbe4258cd66e61a0da4e4a87614f" title="xboot_unregister_client" alt="" coords="370,157,526,184"/>
+<area shape="rect" id="node9" href="$structclientids.html#a424fed0a11c491cfaa320d54a8eaed53" title="clientids::set_system\l_internal_with_user" alt="" coords="375,209,521,250"/>
+<area shape="rect" id="node10" href="$log__tran__table_8c.html#a9bce4472330e5cbb58805dfa37cf239a" title="logtb_initialize_system_tdes" alt="" coords="355,275,541,301"/>
+</map>

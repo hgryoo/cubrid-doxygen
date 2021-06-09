@@ -1,0 +1,8 @@
+<map id="or_get_varchar_length" name="or_get_varchar_length">
+<area shape="rect" id="node2" href="$object__representation_8c.html#a9f902c14322621a3a63ea15d79b56e8a" title="or_put_varchar_internal" alt="" coords="204,56,361,83"/>
+<area shape="rect" id="node5" href="$object__representation_8c.html#a09a0ede083db22528b74e4af14a8de09" title="or_skip_varchar" alt="" coords="225,107,340,133"/>
+<area shape="rect" id="node3" href="$object__representation_8c.html#a9a80c17d55264d996865114b7fb45f6e" title="or_put_varchar" alt="" coords="443,5,551,32"/>
+<area shape="rect" id="node4" href="$object__representation_8c.html#a7fc49a51a9b84b91ec8a0428eab440d1" title="or_packed_put_varchar" alt="" coords="418,56,575,83"/>
+<area shape="rect" id="node6" href="$object__primitive_8c.html#ab81c027bac4ad10017ef767bad76d0d3" title="mr_readval_string_internal" alt="" coords="409,107,584,133"/>
+<area shape="rect" id="node7" href="$object__primitive_8c.html#aebd1249992eb262898adc4ecc3e780e4" title="mr_readval_varnchar\l_internal" alt="" coords="425,158,568,199"/>
+</map>

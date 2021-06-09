@@ -1,0 +1,14 @@
+<map id="db_open_local" name="db_open_local">
+<area shape="rect" id="node2" href="$db__vdb_8c.html#a3d8a4a20a1fb5d489d59db372173227e" title="db_make_session_for\l_one_statement_execution" alt="" coords="159,61,337,102"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#ad41d3c20a89cd65ce10a69b4f0c235f5" title="db_open_buffer_local" alt="" coords="175,217,321,244"/>
+<area shape="rect" id="node12" href="$dbi__compat_8h.html#a0dde38a3f09c515f4157621f550db504" title="db_open_file" alt="" coords="201,268,295,295"/>
+<area shape="rect" id="node13" href="$dbi__compat_8h.html#a4b89bf0d66fbf01d5edd43dec9df6b48" title="db_open_file_name" alt="" coords="181,319,315,345"/>
+<area shape="rect" id="node3" href="$load__db_8c.html#a5671984042276ef3b0d96e39f9f1f02b" title="ldr_exec_query_from_file" alt="" coords="394,5,561,32"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a1d3ecb39d3f27d5c44fb24082ea38423" title="au_delete_auth_of_dropping\l_table" alt="" coords="385,57,569,98"/>
+<area shape="rect" id="node6" href="$db__vdb_8c.html#a82d44fbed523274c7df330ae8bd5d4c6" title="db_check_limit_need\l_recompile" alt="" coords="405,122,549,163"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#a8bc7eb6413c3ff1ae63e9c1b3bfccafe" title="db_open_buffer" alt="" coords="422,188,533,215"/>
+<area shape="rect" id="node9" href="$db__vdb_8c.html#a2f479c7755c512521e37e7bf27b78436" title="db_open_buffer_and\l_compile_first_statement" alt="" coords="393,239,561,281"/>
+<area shape="rect" id="node10" href="$db__vdb_8c.html#ac69f13e43ae60dcbdb63c3e77ba2c017" title="do_process_prepare\l_statement" alt="" coords="408,305,547,346"/>
+<area shape="rect" id="node11" href="$db__vdb_8c.html#aa67900db91e4c062a739ff4d40d69a3c" title="do_recompile_and_execute\l_prepared_statement" alt="" coords="387,370,567,411"/>
+<area shape="rect" id="node8" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="617,312,788,339"/>
+</map>

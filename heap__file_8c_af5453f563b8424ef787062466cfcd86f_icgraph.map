@@ -1,0 +1,6 @@
+<map id="heap_stats_put_second_best" name="heap_stats_put_second_best">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a558d054d900877ca3d0722fa5898eb0e" title="heap_stats_update_internal" alt="" coords="245,5,427,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a24b8c714d34488d9989103a9235c4b9f" title="heap_vpid_alloc" alt="" coords="279,56,393,83"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a2b0c3f9af6d7acec2a7c754c14acbdf4" title="xheap_reclaim_addresses" alt="" coords="249,107,423,133"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a38649266971c61b3ea363c237acbe54c" title="heap_stats_update" alt="" coords="475,5,607,32"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="free_node_in_tree_post" name="free_node_in_tree_post">
+<area shape="rect" id="node2" href="$parser_8h.html#a387f7dcc261807587971686631c277d8" title="parser_free_subtrees" alt="" coords="211,64,355,91"/>
+<area shape="rect" id="node5" href="$parser_8h.html#a74cd2b96f0820528bae2069bf682e81d" title="parser_free_tree" alt="" coords="225,441,341,468"/>
+<area shape="rect" id="node3" href="$parser_8h.html#a4dce0304e3d8f941661cc7bfebc66037" title="parser_clear_node" alt="" coords="441,5,569,32"/>
+<area shape="rect" id="node4" href="$semantic__check_8h.html#a9707fb60111e3e2076af068d8572bef8" title="pt_check_union_type\l_compatibility_of_values_query" alt="" coords="403,57,607,98"/>
+<area shape="rect" id="node6" href="$db__vdb_8c.html#aa8b1ba225fb2b9530e3e1b7a07530c39" title="db_parse_one_statement" alt="" coords="421,441,589,468"/>
+<area shape="rect" id="node7" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="429,122,581,163"/>
+<area shape="rect" id="node8" href="$db__vdb_8c.html#a884a12ed3b75319fe569e73870bc485c" title="db_execute_statement\l_local" alt="" coords="655,151,809,193"/>
+<area shape="rect" id="node9" href="$dbi__compat_8h.html#ada42ab8471b3d708e5e6a65b2b8d2f72" title="db_drop_statement" alt="" coords="438,593,571,620"/>
+<area shape="rect" id="node10" href="$db__vdb_8c.html#a9b6843daf0e042e6eadf4a0bbbd0c587" title="db_drop_all_statements" alt="" coords="425,644,585,671"/>
+<area shape="rect" id="node11" href="$db__vdb_8c.html#ad05b347d3121390b98751cf79b621b74" title="db_close_session_local" alt="" coords="425,695,585,721"/>
+<area shape="rect" id="node12" href="$trigger__manager_8c.html#a56259b5d595ce5cea99d5733f13bff7c" title="free_activity" alt="" coords="458,745,551,772"/>
+<area shape="rect" id="node13" href="$trigger__manager_8c.html#a9d69250286fbd63ff09dd500a6dc427d" title="compile_trigger_activity" alt="" coords="425,796,584,823"/>
+<area shape="rect" id="node14" href="$plan__generation_8c.html#a7834906f04d93f652492df042ff0d3f7" title="make_fetch_proc" alt="" coords="443,847,566,873"/>
+<area shape="rect" id="node15" href="$plan__generation_8c.html#a9ff7f1b8c43b85ac9cbf2d5e1ce18926" title="make_mergelist_proc" alt="" coords="659,543,805,569"/>
+<area shape="rect" id="node16" href="$plan__generation_8c.html#a40b649cb3a469f3fee93fc944c7f29e9" title="init_class_scan_proc" alt="" coords="660,315,804,341"/>
+<area shape="rect" id="node17" href="$plan__generation_8c.html#aca1dd0abed7e71ece2102e9c1adf785c" title="init_list_scan_proc" alt="" coords="667,429,797,456"/>
+<area shape="rect" id="node18" href="$plan__generation_8c.html#a3f7ce6079bfb600096c9388347892847" title="add_access_spec" alt="" coords="441,340,568,367"/>
+<area shape="rect" id="node19" href="$plan__generation_8c.html#a80e9ab9723c99cd2566f21f22c4a24ec" title="add_sort_spec" alt="" coords="451,391,558,417"/>
+<area shape="rect" id="node20" href="$plan__generation_8c.html#a9b4b13ee15f4d8076c59d8fec88a6919" title="make_pred_from_bitset" alt="" coords="425,492,584,519"/>
+</map>

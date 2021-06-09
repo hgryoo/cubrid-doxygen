@@ -1,0 +1,13 @@
+<map id="db_subtract_int_from_datetime" name="db_subtract_int_from_datetime">
+<area shape="rect" id="node2" href="$db__date_8h.html#a014027d4bd6aadc437da15484137db92" title="db_add_int_to_datetime" alt="" coords="200,194,360,221"/>
+<area shape="rect" id="node3" href="$string__opfunc_8h.html#a2c5a8c35f7bf8110f34ecd2a423da8a2" title="db_timestamp" alt="" coords="448,26,552,53"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="637,26,817,53"/>
+<area shape="rect" id="node12" href="$query__opfunc_8c.html#adf161dc0917f6c3415fb0b238fd335b3" title="qdata_subtract_datetime\l_to_int" alt="" coords="197,359,363,400"/>
+<area shape="rect" id="node5" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="668,161,787,188"/>
+<area shape="rect" id="node6" href="$query__opfunc_8c.html#a4e4ea6412223fad33cde955da9d6fbfc" title="qdata_add_bigint_to\l_datetime" alt="" coords="431,296,569,338"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#ad7d1ad46f858cbe26c6318313fc72922" title="qdata_add_int_to_datetime" alt="" coords="411,362,589,389"/>
+<area shape="rect" id="node8" href="$query__opfunc_8c.html#ac9f0e60e0cdae93ac8e2e5453f667251" title="qdata_add_short_to\l_datetime" alt="" coords="432,128,568,170"/>
+<area shape="rect" id="node9" href="$tz__support_8c.html#a43858412ed696c90ec902fba8d60fe29" title="tz_datetime_utc_conv" alt="" coords="425,194,575,221"/>
+<area shape="rect" id="node10" href="$tz__support_8h.html#a89c11792c895b1eacc04b8cf58fccf5f" title="tz_utc_datetimetz_to\l_local" alt="" coords="428,414,572,455"/>
+<area shape="rect" id="node11" href="$query__opfunc_8c.html#a4c17a2c3f31ebac7601b54124ec4a97e" title="qdata_subtract_datetime\l_to_dbval" alt="" coords="645,443,810,484"/>
+</map>

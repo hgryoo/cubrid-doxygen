@@ -1,0 +1,11 @@
+<map id="css_get_max_socket_fds" name="css_get_max_socket_fds">
+<area shape="rect" id="node2" href="$server_8c.html#a1d3be917070231cc4d235df7e7859cb2" title="crash_handler" alt="" coords="237,13,340,39"/>
+<area shape="rect" id="node4" href="$master_8c.html#a90f641372b54805b00a8895974359cc6" title="css_daemon_start" alt="" coords="224,71,353,98"/>
+<area shape="rect" id="node6" href="$system__parameter_8h.html#af9b44c01696a47f1389b95b7ce8e57b1" title="sysprm_final" alt="" coords="241,173,337,199"/>
+<area shape="rect" id="node3" href="$server_8c.html#a651eca42b5d5c3db9a96f2690171e655" title="register_fatal_signal\l_handler" alt="" coords="411,5,550,47"/>
+<area shape="rect" id="node5" href="$master_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="455,71,506,98"/>
+<area shape="rect" id="node7" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="404,173,557,199"/>
+<area shape="rect" id="node8" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="608,147,747,174"/>
+<area shape="rect" id="node9" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="613,210,742,237"/>
+<area shape="rect" id="node10" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="401,274,560,301"/>
+</map>

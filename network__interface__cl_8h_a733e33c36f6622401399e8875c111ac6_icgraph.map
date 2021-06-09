@@ -1,0 +1,8 @@
+<map id="btree_load_index" name="btree_load_index">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#a763686da25436ca147ff96459ba0cc67" title="allocate_index" alt="" coords="196,81,301,108"/>
+<area shape="rect" id="node7" href="$schema__manager_8c.html#a2eda9e9e6f346127d8dcd216cf22a18b" title="sm_load_online_index" alt="" coords="173,132,324,159"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#ac53a3d8a0b509303408b2fb742e1cf4b" title="allocate_unique_constraint" alt="" coords="372,5,548,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#ae4753271b1ad5f658307b6269fefd248" title="allocate_disk_structures\l_index" alt="" coords="596,49,759,90"/>
+<area shape="rect" id="node5" href="$schema__manager_8c.html#a3ff533d629bcff4db58f79f702510735" title="allocate_foreign_key" alt="" coords="389,107,531,133"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="403,181,517,208"/>
+</map>

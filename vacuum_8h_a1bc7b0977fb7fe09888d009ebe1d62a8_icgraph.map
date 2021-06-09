@@ -1,0 +1,21 @@
+<map id="vacuum_is_mvccid_vacuumed" name="vacuum_is_mvccid_vacuumed">
+<area shape="rect" id="node2" href="$btree_8h.html#afeb6cb0b40f35da32590f5894091ef31" title="btree_prepare_bts" alt="" coords="278,246,405,273"/>
+<area shape="rect" id="node12" href="$heap__file_8c.html#a26e9828b54802abae96de89dce5c4ec1" title="heap_page_update_chain\l_after_mvcc_op" alt="" coords="257,535,426,576"/>
+<area shape="rect" id="node17" href="$mvcc_8h.html#a75a61606ac9145df5674dafdc96ccbf3" title="mvcc_satisfies_delete" alt="" coords="265,483,417,510"/>
+<area shape="rect" id="node18" href="$mvcc_8h.html#a41606efb96695c5f204685ef09b254b7" title="mvcc_satisfies_dirty" alt="" coords="270,429,413,455"/>
+<area shape="rect" id="node19" href="$mvcc_8h.html#a98f9c14c0ead8dd5bbad440f8bc61de7" title="mvcc_satisfies_snapshot" alt="" coords="256,601,427,627"/>
+<area shape="rect" id="node20" href="$heap__file_8h.html#a2b0c3f9af6d7acec2a7c754c14acbdf4" title="xheap_reclaim_addresses" alt="" coords="255,651,428,678"/>
+<area shape="rect" id="node3" href="$scan__manager_8c.html#a0ff097aa22a9d302102a1c2b551a85bc" title="scan_get_index_oidset" alt="" coords="481,275,635,302"/>
+<area shape="rect" id="node4" href="$btree_8h.html#a7f5a06b1c4b807e7f69bbc8a9effa63b" title="btree_find_foreign_key" alt="" coords="481,326,635,353"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#a3ec8ca9e5364109919ee52c486add7ec" title="locator_check_primary\l_key_delete" alt="" coords="688,344,841,385"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#a65b9f6b49b3eaa536a20c55db7f99b3f" title="locator_check_primary\l_key_update" alt="" coords="688,132,841,173"/>
+<area shape="rect" id="node7" href="$btree_8h.html#afd9f7a8b42c220373425d45521f07af9" title="btree_keyval_search" alt="" coords="487,42,629,69"/>
+<area shape="rect" id="node8" href="$btree_8h.html#a1be6e0cc0c79543691b106f6a93962bd" title="btree_get_next_key_info" alt="" coords="476,93,640,119"/>
+<area shape="rect" id="node9" href="$btree__load_8c.html#a3a58f0efdf76a4d2a1e8bc8b915ed0b1" title="btree_load_check_fk" alt="" coords="487,427,629,454"/>
+<area shape="rect" id="node10" href="$locator__sr_8h.html#a95c3de45a3d96181fad4bf2f3090d752" title="locator_check_btree\l_entries" alt="" coords="489,144,627,185"/>
+<area shape="rect" id="node11" href="$locator__sr_8c.html#a4099da553de5a10d74a97582bea47368" title="locator_check_unique\l_btree_entries" alt="" coords="484,209,632,251"/>
+<area shape="rect" id="node13" href="$heap__file_8c.html#a1c8ac655e0ef2b622fa7d90219a3af33" title="heap_mvcc_log_insert" alt="" coords="482,545,634,571"/>
+<area shape="rect" id="node14" href="$heap__file_8c.html#a966fab9a360a33f8c5d043332dc672e4" title="heap_mvcc_log_delete" alt="" coords="481,595,635,622"/>
+<area shape="rect" id="node15" href="$heap__file_8c.html#a3ea8fdc86c612ecaf022e9adc91fec32" title="heap_mvcc_log_home\l_change_on_delete" alt="" coords="482,647,634,688"/>
+<area shape="rect" id="node16" href="$heap__file_8c.html#a171d289a2c5029d01e0f38924208806e" title="heap_mvcc_log_home\l_no_change" alt="" coords="482,479,634,520"/>
+</map>

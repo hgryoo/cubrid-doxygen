@@ -1,0 +1,12 @@
+<map id="pt_are_equivalent_types" name="pt_are_equivalent_types">
+<area shape="rect" id="node2" href="$namespacefunc__type.html#ac801c412975f354ce2ed3abd599ee9b0" title="func_type::cmp_types\l_equivalent" alt="" coords="222,39,373,80"/>
+<area shape="rect" id="node4" href="$classfunc__type_1_1Node.html#a6812fb065c5d175284314e36c066ed03" title="func_type::Node::Node" alt="" coords="451,254,608,281"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#ad865d0cf36001c27c0dc1df5cca6304f" title="pt_apply_expressions\l_definition" alt="" coords="680,297,828,339"/>
+<area shape="rect" id="node7" href="$type__checking_8c.html#adc609d68f00cc76239407cb764291f2b" title="pt_expr_get_return_type" alt="" coords="216,355,379,382"/>
+<area shape="rect" id="node8" href="$func__type_8hpp.html#a42f8ec9130d5624807701543525ea1a1" title="pt_get_equivalent_type" alt="" coords="219,166,375,193"/>
+<area shape="rect" id="node3" href="$classfunc__type_1_1Node.html#aee04c2de1c380cbcf1ed55e684fe75af" title="func_type::Node::check\l_arg_compat" alt="" coords="449,5,610,47"/>
+<area shape="rect" id="node6" href="$type__checking_8c.html#a9e8ecf7badfa6534b66e5521881e1cc6" title="pt_eval_expr_type" alt="" coords="876,305,1004,331"/>
+<area shape="rect" id="node9" href="$type__checking_8c.html#ab884820cff2ec0f4c1ef6714f52552da" title="pt_coerce_range_expr\l_arguments" alt="" coords="454,71,605,112"/>
+<area shape="rect" id="node10" href="$type__checking_8c.html#af3535d625dda677a01849f2068686b7f" title="pt_get_equivalent_type\l_with_op" alt="" coords="451,188,607,229"/>
+<area shape="rect" id="node11" href="$type__checking_8c.html#ae76bea7dda5843876a3fa90108706b9e" title="pt_fix_arguments_collation_flag" alt="" coords="427,137,632,163"/>
+</map>

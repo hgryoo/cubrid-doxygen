@@ -1,0 +1,21 @@
+<map id="sm_get_descriptor_component" name="sm_get_descriptor_component">
+<area shape="rect" id="node2" href="$load__sa__loader_8cpp.html#a7df88243620fab77ff6ba4f2134cb554" title="construct_instance" alt="" coords="261,60,393,87"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#af3144eb2dc546ac311d12e80c693b3e8" title="ldr_act_add_attr" alt="" coords="269,136,384,163"/>
+<area shape="rect" id="node8" href="$load__sa__loader_8cpp.html#a6f2575a9565edd8800eec6129d0e1db8" title="ldr_refresh_attrs" alt="" coords="269,224,385,251"/>
+<area shape="rect" id="node10" href="$object__accessor_8h.html#ab156c725f5f4a41ffac3798e838cad51" title="obj_desc_find_unique" alt="" coords="253,275,400,301"/>
+<area shape="rect" id="node12" href="$object__accessor_8h.html#aa5f703ba8f5bb849f3265abb41eadd0a" title="obj_desc_get" alt="" coords="277,325,376,352"/>
+<area shape="rect" id="node14" href="$object__accessor_8h.html#a20b88a427e12b140b1293132278068b6" title="obj_desc_send_array" alt="" coords="254,376,399,403"/>
+<area shape="rect" id="node15" href="$object__accessor_8h.html#a303a5eaddc223b591ce6feed27fdad8c" title="obj_desc_send_array\l_quick" alt="" coords="254,427,399,469"/>
+<area shape="rect" id="node16" href="$object__accessor_8h.html#af1b0f3c8e0c66fad50f75d7669ee36cc" title="obj_desc_send_list" alt="" coords="260,493,393,520"/>
+<area shape="rect" id="node17" href="$object__accessor_8h.html#ae9a5bd5848ffa24d6f3ee74e29b0288e" title="obj_desc_send_va" alt="" coords="261,568,392,595"/>
+<area shape="rect" id="node18" href="$object__accessor_8h.html#a1fc61e2723039d461cabb226b3d30f8b" title="obj_desc_set" alt="" coords="277,619,376,645"/>
+<area shape="rect" id="node19" href="$object__accessor_8h.html#a4475c405e7336211aae979913eb1cae7" title="obj_find_multi_desc" alt="" coords="258,669,395,696"/>
+<area shape="rect" id="node20" href="$object__template_8h.html#a5394f1475d86e60678dbd085de589b9d" title="obt_desc_set" alt="" coords="277,720,377,747"/>
+<area shape="rect" id="node3" href="$load__sa__loader_8cpp.html#accbff6cc88ae442d6a41d63c68f07792" title="insert_meth_instance" alt="" coords="450,5,597,32"/>
+<area shape="rect" id="node5" href="$classcubload_1_1sa__class__installer.html#af5f07aa77b5d16797563d946597178d7" title="cubload::sa_class_installer\l::install_class" alt="" coords="647,74,825,115"/>
+<area shape="rect" id="node6" href="$load__sa__loader_8cpp.html#a59eb33718a871f6cf929118d2b2e75a5" title="ldr_act_add_argument" alt="" coords="448,107,599,133"/>
+<area shape="rect" id="node7" href="$load__sa__loader_8cpp.html#a3e1fcb98678dd52c064110a6da40fbec" title="ldr_act_add_class_all\l_attrs" alt="" coords="450,158,597,199"/>
+<area shape="rect" id="node9" href="$load__sa__loader_8cpp.html#a0726e05a448539f3433a6387bdac7e6f" title="check_commit" alt="" coords="470,224,577,251"/>
+<area shape="rect" id="node11" href="$db__obj_8c.html#a14f14621f859969c9ee0bcbcf5b86144" title="db_dfind_unique" alt="" coords="465,275,581,301"/>
+<area shape="rect" id="node13" href="$dbi__compat_8h.html#a55d545824da14b94d107296937743f14" title="db_dget" alt="" coords="489,325,557,352"/>
+</map>

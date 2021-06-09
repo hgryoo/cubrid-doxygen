@@ -1,0 +1,10 @@
+<map id="src/transaction/log_compress.c" name="src/transaction/log_compress.c">
+<area shape="rect" id="node4" href="$log__compress_8h.html" title="log_compress.h" alt="" coords="1030,95,1145,121"/>
+<area shape="rect" id="node6" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="856,95,972,121"/>
+<area shape="rect" id="node10" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="421,169,535,196"/>
+<area shape="rect" id="node19" href="$perf__monitor_8h.html" title="perf_monitor.h" alt="" coords="671,95,776,121"/>
+<area shape="rect" id="node9" href="$error__code_8h.html" title="error_code.h" alt="" coords="677,319,772,345"/>
+<area shape="rect" id="node11" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="240,244,337,271"/>
+<area shape="rect" id="node13" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="653,244,786,271"/>
+<area shape="rect" id="node20" href="$porting__inline_8hpp.html" title="porting_inline.hpp" alt="" coords="559,169,682,196"/>
+</map>

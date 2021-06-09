@@ -1,0 +1,21 @@
+<map id="tz_get_client_tz_region_session" name="tz_get_client_tz_region_session">
+<area shape="rect" id="node2" href="$system__parameter_8c.html#aeb766c3f75b6f9f14c54acc8fa40bab3" title="prm_load_by_section" alt="" coords="687,13,832,39"/>
+<area shape="rect" id="node4" href="$system__parameter_8c.html#ab48c1182bb4c9d3cf9b308648452949a" title="sysprm_set_value" alt="" coords="231,97,359,123"/>
+<area shape="rect" id="node8" href="$tz__support_8h.html#af5a333900b0654c1a2d7f011d4bc395a" title="tz_get_session_tz_region" alt="" coords="209,533,380,559"/>
+<area shape="rect" id="node3" href="$system__parameter_8c.html#aef60e7f0f0cc8041a2886d5d164b3052" title="prm_read_and_parse\l_ini_file" alt="" coords="897,5,1040,47"/>
+<area shape="rect" id="node5" href="$system__parameter_8c.html#ad22fdde48ffe1d6d1d9a2630702d8acc" title="prm_set" alt="" coords="490,38,559,65"/>
+<area shape="rect" id="node6" href="$system__parameter_8h.html#a76159be55591db8a904b497e3cc3253a" title="sysprm_change_parameter\l_values" alt="" coords="435,89,614,131"/>
+<area shape="rect" id="node7" href="$system__parameter_8c.html#a207a050534ba33f2254972305484011e" title="sysprm_set_sysprm_value\l_from_parameter" alt="" coords="435,155,614,196"/>
+<area shape="rect" id="node9" href="$tz__support_8h.html#a355bc2e5c1cde2e2e6eac0db46058b2f" title="tz_create_session_tzid\l_for_datetime" alt="" coords="447,220,603,261"/>
+<area shape="rect" id="node10" href="$tz__support_8h.html#a78f5630f2ffb6352788675868972153a" title="tz_create_datetimetz\l_from_ses" alt="" coords="453,285,597,327"/>
+<area shape="rect" id="node11" href="$tz__support_8h.html#a317863dd3ddb4190d769773234bbabf2" title="tz_check_session_has\l_geographic_tz" alt="" coords="447,351,602,392"/>
+<area shape="rect" id="node12" href="$tz__support_8h.html#a653c31fe422685d6c9b24fc913536f83" title="tz_create_datetimetz\l_from_parts" alt="" coords="453,416,597,457"/>
+<area shape="rect" id="node13" href="$cas__execute_8c.html#a235ed61a310d3fc128b8c64464ce6c47" title="netval_to_dbval" alt="" coords="703,495,816,522"/>
+<area shape="rect" id="node14" href="$db__date_8h.html#add9cafa119125d6b648982295791edf5" title="db_timestamp_encode_ses" alt="" coords="434,533,615,559"/>
+<area shape="rect" id="node15" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="669,571,849,598"/>
+<area shape="rect" id="node16" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="700,622,819,649"/>
+<area shape="rect" id="node17" href="$db__date_8h.html#ad562d9be3aa52e4bc487b3ae14aafbda" title="db_timestamp_decode_ses" alt="" coords="434,685,615,711"/>
+<area shape="rect" id="node18" href="$db__date_8h.html#a8aa66290d9f840ab888affbb86f2c9a5" title="db_string_to_timestamptz_ex" alt="" coords="428,735,621,762"/>
+<area shape="rect" id="node19" href="$db__date_8h.html#a1da845352827440e4f958a4ae7f9b76f" title="db_string_to_datetimetz_ex" alt="" coords="433,786,616,813"/>
+<area shape="rect" id="node20" href="$execute__statement_8h.html#a808d1caf2a1fe3f468169c9e18fdafcd" title="do_evaluate_default_expr" alt="" coords="439,837,610,863"/>
+</map>

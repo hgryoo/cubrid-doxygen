@@ -1,0 +1,15 @@
+<map id="setobj_size" name="setobj_size">
+<area shape="rect" id="node2" href="$object__template_8c.html#abc5170d741f334b44491f85f208354a2" title="obt_convert_set_templates" alt="" coords="308,5,487,32"/>
+<area shape="rect" id="node4" href="$object__template_8c.html#a7232ef0f432a2dcdfc7d3477a5811226" title="obt_final_check_set" alt="" coords="328,56,467,83"/>
+<area shape="rect" id="node5" href="$object__template_8c.html#ae5117c624dc3ea7fcf19ca9a9f1f127f" title="obt_free_assignment" alt="" coords="326,107,469,133"/>
+<area shape="rect" id="node6" href="$object__representation_8c.html#ae09461d626c0a06cce912342c05c5279" title="or_packed_set_length" alt="" coords="323,157,472,184"/>
+<area shape="rect" id="node7" href="$object__representation_8c.html#a84d1b3d5fff1943ae082a70644eed24b" title="or_put_set" alt="" coords="356,208,439,235"/>
+<area shape="rect" id="node8" href="$type__checking_8c.html#a30d8dc5e4502a39fb1256fad39feb723" title="pt_coerce_node_collation" alt="" coords="313,259,482,285"/>
+<area shape="rect" id="node9" href="$set__object_8h.html#a866cbeb86ad9f26766a877eb85dbd5ea" title="set_iterator_next" alt="" coords="141,360,260,387"/>
+<area shape="rect" id="node12" href="$set__object_8h.html#a74f40d1cf602fe36d06ddad56ca86886" title="set_size" alt="" coords="165,157,236,184"/>
+<area shape="rect" id="node13" href="$set__object_8h.html#a1f2e8825a16546e53aa77f43e2a128ea" title="setobj_isempty" alt="" coords="145,411,256,437"/>
+<area shape="rect" id="node3" href="$object__template_8c.html#ab22d1bdb8aec34adb13532d8a8f437b4" title="obt_apply_assignment" alt="" coords="535,5,687,32"/>
+<area shape="rect" id="node10" href="$compactdb_8c.html#a29c507f8efe83033a9a5fea24bf04a2c" title="process_set" alt="" coords="351,360,444,387"/>
+<area shape="rect" id="node11" href="$parse__dbi_8c.html#aa07c45abab5389ff3727ff6f46d54697" title="pt_bind_set_type" alt="" coords="337,309,458,336"/>
+<area shape="rect" id="node14" href="$set__object_8h.html#af6be14ebc0481269d1fb54e1dcc017b2" title="set_isempty" alt="" coords="351,411,444,437"/>
+</map>

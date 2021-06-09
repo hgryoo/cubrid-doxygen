@@ -1,0 +1,6 @@
+<map id="heap_free_func_pred_unpack_info" name="heap_free_func_pred_unpack_info">
+<area shape="rect" id="node2" href="$heap__file_8h.html#ab8fae5d7eacb4d85d1a8a9e1a025f011" title="heap_init_func_pred\l_unpack_info" alt="" coords="203,90,341,132"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="396,32,545,59"/>
+<area shape="rect" id="node5" href="$partition__sr_8h.html#af9a2feea32c0c4aa004f290e6bec8429" title="partition_clear_pruning\l_context" alt="" coords="196,25,348,66"/>
+<area shape="rect" id="node4" href="$locator__sr_8h.html#abb01ca2615f5d48cdac970eeb0af1b6a" title="locator_get_partition\l_scancache" alt="" coords="401,90,540,132"/>
+</map>

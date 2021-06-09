@@ -1,0 +1,4 @@
+<map id="qexec_reset_pred_expr" name="qexec_reset_pred_expr">
+<area shape="rect" id="node2" href="$query__executor_8c.html#aabe6a73176c447365adf5a71e0db3d0a" title="qexec_init_next_partition" alt="" coords="211,5,377,32"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a6069afab32f23903fd3a8d1105a3d19e" title="qexec_next_scan_block" alt="" coords="425,5,588,32"/>
+</map>

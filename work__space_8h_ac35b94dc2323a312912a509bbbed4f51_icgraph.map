@@ -1,0 +1,7 @@
+<map id="ws_clear_all_hints" name="ws_clear_all_hints">
+<area shape="rect" id="node2" href="$transaction__cl_8h.html#a7bfba1482cf01aa4a926674145c7e29e" title="tran_2pc_prepare" alt="" coords="217,8,340,35"/>
+<area shape="rect" id="node4" href="$transaction__cl_8h.html#a351fb6b676910a2ef50a2bf03980e724" title="tran_2pc_prepare_global_tran" alt="" coords="183,60,375,87"/>
+<area shape="rect" id="node6" href="$transaction__cl_8h.html#a901b4a89a27aa3bc5c8ffdcc1f9e3150" title="tran_commit" alt="" coords="231,111,326,137"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ab871643946eb265abdaf1b1996c3f0a6" title="db_2pc_prepare_transaction" alt="" coords="423,5,608,32"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a3cca7bdc9fbbc82a6a1f11f3ff071232" title="db_2pc_prepare_to_commit\l_transaction" alt="" coords="424,57,607,98"/>
+</map>

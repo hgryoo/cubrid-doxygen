@@ -1,0 +1,9 @@
+<map id="btree_is_fence_key" name="btree_is_fence_key">
+<area shape="rect" id="node2" href="$btree_8c.html#a5e9581f495b3e6b54be7fe5d3a10dacb" title="btree_find_next_index\l_record_holding_current" alt="" coords="199,5,359,47"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a966c0c32f3135b4aa98458557d0c46d5" title="btree_find_split_point" alt="" coords="206,71,351,98"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a1012b26ece22db26540906ab85b6ef30" title="btree_merge_node" alt="" coords="214,122,343,149"/>
+<area shape="rect" id="node6" href="$btree_8c.html#ace8e9cc58e0182724fe9ab92f273b796" title="btree_node_mergeable" alt="" coords="202,173,355,199"/>
+<area shape="rect" id="node7" href="$btree_8c.html#ab9600abae0b60ebb5bab5983286f79a8" title="btree_range_scan_advance\l_over_filtered_keys" alt="" coords="188,224,369,265"/>
+<area shape="rect" id="node8" href="$btree_8c.html#ad062a0004fdcdd68d6519c00d3619595" title="btree_verify_leaf_node" alt="" coords="202,290,355,317"/>
+<area shape="rect" id="node3" href="$btree_8c.html#acf572b9f860df07709a76ae5b6d338cd" title="btree_find_next_index\l_record" alt="" coords="417,5,567,47"/>
+</map>

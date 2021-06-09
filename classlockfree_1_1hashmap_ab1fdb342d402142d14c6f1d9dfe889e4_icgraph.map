@@ -1,0 +1,4 @@
+<map id="lockfree::hashmap::from_free_node" name="lockfree::hashmap::from_free_node">
+<area shape="rect" id="node2" href="$classlockfree_1_1hashmap.html#a4793f90a8a8afd782b2a12a608da449c" title="lockfree::hashmap::\lclaim_temporary" alt="" coords="191,5,328,47"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1hashmap.html#aa84d2f30a6f3bb4b2f541870bc5c198d" title="lockfree::hashmap::\lfreelist_claim" alt="" coords="191,71,328,112"/>
+</map>

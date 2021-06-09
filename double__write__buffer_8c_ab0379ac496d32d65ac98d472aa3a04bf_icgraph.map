@@ -1,0 +1,6 @@
+<map id="dwb_is_flush_block_daemon_available" name="dwb_is_flush_block_daemon_available">
+<area shape="rect" id="node2" href="$double__write__buffer_8h.html#ab2537553c0bc21020c4a4003916d89a5" title="dwb_add_page" alt="" coords="189,64,299,91"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#a38ef0589ebaadb13a11f9bdf6ec322c7" title="dwb_flush_force" alt="" coords="375,5,493,32"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#a52cc679b3a23afba6d84fedc94a25c8b" title="fileio_write_or_add\l_to_dwb" alt="" coords="369,57,499,98"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a6ebdf1006f6b5bb49a3fc4c4f8f75e31" title="pgbuf_bcb_flush_with_wal" alt="" coords="347,123,521,149"/>
+</map>

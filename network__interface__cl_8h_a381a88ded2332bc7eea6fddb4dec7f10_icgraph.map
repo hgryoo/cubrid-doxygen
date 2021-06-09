@@ -1,0 +1,6 @@
+<map id="log_set_interrupt" name="log_set_interrupt">
+<area shape="rect" id="node2" href="$load__db_8c.html#ae15d8abf5d9246795e882576fd7f9de7" title="ldr_exec_query_interrupt\l_handler" alt="" coords="172,5,336,47"/>
+<area shape="rect" id="node4" href="$locator__cl_8h.html#ada57156b9aae4da404fd42f8232d56eb" title="locator_set_sig_interrupt" alt="" coords="172,71,336,98"/>
+<area shape="rect" id="node3" href="$load__db_8c.html#a5671984042276ef3b0d96e39f9f1f02b" title="ldr_exec_query_from_file" alt="" coords="384,13,551,39"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a29f5d50186b3b05740179956a597efde" title="db_set_interrupt" alt="" coords="410,71,525,98"/>
+</map>

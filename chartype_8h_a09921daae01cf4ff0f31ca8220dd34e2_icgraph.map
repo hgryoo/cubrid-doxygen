@@ -1,0 +1,7 @@
+<map id="char_islower_iso8859" name="char_islower_iso8859">
+<area shape="rect" id="node2" href="$chartype_8h.html#ae56cdd7dd25e92570e8884251e528579" title="char_toupper_iso8859" alt="" coords="200,56,349,83"/>
+<area shape="rect" id="node5" href="$intl__support_8h.html#a39a86fba5ec1afeedf47904549f68fda" title="intl_toupper_iso8859" alt="" coords="204,107,345,133"/>
+<area shape="rect" id="node3" href="$intl__support_8h.html#a03b1496bf96630e09df19d6ff93eaac8" title="intl_upper_string" alt="" coords="409,5,526,32"/>
+<area shape="rect" id="node4" href="$intl__support_8h.html#aa0bd3b8c537da5a8c0ff834328286c0a" title="intl_identifier_upper" alt="" coords="400,56,535,83"/>
+<area shape="rect" id="node6" href="$language__support_8c.html#a2d61cbd6b27050a2e3e96320ecd8dd41" title="check_env_lang_val" alt="" coords="397,107,537,133"/>
+</map>

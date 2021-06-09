@@ -1,0 +1,8 @@
+<map id="spage_check_space" name="spage_check_space">
+<area shape="rect" id="node2" href="$slotted__page_8c.html#ac33b090f83b5b1e95199906eb3cbe369" title="spage_add_new_slot" alt="" coords="204,5,348,32"/>
+<area shape="rect" id="node4" href="$slotted__page_8c.html#abbb2d30b5a8ab594f64f968c25fc5b60" title="spage_find_empty_slot" alt="" coords="198,107,354,133"/>
+<area shape="rect" id="node7" href="$slotted__page_8c.html#a20bfc1211d4d973c33438a590775b924" title="spage_take_slot_in_use" alt="" coords="195,56,357,83"/>
+<area shape="rect" id="node3" href="$slotted__page_8c.html#a0461d050a2a7df8f932f2f2929578d7f" title="spage_find_empty_slot_at" alt="" coords="405,27,580,53"/>
+<area shape="rect" id="node5" href="$slotted__page_8c.html#a7743951007c39122cd9abb306cad75a0" title="spage_find_slot_for\l_insert" alt="" coords="425,89,560,130"/>
+<area shape="rect" id="node6" href="$slotted__page_8h.html#ab68d38c29c234969d85ddb87ddad1cfb" title="spage_split" alt="" coords="449,155,537,181"/>
+</map>

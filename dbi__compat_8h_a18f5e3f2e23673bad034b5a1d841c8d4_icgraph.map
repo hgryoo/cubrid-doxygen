@@ -1,0 +1,7 @@
+<map id="db_get_row_count" name="db_get_row_count">
+<area shape="rect" id="node2" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="181,5,361,32"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#a7e95ac0522aada661a88c876786dddfa" title="pt_fold_const_expr" alt="" coords="427,56,559,83"/>
+<area shape="rect" id="node5" href="$cas__execute_8h.html#a0ced8d23810dd14788578165969fed78" title="ux_get_row_count" alt="" coords="207,107,335,133"/>
+<area shape="rect" id="node3" href="$parse__evaluate_8c.html#a8c4be930836f528e1f5dea8ef14f7767" title="pt_evaluate_tree_internal" alt="" coords="409,5,576,32"/>
+<area shape="rect" id="node6" href="$cas__function_8h.html#a092bce05cdb98a113dc918d63c8b8dfa" title="fn_get_row_count" alt="" coords="430,107,555,133"/>
+</map>

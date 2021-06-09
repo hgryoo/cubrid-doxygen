@@ -1,0 +1,4 @@
+<map id="sl_write_delete_sql" name="sl_write_delete_sql">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a18990ec75cf521042876913c1a3c187e" title="la_apply_delete_log" alt="" coords="187,5,323,32"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a7ba25f44bcecbaa522dd022fb722f0c5" title="la_apply_repl_log" alt="" coords="371,5,493,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="tr_clear_trigger" name="tr_clear_trigger">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#a13013eb188aa69147ce2e996a4513dab" title="free_trigger" alt="" coords="173,107,260,133"/>
+<area shape="rect" id="node7" href="$trigger__manager_8c.html#a9895534c1b72fd9bd0bde607bb2bdbff" title="validate_trigger" alt="" coords="161,157,272,184"/>
+<area shape="rect" id="node3" href="$trigger__manager_8c.html#aea89c3d2a76f67e83e3ec3291add933e" title="map_flush_helper" alt="" coords="335,5,459,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#ab86886b8498d463986948822d3086b33" title="tr_create_trigger" alt="" coords="339,56,455,83"/>
+<area shape="rect" id="node5" href="$trigger__manager_8c.html#ad22e88534246991be186e6d3121cbd7c" title="tr_drop_trigger_internal" alt="" coords="320,107,475,133"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#adb8433e711d54260aa2106b6f1e0582c" title="tr_map_trigger" alt="" coords="345,157,450,184"/>
+</map>

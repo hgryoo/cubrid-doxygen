@@ -1,0 +1,9 @@
+<map id="log_2pc_alloc_coord_info" name="log_2pc_alloc_coord_info">
+<area shape="rect" id="node2" href="$log__2pc_8h.html#a4e7fdc2544dc233aab4b99ce0b1209b6" title="log_2pc_is_tran_distributed" alt="" coords="221,101,401,127"/>
+<area shape="rect" id="node6" href="$log__2pc_8c.html#a622564692e59c475e5b0d7b411bab3f9" title="log_2pc_recovery_start" alt="" coords="233,158,390,185"/>
+<area shape="rect" id="node8" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="247,209,375,235"/>
+<area shape="rect" id="node3" href="$log__2pc_8h.html#af2c5ff4de2960082b02967e3999a97d5" title="log_2pc_send_abort\l_decision" alt="" coords="473,5,612,47"/>
+<area shape="rect" id="node4" href="$log__2pc_8h.html#a6ae2e71f9ebb8789390c01087bb8e947" title="log_2pc_prepare_global_tran" alt="" coords="449,71,636,98"/>
+<area shape="rect" id="node5" href="$log__2pc_8h.html#ab41078f2435749214f54b8b9c7bfe7cc" title="log_2pc_clear_and_is\l_tran_distributed" alt="" coords="469,123,616,164"/>
+<area shape="rect" id="node7" href="$log__2pc_8c.html#aa731e03ca3e829eadad4f39dd1f91503" title="log_2pc_recovery_analysis\l_record" alt="" coords="453,188,632,229"/>
+</map>

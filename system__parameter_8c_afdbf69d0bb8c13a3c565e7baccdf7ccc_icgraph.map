@@ -1,0 +1,7 @@
+<map id="prm_get_next_param_value" name="prm_get_next_param_value">
+<area shape="rect" id="node2" href="$system__parameter_8h.html#ac7796181537381214e7eb913b58c45a0" title="sysprm_make_default\l_values" alt="" coords="205,5,356,47"/>
+<area shape="rect" id="node5" href="$system__parameter_8h.html#ac98d47f74e37f6645e2c28b25d7e6000" title="sysprm_validate_change\l_parameters" alt="" coords="197,71,364,112"/>
+<area shape="rect" id="node3" href="$dbi_8h.html#abd2d1be090b737e77e6ad72c8ef0a5e1" title="db_reset_system_parameters\l_from_assignments" alt="" coords="643,20,837,61"/>
+<area shape="rect" id="node4" href="$log__applier__sql__log_8h.html#ad9c921ee55ab854a69ab2c6a3f6603df" title="sl_write_statement_sql" alt="" coords="425,27,581,54"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#af63ac188972f8891747005d487779079" title="db_set_system_parameters" alt="" coords="412,78,595,105"/>
+</map>

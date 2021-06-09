@@ -1,0 +1,12 @@
+<map id="au_get_user_name" name="au_get_user_name">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a880c0f43d5e53b61b3bca980f523bbc4" title="au_export_grants" alt="" coords="605,56,728,83"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a5cfe0a7ffd242da92334d64fce12f629" title="au_export_users" alt="" coords="607,107,726,133"/>
+<area shape="rect" id="node6" href="$authenticate_8c.html#a760ec9c543347a066bebe684b03c9b09" title="issue_grant_statement" alt="" coords="210,5,365,32"/>
+<area shape="rect" id="node8" href="$semantic__check_8h.html#a9707fb60111e3e2076af068d8572bef8" title="pt_check_union_type\l_compatibility_of_values_query" alt="" coords="185,158,389,199"/>
+<area shape="rect" id="node10" href="$schema__manager_8h.html#a64438f425ba52141408a92c7d749b1b9" title="sc_set_current_schema" alt="" coords="207,224,368,251"/>
+<area shape="rect" id="node3" href="$unload__schema_8c.html#a7f79130b2669758e935be8a5b57261c1" title="emit_schema" alt="" coords="776,56,876,83"/>
+<area shape="rect" id="node4" href="$unloaddb_8h.html#aab2eec8bbc4988ca57d5cef87fafc87b" title="extract_classes" alt="" coords="924,81,1039,108"/>
+<area shape="rect" id="node7" href="$authenticate_8c.html#afe3c51e39ee04e9cee74f55959862664" title="class_grant_loop" alt="" coords="437,5,557,32"/>
+<area shape="rect" id="node9" href="$type__checking_8c.html#a879cd4c54983ed40dbb61bf2c70020e8" title="pt_eval_type" alt="" coords="449,165,545,192"/>
+<area shape="rect" id="node11" href="$authenticate_8h.html#a148c5d7fffeac4d1bb9461e184a6b13c" title="au_set_user" alt="" coords="451,224,544,251"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cubthread::daemon_entry_manager" name="cubthread::daemon_entry_manager">
+<area shape="rect" id="node4" href="$classvacuum__master__context__manager.html" title="{vacuum_master_context\l_manager\n||&#45; on_daemon_create()\l&#45; on_daemon_retire()\l}" alt="" coords="17,660,183,767"/>
+<area shape="rect" id="node2" href="$classcubthread_1_1entry__manager.html" title="{cubthread::entry_manager\n||+ entry_manager()\l+ create_context()\l+ retire_context()\l+ recycle_context()\l+ stop_execution()\l# on_create()\l# on_retire()\l# on_recycle()\l}" alt="" coords="13,204,187,384"/>
+<area shape="rect" id="node3" href="$classcubthread_1_1context__manager.html" title="{cubthread::context\l_manager\&lt; entry \&gt;\n||+ ~context_manager()\l+ create_context()\l+ retire_context()\l+ recycle_context()\l+ stop_execution()\l}" alt="" coords="25,5,175,156"/>
+</map>

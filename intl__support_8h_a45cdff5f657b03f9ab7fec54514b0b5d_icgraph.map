@@ -1,0 +1,21 @@
+<map id="intl_count_utf8_chars" name="intl_count_utf8_chars">
+<area shape="rect" id="node2" href="$intl__support_8h.html#a1bb2a2e0646aff065a2549d956e228c1" title="intl_char_count" alt="" coords="212,384,323,411"/>
+<area shape="rect" id="node18" href="$intl__support_8h.html#a8fc072ea611dcffad0baf7674a591e7c" title="intl_identifier_lower" alt="" coords="201,435,334,461"/>
+<area shape="rect" id="node19" href="$intl__support_8h.html#aa0bd3b8c537da5a8c0ff834328286c0a" title="intl_identifier_upper" alt="" coords="200,485,335,512"/>
+<area shape="rect" id="node20" href="$uca__support_8c.html#a9535cccf3a38bec269e3620af67d00a8" title="read_cp_from_tag" alt="" coords="204,536,331,563"/>
+<area shape="rect" id="node3" href="$cas__function_8c.html#a32b355b4cbd3ea5f9c8699773412b0cf" title="bind_value_print" alt="" coords="412,5,528,32"/>
+<area shape="rect" id="node4" href="$db__macro_8c.html#aaac41ec0708d386802559c899a7d90aa" title="coerce_char_to_dbvalue" alt="" coords="605,131,768,157"/>
+<area shape="rect" id="node5" href="$string__opfunc_8h.html#a49b18c9c0abbf5d759dc0ccf87d66a1b" title="db_compress_like_pattern" alt="" coords="383,384,557,411"/>
+<area shape="rect" id="node6" href="$string__opfunc_8h.html#a8a4e8b57baae36465976146c6019be87" title="db_get_like_optimization\l_bounds" alt="" coords="387,435,553,477"/>
+<area shape="rect" id="node7" href="$string__opfunc_8h.html#a40c3936a7cff84166ed203ca6000bfdc" title="db_get_string_length" alt="" coords="399,232,541,259"/>
+<area shape="rect" id="node8" href="$string__opfunc_8h.html#a143cd4df0517d339fe2d3bd474ce680c" title="db_string_instr" alt="" coords="633,207,740,233"/>
+<area shape="rect" id="node9" href="$string__opfunc_8h.html#a7b121a24b8e243350ebe838867407e06" title="db_string_lower" alt="" coords="630,283,743,309"/>
+<area shape="rect" id="node10" href="$string__opfunc_8h.html#af9010180254ef183d02d6d1856e7b57a" title="db_string_upper" alt="" coords="629,333,744,360"/>
+<area shape="rect" id="node11" href="$string__opfunc_8h.html#a5d4a9ca9b0005512eab8d461ccf2f524" title="db_string_like" alt="" coords="419,501,521,528"/>
+<area shape="rect" id="node12" href="$string__opfunc_8h.html#a0ca816932da61254aaf498054782d4ad" title="db_string_limit_size\l_string" alt="" coords="401,553,539,594"/>
+<area shape="rect" id="node13" href="$cnv_8h.html#a773963dd7108265a483a0030115d9bd9" title="db_string_value" alt="" coords="413,80,527,107"/>
+<area shape="rect" id="node14" href="$intl__support_8h.html#a1967801531bb068e4138adae8d37330c" title="intl_identifier_lower\l_string_size" alt="" coords="403,618,537,659"/>
+<area shape="rect" id="node15" href="$intl__support_8h.html#a384723184545b99811544d61182b84e0" title="intl_identifier_upper\l_string_size" alt="" coords="403,683,537,725"/>
+<area shape="rect" id="node16" href="$intl__support_8h.html#ab2fa6c3fc066633374b6a83fd8a4f0d8" title="intl_mbs_ncpy" alt="" coords="417,749,523,776"/>
+<area shape="rect" id="node17" href="$load__sa__loader_8cpp.html#a8da15d2538447d91fe1d6b8d4bb967cd" title="ldr_str_db_char" alt="" coords="415,800,525,827"/>
+</map>

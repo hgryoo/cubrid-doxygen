@@ -1,0 +1,19 @@
+<map id="oid_compare_equals" name="oid_compare_equals">
+<area shape="rect" id="node2" href="$catalog__class_8c.html#afd4aaf02e4327588eeb7d9ddf842531a" title="catcls_initialize_class\l_oid_to_oid_hash_table" alt="" coords="205,5,364,47"/>
+<area shape="rect" id="node5" href="$unloaddb_8h.html#a8f06d201be33ae14bcdaf8d8bfffb36f" title="extract_objects" alt="" coords="229,71,340,98"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#a8f66c7ca2e74dffde318cba3280a340b" title="heap_chkreloc_start" alt="" coords="215,122,354,149"/>
+<area shape="rect" id="node9" href="$heap__file_8c.html#a703d3215a6e96a95b300fdf291e1e8f6" title="heap_chnguess_initialize" alt="" coords="201,173,368,199"/>
+<area shape="rect" id="node12" href="$locator__sr_8c.html#a1c86618c7927424311607b824cb2d636" title="locator_all_reference\l_lockset" alt="" coords="213,224,356,265"/>
+<area shape="rect" id="node13" href="$locator__cl_8c.html#ae2d2ef0074e3218a23790885d5db5d0c" title="locator_lock_set" alt="" coords="226,290,343,317"/>
+<area shape="rect" id="node14" href="$log__tran__table_8c.html#aa7de35bdeabe20d888ecec1e78ed6d35" title="logtb_initialize_tdes" alt="" coords="217,341,353,367"/>
+<area shape="rect" id="node17" href="$partition__sr_8h.html#a09bc594af4326653f6d3e64a1ba4e319" title="partition_cache_init" alt="" coords="439,391,573,418"/>
+<area shape="rect" id="node18" href="$serial_8h.html#aeac3d01d696bc5d57030cae77e38eb58" title="serial_initialize_cache_pool" alt="" coords="195,442,375,469"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a9adaf98f87a60f6b3d1411c1976df4ec" title="catcls_compile_catalog\l_classes" alt="" coords="427,5,585,47"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="637,311,772,338"/>
+<area shape="rect" id="node6" href="$utility_8h.html#a090ec522bafd813b8ba255a9af927ba3" title="unloaddb" alt="" coords="469,71,543,98"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#a6c8e6a7c0e058271191fd35091b687f3" title="heap_check_all_pages" alt="" coords="429,122,583,149"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#ae6beb99cf2079e11b1dccc51763f02cb" title="heap_chnguess_realloc" alt="" coords="427,173,585,199"/>
+<area shape="rect" id="node11" href="$heap__file_8h.html#a1bd47a9dfa569f39c05bbbdccff9ae9b" title="heap_manager_initialize" alt="" coords="425,231,587,258"/>
+<area shape="rect" id="node15" href="$log__system__tran_8cpp.html#aba9e2fa09d0a2c55fedde39e867dbb2b" title="systdes_create_tdes" alt="" coords="435,290,577,317"/>
+<area shape="rect" id="node16" href="$log__tran__table_8c.html#a182347f41511bed32f584218e27429e5" title="logtb_allocate_tdes_area" alt="" coords="423,341,589,367"/>
+</map>

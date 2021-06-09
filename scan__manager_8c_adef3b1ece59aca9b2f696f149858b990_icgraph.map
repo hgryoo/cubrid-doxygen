@@ -1,0 +1,6 @@
+<map id="scan_alloc_oid_list" name="scan_alloc_oid_list">
+<area shape="rect" id="node2" href="$scan__manager_8c.html#a9fe11c3235862a6fce7311cd1a126e67" title="scan_alloc_iscan_oid\l_buf_list" alt="" coords="185,5,332,47"/>
+<area shape="rect" id="node4" href="$scan__manager_8h.html#a0e500909e45936cae42c4a07ab615bb3" title="scan_initialize" alt="" coords="207,71,311,98"/>
+<area shape="rect" id="node3" href="$scan__manager_8h.html#a182c8e92047f6d81e263152409c29da0" title="scan_open_index_scan" alt="" coords="380,13,539,39"/>
+<area shape="rect" id="node5" href="$query__manager_8h.html#af4f328c92e903e58012d29296381edd5" title="qmgr_initialize" alt="" coords="407,71,512,98"/>
+</map>

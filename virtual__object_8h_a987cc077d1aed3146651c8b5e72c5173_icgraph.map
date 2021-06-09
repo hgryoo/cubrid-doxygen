@@ -1,0 +1,7 @@
+<map id="vid_fetch_instance" name="vid_fetch_instance">
+<area shape="rect" id="node2" href="$authenticate_8c.html#a98239d9a8d06d7fe83f7460ee0f44725" title="fetch_instance" alt="" coords="356,25,463,51"/>
+<area shape="rect" id="node5" href="$virtual__object_8h.html#a3d1e77cf7c35b8588debe147103f7495" title="vid_upd_instance" alt="" coords="185,25,307,51"/>
+<area shape="rect" id="node6" href="$work__space_8h.html#a09df42fa89e3a3f860717b0800a5477e" title="ws_rehash_vmop" alt="" coords="184,75,308,102"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#ac6b7e4eb760106dd0d8efd7766aa3f20" title="au_fetch_instance" alt="" coords="529,25,657,51"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#af04f213c55aac3ea3586a692ee77e2ff" title="au_fetch_instance_force" alt="" coords="511,101,675,127"/>
+</map>

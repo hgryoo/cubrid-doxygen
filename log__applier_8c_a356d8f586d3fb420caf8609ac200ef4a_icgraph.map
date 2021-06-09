@@ -1,0 +1,6 @@
+<map id="la_fetch_log_hdr" name="la_fetch_log_hdr">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a627df3bcc7542037070ea84fec03cf47" title="check_reinit_copylog" alt="" coords="171,56,315,83"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a248465451ddc5c3a07700d168cabdc6a" title="la_log_fetch" alt="" coords="585,81,677,108"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a985ea807a9f77fb66077722eea3554a9" title="la_apply_log_file" alt="" coords="391,5,509,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a0aaff7042c0765bd3eeff3d94545ce1b" title="la_log_fetch_from_archive" alt="" coords="363,56,537,83"/>
+</map>

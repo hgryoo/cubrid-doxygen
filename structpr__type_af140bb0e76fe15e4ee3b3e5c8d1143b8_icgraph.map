@@ -1,0 +1,17 @@
+<map id="pr_type::index_writeval" name="pr_type::index_writeval">
+<area shape="rect" id="node2" href="$btree_8c.html#a3a9d1b18b6eb999825c00a291398f04f" title="btree_recompress_record" alt="" coords="220,116,389,143"/>
+<area shape="rect" id="node4" href="$btree_8h.html#aff70fe7f2a4dcf9f515b13085c942a4a" title="btree_rv_save_keyval\l_for_undo" alt="" coords="230,258,379,299"/>
+<area shape="rect" id="node12" href="$btree_8h.html#a98391cc662102b843995a74b040beac3" title="btree_rv_save_keyval\l_for_undo_two_objects" alt="" coords="227,363,383,405"/>
+<area shape="rect" id="node13" href="$btree_8c.html#a66472c2cd403f0549e1b923b3acf779f" title="btree_store_overflow_key" alt="" coords="219,429,390,456"/>
+<area shape="rect" id="node14" href="$btree_8h.html#adcf574be2b1e0f2716970f3022bed902" title="btree_write_record" alt="" coords="469,500,598,527"/>
+<area shape="rect" id="node15" href="$heap__file_8c.html#ad75794841ba8832c3c9a09050e3109d2" title="heap_midxkey_key_generate" alt="" coords="209,531,400,557"/>
+<area shape="rect" id="node16" href="$heap__file_8c.html#a3da7f158d0c19e22141f1cd65fb05213" title="heap_midxkey_key_get" alt="" coords="225,581,384,608"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a1012b26ece22db26540906ab85b6ef30" title="btree_merge_node" alt="" coords="469,5,598,32"/>
+<area shape="rect" id="node5" href="$btree__load_8c.html#a152e2fb9000bb23ccd9be5a7c9c5bfba" title="btree_construct_leafs" alt="" coords="460,56,607,83"/>
+<area shape="rect" id="node6" href="$btree_8c.html#abcc33a3d95c509752b338759a9833265" title="btree_insert_mvcc_delid\l_into_page" alt="" coords="452,107,615,149"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a362a4d222b53ff74e31f9994532fe8a2" title="btree_key_delete_remove\l_object" alt="" coords="448,173,619,214"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a55fc6982f1020bc221d9faf6cac59ad9" title="btree_key_insert_new\l_object" alt="" coords="459,238,608,279"/>
+<area shape="rect" id="node9" href="$btree_8c.html#a0c69fa8afd6c6bad66e5f29a21e8b664" title="btree_key_online_index\l_tran_delete" alt="" coords="454,303,613,345"/>
+<area shape="rect" id="node10" href="$btree_8c.html#a22870f850aa05a7db4d75ebf47f293de" title="btree_key_online_index\l_tran_insert" alt="" coords="454,369,613,410"/>
+<area shape="rect" id="node11" href="$btree_8c.html#a52840a60a1039d18a0a43d49b7411a9a" title="btree_key_online_index\l_tran_insert_DF" alt="" coords="454,434,613,475"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="logpb_get_memsize" name="logpb_get_memsize">
+<area shape="rect" id="node2" href="$log__append_8cpp.html#a055967129308b00d1f5fab263f24da07" title="prior_lsa_next_record\l_internal" alt="" coords="192,64,339,105"/>
+<area shape="rect" id="node3" href="$log__append_8cpp.html#a553a400bcf304b06d81ee6ec64b8a352" title="LOG_PRIOR_LSA_LAST\l_APPEND_OFFSET" alt="" coords="387,5,557,47"/>
+<area shape="rect" id="node4" href="$log__append_8hpp.html#a637f52193eda94f6abd2d93ec3b414f2" title="prior_lsa_next_record" alt="" coords="399,71,545,98"/>
+<area shape="rect" id="node5" href="$log__append_8hpp.html#a3360e53b8acdd0f7a144e0ef858fe285" title="prior_lsa_next_record\l_with_lock" alt="" coords="399,123,545,164"/>
+</map>

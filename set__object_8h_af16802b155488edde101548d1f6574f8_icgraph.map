@@ -1,0 +1,21 @@
+<map id="set_create" name="set_create">
+<area shape="rect" id="node2" href="$db__set__function_8h.html#ab865d002c78a21e7277b58194d4354a3" title="db_col_create" alt="" coords="160,71,263,98"/>
+<area shape="rect" id="node5" href="$jsp__cl_8c.html#ae61781c4c90beb2039aa322e9c1c810a" title="jsp_unpack_set_value" alt="" coords="136,122,287,149"/>
+<area shape="rect" id="node7" href="$set__object_8h.html#a8433f942ce423dd6c45b53909e5a02d7" title="set_create_basic" alt="" coords="151,299,272,326"/>
+<area shape="rect" id="node13" href="$set__object_8h.html#aff460a6b0adffbc6d3022b690640f813" title="set_create_multi" alt="" coords="152,223,271,250"/>
+<area shape="rect" id="node15" href="$set__object_8h.html#a1f9cb9abd6de09ffdd727650c75a576b" title="set_create_sequence" alt="" coords="138,517,285,543"/>
+<area shape="rect" id="node3" href="$db__stub_8h.html#ad76bf175ed113ede83f99090c29e3988" title="api_collection_set\l_to_db_value" alt="" coords="362,5,489,47"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#af7a6f8b06ff0c4429d7a18e91c32bc1e" title="ldr_collection_db_collection" alt="" coords="335,71,516,98"/>
+<area shape="rect" id="node6" href="$jsp__cl_8c.html#adca4338f9836960f2d2ddd641d5cb91d" title="jsp_unpack_value" alt="" coords="362,122,489,149"/>
+<area shape="rect" id="node8" href="$db__set_8c.html#af45ef8e00902a73f729ad83f2be9793a" title="db_set_create" alt="" coords="373,223,477,250"/>
+<area shape="rect" id="node9" href="$db__set_8c.html#a20888ae132273967f9876f6852814bbf" title="db_set_create_basic" alt="" coords="354,274,497,301"/>
+<area shape="rect" id="node10" href="$authenticate_8c.html#a6d6d63b0e417da4f892561898c64893c" title="au_make_user" alt="" coords="372,426,479,453"/>
+<area shape="rect" id="node11" href="$authenticate_8c.html#aaf9859e56ac7f259cde7f167e1e0a609" title="au_compute_groups" alt="" coords="356,325,495,351"/>
+<area shape="rect" id="node12" href="$authenticate_8h.html#a432ae2e4cbf4a4657fc1165dd0f553a7" title="au_drop_user" alt="" coords="375,375,475,402"/>
+<area shape="rect" id="node14" href="$db__set_8c.html#a1f9bed8344fe7fa804e177d264c25cc2" title="db_set_create_multi" alt="" coords="356,173,495,199"/>
+<area shape="rect" id="node16" href="$db__set_8c.html#a7d8d4e538b96e4f39492948ef252a7f4" title="db_seq_create" alt="" coords="372,609,479,635"/>
+<area shape="rect" id="node17" href="$jsp__cl_8c.html#a492fc77e32ed00bc045be5703c4aba55" title="jsp_add_stored_procedure" alt="" coords="338,659,513,686"/>
+<area shape="rect" id="node18" href="$class__object_8h.html#a50f615cdf5faa40168375d5b9919d478" title="classobj_make_prop" alt="" coords="355,710,496,737"/>
+<area shape="rect" id="node19" href="$class__object_8c.html#a341e05ed2e1e35e704b082a655381487" title="classobj_make_foreign\l_key_info_seq" alt="" coords="348,477,503,519"/>
+<area shape="rect" id="node20" href="$class__object_8c.html#a4d8be4ca638d147f129270c119668414" title="classobj_make_foreign\l_key_ref_seq" alt="" coords="348,543,503,584"/>
+</map>

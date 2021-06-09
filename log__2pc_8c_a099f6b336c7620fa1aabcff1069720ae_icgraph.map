@@ -1,0 +1,6 @@
+<map id="log_2pc_send_commit_decision" name="log_2pc_send_commit_decision">
+<area shape="rect" id="node2" href="$log__2pc_8c.html#a8f0d3e711958d90183e5813a073b4696" title="log_2pc_commit_second\l_phase" alt="" coords="218,5,385,47"/>
+<area shape="rect" id="node4" href="$log__2pc_8c.html#a2c2f7703db38e95affce3b8302fdc868" title="log_2pc_recovery_commit\l_decision" alt="" coords="214,71,389,112"/>
+<area shape="rect" id="node5" href="$log__2pc_8c.html#a0465c34ab3418ef8ad6cc575f19f57d1" title="log_2pc_recovery_committed\l_informing_participants" alt="" coords="205,136,397,177"/>
+<area shape="rect" id="node3" href="$log__2pc_8h.html#a401f2de61a2ae044dc3c206240f812b0" title="log_2pc_commit" alt="" coords="445,13,563,39"/>
+</map>

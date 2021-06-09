@@ -1,0 +1,8 @@
+<map id="LOG_RV_RECORD_IS_INSERT" name="LOG_RV_RECORD_IS_INSERT">
+<area shape="rect" id="node2" href="$btree_8c.html#aaa267465ef3900c62ee720e7cd2000b6" title="btree_rv_record_modify\l_internal" alt="" coords="272,71,431,112"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a4778616eda042a16c2f69398f42a8b85" title="log_rv_record_modify\l_internal" alt="" coords="278,136,425,177"/>
+<area shape="rect" id="node3" href="$btree_8h.html#af1ab1efa7d17491284afc2b26102a255" title="btree_rv_redo_record\l_modify" alt="" coords="480,5,624,47"/>
+<area shape="rect" id="node4" href="$btree_8h.html#ae15af036e65acb6c3cfbc5bb326bee05" title="btree_rv_undo_record\l_modify" alt="" coords="479,71,625,112"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#ac63dbaaf662787a73fb0c5e311b0cc76" title="log_rv_redo_record\l_modify" alt="" coords="486,136,618,177"/>
+<area shape="rect" id="node7" href="$log__recovery_8c.html#a02336e0d7ab39a5c26699040b91e6919" title="log_rv_undo_record\l_modify" alt="" coords="485,201,619,243"/>
+</map>

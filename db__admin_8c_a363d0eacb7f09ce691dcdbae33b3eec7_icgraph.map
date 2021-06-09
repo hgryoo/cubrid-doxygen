@@ -1,0 +1,7 @@
+<map id="db_revoke" name="db_revoke">
+<area shape="rect" id="node2" href="$boot__cl_8c.html#a1c906d817cb0b45ca6b099228f903201" title="catcls_vclass_install" alt="" coords="136,5,279,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a6f0d292f8f1e704735f5586be6feba4a" title="do_revoke" alt="" coords="166,56,249,83"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="327,5,465,32"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="345,56,447,83"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="513,81,668,108"/>
+</map>

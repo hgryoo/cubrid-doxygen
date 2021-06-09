@@ -1,0 +1,14 @@
+<map id="src/query/query_dump.c" name="src/query/query_dump.c">
+<area shape="rect" id="node5" href="$query__dump_8h.html" title="query_dump.h" alt="" coords="601,80,705,107"/>
+<area shape="rect" id="node11" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="877,80,1001,107"/>
+<area shape="rect" id="node14" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="203,155,345,181"/>
+<area shape="rect" id="node16" href="$dbtype_8h.html" title="dbtype.h" alt="" coords="471,80,543,107"/>
+<area shape="rect" id="node18" href="$xasl_8h.html" title="xasl.h" alt="" coords="131,80,188,107"/>
+<area shape="rect" id="node19" href="$xasl__aggregate_8hpp.html" title="xasl_aggregate.hpp" alt="" coords="312,80,447,107"/>
+<area shape="rect" id="node20" href="$xasl__predicate_8hpp.html" title="xasl_predicate.hpp" alt="" coords="806,155,937,181"/>
+<area shape="rect" id="node6" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="587,229,684,256"/>
+<area shape="rect" id="node8" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="46,155,179,181"/>
+<area shape="rect" id="node7" href="$error__code_8h.html" title="error_code.h" alt="" coords="431,304,525,331"/>
+<area shape="rect" id="node9" href="$porting_8h.html" title="porting.h" alt="" coords="167,229,239,256"/>
+<area shape="rect" id="node15" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="420,229,536,256"/>
+</map>

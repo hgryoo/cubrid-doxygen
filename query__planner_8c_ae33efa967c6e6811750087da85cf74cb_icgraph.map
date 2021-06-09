@@ -1,0 +1,6 @@
+<map id="qo_uninit_planvec" name="qo_uninit_planvec">
+<area shape="rect" id="node2" href="$query__planner_8c.html#a45a93a7b97e89b835df3e755df9fd9a6" title="qo_detach_info" alt="" coords="180,56,291,83"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#ad1a25c2a4131f42a4170844e8e4b2faa" title="qo_combine_partitions" alt="" coords="339,5,491,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#aa07155ca64cdf8e3d288d383e2035363" title="qo_free_info" alt="" coords="368,56,461,83"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#ac35a8eee1fedbd1bf6ef84f47ae0cca4" title="qo_search_partition" alt="" coords="347,107,482,133"/>
+</map>

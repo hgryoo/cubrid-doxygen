@@ -1,0 +1,16 @@
+<map id="pgbuf_flush_all" name="pgbuf_flush_all">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="796,82,963,109"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="415,69,506,95"/>
+<area shape="rect" id="node7" href="$disk__manager_8h.html#a9bb177a50cfef0adc1cc83b5e141f721" title="disk_unformat" alt="" coords="200,145,304,171"/>
+<area shape="rect" id="node9" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="629,170,699,197"/>
+<area shape="rect" id="node10" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="413,322,509,349"/>
+<area shape="rect" id="node11" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="188,322,316,349"/>
+<area shape="rect" id="node12" href="$log__recovery_8c.html#a18e7fc0efb64ea17207486e0abacaebe" title="log_recovery_undo" alt="" coords="187,373,317,399"/>
+<area shape="rect" id="node13" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="205,423,299,450"/>
+<area shape="rect" id="node14" href="$log__manager_8h.html#ac92df3fb17efd887483ccf4616f20f27" title="log_rv_outside_noop_redo" alt="" coords="165,474,339,501"/>
+<area shape="rect" id="node15" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="163,525,341,567"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="1011,114,1161,141"/>
+<area shape="rect" id="node5" href="$disk__manager_8c.html#aa1450d661897bab9929324e46c0b641d" title="disk_add_volume" alt="" coords="603,119,725,146"/>
+<area shape="rect" id="node6" href="$disk__manager_8h.html#a5fdac5331f81f23b3b65375177ded3f5" title="disk_format_first_volume" alt="" coords="580,69,748,95"/>
+<area shape="rect" id="node8" href="$disk__manager_8h.html#a55303cc2193f6a053bce1d984cc4f516" title="disk_rv_undo_format" alt="" coords="389,170,532,197"/>
+</map>

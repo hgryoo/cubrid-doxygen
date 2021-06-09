@@ -1,0 +1,6 @@
+<map id="perfmon_stat_snapshot_name" name="perfmon_stat_snapshot_name">
+<area shape="rect" id="node2" href="$perf__monitor_8c.html#a2a1b134f9d7bccf4a97647648bc59045" title="perfmon_stat_dump_in\l_buffer_mvcc_snapshot\l_array_stat" alt="" coords="275,5,437,61"/>
+<area shape="rect" id="node4" href="$perf__monitor_8c.html#a456b06ef25a047f59907a1990283baf3" title="perfmon_stat_dump_in\l_file_mvcc_snapshot_array_stat" alt="" coords="251,85,461,126"/>
+<area shape="rect" id="node3" href="$perf__monitor_8c.html#a40c6188ec3f2314801a1d4751b46e0f7" title="f_dump_in_buffer_Num\l_mvcc_snapshot_ext" alt="" coords="509,13,667,54"/>
+<area shape="rect" id="node5" href="$perf__monitor_8c.html#a17861c0fdb3d979d2d9803922c6bcc3a" title="f_dump_in_file_Num\l_mvcc_snapshot_ext" alt="" coords="515,85,661,126"/>
+</map>

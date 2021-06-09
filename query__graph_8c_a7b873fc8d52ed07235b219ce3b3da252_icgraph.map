@@ -1,0 +1,6 @@
+<map id="set_seg_node" name="set_seg_node">
+<area shape="rect" id="node2" href="$query__graph_8c.html#abe1670a3f6e3e8a0eab8a2371d9b48f5" title="qo_add_final_segment" alt="" coords="304,5,456,32"/>
+<area shape="rect" id="node4" href="$query__graph_8c.html#a53580f97eea3cf5cb4b8fe8237731a79" title="set_seg_expr" alt="" coords="156,56,256,83"/>
+<area shape="rect" id="node3" href="$query__graph_8c.html#a36e513d9217f9a2e0c5d27f73f300a14" title="qo_optimize_helper" alt="" coords="504,31,639,57"/>
+<area shape="rect" id="node5" href="$query__graph_8c.html#a842ff241576225d2b796281431749fab" title="qo_expr_segs" alt="" coords="329,56,431,83"/>
+</map>

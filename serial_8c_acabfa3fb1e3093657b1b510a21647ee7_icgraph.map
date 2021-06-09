@@ -1,0 +1,6 @@
+<map id="serial_alloc_cache_area" name="serial_alloc_cache_area">
+<area shape="rect" id="node2" href="$serial_8c.html#a68a8e5d34969d7444ff1bb017cfdd37d" title="serial_alloc_cache\l_entry" alt="" coords="240,5,369,47"/>
+<area shape="rect" id="node4" href="$serial_8h.html#aeac3d01d696bc5d57030cae77e38eb58" title="serial_initialize_cache_pool" alt="" coords="215,71,395,98"/>
+<area shape="rect" id="node3" href="$serial_8c.html#a5c7fadbb76bc3a179a711c6ffb135494" title="xserial_get_next_value\l_internal" alt="" coords="443,5,597,47"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="453,71,587,98"/>
+</map>

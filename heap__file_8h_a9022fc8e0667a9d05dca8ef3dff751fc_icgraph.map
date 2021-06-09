@@ -1,0 +1,21 @@
+<map id="heap_get_visible_version_internal" name="heap_get_visible_version_internal">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a9285a74871d3f15b4f39f8271fbb1b60" title="heap_get_visible_version" alt="" coords="221,415,389,441"/>
+<area shape="rect" id="node19" href="$heap__file_8h.html#a96f4018608e06d9fbcb45b57129220b0" title="heap_scan_get_visible\l_version" alt="" coords="228,466,383,507"/>
+<area shape="rect" id="node20" href="$locator__sr_8h.html#acc9618d1ce7c02e3c71da55d87ec0e73" title="locator_get_object" alt="" coords="241,532,369,559"/>
+<area shape="rect" id="node3" href="$catalog__class_8c.html#a44e3c5b771458e1b22b87ecf9f5b34ca" title="catcls_delete_instance" alt="" coords="457,5,611,32"/>
+<area shape="rect" id="node4" href="$catalog__class_8c.html#a9fe7e4c1337f52799542ab02d0a0991c" title="catcls_update_instance" alt="" coords="455,56,613,83"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a455bca38c3599344599944eed9ca49f4" title="heap_is_object_not_null" alt="" coords="453,107,615,133"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#a767686c1f6da06e78ded7ae4f066bdea" title="heap_scanrange_next" alt="" coords="459,157,609,184"/>
+<area shape="rect" id="node7" href="$heap__file_8h.html#ada6a86c7e96b56caa5860e6a33340e61" title="heap_scanrange_to_following" alt="" coords="437,208,631,235"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#ac219b5f98df5f99573f009eb1f95d5ff" title="heap_scanrange_to_prior" alt="" coords="451,259,617,285"/>
+<area shape="rect" id="node9" href="$locator__sr_8c.html#a1c86618c7927424311607b824cb2d636" title="locator_all_reference\l_lockset" alt="" coords="463,310,605,351"/>
+<area shape="rect" id="node10" href="$locator__sr_8h.html#a77745dd2951889c2f4ae1d682ad63391" title="locator_delete_lob\l_force" alt="" coords="471,375,597,417"/>
+<area shape="rect" id="node11" href="$locator__sr_8c.html#a5cd4dc69d7c3d51f2cd38422766fb091" title="locator_mvcc_reeval\l_scan_filters" alt="" coords="463,441,605,482"/>
+<area shape="rect" id="node12" href="$locator__sr_8c.html#a7f64acb3a1711c1ab318d4ae7bab4cec" title="locator_repl_prepare\l_force" alt="" coords="465,506,603,547"/>
+<area shape="rect" id="node13" href="$locator__sr_8c.html#aa94a327f45350804b2066385650abc9b" title="locator_update_force" alt="" coords="463,572,605,599"/>
+<area shape="rect" id="node14" href="$lock__manager_8h.html#a504786492af357a6a63b3b255364b4c6" title="lock_demote_class_lock" alt="" coords="451,623,617,649"/>
+<area shape="rect" id="node15" href="$compactdb_8c.html#a5b1ae18112f5d336e5c8665fc2a1097c" title="process_value" alt="" coords="481,673,587,700"/>
+<area shape="rect" id="node16" href="$query__executor_8c.html#a6a52d397abf14eeef1f1a23bccd2ed42" title="qexec_execute_delete" alt="" coords="458,724,610,751"/>
+<area shape="rect" id="node17" href="$query__executor_8c.html#aedafb43c80a9e4a8e19101d2e236487a" title="qexec_execute_duplicate\l_key_update" alt="" coords="449,775,619,817"/>
+<area shape="rect" id="node18" href="$query__executor_8c.html#aa789b9a1da1ee681d9ad9464672c2325" title="qexec_execute_update" alt="" coords="456,841,612,868"/>
+</map>

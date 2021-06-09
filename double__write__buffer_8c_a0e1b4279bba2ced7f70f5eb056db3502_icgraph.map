@@ -1,0 +1,8 @@
+<map id="dwb_finalize_block" name="dwb_finalize_block">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#ab180db015df6cfbabb8c7e1692c00ab1" title="dwb_create_internal" alt="" coords="189,56,327,83"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="527,74,681,115"/>
+<area shape="rect" id="node6" href="$double__write__buffer_8c.html#a5776b24a954909a353c19d6029fccb0a" title="dwb_destroy_internal" alt="" coords="185,107,331,133"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#acba78f5f185d579f9bc108af1713519c" title="dwb_create" alt="" coords="384,5,473,32"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8h.html#a73fd65b5e5208dc676dab35b729a84fc" title="dwb_recreate" alt="" coords="379,56,479,83"/>
+<area shape="rect" id="node7" href="$double__write__buffer_8h.html#a5f895a64d283260b4d3b6147b49c17c0" title="dwb_destroy" alt="" coords="381,107,477,133"/>
+</map>

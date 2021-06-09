@@ -1,0 +1,5 @@
+<map id="boot_donot_shutdown_client_at_exit" name="boot_donot_shutdown_client_at_exit">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a5d98688d5706fd68216d7931e5638a3b" title="logpb_fatal_error_internal" alt="" coords="203,35,369,61"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#a2cd9afddaaf8f29730d0b3d0ad2be1da" title="logpb_fatal_error" alt="" coords="437,5,556,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a9e349e88b9bed778916cd0bc667a0350" title="logpb_fatal_error_exit\l_immediately_wo_flush" alt="" coords="417,57,576,98"/>
+</map>

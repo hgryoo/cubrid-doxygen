@@ -1,0 +1,20 @@
+<map id="db_object" name="db_object">
+<area shape="rect" id="node2" href="$cas__execute_8c.html#a25b4592d42c5cd50c639d64ca89da9a4" title="casobj_to_dbobj" alt="" coords="169,107,285,133"/>
+<area shape="rect" id="node3" href="$compactdb__cl_8c.html#a3c96cc7b752912d6205b04479c0e0289" title="do_reclaim_class_addresses" alt="" coords="132,157,323,184"/>
+<area shape="rect" id="node6" href="$compactdb__cl_8c.html#a1d4aaab47deb64efaeb9f6ecc3deb32d" title="get_name_from_class_oid" alt="" coords="140,208,315,235"/>
+<area shape="rect" id="node7" href="$cas__net__buf_8h.html#a16647ea5f4b8c24c43048743fbae44ef" title="net_arg_get_dbobject" alt="" coords="154,259,301,285"/>
+<area shape="rect" id="node13" href="$db__object_8c.html#a4dfaafb73c79825cdd24159a7e1ac49c" title="or_create" alt="" coords="189,364,265,391"/>
+<area shape="rect" id="node15" href="$compactdb__cl_8c.html#ac4446f53f3366223aef5ac93227c24a3" title="show_statistics" alt="" coords="171,423,284,449"/>
+<area shape="rect" id="node16" href="$cas__execute_8c.html#a09fb612decd1a1a896712e730489a24a" title="ux_str_to_obj" alt="" coords="177,309,277,336"/>
+<area shape="rect" id="node17" href="$db__value__table_8c.html#aa9a789deca402677a794455213dc5372" title="value_to_db_value" alt="" coords="162,485,293,512"/>
+<area shape="rect" id="node4" href="$compactdb__cl_8c.html#ad3b2ec867203ae1e6e05d1b2e304ba01" title="do_reclaim_addresses" alt="" coords="371,5,523,32"/>
+<area shape="rect" id="node5" href="$compactdb__cl_8c.html#ad8ac2934f7ec63bfee9cfcab72aa95dd" title="compactdb_start" alt="" coords="571,56,689,83"/>
+<area shape="rect" id="node8" href="$cas__function_8h.html#a30af4989294d48398141aa917cbbda6c" title="fn_collection" alt="" coords="399,107,494,133"/>
+<area shape="rect" id="node9" href="$cas__function_8h.html#a0e7c2e21a118179ca22c4c90c647bd57" title="fn_oid" alt="" coords="418,157,475,184"/>
+<area shape="rect" id="node10" href="$cas__execute_8c.html#a235ed61a310d3fc128b8c64464ce6c47" title="netval_to_dbval" alt="" coords="390,309,503,336"/>
+<area shape="rect" id="node11" href="$cas__execute_8h.html#a0de2497a6df43aa3169e485b3f6d0f5b" title="ux_oid_get" alt="" coords="404,208,489,235"/>
+<area shape="rect" id="node12" href="$cas__execute_8h.html#a8d818811bf466e466d2f7269d2905bcb" title="ux_oid_put" alt="" coords="404,259,489,285"/>
+<area shape="rect" id="node14" href="$db__object_8c.html#aa6194cb50fe2c57abe0aa3705a58f080" title="orp_api_get_object\l_resultset" alt="" coords="381,361,512,402"/>
+<area shape="rect" id="node18" href="$db__value__table_8c.html#a3e797b9fddfe5799aa3fcb4d0deae971" title="coerce_value_to_db\l_value" alt="" coords="377,478,516,519"/>
+<area shape="rect" id="node19" href="$db__value__table_8c.html#a0042d6e25a4d7434001d60c5dae40509" title="vbt_api_set_value" alt="" coords="383,544,510,571"/>
+</map>

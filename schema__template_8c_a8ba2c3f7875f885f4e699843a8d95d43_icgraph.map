@@ -1,0 +1,5 @@
+<map id="change_constraints_comment_partitioned_class" name="change_constraints_comment_partitioned_class">
+<area shape="rect" id="node2" href="$schema__template_8h.html#a2fe8b5ce60afba5681fc5f4e51490536" title="smt_change_constraint\l_comment" alt="" coords="241,23,399,65"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#afcf7ed75c00d62f9572625c130721e19" title="do_alter_index_rebuild" alt="" coords="455,5,605,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#aac7e83e571187b137070fed87a9b6191" title="do_alter_index_comment" alt="" coords="447,56,613,83"/>
+</map>

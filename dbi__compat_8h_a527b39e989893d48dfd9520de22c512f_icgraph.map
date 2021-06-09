@@ -1,0 +1,15 @@
+<map id="db_update_row_count_cache" name="db_update_row_count_cache">
+<area shape="rect" id="node2" href="$csql_8c.html#ad3f65a0ccb2951a16bf6b75d4958e5c0" title="csql_display_trace" alt="" coords="227,37,358,64"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a0f10de6a4a686a08a8f0d049c63d92c8" title="db_find_or_create_session" alt="" coords="204,151,381,177"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#a389f6f845b9917b7feb2af7d3fc538cb" title="do_commit" alt="" coords="249,232,336,259"/>
+<area shape="rect" id="node12" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="203,283,383,309"/>
+<area shape="rect" id="node13" href="$type__checking_8c.html#a7e95ac0522aada661a88c876786dddfa" title="pt_fold_const_expr" alt="" coords="450,333,582,360"/>
+<area shape="rect" id="node14" href="$db__vdb_8c.html#a675c946b518f653cb7235a7f62566beb" title="update_execution_values" alt="" coords="649,359,819,385"/>
+<area shape="rect" id="node3" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="431,5,601,32"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="447,56,585,83"/>
+<area shape="rect" id="node6" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="451,107,581,133"/>
+<area shape="rect" id="node7" href="$cas__execute_8h.html#a2bfc849a249d18d8e67ad6840558e742" title="ux_database_connect" alt="" coords="441,181,591,208"/>
+<area shape="rect" id="node9" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="465,232,567,259"/>
+<area shape="rect" id="node11" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="657,283,811,309"/>
+<area shape="rect" id="node10" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="867,275,1019,317"/>
+</map>

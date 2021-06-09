@@ -1,0 +1,9 @@
+<map id="bit64_set_trailing_bits" name="bit64_set_trailing_bits">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a1a84495d7e351a40e4168507bb0a2c7e" title="disk_check" alt="" coords="235,31,323,57"/>
+<area shape="rect" id="node5" href="$disk__manager_8h.html#af058a163af38b0f09b3d6274719110c1" title="disk_rv_redo_init_map" alt="" coords="203,81,355,108"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#ae0acee5571820bc2eeae07898a182086" title="disk_stab_set_bits\l_contiguous" alt="" coords="214,133,345,174"/>
+<area shape="rect" id="node8" href="$disk__manager_8c.html#a0635ea76ea0fa0bd9815c08f489a1694" title="disk_stab_unit_reserve" alt="" coords="201,199,357,225"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="429,5,576,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#ace20b0215551fade39404f63fbbcc932" title="xboot_check_db_consistency" alt="" coords="405,56,600,83"/>
+<area shape="rect" id="node7" href="$disk__manager_8c.html#ad67cba5035ba371ef155b71183c0431e" title="disk_stab_init" alt="" coords="451,140,554,167"/>
+</map>

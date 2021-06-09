@@ -1,0 +1,7 @@
+<map id="au_check_serial_authorization" name="au_check_serial_authorization">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a21188172805695aba5e22265472fd774" title="dbt_drop_attribute" alt="" coords="283,13,409,39"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="293,63,399,90"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a4b5c1edbe844b65f680fa8eceaa5683e" title="do_change_att_schema_only" alt="" coords="251,114,441,141"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a531bed70bff45e7b90d74cac4950f562" title="do_drop_serial" alt="" coords="293,165,399,191"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="489,5,631,47"/>
+</map>

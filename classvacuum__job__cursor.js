@@ -1,0 +1,25 @@
+var classvacuum__job__cursor =
+[
+    [ "vacuum_job_cursor", "classvacuum__job__cursor.html#a8193a9c104d69f9aa8c80e256b006fe3", null ],
+    [ "~vacuum_job_cursor", "classvacuum__job__cursor.html#a69c00500e48ee5f6af90bb48f0c2cf78", null ],
+    [ "change_blockid", "classvacuum__job__cursor.html#ae2063f86999debed8e9843c61363c7cc", null ],
+    [ "force_data_update", "classvacuum__job__cursor.html#a7748893163390231568a44a5e48f7f8a", null ],
+    [ "get_blockid", "classvacuum__job__cursor.html#a1f8ec8b2a5c83096d1a43a4997fa6bca", null ],
+    [ "get_current_entry", "classvacuum__job__cursor.html#a4e1e157d130e81561775cd5e2b4857be", null ],
+    [ "get_index", "classvacuum__job__cursor.html#a3641111a50dcd88101e6a71f7ffeb872", null ],
+    [ "get_page", "classvacuum__job__cursor.html#a9409394c55a384bba4b3cfc0f3247999", null ],
+    [ "get_page_vpid", "classvacuum__job__cursor.html#a9a37fa96d8569cbaecd9342d1cd8a85f", null ],
+    [ "increment_blockid", "classvacuum__job__cursor.html#a8e2f7667d9364ff5a8a19103ca525409", null ],
+    [ "is_loaded", "classvacuum__job__cursor.html#a42e194fdfd228bee532b58f8985e696f", null ],
+    [ "is_valid", "classvacuum__job__cursor.html#a37fb616dd11b169063eaedb11f602e73", null ],
+    [ "load", "classvacuum__job__cursor.html#a47b2be758fde778ce365d502c86327c3", null ],
+    [ "readjust_to_vacuum_data_changes", "classvacuum__job__cursor.html#ac9ff563c52cfea6e792b3de2ef023cb3", null ],
+    [ "reload", "classvacuum__job__cursor.html#a3c3636b2a49928f529ce957a15f2aa52", null ],
+    [ "search", "classvacuum__job__cursor.html#ac4615fd54c98f73c42e4f2c759fb8a0a", null ],
+    [ "set_on_vacuum_data_start", "classvacuum__job__cursor.html#a297a5d58604bd317914a0fb917d2722d", null ],
+    [ "start_job_on_current_entry", "classvacuum__job__cursor.html#a46c8539ef4fd7bc864964cc44db7f9e1", null ],
+    [ "unload", "classvacuum__job__cursor.html#a83f2a9a0df6b33fdc4384fd50ef2d1ec", null ],
+    [ "m_blockid", "classvacuum__job__cursor.html#a2fe9c8fc9a64bd675451b025752a31e8", null ],
+    [ "m_index", "classvacuum__job__cursor.html#a04ec183324c0804e7ac509c771eca711", null ],
+    [ "m_page", "classvacuum__job__cursor.html#a8221bc1a6009db887a77342452ec3f95", null ]
+];

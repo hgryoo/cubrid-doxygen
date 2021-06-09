@@ -1,0 +1,8 @@
+<map id="src/optimizer/query_planner.h" name="src/optimizer/query_planner.h">
+<area shape="rect" id="node2" href="$optimizer_8h.html" title="optimizer.h" alt="" coords="245,169,331,196"/>
+<area shape="rect" id="node11" href="$query__bitset_8h.html" title="query_bitset.h" alt="" coords="520,95,624,121"/>
+<area shape="rect" id="node5" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="30,244,146,271"/>
+<area shape="rect" id="node6" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="453,244,568,271"/>
+<area shape="rect" id="node9" href="$parser_8h.html" title="parser.h" alt="" coords="221,244,291,271"/>
+<area shape="rect" id="node10" href="$release__string_8h.html" title="release_string.h" alt="" coords="315,244,429,271"/>
+</map>

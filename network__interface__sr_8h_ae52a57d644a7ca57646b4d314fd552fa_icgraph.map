@@ -1,0 +1,6 @@
+<map id="xlog_send_log_pages_to_client" name="xlog_send_log_pages_to_client">
+<area shape="rect" id="node2" href="$log__writer_8h.html#af1e1368d8e63a233e503b44c7cad4f4e" title="logwr_log_ha_filestat\l_to_string" alt="" coords="200,57,344,98"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a61df29370069d0a128f78c566b8e445a" title="la_print_log_header" alt="" coords="400,5,535,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a53d35f511b18f8af20ed5eb09c286c73" title="log_active_log_header\l_next_scan" alt="" coords="392,57,543,98"/>
+<area shape="rect" id="node5" href="$structlogwr__info.html#a39686f4651dd3d00395255c7cbd90fc4" title="logwr_info::logwr_info" alt="" coords="393,123,541,149"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="logtb_get_trans_info" name="logtb_get_trans_info">
+<area shape="rect" id="node2" href="$csql__session_8c.html#af8f3242121c0ddbe86a4197b02fcda0a" title="csql_killtran" alt="" coords="192,5,283,32"/>
+<area shape="rect" id="node4" href="$utility_8h.html#a8acda0b283cf7014133e9e12757d8402" title="killtran" alt="" coords="207,56,267,83"/>
+<area shape="rect" id="node5" href="$utility_8h.html#a0eb41ee38437e4ab4ff8b07234d88b2b" title="tranlist" alt="" coords="207,107,268,133"/>
+<area shape="rect" id="node3" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="331,5,481,32"/>
+</map>

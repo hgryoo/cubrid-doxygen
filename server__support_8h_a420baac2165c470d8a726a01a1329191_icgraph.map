@@ -1,0 +1,21 @@
+<map id="css_ha_server_state" name="css_ha_server_state">
+<area shape="rect" id="node2" href="$utility_8h.html#a17e5e9027694b5ebcafb93de6b62544f" title="checksumdb" alt="" coords="648,27,744,53"/>
+<area shape="rect" id="node3" href="$checksumdb_8c.html#ad26a713bc1aa88a9ca1e61ef21215c84" title="chksum_report_header" alt="" coords="207,91,362,117"/>
+<area shape="rect" id="node5" href="$server__support_8c.html#ae58c62456655b0400a42763aa98b0232" title="css_process_change\l_server_ha_mode_request" alt="" coords="197,167,372,209"/>
+<area shape="rect" id="node7" href="$log__comm_8h.html#ae3b5771bd95aa37a187f3a6e0cb2b32d" title="log_does_allow_replication" alt="" coords="196,245,373,272"/>
+<area shape="rect" id="node15" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="201,297,369,338"/>
+<area shape="rect" id="node16" href="$log__writer_8h.html#af1e1368d8e63a233e503b44c7cad4f4e" title="logwr_log_ha_filestat\l_to_string" alt="" coords="213,362,357,403"/>
+<area shape="rect" id="node17" href="$network__interface__sr_8h.html#ab275afe2b2e11383cae924c9b34cd50f" title="sboot_change_ha_mode" alt="" coords="203,428,366,455"/>
+<area shape="rect" id="node18" href="$network__interface__sr_8c.html#a4515b9cb418e3cde07738c0d56c29c12" title="server_capabilities" alt="" coords="219,479,350,505"/>
+<area shape="rect" id="node19" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="213,529,356,556"/>
+<area shape="rect" id="node20" href="$transaction__sr_8c.html#adea9113696646ab1a88c8e0e348180fa" title="xtran_lock_rep_read" alt="" coords="215,580,354,607"/>
+<area shape="rect" id="node4" href="$checksumdb_8c.html#a16378b3360c0ce7070d1503e4803aac9" title="chksum_report" alt="" coords="457,52,565,79"/>
+<area shape="rect" id="node6" href="$server__support_8c.html#a2934109a790ef10943951a8dd1a2f63c" title="css_process_master\l_request" alt="" coords="439,103,582,145"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#a09892fdeb1d0a25ac378217c002187da" title="tran_server_commit" alt="" coords="442,169,579,196"/>
+<area shape="rect" id="node9" href="$network__interface__cl_8h.html#a95c98385d6b15933fd29c45f0569e45d" title="tran_server_abort" alt="" coords="449,220,572,247"/>
+<area shape="rect" id="node10" href="$network__interface__sr_8h.html#ae6ae00caaccf6fea34a0d2fc9ff1b1b7" title="srepl_set_info" alt="" coords="459,271,562,297"/>
+<area shape="rect" id="node11" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="445,321,577,348"/>
+<area shape="rect" id="node12" href="$execute__statement_8h.html#a7678026f301f44b98212d64a0ce6ea1e" title="do_replicate_statement" alt="" coords="432,372,589,399"/>
+<area shape="rect" id="node13" href="$query__executor_8c.html#acd4533cedf2007a5f83ab33c5281c081" title="qexec_execute_selupd_list" alt="" coords="421,423,600,449"/>
+<area shape="rect" id="node14" href="$serial_8c.html#aedd39ef4c027b8c4568faa44f288ea1a" title="serial_update_serial\l_object" alt="" coords="442,474,579,515"/>
+</map>

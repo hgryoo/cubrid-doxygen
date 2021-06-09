@@ -1,0 +1,5 @@
+<map id="send_for_all_stats" name="send_for_all_stats">
+<area shape="rect" id="node2" href="$commdb_8c.html#af97222c64c1c0f6738986e59052f23eb" title="process_status_query" alt="" coords="181,5,332,32"/>
+<area shape="rect" id="node3" href="$commdb_8c.html#a833a236806e3150efcf9eafa31b591df" title="process_batch_command" alt="" coords="591,5,761,32"/>
+<area shape="rect" id="node4" href="$commdb_8c.html#abe9a63694ef83ea054f1bdcc4883654b" title="process_server_info_pid" alt="" coords="380,31,543,57"/>
+</map>

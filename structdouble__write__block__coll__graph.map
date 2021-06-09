@@ -1,0 +1,9 @@
+<map id="double_write_block" name="double_write_block">
+<area shape="rect" id="node2" href="$structdouble__write__slot.html" title="{double_write_slot\n|+ position_in_block\l+ block_no\l|}" alt="" coords="102,351,237,443"/>
+<area shape="rect" id="node3" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="5,79,77,171"/>
+<area shape="rect" id="node4" href="$structfileio__page.html" title="{fileio_page\n|+ page\l|}" alt="" coords="102,86,186,163"/>
+<area shape="rect" id="node5" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="210,5,315,244"/>
+<area shape="rect" id="node6" href="$structdouble__write__wait__queue.html" title="{double_write_wait_queue\n|+ count\l+ free_count\l|}" alt="" coords="288,351,456,443"/>
+<area shape="rect" id="node7" href="$structdouble__write__wait__queue__entry.html" title="{double_write_wait_queue\l_entry\n|+ data\l|}" alt="" coords="340,79,508,171"/>
+<area shape="rect" id="node8" href="$structflush__volume__info.html" title="{flush_volume_info\n|+ vdes\l+ num_pages\l+ all_pages_written\l+ flushed_status\l|}" alt="" coords="481,336,615,457"/>
+</map>

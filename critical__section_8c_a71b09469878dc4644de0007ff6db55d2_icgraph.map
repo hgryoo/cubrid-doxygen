@@ -1,0 +1,8 @@
+<map id="sync_initialize_sync_stats_chunk" name="sync_initialize_sync_stats_chunk">
+<area shape="rect" id="node2" href="$critical__section_8c.html#ab56c395bf9675d2e919a8ff2fbe4769b" title="sync_allocate_sync\l_stats_chunk" alt="" coords="193,5,330,47"/>
+<area shape="rect" id="node4" href="$critical__section_8h.html#a3b11575964658f2c50ec0355b9287c37" title="sync_finalize_sync\l_stats" alt="" coords="195,136,328,177"/>
+<area shape="rect" id="node7" href="$critical__section_8h.html#a4c87dfc462071afd09e37c8e04decf7b" title="sync_initialize_sync\l_stats" alt="" coords="192,71,331,112"/>
+<area shape="rect" id="node3" href="$critical__section_8c.html#a4c5ca7d5427a37dfe5549c2886b68d5e" title="sync_allocate_sync\l_stats" alt="" coords="379,5,516,47"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="389,139,505,166"/>
+<area shape="rect" id="node6" href="$critical__section_8h.html#ac7e9dfe45fd2766bc49bfede3bf967da" title="csect_name_at" alt="" coords="392,82,503,109"/>
+</map>

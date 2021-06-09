@@ -1,0 +1,7 @@
+<map id="make_template" name="make_template">
+<area shape="rect" id="node2" href="$object__template_8h.html#a0cc5694efb93fd3a5b1a738166c49ef1" title="obt_def_object" alt="" coords="166,56,273,83"/>
+<area shape="rect" id="node6" href="$object__template_8h.html#ae3a1af80f0007cc038db1ae5d4b48d0b" title="obt_edit_object" alt="" coords="164,107,275,133"/>
+<area shape="rect" id="node3" href="$db__obj_8c.html#ae00baa416bdc183833ccecff241fc143" title="dbt_create_object_internal" alt="" coords="323,5,497,32"/>
+<area shape="rect" id="node4" href="$object__accessor_8h.html#a03cdf4cc2419ff731170d657eb55c3c3" title="obj_create" alt="" coords="369,56,451,83"/>
+<area shape="rect" id="node5" href="$object__accessor_8h.html#a2a001a3bd5f060004b9a1e9d9bbc4308" title="obj_copy" alt="" coords="373,107,447,133"/>
+</map>

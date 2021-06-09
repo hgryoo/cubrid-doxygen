@@ -1,0 +1,7 @@
+<map id="dwb_write_block" name="dwb_write_block">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#a9990a5604abb5bdf77d643cd0023fe5b" title="dwb_flush_block" alt="" coords="190,56,309,83"/>
+<area shape="rect" id="node6" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="172,107,327,149"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#ab2537553c0bc21020c4a4003916d89a5" title="dwb_add_page" alt="" coords="395,5,505,32"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8c.html#a371f8a6887e91534959cf058cfcf56d8" title="dwb_flush_next_block" alt="" coords="375,56,525,83"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8c.html#aa1c921b3d5e5877187b7b9207051e839" title="dwb_starts_structure\l_modification" alt="" coords="378,107,522,149"/>
+</map>

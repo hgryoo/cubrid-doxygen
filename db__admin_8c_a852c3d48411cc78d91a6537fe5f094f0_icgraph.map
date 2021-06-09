@@ -1,0 +1,7 @@
+<map id="db_add_host_status" name="db_add_host_status">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#aad9cc7a087e5c5fcafbffc398ac8ea1a" title="db_set_connected_host\l_status" alt="" coords="192,5,352,47"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#ad73f79bc41f01dbac2cd3300ae6e2f1a" title="db_set_host_status" alt="" coords="204,71,340,98"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="409,17,563,43"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="620,42,749,69"/>
+<area shape="rect" id="node6" href="$network__cl_8c.html#a9e79325f1639b867f33b62f68b12a2be" title="check_server_capabilities" alt="" coords="400,118,572,145"/>
+</map>

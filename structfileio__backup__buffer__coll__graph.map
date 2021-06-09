@@ -1,0 +1,5 @@
+<map id="fileio_backup_buffer" name="fileio_backup_buffer">
+<area shape="rect" id="node2" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="99,5,205,244"/>
+<area shape="rect" id="node3" href="$structfileio__backup__header.html" title="{fileio_backup_header\n|+ iopageid\l+ magic\l+ db_compatibility\l+ bk_hdr_version\l+ db_creation\l+ start_time\l+ end_time\l+ db_release\l+ db_fullname\l+ db_iopagesize\l+ level\l+ unit_num\l+ bkup_iosize\l+ db_prec_bkvolname\l+ db_next_bkvolname\l+ bkpagesize\l+ zip_method\l+ zip_level\l+ skip_activelog\l|}" alt="" coords="77,447,227,788"/>
+<area shape="rect" id="node4" href="$structfileio__backup__record__info.html" title="{fileio_backup_record_info\n|+ at_time\l|}" alt="" coords="246,307,415,384"/>
+</map>

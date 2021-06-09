@@ -1,0 +1,6 @@
+<map id="ws_add_to_repl_obj_list" name="ws_add_to_repl_obj_list">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a0277fb5bec1fa146b673313393395928" title="la_repl_add_object" alt="" coords="215,56,345,83"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a18990ec75cf521042876913c1a3c187e" title="la_apply_delete_log" alt="" coords="395,5,531,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a2d40a24d77f7d73ad8df508c20a5dbdb" title="la_apply_update_log" alt="" coords="393,56,533,83"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#aae222bafc8147044057c499295141b9b" title="la_apply_insert_log" alt="" coords="397,107,530,133"/>
+</map>

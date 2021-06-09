@@ -1,0 +1,13 @@
+<map id="qfile_list_id" name="qfile_list_id">
+<area shape="rect" id="node2" href="$structqmgr__temp__file.html" title="{qmgr_temp_file\n|+ temp_file_type\l+ membuf_last\l+ membuf\l+ membuf_npages\l+ membuf_type\l+ preserved\l+ tde_encrypted\l|}" alt="" coords="126,649,257,814"/>
+<area shape="rect" id="node3" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="53,365,114,457"/>
+<area shape="rect" id="node4" href="$structsort__list.html" title="{sort_list\n|+ del_id\l+ s_order\l+ s_nulls\l|}" alt="" coords="342,678,419,785"/>
+<area shape="rect" id="node5" href="$structqfile__tuple__value__position.html" title="{qfile_tuple_value_position\n|+ pos_no\l|}" alt="" coords="306,373,477,450"/>
+<area shape="rect" id="node6" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="398,5,531,229"/>
+<area shape="rect" id="node12" href="$structqfile__tuple__value__type__list.html" title="{qfile_tuple_value_type_list\n|+ type_cnt\l|}" alt="" coords="461,540,636,617"/>
+<area shape="rect" id="node7" href="$structqfile__tuple__descriptor.html" title="{qfile_tuple_descriptor\n|+ item\l+ item_size\l+ tpl_size\l+ f_cnt\l+ clear_f_val_at_clone\l_decache\l+ sortkey_info\l+ sort_rec\l|}" alt="" coords="645,641,799,821"/>
+<area shape="rect" id="node8" href="$structqfile__list__merge__info.html" title="{qfile_list_merge_info\n|+ join_type\l+ single_fetch\l+ ls_column_cnt\l+ ls_pos_cnt\l+ ls_outer_column\l+ ls_outer_unique\l+ ls_inner_column\l+ ls_inner_unique\l+ ls_outer_inner_list\l+ ls_pos_list\l|}" alt="" coords="593,307,734,516"/>
+<area shape="rect" id="node9" href="$structqfile__tuple__record.html" title="{qfile_tuple_record\n|+ tpl\l+ size\l|}" alt="" coords="757,365,881,457"/>
+<area shape="rect" id="node10" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="905,373,1003,450"/>
+<area shape="rect" id="node11" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="823,685,895,777"/>
+</map>

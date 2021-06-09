@@ -1,0 +1,11 @@
+<map id="db_seq_copy" name="db_seq_copy">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#ad83c26cf50e690ff017b73dc83d62521" title="adjust_partition_range" alt="" coords="171,31,320,57"/>
+<area shape="rect" id="node6" href="$class__object_8h.html#af0dd974339da42f30300b8a1551df7df" title="classobj_copy_partition_info" alt="" coords="152,81,339,108"/>
+<area shape="rect" id="node7" href="$transform__cl_8c.html#a51a24d6eb2769d2e41ed09add45c7639" title="disk_to_partition_info" alt="" coords="173,132,318,159"/>
+<area shape="rect" id="node8" href="$object__representation__sr_8h.html#a1dc8b183a1665d76dc8cc0523413dbee" title="or_class_get_partition_info" alt="" coords="157,183,334,209"/>
+<area shape="rect" id="node9" href="$partition_8c.html#af1f408342cae40a521e7bb7314cb6b80" title="partition_pruning_context\l_to_cache_entry" alt="" coords="162,234,329,275"/>
+<area shape="rect" id="node10" href="$execute__schema_8c.html#a9f2af464afc304581eafc189be1b9a1b" title="pt_node_to_partition_info" alt="" coords="162,300,329,327"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a71e57012993f98148b4b9bb1236f7daa" title="do_create_partition" alt="" coords="404,191,536,217"/>
+<area shape="rect" id="node4" href="$execute__schema_8h.html#a8d9a955e21fdad284b4980448aba4ce8" title="do_drop_partition_list" alt="" coords="397,5,543,32"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#aedeb2a4d7196782cc611f23eb45aa388" title="do_promote_partition_list" alt="" coords="387,56,553,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="logddl_is_ddl_type" name="logddl_is_ddl_type">
+<area shape="rect" id="node2" href="$cas__function_8c.html#ab5f4c1fb95136b9d14627d260c8240c2" title="logddl_is_exist_ddl_stmt" alt="" coords="183,31,348,57"/>
+<area shape="rect" id="node4" href="$ddl__log_8h.html#a8e09d423d4840e668be30563a15bcb16" title="logddl_set_stmt_type" alt="" coords="192,107,339,133"/>
+<area shape="rect" id="node8" href="$ddl__log_8h.html#aa51e001b3d23b829e32268a8de2754d3" title="logddl_write" alt="" coords="220,157,311,184"/>
+<area shape="rect" id="node9" href="$ddl__log_8h.html#adc594c621b3fd1fce3dd7d46df9a79b7" title="logddl_write_end" alt="" coords="404,259,523,285"/>
+<area shape="rect" id="node3" href="$cas__function_8c.html#a59abc316a41a5e6a8c2bdba5a430cff8" title="fn_execute_internal" alt="" coords="396,5,531,32"/>
+<area shape="rect" id="node5" href="$cas__execute_8h.html#aee0aa1d2154b6630cb99732f71ad118a" title="ux_prepare" alt="" coords="420,56,507,83"/>
+<area shape="rect" id="node6" href="$cas__execute_8h.html#a58deea8c335da5c20867f4664eeb7e5f" title="ux_execute_batch" alt="" coords="600,157,728,184"/>
+<area shape="rect" id="node7" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="579,233,749,260"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ws_area_init" name="ws_area_init">
+<area shape="rect" id="node2" href="$work__space_8h.html#a7f356c42f2ee46cc4ff3f8cd9a06f0f7" title="ws_init" alt="" coords="148,31,211,57"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="259,5,397,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="263,56,393,83"/>
+</map>

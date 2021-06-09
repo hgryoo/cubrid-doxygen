@@ -1,0 +1,11 @@
+<map id="cubperf::statset_definition::increment" name="cubperf::statset_definition::increment">
+<area shape="rect" id="node2" href="$classcubthread_1_1waiter.html#ad99b16552811ee594655a522c16bc6b0" title="cubthread::waiter::\lgoto_sleep" alt="" coords="225,75,356,116"/>
+<area shape="rect" id="node4" href="$classcubthread_1_1waiter.html#ad54f004c92b5f8a6e96f1a34d04301e0" title="cubthread::waiter::\lwait_for" alt="" coords="418,5,549,47"/>
+<area shape="rect" id="node5" href="$classcubthread_1_1waiter.html#aaf166f1f644acb9ae61eabe82c51698e" title="cubthread::waiter::\lwait_until" alt="" coords="418,136,549,177"/>
+<area shape="rect" id="node6" href="$classcubthread_1_1looper.html#a6f68964aab5784933ac95ee7d68eb6bc" title="cubthread::looper::\lreset" alt="" coords="225,201,356,243"/>
+<area shape="rect" id="node9" href="$classcubthread_1_1waiter.html#ad41ca8db81b926287b942534394acca4" title="cubthread::waiter::\lwakeup" alt="" coords="225,299,356,340"/>
+<area shape="rect" id="node3" href="$classcubthread_1_1waiter.html#a0c9ff87ab6b8c4caadefe1fb14f54b53" title="cubthread::waiter::\lwait_inf" alt="" coords="418,71,549,112"/>
+<area shape="rect" id="node7" href="$classcubthread_1_1daemon.html#a3e1edf7c355bb37fff985f376a5349ff" title="cubthread::daemon::\lreset_looper" alt="" coords="413,201,554,243"/>
+<area shape="rect" id="node8" href="$classcubthread_1_1looper.html#a40f4e82ada4e9b5bd22455b936144f4f" title="cubthread::looper::\lsetup_increasing_waits" alt="" coords="404,267,563,308"/>
+<area shape="rect" id="node10" href="$classcubthread_1_1daemon.html#a0c85191bbbfc161467c3bab4ea99c401" title="cubthread::daemon::\lwakeup" alt="" coords="413,332,554,373"/>
+</map>

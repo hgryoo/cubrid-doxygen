@@ -1,0 +1,3 @@
+<map id="cubthread::lockfree_hashmap&lt; Key, T &gt;::iterator" name="cubthread::lockfree_hashmap&lt; Key, T &gt;::iterator">
+<area shape="rect" id="node2" href="$classcubthread_1_1lockfree__hashmap.html" title="{cubthread::lockfree\l_hashmap\&lt; Key, T \&gt;\n|&#45; m_old_hash\l&#45; m_new_hash\l&#45; m_type\l&#45; m_entry_idx\l|+ lockfree_hashmap()\l+ init()\l+ init_as_old()\l+ init_as_new()\l+ destroy()\l+ find()\l+ find_or_insert()\l+ insert()\l+ insert_given()\l+ erase()\l+ erase_locked()\l+ unlock()\l+ clear()\l+ freelist_claim()\l+ freelist_retire()\l+ start_tran()\l+ end_tran()\l+ get_size()\l+ get_element_count()\l&#45; is_old_type()\l&#45; get_tran_entry()\l}" alt="" coords="6,5,158,435"/>
+</map>

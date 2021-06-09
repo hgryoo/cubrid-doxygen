@@ -1,0 +1,21 @@
+<map id="db_json_get_type_of_value" name="db_json_get_type_of_value">
+<area shape="rect" id="node2" href="$db__json_8cpp.html#a18000ce7211c6e14e2257f3af1ddeffc" title="db_json_array_append_func" alt="" coords="213,17,397,43"/>
+<area shape="rect" id="node4" href="$db__json_8cpp.html#a5154135ca55e5543ef4b7ec33b06dba5" title="db_json_copy_string\l_from_value" alt="" coords="235,71,376,112"/>
+<area shape="rect" id="node6" href="$db__json_8cpp.html#a8000f8c827a45c2929db569de8bf6b5c" title="db_json_get_bigint\l_from_value" alt="" coords="240,136,371,177"/>
+<area shape="rect" id="node8" href="$db__json_8cpp.html#ad5ba470c55a312471460473458b9b555" title="db_json_value_is_contained\l_in_doc_helper" alt="" coords="463,253,648,295"/>
+<area shape="rect" id="node9" href="$db__json_8cpp.html#a8d686d328d69e57c43d0ccb7be56e9d7" title="db_json_get_bool_from\l_value" alt="" coords="227,436,383,477"/>
+<area shape="rect" id="node12" href="$db__json_8cpp.html#aa3cfd3f1e330fa1d6690b3d27a46ba99" title="db_json_get_double\l_from_value" alt="" coords="237,371,374,412"/>
+<area shape="rect" id="node14" href="$db__json_8cpp.html#a385aa56d0026c162d0608ca7168d8ae8" title="db_json_get_int_from\l_value" alt="" coords="232,253,379,295"/>
+<area shape="rect" id="node15" href="$db__json_8cpp.html#aed200cbcd22bc17e11e800db7e339d9d" title="db_json_get_string\l_from_value" alt="" coords="240,501,371,543"/>
+<area shape="rect" id="node16" href="$db__json_8cpp.html#ae1e3a96bce0ab9903a18da954844e1d8" title="db_json_get_type" alt="" coords="243,567,367,594"/>
+<area shape="rect" id="node17" href="$db__json_8cpp.html#a53ad7fb4ee9171398d24faad97f64ea0" title="db_json_get_type_as_str" alt="" coords="222,618,389,645"/>
+<area shape="rect" id="node18" href="$db__json_8cpp.html#aa2908c35a7123686c657aef684cda6db" title="db_json_insert_func" alt="" coords="236,669,375,695"/>
+<area shape="rect" id="node19" href="$db__json_8cpp.html#aec2de95a1636d698076c0e1782b50493" title="db_json_set_func" alt="" coords="243,719,367,746"/>
+<area shape="rect" id="node20" href="$db__json_8cpp.html#a2b9ab72e5b1e5c8baf430fc2090208e6" title="db_json_value_has_numeric_type" alt="" coords="196,319,415,346"/>
+<area shape="rect" id="node3" href="$arithmetic_8h.html#ab0934308cbf5ad9e2c6d5dcb70f9049e" title="db_evaluate_json_array\l_append" alt="" coords="476,5,635,47"/>
+<area shape="rect" id="node5" href="$db__json_8cpp.html#a02069a73c062af281a9b2f83ff0fd127" title="db_json_copy_string\l_from_document" alt="" coords="485,71,626,112"/>
+<area shape="rect" id="node7" href="$db__json_8cpp.html#acd204abdc604435ab3877e93c0a4fa3f" title="db_json_get_bigint\l_from_document" alt="" coords="490,136,621,177"/>
+<area shape="rect" id="node10" href="$db__json_8cpp.html#a2e6f1a108d54eb2f50eef156cc70df4a" title="db_json_get_bool_as\l_str_from_value" alt="" coords="483,436,627,477"/>
+<area shape="rect" id="node11" href="$db__json_8cpp.html#aec4c5a24cf3ba885800e061bd668eadc" title="db_json_get_bool_from\l_document" alt="" coords="477,501,633,543"/>
+<area shape="rect" id="node13" href="$db__json_8cpp.html#a22c9a6d4d5db98f18fc687246d2346e0" title="db_json_get_double\l_from_document" alt="" coords="487,371,624,412"/>
+</map>

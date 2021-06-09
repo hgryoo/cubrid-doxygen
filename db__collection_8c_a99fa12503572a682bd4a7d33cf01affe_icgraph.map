@@ -1,0 +1,6 @@
+<map id="apif_collection_create" name="apif_collection_create">
+<area shape="rect" id="node2" href="$db__stub_8h.html#ad43e04bfaafa89279ecbd01de52351f0" title="api_collection_create" alt="" coords="201,5,345,32"/>
+<area shape="rect" id="node4" href="$db__stub_8h.html#aaf95a2759091f1969373136514d8c8b0" title="api_collection_create\l_from_db_value" alt="" coords="201,57,345,98"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a9449cf872d07cc2ed918630c8dad2c00" title="ci_collection_new_impl" alt="" coords="393,5,549,32"/>
+<area shape="rect" id="node5" href="$db__value__table_8c.html#a2bb7ca4b167371b9b488703484bb2a2c" title="db_value_to_value" alt="" coords="406,64,537,91"/>
+</map>

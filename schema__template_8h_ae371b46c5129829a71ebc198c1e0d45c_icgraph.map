@@ -1,0 +1,21 @@
+<map id="smt_add_attribute_any" name="smt_add_attribute_any">
+<area shape="rect" id="node2" href="$db__class_8c.html#a1b54410ee48b0433ee25364819e2c10e" title="db_add_attribute_internal" alt="" coords="208,81,375,108"/>
+<area shape="rect" id="node6" href="$schema__template_8h.html#ab5727173323d93c8bb90ab3ee7e56805" title="smt_add_attribute" alt="" coords="228,436,355,463"/>
+<area shape="rect" id="node20" href="$schema__template_8h.html#a4c7751918606b2b196556812323f9028" title="smt_add_attribute_w\l_dflt_w_order" alt="" coords="220,487,363,529"/>
+<area shape="rect" id="node3" href="$db__class_8c.html#a29910e032892dec4bc1515705b3e5209" title="db_add_attribute" alt="" coords="467,5,586,32"/>
+<area shape="rect" id="node4" href="$db__class_8c.html#abc6afdd2f9609305ea1b7c0c41394f40" title="db_add_class_attribute" alt="" coords="449,56,605,83"/>
+<area shape="rect" id="node5" href="$db__class_8c.html#a1d151af016f75d33744ffb24c2516787" title="db_add_shared_attribute" alt="" coords="445,107,609,133"/>
+<area shape="rect" id="node7" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="488,157,565,184"/>
+<area shape="rect" id="node8" href="$boot__cl_8c.html#a68ba90128105b5f4d18841f2a98a9701" title="boot_define_attribute" alt="" coords="455,208,598,235"/>
+<area shape="rect" id="node9" href="$boot__cl_8c.html#a5c6674e8b60ccaa9ef47fd6132f3728d" title="boot_define_charsets" alt="" coords="453,259,600,285"/>
+<area shape="rect" id="node10" href="$boot__cl_8c.html#ae2a0ceee20e63251e74393a1d95c4e17" title="boot_define_class" alt="" coords="463,309,590,336"/>
+<area shape="rect" id="node11" href="$boot__cl_8c.html#a5fb7620bcb9286c9ee32992ed66a547b" title="boot_define_class_authorization" alt="" coords="423,360,631,387"/>
+<area shape="rect" id="node12" href="$boot__cl_8c.html#a131780da3b05f5e039e4501df425c2ab" title="boot_define_collations" alt="" coords="451,411,602,437"/>
+<area shape="rect" id="node13" href="$boot__cl_8c.html#a5b066cccbb5ecc06a589115193fd0a49" title="boot_define_data_type" alt="" coords="450,461,603,488"/>
+<area shape="rect" id="node14" href="$boot__cl_8c.html#affe798c51f4f6ca1bd2062dab54ead20" title="boot_define_domain" alt="" coords="457,512,596,539"/>
+<area shape="rect" id="node15" href="$boot__cl_8c.html#afc3f9ea83d4f2eb3c5797467ffc144fc" title="boot_define_dual" alt="" coords="467,563,587,589"/>
+<area shape="rect" id="node16" href="$boot__cl_8c.html#a2fdc11c1efabe015f867573bcbff09af" title="boot_define_ha_apply_info" alt="" coords="439,613,615,640"/>
+<area shape="rect" id="node17" href="$boot__cl_8c.html#a1b89e2e56dc7fe2df053b5b7019d9cb1" title="boot_define_index" alt="" coords="463,664,590,691"/>
+<area shape="rect" id="node18" href="$boot__cl_8c.html#ae6b727d775eacfd4316db0af1a256b97" title="boot_define_index_key" alt="" coords="449,715,604,741"/>
+<area shape="rect" id="node19" href="$boot__cl_8c.html#a01de8cfd395639d0eeb82dcc64f59062" title="boot_define_meth_argument" alt="" coords="433,765,620,792"/>
+</map>

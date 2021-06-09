@@ -1,0 +1,21 @@
+<map id="tran_commit" name="tran_commit">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="367,5,506,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="372,224,501,251"/>
+<area shape="rect" id="node10" href="$boot__cl_8h.html#aa7beb3207bb2b041cfbaf347ea2bf51a" title="boot_shutdown_client" alt="" coords="157,144,305,171"/>
+<area shape="rect" id="node14" href="$db__stub_8c.html#aa39d14f1ff60fe1a21729c84eccfa1b6" title="conn_end_tran" alt="" coords="178,325,285,352"/>
+<area shape="rect" id="node15" href="$dbi__compat_8h.html#a752e2863d33ed743b5957e92f1114494" title="db_commit_transaction" alt="" coords="559,275,716,301"/>
+<area shape="rect" id="node19" href="$execute__statement_8h.html#a389f6f845b9917b7feb2af7d3fc538cb" title="do_commit" alt="" coords="188,376,275,403"/>
+<area shape="rect" id="node20" href="$shard__proxy__io_8h.html#a6043598e8bb6e16bf21d9edd1118c4f4" title="proxy_io_make_end_tran\l_request" alt="" coords="148,451,315,493"/>
+<area shape="rect" id="node3" href="$db__admin_8c.html#acd0f03a64561e4bf469d557cd751a631" title="db_init" alt="" coords="607,5,667,32"/>
+<area shape="rect" id="node5" href="$db__stub_8c.html#a77bd95c7f71d0f419d0f69a3090c4836" title="conn_restart_client" alt="" coords="571,173,703,200"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a4f475937ff6abf40ab472a149d37ae11" title="db_restart" alt="" coords="597,224,677,251"/>
+<area shape="rect" id="node7" href="$utility_8h.html#a6eee0780c64ebd6cc83ede414f3b89c8" title="addvoldb" alt="" coords="812,173,887,200"/>
+<area shape="rect" id="node8" href="$utility_8h.html#acdc7722a7a0cb7dc07e151d7b82d0c15" title="backupdb" alt="" coords="810,224,889,251"/>
+<area shape="rect" id="node9" href="$utility_8h.html#ac06f1222f77817f8a2c5cec94152102b" title="checkdb" alt="" coords="814,123,885,149"/>
+<area shape="rect" id="node11" href="$boot__cl_8c.html#aad79151cb08126366c53b243fbccafbb" title="boot_shutdown_client\l_at_exit" alt="" coords="363,107,511,149"/>
+<area shape="rect" id="node12" href="$db__stub_8c.html#a316de5360d359d3b0fca32c74e4cc358" title="ci_conn_close_impl" alt="" coords="369,173,505,200"/>
+<area shape="rect" id="node13" href="$dbi__compat_8h.html#a760ba78fe8b25f4961aaff8824eafacb" title="db_shutdown" alt="" coords="588,123,687,149"/>
+<area shape="rect" id="node16" href="$load__sa__loader_8cpp.html#a0726e05a448539f3433a6387bdac7e6f" title="check_commit" alt="" coords="796,275,903,301"/>
+<area shape="rect" id="node17" href="$checksumdb_8c.html#ad4cb41f62026f0fca9925145ca28a326" title="chksum_drop_and_create\l_checksum_table" alt="" coords="764,326,935,367"/>
+<area shape="rect" id="node18" href="$checksumdb_8c.html#afe70c040b8b7d07321e72445770b3f39" title="chksum_start" alt="" coords="799,392,900,419"/>
+</map>

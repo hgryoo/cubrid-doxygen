@@ -1,0 +1,7 @@
+<map id="vacuum_heap_page" name="vacuum_heap_page">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a88cafd05abdb0910752e3eeeed9b1856" title="heap_vacuum_all_objects" alt="" coords="192,71,364,98"/>
+<area shape="rect" id="node5" href="$vacuum_8c.html#a0433dd74ad9a718b4c46f657536617f3" title="vacuum_heap" alt="" coords="227,126,329,153"/>
+<area shape="rect" id="node3" href="$locator__sr_8c.html#a4fd1b6b9619ed9d747c279ebda201d06" title="xlocator_upgrade_instances\l_domain" alt="" coords="412,5,596,47"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#ae8a912f57490caa58cd390d22535fd7b" title="redistribute_partition_data" alt="" coords="419,71,589,98"/>
+<area shape="rect" id="node6" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="431,123,577,164"/>
+</map>

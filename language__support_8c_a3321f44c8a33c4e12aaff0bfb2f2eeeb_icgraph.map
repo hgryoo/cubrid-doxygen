@@ -1,0 +1,6 @@
+<map id="lang_check_locale_compat" name="lang_check_locale_compat">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#a2d646e2f8b64f926daa7423e27acd011" title="boot_get_host_name" alt="" coords="232,31,375,57"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a0f10de6a4a686a08a8f0d049c63d92c8" title="db_find_or_create_session" alt="" coords="423,31,600,57"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="648,5,787,32"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="653,68,782,95"/>
+</map>

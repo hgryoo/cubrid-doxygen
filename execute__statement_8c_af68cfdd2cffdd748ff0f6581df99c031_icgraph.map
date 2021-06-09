@@ -1,0 +1,6 @@
+<map id="do_prepare_select" name="do_prepare_select">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#a5a96449a20d34f17f764bead35cde84e" title="do_prepare_delete" alt="" coords="183,29,311,56"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#aa5b68a09475423be2f6714fac2a83de9" title="do_prepare_statement" alt="" coords="361,105,512,132"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a92e684c00e2d830e80140690244b728e" title="do_prepare_merge" alt="" coords="183,131,312,157"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#ac634b027d1b85e4fbfb2cc7e8b803fc7" title="do_prepare_update" alt="" coords="181,181,313,208"/>
+</map>

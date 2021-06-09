@@ -1,0 +1,14 @@
+<map id="qfile_locate_tuple_value_r" name="qfile_locate_tuple_value_r">
+<area shape="rect" id="node2" href="$fetch_8c.html#ab32cd3f8d3f124533282583cd7a4c6a8" title="fetch_peek_dbval_pos" alt="" coords="176,52,328,79"/>
+<area shape="rect" id="node4" href="$list__file_8h.html#a67769bed8dc8626e6bea22e823a49af0" title="qfile_locate_tuple\l_value" alt="" coords="191,205,313,246"/>
+<area shape="rect" id="node3" href="$fetch_8h.html#a679316138035b22e4c491877899fc5c0" title="fetch_val_list" alt="" coords="605,5,703,32"/>
+<area shape="rect" id="node5" href="$query__evaluator_8c.html#ac9eed956bbcdebd6879f4fee0068330c" title="eval_item_card_sort_list" alt="" coords="378,132,541,159"/>
+<area shape="rect" id="node6" href="$query__evaluator_8c.html#a486f463044545efe9f4e1d2b8e370557" title="eval_sub_sort_list\l_to_sort_list" alt="" coords="591,99,717,141"/>
+<area shape="rect" id="node7" href="$query__evaluator_8c.html#ab1b12a6db6c92dfa186a941231963621" title="eval_some_list_eval" alt="" coords="389,183,529,209"/>
+<area shape="rect" id="node8" href="$query__evaluator_8c.html#aebbd1b8fc2c61f25115e9a0e04663ff1" title="eval_sub_sort_list\l_to_multi_set" alt="" coords="396,234,523,275"/>
+<area shape="rect" id="node9" href="$fetch_8c.html#a6a331fd74c1c8c3fc931edc187f44047" title="fetch_peek_dbval" alt="" coords="397,31,521,57"/>
+<area shape="rect" id="node10" href="$query__opfunc_8c.html#a6b94d2d895a5914234b43e76a8a80b12" title="qdata_convert_table\l_to_set" alt="" coords="390,299,529,341"/>
+<area shape="rect" id="node11" href="$query__opfunc_8h.html#a0a45b2c25c50b391cb2a7ded011d0ab1" title="qdata_get_single_tuple\l_from_list_id" alt="" coords="382,365,537,406"/>
+<area shape="rect" id="node12" href="$query__executor_8h.html#abc1f4ed99b8c9a43e9c70b37357a256e" title="qexec_get_tuple_column\l_value" alt="" coords="376,430,543,471"/>
+<area shape="rect" id="node13" href="$list__file_8h.html#a803b81729aced7e45a887c52ef329ecd" title="qfile_set_tuple_column\l_value" alt="" coords="382,495,537,537"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="obj_get_path" name="obj_get_path">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#af7d30806db44b7c4499d6257d8c05e41" title="db_get" alt="" coords="149,463,211,489"/>
+<area shape="rect" id="node3" href="$authenticate_8c.html#ada79c42256625eef01008fd31cd7a5b3" title="au_add_member_internal" alt="" coords="274,5,441,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#a5977c8195fa7b224635c12eaf472cce8" title="au_check_serial_authorization" alt="" coords="259,107,456,133"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="528,69,635,96"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a531bed70bff45e7b90d74cac4950f562" title="do_drop_serial" alt="" coords="528,145,635,172"/>
+<area shape="rect" id="node7" href="$authenticate_8h.html#aa0c24965d6f0630211fb1e4e1f6769d2" title="au_drop_member" alt="" coords="296,208,419,235"/>
+<area shape="rect" id="node8" href="$cas__execute_8c.html#ad83c01a1069cc7783bda754518ebffdc" title="cur_tuple" alt="" coords="320,259,395,285"/>
+<area shape="rect" id="node9" href="$execute__statement_8c.html#a58b010816d96024eb901391f2b2207b3" title="delete_object_tuple" alt="" coords="290,309,425,336"/>
+<area shape="rect" id="node10" href="$classobject__printer.html#aa89da4bf455202fa556c3ac18c2da01c" title="object_printer::describe\l_attribute" alt="" coords="279,361,436,402"/>
+<area shape="rect" id="node11" href="$execute__statement_8h.html#af56fe6a18d78487bce9c670e95849ea2" title="do_change_auto_increment\l_serial" alt="" coords="267,426,448,467"/>
+<area shape="rect" id="node12" href="$execute__statement_8h.html#a22f7aeb44dee44ac49f30ad8fab80297" title="do_get_serial_cached_num" alt="" coords="267,492,447,519"/>
+<area shape="rect" id="node13" href="$execute__statement_8h.html#ac84337eb62af002730d69cc10ada1064" title="do_reset_auto_increment\l_serial" alt="" coords="273,543,441,585"/>
+<area shape="rect" id="node14" href="$execute__statement_8h.html#ad37d6b13f9139f97baed90d66d276468" title="do_update_maxvalue\l_of_auto_increment_serial" alt="" coords="270,609,445,650"/>
+<area shape="rect" id="node15" href="$jsp__cl_8c.html#a12b7cdb428499b5990e60ffa51ff4d76" title="drop_stored_procedure" alt="" coords="280,675,435,701"/>
+<area shape="rect" id="node16" href="$unload__schema_8c.html#a0250c03608fc9895ec5440cbb5a863c6" title="emit_autoincrement_def" alt="" coords="277,725,438,752"/>
+<area shape="rect" id="node17" href="$unload__schema_8c.html#a32495d9f0d9bce26977659c4b422c25d" title="emit_class_owner" alt="" coords="294,776,421,803"/>
+<area shape="rect" id="node18" href="$unload__schema_8c.html#ad469eaff0640ab475046abf543226b20" title="emit_instance_attributes" alt="" coords="275,827,439,853"/>
+<area shape="rect" id="node19" href="$unload__schema_8c.html#ae4e4a6438d4cb0fc3c9e64d959f73b48" title="emit_stored_procedure" alt="" coords="504,903,659,929"/>
+<area shape="rect" id="node20" href="$unload__schema_8c.html#ace2348b07aba5e56ee57e47034f04064" title="emit_stored_procedure_args" alt="" coords="264,928,451,955"/>
+</map>

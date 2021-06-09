@@ -1,0 +1,11 @@
+<map id="heap_cache_class_info" name="heap_cache_class_info">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="593,132,760,159"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="216,124,351,151"/>
+<area shape="rect" id="node9" href="$heap__file_8c.html#a23cd5f642edebaad25e8fafd58600228" title="heap_create_internal" alt="" coords="212,212,355,239"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="808,132,959,159"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="416,36,532,63"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="409,88,539,129"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="403,154,545,180"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="429,228,519,255"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#afefee08972f223958a34db36e63cde05" title="xheap_create" alt="" coords="424,279,524,306"/>
+</map>

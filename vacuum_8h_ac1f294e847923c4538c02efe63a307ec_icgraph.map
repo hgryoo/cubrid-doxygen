@@ -1,0 +1,7 @@
+<map id="vacuum_check_not_vacuumed_rec_header" name="vacuum_check_not_vacuumed_rec_header">
+<area shape="rect" id="node2" href="$btree_8c.html#a083ba91a4940109f0f23283f700017c7" title="btree_select_visible\l_object_for_range_scan" alt="" coords="277,5,437,47"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#ae992651fa819e40b4a7958f333640ae4" title="heap_chkreloc_next" alt="" coords="521,101,659,127"/>
+<area shape="rect" id="node6" href="$vacuum_8h.html#a68026ed559145d260e4fad9ab294c60a" title="vacuum_check_not_vacuumed\l_recdes" alt="" coords="256,123,459,164"/>
+<area shape="rect" id="node3" href="$btree_8h.html#af299b11af035afe3986f4208c9caa90e" title="btree_range_scan_select\l_visible_oids" alt="" coords="507,5,673,47"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a74f90f3011a14028be61f651827805d1" title="heap_check_all_pages\l_by_heapchain" alt="" coords="721,93,876,135"/>
+</map>

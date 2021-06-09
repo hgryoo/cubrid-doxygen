@@ -1,0 +1,6 @@
+<map id="la_get_item_pk_value" name="la_get_item_pk_value">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a18990ec75cf521042876913c1a3c187e" title="la_apply_delete_log" alt="" coords="203,5,339,32"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a7ba25f44bcecbaa522dd022fb722f0c5" title="la_apply_repl_log" alt="" coords="389,81,512,108"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#aae222bafc8147044057c499295141b9b" title="la_apply_insert_log" alt="" coords="205,107,338,133"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a2d40a24d77f7d73ad8df508c20a5dbdb" title="la_apply_update_log" alt="" coords="201,157,341,184"/>
+</map>

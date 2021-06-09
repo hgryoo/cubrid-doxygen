@@ -1,0 +1,9 @@
+<map id="xlogtb_set_interrupt" name="xlogtb_set_interrupt">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a381a88ded2332bc7eea6fddb4dec7f10" title="log_set_interrupt" alt="" coords="205,71,323,98"/>
+<area shape="rect" id="node5" href="$query__executor_8h.html#a8117e936942551d7d4b2362e9638260f" title="qexec_execute_query" alt="" coords="189,122,339,149"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a865b478d5794197de0987be9d3d2c71a" title="slogtb_set_interrupt" alt="" coords="196,173,332,199"/>
+<area shape="rect" id="node3" href="$load__db_8c.html#ae15d8abf5d9246795e882576fd7f9de7" title="ldr_exec_query_interrupt\l_handler" alt="" coords="387,5,551,47"/>
+<area shape="rect" id="node4" href="$locator__cl_8h.html#ada57156b9aae4da404fd42f8232d56eb" title="locator_set_sig_interrupt" alt="" coords="387,71,551,98"/>
+<area shape="rect" id="node6" href="$query__manager_8c.html#ab406973856e1d1e95ebbc7bd111f9d19" title="qmgr_process_query" alt="" coords="397,122,540,149"/>
+<area shape="rect" id="node8" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="415,173,522,199"/>
+</map>

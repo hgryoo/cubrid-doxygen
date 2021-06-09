@@ -1,0 +1,9 @@
+<map id="set_create_basic" name="set_create_basic">
+<area shape="rect" id="node2" href="$authenticate_8c.html#aaf9859e56ac7f259cde7f167e1e0a609" title="au_compute_groups" alt="" coords="177,31,315,57"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a432ae2e4cbf4a4657fc1165dd0f553a7" title="au_drop_user" alt="" coords="196,81,296,108"/>
+<area shape="rect" id="node6" href="$authenticate_8c.html#a6d6d63b0e417da4f892561898c64893c" title="au_make_user" alt="" coords="193,132,299,159"/>
+<area shape="rect" id="node7" href="$db__set_8c.html#af45ef8e00902a73f729ad83f2be9793a" title="db_set_create" alt="" coords="194,183,298,209"/>
+<area shape="rect" id="node8" href="$db__set_8c.html#a20888ae132273967f9876f6852814bbf" title="db_set_create_basic" alt="" coords="175,233,317,260"/>
+<area shape="rect" id="node3" href="$authenticate_8c.html#ada79c42256625eef01008fd31cd7a5b3" title="au_add_member_internal" alt="" coords="365,5,532,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#aa0c24965d6f0630211fb1e4e1f6769d2" title="au_drop_member" alt="" coords="387,56,510,83"/>
+</map>

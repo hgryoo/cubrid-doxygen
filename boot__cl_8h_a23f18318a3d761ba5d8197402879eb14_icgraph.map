@@ -1,0 +1,11 @@
+<map id="boot_client_all_finalize" name="boot_client_all_finalize">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="407,5,546,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="412,56,541,83"/>
+<area shape="rect" id="node7" href="$boot__cl_8h.html#aa7beb3207bb2b041cfbaf347ea2bf51a" title="boot_shutdown_client" alt="" coords="207,107,355,133"/>
+<area shape="rect" id="node3" href="$db__admin_8c.html#acd0f03a64561e4bf469d557cd751a631" title="db_init" alt="" coords="635,5,695,32"/>
+<area shape="rect" id="node5" href="$db__stub_8c.html#a77bd95c7f71d0f419d0f69a3090c4836" title="conn_restart_client" alt="" coords="599,107,731,133"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a4f475937ff6abf40ab472a149d37ae11" title="db_restart" alt="" coords="625,56,705,83"/>
+<area shape="rect" id="node8" href="$db__stub_8c.html#a316de5360d359d3b0fca32c74e4cc358" title="ci_conn_close_impl" alt="" coords="409,107,545,133"/>
+<area shape="rect" id="node9" href="$dbi__compat_8h.html#a760ba78fe8b25f4961aaff8824eafacb" title="db_shutdown" alt="" coords="427,157,526,184"/>
+<area shape="rect" id="node10" href="$boot__cl_8c.html#aad79151cb08126366c53b243fbccafbb" title="boot_shutdown_client\l_at_exit" alt="" coords="403,209,551,250"/>
+</map>

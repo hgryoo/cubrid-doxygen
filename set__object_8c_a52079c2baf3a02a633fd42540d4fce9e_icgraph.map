@@ -1,0 +1,7 @@
+<map id="set_op" name="set_op">
+<area shape="rect" id="node2" href="$set__object_8h.html#a208b881dca16692f9342430c483702c5" title="set_difference" alt="" coords="120,35,224,61"/>
+<area shape="rect" id="node5" href="$set__object_8h.html#a3f207a10bc821d650690f1db77033f12" title="set_intersection" alt="" coords="115,85,229,112"/>
+<area shape="rect" id="node6" href="$set__object_8h.html#a712c7cfcabe7dd337785fcc75ea40bd0" title="set_union" alt="" coords="133,136,211,163"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#a013dd32257ac7042fff9576ea7142a75" title="pt_difference_sets" alt="" coords="298,5,427,32"/>
+<area shape="rect" id="node4" href="$query__opfunc_8c.html#a29763016097873b018c1e097a4321b49" title="qdata_subtract_sequence\l_to_dbval" alt="" coords="277,57,448,98"/>
+</map>

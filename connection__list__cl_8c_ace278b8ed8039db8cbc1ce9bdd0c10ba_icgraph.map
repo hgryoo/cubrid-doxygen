@@ -1,0 +1,8 @@
+<map id="css_queue_remove_header" name="css_queue_remove_header">
+<area shape="rect" id="node2" href="$connection__sr_8h.html#a0fa48e7c9685ffafc98bf361e99cd039" title="css_remove_all_unexpected\l_packets" alt="" coords="235,115,421,156"/>
+<area shape="rect" id="node3" href="$client__support_8h.html#a089d946c1ae14c43ba995f687a6eb7f5" title="css_cleanup_client\l_queues" alt="" coords="486,5,619,47"/>
+<area shape="rect" id="node4" href="$connection__cl_8h.html#abea1c955db678fb1a504a7270295ec52" title="css_send_close_request" alt="" coords="469,71,636,98"/>
+<area shape="rect" id="node5" href="$connection__sr_8c.html#a074e6b86ddb75471f99f128336298aa8" title="css_shutdown_conn" alt="" coords="482,122,623,149"/>
+<area shape="rect" id="node6" href="$server__support_8h.html#a3548dc39b6a5e315aec9491bbc34cd75" title="css_end_server_request" alt="" coords="471,173,635,199"/>
+<area shape="rect" id="node7" href="$server__support_8h.html#a65b20bcb22c74c6ca32187ad596ba21d" title="css_cleanup_server\l_queues" alt="" coords="483,224,622,265"/>
+</map>

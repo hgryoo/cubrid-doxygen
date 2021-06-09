@@ -1,0 +1,14 @@
+<map id="heap_create" name="heap_create">
+<area shape="rect" id="node2" href="$locator__cl_8h.html#a735917dbd677abc3245f3509f7d09568" title="locator_create_heap\l_if_needed" alt="" coords="165,226,303,267"/>
+<area shape="rect" id="node13" href="$schema__manager_8c.html#a74a7b74c0b75fb805a8392f15887cea6" title="sm_truncate_using_delete" alt="" coords="147,292,321,319"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="413,5,490,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8c.html#af58f67029308197cdea0e081eb275f2a" title="define_trigger_classes" alt="" coords="375,56,527,83"/>
+<area shape="rect" id="node5" href="$xasl__generation_8h.html#aa08e377a0433d0f9d3167b1bb6bb0b1e" title="pt_to_insert_xasl" alt="" coords="391,107,512,133"/>
+<area shape="rect" id="node6" href="$xasl__generation_8h.html#ab8f25d76a557244b44c78cbc7d54ba59" title="pt_to_pred_with_context" alt="" coords="369,157,533,184"/>
+<area shape="rect" id="node7" href="$xasl__generation_8h.html#a9ccc077451801b5a81c370b4640dce2f" title="pt_to_func_pred" alt="" coords="394,208,509,235"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#aaec21ce3a085c64cbd1f04cc22bb43d1" title="pt_to_merge_insert_xasl" alt="" coords="369,259,533,285"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html#a71e57012993f98148b4b9bb1236f7daa" title="do_create_partition" alt="" coords="385,309,517,336"/>
+<area shape="rect" id="node10" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="581,335,700,361"/>
+<area shape="rect" id="node11" href="$locator__cl_8h.html#a3a8a8b0c7161332139c6f032131b5866" title="locator_has_heap" alt="" coords="389,411,513,437"/>
+<area shape="rect" id="node12" href="$locator__cl_8h.html#a4b6c7387864e64b6864b9c73b5ccdbb5" title="locator_add_instance" alt="" coords="379,461,524,488"/>
+</map>

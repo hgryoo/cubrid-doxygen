@@ -1,0 +1,12 @@
+<map id="src/jsp/jsp_cl.h" name="src/jsp/jsp_cl.h">
+<area shape="rect" id="node2" href="$db__admin_8c.html" title="src/compat/db_admin.c" alt="" coords="5,87,164,114"/>
+<area shape="rect" id="node3" href="$csql_8c.html" title="src/executables/csql.c" alt="" coords="188,87,341,114"/>
+<area shape="rect" id="node4" href="$unload__schema_8c.html" title="src/executables/unload\l_schema.c" alt="" coords="365,80,521,121"/>
+<area shape="rect" id="node5" href="$jsp__cl_8c.html" title="src/jsp/jsp_cl.c" alt="" coords="545,87,656,114"/>
+<area shape="rect" id="node6" href="$authenticate_8c.html" title="src/object/authenticate.c" alt="" coords="681,87,846,114"/>
+<area shape="rect" id="node7" href="$name__resolution_8c.html" title="src/parser/name_resolution.c" alt="" coords="871,87,1061,114"/>
+<area shape="rect" id="node8" href="$semantic__check_8c.html" title="src/parser/semantic\l_check.c" alt="" coords="1085,80,1223,121"/>
+<area shape="rect" id="node9" href="$execute__statement_8c.html" title="src/query/execute_statement.c" alt="" coords="1247,87,1450,114"/>
+<area shape="rect" id="node10" href="$query__method_8c.html" title="src/query/query_method.c" alt="" coords="1474,87,1647,114"/>
+<area shape="rect" id="node11" href="$boot__cl_8c.html" title="src/transaction/boot_cl.c" alt="" coords="1671,87,1837,114"/>
+</map>

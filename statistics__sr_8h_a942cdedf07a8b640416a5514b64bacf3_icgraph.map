@@ -1,0 +1,5 @@
+<map id="stats_get_time_stamp" name="stats_get_time_stamp">
+<area shape="rect" id="node2" href="$statistics__sr_8c.html#a87537ae40bfb987f6d7be9eff99352cd" title="stats_update_partitioned\l_statistics" alt="" coords="217,5,381,47"/>
+<area shape="rect" id="node3" href="$statistics__sr_8c.html#a502d831d7f2d3b593c5d107748aae384" title="xstats_update_statistics" alt="" coords="443,13,607,39"/>
+<area shape="rect" id="node4" href="$xasl__cache_8c.html#a05f909f16236e09399f20a97dca60b92" title="xcache_check_recompilation\l_threshold" alt="" coords="204,123,395,164"/>
+</map>

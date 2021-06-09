@@ -1,0 +1,9 @@
+<map id="db_select_result" name="db_select_result">
+<area shape="rect" id="node2" href="$structcursor__id.html" title="{cursor_id\n|+ query_id\l+ oid_ent_count\l+ position\l+ on_overflow\l+ tuple_no\l+ buffer\l+ buffer_area\l+ buffer_filled_size\l+ buffer_tuple_count\l+ current_tuple_no\l+ current_tuple_offset\l+ current_tuple_p\l+ oid_col_no\l+ current_tuple_length\l+ oid_col_no_cnt\l+ prefetch_lock_mode\l+ current_tuple_value\l_index\l+ current_tuple_value_p\l+ is_updatable\l+ is_oid_included\l+ is_copy_tuple_value\l|}" alt="" coords="308,491,469,876"/>
+<area shape="rect" id="node3" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="39,5,111,97"/>
+<area shape="rect" id="node6" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="127,219,277,384"/>
+<area shape="rect" id="node4" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="301,175,476,428"/>
+<area shape="rect" id="node5" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="603,248,695,355"/>
+<area shape="rect" id="node7" href="$structqfile__tuple__record.html" title="{qfile_tuple_record\n|+ tpl\l+ size\l|}" alt="" coords="719,255,843,347"/>
+<area shape="rect" id="node8" href="$structcache__time.html" title="{cache_time\n|+ sec\l+ usec\l|}" alt="" coords="493,637,583,729"/>
+</map>

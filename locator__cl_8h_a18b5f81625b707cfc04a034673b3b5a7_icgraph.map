@@ -1,0 +1,21 @@
+<map id="locator_get_all_mops" name="locator_get_all_mops">
+<area shape="rect" id="node2" href="$compactdb_8c.html#af0c3d428686aedb5273a5e83379cf791" title="compactdb_start" alt="" coords="229,31,347,57"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#aaa2b2a5611834340c7390439b990d3d0" title="sm_fetch_all_base_classes" alt="" coords="425,80,608,107"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#af6b111bde96e6d852443ac2d8aeca35d" title="sm_fetch_all_classes" alt="" coords="214,181,362,208"/>
+<area shape="rect" id="node11" href="$schema__manager_8c.html#a6dba97b2ae6799b80d00882a36541411" title="sm_fetch_all_objects\l_internal" alt="" coords="215,286,361,327"/>
+<area shape="rect" id="node14" href="$schema__manager_8h.html#afee992faddb9617993784f8f7763129e" title="sm_force_write_all\l_classes" alt="" coords="223,373,353,414"/>
+<area shape="rect" id="node18" href="$schema__manager_8h.html#a53fdc435324cabc5e0eafff20725afa1" title="sm_mark_system_classes" alt="" coords="199,439,377,465"/>
+<area shape="rect" id="node19" href="$schema__template_8h.html#a93573b56585aa364a9823afddf213204" title="smt_change_query_spec" alt="" coords="205,489,371,516"/>
+<area shape="rect" id="node20" href="$utility_8h.html#a090ec522bafd813b8ba255a9af927ba3" title="unloaddb" alt="" coords="251,540,325,567"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a06afe3266607d870e700d54e8dc0e007" title="compactdb" alt="" coords="473,5,560,32"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a85e6bff539b4c34a7d327c9f24ff6712" title="db_fetch_base_classes" alt="" coords="656,55,815,81"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#ad75235505969e93a362ef0ad8c8a437d" title="db_get_base_classes" alt="" coords="661,105,809,132"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#afe655db07daf634d54a980b81948ce31" title="db_fetch_all_classes" alt="" coords="445,131,589,157"/>
+<area shape="rect" id="node9" href="$dbi__compat_8h.html#ac381fb4d657a1a8fd5a5df1d8e145cd5" title="db_get_all_classes" alt="" coords="450,181,583,208"/>
+<area shape="rect" id="node10" href="$unload__schema_8c.html#a38e5979524fc917d4975785de16b7068" title="get_ordered_classes" alt="" coords="445,232,588,259"/>
+<area shape="rect" id="node12" href="$schema__manager_8h.html#a86be980651877dddcadc45e82f60ebb4" title="sm_fetch_all_objects" alt="" coords="444,283,589,309"/>
+<area shape="rect" id="node13" href="$schema__manager_8h.html#a7371b4630be2f1442e5a7142f3dd50cc" title="sm_fetch_all_objects\l_of_dirty_version" alt="" coords="444,334,589,375"/>
+<area shape="rect" id="node15" href="$boot__cl_8c.html#a1c906d817cb0b45ca6b099228f903201" title="catcls_vclass_install" alt="" coords="445,400,588,427"/>
+<area shape="rect" id="node17" href="$utility_8h.html#a782e5c7e88490d6faaf37d0c32511675" title="createdb" alt="" coords="481,451,553,477"/>
+<area shape="rect" id="node16" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="666,451,805,477"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="csect_name" name="csect_name">
+<area shape="rect" id="node2" href="$critical__section_8c.html#a7e7e3c06581de09270be4d5509fc931d" title="csect_demote_critical\l_section" alt="" coords="149,11,298,53"/>
+<area shape="rect" id="node4" href="$critical__section_8h.html#a1dd9956f011c572fb0f8157292711cd9" title="csect_dump_statistics" alt="" coords="147,91,300,117"/>
+<area shape="rect" id="node7" href="$critical__section_8h.html#a3d0e88877f7fc681032da8bec2c406fb" title="csect_enter_critical\l_section" alt="" coords="156,142,291,183"/>
+<area shape="rect" id="node9" href="$critical__section_8h.html#a03bf9164486f605ffb950430fcb2228f" title="csect_enter_critical\l_section_as_reader" alt="" coords="156,207,291,249"/>
+<area shape="rect" id="node11" href="$critical__section_8c.html#aa91f3de79a182a830e2221436df03935" title="csect_promote_critical\l_section" alt="" coords="147,273,300,314"/>
+<area shape="rect" id="node13" href="$critical__section_8h.html#abcb762f323e34e01fdf97492bf2f6f8f" title="csect_start_scan" alt="" coords="162,339,285,365"/>
+<area shape="rect" id="node3" href="$critical__section_8h.html#a95361c40b788e8b53fe17c20a1a3839c" title="csect_demote" alt="" coords="373,5,477,32"/>
+<area shape="rect" id="node5" href="$critical__section_8h.html#ac7a489f638cc5cfe42647e7652b3347e" title="sync_dump_statistics" alt="" coords="351,56,500,83"/>
+<area shape="rect" id="node6" href="$critical__section_8h.html#ac7e9dfe45fd2766bc49bfede3bf967da" title="csect_name_at" alt="" coords="551,81,661,108"/>
+<area shape="rect" id="node8" href="$critical__section_8h.html#ad94f573f47a49a844ed1d54fa0e4a45c" title="csect_enter" alt="" coords="380,157,471,184"/>
+<area shape="rect" id="node10" href="$critical__section_8h.html#ab4206e29d45c0bc1aeb982180d6659b7" title="csect_enter_as_reader" alt="" coords="348,215,503,241"/>
+<area shape="rect" id="node12" href="$critical__section_8h.html#a0cdc8bcf5d2106bb23a52caca4296016" title="csect_promote" alt="" coords="371,280,479,307"/>
+</map>

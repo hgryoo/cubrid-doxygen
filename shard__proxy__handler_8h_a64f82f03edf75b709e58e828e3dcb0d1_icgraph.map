@@ -1,0 +1,12 @@
+<map id="proxy_event_new_with_req" name="proxy_event_new_with_req">
+<area shape="rect" id="node2" href="$shard__proxy__handler_8h.html#a3d49aac8c5aded54b6e47c0f2f6796e9" title="proxy_event_new_with_rsp" alt="" coords="233,187,413,214"/>
+<area shape="rect" id="node10" href="$shard__proxy__function_8c.html#a3c3fc344b70b0c846f51c8dd349a0c4d" title="proxy_send_request\l_to_cas_with_new_event" alt="" coords="239,363,408,404"/>
+<area shape="rect" id="node3" href="$shard__proxy__function_8h.html#a7e06aa8c445e160ddcc9c0d5fbe7da37" title="proxy_send_response\l_to_client_with_new_event" alt="" coords="462,5,641,47"/>
+<area shape="rect" id="node5" href="$shard__proxy__function_8h.html#a716bf78632e0f3e941c1636ebf0e2955" title="fn_proxy_client_set\l_db_parameter" alt="" coords="484,71,619,112"/>
+<area shape="rect" id="node6" href="$shard__proxy__function_8h.html#a86ef6724b9fe79b397be24e4cf3805ec" title="fn_proxy_client_check_cas" alt="" coords="461,137,641,163"/>
+<area shape="rect" id="node7" href="$shard__proxy__function_8h.html#a4ef3351996221b6f2f1aeb3eee33f4c3" title="fn_proxy_cas_check_cas" alt="" coords="466,187,637,214"/>
+<area shape="rect" id="node8" href="$shard__proxy__io_8c.html#ae75f048fbcfb22da57966d53b574bc38" title="proxy_socket_io_new\l_client" alt="" coords="477,239,625,280"/>
+<area shape="rect" id="node9" href="$shard__proxy__io_8c.html#aa25007bf6d21e907333698fdca35ab77" title="proxy_process_client\l_register" alt="" coords="479,304,624,345"/>
+<area shape="rect" id="node4" href="$shard__proxy__function_8h.html#a9881fb7cfbeb24fcf8a38ca468e6a33e" title="fn_proxy_client_con\l_close" alt="" coords="689,184,828,225"/>
+<area shape="rect" id="node11" href="$shard__proxy__function_8h.html#a50159964e935390cf0589d2481ec4db3" title="fn_proxy_client_conn\l_error" alt="" coords="479,421,624,463"/>
+</map>

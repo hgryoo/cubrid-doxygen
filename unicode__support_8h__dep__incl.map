@@ -1,0 +1,9 @@
+<map id="src/base/unicode_support.h" name="src/base/unicode_support.h">
+<area shape="rect" id="node2" href="$locale__support_8c.html" title="src/base/locale_support.c" alt="" coords="5,87,176,114"/>
+<area shape="rect" id="node3" href="$uca__support_8c.html" title="src/base/uca_support.c" alt="" coords="201,87,359,114"/>
+<area shape="rect" id="node4" href="$unicode__support_8c.html" title="src/base/unicode_support.c" alt="" coords="383,87,566,114"/>
+<area shape="rect" id="node5" href="$cas__execute_8c.html" title="src/broker/cas_execute.c" alt="" coords="590,87,759,114"/>
+<area shape="rect" id="node6" href="$csql__result__format_8c.html" title="src/executables/csql\l_result_format.c" alt="" coords="783,80,926,121"/>
+<area shape="rect" id="node7" href="$csql__session_8c.html" title="src/executables/csql\l_session.c" alt="" coords="950,80,1093,121"/>
+<area shape="rect" id="node8" href="$jsp__cl_8c.html" title="src/jsp/jsp_cl.c" alt="" coords="1117,87,1227,114"/>
+</map>

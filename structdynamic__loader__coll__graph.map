@@ -1,0 +1,4 @@
+<map id="dynamic_loader" name="dynamic_loader">
+<area shape="rect" id="node2" href="$structtbl__link.html" title="{tbl_link\n|+ filename\l|}" alt="" coords="5,35,88,112"/>
+<area shape="rect" id="node3" href="$structfile__entry.html" title="{file_entry\n|+ filename\l+ valid\l+ archive\l+ duplicate\l+ size\l|}" alt="" coords="170,5,257,141"/>
+</map>

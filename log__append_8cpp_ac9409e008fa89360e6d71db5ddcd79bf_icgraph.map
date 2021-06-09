@@ -1,0 +1,11 @@
+<map id="LOG_APPEND_PTR" name="LOG_APPEND_PTR">
+<area shape="rect" id="node2" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="417,56,560,83"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="228,81,324,108"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#acef3ec89e37e79a4bcb063228aece232" title="logpb_append_crumbs" alt="" coords="200,132,352,159"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a9922aae39f1f08ea9141eac15b86b302" title="logpb_append_data" alt="" coords="209,183,343,209"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a743f14dc2408e5b500f81858e5423216" title="logpb_start_append" alt="" coords="209,233,343,260"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a95f060b401ef97e5ff9be51b7a304a5b" title="log_initialize" alt="" coords="656,5,749,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a425ed5fad08e748df89edfd0350986f9" title="log_restart_emergency" alt="" coords="625,56,780,83"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="656,107,749,133"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#aae63a58319305452b39af03c698e37cb" title="logpb_append_next_record" alt="" coords="400,208,577,235"/>
+</map>

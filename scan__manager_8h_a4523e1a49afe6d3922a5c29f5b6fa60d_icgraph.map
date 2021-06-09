@@ -1,0 +1,5 @@
+<map id="scan_next_scan_block" name="scan_next_scan_block">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a7434d4df88025f4102477e48ba7e6011" title="qexec_next_merge_block" alt="" coords="208,5,379,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a6069afab32f23903fd3a8d1105a3d19e" title="qexec_next_scan_block" alt="" coords="212,56,375,83"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#aae780f3598f8e002d08caef216a1c5b4" title="qexec_merge_fnc" alt="" coords="427,31,552,57"/>
+</map>

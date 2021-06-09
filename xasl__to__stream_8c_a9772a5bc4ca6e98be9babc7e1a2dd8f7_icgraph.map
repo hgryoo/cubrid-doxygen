@@ -1,0 +1,8 @@
+<map id="xts_get_regu_variable_value_size" name="xts_get_regu_variable_value_size">
+<area shape="rect" id="node2" href="$xasl__to__stream_8c.html#a705da76f9e1e00e423ff12c9fcbc0136" title="xts_sizeof_regu_value_list" alt="" coords="210,5,386,32"/>
+<area shape="rect" id="node3" href="$xasl__to__stream_8c.html#a03d6f01488451271c66367d05a7095d3" title="xts_sizeof_regu_variable" alt="" coords="215,56,381,83"/>
+<area shape="rect" id="node7" href="$xasl__to__stream_8c.html#a8ee130f0955c81df3f0c6ec886254ebd" title="xts_sizeof_regu_variable_list" alt="" coords="203,107,393,133"/>
+<area shape="rect" id="node4" href="$xasl__to__stream_8c.html#a0565763fd0f113271b35e9d4a3d3b9dd" title="xts_save_regu_variable" alt="" coords="451,5,610,32"/>
+<area shape="rect" id="node5" href="$xasl__to__stream_8c.html#aa15efb12585df6f48b18d2f25294fcef" title="xts_sizeof_aggregate_type" alt="" coords="441,107,620,133"/>
+<area shape="rect" id="node6" href="$xasl__to__stream_8c.html#aaf6195dd5b22dd416454aee25d589fe7" title="xts_sizeof_analytic_type" alt="" coords="447,56,614,83"/>
+</map>

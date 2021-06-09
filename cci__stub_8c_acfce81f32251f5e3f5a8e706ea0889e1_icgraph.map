@@ -1,0 +1,9 @@
+<map id="xcol_to_cci_set" name="xcol_to_cci_set">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#a6ce5d0adf9fa064833973623bb5a4046" title="api_val_cci_bind_bind" alt="" coords="167,173,316,200"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#a009614bd368c15e1a1d9ee2afe86a1fb" title="api_val_bind_param" alt="" coords="381,5,519,32"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#ad9e1ba0e363c1c6380c699d6ee6f4d92" title="api_val_cursor_update" alt="" coords="374,56,526,83"/>
+<area shape="rect" id="node5" href="$cci__stub_8c.html#aaea086744e8e056ed1576258d0704b0e" title="get_value_from_req\l_handle" alt="" coords="382,107,518,149"/>
+<area shape="rect" id="node6" href="$cci__stub_8c.html#a95650a1fa64b1ccfe75d60acdc301d4c" title="get_value_from_tset" alt="" coords="380,173,520,200"/>
+<area shape="rect" id="node7" href="$cci__stub_8c.html#ab49a4395bd111fb9d95a3f1af07d8fb9" title="ores_apply_updatef" alt="" coords="383,224,517,251"/>
+<area shape="rect" id="node8" href="$cci__stub_8c.html#aa8064778967fe1368462eee30cd75df9" title="xcol_elem_cci_bind_mapf" alt="" coords="364,275,536,301"/>
+</map>

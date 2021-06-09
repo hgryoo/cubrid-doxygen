@@ -1,0 +1,10 @@
+<map id="mht_clear" name="mht_clear">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#ace717aca21eafa587e651c050569b3d7" title="logtb_tran_clear_update\l_stats" alt="" coords="132,57,292,98"/>
+<area shape="rect" id="node6" href="$query__aggregate_8hpp.html#a0c1a0d4736264858be8213e6ab677231" title="qdata_save_agg_htable\l_to_list" alt="" coords="133,122,291,163"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#a9c1b6caa93e08b016011a658c89661c1" title="qexec_free_agg_hash\l_context" alt="" coords="137,187,287,229"/>
+<area shape="rect" id="node8" href="$list__file_8h.html#a4fc7f999c0a9c4c0178cccfcef093d62" title="qfile_clear_list_cache" alt="" coords="139,253,285,280"/>
+<area shape="rect" id="node9" href="$list__file_8h.html#af7add2e6af06ebc6cfe4c1f0c989513f" title="qfile_initialize_list\l_cache" alt="" coords="150,305,274,346"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a6c5edebbae75e1a92360baf780ce8377" title="logtb_clear_tdes" alt="" coords="359,5,476,32"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#a9675a3f281b5b7df27159c7cdf4e8511" title="logtb_tran_free_update\l_stats" alt="" coords="340,57,495,98"/>
+<area shape="rect" id="node5" href="$log__tran__table_8c.html#abced029cdab388279dc4b134179929c3" title="logtb_complete_mvcc" alt="" coords="343,123,492,149"/>
+</map>

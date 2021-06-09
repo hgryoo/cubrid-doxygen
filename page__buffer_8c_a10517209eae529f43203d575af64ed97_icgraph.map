@@ -1,0 +1,14 @@
+<map id="pgbuf_lru_remove_bcb" name="pgbuf_lru_remove_bcb">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#aacfdde3e346ff6e9ecf80711fbcf3285" title="pgbuf_assign_direct\l_victim" alt="" coords="211,201,349,243"/>
+<area shape="rect" id="node11" href="$page__buffer_8c.html#a32645b0c2aace57799af8b647423a493" title="pgbuf_invalidate_bcb" alt="" coords="651,413,795,439"/>
+<area shape="rect" id="node13" href="$page__buffer_8c.html#a76e301b78b2f0d65de56d7b2f57106e0" title="pgbuf_lru_move_from\l_private_to_shared" alt="" coords="207,368,353,409"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a7ef66aad01f8e682d9ce69bce1988bbd" title="pgbuf_get_victim_candidates\l_from_lru" alt="" coords="401,267,592,308"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a7cc1c686b4d3e0a9de41d12d4bfa26b7" title="pgbuf_get_victim_from\l_lru_list" alt="" coords="419,5,574,47"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#abaa51159b1cd1415ea6c06976a4c232f" title="pgbuf_lru_add_new_bcb\l_to_bottom" alt="" coords="415,71,578,112"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#afefe190b536faf7fecddcd0bff83e6e7" title="pgbuf_lru_fall_bcb\l_to_zone_3" alt="" coords="433,201,560,243"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="640,336,807,377"/>
+<area shape="rect" id="node10" href="$page__buffer_8c.html#af1d28b14d0180489e3ec532a4dbf54d6" title="pgbuf_unlatch_void\l_zone_bcb" alt="" coords="429,136,564,177"/>
+<area shape="rect" id="node8" href="$page__buffer_8h.html#afde1751ceb069fe468ffa1b51283033f" title="pgbuf_unfix_debug" alt="" coords="869,394,999,421"/>
+<area shape="rect" id="node9" href="$page__buffer_8h.html#acb30faadf59202892e5dd7a8afcde82e" title="pgbuf_invalidate_debug" alt="" coords="855,343,1013,370"/>
+<area shape="rect" id="node12" href="$page__buffer_8h.html#a172d7adc186f7dc6862f73c7fd2e8e55" title="pgbuf_invalidate_all\l_debug" alt="" coords="866,445,1002,487"/>
+</map>

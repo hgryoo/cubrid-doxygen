@@ -1,0 +1,11 @@
+<map id="intl_cmp_char" name="intl_cmp_char">
+<area shape="rect" id="node2" href="$string__opfunc_8c.html#a013e671e46c07355d9271fa97c38eebd" title="db_get_next_like_pattern\l_character" alt="" coords="156,71,323,112"/>
+<area shape="rect" id="node6" href="$language__support_8c.html#a59b3bf5cb89418541de2c81eff855b8e" title="lang_back_strmatch\l_utf8_uca_w_level" alt="" coords="170,136,309,177"/>
+<area shape="rect" id="node8" href="$language__support_8c.html#a48284d3dea9855cd7141c94347a712b2" title="lang_strmatch_utf8\l_uca_w_level" alt="" coords="173,201,306,243"/>
+<area shape="rect" id="node9" href="$string__opfunc_8c.html#ac17062b698bd01d03adf99ced4c9fcec" title="qstr_eval_like" alt="" coords="188,267,291,294"/>
+<area shape="rect" id="node3" href="$string__opfunc_8h.html#a0478a0cfb77337d4eeedc3d2930b29a6" title="db_get_info_for_like\l_optimization" alt="" coords="389,5,527,47"/>
+<area shape="rect" id="node4" href="$string__opfunc_8h.html#a8a4e8b57baae36465976146c6019be87" title="db_get_like_optimization\l_bounds" alt="" coords="375,71,541,112"/>
+<area shape="rect" id="node5" href="$string__opfunc_8h.html#a49b18c9c0abbf5d759dc0ccf87d66a1b" title="db_compress_like_pattern" alt="" coords="371,137,545,163"/>
+<area shape="rect" id="node7" href="$language__support_8h.html#a50a5a47f9a82b17146edfba0e308dd5e" title="lang_strmatch_utf8\l_uca_w_coll_data" alt="" coords="391,195,525,236"/>
+<area shape="rect" id="node10" href="$string__opfunc_8h.html#a5d4a9ca9b0005512eab8d461ccf2f524" title="db_string_like" alt="" coords="407,267,509,294"/>
+</map>

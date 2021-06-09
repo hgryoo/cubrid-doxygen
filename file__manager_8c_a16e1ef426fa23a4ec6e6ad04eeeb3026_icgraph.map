@@ -1,0 +1,8 @@
+<map id="file_temp_retire_preserved" name="file_temp_retire_preserved">
+<area shape="rect" id="node2" href="$list__file_8c.html#a7b53432d49fb2caef19e11df6647f6a7" title="qfile_delete_list_cache\l_entry" alt="" coords="233,71,387,112"/>
+<area shape="rect" id="node6" href="$query__manager_8h.html#a5de73a5fa215d2f58935a2a5015e555d" title="qmgr_free_list_temp_file" alt="" coords="228,137,392,163"/>
+<area shape="rect" id="node7" href="$query__manager_8h.html#ae0b3bb3c0bef77a1a8d2a67470c94896" title="qmgr_free_temp_file_list" alt="" coords="228,187,392,214"/>
+<area shape="rect" id="node3" href="$list__file_8h.html#aa331b0ca76c4956bcaf77d84e4c6323d" title="qfile_end_use_of_list\l_cache_entry" alt="" coords="447,5,591,47"/>
+<area shape="rect" id="node4" href="$list__file_8h.html#a744ee07fc469b2a5438abf874a7195af" title="qfile_lookup_list_cache\l_entry" alt="" coords="441,71,598,112"/>
+<area shape="rect" id="node5" href="$list__file_8h.html#abc17ed70916eb928bd01032874ddb1c2" title="qfile_update_list_cache\l_entry" alt="" coords="440,136,599,177"/>
+</map>

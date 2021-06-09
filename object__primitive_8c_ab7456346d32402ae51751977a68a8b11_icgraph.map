@@ -1,0 +1,19 @@
+<map id="pr_get_compressed_data_from_buffer" name="pr_get_compressed_data_from_buffer">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a06d814d476ba619da74969cf2c6e6f4e" title="bf2df_str_cmpdisk" alt="" coords="248,31,377,57"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a24b4ede8d03802197ceb4417cfd588bb" title="mr_data_cmpdisk_string" alt="" coords="231,107,395,133"/>
+<area shape="rect" id="node7" href="$object__primitive_8c.html#a06714232f7f03cf7cd7c02cc1ccf2f31" title="mr_data_cmpdisk_varnchar" alt="" coords="221,208,404,235"/>
+<area shape="rect" id="node9" href="$object__primitive_8c.html#a23312075f345102485f82d5f89eaf252" title="mr_data_readmem_string" alt="" coords="228,309,397,336"/>
+<area shape="rect" id="node11" href="$object__primitive_8c.html#ab81c027bac4ad10017ef767bad76d0d3" title="mr_readval_string_internal" alt="" coords="225,385,400,412"/>
+<area shape="rect" id="node14" href="$object__primitive_8c.html#aebd1249992eb262898adc4ecc3e780e4" title="mr_readval_varnchar\l_internal" alt="" coords="241,445,384,486"/>
+<area shape="rect" id="node15" href="$object__representation__sr_8c.html#a333c736a0fcee7c9f125af88001848b0" title="or_get_attr_string" alt="" coords="251,528,374,555"/>
+<area shape="rect" id="node18" href="$object__primitive_8h.html#ae12a8c594fad2fc0fab2db8c4b6a5d40" title="PRIM_SET_NULL" alt="" coords="247,579,378,605"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#aca3e5eec1423cc628767b7d7a8631244" title="qexec_execute_connect_by" alt="" coords="454,5,638,32"/>
+<area shape="rect" id="node5" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="688,277,828,318"/>
+<area shape="rect" id="node6" href="$object__primitive_8c.html#aa18602a9ce86fcb3ae0f02c80e8df20a" title="mr_index_cmpdisk_string" alt="" coords="461,107,631,133"/>
+<area shape="rect" id="node8" href="$object__primitive_8c.html#a6487cf24008a57b5a738982835357ade" title="mr_index_cmpdisk_varnchar" alt="" coords="452,208,640,235"/>
+<area shape="rect" id="node10" href="$object__primitive_8c.html#acb92fa954819c25c9122c6b36d393c1d" title="mr_data_readmem_varnchar" alt="" coords="453,309,639,336"/>
+<area shape="rect" id="node12" href="$object__primitive_8c.html#a93145f7079788d5cde7422b3d4620c0e" title="mr_data_readval_string" alt="" coords="467,411,625,437"/>
+<area shape="rect" id="node13" href="$object__primitive_8c.html#ad5d0bd2f488d9e778bab6412cb047df9" title="mr_index_readval_string" alt="" coords="465,461,627,488"/>
+<area shape="rect" id="node16" href="$object__representation__sr_8h.html#a055fcc5c55e1dd4eddc678fe3420d4d0" title="or_get_attrcomment" alt="" coords="477,563,615,589"/>
+<area shape="rect" id="node17" href="$object__representation__sr_8h.html#afe7b8032e1084c446cbc8f7c3147e722" title="or_get_attrname" alt="" coords="488,613,604,640"/>
+</map>

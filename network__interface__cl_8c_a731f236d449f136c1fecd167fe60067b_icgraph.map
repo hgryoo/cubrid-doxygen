@@ -1,0 +1,5 @@
+<map id="tran_server_has_updated" name="tran_server_has_updated">
+<area shape="rect" id="node2" href="$transaction__cl_8h.html#ae0d39a187daf5a0b082c23957969536c" title="tran_has_updated" alt="" coords="221,35,347,61"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a1a1b22e40a738714dfa784cc3420ebd3" title="db_commit_is_needed" alt="" coords="395,5,547,32"/>
+<area shape="rect" id="node4" href="$transaction__cl_8h.html#a62d23d4ee828236473e300945ab38221" title="tran_internal_abort\l_upto_savepoint" alt="" coords="406,57,535,98"/>
+</map>

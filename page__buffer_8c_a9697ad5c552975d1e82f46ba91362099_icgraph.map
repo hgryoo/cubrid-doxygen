@@ -1,0 +1,9 @@
+<map id="pgbuf_finalize" name="pgbuf_finalize">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#af3b0bac26ee4d5867e1ae5fb093e798a" title="logtb_undefine_trantable" alt="" coords="156,107,319,134"/>
+<area shape="rect" id="node8" href="$page__buffer_8h.html#abc37f71a20dc1ecf26b734b6a6af16a5" title="pgbuf_initialize" alt="" coords="183,27,291,54"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="588,122,731,149"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="418,122,489,149"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#ac92df3fb17efd887483ccf4616f20f27" title="log_rv_outside_noop_redo" alt="" coords="367,173,540,199"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a45020463486a6bde25e2428528cb5654" title="logpb_delete" alt="" coords="612,42,707,69"/>
+<area shape="rect" id="node7" href="$log__tran__table_8c.html#ac27166ed5a81c72375cfccc620c702da" title="logtb_define_trantable\l_log_latch" alt="" coords="379,5,528,47"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="mvcctable::finalize" name="mvcctable::finalize">
+<area shape="rect" id="node2" href="$unittests__snapshot_8c.html#af3897889755d5d7c21ac64f99a7636f8" title="logtb_finalize_mvcctable" alt="" coords="184,42,349,69"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#af3b0bac26ee4d5867e1ae5fb093e798a" title="logtb_undefine_trantable" alt="" coords="185,147,348,174"/>
+<area shape="rect" id="node3" href="$unittests__snapshot_8c.html#a201e7c1256d2c578f6aa1deddf33d378" title="logtb_finalize_mvcc\l_testing" alt="" coords="415,5,553,47"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="449,71,519,98"/>
+<area shape="rect" id="node6" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="619,122,761,149"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#ac92df3fb17efd887483ccf4616f20f27" title="log_rv_outside_noop_redo" alt="" coords="397,173,571,199"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a45020463486a6bde25e2428528cb5654" title="logpb_delete" alt="" coords="643,261,737,287"/>
+<area shape="rect" id="node9" href="$log__tran__table_8c.html#ac27166ed5a81c72375cfccc620c702da" title="logtb_define_trantable\l_log_latch" alt="" coords="409,224,559,265"/>
+</map>

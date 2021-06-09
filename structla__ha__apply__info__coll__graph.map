@@ -1,0 +1,4 @@
+<map id="la_ha_apply_info" name="la_ha_apply_info">
+<area shape="rect" id="node2" href="$structdb__datetime.html" title="{db_datetime\n|+ date\l+ time\l|}" alt="" coords="5,79,99,171"/>
+<area shape="rect" id="node3" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="141,5,246,244"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="css_is_shutdown_timeout_expired" name="css_is_shutdown_timeout_expired">
+<area shape="rect" id="node2" href="$server__support_8c.html#ad9793b78930d95c3ef58cfec55f490df" title="css_stop_all_workers" alt="" coords="227,5,375,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a43c3e6965dc07096503c8de506a1069f" title="log_abort_all_active\l_transaction" alt="" coords="232,57,369,98"/>
+<area shape="rect" id="node3" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="469,5,536,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="423,64,583,91"/>
+</map>

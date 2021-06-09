@@ -1,0 +1,7 @@
+<map id="tran_get_tranlist_state_name" name="tran_get_tranlist_state_name">
+<area shape="rect" id="node2" href="$csql__session_8c.html#ac150e46c628ffdcc340983ebba520674" title="csql_dump_alltran" alt="" coords="244,5,371,32"/>
+<area shape="rect" id="node3" href="$csql__session_8c.html#af8f3242121c0ddbe86a4197b02fcda0a" title="csql_killtran" alt="" coords="431,19,522,45"/>
+<area shape="rect" id="node4" href="$util__cs_8c.html#a493533f30a698db3b1436fffb786a371" title="print_tran_entry" alt="" coords="251,107,363,133"/>
+<area shape="rect" id="node5" href="$util__cs_8c.html#a0d768697d7e3df4fa0f71189ba296efb" title="dump_trantb" alt="" coords="429,81,524,108"/>
+<area shape="rect" id="node6" href="$util__cs_8c.html#a39605b8750dd459fb4705ce33f915739" title="kill_transactions" alt="" coords="419,132,535,159"/>
+</map>

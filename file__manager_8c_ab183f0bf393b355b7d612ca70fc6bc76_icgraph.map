@@ -1,0 +1,5 @@
+<map id="file_tracker_item_mark_heap_deleted" name="file_tracker_item_mark_heap_deleted">
+<area shape="rect" id="node2" href="$file__manager_8h.html#aafe6309c643959bb5ec0a5b4e4f35884" title="file_rv_tracker_mark\l_heap_deleted" alt="" coords="208,39,348,80"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a9d0a490728f71c5afaafb3dedf917c06" title="heap_rv_mark_deleted\l_on_undo" alt="" coords="396,5,549,47"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a3d4b108bb2f85d4ce363e69af40567a5" title="heap_rv_mark_deleted\l_on_postpone" alt="" coords="396,71,549,112"/>
+</map>

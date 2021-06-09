@@ -1,0 +1,6 @@
+<map id="drop_grant_entry" name="drop_grant_entry">
+<area shape="rect" id="node2" href="$authenticate_8h.html#af2cbcb3deb351ad5c3dafaa7dc2ff290" title="au_revoke" alt="" coords="476,29,559,56"/>
+<area shape="rect" id="node4" href="$authenticate_8c.html#aa6d4e0780e283109d66ee48da074b8fd" title="get_grants" alt="" coords="172,29,255,56"/>
+<area shape="rect" id="node5" href="$authenticate_8c.html#a7c0f9886f748d2508611f0518cfcb488" title="propagate_revoke" alt="" coords="303,80,428,107"/>
+<area shape="rect" id="node3" href="$db__admin_8c.html#a363d0eacb7f09ce691dcdbae33b3eec7" title="db_revoke" alt="" coords="607,29,689,56"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="disk_check" name="disk_check">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="165,56,312,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#ace20b0215551fade39404f63fbbcc932" title="xboot_check_db_consistency" alt="" coords="141,107,336,133"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="405,5,487,32"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#aa40e735a48654f112a4539b5969bada9" title="file_perm_expand" alt="" coords="384,56,508,83"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a3caedf6598ee654efb9b8be761cc8edc" title="file_temp_alloc" alt="" coords="391,107,501,133"/>
+</map>

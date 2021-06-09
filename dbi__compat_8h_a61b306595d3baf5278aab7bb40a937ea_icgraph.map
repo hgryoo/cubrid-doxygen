@@ -1,0 +1,9 @@
+<map id="db_get_class_method" name="db_get_class_method">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="219,5,360,47"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#a3b885f3329fd70251d54df60b25e4d52" title="ldr_act_set_constructor" alt="" coords="210,71,369,98"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#a74be8f892e6e90ed5692941e03bf1843" title="pt_check_alter" alt="" coords="236,122,343,149"/>
+<area shape="rect" id="node6" href="$semantic__check_8c.html#abb85c54eca5fb7e5f403ec82e95e50f2" title="pt_check_method" alt="" coords="227,173,352,199"/>
+<area shape="rect" id="node7" href="$type__checking_8c.html#a314a6d775458f9b50fa4d5807bad2bf9" title="pt_eval_method_call_type" alt="" coords="203,223,376,250"/>
+<area shape="rect" id="node8" href="$name__resolution_8c.html#a268be3ed043866578f04312d2a7aa8a6" title="pt_resolve_method_type" alt="" coords="207,274,371,301"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a6544008aa1b341b93a0f8f80361f982f" title="do_alter" alt="" coords="424,13,492,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="logtb_am_i_dba_client" name="logtb_am_i_dba_client">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a417466c5b91bc56afb51eba64733e9ad" title="logtb_check_kill_tran_auth" alt="" coords="204,5,380,32"/>
+<area shape="rect" id="node4" href="$network__sr_8c.html#ae411c65a8239aaf3abb5a8524667b9db" title="net_server_request" alt="" coords="225,56,359,83"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a6162cf50793bc050bab311ce4b8effa7" title="xlogtb_kill_or_interrupt_tran" alt="" coords="428,5,609,32"/>
+</map>

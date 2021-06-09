@@ -1,0 +1,21 @@
+<map id="logtb_is_interrupted_tran" name="logtb_is_interrupted_tran">
+<area shape="rect" id="node2" href="$lock__manager_8c.html#a99989d3543395a36212c1555439e98c6" title="lock_force_timeout\l_expired_wait_transactions" alt="" coords="217,5,397,47"/>
+<area shape="rect" id="node4" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="229,71,385,98"/>
+<area shape="rect" id="node6" href="$query__manager_8h.html#a5de73a5fa215d2f58935a2a5015e555d" title="qmgr_free_list_temp_file" alt="" coords="225,122,389,149"/>
+<area shape="rect" id="node8" href="$query__manager_8h.html#a6f173948c0eb9538690b2302950d2962" title="qmgr_get_old_page" alt="" coords="240,371,375,398"/>
+<area shape="rect" id="node20" href="$transaction__sr_8c.html#a01192d465099edf243078a681db1fee4" title="xtran_wait_server_active\l_trans" alt="" coords="224,423,391,464"/>
+<area shape="rect" id="node3" href="$lock__manager_8h.html#a39894afba679cc8ff708080ea5ae6ac8" title="lock_initialize" alt="" coords="471,13,571,39"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="463,67,579,94"/>
+<area shape="rect" id="node7" href="$list__file_8h.html#a47aa19fae522f6b516600ed723eebe9e" title="qfile_destroy_list" alt="" coords="461,118,581,145"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#a2917396e193847416a3e5b21614a7f47" title="qexec_analytic_put_next" alt="" coords="649,238,816,265"/>
+<area shape="rect" id="node10" href="$query__executor_8c.html#a359484e86d5c757860ace460753653ef" title="qexec_gby_put_next" alt="" coords="661,314,804,341"/>
+<area shape="rect" id="node11" href="$query__executor_8c.html#ace26f0b2682d1facc2561230e6f7b44d" title="qexec_hash_gby_put_next" alt="" coords="644,175,821,202"/>
+<area shape="rect" id="node12" href="$query__executor_8c.html#a88c76f42fcdb0493ad08df615f85f379" title="qexec_ordby_put_next" alt="" coords="656,371,809,398"/>
+<area shape="rect" id="node13" href="$list__file_8h.html#a2005306af0ac913c31afc556976d6f5b" title="qfile_add_overflow\l_tuple_to_list" alt="" coords="455,641,586,683"/>
+<area shape="rect" id="node14" href="$list__file_8c.html#a087deaf4ae4f9a4db0ce90622930f11f" title="qfile_put_next_sort_item" alt="" coords="651,678,815,705"/>
+<area shape="rect" id="node15" href="$list__file_8c.html#a1914e43f4a96514cbc9f0555a5b69529" title="qfile_copy_list_pages" alt="" coords="447,422,594,449"/>
+<area shape="rect" id="node16" href="$list__file_8h.html#ae2ec9c943b20bb0c1b279799e7a1f63c" title="qfile_get_tuple" alt="" coords="467,270,574,297"/>
+<area shape="rect" id="node17" href="$list__file_8h.html#a5b77762e6ad8395843c51f6818b91dca" title="qfile_jump_scan_tuple\l_position" alt="" coords="445,473,596,515"/>
+<area shape="rect" id="node18" href="$list__file_8h.html#a39cc5d19e37573ed3031ab8753e0f1ad" title="qfile_overwrite_tuple" alt="" coords="450,539,591,566"/>
+<area shape="rect" id="node19" href="$list__file_8c.html#a8a554b5829432fd220212a78ffe693fb" title="qfile_scan_next" alt="" coords="464,590,577,617"/>
+</map>

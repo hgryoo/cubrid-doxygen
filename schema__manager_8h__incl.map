@@ -1,0 +1,15 @@
+<map id="src/object/schema_manager.h" name="src/object/schema_manager.h">
+<area shape="rect" id="node2" href="$language__support_8h.html" title="language_support.h" alt="" coords="115,155,250,181"/>
+<area shape="rect" id="node11" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="463,304,596,331"/>
+<area shape="rect" id="node15" href="$object__domain_8h.html" title="object_domain.h" alt="" coords="751,304,868,331"/>
+<area shape="rect" id="node16" href="$work__space_8h.html" title="work_space.h" alt="" coords="587,229,690,256"/>
+<area shape="rect" id="node17" href="$class__object_8h.html" title="class_object.h" alt="" coords="504,155,611,181"/>
+<area shape="rect" id="node18" href="$schema__template_8h.html" title="schema_template.h" alt="" coords="591,80,727,107"/>
+<area shape="rect" id="node19" href="$trigger__manager_8h.html" title="trigger_manager.h" alt="" coords="389,80,515,107"/>
+<area shape="rect" id="node20" href="$tde_8h.html" title="tde.h" alt="" coords="337,155,388,181"/>
+<area shape="rect" id="node4" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="122,229,222,256"/>
+<area shape="rect" id="node8" href="$locale__support_8h.html" title="locale_support.h" alt="" coords="220,304,337,331"/>
+<area shape="rect" id="node7" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="377,379,474,405"/>
+<area shape="rect" id="node9" href="$porting_8h.html" title="porting.h" alt="" coords="280,379,352,405"/>
+<area shape="rect" id="node14" href="$porting__inline_8hpp.html" title="porting_inline.hpp" alt="" coords="549,379,672,405"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="HL::ObstackHeap::ChunkHeader::getLimit" name="HL::ObstackHeap::ChunkHeader::getLimit">
+<area shape="rect" id="node2" href="$classHL_1_1ObstackHeap.html#a64234026abfea7bff9a92b2e93b305a0" title="HL::ObstackHeap\&lt; 0,\l MallocHeap \&gt;::free" alt="" coords="270,5,421,47"/>
+<area shape="rect" id="node3" href="$classHL_1_1ObstackHeap.html#a0829ec2b38edaafd4df969d8e0bbd415" title="HL::ObstackHeap\&lt; 0,\l MallocHeap \&gt;::grow" alt="" coords="270,71,421,112"/>
+<area shape="rect" id="node4" href="$classHL_1_1ObstackHeap.html#a56606f9fee59f08815c2ba1efe02bcd4" title="HL::ObstackHeap\&lt; 0,\l MallocHeap \&gt;::isValid" alt="" coords="268,136,423,177"/>
+<area shape="rect" id="node5" href="$classHL_1_1ObstackHeap.html#a892d4fd16dfda31f0ffd0461b00098c6" title="HL::ObstackHeap\&lt; 0,\l MallocHeap \&gt;::malloc" alt="" coords="269,201,422,243"/>
+</map>

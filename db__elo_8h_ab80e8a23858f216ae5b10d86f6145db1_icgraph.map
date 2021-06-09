@@ -1,0 +1,11 @@
+<map id="db_elo_delete" name="db_elo_delete">
+<area shape="rect" id="node2" href="$execute__statement_8c.html#a58b010816d96024eb901391f2b2207b3" title="delete_object_tuple" alt="" coords="187,56,322,83"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#a5260a71a62fea6cf8e6394a9d43e9ece" title="heap_attrinfo_delete_lob" alt="" coords="173,107,336,133"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#a96e539c459b2c56a4534fcf591bcc980" title="heap_attrinfo_set_uninitialized" alt="" coords="156,157,353,184"/>
+<area shape="rect" id="node8" href="$object__template_8c.html#ab1a49f2b7b043063d70b8f50111e7e9f" title="obt_apply_assignments" alt="" coords="175,208,334,235"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#a6a52d397abf14eeef1f1a23bccd2ed42" title="qexec_execute_delete" alt="" coords="179,259,331,285"/>
+<area shape="rect" id="node10" href="$query__executor_8c.html#aa789b9a1da1ee681d9ad9464672c2325" title="qexec_execute_update" alt="" coords="177,309,333,336"/>
+<area shape="rect" id="node3" href="$execute__statement_8c.html#a7ff55edca9d93dd271aa98b76e7e3605" title="update_object_tuple" alt="" coords="401,5,540,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#a55436ca0ff8e3d473b5c8ed3e259f183" title="delete_list_by_oids" alt="" coords="404,56,537,83"/>
+<area shape="rect" id="node5" href="$execute__statement_8c.html#adec947eee0f2d1fd31ddedbd465bc8af" title="do_replace_into" alt="" coords="414,107,527,133"/>
+</map>

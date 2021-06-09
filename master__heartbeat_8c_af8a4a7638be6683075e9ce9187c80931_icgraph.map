@@ -1,0 +1,5 @@
+<map id="hb_resource_send_get_eof" name="hb_resource_send_get_eof">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#a7ef50c56c703c8550287ce5ab0c71722" title="hb_thread_check_disk\l_failure" alt="" coords="232,35,384,76"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#aa39ce75bf6ca2ea860453562a95b00ca" title="hb_thread_resource\l_worker" alt="" coords="432,5,568,47"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#a445bfec33e06f7d759c35d6704382524" title="hb_thread_initialize" alt="" coords="616,42,749,69"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="file_postpone_destroy" name="file_postpone_destroy">
+<area shape="rect" id="node2" href="$extendible__hash_8c.html#a7b16d2b1c129e751459ad1e9707b4e1b" title="ehash_create_helper" alt="" coords="203,5,345,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a98b937ca0375b4d55ef3c1daeee35785" title="xbtree_delete_index" alt="" coords="205,56,343,83"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a2199d817b3d6fc06ac2772e0d210049d" title="xheap_destroy" alt="" coords="221,107,327,133"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#a816077d2fcf52e1e8536a9e77355ecdf" title="xheap_destroy_newly\l_created" alt="" coords="393,125,541,166"/>
+<area shape="rect" id="node3" href="$extendible__hash_8c.html#a2e148617bdcf4430fc113d378557ba60" title="xehash_create" alt="" coords="414,5,521,32"/>
+</map>

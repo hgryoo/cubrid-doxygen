@@ -1,0 +1,7 @@
+<map id="numeric_db_value_is_zero" name="numeric_db_value_is_zero">
+<area shape="rect" id="node2" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="229,56,409,83"/>
+<area shape="rect" id="node5" href="$query__opfunc_8c.html#a2142f5df6a6fe6a880f6dd6a179c7d5a" title="qdata_is_divided_zero" alt="" coords="244,107,395,133"/>
+<area shape="rect" id="node3" href="$parse__evaluate_8c.html#a8c4be930836f528e1f5dea8ef14f7767" title="pt_evaluate_tree_internal" alt="" coords="457,5,624,32"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#a7e95ac0522aada661a88c876786dddfa" title="pt_fold_const_expr" alt="" coords="475,56,607,83"/>
+<area shape="rect" id="node6" href="$query__opfunc_8h.html#aafb8199a5f74c33c642ada2e62e34d3c" title="qdata_divide_dbval" alt="" coords="474,107,607,133"/>
+</map>

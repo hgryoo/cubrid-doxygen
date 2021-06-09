@@ -1,0 +1,6 @@
+<map id="pt_sort_spec_cover" name="pt_sort_spec_cover">
+<area shape="rect" id="node2" href="$query__planner_8c.html#a93045b0fd73f5aaf6bdb69f576e9d739" title="qo_check_orderby_skip\l_descending" alt="" coords="189,35,348,76"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#a6e6f8a32d2609f63d8b60d59715d6e43" title="qo_plan_is_orderby\l_skip_candidate" alt="" coords="396,5,531,47"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#ad04b877a86065b76342661464afe91b7" title="qo_top_plan_new" alt="" coords="402,86,525,113"/>
+<area shape="rect" id="node5" href="$query__rewrite_8c.html#aa35a234703e4e4ffe3c313867bff0734" title="qo_reduce_order_by" alt="" coords="199,151,338,178"/>
+</map>

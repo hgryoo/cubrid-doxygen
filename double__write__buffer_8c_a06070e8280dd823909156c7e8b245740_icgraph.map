@@ -1,0 +1,6 @@
+<map id="dwb_block_disconnect_wait_queue_entry" name="dwb_block_disconnect_wait_queue_entry">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#a946638902723ab3a0b2b80702047fd65" title="dwb_remove_wait_queue\l_entry" alt="" coords="208,71,377,112"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8c.html#a56c95efd3338a9c6905b76749cbb76e8" title="dwb_signal_waiting\l_threads" alt="" coords="435,5,569,47"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8c.html#a63a546f3bd2182d9b4e0ead2aa4e6251" title="dwb_wait_for_block\l_completion" alt="" coords="433,71,571,112"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8c.html#a83874b2343c29141d5349aa14526ffde" title="dwb_wait_for_strucure\l_modification" alt="" coords="425,136,579,177"/>
+</map>

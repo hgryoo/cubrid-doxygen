@@ -1,0 +1,13 @@
+<map id="db_get_json_document" name="db_get_json_document">
+<area shape="rect" id="node2" href="$arithmetic_8h.html#a73f4e36249fbb64ee27f839a63933ab7" title="db_accumulate_json\l_arrayagg" alt="" coords="424,5,565,47"/>
+<area shape="rect" id="node4" href="$arithmetic_8h.html#a3226100a07e6d7628d5347cb61f195e7" title="db_accumulate_json\l_objectagg" alt="" coords="424,88,565,129"/>
+<area shape="rect" id="node5" href="$dbtype__function_8h.html#a775c8b9fc3693627f5298e020b180812" title="db_convert_json_into\l_scalar" alt="" coords="217,156,363,197"/>
+<area shape="rect" id="node6" href="$object__primitive_8c.html#a9633681d8192a620e472ebba97da0ceb" title="mr_cmpval_json" alt="" coords="436,222,553,249"/>
+<area shape="rect" id="node8" href="$db__json_8cpp.html#ac1cff097baa95c92fb68e885b4e071d9" title="db_value_to_json_value" alt="" coords="209,54,371,81"/>
+<area shape="rect" id="node9" href="$object__primitive_8c.html#afbe154031a0786efb5f16fc970328f61" title="mr_data_writeval_json" alt="" coords="419,273,571,299"/>
+<area shape="rect" id="node10" href="$object__primitive_8c.html#aa09ce7b8c86372cfaad601978ce7f863" title="mr_setmem_json" alt="" coords="433,323,556,350"/>
+<area shape="rect" id="node11" href="$classcubscan_1_1json__table_1_1scanner.html#a99af789495d777cd1b1d8dd7c713ff68" title="cubscan::json_table\l::scanner::open" alt="" coords="221,375,359,416"/>
+<area shape="rect" id="node12" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="214,441,366,467"/>
+<area shape="rect" id="node3" href="$query__aggregate_8cpp.html#ae648488289a189182d88cdf6ec9eb4d8" title="qdata_aggregate_value\l_to_accumulator" alt="" coords="619,5,775,47"/>
+<area shape="rect" id="node7" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="627,265,767,307"/>
+</map>

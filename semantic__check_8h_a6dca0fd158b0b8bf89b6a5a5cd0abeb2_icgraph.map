@@ -1,0 +1,21 @@
+<map id="pt_semantic_check" name="pt_semantic_check">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#ad22f2359217e110cbb0dc82891c25414" title="check_default_on_update\l_clause" alt="" coords="200,41,371,82"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="215,266,356,307"/>
+<area shape="rect" id="node8" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="689,245,807,272"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html#a38f878be1e2e058229cfef91516d5880" title="get_att_default_from_def" alt="" coords="202,107,369,133"/>
+<area shape="rect" id="node10" href="$semantic__check_8c.html#a24bc4f0a91e527103132bf36d7bbfca6" title="pt_check_create_entity" alt="" coords="669,669,827,696"/>
+<area shape="rect" id="node11" href="$semantic__check_8c.html#a2f72b1c989980fdf7907db4383e9f46d" title="pt_check_create_view" alt="" coords="450,695,602,721"/>
+<area shape="rect" id="node12" href="$semantic__check_8c.html#ad3fdd6cb586a725778ba7e2192129d28" title="pt_check_vclass_query_spec" alt="" coords="188,745,383,772"/>
+<area shape="rect" id="node13" href="$parser_8h.html#a60bdeaf2c9959a852a6b36a87905620a" title="pt_compile" alt="" coords="243,391,328,417"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#ac8eacd48feb9548404602a075d45b0a2" title="do_add_attribute" alt="" coords="467,5,585,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a4b5c1edbe844b65f680fa8eceaa5683e" title="do_change_att_schema_only" alt="" coords="431,56,621,83"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#ae2c6030d8ef2ca1dcc6d04266020dcef" title="check_change_attribute" alt="" coords="446,107,606,133"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#a6544008aa1b341b93a0f8f80361f982f" title="do_alter" alt="" coords="492,208,560,235"/>
+<area shape="rect" id="node14" href="$db__vdb_8c.html#ae1f8dc2b98ed7ccc4bb2aeefc7b5a47e" title="db_compile_statement\l_local" alt="" coords="449,259,603,301"/>
+<area shape="rect" id="node15" href="$execute__schema_8c.html#a136d0b630baa343288da3e0f11d035d0" title="execute_create_select\l_query" alt="" coords="449,325,603,366"/>
+<area shape="rect" id="node16" href="$view__transform_8h.html#a67afca1985f6d6a00e0346692bd59e86" title="mq_get_expression" alt="" coords="459,391,593,417"/>
+<area shape="rect" id="node17" href="$view__transform_8c.html#a6fb474d3098dee755e9ced9598678cf0" title="mq_translate_subqueries" alt="" coords="443,492,609,519"/>
+<area shape="rect" id="node18" href="$view__transform_8c.html#a85a6baf509b2579b68e8324ace3b0398" title="mq_virtual_queries" alt="" coords="683,467,813,493"/>
+<area shape="rect" id="node19" href="$semantic__check_8c.html#a5843229c5e01ec51876cbfc885b6377a" title="pt_check_alter_partition" alt="" coords="446,543,606,569"/>
+<area shape="rect" id="node20" href="$parser_8h.html#a2b415f9c0bb03589f79f54d6b0954b2c" title="pt_compile_trigger_stmt" alt="" coords="445,593,607,620"/>
+</map>

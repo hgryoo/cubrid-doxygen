@@ -1,0 +1,21 @@
+<map id="spage_next_record" name="spage_next_record">
+<area shape="rect" id="node2" href="$extendible__hash_8c.html#aaeb7259127342c482a1b4a4a21ae9783" title="ehash_check_merge_possible" alt="" coords="427,5,624,32"/>
+<area shape="rect" id="node5" href="$extendible__hash_8c.html#adc448edd065a6444c73a47b04fd8b5f8" title="ehash_dump_bucket" alt="" coords="672,259,815,285"/>
+<area shape="rect" id="node6" href="$extendible__hash_8c.html#ad8a762c26001fc51fcd197dbfc0225ab" title="ehash_locate_slot" alt="" coords="219,183,345,209"/>
+<area shape="rect" id="node11" href="$extendible__hash_8c.html#a26450909ef54a1fbc68a676200e250d8" title="ehash_map" alt="" coords="237,360,327,387"/>
+<area shape="rect" id="node12" href="$extendible__hash_8c.html#a7364e0e8eda0562a7361ff12b60c6104" title="ehash_split_bucket" alt="" coords="215,411,349,437"/>
+<area shape="rect" id="node13" href="$heap__file_8c.html#ae992651fa819e40b4a7958f333640ae4" title="heap_chkreloc_next" alt="" coords="213,461,351,488"/>
+<area shape="rect" id="node15" href="$heap__file_8c.html#a781f4a7fedbdaa4f5fb93edcef2de6ee" title="heap_delete_all_page\l_records" alt="" coords="209,513,355,554"/>
+<area shape="rect" id="node16" href="$heap__file_8c.html#af63e8be303a87f135195b996e4ed369f" title="heap_get_capacity" alt="" coords="217,579,347,605"/>
+<area shape="rect" id="node17" href="$heap__file_8c.html#a54bdd16c2a6a43e66973fb355f81d8c8" title="heap_next_internal" alt="" coords="217,629,347,656"/>
+<area shape="rect" id="node18" href="$heap__file_8h.html#abf0f38975a462a337a3db52b26cd3a98" title="heap_prefetch" alt="" coords="230,680,334,707"/>
+<area shape="rect" id="node19" href="$heap__file_8h.html#ada6a86c7e96b56caa5860e6a33340e61" title="heap_scanrange_to_following" alt="" coords="185,731,379,757"/>
+<area shape="rect" id="node20" href="$locator__sr_8c.html#ae8a912f57490caa58cd390d22535fd7b" title="redistribute_partition_data" alt="" coords="197,781,367,808"/>
+<area shape="rect" id="node3" href="$extendible__hash_8h.html#a00a376ae68821de52e727460e5b2fd97" title="ehash_delete" alt="" coords="863,56,961,83"/>
+<area shape="rect" id="node4" href="$extendible__hash_8c.html#a1c8176aed6a50a9ef5f8133c6c80a346" title="ehash_merge" alt="" coords="693,56,793,83"/>
+<area shape="rect" id="node7" href="$extendible__hash_8c.html#a13fadf97deb1f5b2ed7812d36c6eb858" title="ehash_insert_to_bucket" alt="" coords="445,259,605,285"/>
+<area shape="rect" id="node8" href="$extendible__hash_8c.html#a40b5a20e3ab1238fa19cd81872754732" title="ehash_merge_permanent" alt="" coords="441,56,609,83"/>
+<area shape="rect" id="node9" href="$extendible__hash_8c.html#a431c1ad9f3270ff06f031ec199890e23" title="ehash_rv_delete" alt="" coords="467,157,584,184"/>
+<area shape="rect" id="node10" href="$extendible__hash_8h.html#a86063ae13f43b7cd57db5bec697fda24" title="ehash_search" alt="" coords="474,208,577,235"/>
+<area shape="rect" id="node14" href="$heap__file_8c.html#a74f90f3011a14028be61f651827805d1" title="heap_check_all_pages\l_by_heapchain" alt="" coords="448,454,603,495"/>
+</map>

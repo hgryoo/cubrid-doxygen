@@ -1,0 +1,8 @@
+<map id="pp_get_precision" name="pp_get_precision">
+<area shape="rect" id="node2" href="$esql__translate_8c.html#a82726934301d0cbe7370c853a0e24e2f" title="emit_put_db_value" alt="" coords="173,107,304,133"/>
+<area shape="rect" id="node3" href="$esql__translate_8c.html#a20d6e0128ec0ad0f1d45a286170c7980" title="tr_static" alt="" coords="377,5,446,32"/>
+<area shape="rect" id="node4" href="$esql__translate_8c.html#ae2a52b92fc1e3ffff0e12ed7d6059a27" title="tr_open_cs" alt="" coords="368,56,455,83"/>
+<area shape="rect" id="node5" href="$esql__translate_8c.html#a159f787cbc0c0b7afac8105155c87f3b" title="tr_update_cs" alt="" coords="363,107,460,133"/>
+<area shape="rect" id="node6" href="$esql__translate_8c.html#ab702fb2e8b978538416942958d777296" title="tr_execute" alt="" coords="370,157,453,184"/>
+<area shape="rect" id="node7" href="$esql__translate_8c.html#a53ca97d25c5964fb783964e3b1ee4de3" title="tr_object_update" alt="" coords="352,208,471,235"/>
+</map>

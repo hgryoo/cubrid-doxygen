@@ -1,0 +1,17 @@
+<map id="src/transaction/log_writer.h" name="src/transaction/log_writer.h">
+<area shape="rect" id="node2" href="$client__credentials_8hpp.html" title="client_credentials.hpp" alt="" coords="962,244,1110,271"/>
+<area shape="rect" id="node7" href="$log__archives_8hpp.html" title="log_archives.hpp" alt="" coords="73,95,193,121"/>
+<area shape="rect" id="node9" href="$log__lsa_8hpp.html" title="log_lsa.hpp" alt="" coords="384,319,472,345"/>
+<area shape="rect" id="node11" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="445,393,578,420"/>
+<area shape="rect" id="node15" href="$tde_8h.html" title="tde.h" alt="" coords="272,244,322,271"/>
+<area shape="rect" id="node16" href="$log__common__impl_8h.html" title="log_common_impl.h" alt="" coords="476,95,614,121"/>
+<area shape="rect" id="node3" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="463,468,560,495"/>
+<area shape="rect" id="node4" href="$db__client__type_8hpp.html" title="db_client_type.hpp" alt="" coords="1089,319,1220,345"/>
+<area shape="rect" id="node5" href="$packable__object_8hpp.html" title="packable_object.hpp" alt="" coords="1244,319,1385,345"/>
+<area shape="rect" id="node8" href="$file__io_8h.html" title="file_io.h" alt="" coords="29,244,96,271"/>
+<area shape="rect" id="node13" href="$log__storage_8hpp.html" title="log_storage.hpp" alt="" coords="177,169,292,196"/>
+<area shape="rect" id="node10" href="$release__string_8h.html" title="release_string.h" alt="" coords="129,319,244,345"/>
+<area shape="rect" id="node17" href="$log__comm_8h.html" title="log_comm.h" alt="" coords="740,319,833,345"/>
+<area shape="rect" id="node18" href="$log__record_8hpp.html" title="log_record.hpp" alt="" coords="620,169,726,196"/>
+<area shape="rect" id="node19" href="$recovery_8h.html" title="recovery.h" alt="" coords="752,244,834,271"/>
+</map>

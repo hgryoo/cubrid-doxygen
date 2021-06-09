@@ -1,0 +1,5 @@
+<map id="stmt_bind_resultset_meta_handle" name="stmt_bind_resultset_meta_handle">
+<area shape="rect" id="node2" href="$db__stub_8c.html#a6aed22da5d12b856b8a1efb1f3f72b70" title="api_rs_get_resultset\l_metadata" alt="" coords="189,5,328,47"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a6c1bc94329c5ceed834355d673c75344" title="stmt_get_resultset\l_metadata_internal" alt="" coords="193,71,325,112"/>
+<area shape="rect" id="node4" href="$db__stub_8c.html#ae13a1cbbbcd5dc0959872e2dba81ce54" title="ci_stmt_get_resultset\l_metadata_impl" alt="" coords="376,71,523,112"/>
+</map>

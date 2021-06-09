@@ -1,0 +1,5 @@
+<map id="logtb_find_current_client_hostname" name="logtb_find_current_client_hostname">
+<area shape="rect" id="node2" href="$transaction__sr_8c.html#adea9113696646ab1a88c8e0e348180fa" title="xtran_lock_rep_read" alt="" coords="179,35,317,61"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8h.html#a7c1c8209c4552e78a29cac5e35570afd" title="stran_lock_rep_read" alt="" coords="370,5,509,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a620f79b8a510f629de75a91353258a62" title="slocator_find_lockhint\l_class_oids" alt="" coords="365,57,513,98"/>
+</map>

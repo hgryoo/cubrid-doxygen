@@ -1,0 +1,9 @@
+<map id="boot_get_lob_path" name="boot_get_lob_path">
+<area shape="rect" id="node2" href="$boot__cl_8c.html#a1c906d817cb0b45ca6b099228f903201" title="catcls_vclass_install" alt="" coords="181,5,324,32"/>
+<area shape="rect" id="node4" href="$utility_8h.html#a007cc0b03b360bba3ad584107baba295" title="copydb" alt="" coords="221,56,285,83"/>
+<area shape="rect" id="node5" href="$utility_8h.html#a63718f5e13693427fb6e54a08e28bb1c" title="spacedb" alt="" coords="217,107,288,133"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#acb0127ed69984740febd2060f7086821" title="xboot_soft_rename" alt="" coords="186,157,319,184"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="390,5,529,32"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#a7f52ecedc28d2909e854807812852079" title="file_tracker_item_spacedb" alt="" coords="372,107,547,133"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#a794a44f2e9de2660440c1ed06138ce56" title="boot_soft_rename" alt="" coords="396,157,523,184"/>
+</map>

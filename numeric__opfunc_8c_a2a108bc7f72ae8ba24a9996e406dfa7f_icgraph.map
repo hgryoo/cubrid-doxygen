@@ -1,0 +1,19 @@
+<map id="numeric_init_dec_str" name="numeric_init_dec_str">
+<area shape="rect" id="node2" href="$numeric__opfunc_8c.html#a3e45ba0f6ac8acec0ca0afc3bf6e86d1" title="numeric_coerce_big\l_num_to_dec_str" alt="" coords="593,185,732,226"/>
+<area shape="rect" id="node4" href="$numeric__opfunc_8h.html#a810833c3e87b7ebc839d0b061802a78c" title="numeric_coerce_num\l_to_dec_str" alt="" coords="589,302,736,343"/>
+<area shape="rect" id="node17" href="$numeric__opfunc_8c.html#ab5643a17c9a195fccb9515e808e60a6e" title="numeric_init_pow_of\l_2_helper" alt="" coords="196,243,337,285"/>
+<area shape="rect" id="node3" href="$numeric__opfunc_8c.html#afc7fcaa6e7e440034e0251fb06adf599" title="numeric_get_msb_for_dec" alt="" coords="788,5,963,32"/>
+<area shape="rect" id="node5" href="$cnv_8c.html#afc6c2f175952160dbf816ce27ad431d6" title="num_fmt_print" alt="" coords="823,107,928,133"/>
+<area shape="rect" id="node6" href="$arithmetic_8h.html#ad9378ae2c0b068c4a537e3c1ea67fa12" title="db_floor_dbval" alt="" coords="822,157,929,184"/>
+<area shape="rect" id="node7" href="$arithmetic_8h.html#a0535b866d5962b1e6a7577444d977abf" title="db_ceil_dbval" alt="" coords="825,208,926,235"/>
+<area shape="rect" id="node8" href="$arithmetic_8h.html#a2ca1b6f705b0fbbcc8406fdc5d157d29" title="db_round_dbval" alt="" coords="819,259,932,285"/>
+<area shape="rect" id="node9" href="$arithmetic_8h.html#ad0311a523d0853262727aadf322d144d" title="db_trunc_dbval" alt="" coords="820,309,931,336"/>
+<area shape="rect" id="node10" href="$arithmetic_8c.html#aabd3e9292007e9f3a9247e3fd00154b5" title="get_number_dbval_as\l_long_double" alt="" coords="801,361,950,402"/>
+<area shape="rect" id="node11" href="$numeric__opfunc_8h.html#ad6b0d1e7bb734b5b1b5f09dcf1865d60" title="numeric_coerce_num\l_to_double" alt="" coords="802,426,949,467"/>
+<area shape="rect" id="node12" href="$numeric__opfunc_8c.html#a9cd83f2a696886e5f3d032ead3e1d69d" title="numeric_get_integral_part" alt="" coords="790,492,961,519"/>
+<area shape="rect" id="node13" href="$numeric__opfunc_8c.html#a3393974e7e6158f1cef9f6ec8dbdbe36" title="numeric_get_fractional_part" alt="" coords="784,543,967,569"/>
+<area shape="rect" id="node14" href="$numeric__opfunc_8c.html#abeb1642c3111474dc1184e9a5fac3878" title="numeric_is_fraction\l_part_zero" alt="" coords="808,594,943,635"/>
+<area shape="rect" id="node15" href="$numeric__opfunc_8h.html#ae91a2b4fb055032ad2b0dac7c97f4e42" title="numeric_coerce_num\l_to_num" alt="" coords="802,659,949,701"/>
+<area shape="rect" id="node16" href="$numeric__opfunc_8h.html#ac7699555a0850613ed829d1d378029ab" title="numeric_db_value_print" alt="" coords="796,56,955,83"/>
+<area shape="rect" id="node18" href="$numeric__opfunc_8c.html#a1e5c436f8cbcc5df93e21b371edca216" title="numeric_get_pow_of_2" alt="" coords="385,251,541,277"/>
+</map>

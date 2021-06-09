@@ -1,0 +1,6 @@
+<map id="tr_unmap_trigger" name="tr_unmap_trigger">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#ad22e88534246991be186e6d3121cbd7c" title="tr_drop_trigger_internal" alt="" coords="172,64,327,91"/>
+<area shape="rect" id="node3" href="$trigger__manager_8h.html#afa0330b36f45069776820158359e133e" title="tr_check_rollback_triggers" alt="" coords="375,5,549,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#aed70ae6c883a57725cfef43cdc03d3c1" title="tr_delete_triggers\l_for_class" alt="" coords="401,57,523,98"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#a94fe1954d05e02fb4c78f222fea68ea6" title="tr_drop_trigger" alt="" coords="409,123,515,149"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="proxy_wakeup_context_by_shard" name="proxy_wakeup_context_by_shard">
+<area shape="rect" id="node2" href="$shard__proxy__io_8c.html#a2f5b0bb4bfc63dbc27c2c1d518cec952" title="proxy_client_check\l_waiter_and_wakeup" alt="" coords="209,23,353,65"/>
+<area shape="rect" id="node3" href="$shard__proxy__io_8c.html#aafb0cf99242ce0ad1674778debf4dc3e" title="proxy_process_cas_register" alt="" coords="401,5,587,32"/>
+<area shape="rect" id="node4" href="$shard__proxy__io_8h.html#a735b54a78e1151f85177561315393f1c" title="proxy_cas_release_by_ctx" alt="" coords="405,56,583,83"/>
+</map>

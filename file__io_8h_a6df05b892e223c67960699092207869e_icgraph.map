@@ -1,0 +1,9 @@
+<map id="fileio_is_page_sane" name="fileio_is_page_sane">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#a53f60c8254909bff538163410a83dade" title="dwb_set_slot_data" alt="" coords="219,35,350,61"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#a95ed3e56592413e8c5f4b6f90d196ef9" title="fileio_page_check_corruption" alt="" coords="189,115,380,141"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#a5d4e7c50b94d3152e02effcb1e4f54bf" title="dwb_set_data_on_next_slot" alt="" coords="431,5,615,32"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8c.html#ac80751d9f61eda97c899d3ad1b62180e" title="dwb_debug_check_dwb" alt="" coords="443,56,604,83"/>
+<area shape="rect" id="node6" href="$double__write__buffer_8c.html#afcf0480c55f8a719699f416082dc8206" title="dwb_check_data_page\l_is_sane" alt="" coords="446,107,601,149"/>
+<area shape="rect" id="node7" href="$file__io_8c.html#aca6d2f0fa8db31627a725fcb74139310" title="pwrite_with_injected\l_fault" alt="" coords="453,173,593,214"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#aa7f4946b49981798d50ffae1c26aeee4" title="pgbuf_check_bcb_page_vpid" alt="" coords="428,239,619,265"/>
+</map>

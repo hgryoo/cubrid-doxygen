@@ -1,0 +1,21 @@
+<map id="intl_identifier_cmp" name="intl_identifier_cmp">
+<area shape="rect" id="node2" href="$parser_8h.html#ad00161d3cffe9e50d587495b8e13b384" title="pt_str_compare" alt="" coords="180,436,292,463"/>
+<area shape="rect" id="node3" href="$esql__gadget_8c.html#af8ee72c0e857bd427f59f0dcec5cc06c" title="gadget_attr_index" alt="" coords="375,5,501,32"/>
+<area shape="rect" id="node4" href="$cnf_8c.html#a2e5307627aec3a0f89d91469a5ac093d" title="pt_transform_cnf_post" alt="" coords="362,56,514,83"/>
+<area shape="rect" id="node5" href="$name__resolution_8c.html#ad0c49a8d0a076e2313381c33a122d907" title="pt_bind_reserved_name" alt="" coords="358,107,518,133"/>
+<area shape="rect" id="node6" href="$name__resolution_8c.html#a8e618654b13d30a3f4fdaa2f60c041b1" title="pt_bind_names" alt="" coords="613,183,724,209"/>
+<area shape="rect" id="node7" href="$name__resolution_8c.html#ae0255eab7c9a6c690c94ad0e183d5bdd" title="pt_find_name_in_spec" alt="" coords="593,436,745,463"/>
+<area shape="rect" id="node8" href="$name__resolution_8c.html#a439e8f7a2a4d8cb5a64919e3806e0cbe" title="pt_check_unique_exposed" alt="" coords="350,259,526,285"/>
+<area shape="rect" id="node9" href="$parser_8h.html#a343603e49f41ba91fb0eb974385c204a" title="pt_check_unique_names" alt="" coords="355,309,521,336"/>
+<area shape="rect" id="node10" href="$name__resolution_8c.html#a990530028c99c1d805bccfe66803a355" title="pt_is_correlation_name" alt="" coords="360,360,516,387"/>
+<area shape="rect" id="node11" href="$name__resolution_8c.html#a904058d5ac7071e970943f2ffa8b59f6" title="pt_is_on_list" alt="" coords="391,411,485,437"/>
+<area shape="rect" id="node12" href="$name__resolution_8c.html#ae3545436a5c6579b919c393a9e53bf4e" title="pt_resolve_vclass_args" alt="" coords="359,208,517,235"/>
+<area shape="rect" id="node13" href="$name__resolution_8c.html#ae1542025adb1a7c1599ff6bdb026bf2b" title="pt_resolve_hint_args" alt="" coords="367,512,509,539"/>
+<area shape="rect" id="node14" href="$parser_8h.html#aecf016abd07fe4791c2bc6e2388f9455" title="pt_resolve_using_index" alt="" coords="359,563,517,589"/>
+<area shape="rect" id="node15" href="$semantic__check_8c.html#a3f34b189c6864eca74e3e988555f26df" title="pt_number_of_attributes" alt="" coords="357,613,519,640"/>
+<area shape="rect" id="node16" href="$semantic__check_8h.html#aced1baa2c89cbe642fcf5facaa5c887e" title="pt_check_cyclic_reference\l_in_view_spec" alt="" coords="349,689,527,730"/>
+<area shape="rect" id="node17" href="$semantic__check_8c.html#a24bc4f0a91e527103132bf36d7bbfca6" title="pt_check_create_entity" alt="" coords="590,793,747,820"/>
+<area shape="rect" id="node18" href="$semantic__check_8c.html#a4b3d5d45219cedc7d9447296d9a21cc0" title="pt_check_single_valued_node" alt="" coords="340,856,536,883"/>
+<area shape="rect" id="node19" href="$semantic__check_8c.html#a8ace6e3dcf7c5b1840dc5f4df6fed4b7" title="pt_semantic_check_local" alt="" coords="584,869,753,896"/>
+<area shape="rect" id="node20" href="$semantic__check_8c.html#afb740047a0cce235f4dda384c34f708c" title="pt_check_unique_attr" alt="" coords="365,805,511,832"/>
+</map>

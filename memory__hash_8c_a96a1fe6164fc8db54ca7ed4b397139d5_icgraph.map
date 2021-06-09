@@ -1,0 +1,21 @@
+<map id="mht_adjust_lru_list" name="mht_adjust_lru_list">
+<area shape="rect" id="node2" href="$memory__hash_8h.html#a010f40ebbfde5f9e5d86c353e5e913d2" title="mht_get" alt="" coords="184,487,253,513"/>
+<area shape="rect" id="node3" href="$shard__statement_8h.html#a2bca083bc38dff42bf2fa3994c9db5d5" title="shard_stmt_find_by_sql" alt="" coords="310,5,470,32"/>
+<area shape="rect" id="node4" href="$shard__statement_8c.html#a07510e36dce2e48c9f4013f03941868d" title="shard_stmt_put_statement\l_to_map" alt="" coords="301,57,479,98"/>
+<area shape="rect" id="node5" href="$shard__statement_8c.html#ad98dc07a838742d278d1b51eae02b2d3" title="shard_stmt_del_statement\l_from_map" alt="" coords="302,122,478,163"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#adb8433e711d54260aa2106b6f1e0582c" title="tr_map_trigger" alt="" coords="337,188,443,215"/>
+<area shape="rect" id="node7" href="$work__space_8h.html#ad1362ade1900c4fb04da052bc76cafa2" title="ws_add_classname" alt="" coords="321,239,459,265"/>
+<area shape="rect" id="node8" href="$work__space_8h.html#a78ad00ce0589ec802ac86ec99d278ae5" title="ws_find_class" alt="" coords="337,289,443,316"/>
+<area shape="rect" id="node9" href="$name__resolution_8c.html#a39d82df2f4483cbce5f6f6fb064469be" title="pt_make_subclass_list" alt="" coords="313,340,467,367"/>
+<area shape="rect" id="node10" href="$parse__evaluate_8c.html#ac38bf10ba27dc32abcb58f7de1ba0f58" title="pt_associate_label\l_with_value" alt="" coords="325,391,455,433"/>
+<area shape="rect" id="node11" href="$parser_8h.html#a15913724e29988f96037620b4225a468" title="pt_find_value_of_label" alt="" coords="315,457,465,484"/>
+<area shape="rect" id="node12" href="$list__file_8h.html#a744ee07fc469b2a5438abf874a7195af" title="qfile_lookup_list_cache\l_entry" alt="" coords="311,509,469,550"/>
+<area shape="rect" id="node13" href="$list__file_8h.html#abc17ed70916eb928bd01032874ddb1c2" title="qfile_update_list_cache\l_entry" alt="" coords="311,574,469,615"/>
+<area shape="rect" id="node14" href="$partition_8c.html#a72622382f9bc27b0abd70dab2add61f4" title="partition_load_context\l_from_cache" alt="" coords="315,639,465,681"/>
+<area shape="rect" id="node15" href="$query__executor_8c.html#a17faac1fcc1657c08eccb5e91adfc86a" title="qexec_hash_gby_agg\l_tuple" alt="" coords="316,705,464,746"/>
+<area shape="rect" id="node16" href="$serial_8h.html#af7133207bc745c5bf5eb43971723e6a7" title="xserial_get_current\l_value" alt="" coords="324,770,456,811"/>
+<area shape="rect" id="node17" href="$serial_8h.html#accc5aa02a32b9e2776916f6e3d649250" title="xserial_get_next_value" alt="" coords="527,865,681,892"/>
+<area shape="rect" id="node18" href="$serial_8c.html#a5c7fadbb76bc3a179a711c6ffb135494" title="xserial_get_next_value\l_internal" alt="" coords="313,887,467,929"/>
+<area shape="rect" id="node19" href="$serial_8h.html#a1dbad3cc661d30a102b35a432a8d12b3" title="xserial_decache" alt="" coords="332,953,448,980"/>
+<area shape="rect" id="node20" href="$catalog__class_8c.html#a4356f379e469c6a91f8359f99ccac91d" title="catcls_find_oid" alt="" coords="335,1004,445,1031"/>
+</map>

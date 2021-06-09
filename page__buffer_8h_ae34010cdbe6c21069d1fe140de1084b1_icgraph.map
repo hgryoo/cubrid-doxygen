@@ -1,0 +1,21 @@
+<map id="pgbuf_has_any_waiters" name="pgbuf_has_any_waiters">
+<area shape="rect" id="node2" href="$structbtree__insert__list.html#acfbd07c031722706b42c7021fee02e0e" title="btree_insert_list::\lcheck_release_latch" alt="" coords="219,180,361,221"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a9077f8b7bf790bf8861e1ebbe0c74ff2" title="file_header_sanity\l_check" alt="" coords="227,393,353,435"/>
+<area shape="rect" id="node20" href="$heap__file_8h.html#a28f6fc3308f6b6f0fb71222f8f5aa1a8" title="heap_remove_page_on\l_vacuum" alt="" coords="212,459,368,500"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a0fde528436144f61d9ba16806b85b688" title="btree_key_online_index\l_IB_insert_list" alt="" coords="422,5,581,47"/>
+<area shape="rect" id="node5" href="$file__manager_8h.html#a3a741355345c6add6859fa974b7025eb" title="file_alloc" alt="" coords="465,122,538,149"/>
+<area shape="rect" id="node6" href="$file__manager_8h.html#a16d305dda24a6bc850b5fb1ce06f57a8" title="file_alloc_multiple" alt="" coords="661,97,787,123"/>
+<area shape="rect" id="node7" href="$file__manager_8h.html#a42ec3a475e02cd7e81fdd1fd727d0aa5" title="file_alloc_sticky_first_page" alt="" coords="635,159,813,186"/>
+<area shape="rect" id="node8" href="$file__manager_8h.html#af7b9e9f5c59461af1a7fdaee2d4ee6e5" title="file_apply_tde_algorithm" alt="" coords="420,223,583,250"/>
+<area shape="rect" id="node9" href="$file__manager_8h.html#a12556c033545ba1fd43da7be7c2f9d61" title="file_check_vpid" alt="" coords="445,274,557,301"/>
+<area shape="rect" id="node10" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="460,325,543,351"/>
+<area shape="rect" id="node11" href="$file__manager_8h.html#a3b10d7372cb717cae58a387cf8f22267" title="file_descriptor_dump" alt="" coords="430,375,573,402"/>
+<area shape="rect" id="node12" href="$file__manager_8h.html#afaf4b108de224d4e453709d803a49337" title="file_descriptor_get" alt="" coords="437,426,565,453"/>
+<area shape="rect" id="node13" href="$file__manager_8h.html#ae2d7540930ed8b7a1a73d750926bcd9b" title="file_descriptor_update" alt="" coords="427,477,576,503"/>
+<area shape="rect" id="node14" href="$file__manager_8h.html#ab01b1819f794bd587fead32d7ba23c55" title="file_get_num_user_pages" alt="" coords="416,527,587,554"/>
+<area shape="rect" id="node15" href="$file__manager_8h.html#ab03ae1068254b4d7f45c8dde81be5e56" title="file_get_sticky_first_page" alt="" coords="416,578,587,605"/>
+<area shape="rect" id="node16" href="$file__manager_8h.html#a1235b1189e1524d6df95ac47bde702e4" title="file_get_type" alt="" coords="453,629,549,655"/>
+<area shape="rect" id="node17" href="$file__manager_8c.html#a2c18ecb76aa64e526cd6c90a8fdc9ee1" title="file_header_copy" alt="" coords="441,679,561,706"/>
+<area shape="rect" id="node18" href="$file__manager_8h.html#aa2b3f9708a8696d4b64de8b292a75e15" title="file_is_temp" alt="" coords="455,730,547,757"/>
+<area shape="rect" id="node19" href="$file__manager_8h.html#af76b436d627c9b8eac53b49d40c916d2" title="file_map_pages" alt="" coords="445,781,558,807"/>
+</map>

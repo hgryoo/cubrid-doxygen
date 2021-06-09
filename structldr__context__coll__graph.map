@@ -1,0 +1,14 @@
+<map id="ldr_context" name="ldr_context">
+<area shape="rect" id="node7" href="$structLDR__ATTDESC.html" title="{LDR_ATTDESC\n|+ parser_str\l+ parser_str_len\l+ parser_buf_len\l+ parser_type\l+ instance_id\l|}" alt="" coords="386,2019,505,2155"/>
+<area shape="rect" id="node2" href="$structcubload_1_1load__args.html" title="{cubload::load_args\n|+ volume\l+ input_file\l+ user_name\l+ password\l+ syntax_check\l+ load_only\l+ estimated_size\l+ verbose\l+ disable_statistics\l+ periodic_commit\l+ verbose_commit\l+ no_oid_hint\l+ schema_file\l+ index_file\l+ trigger_file\l+ object_file\l+ error_file\l+ ignore_logging\l+ compare_storage_order\l+ table_name\l+ ignore_class_file\l+ ignore_classes\l+ m_ignored_errors\l+ PERIODIC_COMMIT_DEFAULT\l_VALUE\l|+ load_args()\l+ pack()\l+ unpack()\l+ get_packed_size()\l+ parse_ignore_class_file()\l}" alt="" coords="916,961,1145,1449"/>
+<area shape="rect" id="node3" href="$classcubpacking_1_1packable__object.html" title="{cubpacking::packable\l_object\n||+ ~packable_object()\l+ get_packed_size()\l+ pack()\l+ unpack()\l+ is_equal()\l}" alt="" coords="957,685,1105,836"/>
+<area shape="rect" id="node4" href="$structclass__table.html" title="{class_table\n|+ count\l+ presize\l+ total_inserts\l|}" alt="" coords="1191,380,1297,487"/>
+<area shape="rect" id="node5" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="583,5,758,259"/>
+<area shape="rect" id="node8" href="$structsm__attribute.html" title="{sm_attribute\n|+ id\l+ offset\l+ on_update_default_expr\l+ flags\l+ order\l+ storage_order\l+ comment\l|}" alt="" coords="209,1123,381,1288"/>
+<area shape="rect" id="node9" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="469,321,603,545"/>
+<area shape="rect" id="node10" href="$structdb__set.html" title="{db_set\n|+ disk_set\l+ attribute\l+ ref_count\l+ disk_size\l+ need_clear\l|}" alt="" coords="497,693,594,829"/>
+<area shape="rect" id="node11" href="$structsm__descriptor.html" title="{sm_descriptor\n|+ name\l+ name_space\l|}" alt="" coords="1307,569,1415,661"/>
+<area shape="rect" id="node13" href="$structsm__method.html" title="{sm_method\n|+ function\l+ id\l+ order\l+ unused\l|}" alt="" coords="499,1145,589,1266"/>
+<area shape="rect" id="node6" href="$structinstance__info.html" title="{instance_info\n|+ flags\l|}" alt="" coords="1229,93,1328,171"/>
+<area shape="rect" id="node12" href="$structsm__method__argument.html" title="{sm_method_argument\n|+ index\l|}" alt="" coords="798,860,949,937"/>
+</map>

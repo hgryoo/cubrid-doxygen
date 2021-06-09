@@ -1,0 +1,12 @@
+<map id="file_init_page_type_internal" name="file_init_page_type_internal">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a21fdae04504a9e75c406c7df66fbf33f" title="file_init_page_type" alt="" coords="202,253,333,279"/>
+<area shape="rect" id="node11" href="$file__manager_8h.html#ab9c86a7931cbbd0fd9b66a2926f25d10" title="file_init_temp_page_type" alt="" coords="184,354,351,381"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a8d4b4c64e64da552b9bbb71f5415ee41" title="vacuum_create_file\l_for_vacuum_data" alt="" coords="418,5,553,47"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#a43015d9f40393d7c0045aeed26371db6" title="vacuum_create_file\l_for_dropped_files" alt="" coords="418,71,553,112"/>
+<area shape="rect" id="node5" href="$vacuum_8h.html#a503bfb46b513078cca18c570df9907a6" title="vacuum_consume_buffer\l_log_blocks" alt="" coords="401,136,569,177"/>
+<area shape="rect" id="node6" href="$vacuum_8c.html#ab3cea56efb984531d2c8dbc2ca5f3cfe" title="vacuum_add_dropped_file" alt="" coords="399,202,572,229"/>
+<area shape="rect" id="node7" href="$extendible__hash_8c.html#a7b16d2b1c129e751459ad1e9707b4e1b" title="ehash_create_helper" alt="" coords="414,354,557,381"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#a23cd5f642edebaad25e8fafd58600228" title="heap_create_internal" alt="" coords="414,253,557,279"/>
+<area shape="rect" id="node9" href="$overflow__file_8h.html#a0dea508c2a4861ae92f8a35813c01bfa" title="overflow_insert" alt="" coords="430,405,541,431"/>
+<area shape="rect" id="node10" href="$overflow__file_8h.html#acf0a82fadbaf6ca25f85cc615c5ceb1a" title="overflow_update" alt="" coords="427,303,544,330"/>
+</map>

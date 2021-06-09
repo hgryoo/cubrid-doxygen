@@ -1,0 +1,12 @@
+<map id="hb_return_proc_by_args" name="hb_return_proc_by_args">
+<area shape="rect" id="node2" href="$master__heartbeat_8h.html#ad5dc0541bf3c989d91fc903d734495e3" title="hb_deregister_by_args" alt="" coords="223,19,377,46"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8h.html#a3aea36f5b682450a1a3684bfc3924b91" title="hb_is_registered_process" alt="" coords="215,78,385,105"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8h.html#aaefcbbcb81eb04e31435ffaf62523e15" title="hb_register_new_process" alt="" coords="215,129,385,155"/>
+<area shape="rect" id="node8" href="$master__heartbeat_8c.html#a943950e3818e492213fc2a7a1c78b995" title="hb_resource_job_confirm\l_start" alt="" coords="217,180,383,221"/>
+<area shape="rect" id="node9" href="$master__heartbeat_8c.html#a55b1494e27be31b12f76a26f5776b2df" title="hb_resource_job_proc\l_start" alt="" coords="225,245,375,287"/>
+<area shape="rect" id="node10" href="$master__heartbeat_8h.html#ab3345237d28e9527feaa7fe6b6c0e1cd" title="hb_start_util_process" alt="" coords="227,311,373,338"/>
+<area shape="rect" id="node3" href="$master__request_8c.html#a46cff02c38f4dbb4c8109f4438981df5" title="css_process_ha_deregister\l_by_args" alt="" coords="433,5,615,47"/>
+<area shape="rect" id="node5" href="$master__request_8c.html#a6841bf0dd5e5cbf48cf9e99c51e88c1f" title="css_process_is_registered\l_ha_proc" alt="" coords="435,71,613,112"/>
+<area shape="rect" id="node7" href="$master__request_8c.html#a002853571ab2faa79172cab4812d5425" title="css_process_register\l_ha_process" alt="" coords="451,136,597,177"/>
+<area shape="rect" id="node11" href="$master__request_8c.html#a86d70040f9f7b29354224022c47a44ef" title="css_process_ha_start\l_util_process" alt="" coords="449,304,599,345"/>
+</map>

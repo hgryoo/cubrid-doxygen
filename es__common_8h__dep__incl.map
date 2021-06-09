@@ -1,0 +1,21 @@
+<map id="src/storage/es_common.h" name="src/storage/es_common.h">
+<area shape="rect" id="node2" href="$string__opfunc_8c.html" title="src/query/string_opfunc.c" alt="" coords="79,80,248,107"/>
+<area shape="rect" id="node3" href="$es_8h.html" title="src/storage/es.h" alt="" coords="746,80,862,107"/>
+<area shape="rect" id="node11" href="$es__posix_8h.html" title="src/storage/es_posix.h" alt="" coords="273,80,428,107"/>
+<area shape="rect" id="node13" href="$es__owfs_8h.html" title="src/storage/es_owfs.h" alt="" coords="452,80,603,107"/>
+<area shape="rect" id="node15" href="$es__common_8c.html" title="src/storage/es_common.c" alt="" coords="886,80,1060,107"/>
+<area shape="rect" id="node16" href="$boot_8h.html" title="src/transaction/boot.h" alt="" coords="1322,80,1470,107"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8c.html" title="src/communication/network\l_interface_cl.c" alt="" coords="1172,244,1355,285"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="883,244,1066,285"/>
+<area shape="rect" id="node6" href="$elo_8c.html" title="src/object/elo.c" alt="" coords="1167,162,1278,189"/>
+<area shape="rect" id="node7" href="$es_8c.html" title="src/storage/es.c" alt="" coords="380,162,496,189"/>
+<area shape="rect" id="node8" href="$boot__cl_8c.html" title="src/transaction/boot_cl.c" alt="" coords="721,162,886,189"/>
+<area shape="rect" id="node9" href="$log__impl_8h.html" title="src/transaction/log\l_impl.h" alt="" coords="962,155,1091,196"/>
+<area shape="rect" id="node10" href="$transaction__transient_8cpp.html" title="src/transaction/transaction\l_transient.cpp" alt="" coords="521,155,697,196"/>
+<area shape="rect" id="node12" href="$es__posix_8c.html" title="src/storage/es_posix.c" alt="" coords="26,162,181,189"/>
+<area shape="rect" id="node14" href="$es__owfs_8c.html" title="src/storage/es_owfs.c" alt="" coords="206,162,356,189"/>
+<area shape="rect" id="node17" href="$databases__file_8c.html" title="src/base/databases\l_file.c" alt="" coords="1721,244,1857,285"/>
+<area shape="rect" id="node18" href="$xserver__interface_8h.html" title="src/base/xserver_interface.h" alt="" coords="1302,162,1489,189"/>
+<area shape="rect" id="node19" href="$connection__defs_8h.html" title="src/connection/connection\l_defs.h" alt="" coords="1764,155,1939,196"/>
+<area shape="rect" id="node20" href="$connection__globals_8c.html" title="src/connection/connection\l_globals.c" alt="" coords="1514,155,1688,196"/>
+</map>

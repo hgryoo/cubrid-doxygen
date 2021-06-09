@@ -1,0 +1,6 @@
+<map id="qdata_add_int_to_timestamptz" name="qdata_add_int_to_timestamptz">
+<area shape="rect" id="node2" href="$query__opfunc_8c.html#ab523c334c51905e3e11f5acc718f0ecd" title="qdata_add_int_to_dbval" alt="" coords="255,5,413,32"/>
+<area shape="rect" id="node5" href="$query__opfunc_8c.html#a927652a53714429f11f67ba9be24c0f3" title="qdata_add_timestamptz\l_to_dbval" alt="" coords="253,57,415,98"/>
+<area shape="rect" id="node3" href="$query__opfunc_8h.html#a9fa70ad6fa6a96385c1600dd2e37f203" title="qdata_add_dbval" alt="" coords="643,35,763,61"/>
+<area shape="rect" id="node4" href="$query__opfunc_8h.html#aac9d8a58076279ce106291800e69f542" title="qdata_strcat_dbval" alt="" coords="463,35,595,61"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="xts_save_regu_variable_list" name="xts_save_regu_variable_list">
+<area shape="rect" id="node2" href="$xasl__to__stream_8c.html#a0e8d93596ecf65c5e90cfb57119e4910" title="xts_process_buildlist_proc" alt="" coords="731,34,907,61"/>
+<area shape="rect" id="node4" href="$xasl__to__stream_8c.html#ad358da598465ef0c574df839a13bdcf5" title="xts_process_cls_spec_type" alt="" coords="727,186,911,213"/>
+<area shape="rect" id="node6" href="$xasl__to__stream_8c.html#abbcbae735fea0cf1d84042ef98f8d7f2" title="xts_process_connectby_proc" alt="" coords="723,136,915,162"/>
+<area shape="rect" id="node7" href="$xasl__to__stream_8c.html#a818068f3cbf9c8becfc9f34cf6b37be1" title="xts_process_function_type" alt="" coords="247,460,426,486"/>
+<area shape="rect" id="node8" href="$xasl__to__stream_8c.html#ac07f0029e851f3d4d81826b275d2cc53" title="xts_process_list_spec_type" alt="" coords="727,292,911,318"/>
+<area shape="rect" id="node9" href="$xasl__to__stream_8c.html#a1b9e30dc8ed3ce088683b5fc1f1754df" title="xts_process_method\l_spec_type" alt="" coords="509,343,651,384"/>
+<area shape="rect" id="node10" href="$xasl__to__stream_8c.html#ae2970fbbc64ee700a73312bd0d8f0be7" title="xts_process_outptr_list" alt="" coords="258,85,415,112"/>
+<area shape="rect" id="node12" href="$xasl__to__stream_8c.html#af5910ec1e1244d487a604e6688b66edf" title="xts_process_regu_variable_list" alt="" coords="236,510,437,537"/>
+<area shape="rect" id="node15" href="$xasl__to__stream_8c.html#aa56060ae61598fd9d6e0e23c6c124301" title="xts_process_set_spec_type" alt="" coords="726,405,911,432"/>
+<area shape="rect" id="node16" href="$xasl__to__stream_8c.html#a2aa33c6a12c0edafd4a04ef8c6e2248f" title="xts_process_showstmt\l_spec_type" alt="" coords="258,238,415,279"/>
+<area shape="rect" id="node17" href="$xasl__to__stream_8c.html#a9e250663fb3b8faac87cdbb0271e5ba9" title="xts_save_regu_varlist_list" alt="" coords="250,569,423,596"/>
+<area shape="rect" id="node3" href="$xasl__to__stream_8c.html#a668786726f34509f06689e47376aec69" title="xts_process_xasl_node" alt="" coords="1153,110,1312,137"/>
+<area shape="rect" id="node5" href="$xasl__to__stream_8c.html#a1ceba46cc219a0fd2ca4e06149f13927" title="xts_process_access\l_spec_type" alt="" coords="963,259,1105,300"/>
+<area shape="rect" id="node11" href="$xasl__to__stream_8c.html#aa1db6f12bd4d8d9cc4d7c60bb7be66a9" title="xts_save_outptr_list" alt="" coords="511,85,649,112"/>
+<area shape="rect" id="node13" href="$xasl__to__stream_8c.html#a9697657b54fef4ed59fabdd4ff324926" title="xts_pack_regu_variable\l_value" alt="" coords="501,511,659,552"/>
+<area shape="rect" id="node14" href="$xasl__to__stream_8c.html#a6b300102f49620aba637c9e4a6f4066c" title="xts_process_aggregate_type" alt="" coords="485,460,675,486"/>
+<area shape="rect" id="node18" href="$xasl__to__stream_8c.html#aba834c53bacab1dc27e8bfc624a49788" title="xts_process_selupd_list" alt="" coords="499,577,661,604"/>
+</map>

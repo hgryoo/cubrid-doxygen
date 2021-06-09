@@ -1,0 +1,12 @@
+<map id="qfile_free_list_id" name="qfile_free_list_id">
+<area shape="rect" id="node2" href="$query__analytic_8hpp.html#a1fd723af965b776f43e5773b75f58456" title="qdata_initialize_analytic_func" alt="" coords="169,13,361,39"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#af6b704c80775610c08b475674025378f" title="qexec_clear_analytic\l_function_state" alt="" coords="193,64,337,105"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#ad101505413f9b82f4ffd57b256444e0c" title="qexec_clear_analytic\l_state" alt="" coords="409,115,553,156"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#a75ae07a17bba2b206fbea48645d117a8" title="qexec_execute_analytic" alt="" coords="601,151,764,178"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#a9c1b6caa93e08b016011a658c89661c1" title="qexec_free_agg_hash\l_context" alt="" coords="191,232,340,273"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#aeb8bf568b044802bdc42d5e200d45f27" title="qexec_groupby" alt="" coords="210,298,321,325"/>
+<area shape="rect" id="node9" href="$query__executor_8h.html#a7d0bca1e8254f25b16a026620d4ebdab" title="qexec_start_mainblock\l_iterations" alt="" coords="187,349,343,391"/>
+<area shape="rect" id="node10" href="$list__file_8c.html#a02ed43955f2b9c7a1c551f6f886b3437" title="qfile_union_list" alt="" coords="211,415,319,442"/>
+<area shape="rect" id="node11" href="$session_8c.html#ad9a0de3bf095360f1f609ec1d9cfb7b2" title="session_free_sentry_data" alt="" coords="180,466,351,493"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a96e2f107a0f4ba809f415ebcb2542938" title="qexec_analytic_start\l_group" alt="" coords="410,5,553,47"/>
+</map>

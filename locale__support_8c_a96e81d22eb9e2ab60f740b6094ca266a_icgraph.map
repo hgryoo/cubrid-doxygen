@@ -1,0 +1,6 @@
+<map id="str_pop_token" name="str_pop_token">
+<area shape="rect" id="node2" href="$locale__support_8h.html#a000bb86f4b4c446be564b3b2fff5b165" title="locale_get_cfg_locales" alt="" coords="157,56,312,83"/>
+<area shape="rect" id="node3" href="$language__support_8c.html#ae455bef4c810e301896b3ae6c3c83c55" title="init_user_locales" alt="" coords="360,5,479,32"/>
+<area shape="rect" id="node4" href="$utility_8h.html#ad5781c1e37add771dc67bc370ecf8e4e" title="genlocale" alt="" coords="381,56,458,83"/>
+<area shape="rect" id="node5" href="$utility_8h.html#a330fd0870772875acbeb6f5c9995e63c" title="dumplocale" alt="" coords="375,107,463,133"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="logpb_vacuum_reset_log_header_cache" name="logpb_vacuum_reset_log_header_cache">
+<area shape="rect" id="node2" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="217,56,345,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a3a7892fc280ade1dfd26f3e21ac3da16" title="logpb_initialize_header" alt="" coords="205,157,358,184"/>
+<area shape="rect" id="node9" href="$vacuum_8c.html#a98dc5dfb2fca47a345da4f0f7c678554" title="vacuum_recover_lost\l_block_data" alt="" coords="208,234,355,275"/>
+<area shape="rect" id="node11" href="$vacuum_8h.html#aef2fef245e840fb488a1cc5cdeabc803" title="vacuum_rv_redo_vacuum\l_complete" alt="" coords="196,299,367,341"/>
+<area shape="rect" id="node12" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="244,379,319,405"/>
+<area shape="rect" id="node3" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="446,5,542,32"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="621,31,764,57"/>
+<area shape="rect" id="node6" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="429,107,559,133"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="420,157,568,184"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a939d93ad05badeab720f13c734615ce4" title="logpb_fetch_header\l_with_buffer" alt="" coords="427,209,561,250"/>
+<area shape="rect" id="node10" href="$vacuum_8h.html#a2cb21fa7816f2d0a4cf699cae9e7fd7b" title="vacuum_data_load_and\l_recover" alt="" coords="415,274,573,315"/>
+<area shape="rect" id="node13" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="427,340,561,367"/>
+<area shape="rect" id="node14" href="$network__interface__cl_8h.html#a4ddd3694ee7effd5a8477603cadec249" title="cvacuum" alt="" coords="457,391,531,417"/>
+<area shape="rect" id="node15" href="$network__interface__sr_8h.html#a9a3181c08916a72b1163c260ca7de7e5" title="svacuum" alt="" coords="457,441,531,468"/>
+</map>

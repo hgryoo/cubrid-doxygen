@@ -1,0 +1,12 @@
+<map id="vacuum_data::get_first_blockid" name="vacuum_data::get_first_blockid">
+<area shape="rect" id="node2" href="$classvacuum__job__cursor.html#ae2063f86999debed8e9843c61363c7cc" title="vacuum_job_cursor::\lchange_blockid" alt="" coords="226,5,369,47"/>
+<area shape="rect" id="node5" href="$classvacuum__job__cursor.html#ac9ff563c52cfea6e792b3de2ef023cb3" title="vacuum_job_cursor::\lreadjust_to_vacuum_data\l_changes" alt="" coords="212,70,383,126"/>
+<area shape="rect" id="node7" href="$classvacuum__job__cursor.html#a297a5d58604bd317914a0fb917d2722d" title="vacuum_job_cursor::\lset_on_vacuum_data_start" alt="" coords="208,149,387,191"/>
+<area shape="rect" id="node8" href="$vacuum_8c.html#aaf77b9ff47ffac5ded3aa29f205a0a36" title="vacuum_update_keep\l_from_log_pageid" alt="" coords="223,237,372,279"/>
+<area shape="rect" id="node3" href="$classvacuum__job__cursor.html#a8e2f7667d9364ff5a8a19103ca525409" title="vacuum_job_cursor::\lincrement_blockid" alt="" coords="457,8,600,49"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="671,82,745,109"/>
+<area shape="rect" id="node6" href="$classvacuum__job__cursor.html#a7748893163390231568a44a5e48f7f8a" title="vacuum_job_cursor::\lforce_data_update" alt="" coords="457,75,600,116"/>
+<area shape="rect" id="node9" href="$vacuum_8h.html#a503bfb46b513078cca18c570df9907a6" title="vacuum_consume_buffer\l_log_blocks" alt="" coords="445,192,613,233"/>
+<area shape="rect" id="node10" href="$vacuum_8h.html#a2cb21fa7816f2d0a4cf699cae9e7fd7b" title="vacuum_data_load_and\l_recover" alt="" coords="449,257,608,299"/>
+<area shape="rect" id="node11" href="$vacuum_8c.html#a036c930ecf40c2682d2cde7418589c5b" title="vacuum_data_mark_finished" alt="" coords="435,323,623,350"/>
+</map>

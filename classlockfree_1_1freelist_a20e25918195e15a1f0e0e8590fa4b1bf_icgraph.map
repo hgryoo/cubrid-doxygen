@@ -1,0 +1,8 @@
+<map id="lockfree::freelist::check_my_pointer" name="lockfree::freelist::check_my_pointer">
+<area shape="rect" id="node2" href="$classlockfree_1_1freelist.html#a806d42cde415b3c618b703eff2560614" title="lockfree::freelist\l::claim" alt="" coords="189,71,304,112"/>
+<area shape="rect" id="node5" href="$classlockfree_1_1freelist.html#a32402078c9ecee6c1c9aeb04a907d172" title="lockfree::freelist\l::retire" alt="" coords="189,136,304,177"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1freelist.html#af5a1aeac1b8815263e1f59094c51b13e" title="lockfree::freelist\l::claim" alt="" coords="363,5,478,47"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1hashmap.html#aa84d2f30a6f3bb4b2f541870bc5c198d" title="lockfree::hashmap::\lfreelist_claim" alt="" coords="352,71,489,112"/>
+<area shape="rect" id="node6" href="$classlockfree_1_1freelist.html#a5908096c0dd5806ce81793e9501212d1" title="lockfree::freelist\l::retire" alt="" coords="363,136,478,177"/>
+<area shape="rect" id="node7" href="$classlockfree_1_1hashmap.html#adea7f6dced1f317c993e1919b16ceae9" title="lockfree::hashmap::\lfreelist_retire" alt="" coords="352,201,489,243"/>
+</map>

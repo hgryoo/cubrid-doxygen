@@ -1,0 +1,6 @@
+<map id="cubmonitor::atomic_primitive&lt; Rep &gt;" name="cubmonitor::atomic_primitive&lt; Rep &gt;">
+<area shape="rect" id="node2" href="$classcubmonitor_1_1accumulator__atomic__statistic.html" title="{cubmonitor::accumulator\l_atomic_statistic\&lt; Rep \&gt;\n||+ collect()\l+ collect()\l+ collect()\l}" alt="" coords="5,263,175,384"/>
+<area shape="rect" id="node3" href="$classcubmonitor_1_1gauge__atomic__statistic.html" title="{cubmonitor::gauge_atomic\l_statistic\&lt; Rep \&gt;\n||+ collect()\l}" alt="" coords="199,277,373,369"/>
+<area shape="rect" id="node4" href="$classcubmonitor_1_1max__atomic__statistic.html" title="{cubmonitor::max_atomic\l_statistic\&lt; Rep \&gt;\n||+ max_atomic_statistic()\l+ collect()\l+ max_atomic_statistic()\l+ max_atomic_statistic()\l+ max_atomic_statistic()\l}" alt="" coords="397,248,564,399"/>
+<area shape="rect" id="node5" href="$classcubmonitor_1_1min__atomic__statistic.html" title="{cubmonitor::min_atomic\l_statistic\&lt; Rep \&gt;\n||+ min_atomic_statistic()\l+ collect()\l+ min_atomic_statistic()\l+ min_atomic_statistic()\l+ min_atomic_statistic()\l}" alt="" coords="589,248,751,399"/>
+</map>

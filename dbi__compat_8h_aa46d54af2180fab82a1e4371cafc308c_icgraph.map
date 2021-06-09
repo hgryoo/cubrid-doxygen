@@ -1,0 +1,17 @@
+<map id="db_free_attribute_descriptor" name="db_free_attribute_descriptor">
+<area shape="rect" id="node2" href="$esql__gadget_8h.html#a7cc39323601c739d0efe0430634dfb88" title="db_gadget_destroy" alt="" coords="250,56,382,83"/>
+<area shape="rect" id="node6" href="$execute__statement_8c.html#afc8676086646494b31f8b100d05f13da" title="do_insert_template" alt="" coords="459,157,591,184"/>
+<area shape="rect" id="node7" href="$execute__statement_8c.html#a0d27c05bd51d5bff9800d9215928ae5a" title="init_update_data" alt="" coords="257,259,375,285"/>
+<area shape="rect" id="node8" href="$execute__statement_8c.html#ad3e5836d399eca9cc6f181c57a9e4957" title="update_object_by_oid" alt="" coords="655,259,803,285"/>
+<area shape="rect" id="node9" href="$execute__statement_8c.html#adda1936f2e53715e967cbc5d042a3f3f" title="update_objs_for_list_file" alt="" coords="444,309,607,336"/>
+<area shape="rect" id="node10" href="$execute__statement_8c.html#a549b89c3cb634fe4951a70c2429877e9" title="update_class_attributes" alt="" coords="445,208,605,235"/>
+<area shape="rect" id="node11" href="$execute__statement_8c.html#a2ed4e36685dfd7b5d4e82516a415d0e9" title="insert_subquery_results" alt="" coords="236,107,396,133"/>
+<area shape="rect" id="node12" href="$load__sa__loader_8cpp.html#a5fde2a5def11ff1de389a0b246882de4" title="ldr_clear_and_free\l_context" alt="" coords="252,411,380,453"/>
+<area shape="rect" id="node16" href="$load__sa__loader_8cpp.html#a6f2575a9565edd8800eec6129d0e1db8" title="ldr_refresh_attrs" alt="" coords="258,477,374,504"/>
+<area shape="rect" id="node3" href="$esql__cli_8c.html#a251d8527b2af365292ad24dd8dd4cac1" title="uci_static" alt="" coords="689,81,768,108"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#a4e1aeb5b5487d5aadb8a6d24fad845b9" title="free_repetitive" alt="" coords="473,5,577,32"/>
+<area shape="rect" id="node5" href="$esql__gadget_8h.html#a33673e55e3d17bb8ce86b9a6360bcc80" title="db_gadget_create" alt="" coords="463,107,588,133"/>
+<area shape="rect" id="node13" href="$load__sa__loader_8cpp.html#a0cbf3afe6ab20cfa4741d0d0928412cb" title="ldr_internal_error" alt="" coords="466,512,585,539"/>
+<area shape="rect" id="node14" href="$load__sa__loader_8cpp.html#a8bd9b94300dfb07ce334162f90c37073" title="ldr_finish_context" alt="" coords="463,461,587,488"/>
+<area shape="rect" id="node15" href="$load__sa__loader_8cpp.html#ad64700c984ccfd79eef78e162dbd8e6e" title="ldr_destroy" alt="" coords="685,436,772,463"/>
+</map>

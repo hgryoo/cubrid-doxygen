@@ -1,0 +1,5 @@
+<map id="proxy_event_realloc_buffer" name="proxy_event_realloc_buffer">
+<area shape="rect" id="node2" href="$shard__proxy__io_8c.html#a1f6341453c713eceb04c9845dad78095" title="proxy_socket_io_read\l_internal" alt="" coords="192,39,341,80"/>
+<area shape="rect" id="node3" href="$shard__proxy__io_8c.html#a211763d72b39b77034c6e2e4a1845a98" title="proxy_socket_io_read\l_from_cas_next" alt="" coords="389,5,539,47"/>
+<area shape="rect" id="node4" href="$shard__proxy__io_8c.html#a01ec55d3ee162cf5276974799e5611ca" title="proxy_socket_io_read\l_from_client_next" alt="" coords="389,71,539,112"/>
+</map>

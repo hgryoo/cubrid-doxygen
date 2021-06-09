@@ -1,0 +1,11 @@
+<map id="mvcc_active_tran::get_bit_area_memsize" name="mvcc_active_tran::get_bit_area_memsize">
+<area shape="rect" id="node2" href="$structmvcc__active__tran.html#a9821943954e3266bf1fa5971df43341d" title="mvcc_active_tran::copy_to" alt="" coords="210,85,389,112"/>
+<area shape="rect" id="node6" href="$structmvcc__active__tran.html#ac19f2fcd645b6eeb6799a199a7c97103" title="mvcc_active_tran::ltrim_area" alt="" coords="204,203,395,229"/>
+<area shape="rect" id="node9" href="$structmvcc__active__tran.html#ab45c2bd2755f7760f372e337dd4f301c" title="mvcc_active_tran::reset" alt="" coords="218,257,381,284"/>
+<area shape="rect" id="node3" href="$classmvcctable.html#abb49acd267780e611121af87fcaf1431" title="mvcctable::build_mvcc_info" alt="" coords="447,5,631,32"/>
+<area shape="rect" id="node4" href="$structmvcc__snapshot.html#a735e7b405cd8e8e72a658302baf96d38" title="mvcc_snapshot::copy_to" alt="" coords="455,56,623,83"/>
+<area shape="rect" id="node5" href="$classmvcctable.html#aede8815538c9aabeb61da5f7bf93c0d0" title="mvcctable::next_tran\l_status_finish" alt="" coords="467,107,611,149"/>
+<area shape="rect" id="node7" href="$structmvcc__active__tran.html#affcc854b119d8a202e6429e97fbdb82f" title="mvcc_active_tran::set\l_bitarea_mvccid" alt="" coords="683,195,833,237"/>
+<area shape="rect" id="node8" href="$structmvcc__active__tran.html#abdd9a7a8307b06e7ea1dcf180be5a2ea" title="mvcc_active_tran::cleanup\l_migrate_to_long_transations" alt="" coords="443,225,635,266"/>
+<area shape="rect" id="node10" href="$structmvcc__snapshot.html#a539c0c53625ff13e49188713c94110f8" title="mvcc_snapshot::reset" alt="" coords="463,291,614,317"/>
+</map>

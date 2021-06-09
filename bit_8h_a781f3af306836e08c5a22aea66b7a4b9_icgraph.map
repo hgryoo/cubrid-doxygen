@@ -1,0 +1,8 @@
+<map id="bit64_count_trailing_ones" name="bit64_count_trailing_ones">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#a0635ea76ea0fa0bd9815c08f489a1694" title="disk_stab_unit_reserve" alt="" coords="223,17,379,43"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a38cea7b20a0b915620d344e2faf6f578" title="file_partsect_alloc" alt="" coords="237,71,364,98"/>
+<area shape="rect" id="node7" href="$unittests__bit_8c.html#a60d26ef9d4a5be77ee84ae6929cf8985" title="main" alt="" coords="275,122,326,149"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#aad7390c570ef3eedca9ee0cf6221c1ee" title="disk_reserve_sectors\l_in_volume" alt="" coords="427,5,573,47"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#adc0db5dfc925dc493ef06a24997d87d1" title="file_perm_alloc" alt="" coords="445,71,555,98"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#a3caedf6598ee654efb9b8be761cc8edc" title="file_temp_alloc" alt="" coords="445,122,555,149"/>
+</map>

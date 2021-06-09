@@ -1,0 +1,6 @@
+<map id="qo_print_stats" name="qo_print_stats">
+<area shape="rect" id="node2" href="$query__planner_8c.html#aafe5eacf625de18374b090f903dda377" title="qo_plan_discard" alt="" coords="157,64,273,91"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#ad1a25c2a4131f42a4170844e8e4b2faa" title="qo_combine_partitions" alt="" coords="321,5,473,32"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#a3e01f58bf6bc526ba6cf09c9b5d6ad57" title="pt_plan_single_table\l_hq_iterations" alt="" coords="327,57,467,98"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#a7ef91e0c976e74e0238c2fef4a538202" title="pt_plan_query" alt="" coords="346,123,449,149"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cubmem::reference_store::clear" name="cubmem::reference_store::clear">
+<area shape="rect" id="node2" href="$classcubmem_1_1reference__store.html#a856e2fe8c39db22fef95d07c7ec37457" title="cubmem::reference_store\l::set_immutable_reference" alt="" coords="224,5,400,47"/>
+<area shape="rect" id="node3" href="$classcubmem_1_1reference__store.html#a2831fb22441a4584d2c8d8f83e767733" title="cubmem::reference_store\l::set_mutable_reference" alt="" coords="227,71,397,112"/>
+<area shape="rect" id="node4" href="$classcubmem_1_1reference__store.html#a04b1d4bbc6880257d6baf98d3255805f" title="cubmem::reference_store\l::~reference_store" alt="" coords="227,136,397,177"/>
+</map>

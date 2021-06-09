@@ -1,0 +1,7 @@
+<map id="logpb_recreate_volume_info" name="logpb_recreate_volume_info">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#ab97a88a5a9b58393fdbb7dc5e1a05a23" title="boot_find_rest_permanent\l_volumes" alt="" coords="237,5,409,47"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a55303cc2193f6a053bce1d984cc4f516" title="disk_rv_undo_format" alt="" coords="252,71,395,98"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a94f1505b0a4e2ec34df15da4fb8e0395" title="log_recovery_notpartof\l_volumes" alt="" coords="246,123,401,164"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a62b08f2d8b59af24bc9f7150fe2b8897" title="boot_find_rest_volumes" alt="" coords="457,13,617,39"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="489,130,585,157"/>
+</map>

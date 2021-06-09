@@ -1,0 +1,7 @@
+<map id="cfg_copy_hosts" name="cfg_copy_hosts">
+<area shape="rect" id="node2" href="$databases__file_8h.html#a4b7791fab1df3110c4b7f69d79db0e3e" title="cfg_new_db" alt="" coords="168,81,260,108"/>
+<area shape="rect" id="node3" href="$databases__file_8h.html#a379c293490c2bfbc5fe7c88b96429b77" title="cfg_add_db" alt="" coords="333,5,422,32"/>
+<area shape="rect" id="node4" href="$databases__file_8h.html#a8eb4c46c06d153eebaf6d4fa25f55188" title="cfg_find_db" alt="" coords="333,56,422,83"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="495,81,624,108"/>
+<area shape="rect" id="node6" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="308,157,447,184"/>
+</map>

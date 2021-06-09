@@ -1,0 +1,5 @@
+<map id="tp_domain_drop" name="tp_domain_drop">
+<area shape="rect" id="node2" href="$schema__template_8h.html#aa4f2c622ffe150b07376e859f454812c" title="smt_delete_set_attribute\l_domain" alt="" coords="168,39,333,80"/>
+<area shape="rect" id="node3" href="$db__class_8c.html#a55b60b42e6860fe714c0bd24fe78e8fa" title="db_drop_set_attribute\l_domain" alt="" coords="383,5,530,47"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a42f4091e2acc64d17d1af1f9cafbe230" title="dbt_drop_set_attribute\l_domain" alt="" coords="381,71,532,112"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="stats_get_statistics" name="stats_get_statistics">
+<area shape="rect" id="node2" href="$class__object_8h.html#ab4520e3ae53f982df9a46776b29561b5" title="classobj_find_cons\l_index2_col_type_list" alt="" coords="213,5,360,47"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#abdbd9518daae3aaec9554c3ce21aa4af" title="sm_get_class_with_statistics" alt="" coords="189,71,384,98"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#ad04bcc4df9c718f3ebe8cfc71256ae63" title="sm_get_statistics_force" alt="" coords="206,122,367,149"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#a5382c4ce290b60cf2fd9d7fcec1dc847" title="sm_update_all_statistics" alt="" coords="203,173,370,199"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#aa1103605b7e5cf2b26a8ee5a2ecea440" title="sm_update_statistics" alt="" coords="213,223,360,250"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a2bf3e5ef2f2a10e5650ca02e30858597" title="do_create_partition\l_constraint" alt="" coords="432,5,564,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="serial_decache" name="serial_decache">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a21188172805695aba5e22265472fd774" title="dbt_drop_attribute" alt="" coords="187,13,313,39"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="197,63,303,90"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a4b5c1edbe844b65f680fa8eceaa5683e" title="do_change_att_schema_only" alt="" coords="385,169,576,195"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a531bed70bff45e7b90d74cac4950f562" title="do_drop_serial" alt="" coords="197,165,303,191"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#ad37d6b13f9139f97baed90d66d276468" title="do_update_maxvalue\l_of_auto_increment_serial" alt="" coords="163,216,337,257"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="174,306,326,333"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="410,5,551,47"/>
+</map>

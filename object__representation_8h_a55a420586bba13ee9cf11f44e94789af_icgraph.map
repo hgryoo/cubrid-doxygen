@@ -1,0 +1,19 @@
+<map id="or_class_name" name="or_class_name">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a866dfa86bf42e5f9983db57b11692b32" title="catalog_check_consistency" alt="" coords="603,77,785,103"/>
+<area shape="rect" id="node4" href="$system__catalog_8h.html#a4aa1649ad60867f8884dc92d09ea41e9" title="catalog_dump" alt="" coords="205,74,307,101"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a4cd234cf41396c823ab96f904339a5b6" title="heap_classrepr_dump" alt="" coords="619,179,769,206"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#a79f39d0698e6ec970569f56ac2355fbd" title="heap_get_class_info\l_from_record" alt="" coords="185,197,327,239"/>
+<area shape="rect" id="node9" href="$heap__file_8h.html#a969a3ef419974b7b7b0a445d17284d7f" title="heap_get_class_name\l_alloc_if_diff" alt="" coords="180,307,332,348"/>
+<area shape="rect" id="node12" href="$locator__sr_8h.html#adc79d73ed6ab1b064c6c60b9c1046c87" title="locator_check_class\l_names" alt="" coords="623,307,765,348"/>
+<area shape="rect" id="node13" href="$locator__sr_8c.html#aa94a327f45350804b2066385650abc9b" title="locator_update_force" alt="" coords="404,373,547,399"/>
+<area shape="rect" id="node14" href="$locator__sr_8c.html#a88c3c06fcfbc59cb3c6d1d1a147b69c7" title="locator_delete_force\l_internal" alt="" coords="187,475,325,516"/>
+<area shape="rect" id="node15" href="$locator__sr_8h.html#ac2b7679cfa8d66e9f365d5718615b343" title="locator_initialize" alt="" coords="199,541,313,567"/>
+<area shape="rect" id="node16" href="$locator__sr_8h.html#a4ef4e207374578272aab7839343e3837" title="locator_insert_force" alt="" coords="188,591,324,618"/>
+<area shape="rect" id="node17" href="$query__executor_8c.html#ab1ab7fb8555267660219331c3222374a" title="qexec_execute_build\l_indexes" alt="" coords="184,643,328,684"/>
+<area shape="rect" id="node18" href="$statistics__sr_8c.html#a0666df61080a08d9cc95b8672be50369" title="xstats_update_all_statistics" alt="" coords="164,709,348,735"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#ace20b0215551fade39404f63fbbcc932" title="xboot_check_db_consistency" alt="" coords="833,195,1028,222"/>
+<area shape="rect" id="node7" href="$heap__file_8h.html#a5038b8fffcde429063f163ae6d1bb35c" title="heap_cache_class_info" alt="" coords="396,154,555,181"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#a67e8a520cb4db4092a880f4f7f9da6a7" title="heap_hfid_cache_get" alt="" coords="403,205,548,231"/>
+<area shape="rect" id="node10" href="$heap__file_8h.html#ab6c7b42875fd7b6cb7b42d82244c6b85" title="heap_get_class_name" alt="" coords="399,255,551,282"/>
+<area shape="rect" id="node11" href="$locator__sr_8c.html#a539361f07ec638e311344ee9283ee534" title="locator_check_class\l_on_heap" alt="" coords="405,307,546,348"/>
+</map>

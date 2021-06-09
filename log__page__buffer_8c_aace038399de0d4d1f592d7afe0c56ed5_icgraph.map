@@ -1,0 +1,16 @@
+<map id="logpb_force_flush_pages" name="logpb_force_flush_pages">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="792,74,959,100"/>
+<area shape="rect" id="node4" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="259,74,325,100"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="425,124,515,151"/>
+<area shape="rect" id="node9" href="$disk__manager_8h.html#a2bab7d4af00d351387c2eb202700d58d" title="disk_set_link" alt="" coords="243,175,341,202"/>
+<area shape="rect" id="node10" href="$disk__manager_8c.html#acab4b2c2b370376c9df6fde278ac1e48" title="disk_volume_expand" alt="" coords="220,226,364,252"/>
+<area shape="rect" id="node11" href="$heap__file_8c.html#a23cd5f642edebaad25e8fafd58600228" title="heap_create_internal" alt="" coords="221,276,363,303"/>
+<area shape="rect" id="node12" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="227,328,357,369"/>
+<area shape="rect" id="node13" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="229,394,355,420"/>
+<area shape="rect" id="node14" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="227,445,357,486"/>
+<area shape="rect" id="node15" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="255,511,329,538"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="1007,74,1157,100"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="412,74,528,100"/>
+<area shape="rect" id="node7" href="$disk__manager_8c.html#aa1450d661897bab9929324e46c0b641d" title="disk_add_volume" alt="" coords="599,74,721,100"/>
+<area shape="rect" id="node8" href="$disk__manager_8h.html#a5fdac5331f81f23b3b65375177ded3f5" title="disk_format_first_volume" alt="" coords="576,124,744,151"/>
+</map>

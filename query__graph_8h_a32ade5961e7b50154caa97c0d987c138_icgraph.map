@@ -1,0 +1,9 @@
+<map id="qo_env_free" name="qo_env_free">
+<area shape="rect" id="node2" href="$query__graph_8c.html#a9018af8273e327b586c695f0820fdb02" title="qo_env_init" alt="" coords="170,27,258,53"/>
+<area shape="rect" id="node3" href="$query__graph_8c.html#abb5a39b3d2de454622124dd59b641539" title="qo_optimize_query" alt="" coords="329,37,460,64"/>
+<area shape="rect" id="node6" href="$query__graph_8c.html#a36e513d9217f9a2e0c5d27f73f300a14" title="qo_optimize_helper" alt="" coords="147,77,281,104"/>
+<area shape="rect" id="node7" href="$query__planner_8c.html#aafe5eacf625de18374b090f903dda377" title="qo_plan_discard" alt="" coords="337,107,453,133"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#a7ef91e0c976e74e0238c2fef4a538202" title="pt_plan_query" alt="" coords="533,96,635,123"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#a3e01f58bf6bc526ba6cf09c9b5d6ad57" title="pt_plan_single_table\l_hq_iterations" alt="" coords="514,30,654,71"/>
+<area shape="rect" id="node8" href="$query__planner_8c.html#ad1a25c2a4131f42a4170844e8e4b2faa" title="qo_combine_partitions" alt="" coords="508,147,660,173"/>
+</map>

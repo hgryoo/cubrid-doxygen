@@ -1,0 +1,12 @@
+<map id="pgbuf_force_to_check_for_interrupts" name="pgbuf_force_to_check_for_interrupts">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#aa8130f3c266558be25dba52e096393c5" title="logtb_set_tran_index\l_interrupt" alt="" coords="204,209,347,250"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="407,5,563,32"/>
+<area shape="rect" id="node4" href="$server__support_8h.html#a1192e392c3068e123d149c96f1ae482b" title="css_block_all_active_conn" alt="" coords="396,56,575,83"/>
+<area shape="rect" id="node5" href="$server__support_8c.html#affa283d6ed08e3f1ecb10e54833154f4" title="css_stop_non_log_writer" alt="" coords="402,107,569,133"/>
+<area shape="rect" id="node6" href="$classcubload_1_1session.html#a3b1069b54cad0e8644b3b422c886e7b3" title="cubload::session::interrupt" alt="" coords="398,157,573,184"/>
+<area shape="rect" id="node7" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="420,209,551,250"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#a3b60b81caffcddaf7d326e6f1db23a3a" title="xlogtb_set_interrupt" alt="" coords="417,275,553,301"/>
+<area shape="rect" id="node9" href="$log__tran__table_8c.html#ac726b982b2a6034a8f7b5f72bbd7de12" title="logtb_slam_transaction" alt="" coords="407,325,563,352"/>
+<area shape="rect" id="node10" href="$log__tran__table_8c.html#a6162cf50793bc050bab311ce4b8effa7" title="xlogtb_kill_or_interrupt_tran" alt="" coords="395,376,576,403"/>
+<area shape="rect" id="node11" href="$transaction__sr_8c.html#a01192d465099edf243078a681db1fee4" title="xtran_wait_server_active\l_trans" alt="" coords="402,427,569,469"/>
+</map>

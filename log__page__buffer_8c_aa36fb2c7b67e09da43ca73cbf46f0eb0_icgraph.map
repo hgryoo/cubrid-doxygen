@@ -1,0 +1,8 @@
+<map id="logpb_locate_page" name="logpb_locate_page">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a2efce3081db9aa446448cbac8e2e3e62" title="logpb_create_page" alt="" coords="204,38,335,64"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#ac35dbc3c280632065bc9b67d1a29bc21" title="logpb_fetch_start_append_page" alt="" coords="403,127,609,154"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a80623abf3eb98a35aff143b6661e5d50" title="logpb_fetch_start_append\l_page_new" alt="" coords="184,165,355,206"/>
+<area shape="rect" id="node3" href="$log__recovery_8c.html#a6e4cb0fa20df20ef22e01e5bae16b885" title="log_recovery_resetlog" alt="" coords="657,26,807,52"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a63624ee9f291d9eb7e727bc45775f09d" title="logpb_create_header_page" alt="" coords="417,26,595,52"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a978997a75ba311ff9ab0e14bb43100e5" title="logpb_next_append_page" alt="" coords="421,76,591,103"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="src/query/query_monitoring.hpp" name="src/query/query_monitoring.hpp">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html" title="src/communication/network\l_interface_cl.h" alt="" coords="1483,80,1665,121"/>
+<area shape="rect" id="node20" href="$log__tran__table_8c.html" title="src/transaction/log\l_tran_table.c" alt="" coords="1689,80,1819,121"/>
+<area shape="rect" id="node3" href="$perf__monitor_8c.html" title="src/base/perf_monitor.c" alt="" coords="5,177,164,203"/>
+<area shape="rect" id="node4" href="$network__cl_8c.html" title="src/communication/network_cl.c" alt="" coords="189,177,399,203"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8c.html" title="src/communication/network\l_interface_cl.c" alt="" coords="424,169,607,211"/>
+<area shape="rect" id="node6" href="$db__admin_8c.html" title="src/compat/db_admin.c" alt="" coords="631,177,789,203"/>
+<area shape="rect" id="node7" href="$db__info_8c.html" title="src/compat/db_info.c" alt="" coords="814,177,958,203"/>
+<area shape="rect" id="node8" href="$db__obj_8c.html" title="src/compat/db_obj.c" alt="" coords="983,177,1123,203"/>
+<area shape="rect" id="node9" href="$db__query_8c.html" title="src/compat/db_query.c" alt="" coords="1147,177,1302,203"/>
+<area shape="rect" id="node10" href="$db__temp_8c.html" title="src/compat/db_temp.c" alt="" coords="1326,177,1478,203"/>
+<area shape="rect" id="node11" href="$db__vdb_8c.html" title="src/compat/db_vdb.c" alt="" coords="1502,177,1646,203"/>
+<area shape="rect" id="node12" href="$client__support_8c.html" title="src/connection/client\l_support.c" alt="" coords="1671,169,1813,211"/>
+<area shape="rect" id="node13" href="$checksumdb_8c.html" title="src/executables/checksumdb.c" alt="" coords="1838,177,2041,203"/>
+<area shape="rect" id="node14" href="$compactdb_8c.html" title="src/executables/compactdb.c" alt="" coords="2065,177,2259,203"/>
+<area shape="rect" id="node15" href="$compactdb__cl_8c.html" title="src/executables/compactdb_cl.c" alt="" coords="2283,177,2494,203"/>
+<area shape="rect" id="node16" href="$compactdb__common_8c.html" title="src/executables/compactdb\l_common.c" alt="" coords="2519,169,2701,211"/>
+<area shape="rect" id="node17" href="$csql_8c.html" title="src/executables/csql.c" alt="" coords="2725,177,2879,203"/>
+<area shape="rect" id="node18" href="$csql__session_8c.html" title="src/executables/csql\l_session.c" alt="" coords="2903,169,3045,211"/>
+<area shape="rect" id="node19" href="$unload__object_8c.html" title="src/executables/unload\l_object.c" alt="" coords="3069,169,3225,211"/>
+</map>

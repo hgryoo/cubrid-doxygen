@@ -1,0 +1,9 @@
+<map id="shard_stmt_find_srv_h_id" name="shard_stmt_find_srv_h_id">
+<area shape="rect" id="node2" href="$shard__statement_8h.html#a99739bc79e1da316b8e172687fa1f0cc" title="shard_stmt_find_srv\l_h_id_for_shard_cas" alt="" coords="224,165,367,207"/>
+<area shape="rect" id="node3" href="$shard__proxy__function_8c.html#a3c3fc344b70b0c846f51c8dd349a0c4d" title="proxy_send_request\l_to_cas_with_new_event" alt="" coords="415,5,584,47"/>
+<area shape="rect" id="node4" href="$shard__proxy__function_8c.html#affba070c8d56d9b5d6f48c7202361d29" title="proxy_client_execute\l_internal" alt="" coords="427,71,572,112"/>
+<area shape="rect" id="node5" href="$shard__proxy__function_8h.html#af13e59aea5d93ed2372e208df6affd42" title="fn_proxy_client_close\l_req_handle" alt="" coords="425,136,573,177"/>
+<area shape="rect" id="node6" href="$shard__proxy__function_8h.html#a7a2ebff0aac70941f2c10ff5630dcec3" title="fn_proxy_client_cursor" alt="" coords="423,202,576,229"/>
+<area shape="rect" id="node7" href="$shard__proxy__function_8h.html#a3fc0210fc4dd041fe12616604d1acc8b" title="fn_proxy_client_fetch" alt="" coords="426,253,573,279"/>
+<area shape="rect" id="node8" href="$shard__proxy__function_8h.html#a5381a1ca58433e667b280a7f6c04cf22" title="fn_proxy_client_cursor\l_close" alt="" coords="423,304,576,345"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="src/loaddb/load_class_registry.hpp" name="src/loaddb/load_class_registry.hpp">
+<area shape="rect" id="node2" href="$load__class__registry_8cpp.html" title="src/loaddb/load_class\l_registry.cpp" alt="" coords="5,95,153,136"/>
+<area shape="rect" id="node3" href="$load__db__value__converter_8cpp.html" title="src/loaddb/load_db\l_value_converter.cpp" alt="" coords="178,95,325,136"/>
+<area shape="rect" id="node4" href="$load__server__loader_8cpp.html" title="src/loaddb/load_server\l_loader.cpp" alt="" coords="256,184,409,225"/>
+<area shape="rect" id="node5" href="$load__session_8hpp.html" title="src/loaddb/load_session.hpp" alt="" coords="457,102,643,129"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="608,273,791,315"/>
+<area shape="rect" id="node7" href="$load__session_8cpp.html" title="src/loaddb/load_session.cpp" alt="" coords="485,191,671,218"/>
+<area shape="rect" id="node8" href="$load__worker__manager_8cpp.html" title="src/loaddb/load_worker\l_manager.cpp" alt="" coords="696,184,852,225"/>
+<area shape="rect" id="node9" href="$session_8h.html" title="src/session/session.h" alt="" coords="877,191,1026,218"/>
+</map>

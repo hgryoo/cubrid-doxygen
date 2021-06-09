@@ -1,0 +1,7 @@
+<map id="qfile_generate_sort_tuple" name="qfile_generate_sort_tuple">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a359484e86d5c757860ace460753653ef" title="qexec_gby_put_next" alt="" coords="203,5,345,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#ace26f0b2682d1facc2561230e6f7b44d" title="qexec_hash_gby_put_next" alt="" coords="185,56,363,83"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a88c76f42fcdb0493ad08df615f85f379" title="qexec_ordby_put_next" alt="" coords="197,107,351,133"/>
+<area shape="rect" id="node6" href="$list__file_8c.html#a087deaf4ae4f9a4db0ce90622930f11f" title="qfile_put_next_sort_item" alt="" coords="192,157,356,184"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#aeb8bf568b044802bdc42d5e200d45f27" title="qexec_groupby" alt="" coords="411,31,521,57"/>
+</map>

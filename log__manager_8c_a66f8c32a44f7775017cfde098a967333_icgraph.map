@@ -1,0 +1,19 @@
+<map id="log_dump_data" name="log_dump_data">
+<area shape="rect" id="node2" href="$log__manager_8c.html#ab09b2d5d190e0d2544c446bb38307138" title="log_dump_record_2pc\l_prepare_commit" alt="" coords="423,5,573,47"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#ae33f8f1c6d9ade2900d3b5bcea3554e4" title="log_dump_record_2pc\l_start" alt="" coords="423,71,573,112"/>
+<area shape="rect" id="node5" href="$log__manager_8c.html#aa90416b51db22d5919df69e0a08cfa19" title="log_dump_record_checkpoint" alt="" coords="403,137,593,163"/>
+<area shape="rect" id="node6" href="$log__manager_8c.html#aaa16631ae4e2a33ec7205517ec45e904" title="log_dump_record_compensate" alt="" coords="399,187,597,214"/>
+<area shape="rect" id="node7" href="$log__manager_8c.html#a77c391eaee8e6775ee8a18131240dabe" title="log_dump_record_dbout_redo" alt="" coords="402,238,594,265"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html#a909d8d92226b9647341ccf92ee24be17" title="log_dump_record_mvcc_redo" alt="" coords="402,289,594,315"/>
+<area shape="rect" id="node9" href="$log__manager_8c.html#a3fa7c3fdedae58081cb0f315d72e7a64" title="log_dump_record_mvcc_undo" alt="" coords="401,339,595,366"/>
+<area shape="rect" id="node10" href="$log__manager_8c.html#a614a09f849f2f3fcd0b21eabec7c90e3" title="log_dump_record_mvcc\l_undoredo" alt="" coords="177,375,337,416"/>
+<area shape="rect" id="node11" href="$log__manager_8c.html#aefc96e0fcfb13e6bc70a9e19df78270d" title="log_dump_record_postpone" alt="" coords="167,441,348,467"/>
+<area shape="rect" id="node12" href="$log__manager_8c.html#a29766d2ddadb1a3124fe4e0f2621bd61" title="log_dump_record_redo" alt="" coords="181,491,334,518"/>
+<area shape="rect" id="node13" href="$log__manager_8c.html#a0181d44c2433e036612a8c59bd75351b" title="log_dump_record_replication" alt="" coords="164,542,351,569"/>
+<area shape="rect" id="node14" href="$log__manager_8c.html#ae1927cc462b02814c50654d0753fcc0c" title="log_dump_record_save\l_point" alt="" coords="179,593,335,635"/>
+<area shape="rect" id="node15" href="$log__manager_8c.html#a33d178e8af239d7a015ae3219af0b0e8" title="log_dump_record_sysop\l_end_internal" alt="" coords="176,659,339,700"/>
+<area shape="rect" id="node17" href="$log__manager_8c.html#a63e2fb5fc4c2b9c3f2b92df1a03d9415" title="log_dump_record_undo" alt="" coords="179,725,335,751"/>
+<area shape="rect" id="node18" href="$log__manager_8c.html#a7b25067f339b2e9dde663618aa47c7db" title="log_dump_record_undoredo" alt="" coords="167,775,348,802"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#a86dc11de5374a93ac9fef985f5e47995" title="log_dump_record" alt="" coords="645,390,767,417"/>
+<area shape="rect" id="node16" href="$log__manager_8c.html#ae97e1680f6863e5c01f5c4478d014b09" title="log_dump_record_sysop_end" alt="" coords="403,655,593,682"/>
+</map>

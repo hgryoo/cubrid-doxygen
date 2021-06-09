@@ -1,0 +1,19 @@
+<map id="intl_nextchar_euc" name="intl_nextchar_euc">
+<area shape="rect" id="node2" href="$intl__support_8h.html#a01bd2ef588bc6b1e9b3c4bc6428d856a" title="intl_cmp_char" alt="" coords="199,256,301,283"/>
+<area shape="rect" id="node9" href="$intl__support_8c.html#a40d51cbadaa2d8beb08ba24d4b396d36" title="intl_count_euc_bytes" alt="" coords="177,173,323,200"/>
+<area shape="rect" id="node11" href="$intl__support_8c.html#ac371f96697a8db03ef03513785d85e9b" title="intl_count_euc_chars" alt="" coords="371,31,516,57"/>
+<area shape="rect" id="node15" href="$intl__support_8h.html#a13768cffbc351b07358890857ee18a12" title="intl_next_char" alt="" coords="199,416,301,443"/>
+<area shape="rect" id="node16" href="$intl__support_8h.html#a52788398e71d6d8fe34f8b72a99cb75e" title="intl_put_char" alt="" coords="599,281,695,308"/>
+<area shape="rect" id="node17" href="$language__support_8c.html#a4794c3b747e3c3e95ff3f76ee09781bc" title="lang_split_key_euckr" alt="" coords="178,467,322,493"/>
+<area shape="rect" id="node18" href="$language__support_8c.html#a4599469c923955b9f24217acbc2056a2" title="lang_strmatch_ko" alt="" coords="187,517,313,544"/>
+<area shape="rect" id="node3" href="$string__opfunc_8c.html#a013e671e46c07355d9271fa97c38eebd" title="db_get_next_like_pattern\l_character" alt="" coords="564,215,731,257"/>
+<area shape="rect" id="node6" href="$language__support_8c.html#a59b3bf5cb89418541de2c81eff855b8e" title="lang_back_strmatch\l_utf8_uca_w_level" alt="" coords="374,183,513,225"/>
+<area shape="rect" id="node7" href="$language__support_8c.html#a48284d3dea9855cd7141c94347a712b2" title="lang_strmatch_utf8\l_uca_w_level" alt="" coords="377,249,510,290"/>
+<area shape="rect" id="node8" href="$string__opfunc_8c.html#ac17062b698bd01d03adf99ced4c9fcec" title="qstr_eval_like" alt="" coords="392,132,495,159"/>
+<area shape="rect" id="node4" href="$string__opfunc_8h.html#a8a4e8b57baae36465976146c6019be87" title="db_get_like_optimization\l_bounds" alt="" coords="783,186,949,227"/>
+<area shape="rect" id="node5" href="$string__opfunc_8h.html#a49b18c9c0abbf5d759dc0ccf87d66a1b" title="db_compress_like_pattern" alt="" coords="779,252,953,279"/>
+<area shape="rect" id="node10" href="$intl__support_8h.html#a332b61367c01ecc8f588af8b340b293f" title="intl_char_size" alt="" coords="392,81,495,108"/>
+<area shape="rect" id="node12" href="$intl__support_8h.html#a1bb2a2e0646aff065a2549d956e228c1" title="intl_char_count" alt="" coords="592,164,703,191"/>
+<area shape="rect" id="node13" href="$intl__support_8c.html#a06198e9b01b4efc6fe2e555120a04ec6" title="intl_tolower_euc" alt="" coords="589,56,705,83"/>
+<area shape="rect" id="node14" href="$intl__support_8c.html#a1be393b1721788da2095587d0ef07024" title="intl_toupper_euc" alt="" coords="589,5,706,32"/>
+</map>

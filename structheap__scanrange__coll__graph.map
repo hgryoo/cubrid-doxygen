@@ -1,0 +1,10 @@
+<map id="heap_scanrange" name="heap_scanrange">
+<area shape="rect" id="node2" href="$structheap__scancache.html" title="{heap_scancache\n|+ debug_initpattern\l+ page_latch\l+ cache_last_fix_page\l+ num_btids\l+ file_type\l|+ start_area()\l+ end_area()\l+ reserve_area()\l+ assign_recdes_to_area()\l+ is_recdes_assigned\l_to_area()\l+ get_area_block_allocator()\l&#45; alloc_area()\l}" alt="" coords="485,689,672,928"/>
+<area shape="rect" id="node3" href="$classmulti__index__unique__stats.html" title="{multi_index_unique\l_stats\n|&#45; m_stats_map\l|+ multi_index_unique\l_stats()\l+ ~multi_index_unique\l_stats()\l+ construct()\l+ destruct()\l+ add_index_stats()\l+ add_empty()\l+ clear()\l+ get_map()\l+ empty()\l+ get_stats_of()\l+ to_string()\l+ operator=()\l+ operator=()\l+ operator+=()\l}" alt="" coords="1089,315,1242,627"/>
+<area shape="rect" id="node4" href="$classcubmem_1_1single__block__allocator.html" title="{cubmem::single_block\l_allocator\n||+ single_block_allocator()\l+ ~single_block_allocator()\l+ get_block_allocator()\l+ get_block()\l+ get_ptr()\l+ get_size()\l+ reserve()\l&#45; allocate()\l&#45; deallocate()\l}" alt="" coords="88,366,267,575"/>
+<area shape="rect" id="node5" href="$structheap__scancache__node.html" title="{heap_scancache_node\n|+ classname\l|}" alt="" coords="303,175,457,252"/>
+<area shape="rect" id="node8" href="$structheap__scancache__node__list.html" title="{heap_scancache_node_list\n||}" alt="" coords="291,432,469,509"/>
+<area shape="rect" id="node6" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="63,5,155,112"/>
+<area shape="rect" id="node7" href="$structmvcc__snapshot.html" title="{mvcc_snapshot\n|+ lowest_active_mvccid\l+ highest_completed_mvccid\l+ valid\l|+ mvcc_snapshot()\l+ reset()\l+ operator=()\l+ copy_to()\l}" alt="" coords="644,395,836,546"/>
+<area shape="rect" id="node9" href="$structpgbuf__watcher.html" title="{pgbuf_watcher\n|+ pgptr\l+ latch_mode\l+ page_was_unfixed\l+ initial_rank\l+ curr_rank\l+ magic\l+ watched_at\l+ init_at\l|}" alt="" coords="861,381,1003,561"/>
+</map>

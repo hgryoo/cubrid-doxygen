@@ -1,0 +1,6 @@
+<map id="log_append_compensate" name="log_append_compensate">
+<area shape="rect" id="node2" href="$file__manager_8h.html#acb67bc8b4ea65512b9abfac9cb9e3a7e" title="file_rv_user_page_unmark\l_delete_logical" alt="" coords="220,5,395,47"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#a9207223dc64d4badfed6fa1237931a6a" title="log_rollback_record" alt="" coords="240,71,375,98"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a4709cc43d55b85d001d933feb62b5f9e" title="log_rv_undo_record" alt="" coords="240,122,375,149"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#a95f9d78f6596d07a91842fab70321950" title="log_rollback" alt="" coords="443,71,533,98"/>
+</map>

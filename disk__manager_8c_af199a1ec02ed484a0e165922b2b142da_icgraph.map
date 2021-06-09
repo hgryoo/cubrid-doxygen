@@ -1,0 +1,15 @@
+<map id="disk_cache_lock_reserve" name="disk_cache_lock_reserve">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#a5dfe25bcc79974c6fd2f96e4fd1a13db" title="disk_cache_lock_reserve\l_for_purpose" alt="" coords="223,277,392,318"/>
+<area shape="rect" id="node11" href="$disk__manager_8c.html#a326df30e931243230678a57469e7ba7c" title="disk_reserve_from_cache" alt="" coords="453,512,624,539"/>
+<area shape="rect" id="node14" href="$disk__manager_8c.html#ae499b237d71a7f52450298b19618122a" title="disk_extend" alt="" coords="261,512,353,539"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a55303cc2193f6a053bce1d984cc4f516" title="disk_rv_undo_format" alt="" coords="467,5,610,32"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a11c0f285080de4a726add2b851dac9c1" title="disk_rv_redo_format" alt="" coords="469,56,609,83"/>
+<area shape="rect" id="node5" href="$disk__manager_8h.html#a636a75a6b5ad42273ee31512c59b2321" title="disk_rv_volhead_extend_redo" alt="" coords="441,107,636,133"/>
+<area shape="rect" id="node6" href="$disk__manager_8h.html#a76a2193349e1419cca1c2cdb90cc6be2" title="disk_rv_volhead_extend_undo" alt="" coords="440,157,637,184"/>
+<area shape="rect" id="node7" href="$disk__manager_8h.html#a24432937a48bec91095efd8acca6d4aa" title="disk_add_volume_extension" alt="" coords="445,208,632,235"/>
+<area shape="rect" id="node8" href="$disk__manager_8c.html#a08ae71ae55f008611e1a09186e1ac61a" title="disk_cache_free_reserved" alt="" coords="451,259,626,285"/>
+<area shape="rect" id="node9" href="$disk__manager_8h.html#a1fac11dc8d5a41e19a5efcc5c81a4c4e" title="disk_rv_reserve_sectors" alt="" coords="457,309,621,336"/>
+<area shape="rect" id="node10" href="$disk__manager_8h.html#a58d0c09f77d2f72b4faee4162764f195" title="disk_rv_unreserve_sectors" alt="" coords="449,360,628,387"/>
+<area shape="rect" id="node12" href="$disk__manager_8c.html#a845aa2865d00b628feca7f496e21b92d" title="disk_stab_unit_unreserve" alt="" coords="453,411,624,437"/>
+<area shape="rect" id="node13" href="$disk__manager_8c.html#aeec03ae8e7c25ee787b85ac8140c8596" title="disk_check_volume" alt="" coords="470,461,607,488"/>
+</map>

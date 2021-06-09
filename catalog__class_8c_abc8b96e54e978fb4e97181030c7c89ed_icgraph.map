@@ -1,0 +1,9 @@
+<map id="catcls_find_class_oid_by_class_name" name="catcls_find_class_oid_by_class_name">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a9adaf98f87a60f6b3d1411c1976df4ec" title="catcls_compile_catalog\l_classes" alt="" coords="222,107,381,149"/>
+<area shape="rect" id="node4" href="$catalog__class_8c.html#ae5a7d7ee65169187ff2edadd52509381" title="catcls_get_apply_info\l_log_record_time" alt="" coords="227,238,375,279"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#ac583d2461969caba1e703a428f34acf1" title="catcls_get_db_collation" alt="" coords="222,5,381,32"/>
+<area shape="rect" id="node7" href="$catalog__class_8c.html#a84555f5478d1bbab02c00fce5c73fbae" title="catcls_get_or_value\l_from_class" alt="" coords="232,173,371,214"/>
+<area shape="rect" id="node8" href="$boot__sr_8c.html#ac5db54613797691755b7065620cdd8bd" title="catcls_get_server_compat_info" alt="" coords="200,56,403,83"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="467,56,602,83"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="451,238,619,279"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ehash_initialize_bucket_new_page" name="ehash_initialize_bucket_new_page">
+<area shape="rect" id="node2" href="$extendible__hash_8c.html#a7b16d2b1c129e751459ad1e9707b4e1b" title="ehash_create_helper" alt="" coords="219,5,362,32"/>
+<area shape="rect" id="node4" href="$extendible__hash_8c.html#a33bf66c0c4bbf2f69c67381fb86d4aa3" title="ehash_insert_to_bucket\l_after_create" alt="" coords="211,57,371,98"/>
+<area shape="rect" id="node5" href="$extendible__hash_8c.html#a7364e0e8eda0562a7361ff12b60c6104" title="ehash_split_bucket" alt="" coords="223,123,358,149"/>
+<area shape="rect" id="node3" href="$extendible__hash_8c.html#a2e148617bdcf4430fc113d378557ba60" title="xehash_create" alt="" coords="419,5,525,32"/>
+</map>

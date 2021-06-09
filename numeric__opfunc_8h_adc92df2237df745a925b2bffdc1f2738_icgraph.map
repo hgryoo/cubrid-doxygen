@@ -1,0 +1,10 @@
+<map id="numeric_db_value_div" name="numeric_db_value_div">
+<area shape="rect" id="node2" href="$arithmetic_8c.html#ac452ff9e0f644a66073dcadf6d85d4be" title="db_width_bucket_calculate\l_numeric" alt="" coords="204,5,383,47"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="612,45,792,71"/>
+<area shape="rect" id="node5" href="$query__opfunc_8c.html#a49cbc6c0064c6bebad1c968b766398db" title="qdata_divide_bigint\l_to_dbval" alt="" coords="227,123,360,164"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#ae83ac8560daa1a5afadef1a9062d2bf5" title="qdata_divide_int_to\l_dbval" alt="" coords="226,188,361,229"/>
+<area shape="rect" id="node8" href="$query__opfunc_8c.html#a44dd30b7aea8c89214f98928cb0b0be0" title="qdata_divide_numeric\l_to_dbval" alt="" coords="219,253,367,295"/>
+<area shape="rect" id="node9" href="$query__opfunc_8c.html#af44b08abd27bfba1582c64274b0cbed1" title="qdata_divide_short\l_to_dbval" alt="" coords="228,319,359,360"/>
+<area shape="rect" id="node3" href="$arithmetic_8h.html#adf4aacac0bedf0308441680f08dd50d1" title="db_width_bucket" alt="" coords="437,17,557,43"/>
+<area shape="rect" id="node6" href="$query__opfunc_8h.html#aafb8199a5f74c33c642ada2e62e34d3c" title="qdata_divide_dbval" alt="" coords="431,229,564,255"/>
+</map>

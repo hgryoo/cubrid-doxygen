@@ -1,0 +1,8 @@
+<map id="obj_assign_value" name="obj_assign_value">
+<area shape="rect" id="node2" href="$object__accessor_8c.html#a8486c3a1ff8729d0497dcd8ff6e1de18" title="obj_set_att" alt="" coords="218,56,305,83"/>
+<area shape="rect" id="node5" href="$object__accessor_8h.html#a0f93e96c247b9b3ac1ef5ed210d91110" title="obj_set_shared" alt="" coords="206,107,317,133"/>
+<area shape="rect" id="node6" href="$object__template_8c.html#ab22d1bdb8aec34adb13532d8a8f437b4" title="obt_apply_assignment" alt="" coords="185,157,337,184"/>
+<area shape="rect" id="node7" href="$virtual__object_8c.html#a4c83744f2982452b7daccec22c2e32f6" title="vid_build_non_upd_object" alt="" coords="176,208,347,235"/>
+<area shape="rect" id="node3" href="$object__accessor_8h.html#a1fc61e2723039d461cabb226b3d30f8b" title="obj_desc_set" alt="" coords="395,5,493,32"/>
+<area shape="rect" id="node4" href="$object__accessor_8h.html#a07ea08947760684e9c389428399710d7" title="obj_set" alt="" coords="412,56,476,83"/>
+</map>

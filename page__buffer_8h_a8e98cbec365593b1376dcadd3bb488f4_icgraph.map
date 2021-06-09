@@ -1,0 +1,21 @@
+<map id="pgbuf_get_volume_label" name="pgbuf_get_volume_label">
+<area shape="rect" id="node2" href="$slotted__page_8h.html#a9c273fdf9e041aecb68e711e1b03170c" title="spage_check" alt="" coords="267,217,366,244"/>
+<area shape="rect" id="node3" href="$slotted__page_8h.html#a635a6c611aaf5572d0056cea84f026c7" title="spage_insert_at" alt="" coords="470,65,585,92"/>
+<area shape="rect" id="node4" href="$slotted__page_8h.html#afd65f125e45ecee4ba04b6063c18bced" title="spage_delete" alt="" coords="478,116,577,142"/>
+<area shape="rect" id="node5" href="$slotted__page_8h.html#a7b3b2ecfd80f3b8ace03a602a03ec4b7" title="spage_merge" alt="" coords="637,116,737,142"/>
+<area shape="rect" id="node6" href="$slotted__page_8h.html#ab68d38c29c234969d85ddb87ddad1cfb" title="spage_split" alt="" coords="483,166,571,193"/>
+<area shape="rect" id="node7" href="$slotted__page_8h.html#a26dce904e73bbe85947a5d1bab46d2f2" title="spage_take_out" alt="" coords="470,268,585,294"/>
+<area shape="rect" id="node8" href="$slotted__page_8c.html#a8babb15f96118961deadfbb0c2c4f0f0" title="spage_put_helper" alt="" coords="465,318,589,345"/>
+<area shape="rect" id="node9" href="$slotted__page_8h.html#a8a9b9c29055157cadd8b9861768ae3f0" title="spage_overwrite" alt="" coords="469,369,586,396"/>
+<area shape="rect" id="node10" href="$slotted__page_8h.html#a3bdbea35881252e5f652bbfd0fa7e8f2" title="spage_dump" alt="" coords="479,420,575,446"/>
+<area shape="rect" id="node11" href="$slotted__page_8c.html#a756e5a4b54913dd86e1ae6f3593f4594" title="spage_check_mvcc_updatable" alt="" coords="216,470,417,497"/>
+<area shape="rect" id="node12" href="$slotted__page_8h.html#ac74a0bc0d0e80b4bf43461d7ce00db7b" title="spage_check_slot_owner" alt="" coords="232,521,401,548"/>
+<area shape="rect" id="node13" href="$slotted__page_8c.html#a2225348843f5cb76dccbfbd1f0fe5dbb" title="spage_check_updatable" alt="" coords="235,572,398,598"/>
+<area shape="rect" id="node14" href="$slotted__page_8h.html#af3e2f1b968bbdfe43d30bd79a55c990e" title="spage_get_record" alt="" coords="254,622,379,649"/>
+<area shape="rect" id="node15" href="$slotted__page_8h.html#a8954323acd6fb69d90c6a1831930bf60" title="spage_get_record_length" alt="" coords="233,673,400,700"/>
+<area shape="rect" id="node16" href="$slotted__page_8h.html#a65884db339e2de12abd3b2b559216ba5" title="spage_get_record_offset" alt="" coords="234,724,399,750"/>
+<area shape="rect" id="node17" href="$slotted__page_8h.html#a050b470f88bc9aea0c1727d1e33a4aaf" title="spage_get_space_for\l_record" alt="" coords="243,775,390,816"/>
+<area shape="rect" id="node18" href="$slotted__page_8h.html#abfbcf4217aa24060132ea39729742488" title="spage_mark_deleted\l_slot_as_reusable" alt="" coords="245,840,388,882"/>
+<area shape="rect" id="node19" href="$slotted__page_8c.html#a20bfc1211d4d973c33438a590775b924" title="spage_take_slot_in_use" alt="" coords="235,906,398,933"/>
+<area shape="rect" id="node20" href="$slotted__page_8h.html#a8289795b0eeadcc62a923e9651aa94b9" title="spage_update_record_type" alt="" coords="227,957,406,984"/>
+</map>

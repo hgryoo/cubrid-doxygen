@@ -1,0 +1,18 @@
+<map id="au_fetch_instance_force" name="au_fetch_instance_force">
+<area shape="rect" id="node2" href="$object__template_8c.html#af529284ef8a36888b50d277a186426aa" title="access_object" alt="" coords="253,5,360,32"/>
+<area shape="rect" id="node3" href="$object__template_8c.html#ab1a49f2b7b043063d70b8f50111e7e9f" title="obt_apply_assignments" alt="" coords="444,31,603,57"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="253,107,360,133"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a4cbdb8fd2fa52821893bd3fca7614375" title="do_update_auto_increment\l_serial_on_rename" alt="" coords="217,158,396,199"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#ad37d6b13f9139f97baed90d66d276468" title="do_update_maxvalue\l_of_auto_increment_serial" alt="" coords="219,223,394,265"/>
+<area shape="rect" id="node7" href="$object__accessor_8c.html#a132ea4ec633ec5a1816e52e68b65094d" title="find_unique" alt="" coords="263,289,351,316"/>
+<area shape="rect" id="node8" href="$trigger__manager_8c.html#a653fa697afc1093bf182a16e74aba76e" title="its_deleted" alt="" coords="264,340,349,367"/>
+<area shape="rect" id="node9" href="$object__accessor_8c.html#ab87a91210c9c563d26a55aff92a5c180" title="obj_find_object_by\l_cons_and_key" alt="" coords="241,391,372,433"/>
+<area shape="rect" id="node10" href="$object__accessor_8h.html#a4d79bde3f9f4c80763293e8c310c7e0f" title="obj_find_object_by_pkey" alt="" coords="224,457,389,484"/>
+<area shape="rect" id="node11" href="$object__accessor_8h.html#a730886952e461fbe7e2cc188c39a0c90" title="obj_get_att" alt="" coords="263,508,350,535"/>
+<area shape="rect" id="node12" href="$object__accessor_8c.html#a8486c3a1ff8729d0497dcd8ff6e1de18" title="obj_set_att" alt="" coords="263,559,350,585"/>
+<area shape="rect" id="node13" href="$trigger__manager_8c.html#af554c38d1679b2cf503445e11b71ae17" title="object_to_trigger" alt="" coords="247,609,366,636"/>
+<area shape="rect" id="node14" href="$trigger__manager_8c.html#a9895534c1b72fd9bd0bde607bb2bdbff" title="validate_trigger" alt="" coords="468,635,579,661"/>
+<area shape="rect" id="node15" href="$trigger__manager_8c.html#aa2049ae03789b4c17d66fb6b84e92fdb" title="trigger_to_object" alt="" coords="247,711,366,737"/>
+<area shape="rect" id="node16" href="$virtual__object_8h.html#a987cc077d1aed3146651c8b5e72c5173" title="vid_fetch_instance" alt="" coords="241,761,372,788"/>
+<area shape="rect" id="node17" href="$virtual__object_8h.html#afc5fd51f4b31a8891a388fd3c2d19d45" title="vid_vobj_to_object" alt="" coords="241,836,372,863"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="db_invalidate_mvcc_snapshot_before_statement" name="db_invalidate_mvcc_snapshot_before_statement">
+<area shape="rect" id="node2" href="$db__vdb_8c.html#a78481e1554c3d1807c07bcb8bfc7cd54" title="db_compile_and_execute\l_queries_internal" alt="" coords="244,115,413,156"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#ad6b414798f5f576f2df94299d7842810" title="db_execute_and_keep\l_statement" alt="" coords="253,180,405,221"/>
+<area shape="rect" id="node9" href="$dbi__compat_8h.html#af9bd6b1ca9d48913f3c7af27f0536dd2" title="db_execute_statement" alt="" coords="251,246,406,273"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#a66e982d5480ef969873f27b038465417" title="db_compile_and_execute\l_local" alt="" coords="461,5,631,47"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a9a920e93130fedecbd918200ca8b8024" title="db_execute" alt="" coords="501,71,591,98"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a8326e216f443ded93864d14723424447" title="db_execute_oid" alt="" coords="489,122,603,149"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a6a4302d668bc2b1a41285166d517710a" title="db_get_query_format" alt="" coords="474,173,618,199"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#a999b896df64759cbc26ab8d27a1e5141" title="db_query_execute" alt="" coords="482,223,610,250"/>
+</map>

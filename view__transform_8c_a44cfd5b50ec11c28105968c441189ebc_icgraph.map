@@ -1,0 +1,19 @@
+<map id="mq_translate_helper" name="mq_translate_helper">
+<area shape="rect" id="node2" href="$view__transform_8h.html#a481524d04fe34639e8469291c3c5a9a3" title="mq_translate" alt="" coords="192,401,289,427"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#ae1f8dc2b98ed7ccc4bb2aeefc7b5a47e" title="db_compile_statement\l_local" alt="" coords="346,5,499,47"/>
+<area shape="rect" id="node4" href="$parser_8h.html#a2b415f9c0bb03589f79f54d6b0954b2c" title="pt_compile_trigger_stmt" alt="" coords="342,71,503,98"/>
+<area shape="rect" id="node5" href="$parse__evaluate_8c.html#a2e51925132dc08be6682930e1bb0bbdf" title="pt_set_table_to_db" alt="" coords="357,122,489,149"/>
+<area shape="rect" id="node6" href="$parse__evaluate_8c.html#a8c4be930836f528e1f5dea8ef14f7767" title="pt_evaluate_tree_internal" alt="" coords="556,147,723,174"/>
+<area shape="rect" id="node7" href="$xasl__generation_8h.html#a4ffda647bdf164dbc2ed5f4e418c7ff3" title="pt_to_delete_xasl" alt="" coords="361,223,485,250"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#a5a96449a20d34f17f764bead35cde84e" title="do_prepare_delete" alt="" coords="575,262,703,289"/>
+<area shape="rect" id="node9" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="359,325,487,351"/>
+<area shape="rect" id="node10" href="$execute__statement_8h.html#ac634b027d1b85e4fbfb2cc7e8b803fc7" title="do_prepare_update" alt="" coords="573,338,705,365"/>
+<area shape="rect" id="node11" href="$xasl__generation_8c.html#ad40a4696a329c337de0d1b4cec048d27" title="pt_to_merge_update_xasl" alt="" coords="337,426,508,453"/>
+<area shape="rect" id="node12" href="$xasl__generation_8c.html#aaec21ce3a085c64cbd1f04cc22bb43d1" title="pt_to_merge_insert_xasl" alt="" coords="341,477,505,503"/>
+<area shape="rect" id="node13" href="$execute__schema_8c.html#a136d0b630baa343288da3e0f11d035d0" title="execute_create_select\l_query" alt="" coords="346,528,499,569"/>
+<area shape="rect" id="node14" href="$execute__statement_8c.html#ad67525a0fb58c3514cd7ffba96f2b846" title="get_select_list_to\l_update" alt="" coords="361,593,485,635"/>
+<area shape="rect" id="node15" href="$execute__statement_8c.html#ad2c8b3305a684b8b643599a71211acbc" title="select_delete_list" alt="" coords="361,659,484,686"/>
+<area shape="rect" id="node16" href="$execute__statement_8h.html#a661feaacf0e01e3f0f72364db8648b7a" title="do_merge" alt="" coords="383,710,462,737"/>
+<area shape="rect" id="node17" href="$execute__statement_8h.html#a92e684c00e2d830e80140690244b728e" title="do_prepare_merge" alt="" coords="358,761,487,787"/>
+<area shape="rect" id="node18" href="$execute__statement_8h.html#af259588ebb962b880ecb05ae0b82c5e9" title="do_execute_merge" alt="" coords="357,811,489,838"/>
+</map>

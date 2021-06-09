@@ -1,0 +1,5 @@
+<map id="vacuum_job_cursor::is_valid" name="vacuum_job_cursor::is_valid">
+<area shape="rect" id="node2" href="$classvacuum__job__cursor.html#a4e1e157d130e81561775cd5e2b4857be" title="vacuum_job_cursor::\lget_current_entry" alt="" coords="213,5,355,47"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="420,71,495,98"/>
+<area shape="rect" id="node4" href="$classvacuum__job__cursor.html#a46c8539ef4fd7bc864964cc44db7f9e1" title="vacuum_job_cursor::\lstart_job_on_current_entry" alt="" coords="196,123,372,164"/>
+</map>

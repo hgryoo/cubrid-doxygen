@@ -1,0 +1,8 @@
+<map id="qdata_multiply_numeric_to_dbval" name="qdata_multiply_numeric_to_dbval">
+<area shape="rect" id="node2" href="$query__opfunc_8h.html#a5e0ccfc1fb37973e1e05a7b4c6839d86" title="qdata_multiply_dbval" alt="" coords="212,123,356,149"/>
+<area shape="rect" id="node3" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="442,5,561,32"/>
+<area shape="rect" id="node4" href="$query__aggregate_8cpp.html#ae648488289a189182d88cdf6ec9eb4d8" title="qdata_aggregate_value\l_to_accumulator" alt="" coords="423,57,579,98"/>
+<area shape="rect" id="node5" href="$query__aggregate_8hpp.html#aaab4cfccc7f11e0574aaeb4a91ff5cdc" title="qdata_finalize_aggregate_list" alt="" coords="406,123,597,149"/>
+<area shape="rect" id="node6" href="$query__analytic_8hpp.html#a77694d66899ad7e3bfe752bc6a4201f6" title="qdata_evaluate_analytic_func" alt="" coords="404,173,599,200"/>
+<area shape="rect" id="node7" href="$query__analytic_8hpp.html#a60ac6e5d89053f1f38e3bd6caaaa4882" title="qdata_finalize_analytic_func" alt="" coords="408,224,595,251"/>
+</map>

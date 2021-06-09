@@ -1,0 +1,9 @@
+<map id="heap_build_forwarding_recdes" name="heap_build_forwarding_recdes">
+<area shape="rect" id="node2" href="$heap__file_8c.html#ae6bc2f0a557f47735e3626174f158ac0" title="heap_delete_home" alt="" coords="218,5,349,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a39452d0770e56fac7920a1eef55d75b9" title="heap_delete_relocation" alt="" coords="206,56,361,83"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a0499e7538f0b6d671dc7cca90d3565dd" title="heap_insert_handle\l_multipage_record" alt="" coords="216,107,351,149"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#a512d30dc792740a94604451092dc9493" title="heap_update_bigone" alt="" coords="213,173,354,200"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#a0e14957c5684f34d4601bbcbbef56dc4" title="heap_update_home" alt="" coords="216,224,351,251"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#aad64b24fe26326bcf208fff0a228988b" title="heap_update_relocation" alt="" coords="204,275,363,301"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#aefde2dcf4add17b9075b27ff07a7e400" title="heap_delete_logical" alt="" coords="411,31,547,57"/>
+</map>

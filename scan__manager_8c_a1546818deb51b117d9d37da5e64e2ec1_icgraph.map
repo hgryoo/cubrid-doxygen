@@ -1,0 +1,5 @@
+<map id="scan_init_multi_range_optimization" name="scan_init_multi_range_optimization">
+<area shape="rect" id="node2" href="$scan__manager_8h.html#a182c8e92047f6d81e263152409c29da0" title="scan_open_index_scan" alt="" coords="201,31,360,57"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#ab987ce7bd67fd4b9e0c392cea960d924" title="qexec_open_scan" alt="" coords="428,5,555,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#aabe6a73176c447365adf5a71e0db3d0a" title="qexec_init_next_partition" alt="" coords="408,56,575,83"/>
+</map>

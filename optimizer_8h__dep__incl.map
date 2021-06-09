@@ -1,0 +1,21 @@
+<map id="src/optimizer/optimizer.h" name="src/optimizer/optimizer.h">
+<area shape="rect" id="node2" href="$csql_8c.html" title="src/executables/csql.c" alt="" coords="5,87,159,114"/>
+<area shape="rect" id="node3" href="$authenticate_8c.html" title="src/object/authenticate.c" alt="" coords="183,87,349,114"/>
+<area shape="rect" id="node4" href="$plan__generation_8c.html" title="src/optimizer/plan\l_generation.c" alt="" coords="633,259,758,300"/>
+<area shape="rect" id="node5" href="$query__bitset_8h.html" title="src/optimizer/query\l_bitset.h" alt="" coords="733,80,866,121"/>
+<area shape="rect" id="node6" href="$query__graph_8h.html" title="src/optimizer/query\l_graph.h" alt="" coords="890,169,1023,211"/>
+<area shape="rect" id="node7" href="$query__graph_8c.html" title="src/optimizer/query\l_graph.c" alt="" coords="795,259,929,300"/>
+<area shape="rect" id="node8" href="$query__planner_8c.html" title="src/optimizer/query\l_planner.c" alt="" coords="1414,259,1547,300"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html" title="src/parser/xasl_generation.c" alt="" coords="959,266,1146,293"/>
+<area shape="rect" id="node10" href="$query__planner_8h.html" title="src/optimizer/query\l_planner.h" alt="" coords="733,169,866,211"/>
+<area shape="rect" id="node12" href="$query__rewrite_8c.html" title="src/optimizer/query\l_rewrite.c" alt="" coords="1098,169,1231,211"/>
+<area shape="rect" id="node13" href="$xasl__generation_8h.html" title="src/parser/xasl_generation.h" alt="" coords="1347,87,1534,114"/>
+<area shape="rect" id="node16" href="$parser__support_8c.html" title="src/parser/parser_support.c" alt="" coords="1762,177,1943,203"/>
+<area shape="rect" id="node17" href="$execute__statement_8c.html" title="src/query/execute_statement.c" alt="" coords="1967,177,2170,203"/>
+<area shape="rect" id="node18" href="$parse__tree__cl_8c.html" title="src/parser/parse_tree_cl.c" alt="" coords="2118,87,2291,114"/>
+<area shape="rect" id="node19" href="$view__transform_8c.html" title="src/parser/view_transform.c" alt="" coords="2315,87,2499,114"/>
+<area shape="rect" id="node20" href="$query__cl_8c.html" title="src/query/query_cl.c" alt="" coords="2524,87,2664,114"/>
+<area shape="rect" id="node11" href="$query__bitset_8c.html" title="src/optimizer/query\l_bitset.c" alt="" coords="525,169,658,211"/>
+<area shape="rect" id="node14" href="$db__query_8c.html" title="src/compat/db_query.c" alt="" coords="1306,177,1461,203"/>
+<area shape="rect" id="node15" href="$parse__dbi_8c.html" title="src/parser/parse_dbi.c" alt="" coords="1536,177,1687,203"/>
+</map>

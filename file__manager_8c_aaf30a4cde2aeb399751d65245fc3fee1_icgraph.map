@@ -1,0 +1,10 @@
+<map id="file_partsect_is_full" name="file_partsect_is_full">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="210,107,293,133"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#a38cea7b20a0b915620d344e2faf6f578" title="file_partsect_alloc" alt="" coords="188,208,315,235"/>
+<area shape="rect" id="node8" href="$file__manager_8c.html#adc0db5dfc925dc493ef06a24997d87d1" title="file_perm_alloc" alt="" coords="391,208,501,235"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#a3caedf6598ee654efb9b8be761cc8edc" title="file_temp_alloc" alt="" coords="391,259,501,285"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a76b48022b881809b35f193418dcc8aba" title="file_create_with_npages" alt="" coords="365,5,527,32"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a64196cd150853d3b210a8f55740f0839" title="file_create_temp_internal" alt="" coords="363,56,529,83"/>
+<area shape="rect" id="node5" href="$file__manager_8h.html#aa6e3dfe54417c209a4ceaf419a916848" title="file_create_ehash" alt="" coords="384,107,508,133"/>
+<area shape="rect" id="node6" href="$file__manager_8h.html#ac26203672282f7ce035695376bcfe3ca" title="file_create_ehash_dir" alt="" coords="373,157,519,184"/>
+</map>

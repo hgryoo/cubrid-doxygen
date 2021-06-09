@@ -1,0 +1,14 @@
+<map id="dbt_create_object_internal" name="dbt_create_object_internal">
+<area shape="rect" id="node2" href="$esql__gadget_8h.html#a4439ec0649e23f4e5ca55d99a8a948a0" title="db_gadget_exec" alt="" coords="257,13,374,40"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#a6873703d7f825aaf348f4f6090e3257b" title="do_create_serial_internal" alt="" coords="232,72,399,99"/>
+<area shape="rect" id="node7" href="$execute__statement_8c.html#afc8676086646494b31f8b100d05f13da" title="do_insert_template" alt="" coords="472,173,604,200"/>
+<area shape="rect" id="node8" href="$execute__statement_8c.html#a2ed4e36685dfd7b5d4e82516a415d0e9" title="insert_subquery_results" alt="" coords="235,173,395,200"/>
+<area shape="rect" id="node9" href="$jsp__cl_8c.html#a492fc77e32ed00bc045be5703c4aba55" title="jsp_add_stored_procedure" alt="" coords="451,253,625,280"/>
+<area shape="rect" id="node10" href="$jsp__cl_8c.html#a5ae7532d8b80611831949995873a9de2" title="jsp_add_stored_procedure\l_argument" alt="" coords="228,275,403,317"/>
+<area shape="rect" id="node11" href="$log__applier_8c.html#aae222bafc8147044057c499295141b9b" title="la_apply_insert_log" alt="" coords="249,341,382,368"/>
+<area shape="rect" id="node12" href="$log__applier_8c.html#a2d40a24d77f7d73ad8df508c20a5dbdb" title="la_apply_update_log" alt="" coords="245,392,385,419"/>
+<area shape="rect" id="node13" href="$trigger__manager_8c.html#aa2049ae03789b4c17d66fb6b84e92fdb" title="trigger_to_object" alt="" coords="256,443,375,469"/>
+<area shape="rect" id="node3" href="$esql__cli_8c.html#a251d8527b2af365292ad24dd8dd4cac1" title="uci_static" alt="" coords="499,5,577,32"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a6d5023a6cc407b5d1d0222db0157e162" title="do_create_serial" alt="" coords="479,56,597,83"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#ac78ed602718434e660dfe3f61cf88719" title="do_create_auto_increment\l_serial" alt="" coords="451,107,625,149"/>
+</map>

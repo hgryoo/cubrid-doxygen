@@ -1,0 +1,6 @@
+<map id="pgbuf_aout_list" name="pgbuf_aout_list">
+<area shape="rect" id="node2" href="$structmht__table.html" title="{mht_table\n|+ hash_func\l+ cmp_func\l+ name\l+ size\l+ rehash_at\l+ nentries\l+ nprealloc_entries\l+ ncollisions\l+ heap_id\l+ build_lru_list\l|}" alt="" coords="5,233,137,443"/>
+<area shape="rect" id="node3" href="$structhentry.html" title="{hentry\n|+ key\l+ data\l|}" alt="" coords="31,5,90,97"/>
+<area shape="rect" id="node4" href="$structpgbuf__aout__buf.html" title="{pgbuf_aout_buf\n|+ lru_idx\l|}" alt="" coords="175,299,285,377"/>
+<area shape="rect" id="node5" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="197,5,269,97"/>
+</map>

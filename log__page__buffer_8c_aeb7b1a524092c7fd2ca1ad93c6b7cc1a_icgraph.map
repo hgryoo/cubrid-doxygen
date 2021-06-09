@@ -1,0 +1,8 @@
+<map id="logpb_get_guess_archive_num" name="logpb_get_guess_archive_num">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#ad2a4086ead560587d249dcefe4a943e4" title="logpb_fetch_from_archive" alt="" coords="255,107,425,133"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="478,5,646,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="501,56,623,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#ab30ed794767e26daa14273f87708ae20" title="logpb_get_archive_number" alt="" coords="473,107,651,133"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a721f75e714fb216eb1c86e38c1640644" title="logpb_read_page_from_file" alt="" coords="473,157,651,184"/>
+<area shape="rect" id="node7" href="$log__writer_8h.html#af1e1368d8e63a233e503b44c7cad4f4e" title="logwr_log_ha_filestat\l_to_string" alt="" coords="490,209,634,250"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="heap_get_class_name_alloc_if_diff" name="heap_get_class_name_alloc_if_diff">
+<area shape="rect" id="node2" href="$heap__file_8h.html#ab6c7b42875fd7b6cb7b42d82244c6b85" title="heap_get_class_name" alt="" coords="205,441,357,468"/>
+<area shape="rect" id="node19" href="$locator__sr_8c.html#a539361f07ec638e311344ee9283ee534" title="locator_check_class\l_on_heap" alt="" coords="211,493,352,534"/>
+<area shape="rect" id="node20" href="$locator__sr_8c.html#aa94a327f45350804b2066385650abc9b" title="locator_update_force" alt="" coords="210,559,353,585"/>
+<area shape="rect" id="node3" href="$btree_8h.html#a55f97cabd292e8ffe5fdaf6e9fca4c2e" title="btree_dump_capacity" alt="" coords="419,5,565,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#ad218a8a841023d1cd861a3508c82fd6a" title="btree_dump_page" alt="" coords="429,56,555,83"/>
+<area shape="rect" id="node5" href="$btree_8h.html#ab7c7756ee7f37a25558b279620f08588" title="btree_index_next_scan" alt="" coords="414,107,570,133"/>
+<area shape="rect" id="node6" href="$btree_8h.html#ac3b3f90a946fb5191b0ee2de4bfed31c" title="btree_set_error" alt="" coords="437,157,547,184"/>
+<area shape="rect" id="node7" href="$system__catalog_8h.html#ab2286864130516f976d9fffe70b19177" title="catalog_start_access\l_with_dir_oid" alt="" coords="419,209,565,250"/>
+<area shape="rect" id="node8" href="$catalog__class_8c.html#a083728b176ef4bd5f38faba18c5a47d0" title="catcls_convert_class\l_oid_to_oid" alt="" coords="419,274,565,315"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#a49ba6625e6878962a12c576aa556f198" title="file_print_name_of\l_class" alt="" coords="428,339,556,381"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#a550ba39ad01765a4f0b7115fbb43f60c" title="heap_attrinfo_transform\l_to_disk_internal" alt="" coords="413,405,571,446"/>
+<area shape="rect" id="node11" href="$heap__file_8h.html#a3665cd7a7a16a249b1e017ef9266b2d9" title="heap_capacity_next_scan" alt="" coords="405,471,579,497"/>
+<area shape="rect" id="node12" href="$heap__file_8c.html#a4cd234cf41396c823ab96f904339a5b6" title="heap_classrepr_dump" alt="" coords="417,521,567,548"/>
+<area shape="rect" id="node13" href="$heap__file_8h.html#a33eb619ca4646cdd57d5f1c5ee5a6072" title="heap_classrepr_dump_all" alt="" coords="627,547,796,573"/>
+<area shape="rect" id="node14" href="$heap__file_8h.html#af9b51132b3d79b7500f627c40864f706" title="heap_header_next_scan" alt="" coords="411,623,573,649"/>
+<area shape="rect" id="node15" href="$heap__file_8c.html#ade4239f217db008688aa20790ed84cc6" title="heap_mark_class_as\l_modified" alt="" coords="419,674,565,715"/>
+<area shape="rect" id="node16" href="$heap__file_8h.html#ab7c22521ae5b0786918abc192a3ba4a8" title="heap_set_autoincrement\l_value" alt="" coords="410,739,574,781"/>
+<area shape="rect" id="node17" href="$locator__sr_8c.html#ab82d600b3f62b5b63fd9b3fd864e7031" title="locator_add_or_remove\l_index_internal" alt="" coords="413,805,571,846"/>
+<area shape="rect" id="node18" href="$locator__sr_8h.html#a95c3de45a3d96181fad4bf2f3090d752" title="locator_check_btree\l_entries" alt="" coords="423,870,561,911"/>
+</map>

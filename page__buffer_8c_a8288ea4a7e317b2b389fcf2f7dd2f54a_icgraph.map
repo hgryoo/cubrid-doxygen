@@ -1,0 +1,9 @@
+<map id="pgbuf_is_page_flush_daemon_available" name="pgbuf_is_page_flush_daemon_available">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#ad52a19e58500feeaa168bde701246375" title="pgbuf_allocate_bcb" alt="" coords="969,51,1104,77"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="195,106,325,147"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a7014e631a37bc9e0f7136303cbc78ae6" title="pgbuf_wakeup_page_flush\l_daemon" alt="" coords="373,43,549,85"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a7cc1c686b4d3e0a9de41d12d4bfa26b7" title="pgbuf_get_victim_from\l_lru_list" alt="" coords="597,130,752,171"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#ae3559936e3204102a7a9a4fee6087017" title="pgbuf_get_victim" alt="" coords="800,137,921,164"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a8cbce269e04ed30279485fc77e786430" title="pgbuf_claim_bcb_for_fix" alt="" coords="1152,51,1315,77"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#a06d2b0cbf44eb89ea6c4c9f068cf4344" title="pgbuf_get_page_flush\l_interval" alt="" coords="387,109,536,150"/>
+</map>

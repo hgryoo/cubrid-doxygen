@@ -1,0 +1,13 @@
+<map id="remove_trigger_list_element" name="remove_trigger_list_element">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#acaa2f1df9caa37249b4765b4d2faa2d7" title="reinsert_trigger_list" alt="" coords="203,35,335,61"/>
+<area shape="rect" id="node4" href="$trigger__manager_8c.html#a43f76942b706ab352596c156a15ead0b" title="remove_deferred_activity" alt="" coords="185,115,353,141"/>
+<area shape="rect" id="node8" href="$trigger__manager_8c.html#a4a2cec567c2b9453877c8a4b9171261a" title="remove_trigger_list" alt="" coords="203,199,335,225"/>
+<area shape="rect" id="node12" href="$trigger__manager_8c.html#ae0baeed6d5f5425baca51c0f65198ba6" title="tr_execute_activities" alt="" coords="198,249,341,276"/>
+<area shape="rect" id="node3" href="$trigger__manager_8c.html#ad320c6b0d23000576db60f81b3b8b2fe" title="reorder_schema_caches" alt="" coords="407,5,571,32"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#a9da91e5b34adf260b4e9bad7e2e9cd79" title="tr_drop_deferred_activities" alt="" coords="401,56,576,83"/>
+<area shape="rect" id="node7" href="$trigger__manager_8h.html#af5246583905394c9c1a2e8de59dd0735" title="tr_execute_deferred\l_activities" alt="" coords="420,107,557,149"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#ab86886b8498d463986948822d3086b33" title="tr_create_trigger" alt="" coords="643,115,759,141"/>
+<area shape="rect" id="node9" href="$trigger__manager_8h.html#a5504bbaa6c0aaf4394cd0e7a9837356d" title="tr_drop_cache_trigger" alt="" coords="415,224,562,251"/>
+<area shape="rect" id="node10" href="$trigger__manager_8c.html#ad22e88534246991be186e6d3121cbd7c" title="tr_drop_trigger_internal" alt="" coords="624,300,779,327"/>
+<area shape="rect" id="node11" href="$trigger__manager_8c.html#a2b293d32494648b1e2ef15c887d157dc" title="unregister_user_trigger" alt="" coords="411,325,566,352"/>
+</map>

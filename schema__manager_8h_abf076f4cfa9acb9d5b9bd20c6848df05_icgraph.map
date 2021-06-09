@@ -1,0 +1,8 @@
+<map id="sm_save_constraint_info" name="sm_save_constraint_info">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a053f256f78294b06899aadfe66cf6dad" title="build_attr_change_map" alt="" coords="220,5,376,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#afaa7284d4b1251a4e20e4232705f1c3b" title="do_copy_indexes" alt="" coords="237,56,359,83"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a117d19cbdb55baa5877f998a7c3e9310" title="do_recreate_renamed\l_class_indexes" alt="" coords="225,107,371,149"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#a6ce1d29b32d570abeaf2cf9691413aeb" title="do_save_all_indexes" alt="" coords="227,173,369,200"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="232,224,364,251"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#ae2c6030d8ef2ca1dcc6d04266020dcef" title="check_change_attribute" alt="" coords="424,5,584,32"/>
+</map>

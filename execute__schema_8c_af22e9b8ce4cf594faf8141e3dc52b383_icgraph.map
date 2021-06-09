@@ -1,0 +1,6 @@
+<map id="do_get_partition_keycol" name="do_get_partition_keycol">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a053f256f78294b06899aadfe66cf6dad" title="build_attr_change_map" alt="" coords="219,5,375,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a3bff2a1d9326a77b64702da53220fa4d" title="do_alter_partitioning_post" alt="" coords="212,56,383,83"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a3d065088ea9aebd736b48d0427c4c604" title="do_alter_partitioning_pre" alt="" coords="216,107,379,133"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#ae2c6030d8ef2ca1dcc6d04266020dcef" title="check_change_attribute" alt="" coords="431,5,591,32"/>
+</map>

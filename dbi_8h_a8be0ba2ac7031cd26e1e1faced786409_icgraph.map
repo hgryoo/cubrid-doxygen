@@ -1,0 +1,21 @@
+<map id="db_constraint_type" name="db_constraint_type">
+<area shape="rect" id="node2" href="$class__object_8c.html#a7ccc84963969303714e4fb2a51070e96" title="classobj_copy_constraint_like" alt="" coords="185,5,381,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#ad4ec4be91f4d98843c2a0d0b7ac25f7b" title="db_get_btree_statistics" alt="" coords="205,56,362,83"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#afcf7ed75c00d62f9572625c130721e19" title="do_alter_index_rebuild" alt="" coords="451,165,601,192"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="213,158,354,199"/>
+<area shape="rect" id="node7" href="$execute__schema_8c.html#afaa7284d4b1251a4e20e4232705f1c3b" title="do_copy_indexes" alt="" coords="465,788,587,815"/>
+<area shape="rect" id="node8" href="$execute__schema_8c.html#a2bf3e5ef2f2a10e5650ca02e30858597" title="do_create_partition\l_constraint" alt="" coords="217,275,349,317"/>
+<area shape="rect" id="node9" href="$unload__schema_8c.html#ad1821163552264bc45cfdc6439b12d7f" title="emit_foreign_key" alt="" coords="223,341,344,368"/>
+<area shape="rect" id="node10" href="$unload__schema_8c.html#a2d1ff595a8674eee80c5d89ce8140793" title="emit_index_def" alt="" coords="228,392,339,419"/>
+<area shape="rect" id="node11" href="$unload__schema_8c.html#abdf895acb943b419d6090d5a786e87d0" title="emit_reverse_unique_def" alt="" coords="200,443,367,469"/>
+<area shape="rect" id="node12" href="$unload__schema_8c.html#aefce85871e326d5129c3cfb5cecae457" title="emit_unique_def" alt="" coords="225,493,342,520"/>
+<area shape="rect" id="node13" href="$cas__execute_8c.html#aa5971a02e2fd02cddfdfadb3ab2000c5" title="fetch_constraint" alt="" coords="226,544,341,571"/>
+<area shape="rect" id="node14" href="$cas__execute_8c.html#ada047c34bf7f05204243daae74850a4b" title="sch_constraint" alt="" coords="230,595,337,621"/>
+<area shape="rect" id="node15" href="$cas__execute_8c.html#ad0029a125102ce5fc5a810392acc5778" title="sch_exported_keys_or\l_cross_reference" alt="" coords="207,646,360,687"/>
+<area shape="rect" id="node16" href="$cas__execute_8c.html#ab97d5a48d1e988654857b2bec962d8e2" title="sch_imported_keys" alt="" coords="216,712,351,739"/>
+<area shape="rect" id="node17" href="$schema__manager_8h.html#abd1979a808b3a290e4e35b3f3bf039e0" title="sm_drop_constraint" alt="" coords="215,224,351,251"/>
+<area shape="rect" id="node18" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="227,888,340,915"/>
+<area shape="rect" id="node19" href="$schema__template_8h.html#ab51f553d1e53355523d765c1ea2e0ad4" title="smt_rename_any" alt="" coords="465,913,587,940"/>
+<area shape="rect" id="node20" href="$schema__manager_8h.html#abf076f4cfa9acb9d5b9bd20c6848df05" title="sm_save_constraint_info" alt="" coords="200,763,367,789"/>
+<area shape="rect" id="node3" href="$class__object_8h.html#a50dc37f5abd0f57a486f0becf02ade22" title="classobj_make_template_like" alt="" coords="429,5,623,32"/>
+</map>

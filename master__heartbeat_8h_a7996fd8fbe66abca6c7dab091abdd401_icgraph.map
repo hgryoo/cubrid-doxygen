@@ -1,0 +1,6 @@
+<map id="hb_resource_shutdown_and_cleanup" name="hb_resource_shutdown_and_cleanup">
+<area shape="rect" id="node2" href="$master__request_8c.html#a00362c34efcc196361f2f1c3dbf1d659" title="css_process_kill_master" alt="" coords="421,5,588,32"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8h.html#a2aa6cfaeeeac5d431ff620cf0ff7df94" title="hb_deactivate_heartbeat" alt="" coords="209,60,373,87"/>
+<area shape="rect" id="node3" href="$master__request_8h.html#a0d0d71b7f22a154bc9f7522d09a17429" title="css_process_info_request" alt="" coords="636,35,811,61"/>
+<area shape="rect" id="node5" href="$master__request_8c.html#aee37914b846db533c53e257a148bd4c0" title="css_process_deactivate\l_heartbeat" alt="" coords="423,57,586,98"/>
+</map>

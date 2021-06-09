@@ -1,0 +1,11 @@
+<map id="db_set_create_multi" name="db_set_create_multi">
+<area shape="rect" id="node2" href="$cursor_8c.html#a459d993177f7f7fc7b9d60b8b9c090d4" title="cursor_fixup_set_vobjs" alt="" coords="199,5,355,32"/>
+<area shape="rect" id="node4" href="$dbtype__function_8h.html#a08c1944afc91bb447d33feaf6a9ef382" title="db_value_domain_default" alt="" coords="192,56,361,83"/>
+<area shape="rect" id="node5" href="$cas__execute_8c.html#a235ed61a310d3fc128b8c64464ce6c47" title="netval_to_dbval" alt="" coords="220,107,333,133"/>
+<area shape="rect" id="node6" href="$parser_8h.html#a2ec0c565180360fd5b91fe6a2484b39f" title="pt_db_value_initialize" alt="" coords="203,157,350,184"/>
+<area shape="rect" id="node7" href="$parse__evaluate_8c.html#a8c4be930836f528e1f5dea8ef14f7767" title="pt_evaluate_tree_internal" alt="" coords="193,208,360,235"/>
+<area shape="rect" id="node8" href="$query__opfunc_8c.html#a9361d7d1b6a9aa17eb833fa7fc6ee829" title="qdata_convert_dbvals\l_to_set" alt="" coords="202,259,351,301"/>
+<area shape="rect" id="node9" href="$query__opfunc_8c.html#a6b94d2d895a5914234b43e76a8a80b12" title="qdata_convert_table\l_to_set" alt="" coords="207,325,346,366"/>
+<area shape="rect" id="node10" href="$xasl__generation_8c.html#a3fb8e988e87eb4bbd2a189a1d7a4f8c2" title="setof_mop_to_setof_vobj" alt="" coords="193,391,361,417"/>
+<area shape="rect" id="node3" href="$cursor_8c.html#a327c17c554adf034de19a93504e3dff0" title="cursor_fixup_vobjs" alt="" coords="409,5,540,32"/>
+</map>

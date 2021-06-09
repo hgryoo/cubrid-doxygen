@@ -1,0 +1,13 @@
+<map id="qmgr_find_query_entry" name="qmgr_find_query_entry">
+<area shape="rect" id="node2" href="$query__manager_8h.html#aaa8c170e8f4d4b7262ac11e8a280b2b0" title="qmgr_create_new_temp_file" alt="" coords="208,56,393,83"/>
+<area shape="rect" id="node6" href="$query__manager_8h.html#a6d204ec3a6700171ebe500d61be313b0" title="qmgr_create_result_file" alt="" coords="222,5,379,32"/>
+<area shape="rect" id="node7" href="$query__manager_8h.html#a5de73a5fa215d2f58935a2a5015e555d" title="qmgr_free_list_temp_file" alt="" coords="219,107,383,133"/>
+<area shape="rect" id="node8" href="$query__manager_8h.html#a99f3abfeb89f2d173d999bfcace969e4" title="qmgr_get_query_entry" alt="" coords="225,157,376,184"/>
+<area shape="rect" id="node12" href="$query__manager_8c.html#a0382e2abbf209165a152f42248749e82" title="xqmgr_end_query" alt="" coords="238,208,363,235"/>
+<area shape="rect" id="node3" href="$list__file_8h.html#a9a0cb0a6d85281f2415ed963cdbe90f6" title="qfile_open_list" alt="" coords="469,5,575,32"/>
+<area shape="rect" id="node4" href="$list__file_8h.html#ab4f13b15b2ddac8fbd42965eb5a7dbbd" title="qfile_get_first_page" alt="" coords="455,56,589,83"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a7c9417cbf00ad332e508fad017f05b5e" title="qexec_setup_list_id" alt="" coords="453,107,591,133"/>
+<area shape="rect" id="node9" href="$list__file_8c.html#adb3850a2326a1b197e8fd8fa79ac7311" title="xqfile_get_list_file_page" alt="" coords="441,157,603,184"/>
+<area shape="rect" id="node10" href="$query__manager_8h.html#a154d5fc386ea2125b3a392aa4869b301" title="qmgr_set_query_error" alt="" coords="448,208,596,235"/>
+<area shape="rect" id="node11" href="$query__manager_8h.html#a6a7fca675c22030e25a6b5c875068510" title="qmgr_get_query_sql\l_user_text" alt="" coords="453,259,591,301"/>
+</map>

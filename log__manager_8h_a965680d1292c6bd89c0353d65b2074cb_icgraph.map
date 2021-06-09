@@ -1,0 +1,8 @@
+<map id="log_add_to_modified_class_list" name="log_add_to_modified_class_list">
+<area shape="rect" id="node2" href="$heap__file_8c.html#ade4239f217db008688aa20790ed84cc6" title="heap_mark_class_as\l_modified" alt="" coords="219,70,365,111"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#aa94a327f45350804b2066385650abc9b" title="locator_update_force" alt="" coords="625,132,768,159"/>
+<area shape="rect" id="node7" href="$locator__sr_8c.html#add2f875353eea2b50e0bdafde6f03ddd" title="xlocator_rename_class_name" alt="" coords="195,208,389,235"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#aefde2dcf4add17b9075b27ff07a7e400" title="heap_delete_logical" alt="" coords="439,5,575,32"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#abdeca500518e856f5c4176f920385e52" title="heap_insert_logical" alt="" coords="441,56,574,83"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a1bfe88925bd63940173e3c7fe7bb7c46" title="heap_update_logical" alt="" coords="437,107,577,133"/>
+</map>

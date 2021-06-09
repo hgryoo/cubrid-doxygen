@@ -1,0 +1,6 @@
+<map id="heap_classrepr_hash" name="heap_classrepr_hash">
+<area shape="rect" id="node2" href="$structheap__classrepr__entry.html" title="{heap_classrepr_entry\n|+ mutex\l+ idx\l+ fcnt\l+ zone\l+ force_decache\l+ next_wait_thrd\l+ max_reprid\l+ last_reprid\l|}" alt="" coords="5,263,152,443"/>
+<area shape="rect" id="node3" href="$structor__classrep.html" title="{or_classrep\n|+ id\l+ fixed_length\l+ n_attributes\l+ n_variable\l+ n_shared_attrs\l+ n_class_attrs\l+ n_indexes\l+ needs_indexes\l+ has_partition_info\l|}" alt="" coords="11,5,147,200"/>
+<area shape="rect" id="node4" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="247,49,339,156"/>
+<area shape="rect" id="node5" href="$structheap__classrepr__lock.html" title="{heap_classrepr_lock\n|+ next_wait_thrd\l|}" alt="" coords="269,314,411,391"/>
+</map>

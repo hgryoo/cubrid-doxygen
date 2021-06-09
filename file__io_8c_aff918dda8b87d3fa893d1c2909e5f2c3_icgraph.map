@@ -1,0 +1,21 @@
+<map id="fileio_is_permanent_volume_descriptor" name="fileio_is_permanent_volume_descriptor">
+<area shape="rect" id="node2" href="$file__io_8h.html#a49fcc0528a57dbe9db113ad5a6dc93ee" title="fileio_synchronize" alt="" coords="188,461,315,488"/>
+<area shape="rect" id="node15" href="$file__io_8c.html#aca6d2f0fa8db31627a725fcb74139310" title="pwrite_with_injected\l_fault" alt="" coords="383,897,523,938"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="624,208,715,235"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8c.html#a9990a5604abb5bdf77d643cd0023fe5b" title="dwb_flush_block" alt="" coords="394,208,513,235"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="592,329,747,370"/>
+<area shape="rect" id="node6" href="$double__write__buffer_8c.html#aeb84f7839b7d88f97f762b74ecdce44f" title="dwb_file_sync_helper" alt="" coords="380,309,527,336"/>
+<area shape="rect" id="node7" href="$file__io_8h.html#a4b534d96b4cf0f126cc3e3455bc476ae" title="fileio_copy_volume" alt="" coords="603,395,736,421"/>
+<area shape="rect" id="node8" href="$file__io_8h.html#abc96dd43b6e1e621b7003ebc703d940f" title="fileio_reset_volume" alt="" coords="386,259,521,285"/>
+<area shape="rect" id="node9" href="$file__io_8h.html#a7ecce4d4e9da240bf6a6ff7e1db94834" title="fileio_dismount" alt="" coords="399,461,508,488"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#aba424036ec1b5f29053849bba67d9442" title="logpb_write_toflush\l_pages_to_archive" alt="" coords="602,497,737,538"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="795,522,952,563"/>
+<area shape="rect" id="node12" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="1000,529,1168,556"/>
+<area shape="rect" id="node13" href="$file__io_8c.html#a72c535bc9a666833b406b350b160e51a" title="fileio_dismount_volume" alt="" coords="374,664,533,691"/>
+<area shape="rect" id="node14" href="$file__io_8h.html#a2bf5edd8dab8f012553391fc2c6dc67f" title="fileio_dismount_all" alt="" coords="605,689,734,716"/>
+<area shape="rect" id="node16" href="$file__io_8c.html#a5f1e5a5922eb67086de61deb39f13b38" title="fileio_synchronize\l_sys_volume" alt="" coords="390,766,517,807"/>
+<area shape="rect" id="node17" href="$file__io_8c.html#a9806ccf2326e291b5d3b899e76c8df08" title="fileio_synchronize\l_volume" alt="" coords="390,831,517,873"/>
+<area shape="rect" id="node18" href="$file__io_8h.html#a804410092892d2bfac5a0b9d21a4e3c7" title="fileio_finish_backup" alt="" coords="385,5,521,32"/>
+<area shape="rect" id="node19" href="$boot__sr_8h.html#af22273abf42535dc9e08de112e5b4034" title="boot_dbparm_save_volume" alt="" coords="363,56,544,83"/>
+<area shape="rect" id="node20" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="392,107,515,133"/>
+</map>

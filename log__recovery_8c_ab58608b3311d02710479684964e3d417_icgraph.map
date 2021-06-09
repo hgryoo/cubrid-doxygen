@@ -1,0 +1,8 @@
+<map id="log_rv_undoredo_record_partial_changes" name="log_rv_undoredo_record_partial_changes">
+<area shape="rect" id="node2" href="$btree_8c.html#aaa267465ef3900c62ee720e7cd2000b6" title="btree_rv_record_modify\l_internal" alt="" coords="213,71,372,112"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a4778616eda042a16c2f69398f42a8b85" title="log_rv_record_modify\l_internal" alt="" coords="219,136,366,177"/>
+<area shape="rect" id="node3" href="$btree_8h.html#af1ab1efa7d17491284afc2b26102a255" title="btree_rv_redo_record\l_modify" alt="" coords="421,5,565,47"/>
+<area shape="rect" id="node4" href="$btree_8h.html#ae15af036e65acb6c3cfbc5bb326bee05" title="btree_rv_undo_record\l_modify" alt="" coords="420,71,567,112"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#ac63dbaaf662787a73fb0c5e311b0cc76" title="log_rv_redo_record\l_modify" alt="" coords="427,136,559,177"/>
+<area shape="rect" id="node7" href="$log__recovery_8c.html#a02336e0d7ab39a5c26699040b91e6919" title="log_rv_undo_record\l_modify" alt="" coords="426,201,561,243"/>
+</map>

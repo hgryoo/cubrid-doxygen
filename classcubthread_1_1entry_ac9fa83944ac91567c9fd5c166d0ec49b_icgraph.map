@@ -1,0 +1,21 @@
+<map id="cubthread::entry::lock" name="cubthread::entry::lock">
+<area shape="rect" id="node2" href="$thread__entry_8hpp.html#a5af75de83f4ddf51a335e898a16a8c49" title="thread_lock_entry" alt="" coords="201,498,327,525"/>
+<area shape="rect" id="node3" href="$connection__sr_8c.html#ab5a30720e8eb9812b4110d8893231655" title="css_free_wait_queue\l_entry" alt="" coords="405,5,551,47"/>
+<area shape="rect" id="node4" href="$connection__sr_8c.html#a7b14f5dcb61f10200379c033f8d47156" title="css_queue_packet" alt="" coords="413,71,543,98"/>
+<area shape="rect" id="node5" href="$connection__sr_8c.html#a4ae98ca7720529ffbc7f83697630ca18" title="css_return_queued_data\l_timeout" alt="" coords="396,123,560,164"/>
+<area shape="rect" id="node6" href="$server__support_8c.html#affa283d6ed08e3f1ecb10e54833154f4" title="css_stop_non_log_writer" alt="" coords="629,407,796,434"/>
+<area shape="rect" id="node7" href="$double__write__buffer_8c.html#af1df7c3fcfffd94b8560d7a575d65848" title="dwb_set_status_resumed" alt="" coords="393,189,563,215"/>
+<area shape="rect" id="node8" href="$double__write__buffer_8c.html#a63a546f3bd2182d9b4e0ead2aa4e6251" title="dwb_wait_for_block\l_completion" alt="" coords="644,207,781,248"/>
+<area shape="rect" id="node9" href="$double__write__buffer_8c.html#ad9e145e1ebb67b00cdff7dc617a94c16" title="dwb_signal_waiting\l_thread" alt="" coords="411,341,545,383"/>
+<area shape="rect" id="node10" href="$double__write__buffer_8c.html#a83874b2343c29141d5349aa14526ffde" title="dwb_wait_for_strucure\l_modification" alt="" coords="401,407,555,448"/>
+<area shape="rect" id="node11" href="$heap__file_8h.html#a40df18ac8c724923274a8e32aa969e0b" title="heap_classrepr_free" alt="" coords="409,473,547,499"/>
+<area shape="rect" id="node12" href="$lock__manager_8h.html#a17c45457c44fad803563d603077ba737" title="lock_force_thread_timeout_lock" alt="" coords="375,523,581,550"/>
+<area shape="rect" id="node13" href="$lock__manager_8c.html#a99989d3543395a36212c1555439e98c6" title="lock_force_timeout\l_expired_wait_transactions" alt="" coords="388,575,568,616"/>
+<area shape="rect" id="node14" href="$lock__manager_8h.html#a87cb3f1a3258ced58be6e9d6f721ded4" title="lock_is_waiting_transaction" alt="" coords="387,641,569,667"/>
+<area shape="rect" id="node15" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="399,692,557,733"/>
+<area shape="rect" id="node16" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="400,758,556,785"/>
+<area shape="rect" id="node17" href="$page__buffer_8c.html#adcf0e78bb68bbe6ee48cdc06e534ff41" title="pgbuf_add_fixed_at" alt="" coords="411,809,545,835"/>
+<area shape="rect" id="node18" href="$page__buffer_8c.html#ad52a19e58500feeaa168bde701246375" title="pgbuf_allocate_bcb" alt="" coords="411,859,545,886"/>
+<area shape="rect" id="node19" href="$page__buffer_8c.html#aacfdde3e346ff6e9ecf80711fbcf3285" title="pgbuf_assign_direct\l_victim" alt="" coords="409,911,547,952"/>
+<area shape="rect" id="node20" href="$page__buffer_8c.html#ac9a59dd7ac23cdbc22052a9e1ab496c4" title="pgbuf_block_bcb" alt="" coords="418,977,538,1003"/>
+</map>

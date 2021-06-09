@@ -1,0 +1,8 @@
+<map id="locator_assign_oid" name="locator_assign_oid">
+<area shape="rect" id="node2" href="$locator__cl_8h.html#a19484cd67c4f5515aa31cd8685bd875a" title="locator_assign_permanent_oid" alt="" coords="184,107,383,133"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#a5d83138572f99f63b95bd21fa9ef0fec" title="collect_hier_class_info" alt="" coords="435,5,589,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#a03dd3817bfa2054e8de4857679583815" title="allocate_disk_structures" alt="" coords="431,56,593,83"/>
+<area shape="rect" id="node5" href="$transform__cl_8h.html#aac6514b75db92aac077297cf9e6d72e1" title="tf_need_permanent_oid" alt="" coords="433,107,591,133"/>
+<area shape="rect" id="node6" href="$transform__cl_8h.html#a275a0c1713145e8880a155f43d3e90b2" title="tf_mem_to_disk" alt="" coords="455,157,569,184"/>
+<area shape="rect" id="node7" href="$virtual__object_8h.html#a455a9b4975cf2c7b700dab0ddedda811" title="vid_encode_object" alt="" coords="447,208,577,235"/>
+</map>

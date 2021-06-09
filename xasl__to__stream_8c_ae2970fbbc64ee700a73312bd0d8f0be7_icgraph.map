@@ -1,0 +1,8 @@
+<map id="xts_process_outptr_list" name="xts_process_outptr_list">
+<area shape="rect" id="node2" href="$xasl__to__stream_8c.html#aa1db6f12bd4d8d9cc4d7c60bb7be66a9" title="xts_save_outptr_list" alt="" coords="211,84,349,110"/>
+<area shape="rect" id="node3" href="$xasl__to__stream_8c.html#a668786726f34509f06689e47376aec69" title="xts_process_xasl_node" alt="" coords="637,58,796,85"/>
+<area shape="rect" id="node4" href="$xasl__to__stream_8c.html#a0e8d93596ecf65c5e90cfb57119e4910" title="xts_process_buildlist_proc" alt="" coords="405,33,581,60"/>
+<area shape="rect" id="node5" href="$xasl__to__stream_8c.html#a1e9c622b5d78e2fa35c68bcc248db63c" title="xts_process_insert_proc" alt="" coords="411,84,575,110"/>
+<area shape="rect" id="node6" href="$xasl__to__stream_8c.html#ad358da598465ef0c574df839a13bdcf5" title="xts_process_cls_spec_type" alt="" coords="401,134,585,161"/>
+<area shape="rect" id="node7" href="$xasl__to__stream_8c.html#abbcbae735fea0cf1d84042ef98f8d7f2" title="xts_process_connectby_proc" alt="" coords="397,185,589,212"/>
+</map>

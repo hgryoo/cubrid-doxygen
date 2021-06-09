@@ -1,0 +1,9 @@
+<map id="construct_index_key_domain" name="construct_index_key_domain">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#a763686da25436ca147ff96459ba0cc67" title="allocate_index" alt="" coords="219,56,324,83"/>
+<area shape="rect" id="node7" href="$schema__manager_8c.html#a33553ddba919c2500031a10cf27e9a7d" title="check_fk_validity" alt="" coords="210,5,333,32"/>
+<area shape="rect" id="node8" href="$schema__manager_8c.html#a2eda9e9e6f346127d8dcd216cf22a18b" title="sm_load_online_index" alt="" coords="196,107,347,133"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#ae4753271b1ad5f658307b6269fefd248" title="allocate_disk_structures\l_index" alt="" coords="619,49,781,90"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#a3ff533d629bcff4db58f79f702510735" title="allocate_foreign_key" alt="" coords="412,5,553,32"/>
+<area shape="rect" id="node5" href="$schema__manager_8c.html#ac53a3d8a0b509303408b2fb742e1cf4b" title="allocate_unique_constraint" alt="" coords="395,107,571,133"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="426,181,539,208"/>
+</map>

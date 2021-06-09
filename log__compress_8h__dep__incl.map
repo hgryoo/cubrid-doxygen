@@ -1,0 +1,10 @@
+<map id="src/transaction/log_compress.h" name="src/transaction/log_compress.h">
+<area shape="rect" id="node2" href="$vacuum_8c.html" title="src/query/vacuum.c" alt="" coords="5,102,143,129"/>
+<area shape="rect" id="node3" href="$thread__entry_8cpp.html" title="src/thread/thread_entry.cpp" alt="" coords="167,102,349,129"/>
+<area shape="rect" id="node4" href="$log__append_8cpp.html" title="src/transaction/log\l_append.cpp" alt="" coords="373,95,503,136"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html" title="src/transaction/log\l_applier.c" alt="" coords="527,95,656,136"/>
+<area shape="rect" id="node6" href="$log__compress_8c.html" title="src/transaction/log\l_compress.c" alt="" coords="680,95,809,136"/>
+<area shape="rect" id="node7" href="$log__manager_8c.html" title="src/transaction/log\l_manager.c" alt="" coords="833,95,963,136"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html" title="src/transaction/log\l_page_buffer.c" alt="" coords="987,95,1116,136"/>
+<area shape="rect" id="node9" href="$log__recovery_8c.html" title="src/transaction/log\l_recovery.c" alt="" coords="1140,95,1269,136"/>
+</map>

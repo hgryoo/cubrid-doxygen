@@ -1,0 +1,11 @@
+<map id="logtb_find_smallest_lsa" name="logtb_find_smallest_lsa">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="226,134,349,160"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a30cf156018983388939e7f9151434fdf" title="logpb_is_smallest_lsa\l_in_archive" alt="" coords="212,185,363,226"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="627,58,793,84"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a205cb9f31defd227b8340f7f4bd24a09" title="log_complete" alt="" coords="445,32,544,59"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="420,83,569,110"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="459,134,530,160"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="411,185,579,226"/>
+<area shape="rect" id="node8" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="447,251,543,278"/>
+<area shape="rect" id="node9" href="$log__manager_8c.html#acede8354bdcf6ae570ee030b4f57c07b" title="log_sysop_end_final" alt="" coords="425,302,565,328"/>
+</map>

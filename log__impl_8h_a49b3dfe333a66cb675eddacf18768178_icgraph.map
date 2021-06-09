@@ -1,0 +1,11 @@
+<map id="logpb_invalid_all_append_pages" name="logpb_invalid_all_append_pages">
+<area shape="rect" id="node2" href="$log__recovery_8c.html#a6e4cb0fa20df20ef22e01e5bae16b885" title="log_recovery_resetlog" alt="" coords="499,56,649,83"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#ac35dbc3c280632065bc9b67d1a29bc21" title="logpb_fetch_start_append_page" alt="" coords="220,157,427,184"/>
+<area shape="rect" id="node3" href="$log__recovery_8c.html#a57545124a0b490108e49a8ca77acf2d7" title="log_rv_analysis_complete" alt="" coords="721,5,893,32"/>
+<area shape="rect" id="node4" href="$log__recovery_8c.html#afd45fb1ef67df793b067695e37d91623" title="log_recovery_analysis" alt="" coords="732,56,883,83"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="941,107,1037,133"/>
+<area shape="rect" id="node6" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="1085,132,1228,159"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="509,208,639,235"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#a63a720215fa477b0b24287fe33f11464" title="logpb_find_header_parameters" alt="" coords="475,259,673,285"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="485,310,663,351"/>
+</map>

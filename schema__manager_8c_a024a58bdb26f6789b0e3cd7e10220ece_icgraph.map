@@ -1,0 +1,7 @@
+<map id="update_supers" name="update_supers">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#af5d108d7bc0dbdecea7edd27580dbfe0" title="update_class" alt="" coords="160,81,259,108"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#a877eae23c5ac51cd65803170769336de" title="sm_finish_class" alt="" coords="342,5,458,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#ac5a97d6cefc1d330dfa725a6059e4dca" title="sm_update_class" alt="" coords="338,56,462,83"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#aeda542ec16efde2b16364d2eaf806934" title="sm_update_class_auto" alt="" coords="322,107,478,133"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#a3b38e7e54ce0470e111287f2b19a4ae0" title="sm_update_class_with_auth" alt="" coords="307,157,493,184"/>
+</map>

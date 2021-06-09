@@ -1,0 +1,9 @@
+<map id="lf_hash_init" name="lf_hash_init">
+<area shape="rect" id="node2" href="$heap__file_8h.html#ad705d0eb96f97d83b32b12b76c2c886e" title="heap_initialize_hfid\l_table" alt="" coords="143,19,275,61"/>
+<area shape="rect" id="node7" href="$classlf__hash__table__cpp.html#a8bf16b6df5b05fed2fd71b4a8769f2a5" title="lf_hash_table_cpp::\llf_hash_table_cpp" alt="" coords="141,137,276,178"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#a5757f870a476a6a28cbf1de42945db2b" title="logtb_initialize_global\l_unique_stats_table" alt="" coords="332,78,477,119"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a1bd47a9dfa569f39c05bbbdccff9ae9b" title="heap_manager_initialize" alt="" coords="324,27,485,53"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="549,5,684,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="533,56,700,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="535,107,699,133"/>
+</map>

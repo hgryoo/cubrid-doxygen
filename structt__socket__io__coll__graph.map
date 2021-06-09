@@ -1,0 +1,4 @@
+<map id="t_socket_io" name="t_socket_io">
+<area shape="rect" id="node2" href="$structt__proxy__event.html" title="{t_proxy_event\n|+ type\l+ from_cas\l+ cid\l+ uid\l+ shard_id\l+ cas_id\l|}" alt="" coords="5,175,109,325"/>
+<area shape="rect" id="node3" href="$structt__io__buffer.html" title="{t_io_buffer\n|+ length\l+ offset\l+ data\l|}" alt="" coords="16,5,99,112"/>
+</map>

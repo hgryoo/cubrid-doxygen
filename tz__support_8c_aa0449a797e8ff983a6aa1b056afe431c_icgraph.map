@@ -1,0 +1,16 @@
+<map id="tz_timestamp_decode_sec" name="tz_timestamp_decode_sec">
+<area shape="rect" id="node2" href="$db__date_8h.html#a0aedf8cf2a19383e730cb3d5b6abb903" title="db_timestamp_decode_utc" alt="" coords="232,334,411,360"/>
+<area shape="rect" id="node3" href="$tz__support_8h.html#a660293ed0d2919982b98fe951e8360a7" title="tz_create_session_tzid\l_for_timestamp" alt="" coords="485,49,641,90"/>
+<area shape="rect" id="node4" href="$object__domain_8h.html#a3ef8fad832e5b2d18462ff84b286782a" title="tp_value_coerce_strict" alt="" coords="731,56,885,83"/>
+<area shape="rect" id="node5" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="732,115,884,142"/>
+<area shape="rect" id="node6" href="$tz__support_8h.html#a7d599115245b9c86e3ac89a723b9e054" title="tz_timestamptz_fix_zone" alt="" coords="479,283,647,310"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#a8b1212fea096969a5d5d83b053f1f335" title="qdata_subtract_timestamptz\l_to_dbval" alt="" coords="715,225,901,266"/>
+<area shape="rect" id="node8" href="$query__opfunc_8h.html#abd94584c68f1f238e645e3aba89e9149" title="qdata_interpolation\l_function_values" alt="" coords="743,308,873,349"/>
+<area shape="rect" id="node9" href="$db__date_8h.html#a8a9872243f15399c8be5eed71d68a40e" title="db_timestamp_decode\l_w_reg" alt="" coords="486,385,639,426"/>
+<area shape="rect" id="node10" href="$db__date_8h.html#a1a5b60ce028ca0b66b79fb5105cd6732" title="db_timestamp_decode\l_w_tz_id" alt="" coords="486,166,639,208"/>
+<area shape="rect" id="node11" href="$query__opfunc_8c.html#a08b59c02ec2f3e51e8200e2b6a60796f" title="qdata_subtract_utime\l_to_dbval" alt="" coords="489,450,636,492"/>
+<area shape="rect" id="node12" href="$query__opfunc_8c.html#ae3194fb284deccc1bc41e50ae3e879cf" title="qdata_subtract_datetimetz\l_to_dbval" alt="" coords="475,516,651,557"/>
+<area shape="rect" id="node13" href="$string__opfunc_8h.html#a045b88b288b95b37b80fce9159d27598" title="db_add_time" alt="" coords="515,582,611,608"/>
+<area shape="rect" id="node14" href="$string__opfunc_8c.html#a7e58a682266897bf30614dc35ed52d16" title="db_date_add_sub_interval_days" alt="" coords="459,632,667,659"/>
+<area shape="rect" id="node15" href="$string__opfunc_8c.html#a04f48c011fb94e50ab89fb30d82ff11e" title="db_date_add_sub_interval_expr" alt="" coords="460,683,665,710"/>
+</map>

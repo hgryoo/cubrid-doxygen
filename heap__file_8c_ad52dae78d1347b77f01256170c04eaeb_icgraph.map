@@ -1,0 +1,6 @@
+<map id="heap_stats_bestspace_finalize" name="heap_stats_bestspace_finalize">
+<area shape="rect" id="node2" href="$heap__file_8h.html#aa9775422c60e8ebfce82739cdbf5a2bb" title="heap_manager_finalize" alt="" coords="207,5,361,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#ae964f616d8572d31c9fcec0926240bdb" title="heap_stats_bestspace\l_initialize" alt="" coords="207,57,361,98"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="411,5,569,32"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a1bd47a9dfa569f39c05bbbdccff9ae9b" title="heap_manager_initialize" alt="" coords="409,64,571,91"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="cursor_fetch_page_having_tuple" name="cursor_fetch_page_having_tuple">
+<area shape="rect" id="node2" href="$cursor_8h.html#ab84998985fd7f9c1149cc1ec383f63af" title="cursor_first_tuple" alt="" coords="238,60,361,87"/>
+<area shape="rect" id="node5" href="$cursor_8h.html#ad7d6a971115013bf8a029469598103dc" title="cursor_last_tuple" alt="" coords="239,165,360,192"/>
+<area shape="rect" id="node7" href="$cursor_8h.html#a967606d5ded22590ae29f82f232595a3" title="cursor_next_tuple" alt="" coords="237,325,362,352"/>
+<area shape="rect" id="node17" href="$cursor_8h.html#a53d6ab8c21c0841923c642766e356a6a" title="cursor_prev_tuple" alt="" coords="237,435,362,461"/>
+<area shape="rect" id="node19" href="$db__query_8h.html#a0596989287a67c15297b26ce1df55b86" title="db_query_set_tplpos" alt="" coords="228,601,371,628"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ad22a46756c4f38f18c0d69002e155450" title="db_query_first_tuple" alt="" coords="437,5,575,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#ac28fe5564f438b2ab42628420e9dfcb8" title="db_query_seek_tuple" alt="" coords="641,107,787,133"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#aaea181e5fa53e205db5af4c165c36718" title="db_query_last_tuple" alt="" coords="437,56,575,83"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#a9e7032e6071600ced70ef591449834c3" title="db_query_next_tuple" alt="" coords="435,107,577,133"/>
+<area shape="rect" id="node9" href="$parse__evaluate_8c.html#a2e51925132dc08be6682930e1bb0bbdf" title="pt_set_table_to_db" alt="" coords="440,157,572,184"/>
+<area shape="rect" id="node10" href="$parser_8h.html#aad3a2a097f967001a50f50bbb499e6e8" title="pt_get_one_tuple_from\l_list_id" alt="" coords="429,209,583,250"/>
+<area shape="rect" id="node11" href="$execute__statement_8c.html#adda1936f2e53715e967cbc5d042a3f3f" title="update_objs_for_list_file" alt="" coords="425,275,587,301"/>
+<area shape="rect" id="node12" href="$execute__statement_8c.html#a55436ca0ff8e3d473b5c8ed3e259f183" title="delete_list_by_oids" alt="" coords="439,325,573,352"/>
+<area shape="rect" id="node13" href="$execute__statement_8c.html#a2ed4e36685dfd7b5d4e82516a415d0e9" title="insert_subquery_results" alt="" coords="426,376,586,403"/>
+<area shape="rect" id="node14" href="$execute__statement_8h.html#aeb0727e2943818bb2f6be2e9c6bce087" title="do_execute_session\l_statement" alt="" coords="435,427,577,469"/>
+<area shape="rect" id="node15" href="$method__scan_8c.html#ab5c1ecda7b5379e97445b2d334767dcb" title="method_receive_results\l_for_stand_alone" alt="" coords="426,493,586,534"/>
+<area shape="rect" id="node16" href="$query__method_8h.html#a4d924a91280fef1cebe25fbcfca186d7" title="method_invoke_for_server" alt="" coords="419,559,593,585"/>
+<area shape="rect" id="node18" href="$dbi__compat_8h.html#aad848e4e730284a9a02172675e7f8192" title="db_query_prev_tuple" alt="" coords="435,609,577,636"/>
+</map>

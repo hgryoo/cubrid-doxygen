@@ -1,0 +1,5 @@
+<map id="heap_scancache_node_list" name="heap_scancache_node_list">
+<area shape="rect" id="node2" href="$structheap__scancache__node.html" title="{heap_scancache_node\n|+ classname\l|}" alt="" coords="25,175,179,252"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,5,97,112"/>
+<area shape="rect" id="node4" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="121,20,187,97"/>
+</map>

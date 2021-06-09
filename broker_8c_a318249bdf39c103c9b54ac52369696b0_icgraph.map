@@ -1,0 +1,5 @@
+<map id="run_proxy_server" name="run_proxy_server">
+<area shape="rect" id="node2" href="$broker_8c.html#a76748bb9e898b446e576c83bf758bbe4" title="proxy_monitor_worker" alt="" coords="365,5,516,32"/>
+<area shape="rect" id="node4" href="$broker_8c.html#a02ec798c2dc7a6eb69afe65e7aa57b36" title="restart_proxy_server" alt="" coords="176,31,317,57"/>
+<area shape="rect" id="node3" href="$broker_8c.html#a282d4b36bec1f5ca34b35a21f85b1f96" title="proxy_monitor_thr_f" alt="" coords="564,5,701,32"/>
+</map>

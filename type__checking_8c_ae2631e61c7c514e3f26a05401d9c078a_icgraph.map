@@ -1,0 +1,10 @@
+<map id="pt_hv_consistent_data_type_with_domain" name="pt_hv_consistent_data_type_with_domain">
+<area shape="rect" id="node2" href="$type__checking_8c.html#ad6e9dd4e819e85aad33acf134d4a8b15" title="pt_preset_hostvar" alt="" coords="207,157,333,184"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#afab59b9d3dce837b4c095111e8506c88" title="pt_assignment_compatible" alt="" coords="381,5,559,32"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#a0b41b5283b79bb91b659d9514c25f695" title="pt_coerce_expression\l_argument" alt="" coords="617,259,766,301"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#ab884820cff2ec0f4c1ef6714f52552da" title="pt_coerce_range_expr\l_arguments" alt="" coords="824,201,975,242"/>
+<area shape="rect" id="node6" href="$type__checking_8c.html#a9e8ecf7badfa6534b66e5521881e1cc6" title="pt_eval_expr_type" alt="" coords="835,267,963,293"/>
+<area shape="rect" id="node7" href="$type__checking_8c.html#a879cd4c54983ed40dbb61bf2c70020e8" title="pt_eval_type" alt="" coords="1023,161,1119,188"/>
+<area shape="rect" id="node8" href="$type__checking_8c.html#af58cc800956f04b249dec5b69bdd86ba" title="pt_wrap_collection\l_with_cast_op" alt="" coords="405,209,535,250"/>
+<area shape="rect" id="node9" href="$type__checking_8c.html#a30d8dc5e4502a39fb1256fad39feb723" title="pt_coerce_node_collation" alt="" coords="607,157,776,184"/>
+</map>

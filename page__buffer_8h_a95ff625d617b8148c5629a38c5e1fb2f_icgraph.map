@@ -1,0 +1,10 @@
+<map id="pgbuf_log_new_page" name="pgbuf_log_new_page">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="241,81,323,108"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#a73d7f335d0b5680c0f40feccb2d4d936" title="file_numerable_add_page" alt="" coords="197,132,367,159"/>
+<area shape="rect" id="node8" href="$file__manager_8c.html#a809af1534543d29a6f24183047377085" title="file_perm_dealloc" alt="" coords="221,183,343,209"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#ad7852cc875a1f6088087790a12704f5a" title="file_table_append_full\l_sector_page" alt="" coords="209,234,355,275"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#aa6e3dfe54417c209a4ceaf419a916848" title="file_create_ehash" alt="" coords="436,5,560,32"/>
+<area shape="rect" id="node4" href="$file__manager_8h.html#ac26203672282f7ce035695376bcfe3ca" title="file_create_ehash_dir" alt="" coords="425,56,571,83"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a64196cd150853d3b210a8f55740f0839" title="file_create_temp_internal" alt="" coords="415,107,581,133"/>
+<area shape="rect" id="node6" href="$file__manager_8h.html#a76b48022b881809b35f193418dcc8aba" title="file_create_with_npages" alt="" coords="417,157,579,184"/>
+</map>

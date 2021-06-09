@@ -1,0 +1,6 @@
+<map id="class_user" name="class_user">
+<area shape="rect" id="node2" href="$structclass__grant.html" title="{class_grant\n|+ cache\l|}" alt="" coords="48,601,137,679"/>
+<area shape="rect" id="node3" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="5,145,180,399"/>
+<area shape="rect" id="node4" href="$unionvid__oid.html" title="{vid_oid\n||}" alt="" coords="13,5,76,83"/>
+<area shape="rect" id="node5" href="$structws__value__list.html" title="{ws_value_list\n||}" alt="" coords="101,5,202,83"/>
+</map>

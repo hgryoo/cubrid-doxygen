@@ -1,0 +1,6 @@
+<map id="cubmonitor::primitive::set_value" name="cubmonitor::primitive::set_value">
+<area shape="rect" id="node2" href="$classcubmonitor_1_1gauge__statistic.html#a35b68225d9dd8ed008f97c2cbcf4a083" title="cubmonitor::gauge_statistic\l::collect" alt="" coords="196,5,379,47"/>
+<area shape="rect" id="node3" href="$classcubmonitor_1_1gauge__atomic__statistic.html#a1f000b18a0f7cbf5b7ce3e4bddc69b46" title="cubmonitor::gauge_atomic\l_statistic::collect" alt="" coords="200,71,375,112"/>
+<area shape="rect" id="node4" href="$classcubmonitor_1_1max__statistic.html#a19cb06b2ffe89523f523ed19e08f8a76" title="cubmonitor::max_statistic\l::collect" alt="" coords="201,136,373,177"/>
+<area shape="rect" id="node5" href="$classcubmonitor_1_1min__statistic.html#ae22603d6617ba8480c27f0fc9e04ebc1" title="cubmonitor::min_statistic\l::collect" alt="" coords="203,201,371,243"/>
+</map>

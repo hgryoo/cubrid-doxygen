@@ -1,0 +1,12 @@
+<map id="file_destroy" name="file_destroy">
+<area shape="rect" id="node2" href="$extendible__hash_8c.html#a7b16d2b1c129e751459ad1e9707b4e1b" title="ehash_create_helper" alt="" coords="163,5,306,32"/>
+<area shape="rect" id="node4" href="$file__manager_8h.html#ac554fd92b9c12716bb57cc06edf7a7da" title="file_rv_destroy" alt="" coords="181,56,288,83"/>
+<area shape="rect" id="node5" href="$file__manager_8h.html#abd2cf9a006d83c726b746269814ba167" title="file_rv_tracker_mark\l_heap_deleted_compensate\l_or_run_postpone" alt="" coords="143,107,327,163"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#a1a30188f8cc913b7b98aa1ccc5bdefde" title="file_temp_retire_internal" alt="" coords="155,187,315,213"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#a722ae14045e317d8c823cb3d97b9c48a" title="file_tempcache_cache\l_or_drop_entries" alt="" coords="159,238,311,279"/>
+<area shape="rect" id="node11" href="$extendible__hash_8c.html#a3ce9dc1eae7f9434904d4bdfcc738eb2" title="xehash_destroy" alt="" coords="177,304,292,331"/>
+<area shape="rect" id="node3" href="$extendible__hash_8c.html#a2e148617bdcf4430fc113d378557ba60" title="xehash_create" alt="" coords="409,5,515,32"/>
+<area shape="rect" id="node7" href="$file__manager_8h.html#a20a231fec90e53094b7455ff95a37039" title="file_temp_retire" alt="" coords="407,136,517,163"/>
+<area shape="rect" id="node8" href="$file__manager_8h.html#a16e1ef426fa23a4ec6e6ad04eeeb3026" title="file_temp_retire_preserved" alt="" coords="375,187,549,213"/>
+<area shape="rect" id="node10" href="$file__manager_8h.html#a266493da17b6d1e9ec9c2494c86164a0" title="file_tempcache_drop\l_tran_temp_files" alt="" coords="391,238,533,279"/>
+</map>

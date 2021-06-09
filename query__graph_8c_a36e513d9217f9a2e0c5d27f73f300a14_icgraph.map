@@ -1,0 +1,5 @@
+<map id="qo_optimize_helper" name="qo_optimize_helper">
+<area shape="rect" id="node2" href="$query__graph_8c.html#abb5a39b3d2de454622124dd59b641539" title="qo_optimize_query" alt="" coords="188,42,319,69"/>
+<area shape="rect" id="node3" href="$xasl__generation_8c.html#a3e01f58bf6bc526ba6cf09c9b5d6ad57" title="pt_plan_single_table\l_hq_iterations" alt="" coords="367,5,507,47"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#a7ef91e0c976e74e0238c2fef4a538202" title="pt_plan_query" alt="" coords="385,71,488,98"/>
+</map>

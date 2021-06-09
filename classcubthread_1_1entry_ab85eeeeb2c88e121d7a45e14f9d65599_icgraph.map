@@ -1,0 +1,6 @@
+<map id="cubthread::entry::claim_system_worker" name="cubthread::entry::claim_system_worker">
+<area shape="rect" id="node2" href="$classindex__builder__loader__context.html#afc400442e0d9390cca92eebef0206253" title="index_builder_loader\l_context::on_create" alt="" coords="208,5,348,47"/>
+<area shape="rect" id="node3" href="$vacuum_8c.html#afdc7100a77219ba454ae1c1f9e4317dc" title="vacuum_init_thread\l_context" alt="" coords="211,71,345,112"/>
+<area shape="rect" id="node4" href="$classvacuum__worker__context__manager.html#aaaea17bc95712fcdd83442b0fc2bd341" title="vacuum_worker_context\l_manager::on_create" alt="" coords="413,37,577,79"/>
+<area shape="rect" id="node5" href="$classvacuum__master__context__manager.html#a2a6e3acb5c260a5a68ca4ffe71ba4dad" title="vacuum_master_context\l_manager::on_daemon_create" alt="" coords="396,103,593,144"/>
+</map>

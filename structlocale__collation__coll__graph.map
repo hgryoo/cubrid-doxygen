@@ -1,0 +1,10 @@
+<map id="locale_collation" name="locale_collation">
+<area shape="rect" id="node2" href="$structcoll__tailoring.html" title="{coll_tailoring\n|+ coll_name\l+ coll_id\l+ sett_max_cp\l+ count_rules\l+ max_rules\l+ cub_count_rules\l+ cub_max_rules\l|}" alt="" coords="287,336,416,501"/>
+<area shape="rect" id="node3" href="$structuca__options.html" title="{uca_options\n|+ sett_strength\l+ sett_backwards\l+ sett_caseLevel\l+ sett_caseFirst\l+ sett_expansions\l+ sett_contr_policy\l+ use_only_first_ce\l+ sett_match_contr\l|}" alt="" coords="143,13,279,193"/>
+<area shape="rect" id="node7" href="$structcoll__data.html" title="{coll_data\n|+ coll_id\l+ coll_name\l+ weights\l+ next_cp\l+ weights_ti\l+ next_cp_ti\l+ w_count\l+ uca_exp_num\l+ uca_num\l+ uca_w_l13\l+ uca_w_l4\l+ count_contr\l+ contr_min_size\l+ cp_first_contr_array\l+ cp_first_contr_offset\l+ cp_first_contr_count\l+ checksum\l|}" alt="" coords="96,263,249,575"/>
+<area shape="rect" id="node4" href="$structcubrid__tailor__rule.html" title="{cubrid_tailor_rule\n|+ start_cp_buf\l+ end_cp_buf\l+ start_cp_buf_type\l+ end_cp_buf_type\l+ start_weight\l+ step\l|}" alt="" coords="567,27,706,178"/>
+<area shape="rect" id="node5" href="$structldml__context.html" title="{ldml_context\n|+ ldml_file\l+ line_no\l|}" alt="" coords="303,57,399,149"/>
+<area shape="rect" id="node6" href="$structtailor__rule.html" title="{tailor_rule\n|+ level\l+ anchor_buf\l+ r_pos_type\l+ r_buf\l+ r_buf_size\l+ direction\l+ t_buf\l+ t_buf_size\l+ multiple_chars\l|}" alt="" coords="424,5,543,200"/>
+<area shape="rect" id="node8" href="$structcoll__contraction.html" title="{coll_contraction\n|+ next\l+ wv\l+ uca_w_l13\l+ uca_w_l4\l+ c_buf\l+ cp_count\l+ size\l+ uca_num\l|}" alt="" coords="5,13,119,193"/>
+<area shape="rect" id="node9" href="$structcoll__data__ref.html" title="{coll_data_ref\n|+ coll_weights_ref\l+ coll_next_cp_ref\l+ coll_uca_num_ref\l+ coll_uca_w_l13_ref\l+ coll_uca_w_l4_ref\l+ coll_contr_list_ref\l+ coll_cp_first_contr\l_array_ref\l|}" alt="" coords="440,329,585,509"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="xheap_destroy" name="xheap_destroy">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#af49bebf9853336fa0f303e998222457f" title="heap_create" alt="" coords="187,71,281,98"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#ac79abd6b2455ac210b2c6df4a2f02886" title="shf_destroy" alt="" coords="189,122,279,149"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#a816077d2fcf52e1e8536a9e77355ecdf" title="xheap_destroy_newly\l_created" alt="" coords="160,173,308,215"/>
+<area shape="rect" id="node3" href="$locator__cl_8h.html#a735917dbd677abc3245f3509f7d09568" title="locator_create_heap\l_if_needed" alt="" coords="374,5,513,47"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#a74a7b74c0b75fb805a8392f15887cea6" title="sm_truncate_using_delete" alt="" coords="356,71,531,98"/>
+<area shape="rect" id="node6" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="390,122,497,149"/>
+</map>

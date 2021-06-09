@@ -1,0 +1,7 @@
+<map id="fgetin" name="fgetin">
+<area shape="rect" id="node2" href="$parser_8h.html#a783ef3b25a36f3f1b6b85da245be842a" title="parser_parse_file" alt="" coords="123,56,244,83"/>
+<area shape="rect" id="node5" href="$parser_8h.html#af06383c9a546ab71f49894efdabd9942" title="pt_init_one_statement\l_parser" alt="" coords="108,107,259,149"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a0dde38a3f09c515f4157621f550db504" title="db_open_file" alt="" coords="349,5,443,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a4b89bf0d66fbf01d5edd43dec9df6b48" title="db_open_file_name" alt="" coords="329,56,463,83"/>
+<area shape="rect" id="node6" href="$db__vdb_8c.html#a3d8a4a20a1fb5d489d59db372173227e" title="db_make_session_for\l_one_statement_execution" alt="" coords="307,107,485,149"/>
+</map>

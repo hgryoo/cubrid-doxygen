@@ -1,0 +1,12 @@
+<map id="btree_get_stats" name="btree_get_stats">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a445d4496156c18ec9b3d3d9c5a21f327" title="btree_get_statistics" alt="" coords="179,5,315,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a664628e37c16aa78428a3db7883d4768" title="sbtree_get_statistics" alt="" coords="176,56,319,83"/>
+<area shape="rect" id="node6" href="$statistics__sr_8c.html#a502d831d7f2d3b593c5d107748aae384" title="xstats_update_statistics" alt="" coords="165,216,329,243"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ad4ec4be91f4d98843c2a0d0b7ac25f7b" title="db_get_btree_statistics" alt="" coords="391,5,548,32"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="609,107,716,133"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#ad3fa6153972554ec8d7f55602bbcf5f3" title="stats_update_statistics" alt="" coords="391,107,548,133"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#a513fa1243d3dd7f6762b49237c608133" title="sqst_update_statistics" alt="" coords="393,157,546,184"/>
+<area shape="rect" id="node9" href="$classcubload_1_1session.html#a21cb808c9b77475cf78631bbc032f539" title="cubload::session::update\l_class_statistics" alt="" coords="386,209,553,250"/>
+<area shape="rect" id="node10" href="$statistics__sr_8c.html#a0666df61080a08d9cc95b8672be50369" title="xstats_update_all_statistics" alt="" coords="377,275,561,301"/>
+<area shape="rect" id="node11" href="$statistics__sr_8c.html#a87537ae40bfb987f6d7be9eff99352cd" title="stats_update_partitioned\l_statistics" alt="" coords="387,326,551,367"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="cursor_get_first_tuple_value" name="cursor_get_first_tuple_value">
+<area shape="rect" id="node2" href="$cursor_8h.html#a13a5e2594443a43f24e6f5cc3fa513c7" title="cursor_get_current_oid" alt="" coords="200,56,355,83"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#aa1f0644e51db7fd51ebd4d194558a9ce" title="res_delete_row_internal" alt="" coords="403,5,561,32"/>
+<area shape="rect" id="node4" href="$db__stub_8c.html#a122e219845e0e05b2f42fbdac9d1c7f3" title="rs_set_db_value" alt="" coords="423,56,541,83"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a8b0b331fbb4ac526c8bf86d8312af23c" title="db_query_get_tuple_oid" alt="" coords="403,107,561,133"/>
+</map>

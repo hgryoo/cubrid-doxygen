@@ -1,0 +1,21 @@
+<map id="spage_get_total_saved_spaces" name="spage_get_total_saved_spaces">
+<area shape="rect" id="node2" href="$slotted__page_8h.html#ab23870560daad1bb4ba73ae47f1a0c27" title="spage_get_free_space" alt="" coords="216,157,369,184"/>
+<area shape="rect" id="node9" href="$slotted__page_8c.html#abf20303000c68e44e48f4fceed1d278c" title="spage_has_enough_total\l_space" alt="" coords="209,429,376,470"/>
+<area shape="rect" id="node16" href="$slotted__page_8h.html#a3fa8bb7b91ebe3d13b51d4f5e8b438f7" title="spage_max_space_for\l_new_record" alt="" coords="216,673,369,714"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a184d8f063af39efbd4d219dcb2df8e67" title="btree_get_subtree_capacity" alt="" coords="437,5,620,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#af2ae50bc7cd958ee86f6ffd54475cd53" title="btree_node_size_uncompressed" alt="" coords="424,56,633,83"/>
+<area shape="rect" id="node5" href="$btree_8c.html#ace8e9cc58e0182724fe9ab92f273b796" title="btree_node_mergeable" alt="" coords="683,107,836,133"/>
+<area shape="rect" id="node6" href="$btree_8c.html#acea286eb82079783f298baa39d4cd373" title="btree_merge_node_and\l_advance" alt="" coords="885,125,1043,166"/>
+<area shape="rect" id="node7" href="$extendible__hash_8c.html#a4633f73ee2c63c4bb7e3f8216fa66cbf" title="ehash_hash" alt="" coords="483,208,575,235"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#af63e8be303a87f135195b996e4ed369f" title="heap_get_capacity" alt="" coords="463,259,594,285"/>
+<area shape="rect" id="node10" href="$slotted__page_8c.html#afb80260750091b0cbf047137ac7275c3" title="spage_check_space" alt="" coords="458,309,599,336"/>
+<area shape="rect" id="node11" href="$slotted__page_8c.html#abbb2d30b5a8ab594f64f968c25fc5b60" title="spage_find_empty_slot" alt="" coords="681,360,837,387"/>
+<area shape="rect" id="node12" href="$slotted__page_8h.html#ab68d38c29c234969d85ddb87ddad1cfb" title="spage_split" alt="" coords="920,385,1008,412"/>
+<area shape="rect" id="node13" href="$slotted__page_8c.html#a2225348843f5cb76dccbfbd1f0fe5dbb" title="spage_check_updatable" alt="" coords="447,461,610,488"/>
+<area shape="rect" id="node14" href="$slotted__page_8c.html#a756e5a4b54913dd86e1ae6f3593f4594" title="spage_check_mvcc_updatable" alt="" coords="428,512,629,539"/>
+<area shape="rect" id="node15" href="$slotted__page_8c.html#a8babb15f96118961deadfbb0c2c4f0f0" title="spage_put_helper" alt="" coords="467,563,591,589"/>
+<area shape="rect" id="node17" href="$btree_8c.html#a9b61fdd094bc31f5cf5427be12f9c329" title="btree_find_free_overflow\l_oids_page" alt="" coords="447,614,611,655"/>
+<area shape="rect" id="node18" href="$btree_8c.html#a9440028322544c43af113387a96acdd7" title="btree_find_AR_sampling_leaf" alt="" coords="433,680,625,707"/>
+<area shape="rect" id="node19" href="$btree_8c.html#a54928f25003d071320739f18f0e31dd1" title="btree_key_insert_does\l_leaf_need_split" alt="" coords="452,731,605,773"/>
+<area shape="rect" id="node20" href="$btree__load_8c.html#a8e2c6954ccd58059ca57474ef9bd9fa9" title="btree_save_last_leafrec" alt="" coords="449,797,609,824"/>
+</map>

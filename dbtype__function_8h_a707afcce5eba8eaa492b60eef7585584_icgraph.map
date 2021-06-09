@@ -1,0 +1,21 @@
+<map id="db_make_json" name="db_make_json">
+<area shape="rect" id="node2" href="$arithmetic_8h.html#a0795bc1c64b8d951ca6e01fb3d5fd5cd" title="db_evaluate_json_get\l_all_paths" alt="" coords="417,5,565,47"/>
+<area shape="rect" id="node5" href="$arithmetic_8h.html#a65e64aae3fa55ed07a45453324f048ca" title="db_evaluate_json_search" alt="" coords="407,71,576,98"/>
+<area shape="rect" id="node6" href="$parse__dbi_8c.html#aab905a8eb745e0d3156803d2e7593ceb" title="db_json_val_from_str" alt="" coords="186,299,333,326"/>
+<area shape="rect" id="node8" href="$db__json_8cpp.html#a532bd667a7ad3bfb52e6872f301ebb66" title="db_make_json_from_doc\l_store_and_release" alt="" coords="176,193,343,235"/>
+<area shape="rect" id="node13" href="$load__sa__loader_8cpp.html#af41b16fc6c7965267350c2502f2bde99" title="ldr_init_loader" alt="" coords="440,421,543,447"/>
+<area shape="rect" id="node14" href="$load__sa__loader_8cpp.html#a4ccf9eb8ea135a3b1cc21a0b3bd07978" title="ldr_json_elem" alt="" coords="208,401,311,427"/>
+<area shape="rect" id="node15" href="$object__primitive_8c.html#a12583b03b5a0552110b2d48f080f576a" title="mr_data_cmpdisk_json" alt="" coords="181,451,337,478"/>
+<area shape="rect" id="node16" href="$object__primitive_8c.html#a0f42c03a353314b0eaf853c4a219abeb" title="mr_data_readval_json" alt="" coords="185,502,334,529"/>
+<area shape="rect" id="node17" href="$object__primitive_8c.html#a23f5b8528d8c46742f3537474632515f" title="mr_getmem_json" alt="" coords="198,553,321,579"/>
+<area shape="rect" id="node18" href="$query__aggregate_8hpp.html#a3b55abbced0f132eb0b1cb63c7064755" title="qdata_evaluate_aggregate_list" alt="" coords="160,603,359,630"/>
+<area shape="rect" id="node19" href="$namespacecubload.html#a93a5a8cdc80938881cc0f75015aca83b" title="cubload::to_db_json" alt="" coords="190,654,329,681"/>
+<area shape="rect" id="node20" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="183,705,335,731"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#ae8d094582688ae1145d7eecb8edaa438" title="pt_evaluate_function\l_w_args" alt="" coords="634,60,777,101"/>
+<area shape="rect" id="node4" href="$query__opfunc_8h.html#a1634d239e7685974089833934e78e28c" title="qdata_evaluate_function" alt="" coords="624,126,787,153"/>
+<area shape="rect" id="node7" href="$cas__execute_8c.html#a235ed61a310d3fc128b8c64464ce6c47" title="netval_to_dbval" alt="" coords="435,370,548,397"/>
+<area shape="rect" id="node9" href="$arithmetic_8h.html#a73f4e36249fbb64ee27f839a63933ab7" title="db_accumulate_json\l_arrayagg" alt="" coords="421,239,562,280"/>
+<area shape="rect" id="node10" href="$arithmetic_8h.html#a3226100a07e6d7628d5347cb61f195e7" title="db_accumulate_json\l_objectagg" alt="" coords="421,304,562,345"/>
+<area shape="rect" id="node11" href="$arithmetic_8h.html#a23c1b7046e18ce62416c9e2fe2ad1fb5" title="db_evaluate_json_array" alt="" coords="412,122,571,149"/>
+<area shape="rect" id="node12" href="$arithmetic_8h.html#ab0934308cbf5ad9e2c6d5dcb70f9049e" title="db_evaluate_json_array\l_append" alt="" coords="412,173,571,215"/>
+</map>

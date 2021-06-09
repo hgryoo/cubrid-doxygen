@@ -1,0 +1,6 @@
+<map id="dwb_create_internal" name="dwb_create_internal">
+<area shape="rect" id="node2" href="$double__write__buffer_8h.html#acba78f5f185d579f9bc108af1713519c" title="dwb_create" alt="" coords="197,42,287,69"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8h.html#a73fd65b5e5208dc676dab35b729a84fc" title="dwb_recreate" alt="" coords="192,93,292,119"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="346,5,501,47"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="340,71,507,98"/>
+</map>

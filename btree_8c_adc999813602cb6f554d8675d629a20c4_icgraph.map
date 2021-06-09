@@ -1,0 +1,10 @@
+<map id="btree_node_is_compressed" name="btree_node_is_compressed">
+<area shape="rect" id="node2" href="$btree_8c.html#a0598d1b3749226fff0b1b7ab6c073d9d" title="btree_node_common_prefix" alt="" coords="235,157,417,184"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a418459de2ae077f698e4c4356d7c6070" title="btree_compress_node" alt="" coords="495,5,645,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a5af8ba4607057c98ad45f0d91b6f7160" title="btree_key_insert_new_key" alt="" coords="481,56,659,83"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a1012b26ece22db26540906ab85b6ef30" title="btree_merge_node" alt="" coords="723,132,852,159"/>
+<area shape="rect" id="node6" href="$btree_8c.html#af2ae50bc7cd958ee86f6ffd54475cd53" title="btree_node_size_uncompressed" alt="" coords="465,157,675,184"/>
+<area shape="rect" id="node7" href="$btree_8h.html#a1cd65044d563de3d69d3ba530a1b2773" title="btree_read_record" alt="" coords="507,208,633,235"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a7bee352218f448ec06943295838545f3" title="btree_search_leaf_page" alt="" coords="490,259,650,285"/>
+<area shape="rect" id="node9" href="$btree_8c.html#ad062a0004fdcdd68d6519c00d3619595" title="btree_verify_leaf_node" alt="" coords="493,309,647,336"/>
+</map>

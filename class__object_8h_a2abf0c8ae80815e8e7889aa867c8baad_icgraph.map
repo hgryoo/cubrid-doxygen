@@ -1,0 +1,10 @@
+<map id="classobj_make_query_spec" name="classobj_make_query_spec">
+<area shape="rect" id="node2" href="$class__object_8h.html#af03a72c056e5c32cdb0c3fe79ef98375" title="classobj_copy_query\l_spec_list" alt="" coords="247,43,391,85"/>
+<area shape="rect" id="node5" href="$transform__cl_8c.html#af85a8c31c8b81f3f30e0667d96af63b1" title="disk_to_query_spec" alt="" coords="250,109,389,136"/>
+<area shape="rect" id="node6" href="$schema__template_8h.html#afd59fccbba7851cc7098b0c49bc57c06" title="smt_add_query_spec" alt="" coords="246,160,393,187"/>
+<area shape="rect" id="node9" href="$schema__template_8h.html#a93573b56585aa364a9823afddf213204" title="smt_change_query_spec" alt="" coords="236,211,403,237"/>
+<area shape="rect" id="node3" href="$class__object_8h.html#ac2f36b9f52f4fd5d4410b163d5c73c6e" title="classobj_make_template" alt="" coords="451,5,617,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#ad64d2c7082ed7ff17e8eeea98145cd37" title="flatten_query_spec\l_lists" alt="" coords="468,57,600,98"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#ad0c2273a1a6569c971f763b34eecd6b6" title="dbt_add_query_spec" alt="" coords="463,135,605,161"/>
+<area shape="rect" id="node8" href="$db__virt_8c.html#a10ceb10535a5f9c365c8ed1c55f535cf" title="db_add_query_spec" alt="" coords="465,185,603,212"/>
+</map>

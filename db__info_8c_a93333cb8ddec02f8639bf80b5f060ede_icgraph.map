@@ -1,0 +1,9 @@
+<map id="db_get_subclasses" name="db_get_subclasses">
+<area shape="rect" id="node2" href="$dbi_8h.html#af3453e05d52757853b73910e18dcbff9" title="db_class_has_instance" alt="" coords="188,78,347,105"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="612,71,753,112"/>
+<area shape="rect" id="node6" href="$semantic__check_8c.html#a74be8f892e6e90ed5692941e03bf1843" title="pt_check_alter" alt="" coords="214,187,321,214"/>
+<area shape="rect" id="node7" href="$name__resolution_8c.html#a39d82df2f4483cbce5f6f6fb064469be" title="pt_make_subclass_list" alt="" coords="190,238,345,265"/>
+<area shape="rect" id="node8" href="$cas__execute_8c.html#ac9fd90b5a9617b8844606ead2a23be01" title="sch_superclass" alt="" coords="211,289,324,315"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a468ffb8ae5bf89daba0d61b24f9ed396" title="do_update_new_notnull\l_cols_without_default" alt="" coords="400,5,559,47"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a3b743e4ae9bf857a3386e5227e5270aa" title="do_update_new_cols\l_with_default_expression" alt="" coords="395,71,564,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="pgbuf_lru_adjust_zone1" name="pgbuf_lru_adjust_zone1">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a71472951a1a3c3fc25291339157cbb8a" title="pgbuf_lru_adjust_zones" alt="" coords="212,64,371,91"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a30de612d32bf24eec316c94bad440a6a" title="pgbuf_lru_boost_bcb" alt="" coords="429,5,571,32"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a7cc1c686b4d3e0a9de41d12d4bfa26b7" title="pgbuf_get_victim_from\l_lru_list" alt="" coords="423,57,577,98"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a1bc27d1a6244fb49011a2a271c976136" title="pgbuf_lru_add_new_bcb\l_to_top" alt="" coords="419,122,581,163"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#a9583e774d489edc4243ece32dc62a92d" title="pgbuf_adjust_quotas" alt="" coords="429,188,571,215"/>
+</map>

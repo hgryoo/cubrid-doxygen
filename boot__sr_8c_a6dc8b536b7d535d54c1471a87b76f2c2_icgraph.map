@@ -1,0 +1,7 @@
+<map id="xboot_delete" name="xboot_delete">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a33f3d2646ef7aa7684dd08f868855e2e" title="boot_delete" alt="" coords="149,5,239,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="149,80,239,107"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a007cc0b03b360bba3ad584107baba295" title="copydb" alt="" coords="417,29,481,56"/>
+<area shape="rect" id="node4" href="$utility_8h.html#a6d4a028f6eb80984f464e6237904f3b3" title="deletedb" alt="" coords="293,29,363,56"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#a75c6bff301b9844564b4de9a98f1756f" title="boot_copy" alt="" coords="287,80,369,107"/>
+</map>

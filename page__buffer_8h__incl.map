@@ -1,0 +1,16 @@
+<map id="src/storage/page_buffer.h" name="src/storage/page_buffer.h">
+<area shape="rect" id="node3" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="211,229,327,256"/>
+<area shape="rect" id="node7" href="$disk__manager_8h.html" title="disk_manager.h" alt="" coords="355,80,469,107"/>
+<area shape="rect" id="node8" href="$log__lsa_8hpp.html" title="log_lsa.hpp" alt="" coords="48,229,136,256"/>
+<area shape="rect" id="node11" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="807,304,940,331"/>
+<area shape="rect" id="node15" href="$lock__manager_8h.html" title="lock_manager.h" alt="" coords="712,80,827,107"/>
+<area shape="rect" id="node18" href="$mem__block_8hpp.html" title="mem_block.hpp" alt="" coords="952,80,1067,107"/>
+<area shape="rect" id="node19" href="$perf__monitor_8h.html" title="perf_monitor.h" alt="" coords="1131,155,1237,181"/>
+<area shape="rect" id="node20" href="$tde_8h.html" title="tde.h" alt="" coords="1056,155,1107,181"/>
+<area shape="rect" id="node6" href="$error__code_8h.html" title="error_code.h" alt="" coords="238,304,333,331"/>
+<area shape="rect" id="node9" href="$recovery_8h.html" title="recovery.h" alt="" coords="371,155,453,181"/>
+<area shape="rect" id="node14" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="672,229,805,256"/>
+<area shape="rect" id="node10" href="$log__comm_8h.html" title="log_comm.h" alt="" coords="453,229,547,256"/>
+<area shape="rect" id="node16" href="$locator_8h.html" title="locator.h" alt="" coords="807,155,879,181"/>
+<area shape="rect" id="node17" href="$oid_8h.html" title="oid.h" alt="" coords="880,229,931,256"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="logtb_tran_free_update_stats" name="logtb_tran_free_update_stats">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a6cc94001cf3c733f41073e2b847a8275" title="logtb_finalize_tdes" alt="" coords="208,71,339,98"/>
+<area shape="rect" id="node3" href="$classlog__system__tdes.html#a83670aa1209e11d8d6865089376eb0a0" title="log_system_tdes::destroy\l_system_transactions" alt="" coords="387,5,559,47"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#af3b0bac26ee4d5867e1ae5fb093e798a" title="logtb_undefine_trantable" alt="" coords="391,71,554,98"/>
+<area shape="rect" id="node5" href="$classlog__system__tdes.html#ad16ad072f3512a8af5c777ac19d68869" title="log_system_tdes::~log\l_system_tdes" alt="" coords="395,123,550,164"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="or_mvcc_get_flag" name="or_mvcc_get_flag">
+<area shape="rect" id="node2" href="$object__representation__sr_8h.html#a2cc75df314d487c39fc011e0fc565988" title="or_mvcc_set_log_lsa\l_to_record" alt="" coords="179,57,324,98"/>
+<area shape="rect" id="node5" href="$object__representation__sr_8h.html#a4302386ce31077d9b8b0ce9d5b40e40f" title="or_replace_rep_id" alt="" coords="189,123,313,149"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#a512d30dc792740a94604451092dc9493" title="heap_update_bigone" alt="" coords="378,5,519,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a0ef9a4d24a10523eb1825e6c332ce96a" title="heap_update_set_prev\l_version" alt="" coords="372,57,525,98"/>
+<area shape="rect" id="node6" href="$locator__sr_8h.html#a4ef4e207374578272aab7839343e3837" title="locator_insert_force" alt="" coords="381,123,517,149"/>
+<area shape="rect" id="node7" href="$locator__sr_8c.html#a7f64acb3a1711c1ab318d4ae7bab4cec" title="locator_repl_prepare\l_force" alt="" coords="379,174,518,215"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="or_unpack_string" name="or_unpack_string">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a01c5641d7966ab43b12116327a2e6d4b" title="boot_register_client" alt="" coords="195,5,330,32"/>
+<area shape="rect" id="node4" href="$jsp__cl_8c.html#aecf3599b7a0347938e0dfec56253785c" title="jsp_unpack_string_value" alt="" coords="180,56,345,83"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#a11a9dcfe08f7320ceeb89cf086d77bf9" title="la_make_repl_item" alt="" coords="197,107,328,133"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#adad12dadd7c15b49237cdd28c3850838" title="logtb_get_trans_info" alt="" coords="193,157,332,184"/>
+<area shape="rect" id="node8" href="$object__representation_8c.html#a08b9cf832ed7d6ea52c192db90939aed" title="or_header_size" alt="" coords="207,208,318,235"/>
+<area shape="rect" id="node9" href="$object__representation_8c.html#a323dca24c1be152f3530e4e4e0c8e41b" title="or_unpack_method_sig" alt="" coords="185,259,341,285"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#a4f65943a22fc33ad4c9d0e05d10dd0a4" title="slocator_check_fk_validity" alt="" coords="175,309,351,336"/>
+<area shape="rect" id="node12" href="$network__interface__sr_8h.html#a7887f064522169620a064667eac15293" title="ssession_get_prepared\l_statement" alt="" coords="185,361,341,402"/>
+<area shape="rect" id="node13" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="190,426,335,467"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="424,5,553,32"/>
+<area shape="rect" id="node5" href="$jsp__cl_8c.html#adca4338f9836960f2d2ddd641d5cb91d" title="jsp_unpack_value" alt="" coords="425,56,552,83"/>
+<area shape="rect" id="node10" href="$object__representation_8c.html#a6ce9e988dfa721ae8b0227228376ccb4" title="or_unpack_method_sig_list" alt="" coords="399,259,579,285"/>
+</map>

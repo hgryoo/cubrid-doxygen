@@ -1,0 +1,11 @@
+<map id="shard_cqueue_enqueue" name="shard_cqueue_enqueue">
+<area shape="rect" id="node2" href="$shard__proxy__io_8h.html#a2fc1c25bca1b69da4bce220fb49ea8cb" title="proxy_client_io_free" alt="" coords="224,87,363,114"/>
+<area shape="rect" id="node6" href="$shard__proxy__io_8c.html#ae5c9f3439a357b46c09f5492e1814ffe" title="proxy_client_io_initialize" alt="" coords="212,171,375,198"/>
+<area shape="rect" id="node8" href="$shard__proxy__handler_8h.html#ad47624c26abea442faf5abe0f241adaf" title="proxy_context_free" alt="" coords="227,246,360,273"/>
+<area shape="rect" id="node9" href="$shard__proxy__handler_8c.html#a59229032b84f12d4bb10fe36f392dd82" title="proxy_context_initialize" alt="" coords="214,297,373,323"/>
+<area shape="rect" id="node3" href="$shard__proxy__io_8h.html#a50357a7cfff882a18827ca41b37e610d" title="proxy_client_io_free\l_by_ctx" alt="" coords="432,5,571,47"/>
+<area shape="rect" id="node4" href="$shard__proxy__io_8c.html#a6bf591c36c1a792f109acc21529a47f5" title="proxy_client_io_new" alt="" coords="431,71,571,98"/>
+<area shape="rect" id="node5" href="$shard__proxy__handler_8h.html#a18c260ffe77e786baf7b6cdae2a33502" title="proxy_context_find\l_by_socket_client_io" alt="" coords="429,123,573,164"/>
+<area shape="rect" id="node7" href="$shard__proxy__io_8h.html#ac1d53f199e50474202ad87c4c4dadd0f" title="proxy_io_initialize" alt="" coords="439,189,564,215"/>
+<area shape="rect" id="node10" href="$shard__proxy__handler_8h.html#a1413611764902d7945ca3e38905de074" title="proxy_handler_initialize" alt="" coords="423,297,580,323"/>
+</map>

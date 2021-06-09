@@ -1,0 +1,9 @@
+<map id="method_initialize_vacomm_buffer" name="method_initialize_vacomm_buffer">
+<area shape="rect" id="node2" href="$method__scan_8c.html#a0b17489ba93adc5032bdf2745b1e7d64" title="method_clear_scan_buffer" alt="" coords="247,68,421,95"/>
+<area shape="rect" id="node6" href="$query__method_8h.html#a4d924a91280fef1cebe25fbcfca186d7" title="method_invoke_for_server" alt="" coords="247,121,421,148"/>
+<area shape="rect" id="node7" href="$method__scan_8c.html#ab4d96e854adf8e76e2b7a26529fa4fbb" title="method_open_value_array_scan" alt="" coords="229,177,439,204"/>
+<area shape="rect" id="node3" href="$method__scan_8h.html#a8709cde84fd75245188ad96d3012460a" title="method_close_scan" alt="" coords="497,5,636,32"/>
+<area shape="rect" id="node4" href="$method__scan_8c.html#a1f3a0afa8dc057d2f4886bce69626c3c" title="method_invoke_from\l_stand_alone" alt="" coords="495,57,638,98"/>
+<area shape="rect" id="node5" href="$method__scan_8c.html#ab5c1ecda7b5379e97445b2d334767dcb" title="method_receive_results\l_for_stand_alone" alt="" coords="487,122,647,163"/>
+<area shape="rect" id="node8" href="$method__scan_8h.html#afc43495d342e0a8222c4d56108ae5900" title="method_open_scan" alt="" coords="499,188,634,215"/>
+</map>

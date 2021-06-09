@@ -1,0 +1,21 @@
+<map id="locator_fetch_mode_to_lock" name="locator_fetch_mode_to_lock">
+<area shape="rect" id="node2" href="$load__sa__loader_8cpp.html#af41b16fc6c7965267350c2502f2bde99" title="ldr_init_loader" alt="" coords="235,48,338,75"/>
+<area shape="rect" id="node4" href="$locator__cl_8h.html#a77bb1b39ec143614708438f2ff9d2cdc" title="locator_does_exist\l_object" alt="" coords="221,121,352,162"/>
+<area shape="rect" id="node8" href="$locator__cl_8h.html#a43345128717d8aad9ff84393a6bfd367" title="locator_fetch_class" alt="" coords="219,309,354,336"/>
+<area shape="rect" id="node9" href="$locator__cl_8h.html#ad48df9b93687b92ebd22902a680b9409" title="locator_fetch_instance" alt="" coords="441,259,594,285"/>
+<area shape="rect" id="node10" href="$locator__cl_8h.html#a6dd9b8243295de1f881fc4e0db032780" title="locator_fetch_set" alt="" coords="651,259,773,285"/>
+<area shape="rect" id="node11" href="$locator__cl_8h.html#ade80af1d3fd54684473ab8557319d1a8" title="locator_fetch_nested" alt="" coords="446,360,589,387"/>
+<area shape="rect" id="node12" href="$locator__cl_8c.html#acd38be0f3e44fcfee66192c3f48c7ca0" title="locator_fun_get_all_mops" alt="" coords="432,411,603,437"/>
+<area shape="rect" id="node13" href="$locator__cl_8h.html#aad05beda3a788a5f9b0ad704fec92ce4" title="locator_fetch_class\l_of_instance" alt="" coords="219,462,354,503"/>
+<area shape="rect" id="node14" href="$locator__cl_8h.html#a3f8277df885969c594d6529043245e1a" title="locator_fetch_object" alt="" coords="217,528,356,555"/>
+<area shape="rect" id="node15" href="$locator__cl_8h.html#a0283c0d4fc1fce979be40e05fbb81db7" title="locator_find_class\l_with_purpose" alt="" coords="223,579,350,621"/>
+<area shape="rect" id="node16" href="$locator__cl_8h.html#a807841a659df9ea7613f212dca2e61d2" title="locator_get_cache_coherency\l_number" alt="" coords="189,645,384,686"/>
+<area shape="rect" id="node17" href="$locator__cl_8c.html#a560893c04f2f0dcff4797a25fc657376" title="locator_save_nested_mops" alt="" coords="196,711,377,737"/>
+<area shape="rect" id="node18" href="$schema__manager_8c.html#ad10557f8644e8ecba97dd8d1cd820570" title="lockhint_subclasses" alt="" coords="217,761,357,788"/>
+<area shape="rect" id="node19" href="$compile_8c.html#ad6bf899e190f17351ce9eb4c6f505d10" title="pt_add_lock_class" alt="" coords="221,812,352,839"/>
+<area shape="rect" id="node20" href="$compile_8c.html#aa410da3b52a721015c922fc899519c92" title="pt_in_lck_array" alt="" coords="231,863,342,889"/>
+<area shape="rect" id="node3" href="$load__sa__loader_8cpp.html#a94a70fc22bd9f15528faa7100c0336f9" title="ldr_init" alt="" coords="487,5,547,32"/>
+<area shape="rect" id="node5" href="$object__accessor_8c.html#af860811437410e07220ab732a1fa68d2" title="get_object_value" alt="" coords="457,56,577,83"/>
+<area shape="rect" id="node6" href="$object__accessor_8h.html#a4d79bde3f9f4c80763293e8c310c7e0f" title="obj_find_object_by_pkey" alt="" coords="435,107,600,133"/>
+<area shape="rect" id="node7" href="$object__accessor_8h.html#a0cd610418cbc7f28015e0c041407402c" title="obj_isinstance" alt="" coords="465,157,570,184"/>
+</map>

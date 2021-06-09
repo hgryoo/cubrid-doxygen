@@ -1,0 +1,5 @@
+<map id="pt_recompile_for_limit_optimizations" name="pt_recompile_for_limit_optimizations">
+<area shape="rect" id="node2" href="$db__vdb_8c.html#a82d44fbed523274c7df330ae8bd5d4c6" title="db_check_limit_need\l_recompile" alt="" coords="203,5,347,47"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#af68cfdd2cffdd748ff0f6581df99c031" title="do_prepare_select" alt="" coords="211,71,339,98"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#a93c1293b96800340e00cf9d51a4d99f9" title="do_get_prepared_statement_info" alt="" coords="395,13,605,39"/>
+</map>

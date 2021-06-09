@@ -1,0 +1,6 @@
+<map id="value_bind_table_s_" name="value_bind_table_s_">
+<area shape="rect" id="node2" href="$structvalue__bind__table__s.html" title="{value_bind_table_s\n||}" alt="" coords="21,248,155,325"/>
+<area shape="rect" id="node3" href="$structvalue__bind__table__ifs__s.html" title="{value_bind_table_ifs_s\n|+ get_value\l+ set_value\l+ get_value_by_name\l+ set_value_by_name\l+ apply_updates\l+ reset\l+ destroy\l|}" alt="" coords="5,13,160,178"/>
+<area shape="rect" id="node4" href="$structvalue__indexer__s.html" title="{value_indexer_s\n||}" alt="" coords="190,248,306,325"/>
+<area shape="rect" id="node5" href="$structvalue__indexer__ifs__s.html" title="{value_indexer_ifs_s\n|+ check\l+ length\l+ get\l+ set\l+ map\l+ insert\l+ delete\l+ destroy\l|}" alt="" coords="185,5,322,185"/>
+</map>

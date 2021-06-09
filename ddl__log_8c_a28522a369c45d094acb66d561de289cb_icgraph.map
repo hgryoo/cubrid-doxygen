@@ -1,0 +1,11 @@
+<map id="logddl_make_copy_filename" name="logddl_make_copy_filename">
+<area shape="rect" id="node2" href="$ddl__log_8h.html#aa51e001b3d23b829e32268a8de2754d3" title="logddl_write" alt="" coords="265,33,356,60"/>
+<area shape="rect" id="node7" href="$ddl__log_8h.html#ad95767fd4d92f803172a8e2e9ee35d2e" title="logddl_write_end_for\l_csql_fileinput" alt="" coords="240,85,381,126"/>
+<area shape="rect" id="node8" href="$ddl__log_8h.html#a8e05c50cc46c311d227b69669d260c3e" title="logddl_write_tran_str" alt="" coords="429,151,572,177"/>
+<area shape="rect" id="node3" href="$ddl__log_8h.html#adc594c621b3fd1fce3dd7d46df9a79b7" title="logddl_write_end" alt="" coords="441,41,560,68"/>
+<area shape="rect" id="node4" href="$cas__execute_8h.html#a58deea8c335da5c20867f4664eeb7e5f" title="ux_execute_batch" alt="" coords="641,5,769,32"/>
+<area shape="rect" id="node5" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="620,71,791,97"/>
+<area shape="rect" id="node6" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="839,96,989,123"/>
+<area shape="rect" id="node9" href="$cas__function_8h.html#ad944837ef49bf8dd84731026dcb679d1" title="fn_end_tran" alt="" coords="660,172,751,199"/>
+<area shape="rect" id="node10" href="$csql_8c.html#a683c35075b379a8c2b9801cbc6a6bced" title="csql_exit_session" alt="" coords="642,223,769,249"/>
+</map>

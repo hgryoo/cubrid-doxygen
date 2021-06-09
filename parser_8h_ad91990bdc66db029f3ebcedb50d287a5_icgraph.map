@@ -1,0 +1,21 @@
+<map id="pt_print_and_list" name="pt_print_and_list">
+<area shape="rect" id="node2" href="$parse__tree__cl_8c.html#ac01f142b938345b7abe94633a0844a10" title="pt_print_alter_index" alt="" coords="382,56,517,83"/>
+<area shape="rect" id="node4" href="$parser_8h.html#a22cff5daa23b9ad501d7a7b890e10e63" title="pt_print_bytes" alt="" coords="193,615,297,641"/>
+<area shape="rect" id="node9" href="$parse__tree__cl_8c.html#a98d6360a1aa4be532f4eec39b6e053f4" title="pt_print_delete" alt="" coords="588,628,695,655"/>
+<area shape="rect" id="node10" href="$parse__tree__cl_8c.html#a0df882c7e5a2482e724e7e4749e39c86" title="pt_print_spec" alt="" coords="591,300,691,327"/>
+<area shape="rect" id="node11" href="$parse__tree__cl_8c.html#ac75771a519696111dcc93b04388a37dd" title="pt_print_insert" alt="" coords="589,443,693,469"/>
+<area shape="rect" id="node12" href="$parse__tree__cl_8c.html#a57b71385c830779c1003da4e7cb25077" title="pt_print_select" alt="" coords="588,745,695,772"/>
+<area shape="rect" id="node13" href="$parse__tree__cl_8c.html#a0070ca0a5e5da122e5a16b5d83490273" title="pt_print_update" alt="" coords="586,796,697,823"/>
+<area shape="rect" id="node14" href="$parse__tree__cl_8c.html#a4b649c722ceb5849582cf61765ab95b0" title="pt_print_merge" alt="" coords="587,847,695,873"/>
+<area shape="rect" id="node18" href="$parse__tree__cl_8c.html#a412f79aaf596b78783b50feec3bb12a6" title="pt_print_create_index" alt="" coords="376,1100,523,1127"/>
+<area shape="rect" id="node19" href="$parse__tree__cl_8c.html#a8542992a46ef26c7784d4cd0a5a64935" title="pt_print_drop_index" alt="" coords="382,1151,517,1177"/>
+<area shape="rect" id="node20" href="$parse__tree__cl_8c.html#af3c819ac245ccc0804c305d338b11255" title="pt_print_check_option" alt="" coords="171,5,320,32"/>
+<area shape="rect" id="node3" href="$parse__tree__cl_8c.html#a143de2b2f3374959607a53e3337afe0a" title="pt_init_print_f" alt="" coords="752,687,852,713"/>
+<area shape="rect" id="node5" href="$name__resolution_8c.html#a2d102fa373d5e322ed842edbf3602c76" title="pt_get_attr_list_of\l_derived_table" alt="" coords="386,578,513,619"/>
+<area shape="rect" id="node6" href="$parser_8h.html#a13dee47d162d7bef4cb15b1b4da6f1f1" title="pt_print_bytes_alias" alt="" coords="380,644,519,671"/>
+<area shape="rect" id="node7" href="$parser_8h.html#aad006b4c2c8f392c67cb5dbae5c23944" title="pt_print_bytes_l" alt="" coords="392,695,507,721"/>
+<area shape="rect" id="node8" href="$parse__tree__cl_8c.html#af68b9b84c4d62e1a832aefbd3493ac8a" title="pt_print_alter_one\l_clause" alt="" coords="579,679,704,721"/>
+<area shape="rect" id="node15" href="$parser_8h.html#acb985031d0a623c4d86335be0aba37f0" title="pt_print_bytes_spec_list" alt="" coords="368,796,531,823"/>
+<area shape="rect" id="node16" href="$parser_8h.html#a3eb5b8714fd83d008cecc376f1d80dad" title="parser_print_tree" alt="" coords="390,461,509,488"/>
+<area shape="rect" id="node17" href="$parser_8h.html#a8df6b28a34364451e81d6632cb966a8b" title="parser_print_tree_with\l_quotes" alt="" coords="374,513,525,554"/>
+</map>

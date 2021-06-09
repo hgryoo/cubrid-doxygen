@@ -1,0 +1,11 @@
+<map id="init_msg_header" name="init_msg_header">
+<area shape="rect" id="node2" href="$shard__proxy__io_8c.html#a04117538883bb09b76274553e18a11ca" title="proxy_init_net_buf" alt="" coords="171,261,299,288"/>
+<area shape="rect" id="node3" href="$shard__proxy__io_8c.html#ab2a18373421faf2da6256915d84c6149" title="proxy_io_make_ex_get_int" alt="" coords="348,5,525,32"/>
+<area shape="rect" id="node4" href="$shard__proxy__io_8h.html#a3d800db0e38fc3cb7e4bd36965e2de28" title="proxy_io_make_error_msg" alt="" coords="349,56,524,83"/>
+<area shape="rect" id="node5" href="$shard__proxy__io_8h.html#a6043598e8bb6e16bf21d9edd1118c4f4" title="proxy_io_make_end_tran\l_request" alt="" coords="353,131,520,173"/>
+<area shape="rect" id="node6" href="$shard__proxy__io_8h.html#aad0eaac1b7afa167d56a2471913b1f61" title="proxy_io_make_close\l_req_handle_ok" alt="" coords="363,221,511,262"/>
+<area shape="rect" id="node7" href="$shard__proxy__io_8h.html#a966be8922a2ef25008744604e1c36d32" title="proxy_io_make_get_db\l_version" alt="" coords="359,286,515,327"/>
+<area shape="rect" id="node8" href="$shard__proxy__io_8h.html#a28417e298c58cb6b8c93e1b7b36e21ce" title="proxy_io_make_client\l_proxy_alive" alt="" coords="363,351,511,393"/>
+<area shape="rect" id="node9" href="$shard__proxy__io_8h.html#a7e660d466028cdb90401100c9482340a" title="proxy_io_make_shard_info" alt="" coords="348,417,525,444"/>
+<area shape="rect" id="node10" href="$shard__proxy__io_8h.html#a484386ce8c0a1a4b2bdcd837966171fa" title="proxy_io_make_check_cas" alt="" coords="347,468,527,495"/>
+</map>

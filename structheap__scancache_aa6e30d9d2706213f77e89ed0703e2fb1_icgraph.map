@@ -1,0 +1,10 @@
+<map id="heap_scancache::assign_recdes_to_area" name="heap_scancache::assign_recdes_to_area">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a600b2e7ab598baf557cdcab1da88c1e4" title="heap_get_bigone_content" alt="" coords="224,71,395,98"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#a29e379320ab013a9cb358b02a10dd0d7" title="heap_get_record_info" alt="" coords="236,122,383,149"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#aa8d2c0d3e65b71a9cd934d587d4bc2a6" title="heap_get_visible_version\l_from_log" alt="" coords="447,173,615,215"/>
+<area shape="rect" id="node9" href="$heap__file_8c.html#ad67615fe6fcb4bfb5ef42d195ce4a5c3" title="heap_scan_cache_allocate\l_recdes_data" alt="" coords="220,5,399,47"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a5849648951d4c9b8bcf558b8d4b4eb3d" title="heap_get_record_data\l_when_all_ready" alt="" coords="455,5,606,47"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a512d30dc792740a94604451092dc9493" title="heap_update_bigone" alt="" coords="460,71,601,98"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a9022fc8e0667a9d05dca8ef3dff751fc" title="heap_get_visible_version\l_internal" alt="" coords="663,89,831,131"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#a54bdd16c2a6a43e66973fb355f81d8c8" title="heap_next_internal" alt="" coords="465,122,596,149"/>
+</map>

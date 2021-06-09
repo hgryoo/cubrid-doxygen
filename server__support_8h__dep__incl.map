@@ -1,0 +1,11 @@
+<map id="src/connection/server_support.h" name="src/connection/server_support.h">
+<area shape="rect" id="node2" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="5,95,188,136"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html" title="src/communication/network_sr.c" alt="" coords="213,102,423,129"/>
+<area shape="rect" id="node4" href="$connection__sr_8c.html" title="src/connection/connection_sr.c" alt="" coords="447,102,650,129"/>
+<area shape="rect" id="node5" href="$server__support_8c.html" title="src/connection/server\l_support.c" alt="" coords="674,95,821,136"/>
+<area shape="rect" id="node6" href="$show__scan_8c.html" title="src/query/show_scan.c" alt="" coords="845,102,1002,129"/>
+<area shape="rect" id="node7" href="$btree__load_8c.html" title="src/storage/btree_load.c" alt="" coords="1026,102,1189,129"/>
+<area shape="rect" id="node8" href="$external__sort_8c.html" title="src/storage/external\l_sort.c" alt="" coords="1213,95,1351,136"/>
+<area shape="rect" id="node9" href="$lock__manager_8c.html" title="src/transaction/lock\l_manager.c" alt="" coords="1375,95,1511,136"/>
+<area shape="rect" id="node10" href="$transaction__sr_8c.html" title="src/transaction/transaction_sr.c" alt="" coords="1535,102,1741,129"/>
+</map>

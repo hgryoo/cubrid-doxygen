@@ -1,0 +1,7 @@
+<map id="hb_remove_proc" name="hb_remove_proc">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#a101c5b1c9ab1ca5a96a493e84c79545d" title="hb_remove_all_procs" alt="" coords="183,5,328,32"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#a95eda95d368a22106e87f197c051c260" title="hb_resource_job_confirm\l_cleanup_all" alt="" coords="172,57,339,98"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#a2bdc88c8b9811a90d119928ec4fb238f" title="hb_resource_job_confirm\l_dereg" alt="" coords="172,122,339,163"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8c.html#a5f2175a5aefc9e676a17637455fe954f" title="hb_resource_job_proc\l_dereg" alt="" coords="181,187,330,229"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#aaad3f3b52fc26288faf63919e78455e9" title="hb_resource_cleanup" alt="" coords="387,5,532,32"/>
+</map>

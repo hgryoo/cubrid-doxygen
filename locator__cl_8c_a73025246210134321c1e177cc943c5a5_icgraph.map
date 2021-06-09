@@ -1,0 +1,13 @@
+<map id="locator_all_flush" name="locator_all_flush">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#a4031e13892e89e8a3b919278737eded3" title="do_create_trigger" alt="" coords="413,124,536,151"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="737,99,892,126"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="588,74,689,100"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#acbd760c1942dbf1e164bde9ee1c473c9" title="do_execute_select" alt="" coords="409,290,540,316"/>
+<area shape="rect" id="node6" href="$locator__cl_8h.html#a4b6c7387864e64b6864b9c73b5ccdbb5" title="locator_add_instance" alt="" coords="193,226,338,252"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#a5382c4ce290b60cf2fd9d7fcec1dc847" title="sm_update_all_statistics" alt="" coords="182,276,349,303"/>
+<area shape="rect" id="node8" href="$trigger__manager_8h.html#ab86886b8498d463986948822d3086b33" title="tr_create_trigger" alt="" coords="207,124,323,151"/>
+<area shape="rect" id="node9" href="$transaction__cl_8h.html#a7bfba1482cf01aa4a926674145c7e29e" title="tran_2pc_prepare" alt="" coords="204,378,327,404"/>
+<area shape="rect" id="node10" href="$transaction__cl_8h.html#a351fb6b676910a2ef50a2bf03980e724" title="tran_2pc_prepare_global_tran" alt="" coords="169,428,361,455"/>
+<area shape="rect" id="node11" href="$transaction__cl_8h.html#a9c40d283320f0d63a7594e1f6d8b96bf" title="tran_flush_to_commit" alt="" coords="192,479,339,506"/>
+<area shape="rect" id="node12" href="$transaction__cl_8h.html#ad79fc76274f9b985fcc9285b9ee777df" title="tran_savepoint_internal" alt="" coords="187,530,343,556"/>
+</map>

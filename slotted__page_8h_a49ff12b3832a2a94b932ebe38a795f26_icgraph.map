@@ -1,0 +1,19 @@
+<map id="spage_initialize" name="spage_initialize">
+<area shape="rect" id="node2" href="$btree_8h.html#a9e5968aeb0c179ae973f21e309f176f3" title="btree_initialize_new_page" alt="" coords="171,56,341,83"/>
+<area shape="rect" id="node6" href="$btree_8h.html#a37c09a6f8ae875f5685809185875422e" title="btree_rv_newpage_redo_init" alt="" coords="164,107,348,133"/>
+<area shape="rect" id="node7" href="$system__catalog_8c.html#ab54d13a6e571defa366e18af8e668ec9" title="catalog_initialize\l_new_page" alt="" coords="197,158,315,199"/>
+<area shape="rect" id="node8" href="$system__catalog_8h.html#aae825a665d9c13f6039518a76b2c1a29" title="catalog_rv_new_page_redo" alt="" coords="166,224,346,251"/>
+<area shape="rect" id="node9" href="$extendible__hash_8c.html#a613724f6ed540b45dbc3ef5e37270293" title="ehash_initialize_bucket\l_new_page" alt="" coords="177,275,335,317"/>
+<area shape="rect" id="node10" href="$extendible__hash_8h.html#a464ef1fdef685ad0eafdcb97904b873c" title="ehash_rv_init_bucket_redo" alt="" coords="167,341,345,368"/>
+<area shape="rect" id="node11" href="$heap__file_8c.html#a23cd5f642edebaad25e8fafd58600228" title="heap_create_internal" alt="" coords="617,417,760,444"/>
+<area shape="rect" id="node12" href="$heap__file_8c.html#a7402228f44ae47527abdfb7547f451d9" title="heap_reinitialize_page" alt="" coords="181,443,331,469"/>
+<area shape="rect" id="node15" href="$heap__file_8h.html#a8c84408c0ac32806b79fc85ef944e7b1" title="heap_rv_redo_newpage" alt="" coords="177,493,335,520"/>
+<area shape="rect" id="node16" href="$heap__file_8c.html#afa840471c7dad8b08160e16bdaa75a0a" title="heap_vpid_init_new" alt="" coords="188,544,324,571"/>
+<area shape="rect" id="node17" href="$slotted__page_8h.html#a6037bd413b86972cd0d7d05884d8d319" title="spage_reclaim" alt="" coords="203,595,309,621"/>
+<area shape="rect" id="node3" href="$btree_8h.html#abc9d118c8b0dccc88f12e39f37e6be0e" title="btree_create_file" alt="" coords="423,5,542,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a9332821b7e193ed05a97dc65660f8fc6" title="btree_get_new_page" alt="" coords="411,56,554,83"/>
+<area shape="rect" id="node5" href="$btree__load_8c.html#a1ac6ed02bab79e3feead71009d6db3be" title="btree_load_new_page" alt="" coords="409,107,557,133"/>
+<area shape="rect" id="node13" href="$heap__file_8c.html#a1063293444bb398d29a2b95ccdcecd33" title="heap_reuse" alt="" coords="438,443,527,469"/>
+<area shape="rect" id="node14" href="$heap__file_8h.html#aeb5954dd4b49d091cd70b28e7a52f66e" title="heap_rv_redo_reuse\l_page_reuse_oid" alt="" coords="413,494,552,535"/>
+<area shape="rect" id="node18" href="$heap__file_8h.html#a2b0c3f9af6d7acec2a7c754c14acbdf4" title="xheap_reclaim_addresses" alt="" coords="396,595,569,621"/>
+</map>

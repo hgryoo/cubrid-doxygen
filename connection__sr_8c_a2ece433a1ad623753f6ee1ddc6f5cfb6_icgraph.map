@@ -1,0 +1,8 @@
+<map id="css_make_queue_entry" name="css_make_queue_entry">
+<area shape="rect" id="node2" href="$connection__sr_8c.html#a76333ad6d01cad2e978ebc91c2be11e2" title="css_add_queue_entry" alt="" coords="213,107,363,133"/>
+<area shape="rect" id="node3" href="$connection__sr_8c.html#a51bdf96038b0665495e256c172bbb1fd" title="css_process_abort_packet" alt="" coords="419,5,597,32"/>
+<area shape="rect" id="node4" href="$connection__sr_8c.html#ad62d5782095a463fd07ddec7eb1a1727" title="css_queue_command_packet" alt="" coords="411,56,605,83"/>
+<area shape="rect" id="node5" href="$connection__sr_8c.html#acca77d961ddea1869c0f9c1b7058e8d6" title="css_queue_data_packet" alt="" coords="427,107,589,133"/>
+<area shape="rect" id="node6" href="$connection__sr_8c.html#a8e2cb0ace56a72fab004c6a849454250" title="css_queue_error_packet" alt="" coords="426,157,590,184"/>
+<area shape="rect" id="node7" href="$connection__sr_8c.html#a6dc8b79f63003b2df49182d7597a5fc8" title="css_queue_user_data\l_buffer" alt="" coords="433,209,583,250"/>
+</map>

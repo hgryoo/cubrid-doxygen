@@ -1,0 +1,12 @@
+<map id="tran_was_latest_query_aborted" name="tran_was_latest_query_aborted">
+<area shape="rect" id="node2" href="$cas__execute_8c.html#a58e968429ae5bb34007d62179c307388" title="do_commit_after_execute" alt="" coords="207,56,379,83"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="215,157,370,184"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="584,157,685,184"/>
+<area shape="rect" id="node9" href="$transaction__cl_8h.html#a1d5ef42a794f24bbb7d41f3eaf164e8f" title="tran_abort" alt="" coords="253,309,333,336"/>
+<area shape="rect" id="node10" href="$transaction__cl_8h.html#a901b4a89a27aa3bc5c8ffdcc1f9e3150" title="tran_commit" alt="" coords="245,360,340,387"/>
+<area shape="rect" id="node11" href="$cas__execute_8h.html#a283a087c4e06d0575706e48328b6ebd4" title="ux_auto_commit" alt="" coords="233,411,352,437"/>
+<area shape="rect" id="node3" href="$cas__execute_8h.html#a480b90c05f39d0bea260091e4aabe256" title="ux_execute" alt="" coords="437,5,526,32"/>
+<area shape="rect" id="node4" href="$cas__execute_8h.html#a472d04640cef98dd54b3a79112fe1f01" title="ux_execute_all" alt="" coords="427,56,536,83"/>
+<area shape="rect" id="node6" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="733,125,885,166"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#ae3d3126c811e6fcef6468eeb55c88c1c" title="do_scope" alt="" coords="442,157,521,184"/>
+</map>

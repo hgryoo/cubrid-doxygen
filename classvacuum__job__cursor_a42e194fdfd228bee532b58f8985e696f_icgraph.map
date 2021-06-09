@@ -1,0 +1,8 @@
+<map id="vacuum_job_cursor::is_loaded" name="vacuum_job_cursor::is_loaded">
+<area shape="rect" id="node2" href="$classvacuum__job__cursor.html#a37fb616dd11b169063eaedb11f602e73" title="vacuum_job_cursor::\lis_valid" alt="" coords="208,70,351,111"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="635,139,709,165"/>
+<area shape="rect" id="node6" href="$classvacuum__job__cursor.html#a47b2be758fde778ce365d502c86327c3" title="vacuum_job_cursor::load" alt="" coords="196,219,363,245"/>
+<area shape="rect" id="node4" href="$classvacuum__job__cursor.html#a4e1e157d130e81561775cd5e2b4857be" title="vacuum_job_cursor::\lget_current_entry" alt="" coords="427,37,570,78"/>
+<area shape="rect" id="node5" href="$classvacuum__job__cursor.html#a46c8539ef4fd7bc864964cc44db7f9e1" title="vacuum_job_cursor::\lstart_job_on_current_entry" alt="" coords="411,102,587,143"/>
+<area shape="rect" id="node7" href="$classvacuum__job__cursor.html#a7748893163390231568a44a5e48f7f8a" title="vacuum_job_cursor::\lforce_data_update" alt="" coords="427,270,570,311"/>
+</map>

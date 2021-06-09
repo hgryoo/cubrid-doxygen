@@ -1,0 +1,11 @@
+<map id="sm_free_constraint_info" name="sm_free_constraint_info">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a03dbf8ec3962e323a7e7fdcd814c8ce3" title="do_alter_clause_change\l_attribute" alt="" coords="233,5,395,47"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#afaa7284d4b1251a4e20e4232705f1c3b" title="do_copy_indexes" alt="" coords="478,93,601,119"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a117d19cbdb55baa5877f998a7c3e9310" title="do_recreate_renamed\l_class_indexes" alt="" coords="466,155,613,196"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#a45757e20f94e61e441446ac8faa9dbda" title="do_redistribute_partitions_data" alt="" coords="215,341,413,367"/>
+<area shape="rect" id="node7" href="$execute__schema_8c.html#a498df7c8cdee073136edfc5e0ee24ad1" title="save_constraint_info\l_from_pt_node" alt="" coords="243,224,385,265"/>
+<area shape="rect" id="node9" href="$schema__manager_8h.html#abf076f4cfa9acb9d5b9bd20c6848df05" title="sm_save_constraint_info" alt="" coords="231,173,397,199"/>
+<area shape="rect" id="node10" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="473,281,605,307"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a6544008aa1b341b93a0f8f80361f982f" title="do_alter" alt="" coords="505,13,573,39"/>
+<area shape="rect" id="node8" href="$execute__schema_8c.html#a053f256f78294b06899aadfe66cf6dad" title="build_attr_change_map" alt="" coords="461,226,617,253"/>
+</map>

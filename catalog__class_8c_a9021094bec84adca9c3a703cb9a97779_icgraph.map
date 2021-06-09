@@ -1,0 +1,11 @@
+<map id="catcls_find_oid_by_class_name" name="catcls_find_oid_by_class_name">
+<area shape="rect" id="node2" href="$catalog__class_8c.html#a083728b176ef4bd5f38faba18c5a47d0" title="catcls_convert_class\l_oid_to_oid" alt="" coords="187,139,333,181"/>
+<area shape="rect" id="node9" href="$locator__sr_8c.html#acd52d882b98b65068e365f6ba20a2b0b" title="catcls_delete_catalog\l_classes" alt="" coords="186,205,334,246"/>
+<area shape="rect" id="node10" href="$locator__sr_8c.html#a6f18a8259b1deabed7d9a5c38672dbdd" title="catcls_update_catalog\l_classes" alt="" coords="184,270,336,311"/>
+<area shape="rect" id="node3" href="$catalog__class_8c.html#a607be0a594e58483f6ffd7dbfd4e559e" title="catcls_get_object_set" alt="" coords="384,5,533,32"/>
+<area shape="rect" id="node4" href="$catalog__class_8c.html#a7d582bb9c89ad8c12586b7d4f9da0fbe" title="catcls_get_or_value\l_from_attribute" alt="" coords="581,78,720,119"/>
+<area shape="rect" id="node5" href="$catalog__class_8c.html#aedfe9f2db3867cad7afc8362d6e72c44" title="catcls_get_or_value\l_from_domain" alt="" coords="389,107,528,149"/>
+<area shape="rect" id="node6" href="$catalog__class_8c.html#a181bda4e0bcee78fd6ac8e8f5877f0ca" title="catcls_get_or_value\l_from_method" alt="" coords="389,173,528,214"/>
+<area shape="rect" id="node7" href="$catalog__class_8c.html#a4b83b2278e1245a9980c777a349703a3" title="catcls_get_or_value\l_from_method_file" alt="" coords="389,238,528,279"/>
+<area shape="rect" id="node8" href="$catalog__class_8c.html#a2771997fd79432c3a7264cbe4f2237e5" title="catcls_get_or_value\l_from_resolution" alt="" coords="389,303,528,345"/>
+</map>

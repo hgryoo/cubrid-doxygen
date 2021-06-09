@@ -1,0 +1,9 @@
+<map id="hb_process_state_string" name="hb_process_state_string">
+<area shape="rect" id="node2" href="$master__heartbeat_8h.html#a984cbac643ef3c972832ecb9b9b73ad6" title="hb_get_process_info\l_string" alt="" coords="247,20,389,61"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#ac23eae12fdbb10ae88a44d971bb4eb6c" title="hb_help_sprint_processes_info" alt="" coords="217,115,419,142"/>
+<area shape="rect" id="node7" href="$master__heartbeat_8h.html#aaefcbbcb81eb04e31435ffaf62523e15" title="hb_register_new_process" alt="" coords="233,173,403,199"/>
+<area shape="rect" id="node3" href="$master__request_8c.html#a9092e3dd577d17262fae61923cc95447" title="css_process_ha_process\l_list_info" alt="" coords="484,5,655,47"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#aac551c80bc667e1910292bf4505b4338" title="hb_resource_job_change_mode" alt="" coords="467,71,672,98"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8c.html#a943950e3818e492213fc2a7a1c78b995" title="hb_resource_job_confirm\l_start" alt="" coords="486,123,653,164"/>
+<area shape="rect" id="node8" href="$master__request_8c.html#a002853571ab2faa79172cab4812d5425" title="css_process_register\l_ha_process" alt="" coords="496,188,643,229"/>
+</map>

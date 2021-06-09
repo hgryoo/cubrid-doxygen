@@ -1,0 +1,21 @@
+<map id="perfmon_add_stat" name="perfmon_add_stat">
+<area shape="rect" id="node2" href="$classmvcctable.html#abb49acd267780e611121af87fcaf1431" title="mvcctable::build_mvcc_info" alt="" coords="180,5,364,32"/>
+<area shape="rect" id="node4" href="$classmvcctable.html#ab05916cd74f0d68b2966fd9aaa73570d" title="mvcctable::compute\l_oldest_visible_mvccid" alt="" coords="193,57,351,98"/>
+<area shape="rect" id="node6" href="$double__write__buffer_8c.html#a9990a5604abb5bdf77d643cd0023fe5b" title="dwb_flush_block" alt="" coords="440,173,559,200"/>
+<area shape="rect" id="node7" href="$double__write__buffer_8c.html#ad239ae8b08d1c10f627f2ada75eab28d" title="dwb_write_block" alt="" coords="213,173,331,200"/>
+<area shape="rect" id="node8" href="$file__io_8h.html#a92f27b4835b098b0ca5bebf9db4460e7" title="fileio_flush_control\l_add_tokens" alt="" coords="207,225,337,266"/>
+<area shape="rect" id="node9" href="$file__io_8h.html#a2951a1c5874f53c556ad42849d150d46" title="fileio_write_pages" alt="" coords="209,291,335,317"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="193,342,351,383"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#a49eae8d2ddee098f169f0038d73602d6" title="logpb_prior_lsa_append\l_all_list" alt="" coords="193,407,351,449"/>
+<area shape="rect" id="node12" href="$log__tran__table_8c.html#abced029cdab388279dc4b134179929c3" title="logtb_complete_mvcc" alt="" coords="197,473,347,500"/>
+<area shape="rect" id="node13" href="$page__buffer_8c.html#a702a8aa6d5d50661354c9f98e270e1d1" title="pgbuf_delete_from_hash\l_chain" alt="" coords="190,525,354,566"/>
+<area shape="rect" id="node14" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="207,590,337,631"/>
+<area shape="rect" id="node15" href="$page__buffer_8c.html#af3ffb638cb88943a7e374cdeac9d27e9" title="pgbuf_insert_into_hash\l_chain" alt="" coords="194,655,350,697"/>
+<area shape="rect" id="node16" href="$page__buffer_8c.html#ad022189d463c2875506288da0a3e72c9" title="pgbuf_lock_page" alt="" coords="212,721,332,748"/>
+<area shape="rect" id="node17" href="$page__buffer_8c.html#a0ff00036da5727a55b14b9475fc8693c" title="pgbuf_search_hash_chain" alt="" coords="185,772,359,799"/>
+<area shape="rect" id="node18" href="$page__buffer_8c.html#aecda933a6524aa85e8aca3adaaba9812" title="pgbuf_unlock_page" alt="" coords="205,823,339,849"/>
+<area shape="rect" id="node19" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="199,874,345,915"/>
+<area shape="rect" id="node20" href="$vacuum_8h.html#a66ebc14bbfd640fb5abf04846e05b555" title="vacuum_produce_log\l_block_data" alt="" coords="199,939,345,981"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a593d152ad0c8b7c29828b31d49a2458c" title="logtb_get_mvcc_snapshot" alt="" coords="412,5,587,32"/>
+<area shape="rect" id="node5" href="$classmvcctable.html#a9c6acee8d7a7e99192a221cd3dc6fd11" title="mvcctable::update_global\l_oldest_visible" alt="" coords="414,57,585,98"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="parser_create_string_block" name="parser_create_string_block">
+<area shape="rect" id="node2" href="$parse__tree_8h.html#aafc054c14cc7c5eb44f1f0630174b1f1" title="parser_allocate_string\l_buffer" alt="" coords="193,125,343,166"/>
+<area shape="rect" id="node3" href="$parse__tree_8c.html#a3f3542177817ed18392a23f87f8ecef1" title="pt_append_string_for" alt="" coords="391,5,533,32"/>
+<area shape="rect" id="node4" href="$parser_8h.html#a60f79a00cd63cfb855940873c4eee6cd" title="pt_append_string" alt="" coords="581,56,703,83"/>
+<area shape="rect" id="node5" href="$parser_8h.html#aeccbb4aecde0d908e19a01bd1b04284a" title="pt_record_error" alt="" coords="751,81,860,108"/>
+<area shape="rect" id="node6" href="$parse__tree_8c.html#a453a80356f2200e227fed5405b65133b" title="pt_append_bytes_for" alt="" coords="391,157,533,184"/>
+<area shape="rect" id="node7" href="$parser_8h.html#a60cb725ef936355d4d9dcd2032e21be0" title="pt_append_bytes" alt="" coords="581,183,703,209"/>
+<area shape="rect" id="node8" href="$parser_8h.html#a272ec8a9a36cb2c7e210498fa03909ee" title="parser_alloc" alt="" coords="416,259,508,285"/>
+</map>

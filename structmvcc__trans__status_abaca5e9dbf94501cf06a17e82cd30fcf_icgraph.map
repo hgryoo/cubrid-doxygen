@@ -1,0 +1,5 @@
+<map id="mvcc_trans_status::initialize" name="mvcc_trans_status::initialize">
+<area shape="rect" id="node2" href="$classmvcctable.html#a89d9a0f06b1ebb64f6cd77ed849d8038" title="mvcctable::initialize" alt="" coords="195,35,332,61"/>
+<area shape="rect" id="node3" href="$unittests__snapshot_8c.html#a921c07bb7d91119a4d2baa0235dff7fe" title="logtb_initialize_mvcctable" alt="" coords="380,5,551,32"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#ac27166ed5a81c72375cfccc620c702da" title="logtb_define_trantable\l_log_latch" alt="" coords="391,57,540,98"/>
+</map>

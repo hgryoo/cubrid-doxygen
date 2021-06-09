@@ -1,0 +1,9 @@
+<map id="classobj_free_descriptor" name="classobj_free_descriptor">
+<area shape="rect" id="node2" href="$class__object_8h.html#aa1f93f14b2270eec0ed74f157b396da4" title="classobj_make_descriptor" alt="" coords="216,56,389,83"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a258213f07ce1703b5cf4c406a0837045" title="sm_free_descriptor" alt="" coords="236,132,369,159"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#abe3fb9ebf8bfe13c7db014ba90a5aefc" title="sm_get_attribute_descriptor" alt="" coords="437,5,620,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#aca422c3123667dce62a890dbd87ace08" title="sm_get_method_descriptor" alt="" coords="439,56,618,83"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#aa46d54af2180fab82a1e4371cafc308c" title="db_free_attribute_descriptor" alt="" coords="437,107,620,133"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#a1b6db30132bd41b49b550ae324456a20" title="db_free_method_descriptor" alt="" coords="439,157,618,184"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#ad12b4fb9779983b783876760d6ad4a24" title="sm_final" alt="" coords="493,208,564,235"/>
+</map>

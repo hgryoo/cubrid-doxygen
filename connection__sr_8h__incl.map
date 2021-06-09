@@ -1,0 +1,11 @@
+<map id="src/connection/connection_sr.h" name="src/connection/connection_sr.h">
+<area shape="rect" id="node2" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="272,155,400,181"/>
+<area shape="rect" id="node4" href="$porting_8h.html" title="porting.h" alt="" coords="5,304,77,331"/>
+<area shape="rect" id="node6" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="706,229,822,256"/>
+<area shape="rect" id="node10" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="435,304,568,331"/>
+<area shape="rect" id="node12" href="$connection__support_8h.html" title="connection_support.h" alt="" coords="383,80,529,107"/>
+<area shape="rect" id="node14" href="$critical__section_8h.html" title="critical_section.h" alt="" coords="332,229,452,256"/>
+<area shape="rect" id="node3" href="$boot_8h.html" title="boot.h" alt="" coords="60,229,119,256"/>
+<area shape="rect" id="node8" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="193,229,308,256"/>
+<area shape="rect" id="node9" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="206,304,303,331"/>
+</map>

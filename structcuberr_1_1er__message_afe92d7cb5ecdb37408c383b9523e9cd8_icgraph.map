@@ -1,0 +1,8 @@
+<map id="cuberr::er_message::clear_message_area" name="cuberr::er_message::clear_message_area">
+<area shape="rect" id="node2" href="$classcuberr_1_1context.html#a47a294277968b93942fbc2c55a5e929b" title="cuberr::context::clear\l_all_levels" alt="" coords="214,5,359,47"/>
+<area shape="rect" id="node4" href="$structcuberr_1_1er__message.html#a1e8243dbda518431ec1773137a1b9082" title="cuberr::er_message\l::reserve_message_area" alt="" coords="204,71,369,112"/>
+<area shape="rect" id="node7" href="$structcuberr_1_1er__message.html#a8f9916dd0cfcb07458591224ecc71cff" title="cuberr::er_message\l::~er_message" alt="" coords="218,136,355,177"/>
+<area shape="rect" id="node3" href="$classcuberr_1_1context.html#a4ef2d82e0455eda2e092c87f291f598d" title="cuberr::context::deregister\l_thread_local" alt="" coords="417,5,592,47"/>
+<area shape="rect" id="node5" href="$error__manager_8c.html#ac7f74b30bacfef84dba1b02f20f12aa2" title="er_set_internal" alt="" coords="451,75,558,102"/>
+<area shape="rect" id="node6" href="$error__manager_8h.html#a91814d78d642bd9969436da4436add63" title="er_set_area_error" alt="" coords="443,126,566,153"/>
+</map>

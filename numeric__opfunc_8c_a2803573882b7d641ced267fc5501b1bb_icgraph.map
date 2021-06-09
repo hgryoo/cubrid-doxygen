@@ -1,0 +1,16 @@
+<map id="numeric_increase" name="numeric_increase">
+<area shape="rect" id="node2" href="$numeric__opfunc_8h.html#a047b26a933d0a5a7c76cf8284ccc202b" title="numeric_coerce_num\l_to_bigint" alt="" coords="195,179,342,220"/>
+<area shape="rect" id="node8" href="$numeric__opfunc_8h.html#adc92df2237df745a925b2bffdc1f2738" title="numeric_db_value_div" alt="" coords="641,105,791,132"/>
+<area shape="rect" id="node11" href="$numeric__opfunc_8h.html#ae91a2b4fb055032ad2b0dac7c97f4e42" title="numeric_coerce_num\l_to_num" alt="" coords="195,390,342,431"/>
+<area shape="rect" id="node15" href="$numeric__opfunc_8h.html#aeb96ad9df330193b5bc7b8044ecb10c4" title="numeric_db_value_increase" alt="" coords="177,456,360,482"/>
+<area shape="rect" id="node3" href="$namespacecubload.html#a06ce3764d64877e8885da07cb52d5d14" title="cubload::to_db_bigint" alt="" coords="422,237,567,264"/>
+<area shape="rect" id="node4" href="$namespacecubload.html#a5c55b37ca45ea6cf3f004e0bc558c0bc" title="cubload::to_int_generic" alt="" coords="417,288,573,314"/>
+<area shape="rect" id="node5" href="$load__sa__loader_8cpp.html#a843e7b41907a7612b59500152cbd4889" title="ldr_int_elem" alt="" coords="449,34,541,61"/>
+<area shape="rect" id="node6" href="$load__sa__loader_8cpp.html#a224f9bc2a6a7e11916724f38e35d93b6" title="ldr_int_db_bigint" alt="" coords="437,85,553,112"/>
+<area shape="rect" id="node7" href="$numeric__opfunc_8c.html#af53df31fc108418e9d3d8ad21c17e866" title="numeric_div" alt="" coords="449,136,541,162"/>
+<area shape="rect" id="node9" href="$numeric__opfunc_8h.html#a2934147eb85e158f40bb51be6d46cad1" title="numeric_db_value_coerce\l_from_num" alt="" coords="629,360,803,402"/>
+<area shape="rect" id="node10" href="$numeric__opfunc_8h.html#af43f488f1fb95c537501c690b0133562" title="numeric_db_value_coerce\l_from_num_strict" alt="" coords="629,210,803,251"/>
+<area shape="rect" id="node12" href="$db__macro_8c.html#aaac41ec0708d386802559c899a7d90aa" title="coerce_char_to_dbvalue" alt="" coords="413,456,576,482"/>
+<area shape="rect" id="node13" href="$numeric__opfunc_8c.html#ad0dd0dda3b6ad893da7eae72bce41ade" title="numeric_prec_scale\l_when_overflow" alt="" coords="425,507,564,548"/>
+<area shape="rect" id="node14" href="$numeric__opfunc_8h.html#ae53355e5ddddd426d6e4f17a95f2ffa3" title="numeric_db_value_coerce\l_to_num" alt="" coords="408,390,581,431"/>
+</map>

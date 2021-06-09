@@ -1,0 +1,11 @@
+<map id="heap_get_mvcc_header" name="heap_get_mvcc_header">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a20c08d91f9b9fad6d6260b6f53ce3ddf" title="heap_get_last_version" alt="" coords="221,115,373,141"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#a4af1d4f8e39597fdb439d70ce878f453" title="locator_lock_and_get\l_object_internal" alt="" coords="441,173,586,214"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#a9022fc8e0667a9d05dca8ef3dff751fc" title="heap_get_visible_version\l_internal" alt="" coords="213,257,381,298"/>
+<area shape="rect" id="node3" href="$compactdb_8c.html#ac3550275da0ece573ec0e0f5e72bac55" title="update_indexes" alt="" coords="457,5,570,32"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#aa17da3e575f78213685cce32a949fe81" title="heap_get_class_record" alt="" coords="435,56,591,83"/>
+<area shape="rect" id="node5" href="$locator__sr_8h.html#a891018ca0e900f206c7635aa258af74b" title="locator_attribute_info\l_force" alt="" coords="442,107,585,149"/>
+<area shape="rect" id="node7" href="$locator__sr_8h.html#acc9618d1ce7c02e3c71da55d87ec0e73" title="locator_get_object" alt="" coords="645,209,773,236"/>
+<area shape="rect" id="node9" href="$heap__file_8h.html#a9285a74871d3f15b4f39f8271fbb1b60" title="heap_get_visible_version" alt="" coords="429,289,597,316"/>
+<area shape="rect" id="node10" href="$heap__file_8h.html#a96f4018608e06d9fbcb45b57129220b0" title="heap_scan_get_visible\l_version" alt="" coords="436,341,591,382"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="log_rollback_record" name="log_rollback_record">
+<area shape="rect" id="node2" href="$log__manager_8c.html#a95f9d78f6596d07a91842fab70321950" title="log_rollback" alt="" coords="188,31,279,57"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="331,5,440,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a8ba8a8666ca892dac7b456367d153965" title="log_sysop_abort" alt="" coords="327,56,444,83"/>
+</map>

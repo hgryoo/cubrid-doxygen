@@ -1,0 +1,15 @@
+<map id="pt_remove_xasl" name="pt_remove_xasl">
+<area shape="rect" id="node2" href="$plan__generation_8c.html#a28c513f2f99ff0acab26c92a7b29a49c" title="add_subqueries" alt="" coords="172,360,285,387"/>
+<area shape="rect" id="node6" href="$plan__generation_8c.html#a56c2b02dc8b15a7b8f5eb1261bb12789" title="add_uncorrelated" alt="" coords="168,411,289,437"/>
+<area shape="rect" id="node7" href="$xasl__generation_8c.html#a32bccb2ea0d026533b46c708eb21835d" title="pt_set_aptr" alt="" coords="591,5,677,32"/>
+<area shape="rect" id="node11" href="$xasl__generation_8h.html#a458126f420f8b0656db0665b77735b50" title="pt_set_dptr" alt="" coords="185,208,272,235"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#a5ba46846df3d11008f3c7d2fd4fa6cf3" title="gen_inner" alt="" coords="388,411,467,437"/>
+<area shape="rect" id="node4" href="$plan__generation_8c.html#a851ad3e58cae2b277cdf3f058e304cac" title="gen_outer" alt="" coords="595,385,673,412"/>
+<area shape="rect" id="node5" href="$plan__generation_8c.html#a5102adacf28a2cda8aa170e7b07af380" title="qo_to_xasl" alt="" coords="782,347,867,373"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#ac00afe3347320f27638ab8dbd860fa5c" title="pt_to_buildlist_proc" alt="" coords="757,171,892,197"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#ab1a51869aa06f95a76d04529f2bdc244" title="pt_to_buildvalue_proc" alt="" coords="751,81,899,108"/>
+<area shape="rect" id="node10" href="$xasl__generation_8c.html#a4737ebd73daa55c35ac5caf3034c4057" title="pt_to_union_proc" alt="" coords="764,5,885,32"/>
+<area shape="rect" id="node12" href="$xasl__generation_8c.html#afd6761fab9963e24b03f19721dd09687" title="pt_to_scan_proc_list" alt="" coords="356,107,499,133"/>
+<area shape="rect" id="node13" href="$xasl__generation_8c.html#a9336a49c7a336190e77564ac07c1827c" title="pt_gen_simple_plan" alt="" coords="565,107,703,133"/>
+<area shape="rect" id="node14" href="$xasl__generation_8h.html#a941d8e6bed40e4b7edca3efcd3c024cc" title="pt_gen_simple_merge_plan" alt="" coords="337,208,517,235"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ws_update_oid" name="ws_update_oid">
+<area shape="rect" id="node2" href="$locator__cl_8h.html#a3826a15e7b98eb202e9a422ca1e63b16" title="locator_assign_oidset" alt="" coords="188,107,336,133"/>
+<area shape="rect" id="node8" href="$locator__cl_8h.html#a19484cd67c4f5515aa31cd8685bd875a" title="locator_assign_permanent_oid" alt="" coords="163,157,361,184"/>
+<area shape="rect" id="node9" href="$work__space_8h.html#ae1db03f792d83872d4bb2e8f7a66c1af" title="ws_update_oid_and_class" alt="" coords="175,208,349,235"/>
+<area shape="rect" id="node3" href="$load__sa__loader_8cpp.html#a555f3bf9d675006f81a7e6e1489620fe" title="ldr_assign_all_perm_oids" alt="" coords="409,5,577,32"/>
+<area shape="rect" id="node4" href="$set__object_8h.html#ac7f17820da488a80242541a4e1c3471a" title="col_permanent_oids" alt="" coords="424,56,563,83"/>
+<area shape="rect" id="node5" href="$transform__cl_8c.html#afc0c03379e4c00467d69727c120563f9" title="tf_do_fixup" alt="" coords="450,107,537,133"/>
+<area shape="rect" id="node6" href="$locator__cl_8c.html#a042cf606b12c1f7f2ca71fd23ce78cbe" title="locator_add_to_oidset\l_when_temp_oid" alt="" coords="419,158,568,199"/>
+<area shape="rect" id="node7" href="$locator__cl_8h.html#ac9c385d791975c7c8603cc0626723aae" title="locator_assign_all\l_permanent_oids" alt="" coords="625,187,752,229"/>
+</map>

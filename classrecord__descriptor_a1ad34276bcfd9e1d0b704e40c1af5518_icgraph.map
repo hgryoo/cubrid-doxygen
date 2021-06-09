@@ -1,0 +1,10 @@
+<map id="record_descriptor::resize_buffer" name="record_descriptor::resize_buffer">
+<area shape="rect" id="node2" href="$classrecord__descriptor.html#a8e0d6f0a0ff4411851b82e93f0f80b2c" title="record_descriptor::get" alt="" coords="189,19,337,46"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#a550ba39ad01765a4f0b7115fbb43f60c" title="heap_attrinfo_transform\l_to_disk_internal" alt="" coords="184,71,343,112"/>
+<area shape="rect" id="node6" href="$classrecord__descriptor.html#af830e08e7e408f051ffeb3bce0b64e10" title="record_descriptor::\lmove_data" alt="" coords="198,136,329,177"/>
+<area shape="rect" id="node9" href="$classrecord__descriptor.html#abe3a4a094e61314dcf9a9c8fa14f4495" title="record_descriptor::\lunpack" alt="" coords="198,201,329,243"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a6aa98a7cb4ccd38e6c71109ab45a1d81" title="heap_attrinfo_transform\l_to_disk" alt="" coords="391,5,549,47"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a48571ad064a9af771fb8d5ea86f3e63a" title="heap_attrinfo_transform\l_to_disk_except_lob" alt="" coords="391,71,549,112"/>
+<area shape="rect" id="node7" href="$classrecord__descriptor.html#a20c8d840e413925a46eba38e7d04390c" title="record_descriptor::\ldelete_data" alt="" coords="405,136,535,177"/>
+<area shape="rect" id="node8" href="$classrecord__descriptor.html#a3cb6a0358a85e7f3cfaf4df21be3f62e" title="record_descriptor::\lmodify_data" alt="" coords="405,201,535,243"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="util_get_second_and_ms_since_epoch" name="util_get_second_and_ms_since_epoch">
+<area shape="rect" id="node2" href="$db__vdb_8c.html#a8f215453fe3e1752d145d8f79a2acb78" title="db_calculate_current_time" alt="" coords="207,71,381,98"/>
+<area shape="rect" id="node5" href="$string__opfunc_8h.html#a0dd98459023cee87516d7267952a2617" title="db_sys_date_and_epoch_time" alt="" coords="195,173,393,199"/>
+<area shape="rect" id="node8" href="$string__opfunc_8h.html#a9cde6e33c3e21b6a5587226d68863774" title="db_sys_datetime" alt="" coords="233,223,355,250"/>
+<area shape="rect" id="node9" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="235,274,353,301"/>
+<area shape="rect" id="node10" href="$ddl__log_8c.html#a90ce5f339fb72bbfd9ae64582855cd8a" title="logddl_get_time_string" alt="" coords="218,325,370,351"/>
+<area shape="rect" id="node15" href="$query__executor_8h.html#a8117e936942551d7d4b2362e9638260f" title="qexec_execute_query" alt="" coords="219,375,369,402"/>
+<area shape="rect" id="node16" href="$broker__util_8h.html#a7e7d09b25c15a2c22074572fb1fee12a" title="ut_time_string" alt="" coords="242,426,346,453"/>
+<area shape="rect" id="node20" href="$util__func_8c.html#ae0ba6a272609a04deb143ee356bfcd70" title="util_log_header" alt="" coords="239,477,349,503"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#a6e2d5b31426c016f104ebbe58db9bd43" title="db_calculate_current\l_server_time" alt="" coords="455,5,598,47"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#a512d9ea75ee0808c9f63e4149cd6a915" title="db_set_base_server_time" alt="" coords="441,71,612,98"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#a36a75ee7067a1dc7813a2ea1b1dd595a" title="qp_get_server_info" alt="" coords="461,122,593,149"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a3698dd8d3cab74bec3afac5636c0c928" title="sqp_get_server_info" alt="" coords="457,173,596,199"/>
+<area shape="rect" id="node11" href="$ddl__log_8c.html#a1c482d7132f384e7e32e3afd04c1464f" title="logddl_create_log_msg" alt="" coords="449,223,604,250"/>
+<area shape="rect" id="node12" href="$ddl__log_8h.html#ad95767fd4d92f803172a8e2e9ee35d2e" title="logddl_write_end_for\l_csql_fileinput" alt="" coords="660,241,801,283"/>
+<area shape="rect" id="node13" href="$ddl__log_8h.html#a4099a884b336de28a958048d646f5f61" title="logddl_set_start_time" alt="" coords="453,325,600,351"/>
+<area shape="rect" id="node14" href="$ddl__log_8h.html#a8e05c50cc46c311d227b69669d260c3e" title="logddl_write_tran_str" alt="" coords="455,375,598,402"/>
+<area shape="rect" id="node17" href="$cas__error__log_8c.html#ac663743845c6fc1188525066df2f0b81" title="cas_log_write_internal" alt="" coords="451,426,602,453"/>
+<area shape="rect" id="node18" href="$cas__log_8h.html#a81d846db3d74b1b74f06930717343425" title="cas_log_debug" alt="" coords="472,477,581,503"/>
+<area shape="rect" id="node19" href="$shard__proxy__log_8c.html#ad35752037315aa48c5a14235a0a916be" title="proxy_log_write_internal" alt="" coords="445,527,608,554"/>
+</map>

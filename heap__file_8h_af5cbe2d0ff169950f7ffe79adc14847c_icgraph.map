@@ -1,0 +1,9 @@
+<map id="xheap_has_instance" name="xheap_has_instance">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#abda0d769b1bc40f74368c9d0449a43ad" title="heap_has_instance" alt="" coords="195,131,329,157"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a3ac18bbbbbabb03d52b05284a89bd457" title="shf_has_instance" alt="" coords="200,215,324,241"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#a763686da25436ca147ff96459ba0cc67" title="allocate_index" alt="" coords="404,5,509,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#a33553ddba919c2500031a10cf27e9a7d" title="check_fk_validity" alt="" coords="395,56,518,83"/>
+<area shape="rect" id="node5" href="$dbi_8h.html#af3453e05d52757853b73910e18dcbff9" title="db_class_has_instance" alt="" coords="377,131,536,157"/>
+<area shape="rect" id="node6" href="$execute__statement_8c.html#a583e92585b6c898d0dc170330a724266" title="do_check_for_empty\l_classes_in_delete" alt="" coords="385,182,528,223"/>
+<area shape="rect" id="node8" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="403,248,510,275"/>
+</map>

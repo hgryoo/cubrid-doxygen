@@ -1,0 +1,14 @@
+<map id="pp_discard_link_chain" name="pp_discard_link_chain">
+<area shape="rect" id="node2" href="$esql__misc_8h.html#a99ab3a6ba54efe63619c12f482e6a65c" title="pp_add_typedefed_spec" alt="" coords="204,56,367,83"/>
+<area shape="rect" id="node4" href="$esql__symbol__table_8c.html#a2b1b153e88c79388f256779c5e1776b9" title="pp_discard_symbol" alt="" coords="218,157,353,184"/>
+<area shape="rect" id="node9" href="$esql__misc_8h.html#a1a0fe6238327b91f96789709fbe20dcd" title="pp_free_host_var" alt="" coords="224,259,347,285"/>
+<area shape="rect" id="node13" href="$esql__misc_8h.html#a2c21eaf300da5fbd77b4d686a0196404" title="pp_struct_deref" alt="" coords="229,309,341,336"/>
+<area shape="rect" id="node3" href="$esql__symbol__table_8c.html#ae81d0f1509405e0a9dbc00c5f36abf1e" title="pp_new_pseudo_def" alt="" coords="431,5,572,32"/>
+<area shape="rect" id="node5" href="$esql__misc_8h.html#a3c0f76a9abbccb44343aaea56e691762" title="pp_add_symbols_to_table" alt="" coords="415,56,588,83"/>
+<area shape="rect" id="node6" href="$esql__misc_8h.html#a1869d22dee67cf41f5499c0a948c51ca" title="pp_hv_finish" alt="" coords="454,107,549,133"/>
+<area shape="rect" id="node7" href="$esql__symbol__table_8c.html#a9649221eab051a4f9a2a3b0b8b7b9c5f" title="pp_discard_symbol_chain" alt="" coords="415,157,587,184"/>
+<area shape="rect" id="node8" href="$esql__symbol__table_8c.html#a7767d9cfecfc56f2ad8ef41535d8cb68" title="pp_symbol_finish" alt="" coords="440,208,563,235"/>
+<area shape="rect" id="node10" href="$esql__misc_8h.html#a8ab7963dcca40a53e129bcd79cbfca58" title="pp_add_host_ref" alt="" coords="442,259,561,285"/>
+<area shape="rect" id="node11" href="$esql__host__variable_8c.html#a7603a56a3ef7af6a151c81c7ee826fe4" title="pp_add_struct_field_refs" alt="" coords="636,259,800,285"/>
+<area shape="rect" id="node12" href="$esql__misc_8h.html#a556bc9ef5c3150e1e0a7c9e7be4aa407" title="pp_free_host_ref" alt="" coords="442,360,561,387"/>
+</map>

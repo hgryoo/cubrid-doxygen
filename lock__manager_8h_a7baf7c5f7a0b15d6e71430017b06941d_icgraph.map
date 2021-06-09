@@ -1,0 +1,6 @@
+<map id="lock_demote_read_class_lock_for_checksumdb" name="lock_demote_read_class_lock_for_checksumdb">
+<area shape="rect" id="node2" href="$lock__manager_8h.html#a504786492af357a6a63b3b255364b4c6" title="lock_demote_class_lock" alt="" coords="233,42,398,69"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#ab21b6e3b0d4a2e3c6cb9736569fc66b8" title="xchksum_insert_repl\l_log_and_demote_table_lock" alt="" coords="220,93,411,135"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="487,5,617,47"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#ac2e34e4cec9ec7a7d4e8ccbfdc8557d6" title="xlocator_demote_class_lock" alt="" coords="459,71,645,98"/>
+</map>

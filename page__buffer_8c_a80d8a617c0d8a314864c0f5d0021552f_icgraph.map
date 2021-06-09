@@ -1,0 +1,5 @@
+<map id="pgbuf_compute_lru_vict_target" name="pgbuf_compute_lru_vict_target">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="213,39,344,80"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a7014e631a37bc9e0f7136303cbc78ae6" title="pgbuf_wakeup_page_flush\l_daemon" alt="" coords="392,5,568,47"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a06d2b0cbf44eb89ea6c4c9f068cf4344" title="pgbuf_get_page_flush\l_interval" alt="" coords="405,71,555,112"/>
+</map>

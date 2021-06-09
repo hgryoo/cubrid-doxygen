@@ -1,0 +1,11 @@
+<map id="lf_destroy_transaction_systems" name="lf_destroy_transaction_systems">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="204,157,363,184"/>
+<area shape="rect" id="node9" href="$lock__free_8h.html#a2f339994fbce9ba2c1a4db4c51d3dd6d" title="lf_initialize_transaction\l_systems" alt="" coords="206,234,361,275"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="632,81,783,108"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="640,321,775,348"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="414,107,574,133"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="625,157,789,184"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a6dc8b536b7d535d54c1471a87b76f2c2" title="xboot_delete" alt="" coords="659,237,755,264"/>
+<area shape="rect" id="node8" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="411,5,577,32"/>
+<area shape="rect" id="node10" href="$namespacecubthread.html#a896437648b59558b4995ee8898888a82" title="cubthread::initialize\l_thread_entries" alt="" coords="427,259,561,301"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="lang_get_Lang_name" name="lang_get_Lang_name">
+<area shape="rect" id="node2" href="$system__parameter_8c.html#a52fb22056571707425b9532f09ab4112" title="sysprm_generate_new\l_value" alt="" coords="207,56,360,97"/>
+<area shape="rect" id="node5" href="$system__parameter_8h.html#aa7e3ae5ce6f0fbbaceac275f8ac8f82a" title="sysprm_init_intl_param" alt="" coords="631,97,787,123"/>
+<area shape="rect" id="node6" href="$system__parameter_8h.html#ac7796181537381214e7eb913b58c45a0" title="sysprm_make_default\l_values" alt="" coords="208,173,359,215"/>
+<area shape="rect" id="node7" href="$system__parameter_8h.html#aa9ee0b35094bfa3ec8a832bfbb22d2c9" title="sysprm_print_parameters\l_for_ha_repl" alt="" coords="199,239,368,280"/>
+<area shape="rect" id="node8" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="212,305,355,331"/>
+<area shape="rect" id="node3" href="$system__parameter_8h.html#ac98d47f74e37f6645e2c28b25d7e6000" title="sysprm_validate_change\l_parameters" alt="" coords="416,5,583,47"/>
+<area shape="rect" id="node4" href="$system__parameter_8c.html#ad22fdde48ffe1d6d1d9a2630702d8acc" title="prm_set" alt="" coords="465,71,534,98"/>
+</map>

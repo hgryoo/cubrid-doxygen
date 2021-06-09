@@ -1,0 +1,10 @@
+<map id="la_log_io_read_with_max_retries" name="la_log_io_read_with_max_retries">
+<area shape="rect" id="node2" href="$log__applier_8c.html#acc0c686529a6be2f0554e86f0b03398f" title="la_get_range_of_archive" alt="" coords="189,56,352,83"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a0aaff7042c0765bd3eeff3d94545ce1b" title="la_log_fetch_from_archive" alt="" coords="589,5,764,32"/>
+<area shape="rect" id="node7" href="$log__applier_8c.html#a1918f50252225f719d3a08560bd55ee0" title="la_log_io_read" alt="" coords="418,107,523,133"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a90d88a6187c9ad197c3d656eb5a9b25d" title="la_find_archive_num" alt="" coords="400,56,541,83"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a248465451ddc5c3a07700d168cabdc6a" title="la_log_fetch" alt="" coords="833,157,925,184"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#a9180654b6a7f8977c97f70878cf57d3d" title="la_log_page_check" alt="" coords="812,56,945,83"/>
+<area shape="rect" id="node8" href="$log__applier_8c.html#a356d8f586d3fb420caf8609ac200ef4a" title="la_fetch_log_hdr" alt="" coords="618,208,735,235"/>
+<area shape="rect" id="node9" href="$log__applier_8c.html#ad5a706e248848d34a00e6ca2af571c10" title="la_find_log_pagesize" alt="" coords="605,56,748,83"/>
+</map>

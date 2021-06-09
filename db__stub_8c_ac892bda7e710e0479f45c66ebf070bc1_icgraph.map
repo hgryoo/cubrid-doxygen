@@ -1,0 +1,11 @@
+<map id="stmt_remove_error_info" name="stmt_remove_error_info">
+<area shape="rect" id="node2" href="$db__stub_8c.html#a51db83c6a29bd957aea0225ed9886f11" title="stmt_destroyf" alt="" coords="249,5,351,32"/>
+<area shape="rect" id="node4" href="$db__stub_8c.html#ab6dd11ba08b0b0486c25f266f40e9c75" title="stmt_exec_internal" alt="" coords="234,56,366,83"/>
+<area shape="rect" id="node6" href="$db__stub_8c.html#a316bbdc5f4f9519839b0c186665856e6" title="stmt_exec_one_statement" alt="" coords="212,107,388,133"/>
+<area shape="rect" id="node9" href="$db__stub_8c.html#a7fe6b2c90c8229bff396b2db348b9d39" title="stmt_prepare_internal" alt="" coords="227,191,373,217"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#abf3ea25208d2f7da5fa5c48aa5311e2d" title="init_stmt_structure" alt="" coords="454,5,585,32"/>
+<area shape="rect" id="node5" href="$db__stub_8c.html#a381b226695d8266638c5ced3e0c5a8e0" title="ci_stmt_execute_impl" alt="" coords="445,56,594,83"/>
+<area shape="rect" id="node7" href="$db__stub_8c.html#a6a8e8c6c8bf6d869965fdf339719a569" title="ci_stmt_next_result_impl" alt="" coords="436,107,603,133"/>
+<area shape="rect" id="node8" href="$db__stub_8c.html#abe02787bc523ce497d37fba501c6e3b6" title="stmt_exec_immediate\l_internal" alt="" coords="444,158,595,199"/>
+<area shape="rect" id="node10" href="$db__stub_8c.html#aab660177b0cbc0c9d8c7dc81dc805c4c" title="ci_stmt_prepare_impl" alt="" coords="446,224,593,251"/>
+</map>

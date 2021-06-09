@@ -1,0 +1,6 @@
+<map id="xlogtb_reset_isolation" name="xlogtb_reset_isolation">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#ad943c0c990a083abda14e12eaff3d749" title="log_reset_isolation" alt="" coords="210,5,341,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a0f2e4abc2968a7260ee9c31a0cf0dbab" title="slogtb_reset_isolation" alt="" coords="201,56,349,83"/>
+<area shape="rect" id="node3" href="$transaction__cl_8h.html#afde8cd66e1c6aedce52af70ec4da070a" title="tran_reset_isolation" alt="" coords="397,5,532,32"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="411,56,518,83"/>
+</map>

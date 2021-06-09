@@ -1,0 +1,12 @@
+<map id="log_2pc_make_global_tran_id" name="log_2pc_make_global_tran_id">
+<area shape="rect" id="node2" href="$log__2pc_8h.html#a401f2de61a2ae044dc3c206240f812b0" title="log_2pc_commit" alt="" coords="609,56,727,83"/>
+<area shape="rect" id="node6" href="$log__2pc_8h.html#af2c5ff4de2960082b02967e3999a97d5" title="log_2pc_send_abort\l_decision" alt="" coords="200,143,339,185"/>
+<area shape="rect" id="node10" href="$log__2pc_8h.html#aa4725b0242c5cf3438154de4beb4cc35" title="log_2pc_start" alt="" coords="219,241,319,268"/>
+<area shape="rect" id="node3" href="$log__2pc_8h.html#a6ae2e71f9ebb8789390c01087bb8e947" title="log_2pc_prepare_global_tran" alt="" coords="775,5,961,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a390852f8765cd90576d47d02ef0d10b6" title="log_commit" alt="" coords="823,56,913,83"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="831,107,905,133"/>
+<area shape="rect" id="node7" href="$log__2pc_8c.html#a8f0d3e711958d90183e5813a073b4696" title="log_2pc_commit_second\l_phase" alt="" coords="391,78,557,119"/>
+<area shape="rect" id="node8" href="$log__2pc_8c.html#acf5f3bbe0b21f92332c8b664cd39e251" title="log_2pc_recovery_abort\l_decision" alt="" coords="394,143,554,185"/>
+<area shape="rect" id="node9" href="$log__2pc_8c.html#a7d6a6b9fe0b6a28683b065fdc629f7da" title="log_2pc_recovery_aborted\l_informing_participants" alt="" coords="387,209,561,250"/>
+<area shape="rect" id="node11" href="$transaction__sr_8c.html#a38e8b303fd7357e1dbde58f4d7903420" title="xtran_server_2pc_start" alt="" coords="397,275,551,301"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sysprm_update_session_prm_flag_allocated" name="sysprm_update_session_prm_flag_allocated">
+<area shape="rect" id="node2" href="$system__parameter_8h.html#ad66188e5db158d26cf63412409313d82" title="sysprm_get_session\l_parameters_count" alt="" coords="228,5,371,47"/>
+<area shape="rect" id="node4" href="$system__parameter_8c.html#a29f727e670076ae114900fc05365ae17" title="sysprm_load_and_init\l_internal" alt="" coords="225,71,373,112"/>
+<area shape="rect" id="node5" href="$system__parameter_8h.html#a831240dc89e611cf2883e10855434cc9" title="sysprm_unpack_session\l_parameters" alt="" coords="216,136,383,177"/>
+<area shape="rect" id="node3" href="$session_8h.html#a0c58bb5074e391d5315cc522f813ae9d" title="session_get_session\l_parameter" alt="" coords="431,5,575,47"/>
+</map>

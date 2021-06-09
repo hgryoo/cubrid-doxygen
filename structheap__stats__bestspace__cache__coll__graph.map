@@ -1,0 +1,7 @@
+<map id="heap_stats_bestspace_cache" name="heap_stats_bestspace_cache">
+<area shape="rect" id="node2" href="$structmht__table.html" title="{mht_table\n|+ hash_func\l+ cmp_func\l+ name\l+ size\l+ rehash_at\l+ nentries\l+ nprealloc_entries\l+ ncollisions\l+ heap_id\l+ build_lru_list\l|}" alt="" coords="5,233,137,443"/>
+<area shape="rect" id="node3" href="$structhentry.html" title="{hentry\n|+ key\l+ data\l|}" alt="" coords="21,5,79,97"/>
+<area shape="rect" id="node4" href="$structheap__stats__entry.html" title="{heap_stats_entry\n||}" alt="" coords="183,299,306,377"/>
+<area shape="rect" id="node5" href="$structheap__bestspace.html" title="{heap_bestspace\n|+ freespace\l|}" alt="" coords="186,13,303,90"/>
+<area shape="rect" id="node6" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="327,13,392,90"/>
+</map>

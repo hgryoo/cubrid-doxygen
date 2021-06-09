@@ -1,0 +1,6 @@
+<map id="session_add_variable" name="session_add_variable">
+<area shape="rect" id="node2" href="$session_8h.html#a6ea36c371241fa4162b62e9a48c8627a" title="session_define_variable" alt="" coords="200,5,361,32"/>
+<area shape="rect" id="node4" href="$session_8h.html#ad85ad402f516a91f7029f423937242c8" title="session_set_session\l_variables" alt="" coords="209,57,353,98"/>
+<area shape="rect" id="node3" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="425,5,544,32"/>
+<area shape="rect" id="node5" href="$session__sr_8c.html#ac507b0cb18eddaaccf1bdb2ad797433e" title="xsession_set_session\l_variables" alt="" coords="409,57,560,98"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="pt_name_occurs_in_from_list" name="pt_name_occurs_in_from_list">
+<area shape="rect" id="node2" href="$view__transform_8c.html#abef3e640bf6ec40945cc98b4bb31f213" title="mq_regenerate_if_ambiguous" alt="" coords="249,132,441,159"/>
+<area shape="rect" id="node8" href="$name__resolution_8c.html#a5a68e55db8fcde8cfb48a055d78d0707" title="pt_get_unique_exposed_name" alt="" coords="245,208,444,235"/>
+<area shape="rect" id="node3" href="$query__rewrite_8c.html#a4b3aa0a9cadb50ab555a45756db384cd" title="qo_analyze_path_join" alt="" coords="518,5,665,32"/>
+<area shape="rect" id="node4" href="$semantic__check_8h.html#af050ef8ce873864b998ae6c827c7b72a" title="pt_insert_entity" alt="" coords="536,56,647,83"/>
+<area shape="rect" id="node5" href="$view__transform_8h.html#a68ddd22f6b7157c0be48c2440a897c8e" title="mq_make_derived_spec" alt="" coords="510,107,673,133"/>
+<area shape="rect" id="node6" href="$view__transform_8c.html#a888c0b5c3077809ceac3811bfa1ab567" title="mq_class_lambda" alt="" coords="528,157,655,184"/>
+<area shape="rect" id="node7" href="$view__transform_8c.html#a9bfaba2998d6b2eb5b639250002e27ae" title="mq_lambda_node" alt="" coords="529,208,653,235"/>
+<area shape="rect" id="node9" href="$name__resolution_8c.html#a3ca34961366092298e0962726d6525ba" title="pt_must_have_exposed_name" alt="" coords="492,259,691,285"/>
+</map>

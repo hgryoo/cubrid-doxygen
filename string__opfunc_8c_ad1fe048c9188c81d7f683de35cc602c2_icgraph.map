@@ -1,0 +1,6 @@
+<map id="bit_ncat" name="bit_ncat">
+<area shape="rect" id="node2" href="$string__opfunc_8c.html#a126b4522f7102aa1d7c6a1fc15d3b2b3" title="qstr_bit_coerce" alt="" coords="137,5,248,32"/>
+<area shape="rect" id="node4" href="$string__opfunc_8c.html#a9aed23f414c39d24c6d2cda282d3dc6d" title="qstr_bit_concatenate" alt="" coords="121,56,264,83"/>
+<area shape="rect" id="node3" href="$string__opfunc_8h.html#a231afe7bb5deb563044baad836a6b1f2" title="db_bit_string_coerce" alt="" coords="317,5,460,32"/>
+<area shape="rect" id="node5" href="$string__opfunc_8h.html#a807a395c4444a52498ffc96127d68436" title="db_string_concatenate" alt="" coords="312,56,465,83"/>
+</map>

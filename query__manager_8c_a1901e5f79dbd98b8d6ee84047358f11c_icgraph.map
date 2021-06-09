@@ -1,0 +1,6 @@
+<map id="qmgr_mark_query_as_completed" name="qmgr_mark_query_as_completed">
+<area shape="rect" id="node2" href="$query__manager_8c.html#acca53c25556757b153c16afc23f6ccd4" title="xqmgr_execute_query" alt="" coords="219,31,370,57"/>
+<area shape="rect" id="node5" href="$query__manager_8c.html#a55f2eab3bb1fa4d953fa300f40ff9708" title="xqmgr_prepare_and_execute\l_query" alt="" coords="200,82,389,123"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#af5588ff08bd4f5d52ccbf0219200ce0d" title="qmgr_execute_query" alt="" coords="441,5,584,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="437,56,588,83"/>
+</map>

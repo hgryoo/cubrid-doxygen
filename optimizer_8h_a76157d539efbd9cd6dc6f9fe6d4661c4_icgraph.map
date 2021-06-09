@@ -1,0 +1,8 @@
+<map id="qo_set_optimization_param" name="qo_set_optimization_param">
+<area shape="rect" id="node2" href="$csql_8c.html#a01764240757d2f8dd333fe32875523dc" title="csql_set_plan_dump" alt="" coords="193,5,334,32"/>
+<area shape="rect" id="node4" href="$csql_8c.html#ab34b6db3f30265df0d6363adae28a50e" title="csql_set_sys_param" alt="" coords="192,56,335,83"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#ad6516eb97445aa21f82e556c324343db" title="do_set_optimization\l_param" alt="" coords="194,107,333,149"/>
+<area shape="rect" id="node3" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="383,32,533,59"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="407,87,509,113"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="581,112,736,139"/>
+</map>

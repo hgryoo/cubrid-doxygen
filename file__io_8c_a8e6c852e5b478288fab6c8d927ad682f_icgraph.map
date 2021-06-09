@@ -1,0 +1,21 @@
+<map id="fileio_compensate_flush" name="fileio_compensate_flush">
+<area shape="rect" id="node2" href="$file__io_8h.html#a4571e2ee793cb5c067a638b4d23d0e49" title="fileio_synchronize_all" alt="" coords="216,284,363,311"/>
+<area shape="rect" id="node13" href="$file__io_8h.html#a61597c0696b4944261dadb90525296e9" title="fileio_write" alt="" coords="247,604,331,631"/>
+<area shape="rect" id="node20" href="$file__io_8h.html#a2951a1c5874f53c556ad42849d150d46" title="fileio_write_pages" alt="" coords="226,655,353,681"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8c.html#ab180db015df6cfbabb8c7e1692c00ab1" title="dwb_create_internal" alt="" coords="799,491,938,517"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#a11b879a757fb73fd1e78b9d0e052fd28" title="fileio_finish_restore" alt="" coords="435,360,569,387"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="785,309,952,336"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="654,309,725,336"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="455,5,549,32"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#ac92df3fb17efd887483ccf4616f20f27" title="log_rv_outside_noop_redo" alt="" coords="415,56,589,83"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#a850e6db878c034a88e735606f63fa477" title="logpb_remove_archive_logs" alt="" coords="411,107,593,133"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="441,208,563,235"/>
+<area shape="rect" id="node11" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="641,183,737,209"/>
+<area shape="rect" id="node12" href="$log__page__buffer_8c.html#a5d98688d5706fd68216d7931e5638a3b" title="logpb_fatal_error_internal" alt="" coords="419,259,585,285"/>
+<area shape="rect" id="node14" href="$double__write__buffer_8c.html#ad239ae8b08d1c10f627f2ada75eab28d" title="dwb_write_block" alt="" coords="443,781,561,808"/>
+<area shape="rect" id="node15" href="$file__io_8h.html#aac5112b555f5bd9b1d3233a42d3fd181" title="fileio_format" alt="" coords="643,520,736,547"/>
+<area shape="rect" id="node16" href="$file__io_8h.html#a52cc679b3a23afba6d84fedc94a25c8b" title="fileio_write_or_add\l_to_dwb" alt="" coords="437,513,567,554"/>
+<area shape="rect" id="node17" href="$file__io_8h.html#a0556d02a20dedd9f698cdb46ffa264b2" title="fileio_writev" alt="" coords="457,629,547,656"/>
+<area shape="rect" id="node18" href="$file__io_8c.html#a10164455761b62055fa2006bb4e53e9c" title="fileio_write_restore" alt="" coords="437,680,567,707"/>
+<area shape="rect" id="node19" href="$page__buffer_8c.html#a6ebdf1006f6b5bb49a3fc4c4f8f75e31" title="pgbuf_bcb_flush_with_wal" alt="" coords="415,731,589,757"/>
+</map>

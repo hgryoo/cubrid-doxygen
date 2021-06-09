@@ -1,0 +1,4 @@
+<map id="qo_check_subqueries_for_multi_range_opt" name="qo_check_subqueries_for_multi_range_opt">
+<area shape="rect" id="node2" href="$plan__generation_8c.html#a3470711dbdf1fc9ae87ecf799133e4a5" title="qo_check_iscan_for\l_multi_range_opt" alt="" coords="201,5,340,47"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#a82cfa5f4b039ab1cc94a7b66059f2802" title="qo_index_scan_new" alt="" coords="388,13,528,39"/>
+</map>

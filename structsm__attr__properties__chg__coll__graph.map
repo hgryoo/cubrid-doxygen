@@ -1,0 +1,5 @@
+<map id="sm_attr_properties_chg" name="sm_attr_properties_chg">
+<area shape="rect" id="node2" href="$structsm__constraint__info.html" title="{sm_constraint_info\n|+ name\l+ att_names\l+ asc_desc\l+ prefix_length\l+ ref_cls_name\l+ ref_attrs\l+ fk_delete_action\l+ fk_update_action\l+ constraint_type\l+ comment\l+ index_status\l|}" alt="" coords="87,204,221,428"/>
+<area shape="rect" id="node3" href="$structsm__predicate__info.html" title="{sm_predicate_info\n|+ pred_string\l+ pred_stream\l+ pred_stream_size\l+ att_ids\l+ num_attrs\l|}" alt="" coords="5,5,143,141"/>
+<area shape="rect" id="node4" href="$structsm__function__info.html" title="{sm_function_info\n|+ expr_str\l+ expr_stream\l+ expr_stream_size\l+ col_id\l+ attr_index_start\l|}" alt="" coords="167,5,304,141"/>
+</map>

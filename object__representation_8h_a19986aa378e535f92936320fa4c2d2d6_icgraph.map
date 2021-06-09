@@ -1,0 +1,16 @@
+<map id="or_put_offset" name="or_put_offset">
+<area shape="rect" id="node2" href="$transform__cl_8c.html#ac81b2c7073a8cac33ce951a3d727a2dd" title="attribute_to_disk" alt="" coords="362,139,481,166"/>
+<area shape="rect" id="node4" href="$transform__cl_8c.html#ad41fd78f7a855252f1db089aec2393be" title="domain_to_disk" alt="" coords="172,114,285,140"/>
+<area shape="rect" id="node5" href="$transform__cl_8c.html#ad691f008c1a726bda967447b3c906bc1" title="metharg_to_disk" alt="" coords="362,63,481,90"/>
+<area shape="rect" id="node6" href="$transform__cl_8c.html#a86620869dca802c0075268d1fe0551e1" title="methsig_to_disk" alt="" coords="559,38,676,64"/>
+<area shape="rect" id="node7" href="$transform__cl_8c.html#afae1dc57f5387c6e05852c7ecc53c3ac" title="repattribute_to_disk" alt="" coords="353,202,489,228"/>
+<area shape="rect" id="node8" href="$transform__cl_8c.html#abfd9c4047e8200dbc07125726b16338d" title="methfile_to_disk" alt="" coords="170,266,287,292"/>
+<area shape="rect" id="node9" href="$transform__cl_8c.html#a0fb64eec8dc9d36bca3c4ba7d6427868" title="method_to_disk" alt="" coords="171,316,286,343"/>
+<area shape="rect" id="node10" href="$transform__cl_8c.html#a61c6bb9908b96a3c91c2269f4fa832ce" title="partition_info_to_disk" alt="" coords="156,367,301,394"/>
+<area shape="rect" id="node11" href="$transform__cl_8c.html#a2940e3e297539042269fc3fe34dda2f6" title="put_class_varinfo" alt="" coords="167,418,291,444"/>
+<area shape="rect" id="node12" href="$transform__cl_8c.html#aa9ccd5a779e443604481794ab4a2fdbf" title="query_spec_to_disk" alt="" coords="159,468,298,495"/>
+<area shape="rect" id="node13" href="$transform__cl_8c.html#a3590c3824e64e09e183d98422fc30143" title="representation_to_disk" alt="" coords="152,519,305,546"/>
+<area shape="rect" id="node14" href="$transform__cl_8c.html#ae32013a24fbf7495c87da82985934265" title="resolution_to_disk" alt="" coords="165,570,292,596"/>
+<area shape="rect" id="node15" href="$transform__cl_8c.html#a7e70c3d6d30f40a9c0305602b99cc1cd" title="root_to_disk" alt="" coords="182,620,275,647"/>
+<area shape="rect" id="node3" href="$transform__cl_8c.html#a6eaa1481ec0fce9662449ab5e11b2981" title="attribute_to_disk_lwriter" alt="" coords="537,139,697,166"/>
+</map>

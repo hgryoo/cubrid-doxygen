@@ -1,0 +1,21 @@
+<map id="shard_shm_find_shard_info" name="shard_shm_find_shard_info">
+<area shape="rect" id="node2" href="$broker__admin__pub_8h.html#a68128996505cf879bc8a0a6c35b7c978" title="admin_reset_cmd" alt="" coords="475,12,601,38"/>
+<area shape="rect" id="node4" href="$broker_8c.html#a3129ca5090c76a34f0f0f2f65b7f6008" title="cas_monitor_worker" alt="" coords="261,62,400,89"/>
+<area shape="rect" id="node6" href="$broker__admin__pub_8c.html#afba75c5e94eb6d3702322c08b270810d" title="check_shard_conn" alt="" coords="265,113,396,140"/>
+<area shape="rect" id="node8" href="$broker__monitor_8c.html#abb2e5e0380a1939d498f1a7554c017d4" title="metadata_monitor" alt="" coords="267,164,394,190"/>
+<area shape="rect" id="node9" href="$broker__admin__pub_8c.html#aeed02a2cc9e86f364bdb4877b0251a76" title="proxy_activate_internal" alt="" coords="253,214,409,241"/>
+<area shape="rect" id="node10" href="$shard__proxy__io_8h.html#a15000b04c6ba893eb7893965e30d1c9c" title="proxy_available_cas\l_wait_timer" alt="" coords="261,266,401,307"/>
+<area shape="rect" id="node11" href="$shard__proxy__io_8c.html#a12b4b38cf31802e5b1ef98cc9b41c206" title="proxy_client_add_waiter\l_by_shard" alt="" coords="249,331,412,372"/>
+<area shape="rect" id="node12" href="$shard__proxy__io_8c.html#a2f5b0bb4bfc63dbc27c2c1d518cec952" title="proxy_client_check\l_waiter_and_wakeup" alt="" coords="259,396,403,438"/>
+<area shape="rect" id="node13" href="$shard__proxy__io_8h.html#a54d91ee9d8b7adc003300a1574bf5bb5" title="proxy_convert_error_code" alt="" coords="245,462,417,489"/>
+<area shape="rect" id="node14" href="$shard__proxy__io_8c.html#aeb394f10e41439a9f26be84334905838" title="proxy_shard_io_initialize" alt="" coords="249,513,413,540"/>
+<area shape="rect" id="node15" href="$broker_8c.html#a914f00f785ce2015c98b7d3ea1ed176d" title="shard_broker_process" alt="" coords="255,564,406,590"/>
+<area shape="rect" id="node16" href="$broker__admin__pub_8c.html#a233c8f9c21bf797ec08de1f6fa9b877b" title="shard_shm_check_max\l_file_open_limit" alt="" coords="251,615,411,656"/>
+<area shape="rect" id="node17" href="$shard__shm_8c.html#a8e6274b65947dafc551843bcf9f4a98d" title="shard_shm_dump_proxy_info" alt="" coords="235,681,427,708"/>
+<area shape="rect" id="node18" href="$shard__shm_8h.html#aacdfc8de86a7869f1d5b11831701c897" title="shard_shm_get_as_info" alt="" coords="251,732,411,758"/>
+<area shape="rect" id="node19" href="$broker__admin__pub_8c.html#a74c3c54a1e4868ca8c501a3e125d3082" title="shard_shm_set_param\l_as_in_shard" alt="" coords="253,783,408,824"/>
+<area shape="rect" id="node20" href="$shard__statement_8h.html#af77fe89a17aa1d70f2c3484b5ad5b548" title="shard_stmt_initialize" alt="" coords="260,849,401,876"/>
+<area shape="rect" id="node3" href="$broker__admin_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="649,62,700,89"/>
+<area shape="rect" id="node5" href="$broker_8c.html#a15e643aa0115b311014b2502179c3346" title="cas_monitor_thr_f" alt="" coords="475,62,601,89"/>
+<area shape="rect" id="node7" href="$broker__admin__pub_8h.html#a21e0332265b07017b4f3211c3f455640" title="admin_on_cmd" alt="" coords="483,113,593,140"/>
+</map>

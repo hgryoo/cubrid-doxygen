@@ -1,0 +1,10 @@
+<map id="proxy_context_send_error" name="proxy_context_send_error">
+<area shape="rect" id="node2" href="$shard__proxy__handler_8h.html#a86838f575fd30c5fbbd1af7a5f3f577c" title="proxy_context_timeout" alt="" coords="193,35,347,61"/>
+<area shape="rect" id="node4" href="$shard__proxy__handler_8c.html#a65116d4672d3cc719268d92190b7639d" title="proxy_handler_process\l_client_request" alt="" coords="192,115,348,157"/>
+<area shape="rect" id="node8" href="$shard__proxy__io_8c.html#aa25007bf6d21e907333698fdca35ab77" title="proxy_process_client\l_register" alt="" coords="197,210,343,251"/>
+<area shape="rect" id="node3" href="$shard__proxy__handler_8h.html#a78c628da2868a1445fe48e8752446ebd" title="proxy_waiter_timeout" alt="" coords="422,5,569,32"/>
+<area shape="rect" id="node5" href="$shard__proxy__handler_8c.html#a408a8b358cd2ec49dac7d9e4f0e2c5bc" title="proxy_handler_process\l_client_wakeup_by_shard" alt="" coords="409,57,581,98"/>
+<area shape="rect" id="node6" href="$shard__proxy__handler_8c.html#a6d513c07af9d66835ec7ca81ab90bc16" title="proxy_handler_process\l_client_event" alt="" coords="643,115,799,157"/>
+<area shape="rect" id="node7" href="$shard__proxy__handler_8c.html#a796f6ce0e69f8a554ae5329ce5a9e007" title="proxy_handler_process\l_client_wakeup_by_statement" alt="" coords="396,174,595,215"/>
+<area shape="rect" id="node9" href="$shard__proxy__io_8c.html#a455a2c4280cb0ced607a986645d0e60a" title="proxy_process_client\l_message" alt="" coords="423,239,568,281"/>
+</map>

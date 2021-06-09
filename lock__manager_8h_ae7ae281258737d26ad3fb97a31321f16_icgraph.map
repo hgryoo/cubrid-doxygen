@@ -1,0 +1,21 @@
+<map id="lock_has_lock_on_object" name="lock_has_lock_on_object">
+<area shape="rect" id="node2" href="$btree_8c.html#a9ad0cd23e6c5c5ddc1faa841f9d703d4" title="btree_check_locking\l_for_delete_unique" alt="" coords="231,13,373,55"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a1ba85b1d321fbbc22bd3697e63484ff3" title="btree_check_locking\l_for_insert_unique" alt="" coords="231,165,373,207"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a38375397bff59ceba84c8f7680593da6" title="btree_fk_object_does\l_exist" alt="" coords="446,224,593,265"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a4a29f5f9816e9307055792dc57d9ae84" title="btree_key_find_and\l_lock_unique_of_non\l_unique" alt="" coords="447,289,591,345"/>
+<area shape="rect" id="node9" href="$btree_8c.html#aba9c5ef479403d77f7f91c985f1128a6" title="btree_key_find_and\l_lock_unique_of_unique" alt="" coords="221,85,383,127"/>
+<area shape="rect" id="node10" href="$classcubload_1_1server__object__loader.html#a59e168f3f9d0312d95c9fe90786e5729" title="cubload::server_object\l_loader::flush_records" alt="" coords="443,677,596,719"/>
+<area shape="rect" id="node11" href="$heap__file_8h.html#a2227d0baf96c8e9ee396fcb52ecd3c73" title="heap_check_heap_file" alt="" coords="227,571,377,598"/>
+<area shape="rect" id="node14" href="$heap__file_8h.html#abdeca500518e856f5c4176f920385e52" title="heap_insert_logical" alt="" coords="453,369,586,395"/>
+<area shape="rect" id="node15" href="$classcubload_1_1server__object__loader.html#ad7db4de72da6a9bb5545cebb83646b32" title="cubload::server_object\l_loader::init" alt="" coords="225,740,379,781"/>
+<area shape="rect" id="node16" href="$locator__sr_8h.html#a04d5e2ed684cc4d2b3e5a09765fb88de" title="locator_multi_insert\l_force" alt="" coords="235,623,369,664"/>
+<area shape="rect" id="node17" href="$locator__sr_8c.html#aa94a327f45350804b2066385650abc9b" title="locator_update_force" alt="" coords="448,470,591,497"/>
+<area shape="rect" id="node18" href="$lock__manager_8h.html#acc77f13f546277ed248b934db78ba717" title="lock_object" alt="" coords="258,419,346,446"/>
+<area shape="rect" id="node20" href="$btree_8c.html#ad40756f7c8c28e6a45092d3df8ac03b8" title="xbtree_find_unique" alt="" coords="454,521,585,547"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a362a4d222b53ff74e31f9994532fe8a2" title="btree_key_delete_remove\l_object" alt="" coords="434,5,605,47"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a5af8ba4607057c98ad45f0d91b6f7160" title="btree_key_insert_new_key" alt="" coords="431,173,608,199"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a138d6474a32b948d3bc2f23712620cb2" title="btree_key_lock_and\l_append_object_unique" alt="" coords="656,115,815,156"/>
+<area shape="rect" id="node12" href="$heap__file_8h.html#af800f3bfd7690fa522c15142c2486142" title="heap_check_all_heaps" alt="" coords="442,622,597,649"/>
+<area shape="rect" id="node13" href="$boot__sr_8c.html#a70167f3572fd39fae0ddc463c682de15" title="xboot_checkdb_table" alt="" coords="447,571,592,598"/>
+<area shape="rect" id="node19" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="445,419,594,446"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="dwb_remove_wait_queue_entry" name="dwb_remove_wait_queue_entry">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#a56c95efd3338a9c6905b76749cbb76e8" title="dwb_signal_waiting\l_threads" alt="" coords="232,67,367,109"/>
+<area shape="rect" id="node6" href="$double__write__buffer_8c.html#a63a546f3bd2182d9b4e0ead2aa4e6251" title="dwb_wait_for_block\l_completion" alt="" coords="231,217,368,258"/>
+<area shape="rect" id="node9" href="$double__write__buffer_8c.html#a83874b2343c29141d5349aa14526ffde" title="dwb_wait_for_strucure\l_modification" alt="" coords="223,151,376,193"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8c.html#a06c2607303b0027cafce0d4effb81c84" title="dwb_destroy_wait_queue" alt="" coords="437,5,606,32"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8c.html#a0b1fd6e9690b9cf438dee9b2bc1e6c8a" title="dwb_signal_block_completion" alt="" coords="424,56,619,83"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8c.html#a0f85e555d9aaa46c19176d11ab451088" title="dwb_signal_structure\l_modificated" alt="" coords="449,107,594,149"/>
+<area shape="rect" id="node7" href="$double__write__buffer_8c.html#aca527d0257d80e110577c000d35a8d97" title="dwb_acquire_next_slot" alt="" coords="444,224,599,251"/>
+<area shape="rect" id="node8" href="$double__write__buffer_8h.html#a38ef0589ebaadb13a11f9bdf6ec322c7" title="dwb_flush_force" alt="" coords="463,173,580,200"/>
+</map>

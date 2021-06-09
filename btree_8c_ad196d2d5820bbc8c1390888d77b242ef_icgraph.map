@@ -1,0 +1,9 @@
+<map id="btree_overflow_remove_object" name="btree_overflow_remove_object">
+<area shape="rect" id="node2" href="$btree_8c.html#adf1bd654887894d2f540f448678e2f28" title="btree_key_remove_object" alt="" coords="211,177,381,203"/>
+<area shape="rect" id="node7" href="$btree_8c.html#abb588d6393e8a8038772b43021ec89bd" title="btree_key_remove_object\l_and_keep_visible_first" alt="" coords="429,267,600,308"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a748a60d980be800bbef3524a564d3fc0" title="btree_replace_first\l_oid_with_ovfl_oid" alt="" coords="231,285,361,327"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a362a4d222b53ff74e31f9994532fe8a2" title="btree_key_delete_remove\l_object" alt="" coords="429,5,600,47"/>
+<area shape="rect" id="node4" href="$btree_8c.html#ad4120a97c500c3e5925d571c3baf09c1" title="btree_key_online_index\l_IB_insert" alt="" coords="435,71,594,112"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a0c69fa8afd6c6bad66e5f29a21e8b664" title="btree_key_online_index\l_tran_delete" alt="" coords="435,136,594,177"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a52840a60a1039d18a0a43d49b7411a9a" title="btree_key_online_index\l_tran_insert_DF" alt="" coords="435,201,594,243"/>
+</map>

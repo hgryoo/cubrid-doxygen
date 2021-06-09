@@ -1,0 +1,5 @@
+<map id="rs_destroyf" name="rs_destroyf">
+<area shape="rect" id="node2" href="$db__stub_8c.html#a9e3534574c054cee64ba33e622093588" title="init_resultset_structure" alt="" coords="140,31,295,57"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#ab6dd11ba08b0b0486c25f266f40e9c75" title="stmt_exec_internal" alt="" coords="365,5,497,32"/>
+<area shape="rect" id="node4" href="$db__stub_8c.html#a316bbdc5f4f9519839b0c186665856e6" title="stmt_exec_one_statement" alt="" coords="343,56,519,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ha_concat_db_and_host" name="ha_concat_db_and_host">
+<area shape="rect" id="node2" href="$util__service_8c.html#a9c569ca1f115a6f4ed685d0584f031ff" title="us_hb_applylogdb_start" alt="" coords="216,157,375,184"/>
+<area shape="rect" id="node3" href="$util__service_8c.html#a50f6edf3b6ca9d910887a4d44c2ffbf2" title="us_hb_applylogdb_stop" alt="" coords="431,81,590,108"/>
+<area shape="rect" id="node7" href="$util__service_8c.html#ad38e2e7d29bbafe8dc0a9909fac9470c" title="us_hb_copylogdb_start" alt="" coords="217,107,373,133"/>
+<area shape="rect" id="node9" href="$util__service_8c.html#a9aac5bc9dfd4b2c0f3014d56eae912e1" title="us_hb_copylogdb_stop" alt="" coords="218,5,373,32"/>
+<area shape="rect" id="node5" href="$util__service_8c.html#a600189435f4fb288aa3a8ec9d67fd60a" title="us_hb_process_applylogdb" alt="" coords="647,120,825,147"/>
+<area shape="rect" id="node6" href="$util__service_8c.html#a72d07de25278f292f37d040a43357784" title="us_hb_process_start" alt="" coords="439,132,582,159"/>
+<area shape="rect" id="node4" href="$util__service_8c.html#a5a46ff9266676e86ed6a38fcda91a0e0" title="us_hb_process_stop" alt="" coords="665,44,807,71"/>
+<area shape="rect" id="node8" href="$util__service_8c.html#ab8df63b9a64a2df5043964ad46232e20" title="us_hb_process_copylogdb" alt="" coords="423,31,599,57"/>
+</map>

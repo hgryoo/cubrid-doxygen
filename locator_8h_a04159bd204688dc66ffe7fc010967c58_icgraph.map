@@ -1,0 +1,13 @@
+<map id="locator_clear_oid_set" name="locator_clear_oid_set">
+<area shape="rect" id="node2" href="$load__sa__loader_8cpp.html#a555f3bf9d675006f81a7e6e1489620fe" title="ldr_assign_all_perm_oids" alt="" coords="396,64,564,91"/>
+<area shape="rect" id="node6" href="$locator__cl_8c.html#a042cf606b12c1f7f2ca71fd23ce78cbe" title="locator_add_to_oidset\l_when_temp_oid" alt="" coords="199,115,348,157"/>
+<area shape="rect" id="node8" href="$locator_8h.html#ab94ed8645c5349a739232e38b717f7d4" title="locator_free_oid_set" alt="" coords="204,181,343,208"/>
+<area shape="rect" id="node3" href="$load__sa__loader_8cpp.html#a0726e05a448539f3433a6387bdac7e6f" title="check_commit" alt="" coords="627,5,734,32"/>
+<area shape="rect" id="node4" href="$classcubload_1_1sa__object__loader.html#a8a6c945de603337f5be66791eb05f554" title="cubload::sa_object\l_loader::finish_line" alt="" coords="615,57,746,98"/>
+<area shape="rect" id="node5" href="$load__sa__loader_8cpp.html#a8bd9b94300dfb07ce334162f90c37073" title="ldr_finish_context" alt="" coords="619,123,743,149"/>
+<area shape="rect" id="node7" href="$locator__cl_8h.html#ac9c385d791975c7c8603cc0626723aae" title="locator_assign_all\l_permanent_oids" alt="" coords="417,115,543,157"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#a7063178f65a09d2b784bd9ae76663569" title="slocator_assign_oid\l_batch" alt="" coords="612,305,749,346"/>
+<area shape="rect" id="node10" href="$set__object_8h.html#ac7f17820da488a80242541a4e1c3471a" title="col_permanent_oids" alt="" coords="411,181,549,208"/>
+<area shape="rect" id="node11" href="$transform__cl_8c.html#a936aaf0ab118c589ebcc08ac9dd3b06b" title="tf_free_fixup" alt="" coords="433,232,527,259"/>
+<area shape="rect" id="node12" href="$locator_8h.html#aa8305f9e98a2f2d5aa2ae8117a7ad523" title="locator_unpack_oid\l_set_to_new" alt="" coords="413,334,547,375"/>
+</map>

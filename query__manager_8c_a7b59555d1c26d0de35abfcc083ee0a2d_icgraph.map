@@ -1,0 +1,8 @@
+<map id="qmgr_allocate_query_entry" name="qmgr_allocate_query_entry">
+<area shape="rect" id="node2" href="$query__manager_8h.html#a99f3abfeb89f2d173d999bfcace969e4" title="qmgr_get_query_entry" alt="" coords="215,56,366,83"/>
+<area shape="rect" id="node6" href="$query__manager_8c.html#acca53c25556757b153c16afc23f6ccd4" title="xqmgr_execute_query" alt="" coords="215,107,366,133"/>
+<area shape="rect" id="node7" href="$query__manager_8c.html#a55f2eab3bb1fa4d953fa300f40ff9708" title="xqmgr_prepare_and_execute\l_query" alt="" coords="196,158,385,199"/>
+<area shape="rect" id="node3" href="$list__file_8c.html#adb3850a2326a1b197e8fd8fa79ac7311" title="xqfile_get_list_file_page" alt="" coords="433,5,595,32"/>
+<area shape="rect" id="node4" href="$query__manager_8h.html#a154d5fc386ea2125b3a392aa4869b301" title="qmgr_set_query_error" alt="" coords="440,56,588,83"/>
+<area shape="rect" id="node5" href="$query__manager_8h.html#a6a7fca675c22030e25a6b5c875068510" title="qmgr_get_query_sql\l_user_text" alt="" coords="445,107,583,149"/>
+</map>

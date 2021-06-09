@@ -1,0 +1,5 @@
+<map id="ldr_act_init_context" name="ldr_act_init_context">
+<area shape="rect" id="node2" href="$classcubload_1_1sa__class__installer.html#af5d0e14ddd2ffd64acf4f7355f85fe02" title="cubload::sa_class_installer\l::install_class" alt="" coords="188,5,367,47"/>
+<area shape="rect" id="node3" href="$load__sa__loader_8cpp.html#af41b16fc6c7965267350c2502f2bde99" title="ldr_init_loader" alt="" coords="226,71,329,98"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#a94a70fc22bd9f15528faa7100c0336f9" title="ldr_init" alt="" coords="415,71,475,98"/>
+</map>

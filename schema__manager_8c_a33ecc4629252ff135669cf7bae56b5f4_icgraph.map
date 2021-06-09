@@ -1,0 +1,10 @@
+<map id="sm_free_resident_classes_virtual_query_cache" name="sm_free_resident_classes_virtual_query_cache">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#ad12b4fb9779983b783876760d6ad4a24" title="sm_final" alt="" coords="278,61,349,88"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#a3b0219c9ad80cc2dad107a148290edcb" title="sm_transaction_boundary" alt="" coords="228,141,399,168"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="648,25,787,52"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="653,76,782,102"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="447,25,600,52"/>
+<area shape="rect" id="node7" href="$transaction__cl_8h.html#a901b4a89a27aa3bc5c8ffdcc1f9e3150" title="tran_commit" alt="" coords="476,126,571,153"/>
+<area shape="rect" id="node8" href="$transaction__cl_8h.html#a1d5ef42a794f24bbb7d41f3eaf164e8f" title="tran_abort" alt="" coords="483,244,563,270"/>
+<area shape="rect" id="node9" href="$transaction__cl_8h.html#a62d23d4ee828236473e300945ab38221" title="tran_internal_abort\l_upto_savepoint" alt="" coords="459,178,588,219"/>
+</map>

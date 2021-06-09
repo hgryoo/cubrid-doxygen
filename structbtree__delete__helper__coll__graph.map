@@ -1,0 +1,12 @@
+<map id="btree_delete_helper" name="btree_delete_helper">
+<area shape="rect" id="node2" href="$classbtree__unique__stats.html" title="{btree_unique_stats\n|&#45; m_rows\l&#45; m_keys\l&#45; m_nulls\l|+ btree_unique_stats()\l+ btree_unique_stats()\l+ get_key_count()\l+ get_row_count()\l+ get_null_count()\l+ insert_key_and_row()\l+ insert_null_and_row()\l+ add_row()\l+ delete_key_and_row()\l+ delete_null_and_row()\l+ delete_row()\l+ is_zero()\l+ is_unique()\l+ operator=()\l+ operator+=()\l+ operator&#45;=()\l+ to_string()\l}" alt="" coords="5,189,167,531"/>
+<area shape="rect" id="node3" href="$structSHA1Hash.html" title="{SHA1Hash\n|+ h\l|}" alt="" coords="191,321,279,399"/>
+<area shape="rect" id="node4" href="$structor__buf.html" title="{or_buf\n|+ buffer\l+ ptr\l+ endptr\l+ env\l+ error_abort\l|}" alt="" coords="303,292,399,428"/>
+<area shape="rect" id="node5" href="$structor__fixup.html" title="{or_fixup\n||}" alt="" coords="317,20,385,97"/>
+<area shape="rect" id="node6" href="$structlog__data__addr.html" title="{log_data_addr\n|+ pgptr\l+ offset\l|+ log_data_addr()\l+ log_data_addr()\l}" alt="" coords="423,307,546,413"/>
+<area shape="rect" id="node7" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="454,13,515,105"/>
+<area shape="rect" id="node8" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="571,241,676,479"/>
+<area shape="rect" id="node9" href="$structbtree__mvcc__info.html" title="{btree_mvcc_info\n|+ flags\l+ insert_mvccid\l+ delete_mvccid\l|}" alt="" coords="715,5,833,112"/>
+<area shape="rect" id="node10" href="$structbtree__object__info.html" title="{btree_object_info\n||}" alt="" coords="859,321,980,399"/>
+<area shape="rect" id="node11" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="873,5,965,112"/>
+</map>

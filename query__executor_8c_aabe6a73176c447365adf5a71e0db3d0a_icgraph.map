@@ -1,0 +1,5 @@
+<map id="qexec_init_next_partition" name="qexec_init_next_partition">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a6069afab32f23903fd3a8d1105a3d19e" title="qexec_next_scan_block" alt="" coords="220,42,383,69"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a7a02780c41945102d789c5c730c3fe9a" title="qexec_next_scan_block\l_iterations" alt="" coords="431,5,593,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#aae780f3598f8e002d08caef216a1c5b4" title="qexec_merge_fnc" alt="" coords="449,71,575,98"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="attr_val" name="attr_val">
+<area shape="rect" id="node2" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="128,615,225,693"/>
+<area shape="rect" id="node3" href="$uniondb__domain__info.html" title="{db_domain_info\n||}" alt="" coords="5,395,119,472"/>
+<area shape="rect" id="node4" href="$uniondb__data.html" title="{db_data\n|+ i\l+ sh\l+ bigint\l+ f\l+ d\l+ p\l+ time\l+ date\l+ utime\l+ error\l+ rset\l|}" alt="" coords="143,321,211,545"/>
+<area shape="rect" id="node5" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="223,5,397,259"/>
+<area shape="rect" id="node6" href="$structsm__descriptor.html" title="{sm_descriptor\n|+ name\l+ name_space\l|}" alt="" coords="279,608,387,700"/>
+<area shape="rect" id="node7" href="$structsm__descriptor__list.html" title="{sm_descriptor_list\n|+ write_access\l|}" alt="" coords="359,395,487,472"/>
+<area shape="rect" id="node8" href="$structsm__validation.html" title="{sm_validation\n|+ last_type\l+ last_precision\l+ last_scale\l|}" alt="" coords="573,380,687,487"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="logpb_dismount_log_archive" name="logpb_dismount_log_archive">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="200,22,368,49"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="223,342,345,369"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#ac0cf574979e19ca9286ba21b23b482fa" title="logpb_decache_archive_info" alt="" coords="191,292,377,318"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html#a850e6db878c034a88e735606f63fa477" title="logpb_remove_archive_logs" alt="" coords="643,73,825,100"/>
+<area shape="rect" id="node14" href="$log__page__buffer_8c.html#a45020463486a6bde25e2428528cb5654" title="logpb_delete" alt="" coords="237,393,331,420"/>
+<area shape="rect" id="node15" href="$log__page__buffer_8c.html#aca52bf7ea3cda88146355cbbbf9a4d87" title="logpb_find_oldest_available\l_page_id" alt="" coords="193,444,375,486"/>
+<area shape="rect" id="node17" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="195,510,373,551"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="873,22,976,49"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a978997a75ba311ff9ab0e14bb43100e5" title="logpb_next_append_page" alt="" coords="425,22,595,49"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="475,342,545,369"/>
+<area shape="rect" id="node9" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="462,393,558,420"/>
+<area shape="rect" id="node7" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="669,241,799,268"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="663,342,805,369"/>
+<area shape="rect" id="node11" href="$log__recovery_8c.html#a6e4cb0fa20df20ef22e01e5bae16b885" title="log_recovery_resetlog" alt="" coords="435,241,585,268"/>
+<area shape="rect" id="node12" href="$log__page__buffer_8c.html#afa331753cdb3a068631690da37a47d6e" title="logpb_remove_archive\l_logs_internal" alt="" coords="434,124,586,166"/>
+<area shape="rect" id="node16" href="$log__writer_8h.html#af1e1368d8e63a233e503b44c7cad4f4e" title="logwr_log_ha_filestat\l_to_string" alt="" coords="438,444,582,486"/>
+</map>

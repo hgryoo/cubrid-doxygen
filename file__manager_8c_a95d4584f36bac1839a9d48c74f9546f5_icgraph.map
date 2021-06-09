@@ -1,0 +1,13 @@
+<map id="file_extdata_search_item" name="file_extdata_search_item">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a12556c033545ba1fd43da7be7c2f9d61" title="file_check_vpid" alt="" coords="251,93,363,120"/>
+<area shape="rect" id="node7" href="$file__manager_8h.html#a67263eaf010a14799dbb1527f9a1327d" title="file_dealloc" alt="" coords="264,144,351,171"/>
+<area shape="rect" id="node8" href="$file__manager_8c.html#a809af1534543d29a6f24183047377085" title="file_perm_dealloc" alt="" coords="246,195,369,221"/>
+<area shape="rect" id="node9" href="$file__manager_8h.html#acb67bc8b4ea65512b9abfac9cb9e3a7e" title="file_rv_user_page_unmark\l_delete_logical" alt="" coords="220,246,395,287"/>
+<area shape="rect" id="node10" href="$file__manager_8c.html#a7b1a9360526c4418f2baa40528f180dc" title="file_tracker_apply\l_to_file" alt="" coords="245,311,369,353"/>
+<area shape="rect" id="node12" href="$file__manager_8h.html#ac14281a291626798b900e0f1536a620c" title="file_tracker_interruptable\l_iterate" alt="" coords="225,377,389,418"/>
+<area shape="rect" id="node3" href="$btree_8c.html#aaf6c3062cf639de8e75ce72e5ed9557e" title="btree_check_pages" alt="" coords="453,5,587,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a74f90f3011a14028be61f651827805d1" title="heap_check_all_pages\l_by_heapchain" alt="" coords="443,57,597,98"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a6c8e6a7c0e058271191fd35091b687f3" title="heap_check_all_pages" alt="" coords="645,93,800,120"/>
+<area shape="rect" id="node6" href="$system__catalog_8c.html#a052edf9ef6cd117282524a536245a4d2" title="catalog_check_class\l_consistency" alt="" coords="448,174,592,215"/>
+<area shape="rect" id="node11" href="$file__manager_8h.html#aafe6309c643959bb5ec0a5b4e4f35884" title="file_rv_tracker_mark\l_heap_deleted" alt="" coords="450,311,590,353"/>
+</map>

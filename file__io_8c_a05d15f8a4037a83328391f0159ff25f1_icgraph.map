@@ -1,0 +1,9 @@
+<map id="fileio_is_system_volume_descriptor_equal" name="fileio_is_system_volume_descriptor_equal">
+<area shape="rect" id="node2" href="$file__io_8c.html#af48f5d6e407feaa0f2aa356b1a55ce74" title="fileio_get_lockf_type" alt="" coords="415,8,556,35"/>
+<area shape="rect" id="node5" href="$file__io_8c.html#a554de8378a7521353faf914373e9cd42" title="fileio_get_volume_id" alt="" coords="219,96,359,123"/>
+<area shape="rect" id="node7" href="$file__io_8c.html#aca6d2f0fa8db31627a725fcb74139310" title="pwrite_with_injected\l_fault" alt="" coords="621,174,761,215"/>
+<area shape="rect" id="node3" href="$file__io_8h.html#a7ecce4d4e9da240bf6a6ff7e1db94834" title="fileio_dismount" alt="" coords="637,5,746,32"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#a8cf259ab943265dcde2b40f55227a8c6" title="fileio_dismount_without\l_fsync" alt="" coords="612,57,771,98"/>
+<area shape="rect" id="node6" href="$file__io_8h.html#a83b8cfea9740f8a406990894c4974b44" title="fileio_get_volume_label\l_by_fd" alt="" coords="407,59,564,101"/>
+<area shape="rect" id="node8" href="$file__io_8h.html#a4571e2ee793cb5c067a638b4d23d0e49" title="fileio_synchronize_all" alt="" coords="618,123,765,149"/>
+</map>

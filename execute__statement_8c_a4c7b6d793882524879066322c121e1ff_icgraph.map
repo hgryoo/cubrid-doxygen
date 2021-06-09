@@ -1,0 +1,8 @@
+<map id="do_rollback" name="do_rollback">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#a6544008aa1b341b93a0f8f80361f982f" title="do_alter" alt="" coords="191,56,259,83"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="356,5,457,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="505,56,660,83"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#aac7e83e571187b137070fed87a9b6191" title="do_alter_index_comment" alt="" coords="141,157,308,184"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#afcf7ed75c00d62f9572625c130721e19" title="do_alter_index_rebuild" alt="" coords="149,208,300,235"/>
+<area shape="rect" id="node7" href="$execute__schema_8c.html#a2ff5d42d982116da47c78bc1dc95a337" title="do_alter_index_status" alt="" coords="150,259,299,285"/>
+</map>

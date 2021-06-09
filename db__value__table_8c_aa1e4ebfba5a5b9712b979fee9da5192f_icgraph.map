@@ -1,0 +1,9 @@
+<map id="xoid2oid" name="xoid2oid">
+<area shape="rect" id="node2" href="$db__object_8c.html#aa6194cb50fe2c57abe0aa3705a58f080" title="orp_api_get_object\l_resultset" alt="" coords="138,5,269,47"/>
+<area shape="rect" id="node4" href="$db__object_8c.html#a643a75a453316c1f83e434d68c60a244" title="orp_oid_delete" alt="" coords="150,71,257,98"/>
+<area shape="rect" id="node5" href="$db__object_8c.html#a1392f9d1f9dc7f4527a237cecb730cc0" title="orp_oid_get_classname" alt="" coords="124,122,283,149"/>
+<area shape="rect" id="node6" href="$db__value__table_8c.html#aa9a789deca402677a794455213dc5372" title="value_to_db_value" alt="" coords="138,173,269,199"/>
+<area shape="rect" id="node3" href="$db__stub_8h.html#a151573e562acfa96b7c152a3e9245198" title="api_object_resultset\l_pool_create" alt="" coords="331,64,469,105"/>
+<area shape="rect" id="node7" href="$db__value__table_8c.html#a3e797b9fddfe5799aa3fcb4d0deae971" title="coerce_value_to_db\l_value" alt="" coords="331,147,469,188"/>
+<area shape="rect" id="node8" href="$db__value__table_8c.html#a0042d6e25a4d7434001d60c5dae40509" title="vbt_api_set_value" alt="" coords="337,213,463,239"/>
+</map>

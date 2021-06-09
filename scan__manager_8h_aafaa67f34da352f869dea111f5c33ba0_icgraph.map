@@ -1,0 +1,15 @@
+<map id="scan_init_iss" name="scan_init_iss">
+<area shape="rect" id="node2" href="$locator__sr_8h.html#a95c3de45a3d96181fad4bf2f3090d752" title="locator_check_btree\l_entries" alt="" coords="578,5,717,47"/>
+<area shape="rect" id="node4" href="$scan__manager_8h.html#a65d1080ce2d6fb5fabbca942d9396dfe" title="scan_end_scan" alt="" coords="175,105,288,131"/>
+<area shape="rect" id="node5" href="$scan__manager_8h.html#a4a1d5d3b89c0000ab87c4358113a88ce" title="scan_init_index_scan" alt="" coords="158,155,305,182"/>
+<area shape="rect" id="node12" href="$scan__manager_8h.html#a65c2e144131c0d30841ef5dbb0b6e056" title="scan_open_index_key\l_info_scan" alt="" coords="156,207,307,248"/>
+<area shape="rect" id="node13" href="$scan__manager_8h.html#a182c8e92047f6d81e263152409c29da0" title="scan_open_index_scan" alt="" coords="152,273,311,299"/>
+<area shape="rect" id="node14" href="$scan__manager_8h.html#a4402f2b181176c682984f77b4efda619" title="scan_reset_scan_block" alt="" coords="152,323,311,350"/>
+<area shape="rect" id="node3" href="$locator__sr_8h.html#a26707b0ac2e1a0704daa241c70d102bd" title="locator_check_class" alt="" coords="769,46,911,73"/>
+<area shape="rect" id="node6" href="$btree_8h.html#aed9b279abdb5bbcf1c57775b0f87125e" title="btree_keyoid_checkscan\l_check" alt="" coords="359,64,525,105"/>
+<area shape="rect" id="node7" href="$locator__sr_8c.html#a4099da553de5a10d74a97582bea47368" title="locator_check_unique\l_btree_entries" alt="" coords="573,71,721,112"/>
+<area shape="rect" id="node8" href="$btree__load_8c.html#a3a58f0efdf76a4d2a1e8bc8b915ed0b1" title="btree_load_check_fk" alt="" coords="371,181,513,207"/>
+<area shape="rect" id="node9" href="$locator__sr_8c.html#a3ec8ca9e5364109919ee52c486add7ec" title="locator_check_primary\l_key_delete" alt="" coords="365,232,519,273"/>
+<area shape="rect" id="node10" href="$locator__sr_8c.html#a65b9f6b49b3eaa536a20c55db7f99b3f" title="locator_check_primary\l_key_update" alt="" coords="365,297,519,339"/>
+<area shape="rect" id="node11" href="$locator__sr_8c.html#a51e657615992656a81f637c25fe9cda3" title="locator_prefetch_index\l_page_internal" alt="" coords="365,363,519,404"/>
+</map>

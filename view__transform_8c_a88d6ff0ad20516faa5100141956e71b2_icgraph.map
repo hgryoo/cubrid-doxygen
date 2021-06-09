@@ -1,0 +1,12 @@
+<map id="mq_fetch_attributes" name="mq_fetch_attributes">
+<area shape="rect" id="node2" href="$view__transform_8c.html#a04b11576d50d2048e602e79d35e46e09" title="mq_fetch_expression\l_for_real_class_update" alt="" coords="196,106,352,147"/>
+<area shape="rect" id="node8" href="$view__transform_8c.html#a7efe744a4bc0fbff79b20596b7208986" title="mq_rewrite_vclass_spec\l_as_derived" alt="" coords="191,186,357,227"/>
+<area shape="rect" id="node10" href="$view__transform_8c.html#a89d84e37c7119a04cd2d58f000054e9b" title="mq_substitute_select\l_in_statement" alt="" coords="201,251,347,293"/>
+<area shape="rect" id="node11" href="$view__transform_8c.html#a5576d6bd4b9f09117889b52631872866" title="mq_update_order_by" alt="" coords="203,317,345,344"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#a17362d3e601b5f400ee9e097e1701fa7" title="mq_translate_paths" alt="" coords="419,5,555,32"/>
+<area shape="rect" id="node4" href="$view__transform_8h.html#a4203b8bbd01cd90b3ada9c97a5ed1c8a" title="mq_is_updatable_att" alt="" coords="416,56,559,83"/>
+<area shape="rect" id="node5" href="$view__transform_8h.html#a1521bf43ed9f147838ae41aa87455c45" title="mq_get_attribute" alt="" coords="428,107,547,133"/>
+<area shape="rect" id="node6" href="$view__transform_8h.html#ac41e3605bceeb09e0b972034026dc5aa" title="mq_oid" alt="" coords="455,157,519,184"/>
+<area shape="rect" id="node7" href="$view__transform_8h.html#a3a7a44dcedaf5517e4029633d19125be" title="mq_update_attribute" alt="" coords="417,208,557,235"/>
+<area shape="rect" id="node9" href="$view__transform_8c.html#ac215f16a40d7d58cc76a7eb5736a3e83" title="mq_substitute_subquery\l_in_statement" alt="" coords="405,259,569,301"/>
+</map>

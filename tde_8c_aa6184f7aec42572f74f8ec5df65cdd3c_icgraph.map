@@ -1,0 +1,10 @@
+<map id="tde_encrypt_log_page" name="tde_encrypt_log_page">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#af82ae9aa46256f2446febdc4673bb15b" title="logpb_write_page_to_disk" alt="" coords="203,107,375,133"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#aba424036ec1b5f29053849bba67d9442" title="logpb_write_toflush\l_pages_to_archive" alt="" coords="221,158,356,199"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#aff4e1c7df4260b5dc7ad3dd1b37e6baa" title="logpb_writev_append\l_pages" alt="" coords="217,223,361,265"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#aa36fb2c7b67e09da43ca73cbf46f0eb0" title="logpb_locate_page" alt="" coords="436,5,567,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a395681f78c8d3aa0e26c7132fb05e0df" title="logpb_flush_page" alt="" coords="440,56,563,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a48a9214aa55783d4ae5648457f686c6c" title="logpb_flush_header" alt="" coords="434,107,569,133"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="423,209,580,250"/>
+<area shape="rect" id="node7" href="$log__recovery_8c.html#afd45fb1ef67df793b067695e37d91623" title="log_recovery_analysis" alt="" coords="426,157,577,184"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="logtb_complete_mvcc" name="logtb_complete_mvcc">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="235,74,345,101"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="229,17,351,43"/>
+<area shape="rect" id="node7" href="$unittests__snapshot_8c.html#a6e94852860f51ea0f1b3cfd809ee8f00" title="test_new_mvcc_complete" alt="" coords="203,125,377,151"/>
+<area shape="rect" id="node3" href="$log__2pc_8c.html#a8f0d3e711958d90183e5813a073b4696" title="log_2pc_commit_second\l_phase" alt="" coords="425,5,592,47"/>
+<area shape="rect" id="node4" href="$log__2pc_8c.html#acf5f3bbe0b21f92332c8b664cd39e251" title="log_2pc_recovery_abort\l_decision" alt="" coords="429,71,589,112"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="471,137,546,163"/>
+</map>

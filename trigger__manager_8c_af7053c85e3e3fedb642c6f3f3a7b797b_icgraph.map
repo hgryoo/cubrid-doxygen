@@ -1,0 +1,13 @@
+<map id="tr_finish" name="tr_finish">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#a3792d4dac4d3bea26df6277cee9b83cc" title="run_user_triggers" alt="" coords="129,81,251,108"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#ad068cc1a86485eeab604a7c3ad7c6e51" title="tr_abort" alt="" coords="157,237,223,264"/>
+<area shape="rect" id="node9" href="$trigger__manager_8h.html#abf7d79e474c3e67524488e727c66afd5" title="tr_after_object" alt="" coords="341,360,447,387"/>
+<area shape="rect" id="node12" href="$trigger__manager_8h.html#af5246583905394c9c1a2e8de59dd0735" title="tr_execute_deferred\l_activities" alt="" coords="121,150,259,191"/>
+<area shape="rect" id="node3" href="$trigger__manager_8h.html#a6156edd6b804b5f36cd6c4001dc778f4" title="tr_check_abort_triggers" alt="" coords="315,5,473,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#a41d04a7d0b17de73944be50c74e07715" title="tr_check_commit_triggers" alt="" coords="308,107,480,133"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#afa0330b36f45069776820158359e133e" title="tr_check_rollback_triggers" alt="" coords="307,56,481,83"/>
+<area shape="rect" id="node7" href="$object__template_8c.html#ab1a49f2b7b043063d70b8f50111e7e9f" title="obt_apply_assignments" alt="" coords="529,208,688,235"/>
+<area shape="rect" id="node8" href="$trigger__manager_8h.html#ae79051574eb110d76a2e3f474393bedc" title="tr_before_object" alt="" coords="337,208,451,235"/>
+<area shape="rect" id="node10" href="$execute__statement_8c.html#a1040c4c3e98b05cd3be45fa49cb0babd" title="check_trigger" alt="" coords="344,259,444,285"/>
+<area shape="rect" id="node11" href="$execute__statement_8c.html#aa91b5b8b133b4ce882743bd9678ca15f" title="check_merge_trigger" alt="" coords="323,309,465,336"/>
+</map>

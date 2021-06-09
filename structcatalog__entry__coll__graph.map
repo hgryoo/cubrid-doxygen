@@ -1,0 +1,4 @@
+<map id="catalog_entry" name="catalog_entry">
+<area shape="rect" id="node2" href="$structcatalog__key.html" title="{catalog_key\n|+ page_id\l+ volid\l+ slot_id\l+ repr_id\l+ r_slot_id\l|}" alt="" coords="9,160,101,296"/>
+<area shape="rect" id="node3" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="19,5,91,97"/>
+</map>

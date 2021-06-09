@@ -1,0 +1,5 @@
+<map id="logtb_has_deadlock_priority" name="logtb_has_deadlock_priority">
+<area shape="rect" id="node2" href="$lock__manager_8h.html#a504786492af357a6a63b3b255364b4c6" title="lock_demote_class_lock" alt="" coords="191,42,356,69"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="432,5,563,47"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#ac2e34e4cec9ec7a7d4e8ccbfdc8557d6" title="xlocator_demote_class_lock" alt="" coords="404,71,591,98"/>
+</map>

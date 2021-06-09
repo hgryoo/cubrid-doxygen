@@ -1,0 +1,10 @@
+<map id="disk_manager_final" name="disk_manager_final">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="188,157,347,184"/>
+<area shape="rect" id="node9" href="$disk__manager_8h.html#a4361d73904be7766a9011e28fd59dbe9" title="disk_manager_init" alt="" coords="204,259,331,285"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="616,107,767,133"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="411,259,545,285"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="398,157,558,184"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="609,208,773,235"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a6dc8b536b7d535d54c1471a87b76f2c2" title="xboot_delete" alt="" coords="430,5,526,32"/>
+<area shape="rect" id="node8" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="395,56,561,83"/>
+</map>

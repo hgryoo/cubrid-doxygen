@@ -1,0 +1,5 @@
+<map id="bh_up_heap" name="bh_up_heap">
+<area shape="rect" id="node2" href="$binaryheap_8h.html#a4ed71c4d992a9abf2a7ca5a825573d56" title="bh_insert" alt="" coords="145,31,220,57"/>
+<area shape="rect" id="node3" href="$binaryheap_8h.html#a30b784fe88f56ada08bc778c665fe5fb" title="bh_try_insert" alt="" coords="305,5,402,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a15b0d933787a45726dc62d856467a99e" title="qexec_add_tuple_to_topn" alt="" coords="268,56,439,83"/>
+</map>

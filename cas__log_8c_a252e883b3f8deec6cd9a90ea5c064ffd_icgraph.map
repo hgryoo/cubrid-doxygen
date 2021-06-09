@@ -1,0 +1,21 @@
+<map id="cas_log_query_cancel" name="cas_log_query_cancel">
+<area shape="rect" id="node2" href="$cas__log_8h.html#a8d8fe76f5f307ffcd3431a2307b4787f" title="cas_log_write" alt="" coords="204,436,307,463"/>
+<area shape="rect" id="node3" href="$cas__execute_8h.html#a283a087c4e06d0575706e48328b6ebd4" title="ux_auto_commit" alt="" coords="383,5,501,32"/>
+<area shape="rect" id="node4" href="$cas__function_8h.html#ad944837ef49bf8dd84731026dcb679d1" title="fn_end_tran" alt="" coords="397,56,487,83"/>
+<area shape="rect" id="node5" href="$cas__function_8c.html#a635a2b29ecc1cec25b1461301ca3aab6" title="fn_prepare_internal" alt="" coords="376,107,508,133"/>
+<area shape="rect" id="node6" href="$cas__function_8h.html#a22ed562385892154a3aff3f737225809" title="fn_prepare_and_execute" alt="" coords="577,157,741,184"/>
+<area shape="rect" id="node7" href="$cas__function_8c.html#a59abc316a41a5e6a8c2bdba5a430cff8" title="fn_execute_internal" alt="" coords="375,208,509,235"/>
+<area shape="rect" id="node8" href="$cas__function_8h.html#a1500373f1d1958461d77d312a59b70ef" title="fn_get_db_parameter" alt="" coords="370,259,514,285"/>
+<area shape="rect" id="node9" href="$cas__function_8h.html#a7f20ab31f938016c8534c0a76f47ad8e" title="fn_set_db_parameter" alt="" coords="370,309,514,336"/>
+<area shape="rect" id="node10" href="$cas__function_8h.html#a259b614c8fa1cc8b4cf188fa6af22281" title="fn_set_cas_change_mode" alt="" coords="355,360,529,387"/>
+<area shape="rect" id="node11" href="$cas__function_8h.html#a51889c28c390bb596087b827372c72dc" title="fn_close_req_handle" alt="" coords="371,411,513,437"/>
+<area shape="rect" id="node12" href="$cas__function_8h.html#a23584ffb0f24be61d170cd6d8db3c73e" title="fn_fetch" alt="" coords="407,461,477,488"/>
+<area shape="rect" id="node13" href="$cas__function_8h.html#a08a90bf078a8ebea8181b8bbc0b9c819" title="fn_schema_info" alt="" coords="385,512,499,539"/>
+<area shape="rect" id="node14" href="$cas__function_8h.html#a7b9d09b9508f7a250ad8795b404ee430" title="fn_oid_get" alt="" coords="401,563,483,589"/>
+<area shape="rect" id="node15" href="$cas__function_8h.html#a88e50ab24c9c923e5240e37f0917d7a3" title="fn_oid_put" alt="" coords="401,613,483,640"/>
+<area shape="rect" id="node16" href="$cas__function_8h.html#a0d6425091ccbac8955a969982cb66ab6" title="fn_get_db_version" alt="" coords="378,664,506,691"/>
+<area shape="rect" id="node17" href="$cas__function_8h.html#a69eb3bd6d9a949917c882cf57e1feaf5" title="fn_get_class_num_objs" alt="" coords="363,715,521,741"/>
+<area shape="rect" id="node18" href="$cas__function_8h.html#a0e7c2e21a118179ca22c4c90c647bd57" title="fn_oid" alt="" coords="413,765,471,792"/>
+<area shape="rect" id="node19" href="$cas__function_8h.html#ada2aa919b7551d1e889a89a4170f8f61" title="fn_next_result" alt="" coords="390,816,494,843"/>
+<area shape="rect" id="node20" href="$cas__function_8h.html#a0a2cf3821b50c136de71b03a9f25c788" title="fn_execute_batch" alt="" coords="379,867,505,893"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="ldr_increment_err_count" name="ldr_increment_err_count">
+<area shape="rect" id="node2" href="$load__sa__loader_8cpp.html#a0726e05a448539f3433a6387bdac7e6f" title="check_commit" alt="" coords="247,75,354,102"/>
+<area shape="rect" id="node4" href="$classcubload_1_1sa__object__loader.html#a8a6c945de603337f5be66791eb05f554" title="cubload::sa_object\l_loader::finish_line" alt="" coords="669,39,800,80"/>
+<area shape="rect" id="node5" href="$load__sa__loader_8cpp.html#ae7bb63c4bce9c15ece7a84a9990013e7" title="ldr_act_attr" alt="" coords="472,243,559,270"/>
+<area shape="rect" id="node8" href="$load__sa__loader_8cpp.html#a1561a5e2a89a52cec871765c97b0d3b7" title="ldr_act_class_attr" alt="" coords="873,294,999,321"/>
+<area shape="rect" id="node12" href="$load__sa__loader_8cpp.html#a337c55f768e1da5d5392d916dd85176c" title="ldr_act_elem" alt="" coords="253,294,349,321"/>
+<area shape="rect" id="node13" href="$load__sa__loader_8cpp.html#a586ed47dc6c12e88958cacf278b1d625" title="ldr_act_meth" alt="" coords="252,598,349,625"/>
+<area shape="rect" id="node15" href="$load__sa__loader_8cpp.html#a6d7c1ddeecd0bff84045167e632225ab" title="ldr_class_oid_db_object" alt="" coords="435,547,596,574"/>
+<area shape="rect" id="node16" href="$load__sa__loader_8cpp.html#a3431d2058a9c1044e3f76b5d3e1405aa" title="ldr_elo_ext_elem" alt="" coords="455,395,575,422"/>
+<area shape="rect" id="node18" href="$load__sa__loader_8cpp.html#af6e8dd35c38e90e165263c3cc8ff4a61" title="ldr_oid_elem" alt="" coords="468,345,563,371"/>
+<area shape="rect" id="node19" href="$load__sa__loader_8cpp.html#a5c4aed98eed8d03dc57541ae86c56058" title="ldr_sys_class_db_generic" alt="" coords="215,446,387,473"/>
+<area shape="rect" id="node20" href="$load__sa__loader_8cpp.html#a59788c6a20e6026519d6dbca5edf3fb1" title="ldr_sys_user_db_generic" alt="" coords="217,497,384,523"/>
+<area shape="rect" id="node3" href="$load__sa__loader_8cpp.html#a72dc835cb2624c07f71edd376d6d0fc5" title="insert_instance" alt="" coords="460,75,571,102"/>
+<area shape="rect" id="node6" href="$load__sa__loader_8cpp.html#af7a6f8b06ff0c4429d7a18e91c32bc1e" title="ldr_collection_db_collection" alt="" coords="644,294,825,321"/>
+<area shape="rect" id="node9" href="$load__sa__loader_8cpp.html#a8bd9b94300dfb07ce334162f90c37073" title="ldr_finish_context" alt="" coords="673,177,797,203"/>
+<area shape="rect" id="node10" href="$load__sa__loader_8cpp.html#af41b16fc6c7965267350c2502f2bde99" title="ldr_init_loader" alt="" coords="683,345,786,371"/>
+<area shape="rect" id="node11" href="$classcubload_1_1sa__object__loader.html#a68aaa7fcfb3738c4bfe34f1359aa466c" title="cubload::sa_object\l_loader::process_line" alt="" coords="662,228,807,269"/>
+<area shape="rect" id="node7" href="$load__sa__loader_8cpp.html#af3144eb2dc546ac311d12e80c693b3e8" title="ldr_act_add_attr" alt="" coords="879,446,993,473"/>
+<area shape="rect" id="node14" href="$load__sa__loader_8cpp.html#a3b885f3329fd70251d54df60b25e4d52" title="ldr_act_set_constructor" alt="" coords="436,598,595,625"/>
+<area shape="rect" id="node17" href="$load__sa__loader_8cpp.html#aca59bfacb5f26cf531e097a1bd7aaabd" title="ldr_elo_ext_db_elo" alt="" coords="669,395,800,422"/>
+</map>

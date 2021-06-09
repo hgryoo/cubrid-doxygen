@@ -1,0 +1,9 @@
+<map id="scan_init_iss" name="scan_init_iss">
+<area shape="rect" id="node2" href="$locator__sr_8h.html#a95c3de45a3d96181fad4bf2f3090d752" title="locator_check_btree\l_entries" alt="" coords="359,27,497,69"/>
+<area shape="rect" id="node4" href="$scan__manager_8h.html#a65d1080ce2d6fb5fabbca942d9396dfe" title="scan_end_scan" alt="" coords="175,35,288,61"/>
+<area shape="rect" id="node5" href="$scan__manager_8h.html#a4a1d5d3b89c0000ab87c4358113a88ce" title="scan_init_index_scan" alt="" coords="158,85,305,112"/>
+<area shape="rect" id="node6" href="$scan__manager_8h.html#a65c2e144131c0d30841ef5dbb0b6e056" title="scan_open_index_key\l_info_scan" alt="" coords="156,137,307,178"/>
+<area shape="rect" id="node7" href="$scan__manager_8h.html#a182c8e92047f6d81e263152409c29da0" title="scan_open_index_scan" alt="" coords="152,203,311,229"/>
+<area shape="rect" id="node8" href="$scan__manager_8h.html#a4402f2b181176c682984f77b4efda619" title="scan_reset_scan_block" alt="" coords="152,253,311,280"/>
+<area shape="rect" id="node3" href="$locator__sr_8h.html#a26707b0ac2e1a0704daa241c70d102bd" title="locator_check_class" alt="" coords="545,35,687,61"/>
+</map>

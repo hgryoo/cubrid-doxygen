@@ -1,0 +1,11 @@
+<map id="db_string_concatenate" name="db_string_concatenate">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#a0b9646cf5e5c388b45cd4980f9b8f4ff" title="db_string_insert_substring" alt="" coords="221,78,395,105"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="218,129,398,155"/>
+<area shape="rect" id="node6" href="$query__opfunc_8c.html#a0be289fbec6386477a3ec28fecdb51fa" title="qdata_add_chars_to\l_dbval" alt="" coords="239,180,377,221"/>
+<area shape="rect" id="node10" href="$query__executor_8c.html#a02c2422318d4f6e94263e47ee1fe55e4" title="qexec_schema_get_type_desc" alt="" coords="207,246,409,273"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#ae8d094582688ae1145d7eecb8edaa438" title="pt_evaluate_function\l_w_args" alt="" coords="471,5,614,47"/>
+<area shape="rect" id="node4" href="$query__opfunc_8c.html#a7a69729374248c52cec9c3ffc054baf4" title="qdata_insert_substring\l_function" alt="" coords="466,71,619,112"/>
+<area shape="rect" id="node7" href="$query__opfunc_8h.html#a9fa70ad6fa6a96385c1600dd2e37f203" title="qdata_add_dbval" alt="" coords="676,187,796,214"/>
+<area shape="rect" id="node8" href="$query__opfunc_8h.html#a8182fd0647a8aa64c0665c60eb534172" title="qdata_concatenate_dbval" alt="" coords="457,187,628,214"/>
+<area shape="rect" id="node9" href="$query__opfunc_8h.html#aac9d8a58076279ce106291800e69f542" title="qdata_strcat_dbval" alt="" coords="477,238,609,265"/>
+</map>

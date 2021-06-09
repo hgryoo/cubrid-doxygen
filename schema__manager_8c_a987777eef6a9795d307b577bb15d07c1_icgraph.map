@@ -1,0 +1,9 @@
+<map id="domain_search" name="domain_search">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#a3c082e3c5ed59da48c0ca2c7e75b9ee2" title="sm_check_class_domain" alt="" coords="168,95,337,121"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#a4ba737048ca207ae3539eb9933e67b84" title="sm_check_object_domain" alt="" coords="166,19,339,45"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#a06ad9333c9fe0792819f2044b3554c51" title="sm_coerce_object_domain" alt="" coords="164,171,341,197"/>
+<area shape="rect" id="node3" href="$object__domain_8h.html#a9101dd5a5521448b005d4b6175e40cb5" title="tp_domain_select" alt="" coords="405,5,529,32"/>
+<area shape="rect" id="node4" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="593,56,745,83"/>
+<area shape="rect" id="node5" href="$object__domain_8h.html#ae87184fac8ce9230757187cf7f924a23" title="tp_domain_select_type" alt="" coords="389,107,545,133"/>
+<area shape="rect" id="node6" href="$object__template_8c.html#a5fc8101336f3ef6484a29ca78ec08cb0" title="obt_assign_obt" alt="" coords="412,157,523,184"/>
+</map>

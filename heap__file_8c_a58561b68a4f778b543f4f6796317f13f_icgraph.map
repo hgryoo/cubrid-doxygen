@@ -1,0 +1,8 @@
+<map id="heap_chnguess_decache" name="heap_chnguess_decache">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a6adbab21addd8609c2d132eb1ed5e609" title="heap_classrepr_decache" alt="" coords="223,26,389,53"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#ade4239f217db008688aa20790ed84cc6" title="heap_mark_class_as\l_modified" alt="" coords="233,103,379,144"/>
+<area shape="rect" id="node3" href="$classtx__transient__class__registry.html#ad1d1e11fef89339a6396478c295d2734" title="tx_transient_class\l_registry::decache_heap_repr" alt="" coords="437,5,631,47"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#abdeca500518e856f5c4176f920385e52" title="heap_insert_logical" alt="" coords="467,71,601,98"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#aefde2dcf4add17b9075b27ff07a7e400" title="heap_delete_logical" alt="" coords="466,122,602,149"/>
+<area shape="rect" id="node7" href="$heap__file_8h.html#a1bfe88925bd63940173e3c7fe7bb7c46" title="heap_update_logical" alt="" coords="464,173,604,199"/>
+</map>

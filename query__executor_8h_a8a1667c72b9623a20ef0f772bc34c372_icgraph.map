@@ -1,0 +1,15 @@
+<map id="qexec_execute_mainblock" name="qexec_execute_mainblock">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a1cd7567bff359b945965090a14f778be" title="qexec_execute_cte" alt="" coords="457,80,592,106"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a7f75e30ca5ca44e386fde62197337c0a" title="qexec_execute_mainblock\l_internal" alt="" coords="649,199,825,240"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a6a52d397abf14eeef1f1a23bccd2ed42" title="qexec_execute_delete" alt="" coords="239,130,391,157"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="240,181,389,208"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#a98038934d3c74520f49e6c153067683b" title="qexec_execute_merge" alt="" coords="448,232,601,258"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#aa0228de3d463d4f25f995136288bfbb8" title="qexec_execute_obj_fetch" alt="" coords="229,384,400,410"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#a7f4c93cc11a284d13f0844c5ef6daeaf" title="qexec_execute_scan" alt="" coords="452,333,597,360"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#a3ba286b3f8a60ba4dd45993cb9c87c42" title="qexec_intprt_fnc" alt="" coords="465,384,584,410"/>
+<area shape="rect" id="node10" href="$query__executor_8c.html#aae780f3598f8e002d08caef216a1c5b4" title="qexec_merge_fnc" alt="" coords="462,434,587,461"/>
+<area shape="rect" id="node11" href="$query__executor_8h.html#a8117e936942551d7d4b2362e9638260f" title="qexec_execute_query" alt="" coords="240,536,389,562"/>
+<area shape="rect" id="node13" href="$query__executor_8c.html#aa789b9a1da1ee681d9ad9464672c2325" title="qexec_execute_update" alt="" coords="237,282,393,309"/>
+<area shape="rect" id="node14" href="$query__executor_8c.html#ace4cbe7f3418a09d43ee9ad479be8e06" title="qexec_gby_finalize\l_group" alt="" coords="248,587,381,628"/>
+<area shape="rect" id="node12" href="$query__manager_8c.html#ab406973856e1d1e95ebbc7bd111f9d19" title="qmgr_process_query" alt="" coords="453,536,596,562"/>
+</map>

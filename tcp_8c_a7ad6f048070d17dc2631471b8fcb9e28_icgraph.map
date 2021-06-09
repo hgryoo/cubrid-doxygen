@@ -1,0 +1,6 @@
+<map id="css_open_server_connection_socket" name="css_open_server_connection_socket">
+<area shape="rect" id="node2" href="$heartbeat_8c.html#a243855ba97faaf9001fe4061d0fa8ad2" title="css_connect_to_master\l_server" alt="" coords="244,57,405,98"/>
+<area shape="rect" id="node3" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="511,5,578,32"/>
+<area shape="rect" id="node4" href="$server__support_8c.html#ad772b0426d828c02505439b6b628178e" title="css_reestablish_connection\l_to_master" alt="" coords="453,57,636,98"/>
+<area shape="rect" id="node5" href="$heartbeat_8c.html#a4e028ec59dd614d71e4b6bd53c4c04f1" title="hb_connect_to_master" alt="" coords="467,123,622,149"/>
+</map>

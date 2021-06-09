@@ -1,0 +1,6 @@
+<map id="lang_charset_cubrid_name_to_id" name="lang_charset_cubrid_name_to_id">
+<area shape="rect" id="node2" href="$parser__support_8c.html#abca30216b034602218bd4114d4438438" title="pt_check_grammar_charset\l_collation" alt="" coords="192,49,375,90"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#a24bc4f0a91e527103132bf36d7bbfca6" title="pt_check_create_entity" alt="" coords="423,5,580,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="442,56,561,83"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a3a1f09af8380d53c78b0c3c04bd6dc48" title="do_set_names" alt="" coords="448,107,555,133"/>
+</map>

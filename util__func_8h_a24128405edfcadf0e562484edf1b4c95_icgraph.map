@@ -1,0 +1,9 @@
+<map id="util_bsearch" name="util_bsearch">
+<area shape="rect" id="node2" href="$file__manager_8c.html#ac8f142782aee9f4ffc3e460a001838b5" title="file_extdata_find_ordered" alt="" coords="149,137,315,163"/>
+<area shape="rect" id="node8" href="$vacuum_8c.html#ab3cea56efb984531d2c8dbc2ca5f3cfe" title="vacuum_add_dropped_file" alt="" coords="145,187,319,214"/>
+<area shape="rect" id="node3" href="$file__manager_8c.html#a2f6a753358560d055f4e5120c21b6c09" title="file_extdata_func_for\l_search_ordered" alt="" coords="368,5,511,47"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a69df34ca3f1e090985833e7142f6412e" title="file_extdata_find_and\l_remove_item" alt="" coords="367,71,512,112"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a809af1534543d29a6f24183047377085" title="file_perm_dealloc" alt="" coords="560,107,683,134"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#ac9b7228add17f355af39a6376dc581de" title="file_table_add_full\l_sector" alt="" coords="376,188,503,229"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#a76460db46414569db5eb3042cf269782" title="file_tracker_register\l_internal" alt="" coords="371,253,507,295"/>
+</map>

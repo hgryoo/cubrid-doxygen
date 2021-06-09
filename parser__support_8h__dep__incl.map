@@ -1,0 +1,11 @@
+<map id="src/parser/parser_support.h" name="src/parser/parser_support.h">
+<area shape="rect" id="node2" href="$plan__generation_8c.html" title="src/optimizer/plan\l_generation.c" alt="" coords="5,80,131,121"/>
+<area shape="rect" id="node3" href="$parse__evaluate_8c.html" title="src/parser/parse_evaluate.c" alt="" coords="155,87,338,114"/>
+<area shape="rect" id="node4" href="$parser__support_8c.html" title="src/parser/parser_support.c" alt="" coords="363,87,544,114"/>
+<area shape="rect" id="node5" href="$xasl__regu__alloc_8hpp.html" title="src/parser/xasl_regu\l_alloc.hpp" alt="" coords="619,80,759,121"/>
+<area shape="rect" id="node6" href="$xasl__generation_8c.html" title="src/parser/xasl_generation.c" alt="" coords="488,177,675,203"/>
+<area shape="rect" id="node8" href="$cursor_8c.html" title="src/query/cursor.c" alt="" coords="783,87,910,114"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html" title="src/query/execute_schema.c" alt="" coords="934,87,1125,114"/>
+<area shape="rect" id="node10" href="$execute__statement_8c.html" title="src/query/execute_statement.c" alt="" coords="1149,87,1352,114"/>
+<area shape="rect" id="node7" href="$xasl__regu__alloc_8cpp.html" title="src/parser/xasl_regu\l_alloc.cpp" alt="" coords="699,169,839,211"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="sm_flush_and_decache_objects" name="sm_flush_and_decache_objects">
+<area shape="rect" id="node2" href="$execute__statement_8c.html#a018270c1c91a88694cac8747af9bd25a" title="build_xasl_for_server\l_delete" alt="" coords="212,5,357,47"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a8340db60b99d2305e581a997044657ee" title="do_execute_delete" alt="" coords="407,85,538,111"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#af259588ebb962b880ecb05ae0b82c5e9" title="do_execute_merge" alt="" coords="407,161,539,187"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#afe56199df5cbc88a2f7aef1dc0cb0bdc" title="do_execute_update" alt="" coords="405,211,540,238"/>
+<area shape="rect" id="node7" href="$execute__statement_8c.html#a23b83ebe747105f23c26bc7165fa06dd" title="do_insert_at_server" alt="" coords="217,274,353,301"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#a862637a2d9b3842eee3ca382e51414c0" title="sm_flush_objects" alt="" coords="223,122,347,149"/>
+<area shape="rect" id="node9" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="219,325,351,351"/>
+<area shape="rect" id="node10" href="$execute__statement_8c.html#ad93b35b9fc9ad0e54accf1afa9483324" title="update_at_server" alt="" coords="223,375,346,402"/>
+<area shape="rect" id="node3" href="$execute__statement_8c.html#a64dfb8ac55e46089afdb246594b4b597" title="delete_real_class" alt="" coords="411,13,534,39"/>
+</map>

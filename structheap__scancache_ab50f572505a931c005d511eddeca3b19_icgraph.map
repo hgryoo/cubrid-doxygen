@@ -1,0 +1,5 @@
+<map id="heap_scancache::end_area" name="heap_scancache::end_area">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a80b1bde37fb05985cbd55be0fe678351" title="heap_scancache_quick_end" alt="" coords="235,46,421,73"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#ae5d8ef97c3f8029cb6113cede75b36a8" title="heap_scancache_end\l_internal" alt="" coords="469,5,617,47"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a03dd8abfe0e2fff3863b430c6a46ee05" title="heap_scancache_end\l_modify" alt="" coords="469,71,617,112"/>
+</map>

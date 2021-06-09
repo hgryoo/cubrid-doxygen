@@ -1,0 +1,8 @@
+<map id="locator_fetch_instance" name="locator_fetch_instance">
+<area shape="rect" id="node2" href="$authenticate_8c.html#a98239d9a8d06d7fe83f7460ee0f44725" title="fetch_instance" alt="" coords="425,31,532,57"/>
+<area shape="rect" id="node5" href="$locator__cl_8h.html#a43345128717d8aad9ff84393a6bfd367" title="locator_fetch_class" alt="" coords="221,93,355,120"/>
+<area shape="rect" id="node6" href="$locator__cl_8h.html#a6dd9b8243295de1f881fc4e0db032780" title="locator_fetch_set" alt="" coords="417,107,540,133"/>
+<area shape="rect" id="node7" href="$locator__cl_8h.html#af940800757ae4fd3287705b64d149f94" title="locator_update_instance" alt="" coords="207,43,369,69"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#ac6b7e4eb760106dd0d8efd7766aa3f20" title="au_fetch_instance" alt="" coords="606,5,734,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#af04f213c55aac3ea3586a692ee77e2ff" title="au_fetch_instance_force" alt="" coords="588,56,752,83"/>
+</map>

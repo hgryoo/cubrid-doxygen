@@ -1,0 +1,6 @@
+<map id="pr_type::get_data_cmpdisk_function" name="pr_type::get_data_cmpdisk_function">
+<area shape="rect" id="node2" href="$list__file_8h.html#a24e4d4f102d2ccbb6bf46aa4f8a929ab" title="qfile_initialize_sort\l_key_info" alt="" coords="232,71,361,112"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#ab6733681b83ea4fdcf7d4893b62d0dc4" title="qexec_initialize_analytic\l_state" alt="" coords="410,5,573,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a75490070f52bc6d226b9135801e36972" title="qexec_initialize_groupby\l_state" alt="" coords="409,71,573,112"/>
+<area shape="rect" id="node5" href="$list__file_8c.html#a33b75ffb354ad0a68c145644ea9483f9" title="qfile_initialize_sort_info" alt="" coords="413,137,570,163"/>
+</map>

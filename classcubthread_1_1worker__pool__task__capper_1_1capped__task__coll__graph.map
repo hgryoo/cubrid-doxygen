@@ -1,0 +1,5 @@
+<map id="cubthread::worker_pool_task_capper&lt; Context &gt;::capped_task" name="cubthread::worker_pool_task_capper&lt; Context &gt;::capped_task">
+<area shape="rect" id="node2" href="$classcubthread_1_1task.html" title="{worker_pool_task_capper\l::task_type\n||+ task()\l+ ~task()\l+ execute()\l+ retire()\l}" alt="" coords="5,57,176,193"/>
+<area shape="rect" id="node3" href="$classcubthread_1_1worker__pool__task__capper.html" title="{cubthread::worker_pool\l_task_capper\&lt; Context \&gt;\n|&#45; m_worker_pool\l&#45; m_tasks_available\l&#45; m_max_tasks\l&#45; m_mutex\l&#45; m_cond_var\l|+ worker_pool_task_capper()\l+ ~worker_pool_task_capper()\l+ try_task()\l+ push_task()\l+ get_worker_pool()\l&#45; end_task()\l&#45; execute()\l}" alt="" coords="201,5,399,244"/>
+<area shape="rect" id="node4" href="$classcubthread_1_1task.html" title="{cubthread::task\&lt; Context \&gt;\n||+ task()\l+ ~task()\l+ execute()\l+ retire()\l}" alt="" coords="423,64,606,185"/>
+</map>

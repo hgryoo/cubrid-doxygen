@@ -1,0 +1,6 @@
+<map id="pt_process_spec_for_delete" name="pt_process_spec_for_delete">
+<area shape="rect" id="node2" href="$parser__support_8c.html#a11a48180700cb2cf9d0c0e21ae47c17c" title="pt_mark_spec_list_for\l_delete" alt="" coords="196,64,347,105"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#a2371a50a9f8ef998a9d23cd351908668" title="mq_rewrite_upd_del\l_top_level_specs" alt="" coords="395,5,534,47"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#a88972d58fe2c28c819d740d227f80633" title="mq_translate_delete" alt="" coords="395,71,534,98"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#a71b8a2bd2bc9c02cc39058ce5ed1e034" title="mq_translate_merge" alt="" coords="395,122,535,149"/>
+</map>

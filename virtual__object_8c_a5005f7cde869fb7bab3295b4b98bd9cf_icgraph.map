@@ -1,0 +1,5 @@
+<map id="vid_getall_mops" name="vid_getall_mops">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#a6dba97b2ae6799b80d00882a36541411" title="sm_fetch_all_objects\l_internal" alt="" coords="169,5,315,47"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#a86be980651877dddcadc45e82f60ebb4" title="sm_fetch_all_objects" alt="" coords="363,13,508,39"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#a7371b4630be2f1442e5a7142f3dd50cc" title="sm_fetch_all_objects\l_of_dirty_version" alt="" coords="363,64,508,105"/>
+</map>

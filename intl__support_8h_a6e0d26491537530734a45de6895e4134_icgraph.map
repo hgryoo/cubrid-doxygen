@@ -1,0 +1,21 @@
+<map id="intl_mbs_casecmp" name="intl_mbs_casecmp">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a9d0b2321745fe1161be99609ac6a46d2" title="boot_parse_add_volume\l_extensions" alt="" coords="186,17,349,58"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#aa20a327c4a251274c5f5a27229f5b234" title="fileio_request_user\l_response" alt="" coords="202,99,333,141"/>
+<area shape="rect" id="node9" href="$intl__support_8h.html#a6b3735018f6e1545b8b359d66c5b2572" title="intl_mbs_spn" alt="" coords="218,165,317,192"/>
+<area shape="rect" id="node10" href="$network__interface__cl_8h.html#a2deda16a5fdfddae06f2b7cd1b0775f9" title="net_client_request\l_with_callback" alt="" coords="203,217,331,258"/>
+<area shape="rect" id="node11" href="$esql__misc_8h.html#a160bfa0fc3cacbf71ea6c0978d66a78a" title="pp_generic_case_cmp" alt="" coords="191,283,343,309"/>
+<area shape="rect" id="node12" href="$object__primitive_8h.html#acf2e1027ea0f614c2ed57935d4585e09" title="pr_find_type" alt="" coords="221,333,314,360"/>
+<area shape="rect" id="node13" href="$system__parameter_8c.html#afb8f0fcdb08aa15db32c9fac802827db" title="prm_find" alt="" coords="231,384,303,411"/>
+<area shape="rect" id="node14" href="$system__parameter_8c.html#af78ad350d77de4728f12b2260b3d6092" title="prm_keyword" alt="" coords="217,485,317,512"/>
+<area shape="rect" id="node15" href="$system__parameter_8c.html#a77a63e10bd0e9ae9e10449f761ea9d1d" title="prm_print" alt="" coords="451,448,527,475"/>
+<area shape="rect" id="node16" href="$system__parameter_8c.html#a670e17d6808ae6a381ec6ae95381796b" title="sysprm_print_sysprm\l_value" alt="" coords="416,503,563,545"/>
+<area shape="rect" id="node17" href="$system__parameter_8c.html#a52fb22056571707425b9532f09ab4112" title="sysprm_generate_new\l_value" alt="" coords="413,575,566,617"/>
+<area shape="rect" id="node18" href="$name__resolution_8c.html#a534ffde15152dbd5ed05ca5bb7e6c2fb" title="pt_find_function_type" alt="" coords="194,637,341,664"/>
+<area shape="rect" id="node19" href="$system__parameter_8c.html#a6bdb19cb46ae10e45dd3705d1984e39c" title="sysprm_compare_values" alt="" coords="184,688,351,715"/>
+<area shape="rect" id="node20" href="$transaction__cl_8c.html#af836a7ab5e9f269436c8bc916bbfb2d9" title="tran_free_list_upto\l_savepoint" alt="" coords="203,739,332,781"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="406,5,573,32"/>
+<area shape="rect" id="node5" href="$file__io_8h.html#a804410092892d2bfac5a0b9d21a4e3c7" title="fileio_finish_backup" alt="" coords="421,56,557,83"/>
+<area shape="rect" id="node6" href="$file__io_8c.html#aebeeec98ab02d21bae159cc383e51731" title="fileio_make_error_message" alt="" coords="399,107,580,133"/>
+<area shape="rect" id="node7" href="$file__io_8c.html#a9fb6af728c404f5ac0822488d1711dd2" title="fileio_find_restore\l_volume" alt="" coords="427,209,551,250"/>
+<area shape="rect" id="node8" href="$file__io_8c.html#a548d455254d93c20e0630710f28cadf0" title="fileio_get_next_backup\l_volume" alt="" coords="628,179,783,221"/>
+</map>

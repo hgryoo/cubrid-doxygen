@@ -1,0 +1,6 @@
+<map id="css_initialize_conn" name="css_initialize_conn">
+<area shape="rect" id="node2" href="$connection__sr_8h.html#a4a5e9a4569dfb3087b2a2a80d7b1f20a" title="css_init_conn_list" alt="" coords="185,8,312,35"/>
+<area shape="rect" id="node4" href="$connection__sr_8c.html#a2d4daf0f30ebfc547797f81f4ed41d44" title="css_make_conn" alt="" coords="190,60,307,87"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="373,5,508,32"/>
+<area shape="rect" id="node5" href="$connection__sr_8c.html#a243855ba97faaf9001fe4061d0fa8ad2" title="css_connect_to_master\l_server" alt="" coords="360,57,521,98"/>
+</map>

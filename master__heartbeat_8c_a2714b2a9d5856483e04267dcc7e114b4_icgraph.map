@@ -1,0 +1,5 @@
+<map id="hb_remove_node" name="hb_remove_node">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#a403fa9b8ec2971752c0cc827ce0625bc" title="hb_cluster_remove_all\l_nodes" alt="" coords="175,23,327,65"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#a25db7817bb427ccd2146827091c889b1" title="hb_cluster_cleanup" alt="" coords="375,5,509,32"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#abcba91f0e0527d2a12822ed9953835fc" title="hb_reload_config" alt="" coords="382,56,502,83"/>
+</map>

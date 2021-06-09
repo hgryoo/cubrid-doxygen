@@ -1,0 +1,10 @@
+<map id="cuberr::context::pop_error_stack" name="cuberr::context::pop_error_stack">
+<area shape="rect" id="node2" href="$error__manager_8h.html#aff251d10a05f81ce2422c30da7a36e54" title="er_stack_pop_and_keep\l_error" alt="" coords="197,125,359,166"/>
+<area shape="rect" id="node8" href="$classcuberr_1_1context.html#a45f2df7f6a3b6fc5836b716064a70299" title="cuberr::context::pop\l_error_stack_and_destroy" alt="" coords="192,207,364,249"/>
+<area shape="rect" id="node3" href="$error__manager_8h.html#a31ea03b55d632c816175c935fa9565b2" title="er_restore_last_error" alt="" coords="412,5,553,32"/>
+<area shape="rect" id="node4" href="$error__manager_8h.html#a4a8edb25a5e6e6d0904b847dbea7997b" title="er_stack_clearall" alt="" coords="423,56,543,83"/>
+<area shape="rect" id="node5" href="$authenticate_8c.html#aa6d4e0780e283109d66ee48da074b8fd" title="get_grants" alt="" coords="441,107,524,133"/>
+<area shape="rect" id="node6" href="$locator__cl_8h.html#a3f61445c1c1ed7a0b4327507a71ac023" title="locator_is_class" alt="" coords="425,157,541,184"/>
+<area shape="rect" id="node7" href="$authenticate_8c.html#adf983ab6951322d3850ce69b0f114b15" title="update_cache" alt="" coords="431,208,534,235"/>
+<area shape="rect" id="node9" href="$error__manager_8c.html#ac7f74b30bacfef84dba1b02f20f12aa2" title="er_set_internal" alt="" coords="429,259,536,285"/>
+</map>

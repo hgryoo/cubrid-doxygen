@@ -1,0 +1,7 @@
+<map id="pt_string_to_db_domain" name="pt_string_to_db_domain">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a532bddd8d3e19ae73bedf7dddc65f8ef" title="db_type_from_string" alt="" coords="213,5,353,32"/>
+<area shape="rect" id="node3" href="$schema__template_8c.html#a2ef46954c0f656a7d3356bb464c107d1" title="get_domain_internal" alt="" coords="214,56,353,83"/>
+<area shape="rect" id="node5" href="$show__meta_8c.html#addce51595eb2f14ec00953fddd64f4f0" title="init_db_attribute_list" alt="" coords="214,107,353,133"/>
+<area shape="rect" id="node6" href="$utility_8h.html#afcca051358c81f7c4f159aa6859bcad2" title="patchdb" alt="" coords="249,157,317,184"/>
+<area shape="rect" id="node4" href="$schema__template_8c.html#a60a3058e63c5ae45c201b15a38c2bd75" title="get_domain" alt="" coords="401,56,491,83"/>
+</map>

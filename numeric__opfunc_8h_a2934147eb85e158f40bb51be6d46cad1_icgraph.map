@@ -1,0 +1,21 @@
+<map id="numeric_db_value_coerce_from_num" name="numeric_db_value_coerce_from_num">
+<area shape="rect" id="node2" href="$dbtype__function_8h.html#a75c448d50f963072a30394a0f0ba2e57" title="db_value_get" alt="" coords="261,56,359,83"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#ab7c22521ae5b0786918abc192a3ba4a8" title="heap_set_autoincrement\l_value" alt="" coords="228,153,392,194"/>
+<area shape="rect" id="node7" href="$object__template_8c.html#a95c3533b251fa709472caaf7bfef3ecb" title="populate_auto_increment" alt="" coords="227,264,393,291"/>
+<area shape="rect" id="node8" href="$query__opfunc_8c.html#a228fccfe2f56ecac530affa570930dd0" title="qdata_coerce_numeric\l_to_double" alt="" coords="233,406,387,447"/>
+<area shape="rect" id="node20" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="234,472,386,499"/>
+<area shape="rect" id="node3" href="$db__value__table_8c.html#a2bb7ca4b167371b9b488703484bb2a2c" title="db_value_to_value" alt="" coords="461,5,591,32"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#ab97bc90e3ae7e33d19e048a9832c158b" title="uci_get_value" alt="" coords="475,56,577,83"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="451,107,601,133"/>
+<area shape="rect" id="node9" href="$query__opfunc_8c.html#aff5db47a10ce59571f5178970f8aed89" title="qdata_add_numeric_to\l_monetary" alt="" coords="449,158,603,199"/>
+<area shape="rect" id="node10" href="$query__opfunc_8c.html#ab2a5079d5c9c95386a63db362c1499ae" title="qdata_add_numeric_to\l_dbval" alt="" coords="659,187,812,229"/>
+<area shape="rect" id="node11" href="$query__opfunc_8c.html#af38a84872eda679e3bf38c1bb74090a4" title="qdata_add_float_to\l_dbval" alt="" coords="460,275,592,317"/>
+<area shape="rect" id="node12" href="$query__opfunc_8c.html#a27a78a12a3bbf1187ecc267631511d11" title="qdata_add_double_to\l_dbval" alt="" coords="453,341,599,382"/>
+<area shape="rect" id="node13" href="$query__opfunc_8c.html#ae749c911c7c9d4f31a198fe7ba80bb35" title="qdata_subtract_float\l_to_dbval" alt="" coords="456,406,596,447"/>
+<area shape="rect" id="node14" href="$query__opfunc_8c.html#a477847b47e94d5bb2976d82a083cfa75" title="qdata_subtract_double\l_to_dbval" alt="" coords="449,471,603,513"/>
+<area shape="rect" id="node15" href="$query__opfunc_8c.html#a389a2f4005cb4675f4c2141c92dc0001" title="qdata_subtract_numeric\l_to_dbval" alt="" coords="445,537,607,578"/>
+<area shape="rect" id="node16" href="$query__opfunc_8c.html#ad7321dcad7ce96e17880a3bac2de72ff" title="qdata_subtract_monetary\l_to_dbval" alt="" coords="441,602,611,643"/>
+<area shape="rect" id="node17" href="$query__opfunc_8c.html#a1d87110931790579c0e53dfab0844ea5" title="qdata_multiply_float\l_to_dbval" alt="" coords="457,667,595,709"/>
+<area shape="rect" id="node18" href="$query__opfunc_8c.html#ae938ec57392d990e9d9afc400c99f47a" title="qdata_multiply_double\l_to_dbval" alt="" coords="451,733,601,774"/>
+<area shape="rect" id="node19" href="$query__opfunc_8c.html#a4c7c82608e8214db42f47f4b869db1f3" title="qdata_multiply_numeric\l_to_dbval" alt="" coords="447,798,605,839"/>
+</map>

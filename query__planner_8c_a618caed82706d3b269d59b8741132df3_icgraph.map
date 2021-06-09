@@ -1,0 +1,8 @@
+<map id="qo_plan_print_projected_segs" name="qo_plan_print_projected_segs">
+<area shape="rect" id="node2" href="$query__planner_8c.html#a29015bb5df44c033125028b2fe14cdfe" title="qo_plan_fprint" alt="" coords="248,107,351,133"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#a9dde67887f8e70532ec5d3493772901e" title="qo_dump_planvec" alt="" coords="399,5,525,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#a5c598286930935f0715cd1f30057d69d" title="qo_follow_fprint" alt="" coords="405,56,519,83"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#a1baf4f3185744d03beed321a3e292243" title="qo_join_fprint" alt="" coords="413,107,511,133"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a227728193640155171bc65d61923601b" title="qo_plan_dump" alt="" coords="409,157,515,184"/>
+<area shape="rect" id="node7" href="$query__planner_8c.html#ad5fdc532e9fc41e13ba338578587edb2" title="qo_sort_fprint" alt="" coords="411,208,513,235"/>
+</map>

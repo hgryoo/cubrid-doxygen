@@ -1,0 +1,12 @@
+<map id="css_send_request_with_data_buffer" name="css_send_request_with_data_buffer">
+<area shape="rect" id="node2" href="$connection__support_8h.html#aa71a8cdb66d2b8f083922f6548d20abf" title="css_send_request" alt="" coords="221,173,349,200"/>
+<area shape="rect" id="node9" href="$client__support_8h.html#a982bf4d65db840388096c7e3891a9bac" title="css_send_request_to\l_server_with_buffer" alt="" coords="212,318,359,359"/>
+<area shape="rect" id="node3" href="$client__support_8h.html#a21a96408ff489b345b02324da654c7fc" title="css_client_init" alt="" coords="434,5,539,32"/>
+<area shape="rect" id="node4" href="$connection__cl_8c.html#a0d1affc4b4f269c9fcf5930c01ad2b07" title="css_common_connect" alt="" coords="410,56,563,83"/>
+<area shape="rect" id="node5" href="$broker_8c.html#aaf77c4e492ff43d6075e0831c6e4876e" title="get_server_state_from\l_master" alt="" coords="411,107,563,149"/>
+<area shape="rect" id="node6" href="$commdb_8c.html#a16f1940dfc3faa310b03c644295d5d90" title="send_request_no_args" alt="" coords="410,173,563,200"/>
+<area shape="rect" id="node7" href="$commdb_8c.html#a3d101a515aec41c118e0ceadb8a23f2d" title="send_request_one_arg" alt="" coords="410,224,563,251"/>
+<area shape="rect" id="node8" href="$commdb_8c.html#a8d48b4515287024019b4de575fc6e447" title="send_request_two_args" alt="" coords="407,275,567,301"/>
+<area shape="rect" id="node10" href="$network__interface__cl_8h.html#af95381350be5c0a0cda9b753f96704a7" title="net_client_ping_server" alt="" coords="411,325,563,352"/>
+<area shape="rect" id="node11" href="$network__interface__cl_8h.html#a669e1ce0f8fe4fd698271b150702ac6b" title="net_client_ping_server\l_with_handshake" alt="" coords="411,377,563,418"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="parser_make_expression" name="parser_make_expression">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#ad22f2359217e110cbb0dc82891c25414" title="check_default_on_update\l_clause" alt="" coords="238,5,409,47"/>
+<area shape="rect" id="node3" href="$xasl__generation_8h.html#ae7fcc94bf6a04c854d21fcf10d01795d" title="pt_append_omitted_on\l_update_expr_assignments" alt="" coords="233,71,414,112"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#abe8dfc4d145ffcd01dc430dada0cfdc7" title="pt_check_default_vclass\l_query_spec" alt="" coords="240,136,407,177"/>
+<area shape="rect" id="node5" href="$parser__support_8c.html#a2588bfef4a973a74b41184a42a7f84fc" title="pt_convert_to_logical_expr" alt="" coords="235,202,412,229"/>
+<area shape="rect" id="node6" href="$name__resolution_8c.html#a674514a46fe9a58a4b7bcbcfd1adc64c" title="pt_find_attr_in_class_list" alt="" coords="240,253,407,279"/>
+<area shape="rect" id="node7" href="$parser__support_8c.html#a7bc31e7f9de62fc75f6cb697c5e271dd" title="pt_make_collation_expr_node" alt="" coords="475,314,669,341"/>
+<area shape="rect" id="node8" href="$parser__support_8c.html#ac50f81397af94d48227c4b74b2ceb2b8" title="pt_make_collection\l_type_subquery_node" alt="" coords="497,701,647,743"/>
+<area shape="rect" id="node9" href="$parser__support_8c.html#ad7a9f10c1cd080c98fb09555e8093248" title="pt_make_field_extra\l_expr_node" alt="" coords="503,785,641,827"/>
+<area shape="rect" id="node10" href="$parser__support_8c.html#a4494aa793880ba27595805bae6b7f4d3" title="pt_make_field_key_type\l_expr_node" alt="" coords="491,473,653,515"/>
+<area shape="rect" id="node11" href="$parser__support_8c.html#a8aed62070fac55b3bd4e9ed281291afc" title="pt_make_field_type\l_expr_node" alt="" coords="505,387,639,428"/>
+<area shape="rect" id="node12" href="$parser__support_8c.html#a38987087ba18b51fca4ba4a74bce21a2" title="pt_make_if_with_expressions" alt="" coords="226,506,421,533"/>
+<area shape="rect" id="node13" href="$parser__support_8c.html#a34207b9b9d7e11d3afe931744aa4ca4e" title="pt_make_query_show\l_create_view" alt="" coords="497,549,647,591"/>
+<area shape="rect" id="node14" href="$parser__support_8c.html#a3ddec308efce7b5673a6913f4e5a202c" title="pt_make_like_col_expr" alt="" coords="246,861,401,887"/>
+<area shape="rect" id="node15" href="$parser__support_8c.html#aa535f44d0762447c5c9036a8ca339144" title="pt_make_pred_name_int_val" alt="" coords="229,405,417,431"/>
+<area shape="rect" id="node16" href="$parser__support_8c.html#a62bf7092afaec291c69a1f5233a7992d" title="pt_make_query_show\l_grants" alt="" coords="497,625,647,667"/>
+<area shape="rect" id="node17" href="$parser__support_8c.html#a685fff6bea1fd18d071759c361f7f7ab" title="pt_make_pred_name_string_val" alt="" coords="220,607,427,634"/>
+<area shape="rect" id="node18" href="$parser__support_8c.html#aa2241075e0d1aa1b0cf7acb69f89cc06" title="pt_make_pred_with_identifiers" alt="" coords="224,709,423,735"/>
+<area shape="rect" id="node19" href="$parser__support_8c.html#aba7b3719be845c790246a9a926aca627" title="pt_make_query_show\l_trace" alt="" coords="249,912,398,953"/>
+<area shape="rect" id="node20" href="$parser_8h.html#a20508523dc52fae16537de5f21b5773d" title="pt_resolve_default\l_value" alt="" coords="259,977,387,1019"/>
+</map>

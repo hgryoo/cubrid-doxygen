@@ -1,0 +1,7 @@
+<map id="mvcc_active_tran::finalize" name="mvcc_active_tran::finalize">
+<area shape="rect" id="node2" href="$structmvcc__trans__status.html#a91cb2695fb133c27d738406892d5c00e" title="mvcc_trans_status::\lfinalize" alt="" coords="245,5,386,47"/>
+<area shape="rect" id="node4" href="$unittests__snapshot_8c.html#a201e7c1256d2c578f6aa1deddf33d378" title="logtb_finalize_mvcc\l_testing" alt="" coords="247,71,384,112"/>
+<area shape="rect" id="node5" href="$log__tran__table_8c.html#a41a4beb0cb6c9ce16058a422a9c6c0d5" title="logtb_free_tran_mvcc_info" alt="" coords="228,137,403,163"/>
+<area shape="rect" id="node3" href="$classmvcctable.html#a7226e934e23d4aa631ac8c6e199b9265" title="mvcctable::finalize" alt="" coords="451,13,581,39"/>
+<area shape="rect" id="node6" href="$log__tran__table_8c.html#a6cc94001cf3c733f41073e2b847a8275" title="logtb_finalize_tdes" alt="" coords="451,137,581,163"/>
+</map>

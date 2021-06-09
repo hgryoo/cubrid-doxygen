@@ -1,0 +1,8 @@
+<map id="vacuum_data" name="vacuum_data">
+<area shape="rect" id="node2" href="$classvacuum__shutdown__sequence.html" title="{vacuum_shutdown_sequence\n|&#45; m_state\l|+ vacuum_shutdown_sequence()\l+ request_shutdown()\l+ is_shutdown_requested()\l+ check_shutdown_request()\l}" alt="" coords="5,637,220,759"/>
+<area shape="rect" id="node3" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="252,5,357,244"/>
+<area shape="rect" id="node6" href="$structvacuum__data__entry.html" title="{vacuum_data_entry\n|+ blockid\l+ oldest_visible_mvccid\l+ newest_mvccid\l|+ vacuum_data_entry()\l+ vacuum_data_entry()\l+ vacuum_data_entry()\l+ get_blockid()\l+ is_available()\l+ is_vacuumed()\l+ is_job_in_progress()\l+ was_interrupted()\l+ set_vacuumed()\l+ set_job_in_progress()\l+ set_interrupted()\l}" alt="" coords="302,307,465,560"/>
+<area shape="rect" id="node4" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="494,652,555,744"/>
+<area shape="rect" id="node5" href="$structvacuum__data__page.html" title="{vacuum_data_page\n|+ index_unvacuumed\l+ index_free\l+ INDEX_NOT_FOUND\l|+ is_empty()\l+ is_index_valid()\l+ get_index_of_blockid()\l+ get_first_blockid()\l}" alt="" coords="303,623,469,773"/>
+<area shape="rect" id="node7" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="489,387,561,479"/>
+</map>

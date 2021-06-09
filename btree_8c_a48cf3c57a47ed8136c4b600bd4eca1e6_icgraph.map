@@ -1,0 +1,6 @@
+<map id="btree_write_default_split_info" name="btree_write_default_split_info">
+<area shape="rect" id="node2" href="$btree_8c.html#a1012b26ece22db26540906ab85b6ef30" title="btree_merge_node" alt="" coords="185,5,315,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a7e6a2a7c52c52fd7d265d9f1c4282382" title="btree_merge_root" alt="" coords="189,56,311,83"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a29dab257ee803a595192321147caa5ed" title="btree_split_root" alt="" coords="195,107,305,133"/>
+<area shape="rect" id="node3" href="$btree_8c.html#acea286eb82079783f298baa39d4cd373" title="btree_merge_node_and\l_advance" alt="" coords="363,23,520,65"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="pt_to_corr_subquery_list" name="pt_to_corr_subquery_list">
+<area shape="rect" id="node2" href="$xasl__generation_8h.html#a458126f420f8b0656db0665b77735b50" title="pt_set_dptr" alt="" coords="217,110,304,136"/>
+<area shape="rect" id="node6" href="$xasl__generation_8c.html#ac00afe3347320f27638ab8dbd860fa5c" title="pt_to_buildlist_proc" alt="" coords="777,34,912,60"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#a5102adacf28a2cda8aa170e7b07af380" title="qo_to_xasl" alt="" coords="381,160,466,187"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#afd6761fab9963e24b03f19721dd09687" title="pt_to_scan_proc_list" alt="" coords="352,110,495,136"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#a9336a49c7a336190e77564ac07c1827c" title="pt_gen_simple_plan" alt="" coords="564,110,701,136"/>
+<area shape="rect" id="node7" href="$xasl__generation_8c.html#ab1a51869aa06f95a76d04529f2bdc244" title="pt_to_buildvalue_proc" alt="" coords="771,110,919,136"/>
+<area shape="rect" id="node8" href="$xasl__generation_8h.html#a941d8e6bed40e4b7edca3efcd3c024cc" title="pt_gen_simple_merge_plan" alt="" coords="543,59,723,86"/>
+</map>

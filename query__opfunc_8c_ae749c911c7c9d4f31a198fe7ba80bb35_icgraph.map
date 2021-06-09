@@ -1,0 +1,10 @@
+<map id="qdata_subtract_float_to_dbval" name="qdata_subtract_float_to_dbval">
+<area shape="rect" id="node2" href="$query__opfunc_8h.html#a994c370cfc8c103ea406a53ab82a0bf0" title="qdata_subtract_dbval" alt="" coords="193,165,340,192"/>
+<area shape="rect" id="node3" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="424,5,543,32"/>
+<area shape="rect" id="node4" href="$query__aggregate_8hpp.html#aaab4cfccc7f11e0574aaeb4a91ff5cdc" title="qdata_finalize_aggregate_list" alt="" coords="388,56,579,83"/>
+<area shape="rect" id="node5" href="$query__analytic_8hpp.html#a60ac6e5d89053f1f38e3bd6caaaa4882" title="qdata_finalize_analytic_func" alt="" coords="390,107,577,133"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#a72023d68640e64dc4189aff88b46c9db" title="qexec_get_orderbynum\l_upper_bound" alt="" coords="405,158,562,199"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#a98a1f60a3ebf25d580cbc13d703ab704" title="qdata_add_short_to\l_utime_asymmetry" alt="" coords="415,223,551,265"/>
+<area shape="rect" id="node8" href="$query__opfunc_8c.html#ae9c5eff252be4bb7376c151b0e4455ea" title="qdata_add_int_to_utime\l_asymmetry" alt="" coords="403,289,563,330"/>
+<area shape="rect" id="node9" href="$query__opfunc_8c.html#a5e54bda7ae13fe8bb62ce04218d62247" title="qdata_add_bigint_to\l_utime_asymmetry" alt="" coords="414,354,553,395"/>
+</map>

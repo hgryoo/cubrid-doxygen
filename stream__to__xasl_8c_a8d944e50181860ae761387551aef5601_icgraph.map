@@ -1,0 +1,7 @@
+<map id="stx_build_val_list" name="stx_build_val_list">
+<area shape="rect" id="node2" href="$stream__to__xasl_8c.html#a35265eab1ec9f98546e38d7b1d566818" title="stx_restore_val_list" alt="" coords="176,55,311,81"/>
+<area shape="rect" id="node3" href="$stream__to__xasl_8c.html#afa525649c2f8b18da865b325b5098f31" title="stx_build_xasl_node" alt="" coords="580,55,720,81"/>
+<area shape="rect" id="node4" href="$stream__to__xasl_8c.html#ab1ae88c5629ceb75c59b0ec7cff04e20" title="stx_build_buildlist_proc" alt="" coords="367,29,524,56"/>
+<area shape="rect" id="node5" href="$stream__to__xasl_8c.html#a8efcbb6d2a568391035610ba0c7c112f" title="stx_build_mergelist_proc" alt="" coords="362,80,529,107"/>
+<area shape="rect" id="node6" href="$stream__to__xasl_8c.html#af522886337ec4decc8370f4f0564b255" title="stx_build_connectby_proc" alt="" coords="359,131,532,157"/>
+</map>

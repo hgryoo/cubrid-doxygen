@@ -1,0 +1,5 @@
+<map id="TheObstackHeapType" name="TheObstackHeapType">
+<area shape="rect" id="node2" href="$classHL_1_1SizeHeap.html" title="{HL::SizeHeap\&lt; ObstackHeap\l\&lt; 0, MallocHeap \&gt; \&gt;\n||+ ~SizeHeap()\l+ malloc()\l+ free()\l+ getSize()\l&#45; setSize()\l&#45; getHeader()\l}" alt="" coords="80,380,276,545"/>
+<area shape="rect" id="node3" href="$classHL_1_1ObstackHeap.html" title="{HL::ObstackHeap\&lt; 0,\l MallocHeap \&gt;\n|&#45; m_chkSize\l&#45; currentBase\l&#45; nextPos\l&#45; currentChunk\l|+ ObstackHeap()\l+ ~ObstackHeap()\l+ reset()\l+ grow()\l+ malloc()\l+ free()\l+ getObjectBase()\l+ finalize()\l&#45; objectSize()\l&#45; isValid()\l&#45; makeChunk()\l&#45; copyToNew()\l}" alt="" coords="5,5,156,303"/>
+<area shape="rect" id="node4" href="$classHL_1_1SizeHeap.html" title="Allocates extra room for the size of an object. " alt="" coords="180,79,373,229"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="shard_stmt_set_status" name="shard_stmt_set_status">
+<area shape="rect" id="node2" href="$shard__statement_8h.html#ad1684a3261f23ec53741e8257045d04a" title="shard_stmt_set_status\l_complete" alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node5" href="$shard__statement_8h.html#a699693c586c265d82e65e0432538456b" title="shard_stmt_set_status\l_invalid" alt="" coords="208,71,363,112"/>
+<area shape="rect" id="node3" href="$shard__statement_8h.html#ab37f176826e6e1b2f504041ed49de043" title="shard_stmt_add_srv\l_h_id_for_shard_cas" alt="" coords="431,5,574,47"/>
+<area shape="rect" id="node4" href="$shard__proxy__function_8h.html#aecdb57a783bffc4f067a7931e8872525" title="fn_proxy_cas_prepare" alt="" coords="643,42,793,69"/>
+<area shape="rect" id="node6" href="$shard__proxy__function_8c.html#ac044d2d1f930db973b1646e0fb1fb45b" title="proxy_cas_execute_internal" alt="" coords="411,122,595,149"/>
+</map>

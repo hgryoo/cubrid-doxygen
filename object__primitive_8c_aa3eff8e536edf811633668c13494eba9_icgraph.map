@@ -1,0 +1,8 @@
+<map id="mr_null_oid" name="mr_null_oid">
+<area shape="rect" id="node2" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="503,96,643,138"/>
+<area shape="rect" id="node3" href="$object__primitive_8c.html#a5e0cb990344802c2ac29d3f01657c487" title="mr_initmem_object" alt="" coords="141,28,273,54"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#abf0f68cf5cee5218bb55b4da15134f84" title="mr_setmem_object" alt="" coords="321,78,455,105"/>
+<area shape="rect" id="node5" href="$object__primitive_8c.html#a12a9495ed23cbb2eabff737419f47f09" title="mr_initmem_oid" alt="" coords="150,129,265,156"/>
+<area shape="rect" id="node7" href="$object__primitive_8c.html#aec4ffaaf5f6d0de60d44cb7112c373c4" title="mr_initval_oid" alt="" coords="337,230,439,257"/>
+<area shape="rect" id="node6" href="$object__primitive_8c.html#a3f1daccf5e109d6218bec5fabd89afa2" title="mr_setmem_oid" alt="" coords="331,180,445,206"/>
+</map>

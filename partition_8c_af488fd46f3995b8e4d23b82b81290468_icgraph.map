@@ -1,0 +1,6 @@
+<map id="partition_free_cache_entry_kv" name="partition_free_cache_entry_kv">
+<area shape="rect" id="node2" href="$partition__sr_8h.html#ab02785ce6fb41431104189dc8ca29d6d" title="partition_cache_finalize" alt="" coords="194,8,353,35"/>
+<area shape="rect" id="node4" href="$partition__sr_8h.html#a52a95bcc2d70fec238c91c2b07d02230" title="partition_decache_class" alt="" coords="192,60,355,87"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="403,5,561,32"/>
+<area shape="rect" id="node5" href="$log__manager_8c.html#ab4caf562d8285575e31569853071f90e" title="log_cleanup_modified\l_class" alt="" coords="409,57,555,98"/>
+</map>

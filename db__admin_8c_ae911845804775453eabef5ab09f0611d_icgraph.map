@@ -1,0 +1,4 @@
+<map id="db_2pc_prepared_transactions" name="db_2pc_prepared_transactions">
+<area shape="rect" id="node2" href="$cas__xa_8c.html#afc7445f1f25d3ee1b0428804168e52bc" title="fn_xa_end_tran" alt="" coords="252,5,363,32"/>
+<area shape="rect" id="node3" href="$cas__xa_8c.html#a7f05423a6e9d965b9b37de3bcf6c1407" title="fn_xa_recover" alt="" coords="255,56,359,83"/>
+</map>

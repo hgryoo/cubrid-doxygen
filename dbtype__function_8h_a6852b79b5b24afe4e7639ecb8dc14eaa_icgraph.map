@@ -1,0 +1,14 @@
+<map id="db_value_compare" name="db_value_compare">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#ad83c26cf50e690ff017b73dc83d62521" title="adjust_partition_range" alt="" coords="199,59,349,86"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a71e57012993f98148b4b9bb1236f7daa" title="do_create_partition" alt="" coords="429,9,561,35"/>
+<area shape="rect" id="node6" href="$semantic__check_8c.html#ab0d4d5d1ebc61a71537d18fe2d1843d2" title="db_value_list_find" alt="" coords="211,110,337,137"/>
+<area shape="rect" id="node7" href="$semantic__check_8c.html#a5843229c5e01ec51876cbfc885b6377a" title="pt_check_alter_partition" alt="" coords="415,211,575,238"/>
+<area shape="rect" id="node8" href="$semantic__check_8c.html#a1919348708445a43b9b3754e86b0ee31" title="db_value_list_finddel" alt="" coords="203,211,345,238"/>
+<area shape="rect" id="node9" href="$semantic__check_8c.html#ad14ebf9b1bc472afa5b3bb8d1b2e2eeb" title="partition_range_min_max" alt="" coords="191,262,357,289"/>
+<area shape="rect" id="node10" href="$semantic__check_8c.html#ae3dbc5766e6d231bb7a44f2b8c79efd9" title="pt_check_range_partition\l_strict_increasing" alt="" coords="191,313,357,355"/>
+<area shape="rect" id="node11" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="184,379,364,406"/>
+<area shape="rect" id="node12" href="$semantic__check_8c.html#ad6c8b1df76c49dcdfff71dd9da43bac4" title="pt_value_links_add" alt="" coords="207,430,341,457"/>
+<area shape="rect" id="node13" href="$query__rewrite_8c.html#a5ecaad59901dae61b16cce522e26a56d" title="qo_reduce_comp_pair\l_terms" alt="" coords="199,481,349,523"/>
+<area shape="rect" id="node4" href="$execute__schema_8h.html#a8d9a955e21fdad284b4980448aba4ce8" title="do_drop_partition_list" alt="" coords="423,59,568,86"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#aedeb2a4d7196782cc611f23eb45aa388" title="do_promote_partition_list" alt="" coords="412,110,579,137"/>
+</map>

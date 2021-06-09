@@ -1,0 +1,13 @@
+<map id="print_newline" name="print_newline">
+<area shape="rect" id="node2" href="$broker__monitor_8c.html#aa615f8a788a331bc64caacb63a5d291a" title="appl_info_display" alt="" coords="162,5,285,32"/>
+<area shape="rect" id="node3" href="$broker__monitor_8c.html#ab0748e439b24ef0db7e2bce5f07a5461" title="appl_monitor" alt="" coords="365,107,461,133"/>
+<area shape="rect" id="node4" href="$broker__monitor_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="532,284,583,311"/>
+<area shape="rect" id="node5" href="$broker__monitor_8c.html#a2f74a9448f3592764b4b477bf01aa11e" title="brief_monitor" alt="" coords="365,383,462,409"/>
+<area shape="rect" id="node6" href="$broker__monitor_8c.html#a07b6be114b47cf39e0109f9464cb8ac3" title="client_monitor" alt="" coords="362,259,465,285"/>
+<area shape="rect" id="node7" href="$broker__monitor_8c.html#abb2e5e0380a1939d498f1a7554c017d4" title="metadata_monitor" alt="" coords="350,309,477,336"/>
+<area shape="rect" id="node8" href="$broker__monitor_8c.html#a26c689c0b90208dbb0fb1e654036332d" title="print_appl_header" alt="" coords="161,107,285,133"/>
+<area shape="rect" id="node9" href="$broker__monitor_8c.html#a9c5a83cf315d31e9b0a3f937cce57a3b" title="print_job_queue" alt="" coords="167,157,280,184"/>
+<area shape="rect" id="node10" href="$broker__monitor_8c.html#a28946d36c000cfde04ce211004a875ae" title="print_monitor_header" alt="" coords="152,411,295,437"/>
+<area shape="rect" id="node11" href="$broker__monitor_8c.html#a4eab2584a393abea20840d5a0dfdf595" title="print_monitor_items" alt="" coords="155,461,291,488"/>
+<area shape="rect" id="node12" href="$broker__monitor_8c.html#aa4169a7f9ccecc88077b8593c70b1edf" title="unusable_databases\l_monitor" alt="" coords="343,481,484,522"/>
+</map>

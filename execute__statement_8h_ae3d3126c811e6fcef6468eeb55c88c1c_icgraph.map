@@ -1,0 +1,6 @@
+<map id="do_scope" name="do_scope">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="324,5,479,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="153,64,255,91"/>
+<area shape="rect" id="node5" href="$parser_8h.html#a81fed221e67fa0719c7067ac2837b042" title="pt_exec_trigger_stmt" alt="" coords="132,115,276,141"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="527,25,679,66"/>
+</map>

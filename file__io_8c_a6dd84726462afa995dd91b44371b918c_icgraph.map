@@ -1,0 +1,21 @@
+<map id="fileio_is_system_volume_id_equal" name="fileio_is_system_volume_id_equal">
+<area shape="rect" id="node2" href="$file__io_8h.html#a1cdb5a92f44e3df3870badcc0d12a25d" title="fileio_get_volume_descriptor" alt="" coords="219,448,405,475"/>
+<area shape="rect" id="node20" href="$file__io_8h.html#a03a0420b8f519b7474a46fae037ab497" title="fileio_get_volume_label" alt="" coords="233,185,391,212"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a3e817661d1b1d12e8287beaac17f820c" title="disk_is_page_sector\l_reserved_with_debug_crash" alt="" coords="453,57,644,98"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8c.html#ad239ae8b08d1c10f627f2ada75eab28d" title="dwb_write_block" alt="" coords="489,123,608,149"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8c.html#afcf0480c55f8a719699f416082dc8206" title="dwb_check_data_page\l_is_sane" alt="" coords="471,174,626,215"/>
+<area shape="rect" id="node6" href="$file__io_8h.html#aa75cdab84d7f1fe8869b21ba3a2f75c1" title="fileio_expand_to" alt="" coords="491,5,607,32"/>
+<area shape="rect" id="node7" href="$file__io_8h.html#a11b2c6372c828205489c44b12404d3b8" title="fileio_rename" alt="" coords="499,240,598,267"/>
+<area shape="rect" id="node8" href="$file__io_8h.html#a11b5397c8046c01396c65e0782d42941" title="fileio_is_temp_volume" alt="" coords="473,291,624,317"/>
+<area shape="rect" id="node9" href="$file__io_8h.html#a27724bf8b48796a8b30252cef51d9910" title="fileio_find_next_perm\l_volume" alt="" coords="476,342,621,383"/>
+<area shape="rect" id="node10" href="$file__io_8h.html#afba1ced7ce17fcbde101b6a452937541" title="fileio_find_previous\l_perm_volume" alt="" coords="482,407,615,449"/>
+<area shape="rect" id="node11" href="$file__io_8h.html#a0a289339d4e63bad13a97f323afd83bd" title="fileio_find_previous\l_temp_volume" alt="" coords="482,473,615,514"/>
+<area shape="rect" id="node12" href="$file__io_8h.html#a19a91bb75511ce2bfa5fe4e18fe88dcc" title="fileio_backup_volume" alt="" coords="475,539,622,565"/>
+<area shape="rect" id="node13" href="$page__buffer_8h.html#a6b01f06784aac39287aeb3f0f4f3f348" title="pgbuf_copy_to_area" alt="" coords="479,589,618,616"/>
+<area shape="rect" id="node14" href="$page__buffer_8h.html#a41039f334804ca635d00d7911be11c1b" title="pgbuf_copy_from_area" alt="" coords="471,640,626,667"/>
+<area shape="rect" id="node15" href="$page__buffer_8c.html#a8cbce269e04ed30279485fc77e786430" title="pgbuf_claim_bcb_for_fix" alt="" coords="467,691,630,717"/>
+<area shape="rect" id="node16" href="$page__buffer_8c.html#a6ebdf1006f6b5bb49a3fc4c4f8f75e31" title="pgbuf_bcb_flush_with_wal" alt="" coords="692,767,867,793"/>
+<area shape="rect" id="node17" href="$page__buffer_8c.html#aa7f4946b49981798d50ffae1c26aeee4" title="pgbuf_check_bcb_page_vpid" alt="" coords="453,792,644,819"/>
+<area shape="rect" id="node18" href="$boot__sr_8h.html#af22273abf42535dc9e08de112e5b4034" title="boot_dbparm_save_volume" alt="" coords="458,843,639,869"/>
+<area shape="rect" id="node19" href="$log__manager_8h.html#a62ffd154657b96161bcae79f707b4295" title="log_get_num_pages_for\l_creation" alt="" coords="469,894,629,935"/>
+</map>

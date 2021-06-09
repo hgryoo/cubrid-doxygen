@@ -1,0 +1,8 @@
+<map id="xboot_find_last_temp" name="xboot_find_last_temp">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a7f8c290cea7be8bc0880b003b83d59e1" title="boot_find_last_temp" alt="" coords="204,5,343,32"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a1a84495d7e351a40e4168507bb0a2c7e" title="disk_check" alt="" coords="229,56,317,83"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#ac5e1faf40b92d57e60ecc8c50fba89f1" title="sboot_find_last_temp" alt="" coords="200,107,347,133"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="419,5,565,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#ace20b0215551fade39404f63fbbcc932" title="xboot_check_db_consistency" alt="" coords="395,56,589,83"/>
+<area shape="rect" id="node7" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="439,107,545,133"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="set_create" name="set_create">
+<area shape="rect" id="node2" href="$db__set__function_8h.html#ab865d002c78a21e7277b58194d4354a3" title="db_col_create" alt="" coords="160,71,263,98"/>
+<area shape="rect" id="node5" href="$jsp__cl_8c.html#ae61781c4c90beb2039aa322e9c1c810a" title="jsp_unpack_set_value" alt="" coords="136,122,287,149"/>
+<area shape="rect" id="node7" href="$set__object_8h.html#a8433f942ce423dd6c45b53909e5a02d7" title="set_create_basic" alt="" coords="151,173,272,199"/>
+<area shape="rect" id="node8" href="$set__object_8h.html#aff460a6b0adffbc6d3022b690640f813" title="set_create_multi" alt="" coords="152,223,271,250"/>
+<area shape="rect" id="node9" href="$set__object_8h.html#a1f9cb9abd6de09ffdd727650c75a576b" title="set_create_sequence" alt="" coords="138,274,285,301"/>
+<area shape="rect" id="node3" href="$db__stub_8h.html#ad76bf175ed113ede83f99090c29e3988" title="api_collection_set\l_to_db_value" alt="" coords="362,5,489,47"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#af7a6f8b06ff0c4429d7a18e91c32bc1e" title="ldr_collection_db_collection" alt="" coords="335,71,516,98"/>
+<area shape="rect" id="node6" href="$jsp__cl_8c.html#adca4338f9836960f2d2ddd641d5cb91d" title="jsp_unpack_value" alt="" coords="362,122,489,149"/>
+</map>

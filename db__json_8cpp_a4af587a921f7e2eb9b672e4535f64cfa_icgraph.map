@@ -1,0 +1,21 @@
+<map id="db_json_delete_doc" name="db_json_delete_doc">
+<area shape="rect" id="node2" href="$classJSON__ITERATOR.html#a878cf5ee6d518ac213c7be4672174898" title="JSON_ITERATOR::clear\l_content" alt="" coords="191,12,360,53"/>
+<area shape="rect" id="node4" href="$db__json_8cpp.html#a3f40b126458e03b42c125c6bcfcce94b" title="db_json_deserialize" alt="" coords="207,166,343,193"/>
+<area shape="rect" id="node5" href="$object__primitive_8c.html#afd46f7a4465a77f691719a00d0d50bb8" title="mr_data_readmem_json" alt="" coords="425,71,586,98"/>
+<area shape="rect" id="node9" href="$object__primitive_8c.html#a5246354d02c1fcb477b01315011ee3be" title="mr_freemem_json" alt="" coords="212,223,339,250"/>
+<area shape="rect" id="node11" href="$object__primitive_8h.html#abdd8e69e6de537d16c0272caacd1618e" title="pr_clear_value" alt="" coords="222,509,329,535"/>
+<area shape="rect" id="node20" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="429,770,581,797"/>
+<area shape="rect" id="node3" href="$db__json_8cpp.html#a460f877336776410ae13f8bed78772e2" title="db_json_clear_json\l_iterator" alt="" coords="439,5,572,47"/>
+<area shape="rect" id="node7" href="$object__primitive_8c.html#a0f42c03a353314b0eaf853c4a219abeb" title="mr_data_readval_json" alt="" coords="431,122,580,149"/>
+<area shape="rect" id="node8" href="$object__primitive_8c.html#a12583b03b5a0552110b2d48f080f576a" title="mr_data_cmpdisk_json" alt="" coords="427,173,583,199"/>
+<area shape="rect" id="node6" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="651,165,791,207"/>
+<area shape="rect" id="node10" href="$object__primitive_8c.html#aa09ce7b8c86372cfaad601978ce7f863" title="mr_setmem_json" alt="" coords="444,274,567,301"/>
+<area shape="rect" id="node12" href="$db__stub_8c.html#a51db83c6a29bd957aea0225ed9886f11" title="stmt_destroyf" alt="" coords="454,618,557,645"/>
+<area shape="rect" id="node13" href="$db__stub_8c.html#a7fe6b2c90c8229bff396b2db348b9d39" title="stmt_prepare_internal" alt="" coords="432,669,579,695"/>
+<area shape="rect" id="node14" href="$language__support_8h.html#a7395f1d87f0629d0fa4cb59cdee8f817" title="lang_db_put_charset" alt="" coords="434,719,577,746"/>
+<area shape="rect" id="node15" href="$memory__hash_8h.html#a4a785441bf0504e86be2219006667469" title="mht_valhash" alt="" coords="457,349,553,375"/>
+<area shape="rect" id="node16" href="$object__representation__sr_8c.html#a4ef5b712a59b303dcc884350533cdf18" title="or_get_current_representation" alt="" coords="408,399,603,426"/>
+<area shape="rect" id="node17" href="$object__representation__sr_8h.html#a1dc8b183a1665d76dc8cc0523413dbee" title="or_class_get_partition_info" alt="" coords="417,450,594,477"/>
+<area shape="rect" id="node18" href="$network__interface__sr_8c.html#a05954042ad45d1d11c5dca82f55f2894" title="sbtree_find_unique\l_internal" alt="" coords="440,501,571,543"/>
+<area shape="rect" id="node19" href="$network__interface__sr_8h.html#a2c2dc5f8cd06018cc747328dfcb31eae" title="sbtree_find_multi_uniques" alt="" coords="419,567,592,594"/>
+</map>

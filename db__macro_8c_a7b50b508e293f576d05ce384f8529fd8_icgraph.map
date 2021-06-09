@@ -1,0 +1,11 @@
+<map id="coerce_time_to_dbvalue" name="coerce_time_to_dbvalue">
+<area shape="rect" id="node2" href="$dbtype__function_8h.html#a016e76c19ca1ec9246142c13e6734336" title="db_value_put" alt="" coords="216,198,315,225"/>
+<area shape="rect" id="node3" href="$db__stub_8h.html#ad76bf175ed113ede83f99090c29e3988" title="api_collection_set\l_to_db_value" alt="" coords="379,5,506,47"/>
+<area shape="rect" id="node4" href="$db__value__table_8c.html#aa9a789deca402677a794455213dc5372" title="value_to_db_value" alt="" coords="571,42,701,69"/>
+<area shape="rect" id="node5" href="$cas__execute_8c.html#a235ed61a310d3fc128b8c64464ce6c47" title="netval_to_dbval" alt="" coords="386,122,499,149"/>
+<area shape="rect" id="node6" href="$esql__cli_8c.html#ae1ea27cfbfc5c8cdddef8ae3c1836e3a" title="uci_put_value" alt="" coords="391,173,494,199"/>
+<area shape="rect" id="node7" href="$namespacecubload.html#aa77bed92b2702c46846b021199fbd7bc" title="cubload::to_db_numeric" alt="" coords="363,223,523,250"/>
+<area shape="rect" id="node8" href="$namespacecubload.html#a5c55b37ca45ea6cf3f004e0bc558c0bc" title="cubload::to_int_generic" alt="" coords="365,274,521,301"/>
+<area shape="rect" id="node9" href="$load__sa__loader_8cpp.html#a843e7b41907a7612b59500152cbd4889" title="ldr_int_elem" alt="" coords="397,325,489,351"/>
+<area shape="rect" id="node10" href="$load__sa__loader_8cpp.html#a05a894d305ba6e0f59dfa3d057d83426" title="ldr_numeric_elem" alt="" coords="381,375,505,402"/>
+</map>

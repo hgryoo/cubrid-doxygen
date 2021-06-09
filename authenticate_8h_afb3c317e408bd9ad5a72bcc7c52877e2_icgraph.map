@@ -1,0 +1,21 @@
+<map id="au_find_user" name="au_find_user">
+<area shape="rect" id="node2" href="$authenticate_8h.html#aa479c87e3576961adb289499447402f7" title="au_add_member_method" alt="" coords="154,31,322,57"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#abf5a1e3cd4160a51bc6acd4abff51bb6" title="au_add_user" alt="" coords="190,81,286,108"/>
+<area shape="rect" id="node8" href="$util__sa_8c.html#a5ca6959d779932ef8c5e4006a7425df1" title="parse_user_define_line" alt="" coords="375,157,529,184"/>
+<area shape="rect" id="node9" href="$authenticate_8h.html#a452d87c038c1682017cf8844bfa99bd2" title="au_change_owner_method" alt="" coords="149,183,327,209"/>
+<area shape="rect" id="node10" href="$authenticate_8h.html#aa94c06a8a0d5617454fb4fabb493531a" title="au_change_serial_owner\l_method" alt="" coords="155,234,321,275"/>
+<area shape="rect" id="node11" href="$authenticate_8h.html#a7d22a782f0758d8bf9c8176303152da1" title="au_change_sp_owner\l_method" alt="" coords="164,299,312,341"/>
+<area shape="rect" id="node12" href="$authenticate_8h.html#a861ab4bce20c095297b9433051ff5ae0" title="au_change_trigger_owner\l_method" alt="" coords="153,365,323,406"/>
+<area shape="rect" id="node13" href="$authenticate_8h.html#a8fff30d42532db4f32b472eee4df0482" title="au_drop_member_method" alt="" coords="152,431,324,457"/>
+<area shape="rect" id="node14" href="$authenticate_8h.html#a15ffc07ba57963ac29a0fd7632d3ee94" title="au_find_user_method" alt="" coords="165,481,311,508"/>
+<area shape="rect" id="node15" href="$authenticate_8c.html#a345411e85753dfbd58f1dfa3aae45a84" title="au_perform_login" alt="" coords="177,532,299,559"/>
+<area shape="rect" id="node16" href="$authenticate_8h.html#acf08ecf34ed25bda32e5baf8deeb5a99" title="au_start" alt="" coords="417,532,487,559"/>
+<area shape="rect" id="node17" href="$dbi__compat_8h.html#a2d0e9b7a779e0f4394bfb753cb1da4e5" title="db_find_user" alt="" coords="190,633,286,660"/>
+<area shape="rect" id="node20" href="$log__applier_8c.html#a70b0708cb334329d40d7e73128d87e70" title="la_apply_statement_log" alt="" coords="159,684,317,711"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#a5581e8490aedc2a925e56175aa49e85c" title="au_add_user_method" alt="" coords="379,5,525,32"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="413,56,491,83"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a77a6de51b9b24096626431c62f48edcd" title="db_add_user" alt="" coords="404,107,500,133"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#a4ca9f4f06ad7a4b72b201cfad249773b" title="do_create_user" alt="" coords="577,345,688,372"/>
+<area shape="rect" id="node18" href="$execute__statement_8h.html#aa4d6f717b96d17522534c16c872d1034" title="do_alter_user" alt="" coords="402,633,502,660"/>
+<area shape="rect" id="node19" href="$execute__statement_8h.html#a88e6a15f24dd843889fc94415640ea53" title="do_grant" alt="" coords="416,684,488,711"/>
+</map>

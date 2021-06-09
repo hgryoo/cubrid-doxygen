@@ -1,0 +1,18 @@
+<map id="lf_freelist_destroy" name="lf_freelist_destroy">
+<area shape="rect" id="node2" href="$classlf__hash__table__cpp.html#ada12110e273b141cea493afe75630d71" title="lf_hash_table_cpp::\ldestroy" alt="" coords="179,41,313,82"/>
+<area shape="rect" id="node6" href="$filter__pred__cache_8h.html#a84c8536e981cec2845f8aadb724f2bef" title="fpcache_initialize" alt="" coords="590,212,713,239"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#a400f8755cf8eb865c800fc6b7bdb2ddc" title="heap_finalize_hfid\l_table" alt="" coords="183,393,309,434"/>
+<area shape="rect" id="node11" href="$lock__manager_8h.html#a35fe926e018b16a88e80ba74bbe40d62" title="lock_finalize" alt="" coords="199,233,293,260"/>
+<area shape="rect" id="node14" href="$log__tran__table_8c.html#a00e2f5de21fcb39b987929ae1757e7c9" title="logtb_finalize_global\l_unique_stats_table" alt="" coords="373,310,512,351"/>
+<area shape="rect" id="node15" href="$list__file_8h.html#ab7e16b623ad694a73725e8f5056fd69e" title="qfile_finalize" alt="" coords="199,340,293,367"/>
+<area shape="rect" id="node17" href="$unittests__lf_8c.html#ad3666233ef0269833253c74bd5afe6af" title="test_freelist" alt="" coords="201,107,291,133"/>
+<area shape="rect" id="node3" href="$unittests__lf_8c.html#abe02ffc904471c0cf091cd8569247d99" title="test_hash_table" alt="" coords="385,56,500,83"/>
+<area shape="rect" id="node5" href="$unittests__lf_8c.html#a51584965e82a4d955594534bafdb90df" title="test_hash_iterator" alt="" coords="379,5,506,32"/>
+<area shape="rect" id="node4" href="$unittests__lf_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="626,56,677,83"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="779,317,913,344"/>
+<area shape="rect" id="node9" href="$heap__file_8h.html#aa9775422c60e8ebfce82739cdbf5a2bb" title="heap_manager_finalize" alt="" coords="365,427,520,453"/>
+<area shape="rect" id="node10" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="572,372,731,399"/>
+<area shape="rect" id="node12" href="$lock__manager_8h.html#a39894afba679cc8ff708080ea5ae6ac8" title="lock_initialize" alt="" coords="393,259,493,285"/>
+<area shape="rect" id="node13" href="$log__tran__table_8c.html#af3b0bac26ee4d5867e1ae5fb093e798a" title="logtb_undefine_trantable" alt="" coords="361,208,524,235"/>
+<area shape="rect" id="node16" href="$query__manager_8h.html#a31720786b29140e72cfc7906dbf60603" title="qmgr_finalize" alt="" coords="393,376,492,403"/>
+</map>

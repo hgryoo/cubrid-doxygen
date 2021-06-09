@@ -1,0 +1,20 @@
+<map id="heap_scancache_start_modify" name="heap_scancache_start_modify">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#ae78f0cc7ae261f26c82ccecc0b6f6ec0" title="boot_db_parm_update_heap" alt="" coords="207,71,392,98"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#acd52d882b98b65068e365f6ba20a2b0b" title="catcls_delete_catalog\l_classes" alt="" coords="225,123,373,164"/>
+<area shape="rect" id="node7" href="$catalog__class_8c.html#a6b775186b2da43dd55ca72709a9632bd" title="catcls_delete_subset" alt="" coords="227,189,372,215"/>
+<area shape="rect" id="node8" href="$locator__sr_8c.html#ad99ccfa2d0247243db7b8272ba40ff48" title="catcls_insert_catalog\l_classes" alt="" coords="227,240,372,281"/>
+<area shape="rect" id="node9" href="$locator__sr_8c.html#a6f18a8259b1deabed7d9a5c38672dbdd" title="catcls_update_catalog\l_classes" alt="" coords="455,269,607,311"/>
+<area shape="rect" id="node10" href="$catalog__class_8c.html#a00147e67f79dc24215279c77d1cfe977" title="catcls_insert_subset" alt="" coords="228,357,371,383"/>
+<area shape="rect" id="node11" href="$catalog__class_8c.html#a48510ab1df2c4a8d0aa731ff9935f3dc" title="catcls_update_subset" alt="" coords="225,407,374,434"/>
+<area shape="rect" id="node12" href="$locator__sr_8c.html#a3ec8ca9e5364109919ee52c486add7ec" title="locator_check_primary\l_key_delete" alt="" coords="223,459,376,500"/>
+<area shape="rect" id="node13" href="$locator__sr_8c.html#a65b9f6b49b3eaa536a20c55db7f99b3f" title="locator_check_primary\l_key_update" alt="" coords="223,524,376,565"/>
+<area shape="rect" id="node14" href="$locator__sr_8h.html#a69ed21461e1e250cc24bf4a332b3e37d" title="locator_start_force\l_scan_cache" alt="" coords="234,589,365,631"/>
+<area shape="rect" id="node15" href="$compactdb__sr_8c.html#a1e0028688783e0b16dba2ad6fae61155" title="process_class" alt="" coords="246,655,353,682"/>
+<area shape="rect" id="node16" href="$locator__sr_8c.html#ae8a912f57490caa58cd390d22535fd7b" title="redistribute_partition_data" alt="" coords="214,706,385,733"/>
+<area shape="rect" id="node17" href="$classcubload_1_1server__object__loader.html#ada680db0da5c55f1753d9dfecc3dd46a" title="cubload::server_object\l_loader::start_scancache" alt="" coords="215,757,383,799"/>
+<area shape="rect" id="node18" href="$tde_8c.html#a6f32ef346b6e5ef64c4e4fdb746c7191" title="tde_update_keyinfo" alt="" coords="232,823,367,850"/>
+<area shape="rect" id="node19" href="$locator__sr_8c.html#a4fd1b6b9619ed9d747c279ebda201d06" title="xlocator_upgrade_instances\l_domain" alt="" coords="207,875,391,916"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a603e4c24c4ae4354d9cc8ac9321d07d5" title="boot_remove_all_temp\l_volumes" alt="" coords="454,5,607,47"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="447,71,614,98"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#af22273abf42535dc9e08de112e5b4034" title="boot_dbparm_save_volume" alt="" coords="440,122,621,149"/>
+</map>

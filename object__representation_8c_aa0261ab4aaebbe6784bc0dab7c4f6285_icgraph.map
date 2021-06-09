@@ -1,0 +1,9 @@
+<map id="or_db_value_size" name="or_db_value_size">
+<area shape="rect" id="node2" href="$object__representation_8c.html#a08b9cf832ed7d6ea52c192db90939aed" title="or_header_size" alt="" coords="198,5,309,32"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8h.html#adb78b7f7e8f4e8d794cbd1a858f019d2" title="sserial_get_current\l_value" alt="" coords="187,57,319,98"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#a567c4412145b84f55f0226f4f10fb118" title="sserial_get_next_value" alt="" coords="176,123,331,149"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#aa48fb4c1fd4a390c132b6d723cc6f5d3" title="ssession_get_session\l_variable" alt="" coords="178,174,329,215"/>
+<area shape="rect" id="node7" href="$xasl__to__stream_8c.html#a751e8c477bf3c02816209515bd58dea8" title="xts_sizeof_db_value" alt="" coords="183,240,324,267"/>
+<area shape="rect" id="node4" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="393,123,499,149"/>
+<area shape="rect" id="node8" href="$xasl__to__stream_8c.html#ad51b11403fb2b9d04947807806be7065" title="xts_save_db_value" alt="" coords="379,240,513,267"/>
+</map>

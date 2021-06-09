@@ -1,0 +1,9 @@
+<map id="cubthread::lockfree_hashmap::erase" name="cubthread::lockfree_hashmap::erase">
+<area shape="rect" id="node2" href="$system__catalog_8c.html#a2846940209b4d2cf99fbb18f6fd423df" title="catalog_delete_key" alt="" coords="203,122,337,149"/>
+<area shape="rect" id="node7" href="$session_8c.html#a71d69cde86c3c178daebb2db6c86a657" title="session_remove_expired\l_sessions" alt="" coords="187,199,353,240"/>
+<area shape="rect" id="node3" href="$system__catalog_8c.html#a7427dedb4e841a0b70a7a11476e537f1" title="catalog_drop_all_representation\l_and_class" alt="" coords="407,5,613,47"/>
+<area shape="rect" id="node4" href="$system__catalog_8h.html#a4dce6236aa7369102102ae1429aadb7e" title="catalog_drop_old_representations" alt="" coords="402,71,618,98"/>
+<area shape="rect" id="node5" href="$system__catalog_8c.html#adfbf222479a168c21ec18083794167eb" title="catalog_drop_representation_item" alt="" coords="401,122,619,149"/>
+<area shape="rect" id="node6" href="$system__catalog_8c.html#a6a2596b6bb09db04e0189d4d9fcf1903" title="catalog_put_representation_item" alt="" coords="405,173,615,199"/>
+<area shape="rect" id="node8" href="$session_8c.html#a06dcecd0f3088510620d92365174af32" title="session_free_prepared\l_statement" alt="" coords="433,224,587,265"/>
+</map>

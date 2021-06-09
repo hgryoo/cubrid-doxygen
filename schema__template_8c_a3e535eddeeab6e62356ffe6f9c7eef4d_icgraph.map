@@ -1,0 +1,5 @@
+<map id="smt_is_change_status_allowed" name="smt_is_change_status_allowed">
+<area shape="rect" id="node2" href="$schema__template_8h.html#a12679fca2ff1d112bcbb84e37dd31c9b" title="smt_change_constraint\l_status" alt="" coords="207,23,364,65"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#ac770726929bfb229a6fde8c58f2e1374" title="sm_add_constraint" alt="" coords="421,5,553,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a2ff5d42d982116da47c78bc1dc95a337" title="do_alter_index_status" alt="" coords="412,56,561,83"/>
+</map>

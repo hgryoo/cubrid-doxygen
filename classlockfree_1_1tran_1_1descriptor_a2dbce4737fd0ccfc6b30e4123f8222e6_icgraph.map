@@ -1,0 +1,14 @@
+<map id="lockfree::tran::descriptor::start_tran" name="lockfree::tran::descriptor::start_tran">
+<area shape="rect" id="node2" href="$classlockfree_1_1freelist.html#a806d42cde415b3c618b703eff2560614" title="lockfree::freelist\l::claim" alt="" coords="240,12,355,53"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1hashmap.html#aa84d2f30a6f3bb4b2f541870bc5c198d" title="lockfree::hashmap::\lfreelist_claim" alt="" coords="437,71,575,112"/>
+<area shape="rect" id="node5" href="$classlockfree_1_1hashmap_1_1iterator.html#a21b2b8cca1a2916afbeb847336eccd8f" title="lockfree::hashmap::\literator::iterate" alt="" coords="229,129,366,171"/>
+<area shape="rect" id="node6" href="$classlockfree_1_1hashmap.html#a30873f2e80305d1b38513ef491279ad2" title="lockfree::hashmap::\llist_find" alt="" coords="229,195,366,236"/>
+<area shape="rect" id="node8" href="$classlockfree_1_1tran_1_1table.html#a3028c221e1734e8b4cfc74fc169e3ca1" title="lockfree::tran::table\l::start_tran" alt="" coords="230,260,365,301"/>
+<area shape="rect" id="node9" href="$classlockfree_1_1hashmap.html#af50cd7b163b37032193317c30c348b64" title="lockfree::hashmap::\lstart_tran" alt="" coords="229,325,366,367"/>
+<area shape="rect" id="node10" href="$classlockfree_1_1hashmap.html#a9db982e94bdc3c6953fd801de6c2a5f1" title="lockfree::hashmap::\lstart_tran_force" alt="" coords="229,391,366,432"/>
+<area shape="rect" id="node13" href="$classlockfree_1_1hashmap.html#af2b58f07833aea2f8d77090a2129ce7a" title="lockfree::hashmap::\lstart_tran_if_not_started" alt="" coords="216,456,379,497"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1freelist.html#af5a1aeac1b8815263e1f59094c51b13e" title="lockfree::freelist\l::claim" alt="" coords="449,5,563,47"/>
+<area shape="rect" id="node7" href="$classlockfree_1_1hashmap.html#a1b79c0976b2aa0d7efbd16beeacdcef2" title="lockfree::hashmap::find" alt="" coords="427,202,585,229"/>
+<area shape="rect" id="node11" href="$classlockfree_1_1hashmap.html#a694f6f22737d2e566ac47d0edb870a44" title="lockfree::hashmap::\llist_delete" alt="" coords="437,357,575,399"/>
+<area shape="rect" id="node12" href="$classlockfree_1_1hashmap.html#a192b05e789b596c2d2fe387c37717813" title="lockfree::hashmap::\llist_insert_internal" alt="" coords="437,423,575,464"/>
+</map>

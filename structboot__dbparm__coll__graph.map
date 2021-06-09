@@ -1,0 +1,7 @@
+<map id="boot_dbparm" name="boot_dbparm">
+<area shape="rect" id="node2" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,363,97,469"/>
+<area shape="rect" id="node3" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="287,261,352,339"/>
+<area shape="rect" id="node4" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="311,5,373,97"/>
+<area shape="rect" id="node5" href="$structctid.html" title="{ctid\n|+ hpgid\l|}" alt="" coords="357,377,423,455"/>
+<area shape="rect" id="node6" href="$structehid.html" title="{ehid\n|+ pageid\l|}" alt="" coords="430,160,502,237"/>
+</map>

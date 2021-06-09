@@ -1,0 +1,21 @@
+<map id="logtb_realloc_topops_stack" name="logtb_realloc_topops_stack">
+<area shape="rect" id="node2" href="$log__recovery_8c.html#a55342b1df03774997b07f168bc2f56ea" title="log_rv_analysis_end\l_checkpoint" alt="" coords="216,5,356,47"/>
+<area shape="rect" id="node4" href="$log__recovery_8c.html#a3f08e549de42ef85638163fbdb573640" title="log_rv_analysis_sysop_end" alt="" coords="195,71,377,98"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a82202c365e41626febff27eebda2d908" title="log_rv_analysis_sysop\l_start_postpone" alt="" coords="209,123,363,164"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#acbc3a63215e8924ed23841fb2321cd78" title="log_sysop_start" alt="" coords="229,445,343,471"/>
+<area shape="rect" id="node3" href="$log__recovery_8c.html#ac171971a3d45b8f97159ace9995bb21e" title="log_rv_analysis_record" alt="" coords="439,42,594,69"/>
+<area shape="rect" id="node7" href="$classcubload_1_1server__object__loader.html#a59e168f3f9d0312d95c9fe90786e5729" title="cubload::server_object\l_loader::flush_records" alt="" coords="440,93,593,135"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#acd4533cedf2007a5f83ab33c5281c081" title="qexec_execute_selupd_list" alt="" coords="427,159,606,186"/>
+<area shape="rect" id="node9" href="$serial_8c.html#aedd39ef4c027b8c4568faa44f288ea1a" title="serial_update_serial\l_object" alt="" coords="448,211,585,252"/>
+<area shape="rect" id="node10" href="$vacuum_8c.html#ab08a1e44f9d9db235a21e9fc4cde9992" title="vacuum_heap_record" alt="" coords="443,277,590,303"/>
+<area shape="rect" id="node11" href="$vacuum_8c.html#afe49168ac33babb418958578cae1bcbf" title="vacuum_data_empty_page" alt="" coords="427,327,606,354"/>
+<area shape="rect" id="node12" href="$vacuum_8h.html#a503bfb46b513078cca18c570df9907a6" title="vacuum_consume_buffer\l_log_blocks" alt="" coords="433,379,601,420"/>
+<area shape="rect" id="node13" href="$btree_8c.html#ac6cf5583334e01375cf6f96c1db3dd7f" title="xbtree_add_index" alt="" coords="455,445,579,471"/>
+<area shape="rect" id="node14" href="$btree_8c.html#abe79504ac909c0ca86fb150d0bf97fdb" title="btree_repair_prev_link\l_by_btid" alt="" coords="442,496,591,537"/>
+<area shape="rect" id="node15" href="$btree_8c.html#ae76900aeda71256f1f0389b8977d3b86" title="btree_delete_key_from_leaf" alt="" coords="425,562,608,589"/>
+<area shape="rect" id="node16" href="$btree_8c.html#a748a60d980be800bbef3524a564d3fc0" title="btree_replace_first\l_oid_with_ovfl_oid" alt="" coords="452,613,581,655"/>
+<area shape="rect" id="node17" href="$btree_8c.html#a1cfca91bee50811416d845ebc3bac695" title="btree_key_append_object\l_as_new_overflow" alt="" coords="431,679,602,720"/>
+<area shape="rect" id="node18" href="$btree_8c.html#a7a1974789f71aceef777e399fbdf8e8d" title="btree_split_test" alt="" coords="461,745,572,771"/>
+<area shape="rect" id="node19" href="$btree_8c.html#afdb8b30043a26fc4ea1042eda91a2220" title="btree_fix_root_for\l_insert" alt="" coords="455,796,578,837"/>
+<area shape="rect" id="node20" href="$btree_8c.html#a044540db3ec67e88e9313f84c6b242ee" title="btree_split_node_and\l_advance" alt="" coords="444,861,589,903"/>
+</map>

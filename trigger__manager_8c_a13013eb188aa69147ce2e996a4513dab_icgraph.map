@@ -1,0 +1,7 @@
+<map id="free_trigger" name="free_trigger">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#aea89c3d2a76f67e83e3ec3291add933e" title="map_flush_helper" alt="" coords="155,5,279,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#ab86886b8498d463986948822d3086b33" title="tr_create_trigger" alt="" coords="159,56,275,83"/>
+<area shape="rect" id="node5" href="$trigger__manager_8c.html#ad22e88534246991be186e6d3121cbd7c" title="tr_drop_trigger_internal" alt="" coords="140,107,295,133"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#adb8433e711d54260aa2106b6f1e0582c" title="tr_map_trigger" alt="" coords="165,157,270,184"/>
+<area shape="rect" id="node3" href="$trigger__manager_8h.html#a9e71fa0a6f1647abd4c892b9ba0699df" title="tr_final" alt="" coords="343,5,404,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="hl_register_lea_heap" name="hl_register_lea_heap">
+<area shape="rect" id="node2" href="$memory__alloc_8h.html#ad90bbcacd63904cd0f3195eac6a69c21" title="db_create_private_heap" alt="" coords="207,56,367,83"/>
+<area shape="rect" id="node5" href="$quick__fit_8h.html#ae1b6d7dfc897abac7266b739ac97a196" title="db_create_workspace_heap" alt="" coords="195,132,379,159"/>
+<area shape="rect" id="node3" href="$memory__alloc_8h.html#aac9a1b1645aef2f1fdc6a78b887137a6" title="db_replace_private_heap" alt="" coords="427,5,593,32"/>
+<area shape="rect" id="node4" href="$classcubthread_1_1entry.html#a1a58b2ccf1a49bb26f141603ffa533cb" title="cubthread::entry::entry" alt="" coords="433,56,587,83"/>
+<area shape="rect" id="node6" href="$quick__fit_8h.html#ac26b28329e1016d8e651739ac9782675" title="db_ws_alloc" alt="" coords="463,107,557,133"/>
+<area shape="rect" id="node7" href="$quick__fit_8h.html#abfbfba0a8d6b4cd5359defd2fe2cf0e2" title="db_ws_realloc" alt="" coords="641,132,747,159"/>
+<area shape="rect" id="node8" href="$work__space_8h.html#a7f356c42f2ee46cc4ff3f8cd9a06f0f7" title="ws_init" alt="" coords="479,208,541,235"/>
+</map>

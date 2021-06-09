@@ -1,0 +1,10 @@
+<map id="classobj_class_has_indexes" name="classobj_class_has_indexes">
+<area shape="rect" id="node2" href="$load__object_8h.html#a9d75c94d7a8cb332610ff2a82674ed89" title="desc_obj_to_disk" alt="" coords="193,31,316,57"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a0277fb5bec1fa146b673313393395928" title="la_repl_add_object" alt="" coords="189,107,320,133"/>
+<area shape="rect" id="node8" href="$transform__cl_8h.html#a275a0c1713145e8880a155f43d3e90b2" title="tf_mem_to_disk" alt="" coords="197,183,312,209"/>
+<area shape="rect" id="node3" href="$compactdb_8c.html#ac2aa20765fca98fd78c448d2dbeb5aab" title="disk_update_instance" alt="" coords="368,5,516,32"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a18990ec75cf521042876913c1a3c187e" title="la_apply_delete_log" alt="" coords="374,56,510,83"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#a2d40a24d77f7d73ad8df508c20a5dbdb" title="la_apply_update_log" alt="" coords="372,107,512,133"/>
+<area shape="rect" id="node7" href="$log__applier_8c.html#aae222bafc8147044057c499295141b9b" title="la_apply_insert_log" alt="" coords="375,157,509,184"/>
+<area shape="rect" id="node9" href="$locator__cl_8c.html#ae1ab889a41e85453e8459dc981e176d1" title="locator_mem_to_disk" alt="" coords="369,208,515,235"/>
+</map>

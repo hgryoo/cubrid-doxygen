@@ -1,0 +1,12 @@
+<map id="uw_sem_destroy" name="uw_sem_destroy">
+<area shape="rect" id="node2" href="$broker__admin__pub_8c.html#a2069352d734d14eb117b09560ade8dcd" title="br_inactivate" alt="" coords="178,107,274,133"/>
+<area shape="rect" id="node7" href="$broker__shm_8h.html#a768674cc3d3ddff16dbb3b78bdf6588f" title="uw_sem_post" alt="" coords="175,259,277,285"/>
+<area shape="rect" id="node3" href="$broker__admin__pub_8h.html#a14999819eaeeb81cb1aa69aef429116f" title="admin_off_cmd" alt="" coords="331,5,442,32"/>
+<area shape="rect" id="node4" href="$broker__admin__pub_8h.html#a21e0332265b07017b4f3211c3f455640" title="admin_on_cmd" alt="" coords="331,56,442,83"/>
+<area shape="rect" id="node5" href="$broker__admin__pub_8h.html#ad2b7e17f9a9fe16d07b20db49cea8f6b" title="admin_start_cmd" alt="" coords="325,107,448,133"/>
+<area shape="rect" id="node6" href="$broker__admin__pub_8h.html#aea3392ab9991db755b0a823eb606be60" title="admin_stop_cmd" alt="" coords="326,157,447,184"/>
+<area shape="rect" id="node8" href="$broker__acl_8h.html#ab32399b430ec959814b6fece00457ebd" title="access_control_read\l_config_file" alt="" coords="503,205,645,246"/>
+<area shape="rect" id="node9" href="$broker__acl_8h.html#a009c5b06975856669af84c0118cec511" title="access_control_check\l_right" alt="" coords="498,274,650,315"/>
+<area shape="rect" id="node10" href="$broker__acl_8c.html#a4cd7789bb087e7e16a8b7c979325b3a9" title="record_ip_access_time" alt="" coords="496,347,652,373"/>
+<area shape="rect" id="node11" href="$broker__shm_8h.html#a35e3717d2d1f10af2e99658150f54cee" title="uw_sem_wait" alt="" coords="335,259,438,285"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="db_sys_timestamp" name="db_sys_timestamp">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#ab41fe67fdef302caabdc13756cc1e64e" title="qmgr_dump_query_cache" alt="" coords="185,5,356,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#aca8081d942b87270b72646e7c75ab99f" title="sqp_get_sys_timestamp" alt="" coords="189,56,353,83"/>
+<area shape="rect" id="node3" href="$object__print_8h.html#a4a65ef5bd0fb5dd1001d243c1585dceb" title="help_print_info" alt="" coords="404,5,511,32"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="404,56,511,83"/>
+</map>

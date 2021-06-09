@@ -1,0 +1,10 @@
+<map id="db_free_query" name="db_free_query">
+<area shape="rect" id="node2" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="159,31,330,57"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a8843a5510e98769586c9da9fdaf50ef4" title="do_run_update_query\l_for_class" alt="" coords="171,115,318,157"/>
+<area shape="rect" id="node9" href="$schema__manager_8c.html#a74a7b74c0b75fb805a8392f15887cea6" title="sm_truncate_using_delete" alt="" coords="157,181,332,208"/>
+<area shape="rect" id="node3" href="$csql_8c.html#a5a64da02076e414cb5f4ebdeb89248b4" title="start_csql" alt="" coords="619,5,697,32"/>
+<area shape="rect" id="node4" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="400,31,551,57"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#a03dbf8ec3962e323a7e7fdcd814c8ce3" title="do_alter_clause_change\l_attribute" alt="" coords="394,82,557,123"/>
+<area shape="rect" id="node7" href="$execute__schema_8c.html#a060efc4b70ea5e6d3ecfde9412513aaf" title="do_run_update_query\l_for_new_notnull_fields" alt="" coords="396,147,555,189"/>
+<area shape="rect" id="node8" href="$execute__schema_8c.html#a9849a12bb2d549b839701d3e2cd8511f" title="do_run_update_query\l_for_new_default_expression\l_fields" alt="" coords="380,212,571,268"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="intl_nextchar_utf8" name="intl_nextchar_utf8">
+<area shape="rect" id="node2" href="$intl__support_8c.html#afa5953b6cc13f354f4dc898924718ea7" title="intl_count_utf8_bytes" alt="" coords="179,37,325,64"/>
+<area shape="rect" id="node4" href="$intl__support_8h.html#a45cdff5f657b03f9ab7fec54514b0b5d" title="intl_count_utf8_chars" alt="" coords="179,120,325,147"/>
+<area shape="rect" id="node9" href="$intl__support_8h.html#a13768cffbc351b07358890857ee18a12" title="intl_next_char" alt="" coords="201,171,303,197"/>
+<area shape="rect" id="node10" href="$intl__support_8h.html#adeff8d02c8a4bc42d8d887e83e50a1d6" title="intl_reverse_string" alt="" coords="188,233,316,260"/>
+<area shape="rect" id="node3" href="$intl__support_8h.html#a332b61367c01ecc8f588af8b340b293f" title="intl_char_size" alt="" coords="389,5,492,32"/>
+<area shape="rect" id="node5" href="$intl__support_8h.html#a1bb2a2e0646aff065a2549d956e228c1" title="intl_char_count" alt="" coords="385,56,496,83"/>
+<area shape="rect" id="node6" href="$intl__support_8h.html#a8fc072ea611dcffad0baf7674a591e7c" title="intl_identifier_lower" alt="" coords="374,107,507,133"/>
+<area shape="rect" id="node7" href="$intl__support_8h.html#aa0bd3b8c537da5a8c0ff834328286c0a" title="intl_identifier_upper" alt="" coords="373,157,508,184"/>
+<area shape="rect" id="node8" href="$uca__support_8c.html#a9535cccf3a38bec269e3620af67d00a8" title="read_cp_from_tag" alt="" coords="377,208,504,235"/>
+<area shape="rect" id="node11" href="$string__opfunc_8h.html#abc07d58c9bc7301d5e12d34527bcc870" title="db_string_reverse" alt="" coords="378,259,503,285"/>
+</map>

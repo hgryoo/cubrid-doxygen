@@ -1,0 +1,18 @@
+<map id="db_get_day_of_week" name="db_get_day_of_week">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#a49b66849d973f090fa5a939a4e8cccc0" title="db_date_format" alt="" coords="219,246,331,272"/>
+<area shape="rect" id="node6" href="$string__opfunc_8h.html#a232bfdbd299af3a32b5932414b4167ec" title="db_get_date_weekday" alt="" coords="199,6,351,32"/>
+<area shape="rect" id="node7" href="$string__opfunc_8h.html#a2395f2f7f27fbc595b20a45ae07e055c" title="db_str_to_date" alt="" coords="427,195,535,222"/>
+<area shape="rect" id="node8" href="$string__opfunc_8h.html#aafab0c858e89355b0abb993d7963b9c1" title="db_to_date" alt="" coords="438,43,525,70"/>
+<area shape="rect" id="node9" href="$string__opfunc_8h.html#a85991c1aa05e4fc184bebacc4a774e6b" title="db_to_datetime" alt="" coords="426,144,537,171"/>
+<area shape="rect" id="node10" href="$string__opfunc_8h.html#a60648e051e84a97b82fceb595d9af67b" title="db_to_timestamp" alt="" coords="420,347,543,374"/>
+<area shape="rect" id="node11" href="$fetch_8c.html#a015b39ce4e28d2ff2328f6604037ea71" title="get_date_weekday" alt="" coords="209,379,340,406"/>
+<area shape="rect" id="node12" href="$db__date_8c.html#ad10b97d141fc8737b4f30807c1f77cc6" title="get_end_of_week_one\l_of_year" alt="" coords="199,436,351,477"/>
+<area shape="rect" id="node14" href="$tz__support_8h.html#a01fc59cf0d1ebddedd3868f3c276e4bc" title="tz_get_first_weekday\l_around_date" alt="" coords="201,530,348,572"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="612,144,792,171"/>
+<area shape="rect" id="node4" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="643,246,761,272"/>
+<area shape="rect" id="node5" href="$string__opfunc_8h.html#ae098f640ed3ca456d10d26c09d4c8fd1" title="db_from_unixtime" alt="" coords="419,246,544,272"/>
+<area shape="rect" id="node13" href="$db__date_8h.html#ad896832339345586d29f68b310024f7b" title="db_get_week_of_year" alt="" coords="407,448,556,475"/>
+<area shape="rect" id="node15" href="$tz__compile_8c.html#a111769eac1b08561947a0fd70d0f1ee1" title="get_day_of_week_for\l_raw_rule" alt="" coords="408,500,555,541"/>
+<area shape="rect" id="node16" href="$tz__compile_8c.html#a1a01a8f8e889ba9bed122e8ee37afaaf" title="str_to_offset_rule\l_until" alt="" coords="420,565,543,606"/>
+<area shape="rect" id="node17" href="$tz__support_8h.html#a9d76ba65fd30c0073a171a2ec884d554" title="tz_get_ds_change_julian\l_date_diff" alt="" coords="399,630,564,672"/>
+</map>

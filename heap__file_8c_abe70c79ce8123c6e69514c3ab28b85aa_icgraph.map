@@ -1,0 +1,12 @@
+<map id="heap_estimate" name="heap_estimate">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a31b40122904f2702be5a39f0f924d0de" title="heap_estimate_avg_length" alt="" coords="165,35,343,61"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a18796c2016f863235220a82bd6386f58" title="heap_estimate_num_objects" alt="" coords="160,144,348,171"/>
+<area shape="rect" id="node9" href="$heap__file_8h.html#aa01005f79f5116d7cff49a77ac2feeb2" title="xheap_get_class_num\l_objects_pages" alt="" coords="178,275,330,317"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a434286ee57ed9911f84a4281b750ccf9" title="heap_assign_address" alt="" coords="413,5,561,32"/>
+<area shape="rect" id="node5" href="$statistics__sr_8c.html#a502d831d7f2d3b593c5d107748aae384" title="xstats_update_statistics" alt="" coords="405,56,569,83"/>
+<area shape="rect" id="node6" href="$statistics__sr_8c.html#a197b8a66e5cc0b46843f790c5c865c09" title="xstats_get_statistics\l_from_server" alt="" coords="416,107,559,149"/>
+<area shape="rect" id="node7" href="$locator__sr_8c.html#a7d4468c551465a0acbae0f621c841197" title="xlocator_fetch_all" alt="" coords="425,173,549,200"/>
+<area shape="rect" id="node8" href="$locator__sr_8c.html#a3c9a757e40e4fa7d69245a99289b3f35" title="xlocator_lock_and_fetch_all" alt="" coords="396,224,579,251"/>
+<area shape="rect" id="node10" href="$network__interface__cl_8h.html#af2f22c0763539e26869c0b5bb3f7d753" title="heap_get_class_num\l_objects_pages" alt="" coords="415,275,560,317"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#ade22bfa8a0de53b64942575baedd39c4" title="shf_get_class_num_objs\l_and_pages" alt="" coords="404,341,571,382"/>
+</map>

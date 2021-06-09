@@ -1,0 +1,13 @@
+<map id="locator_lock_and_get_object" name="locator_lock_and_get_object">
+<area shape="rect" id="node2" href="$locator__sr_8h.html#a891018ca0e900f206c7635aa258af74b" title="locator_attribute_info\l_force" alt="" coords="199,275,341,317"/>
+<area shape="rect" id="node9" href="$compactdb__sr_8c.html#af8d44168ffe6aff088291e3bc5771d7e" title="process_object" alt="" coords="421,407,532,433"/>
+<area shape="rect" id="node11" href="$locator__sr_8c.html#a3ec8ca9e5364109919ee52c486add7ec" title="locator_check_primary\l_key_delete" alt="" coords="400,458,553,499"/>
+<area shape="rect" id="node12" href="$locator__sr_8c.html#a65b9f6b49b3eaa536a20c55db7f99b3f" title="locator_check_primary\l_key_update" alt="" coords="400,523,553,565"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#aa789b9a1da1ee681d9ad9464672c2325" title="qexec_execute_update" alt="" coords="399,123,555,149"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a6a52d397abf14eeef1f1a23bccd2ed42" title="qexec_execute_delete" alt="" coords="401,173,553,200"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a330cfcba16e2910848ac1ae251d50dc1" title="qexec_remove_duplicates\l_for_replace" alt="" coords="390,275,563,317"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="612,283,761,309"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#aedafb43c80a9e4a8e19101d2e236487a" title="qexec_execute_duplicate\l_key_update" alt="" coords="392,341,561,382"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#ae6812e87919ebe9f115d770cfe30ad9c" title="qexec_execute_increment" alt="" coords="389,5,564,32"/>
+<area shape="rect" id="node10" href="$heap__file_8h.html#a745a52a21d15c06a1af94740bfc9c287" title="heap_object_upgrade\l_domain" alt="" coords="404,57,549,98"/>
+</map>

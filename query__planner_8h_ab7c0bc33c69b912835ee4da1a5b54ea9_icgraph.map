@@ -1,0 +1,21 @@
+<map id="qo_is_iscan" name="qo_is_iscan">
+<area shape="rect" id="node2" href="$plan__generation_8c.html#a851ad3e58cae2b277cdf3f058e304cac" title="gen_outer" alt="" coords="200,56,279,83"/>
+<area shape="rect" id="node6" href="$plan__generation_8c.html#a3470711dbdf1fc9ae87ecf799133e4a5" title="qo_check_iscan_for\l_multi_range_opt" alt="" coords="393,259,531,301"/>
+<area shape="rect" id="node7" href="$query__planner_8c.html#a82cfa5f4b039ab1cc94a7b66059f2802" title="qo_index_scan_new" alt="" coords="601,267,741,293"/>
+<area shape="rect" id="node9" href="$plan__generation_8c.html#a31d3e4c3fd158096995855cd97c2fafc" title="qo_check_plan_index\l_for_multi_range_opt" alt="" coords="166,269,313,310"/>
+<area shape="rect" id="node10" href="$query__planner_8h.html#a913cdfba2b62c965e7ac3bb41d9d1227" title="qo_is_all_unique_index\l_columns_are_equi_terms" alt="" coords="152,513,327,554"/>
+<area shape="rect" id="node12" href="$query__planner_8c.html#adafe7df4a463064ba79b4df4fe6009b7" title="qo_search_partition_join" alt="" coords="589,579,752,605"/>
+<area shape="rect" id="node13" href="$plan__generation_8c.html#a2a22a9310a8b3a31c30ff1cdc4822acb" title="qo_is_index_loose_scan" alt="" coords="157,461,321,488"/>
+<area shape="rect" id="node16" href="$query__planner_8c.html#acb380e75f92ed150485b85d18ff537ad" title="qo_scan_info" alt="" coords="413,579,511,605"/>
+<area shape="rect" id="node17" href="$query__planner_8h.html#a3cca906543428b71b810c91aa514f4e4" title="qo_is_interesting_order_scan" alt="" coords="144,411,335,437"/>
+<area shape="rect" id="node18" href="$query__planner_8c.html#adbe3220b1de0a7016bbbddcd472a1157" title="qo_nljoin_cost" alt="" coords="187,680,292,707"/>
+<area shape="rect" id="node19" href="$query__planner_8c.html#adbef49094ecce7d6b0a39410a957a7fa" title="qo_set_orderby_skip" alt="" coords="168,731,311,757"/>
+<area shape="rect" id="node20" href="$query__planner_8c.html#a327f40dfe382798a7dba7aa363fd4d1e" title="qo_set_use_desc" alt="" coords="609,187,733,213"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#a5ba46846df3d11008f3c7d2fd4fa6cf3" title="gen_inner" alt="" coords="423,5,501,32"/>
+<area shape="rect" id="node4" href="$plan__generation_8c.html#a38a4745f054db7cd1f993f7e5fd494dd" title="make_sort_limit_proc" alt="" coords="389,56,535,83"/>
+<area shape="rect" id="node5" href="$plan__generation_8c.html#a5102adacf28a2cda8aa170e7b07af380" title="qo_to_xasl" alt="" coords="419,107,505,133"/>
+<area shape="rect" id="node8" href="$query__planner_8c.html#a95e522736be6c3ba92de264e5383eba5" title="qo_search_planner" alt="" coords="800,267,931,293"/>
+<area shape="rect" id="node11" href="$query__planner_8c.html#a339ec9f3a7428a9562981e87be076b93" title="qo_plan_cmp" alt="" coords="413,528,511,555"/>
+<area shape="rect" id="node14" href="$xasl__generation_8c.html#ae115559464c7b24184e599859c2590f8" title="pt_to_index_info" alt="" coords="403,427,521,453"/>
+<area shape="rect" id="node15" href="$plan__generation_8c.html#ad1de375954e202fa8a7a737b8dfa3e30" title="qo_get_xasl_index_info" alt="" coords="383,376,541,403"/>
+</map>

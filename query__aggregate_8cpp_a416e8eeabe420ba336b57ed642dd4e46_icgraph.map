@@ -1,0 +1,5 @@
+<map id="qdata_process_distinct_or_sort" name="qdata_process_distinct_or_sort">
+<area shape="rect" id="node2" href="$query__aggregate_8hpp.html#a9de3d02b6b2c2e9a0d87b41561f747b4" title="qdata_initialize_aggregate_list" alt="" coords="209,42,405,69"/>
+<area shape="rect" id="node3" href="$query__executor_8h.html#a7d0bca1e8254f25b16a026620d4ebdab" title="qexec_start_mainblock\l_iterations" alt="" coords="454,5,610,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a79636b13ad25c66d9f002d815f2d94b5" title="qexec_gby_start_group" alt="" coords="453,71,611,98"/>
+</map>

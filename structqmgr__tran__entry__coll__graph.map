@@ -1,0 +1,10 @@
+<map id="qmgr_tran_entry" name="qmgr_tran_entry">
+<area shape="rect" id="node2" href="$structoid__block__list.html" title="{oid_block_list\n|+ last_oid_idx\l|}" alt="" coords="13,851,116,928"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,601,97,707"/>
+<area shape="rect" id="node4" href="$structqmgr__query__entry.html" title="{qmgr_query_entry\n|+ query_id\l+ num_tmp\l+ total_count\l+ er_msg\l+ errid\l+ query_status\l+ query_flag\l+ is_holdable\l+ includes_tde_class\l|}" alt="" coords="241,792,387,987"/>
+<area shape="rect" id="node5" href="$structqmgr__temp__file.html" title="{qmgr_temp_file\n|+ temp_file_type\l+ membuf_last\l+ membuf\l+ membuf_npages\l+ membuf_type\l+ preserved\l+ tde_encrypted\l|}" alt="" coords="126,5,257,171"/>
+<area shape="rect" id="node9" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="174,292,323,457"/>
+<area shape="rect" id="node6" href="$structxasl__cache__ent.html" title="{xasl_cache_ent\n|+ del_id\l+ xasl_header_flag\l+ n_related_objects\l+ time_last_used\l+ ref_count\l+ clr_count\l+ list_ht_no\l+ free_data_on_uninit\l+ n_cache_clones\l+ cache_clones_capacity\l+ cache_clones_mutex\l+ time_last_rt_check\l+ initialized\l|+ xasl_cache_ent()\l+ ~xasl_cache_ent()\l+ init_clone_cache()\l}" alt="" coords="347,233,518,516"/>
+<area shape="rect" id="node8" href="$structqfile__list__cache__entry.html" title="{qfile_list_cache_entry\n|+ list_ht_no\l+ query_string\l+ time_created\l+ time_last_used\l+ ref_count\l+ deletion_marker\l|}" alt="" coords="297,579,445,729"/>
+<area shape="rect" id="node7" href="$structxasl__id.html" title="{xasl_id\n|+ cache_flag\l|}" alt="" coords="396,49,493,127"/>
+</map>

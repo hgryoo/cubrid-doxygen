@@ -1,0 +1,11 @@
+<map id="pr_midxkey_compare_element" name="pr_midxkey_compare_element">
+<area shape="rect" id="node2" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="629,15,769,57"/>
+<area shape="rect" id="node3" href="$object__primitive_8h.html#a48beb1c95aeeef1c47d7a44d3f76dad1" title="pr_midxkey_compare" alt="" coords="200,149,347,176"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a5e313b97a5a6b87d050dacd8b1dab533" title="mr_cmpval_midxkey" alt="" coords="417,23,559,49"/>
+<area shape="rect" id="node5" href="$object__primitive_8c.html#a0b1abf897a15bb9548f07e175b783f85" title="mr_index_cmpdisk_midxkey" alt="" coords="395,73,581,100"/>
+<area shape="rect" id="node6" href="$object__primitive_8h.html#aaf2919fe209091049b892be11c1fa3e4" title="pr_midxkey_common_prefix" alt="" coords="395,124,581,151"/>
+<area shape="rect" id="node7" href="$object__primitive_8h.html#ae12a8c594fad2fc0fab2db8c4b6a5d40" title="PRIM_SET_NULL" alt="" coords="634,175,765,201"/>
+<area shape="rect" id="node8" href="$object__primitive_8h.html#acb4623ed3d16ceef9c4b0ac525ecade2" title="pr_midxkey_unique_prefix" alt="" coords="401,225,575,252"/>
+<area shape="rect" id="node9" href="$scan__manager_8c.html#aea958a441ea64ee7ec6493af59f1be74" title="scan_key_compare" alt="" coords="421,276,555,303"/>
+<area shape="rect" id="node10" href="$btree_8h.html#ae3dcd471f1a7c8537092e61a910c59b5" title="btree_compare_key" alt="" coords="420,327,556,353"/>
+</map>

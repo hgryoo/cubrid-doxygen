@@ -1,0 +1,5 @@
+<map id="css_cleanup_server_queues" name="css_cleanup_server_queues">
+<area shape="rect" id="node2" href="$network__sr_8c.html#a5e2e2ac2153a024dd8535864dd0de176" title="net_cleanup_server\l_queues" alt="" coords="192,39,327,80"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8c.html#ab6fed63da641cae0bfc477953ae3ca31" title="stran_server_abort\l_internal" alt="" coords="381,5,512,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8c.html#a698b603f6ce39ef58412a8cdf5d2bd91" title="stran_server_commit\l_internal" alt="" coords="375,71,519,112"/>
+</map>

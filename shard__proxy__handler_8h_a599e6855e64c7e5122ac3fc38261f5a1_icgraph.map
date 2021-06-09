@@ -1,0 +1,7 @@
+<map id="proxy_event_new_with_error" name="proxy_event_new_with_error">
+<area shape="rect" id="node2" href="$shard__proxy__function_8h.html#aecdb57a783bffc4f067a7931e8872525" title="fn_proxy_cas_prepare" alt="" coords="208,5,359,32"/>
+<area shape="rect" id="node3" href="$shard__proxy__handler_8h.html#a70e55cf3751f5cf864646960b59159b8" title="proxy_context_send\l_error" alt="" coords="214,57,353,98"/>
+<area shape="rect" id="node4" href="$shard__proxy__handler_8h.html#a86838f575fd30c5fbbd1af7a5f3f577c" title="proxy_context_timeout" alt="" coords="407,5,562,32"/>
+<area shape="rect" id="node5" href="$shard__proxy__handler_8c.html#a65116d4672d3cc719268d92190b7639d" title="proxy_handler_process\l_client_request" alt="" coords="407,57,563,98"/>
+<area shape="rect" id="node6" href="$shard__proxy__io_8c.html#aa25007bf6d21e907333698fdca35ab77" title="proxy_process_client\l_register" alt="" coords="412,122,557,163"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="vid_is_updatable" name="vid_is_updatable">
+<area shape="rect" id="node2" href="$cursor_8c.html#aa5f0ba610bb79f77d1825407a71a4dcb" title="cursor_get_oid_from_vobj" alt="" coords="379,41,549,67"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a1f86ffc840bf6625dde39ec5330f7cf1" title="db_is_updatable_object" alt="" coords="172,41,331,67"/>
+<area shape="rect" id="node5" href="$object__accessor_8h.html#a730886952e461fbe7e2cc188c39a0c90" title="obj_get_att" alt="" coords="208,91,295,118"/>
+<area shape="rect" id="node6" href="$object__accessor_8c.html#a8486c3a1ff8729d0497dcd8ff6e1de18" title="obj_set_att" alt="" coords="208,142,295,169"/>
+<area shape="rect" id="node7" href="$virtual__object_8h.html#afba8067dcea407082e3599c46f5c85d0" title="vid_base_instance" alt="" coords="186,193,317,219"/>
+<area shape="rect" id="node10" href="$work__space_8h.html#ae4242e7bc1f65bbe08105d3e6fcfd989" title="ws_clear_hints" alt="" coords="613,218,722,245"/>
+<area shape="rect" id="node11" href="$virtual__object_8h.html#aafda39169f38de3a51c4e48675ae7481" title="vid_decache_instance" alt="" coords="176,294,327,321"/>
+<area shape="rect" id="node12" href="$virtual__object_8h.html#a8a5cab7a0999c4c8b2d3c33d3c0ec9b5" title="vid_flush_instance" alt="" coords="186,345,317,371"/>
+<area shape="rect" id="node13" href="$virtual__object_8h.html#ab37c298992eb472c815d4a13d62d3d57" title="vid_rem_instance" alt="" coords="189,395,313,422"/>
+<area shape="rect" id="node3" href="$cursor_8c.html#a86ad2c888f43147f1283c3f6bc842b9c" title="cursor_get_oid_from\l_tuple" alt="" coords="597,33,737,75"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#abaef55427cef4ce34afad16f1da0e981" title="db_real_instance" alt="" coords="404,142,524,169"/>
+<area shape="rect" id="node9" href="$work__space_8h.html#a147e331c4cbda179b8e5c8883d9fdc37" title="ws_oid" alt="" coords="433,193,495,219"/>
+<area shape="rect" id="node14" href="$object__accessor_8h.html#a656f7a11efc0d147c9af471b68edf2f2" title="obj_delete" alt="" coords="423,395,505,422"/>
+</map>

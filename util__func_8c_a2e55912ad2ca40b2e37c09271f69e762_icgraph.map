@@ -1,0 +1,12 @@
+<map id="system_quit_handler" name="system_quit_handler">
+<area shape="rect" id="node2" href="$util__func_8h.html#a23511860584173eb7ec5b74c00e3a613" title="util_arm_signal_handlers" alt="" coords="196,81,361,108"/>
+<area shape="rect" id="node6" href="$util__func_8h.html#a6924fc5cf14feb773bd712fb415292bd" title="util_compare_filepath" alt="" coords="206,264,351,291"/>
+<area shape="rect" id="node3" href="$load__db_8c.html#a5671984042276ef3b0d96e39f9f1f02b" title="ldr_exec_query_from_file" alt="" coords="409,5,576,32"/>
+<area shape="rect" id="node4" href="$load__db_8c.html#a85b04c28baf55011413127255548b77c" title="register_signal_handlers" alt="" coords="411,56,574,83"/>
+<area shape="rect" id="node5" href="$load__sa__loader_8hpp.html#a05e2ff26121a9a79da4a401c07cd5430" title="ldr_sa_load" alt="" coords="449,107,537,133"/>
+<area shape="rect" id="node7" href="$file__io_8c.html#aa4ddf7705aa6a4c76d9b7d7ce115a88a" title="fileio_is_system_volume\l_label_equal" alt="" coords="410,158,575,199"/>
+<area shape="rect" id="node8" href="$file__io_8c.html#a870b1b4325e56617f55eeceefc3edf6e" title="fileio_is_volume_label\l_equal" alt="" coords="418,223,567,265"/>
+<area shape="rect" id="node9" href="$boot__sr_8c.html#ab74caf88bedd2ce61fe46987e7823997" title="boot_check_permanent\l_volumes" alt="" coords="414,289,571,330"/>
+<area shape="rect" id="node10" href="$boot__sr_8c.html#aecaca38f18cb794661915d733c632a0a" title="boot_mount" alt="" coords="447,355,538,381"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#a71808222b6542ca378f0c48c1dab1d62" title="logpb_next_where_path" alt="" coords="413,405,572,432"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="boot_db_parm_update_heap" name="boot_db_parm_update_heap">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="246,5,413,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#af22273abf42535dc9e08de112e5b4034" title="boot_dbparm_save_volume" alt="" coords="239,56,420,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#a603e4c24c4ae4354d9cc8ac9321d07d5" title="boot_remove_all_temp\l_volumes" alt="" coords="253,129,406,170"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="689,157,840,184"/>
+<area shape="rect" id="node5" href="$disk__manager_8c.html#aa1450d661897bab9929324e46c0b641d" title="disk_add_volume" alt="" coords="493,56,616,83"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="487,107,622,133"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="475,157,635,184"/>
+<area shape="rect" id="node9" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="468,208,641,235"/>
+</map>

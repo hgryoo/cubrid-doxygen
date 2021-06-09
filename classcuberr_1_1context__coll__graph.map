@@ -1,0 +1,4 @@
+<map id="cuberr::context" name="cuberr::context">
+<area shape="rect" id="node2" href="$structcuberr_1_1er__message.html" title="{cuberr::er_message\n|+ err_id\l+ severity\l+ file_name\l+ line_no\l+ msg_area_size\l+ msg_area\l+ nargs\l+ msg_buffer\l&#45; m_logging\l|+ er_message()\l+ ~er_message()\l+ swap()\l+ clear_error()\l+ set_error()\l+ reserve_message_area()\l+ clear_message_area()\l+ clear_args()\l&#45; er_message()\l}" alt="" coords="10,219,187,531"/>
+<area shape="rect" id="node3" href="$unioncuberr_1_1er__va__arg.html" title="{cuberr::er_va_arg\n|+ int_value\l+ pointer_value\l+ double_value\l+ longdouble_value\l+ string_value\l+ longlong_value\l|}" alt="" coords="31,5,166,156"/>
+</map>

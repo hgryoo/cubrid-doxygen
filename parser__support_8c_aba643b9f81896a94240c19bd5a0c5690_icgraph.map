@@ -1,0 +1,5 @@
+<map id="pt_collect_host_info" name="pt_collect_host_info">
+<area shape="rect" id="node2" href="$parser__support_8c.html#a9b8f37cb891700e91c1f666186e8b11d" title="pt_host_info" alt="" coords="192,31,285,57"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a14bc0d3d4a47eca59033ed527f1e249d" title="db_get_input_markers" alt="" coords="337,5,488,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a21a6c0a2d64b0990d56f4ec25a0119f3" title="db_get_output_markers" alt="" coords="333,56,492,83"/>
+</map>

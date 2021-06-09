@@ -1,0 +1,6 @@
+<map id="src/heaplayers/customheaps.h" name="src/heaplayers/customheaps.h">
+<area shape="rect" id="node2" href="$fixed__alloc_8c.html" title="src/base/fixed_alloc.c" alt="" coords="5,87,155,114"/>
+<area shape="rect" id="node3" href="$memory__alloc_8c.html" title="src/base/memory_alloc.c" alt="" coords="179,87,347,114"/>
+<area shape="rect" id="node4" href="$lea__heap_8c.html" title="src/heaplayers/lea\l_heap.c" alt="" coords="371,80,499,121"/>
+<area shape="rect" id="node5" href="$quick__fit_8c.html" title="src/object/quick_fit.c" alt="" coords="523,87,666,114"/>
+</map>

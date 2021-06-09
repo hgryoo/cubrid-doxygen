@@ -1,0 +1,21 @@
+<map id="classobj_find_class_index" name="classobj_find_class_index">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#afcf7ed75c00d62f9572625c130721e19" title="do_alter_index_rebuild" alt="" coords="412,31,563,57"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="198,107,339,149"/>
+<area shape="rect" id="node5" href="$unload__schema_8c.html#a2d1ff595a8674eee80c5d89ce8140793" title="emit_index_def" alt="" coords="213,173,324,200"/>
+<area shape="rect" id="node6" href="$name__resolution_8c.html#abf7ca432781d9c3b6d33cd45c5cc600a" title="pt_bind_names_post" alt="" coords="197,224,340,251"/>
+<area shape="rect" id="node7" href="$parser_8h.html#aecf016abd07fe4791c2bc6e2388f9455" title="pt_resolve_using_index" alt="" coords="189,275,348,301"/>
+<area shape="rect" id="node8" href="$query__graph_8h.html#ad21ae0d3cd5bd7777465fa9e0e01fdb1" title="qo_check_coll_optimization" alt="" coords="396,544,579,571"/>
+<area shape="rect" id="node11" href="$query__graph_8h.html#a102b0fbcae2038cbbd09e2e97a541ec9" title="qo_check_type_index\l_covering" alt="" coords="413,478,561,519"/>
+<area shape="rect" id="node12" href="$query__graph_8h.html#af5d51179d50e6f55b9dc6a6ce2b992b4" title="qo_is_prefix_index" alt="" coords="203,325,334,352"/>
+<area shape="rect" id="node18" href="$schema__manager_8h.html#abd1979a808b3a290e4e35b3f3bf039e0" title="sm_drop_constraint" alt="" coords="201,5,337,32"/>
+<area shape="rect" id="node19" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="212,501,325,528"/>
+<area shape="rect" id="node20" href="$util__cs_8c.html#a50be983891d3650858dfbc6ad0ee6d37" title="util_get_class_oids\l_and_index_btid" alt="" coords="202,553,335,594"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#acc293a33cc17fa0588d01fc46a3af100" title="do_alter_index" alt="" coords="643,31,750,57"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#ae115559464c7b24184e599859c2590f8" title="pt_to_index_info" alt="" coords="638,376,755,403"/>
+<area shape="rect" id="node10" href="$xasl__generation_8c.html#adca9aa75df7761ba5b053cd92f899ecc" title="pt_to_class_spec_list" alt="" coords="815,401,963,428"/>
+<area shape="rect" id="node13" href="$plan__generation_8c.html#aa1aead189a4cf7240cd5a0e7aafb79e2" title="qo_is_index_covering_scan" alt="" coords="396,325,579,352"/>
+<area shape="rect" id="node14" href="$query__planner_8c.html#a82cfa5f4b039ab1cc94a7b66059f2802" title="qo_index_scan_new" alt="" coords="627,216,767,243"/>
+<area shape="rect" id="node15" href="$query__planner_8c.html#a95e522736be6c3ba92de264e5383eba5" title="qo_search_planner" alt="" coords="823,161,954,188"/>
+<area shape="rect" id="node16" href="$plan__generation_8c.html#a2a22a9310a8b3a31c30ff1cdc4822acb" title="qo_is_index_loose_scan" alt="" coords="405,275,569,301"/>
+<area shape="rect" id="node17" href="$query__planner_8c.html#ae3656f5a8781a44487ae893bc2de03f2" title="qo_plan_compute_iscan\l_sort_list" alt="" coords="406,209,569,250"/>
+</map>

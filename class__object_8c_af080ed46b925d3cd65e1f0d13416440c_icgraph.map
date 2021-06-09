@@ -1,0 +1,6 @@
+<map id="classobj_make_desclist" name="classobj_make_desclist">
+<area shape="rect" id="node2" href="$class__object_8h.html#aa1f93f14b2270eec0ed74f157b396da4" title="classobj_make_descriptor" alt="" coords="228,31,401,57"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a33cdf5d05999593bc49ec9d84581ef12" title="sm_get_descriptor_component" alt="" coords="215,81,415,108"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#abe3fb9ebf8bfe13c7db014ba90a5aefc" title="sm_get_attribute_descriptor" alt="" coords="463,5,645,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#aca422c3123667dce62a890dbd87ace08" title="sm_get_method_descriptor" alt="" coords="465,56,643,83"/>
+</map>

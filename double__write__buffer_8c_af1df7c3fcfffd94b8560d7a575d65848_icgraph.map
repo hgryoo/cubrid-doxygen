@@ -1,0 +1,5 @@
+<map id="dwb_set_status_resumed" name="dwb_set_status_resumed">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#a63a546f3bd2182d9b4e0ead2aa4e6251" title="dwb_wait_for_block\l_completion" alt="" coords="224,23,361,65"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8c.html#aca527d0257d80e110577c000d35a8d97" title="dwb_acquire_next_slot" alt="" coords="409,5,564,32"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8h.html#a38ef0589ebaadb13a11f9bdf6ec322c7" title="dwb_flush_force" alt="" coords="428,56,545,83"/>
+</map>

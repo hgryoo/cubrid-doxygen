@@ -1,0 +1,6 @@
+<map id="css_tcp_master_datagram" name="css_tcp_master_datagram">
+<area shape="rect" id="node2" href="$master_8c.html#a44abcfe729c5c22f6ec66fa1448bfc35" title="css_accept_new_request" alt="" coords="229,5,400,32"/>
+<area shape="rect" id="node4" href="$master_8c.html#a97f199172c5fe6efaeee63197862b8b5" title="css_accept_old_request" alt="" coords="233,56,396,83"/>
+<area shape="rect" id="node3" href="$master_8c.html#a0d33a6ea2f69d5a003d81222866e4344" title="css_register_new_server" alt="" coords="452,5,619,32"/>
+<area shape="rect" id="node5" href="$master_8c.html#af0cccd4f56ff47e0c8545c1e3645a508" title="css_register_new_server2" alt="" coords="448,56,623,83"/>
+</map>

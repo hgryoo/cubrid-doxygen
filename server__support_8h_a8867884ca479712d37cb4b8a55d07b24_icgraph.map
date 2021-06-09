@@ -1,0 +1,19 @@
+<map id="css_receive_data_from_client_with_timeout" name="css_receive_data_from_client_with_timeout">
+<area shape="rect" id="node2" href="$server__support_8h.html#ad01dba129e011a69643832b69815c580" title="css_receive_data_from\l_client" alt="" coords="211,347,368,389"/>
+<area shape="rect" id="node16" href="$network__interface__sr_8h.html#a5844b8b508c1e6a42425cccd4468eea8" title="xs_receive_data_from\l_client_with_timeout" alt="" coords="214,755,365,797"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8h.html#ac4bf784bf4adda8039932fc590f97ae6" title="sbtree_load_index" alt="" coords="447,5,574,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#af91b82ddfcb53ffe4377403ca6cfcf59" title="ses_posix_write_file" alt="" coords="441,56,581,83"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#aa69fdc77b0c4a4abee0cc6efd9eb18b7" title="slocator_fetch_lockhint\l_classes" alt="" coords="433,107,589,149"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#ab576a5707796c76521eed6869bb2dd65" title="slocator_fetch_lockset" alt="" coords="434,173,587,200"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a39438f04ddf6b4a0273eefef2bf2942a" title="slocator_force" alt="" coords="459,224,563,251"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#ad65187f377a0026c2af8227b77aeb9dc" title="slocator_repl_force" alt="" coords="445,275,577,301"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="435,325,586,352"/>
+<area shape="rect" id="node10" href="$network__interface__sr_8h.html#abe5a5fb9e7d4da29e0db82283a10503e" title="sqmgr_prepare_and_execute\l_query" alt="" coords="416,377,605,418"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#aef6990715a35a132bcad8c9a492aeae5" title="sqmgr_prepare_query" alt="" coords="437,443,584,469"/>
+<area shape="rect" id="node12" href="$network__interface__sr_8h.html#ab8a5b28a22cda8bcfb1cee739100f6a3" title="ssession_create_prepared\l_statement" alt="" coords="423,494,598,535"/>
+<area shape="rect" id="node13" href="$network__interface__sr_8h.html#a9af20dab021905396b0e8b331363a741" title="ssession_drop_session\l_variables" alt="" coords="431,559,590,601"/>
+<area shape="rect" id="node14" href="$network__interface__sr_8h.html#a679b8a3c3a6ed1d0b9aaa5f9c5ae69c5" title="ssession_set_session\l_variables" alt="" coords="435,625,586,666"/>
+<area shape="rect" id="node15" href="$network__interface__sr_8h.html#a5304145fa3a3f83ce97e20910548ced9" title="stran_server_set_global\l_tran_info" alt="" coords="431,690,591,731"/>
+<area shape="rect" id="node17" href="$network__interface__sr_8h.html#aee30b528b00129e0fbf232bd334a0f92" title="xlog_get_page_request\l_with_reply" alt="" coords="433,755,589,797"/>
+<area shape="rect" id="node18" href="$network__interface__sr_8h.html#a9be359a18591c08d22e974f43b664280" title="xs_receive_data_from\l_client" alt="" coords="435,821,586,862"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="serial_get_current_value" name="serial_get_current_value">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a8a9e964d65f3f798727c4f2fc5c84668" title="db_get_serial_current\l_value" alt="" coords="189,5,335,47"/>
+<area shape="rect" id="node3" href="$parse__evaluate_8c.html#a8c4be930836f528e1f5dea8ef14f7767" title="pt_evaluate_tree_internal" alt="" coords="179,71,345,98"/>
+<area shape="rect" id="node4" href="$parser_8h.html#a616806bc27456653a80735df975465ff" title="pt_evaluate_tree" alt="" coords="415,42,534,69"/>
+<area shape="rect" id="node5" href="$parser_8h.html#a73c4565564cd23f44c7f94068369cbfa" title="pt_evaluate_tree_having\l_serial" alt="" coords="393,93,556,135"/>
+</map>

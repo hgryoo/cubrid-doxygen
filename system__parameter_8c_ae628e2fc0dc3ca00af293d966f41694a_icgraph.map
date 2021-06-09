@@ -1,0 +1,8 @@
+<map id="sysprm_pack_assign_values" name="sysprm_pack_assign_values">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#a01f0be1a9d7207b16fedcf879b0ee697" title="sprm_server_get_force\l_parameters" alt="" coords="200,5,355,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a7375cba4e11da75b551b3e82c49218a5" title="sprm_server_obtain\l_parameters" alt="" coords="209,71,345,112"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8c.html#a05f431c6b9f94b9260d7bab53298fa99" title="sysprm_change_server\l_parameters" alt="" coords="199,136,356,177"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8c.html#ae299a5bc12769a2a9ee93faa51f84309" title="sysprm_obtain_server\l_parameters" alt="" coords="202,201,353,243"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="442,46,549,73"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#af63ac188972f8891747005d487779079" title="db_set_system_parameters" alt="" coords="404,143,587,170"/>
+</map>

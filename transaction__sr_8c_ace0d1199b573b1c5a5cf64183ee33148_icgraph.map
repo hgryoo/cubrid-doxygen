@@ -1,0 +1,6 @@
+<map id="xtran_server_savepoint" name="xtran_server_savepoint">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#aa887f777e43276b4923c4f7328d89bcb" title="stran_server_savepoint" alt="" coords="211,5,368,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a012d03ddeae8ee4eec86dba52aa7895f" title="tran_server_savepoint" alt="" coords="214,56,365,83"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="441,5,547,32"/>
+<area shape="rect" id="node5" href="$transaction__cl_8h.html#ad79fc76274f9b985fcc9285b9ee777df" title="tran_savepoint_internal" alt="" coords="416,56,572,83"/>
+</map>

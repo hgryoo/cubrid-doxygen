@@ -1,0 +1,10 @@
+<map id="crypt_crc32" name="crypt_crc32">
+<area shape="rect" id="node2" href="$arithmetic_8h.html#a2ab702586e5cd69557aa5e0d3d18a83a" title="db_crc32_dbval" alt="" coords="186,56,299,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#ac60f22fdc6e134afaca3f3fb694b7a64" title="logpb_compute_page\l_checksum" alt="" coords="170,119,315,161"/>
+<area shape="rect" id="node9" href="$log__writer_8c.html#a8c0761293ce20706233bc7badd73739e" title="logwr_check_page_checksum" alt="" coords="144,211,341,237"/>
+<area shape="rect" id="node3" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="420,5,539,32"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="389,56,569,83"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a03b5695bf1ff418e262d62804dd5131c" title="logpb_set_page_checksum" alt="" coords="389,107,569,133"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#af5a4ba88aed2320228581266485d0652" title="logpb_page_has_valid\l_checksum" alt="" coords="404,158,555,199"/>
+<area shape="rect" id="node7" href="$log__writer_8h.html#af1e1368d8e63a233e503b44c7cad4f4e" title="logwr_log_ha_filestat\l_to_string" alt="" coords="617,158,761,199"/>
+</map>

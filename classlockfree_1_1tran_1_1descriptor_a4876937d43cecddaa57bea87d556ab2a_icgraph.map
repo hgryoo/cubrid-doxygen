@@ -1,0 +1,4 @@
+<map id="lockfree::tran::descriptor::get_transaction_id" name="lockfree::tran::descriptor::get_transaction_id">
+<area shape="rect" id="node2" href="$classlockfree_1_1tran_1_1table.html#aa80b771c0a1ed0d90662d752cb23f0f7" title="lockfree::tran::table\l::compute_min_active\l_tranid" alt="" coords="216,5,367,61"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1tran_1_1table.html#afecb8fa3dfd423dbee24a097bc8ac95b" title="lockfree::tran::table\l::get_new_global_tranid" alt="" coords="415,13,573,54"/>
+</map>

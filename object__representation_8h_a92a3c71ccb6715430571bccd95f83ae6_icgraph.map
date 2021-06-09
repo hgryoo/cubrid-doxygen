@@ -1,0 +1,11 @@
+<map id="or_varchar_length" name="or_varchar_length">
+<area shape="rect" id="node2" href="$object__primitive_8c.html#aa1255a99b6969c4f7c4768fedb12e94e" title="mr_index_lengthmem\l_string" alt="" coords="182,41,329,82"/>
+<area shape="rect" id="node5" href="$object__primitive_8c.html#a3f96397eba1db014f74b7a28b1a2996a" title="mr_lengthval_string\l_internal" alt="" coords="188,158,323,199"/>
+<area shape="rect" id="node8" href="$object__primitive_8c.html#a30a67f6680c33d66ac9a9176832b91ba" title="mr_lengthval_varnchar\l_internal" alt="" coords="179,297,332,338"/>
+<area shape="rect" id="node3" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="613,187,753,229"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a008872f10a0b4e0707b204e8f72ac314" title="mr_index_lengthmem\l_varnchar" alt="" coords="399,41,546,82"/>
+<area shape="rect" id="node6" href="$object__primitive_8c.html#a13b97248e59452c9400fb3fe23594797" title="mr_index_lengthval\l_string" alt="" coords="405,158,540,199"/>
+<area shape="rect" id="node7" href="$object__primitive_8c.html#a760ecd2dac8059299e3d7d25506518e2" title="mr_data_lengthval_string" alt="" coords="389,224,556,251"/>
+<area shape="rect" id="node9" href="$object__primitive_8c.html#ad02752185bc1a912876c26406c4b5530" title="mr_index_lengthval\l_varnchar" alt="" coords="405,326,540,367"/>
+<area shape="rect" id="node10" href="$object__primitive_8c.html#a69e17cd5fca19738596bccf57361ae1c" title="mr_data_lengthval_varnchar" alt="" coords="380,392,565,419"/>
+</map>

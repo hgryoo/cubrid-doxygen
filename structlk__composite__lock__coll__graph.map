@@ -1,0 +1,5 @@
+<map id="lk_composite_lock" name="lk_composite_lock">
+<area shape="rect" id="node2" href="$structlk__lockcomp.html" title="{lk_lockcomp\n|+ tran_index\l+ wait_msecs\l|}" alt="" coords="19,300,123,392"/>
+<area shape="rect" id="node3" href="$structlk__lockcomp__class.html" title="{lk_lockcomp_class\n|+ num_inst_oids\l+ max_inst_oids\l|}" alt="" coords="132,145,265,237"/>
+<area shape="rect" id="node4" href="$structlk__entry.html" title="{lk_entry\n|+ dummy\l|}" alt="" coords="32,5,109,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="sm_class_header" name="sm_class_header">
+<area shape="rect" id="node2" href="$structws__object__header.html" title="{ws_object_header\n|+ chn\l|}" alt="" coords="5,175,132,252"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="156,160,248,267"/>
+<area shape="rect" id="node4" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="273,175,339,252"/>
+<area shape="rect" id="node5" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="275,5,337,97"/>
+</map>

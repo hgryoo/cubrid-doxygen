@@ -1,0 +1,13 @@
+<map id="logpb_create_volume_info" name="logpb_create_volume_info">
+<area shape="rect" id="node2" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="253,56,384,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="245,160,393,187"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a9442e1f6f686474552cea7bb425b401b" title="logpb_recreate_volume_info" alt="" coords="227,225,411,252"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="229,309,408,350"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ad2eeada203e066baffcd4c6207a573b8" title="log_create" alt="" coords="503,5,586,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="498,56,591,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="500,131,589,157"/>
+<area shape="rect" id="node8" href="$disk__manager_8h.html#a55303cc2193f6a053bce1d984cc4f516" title="disk_rv_undo_format" alt="" coords="473,181,616,208"/>
+<area shape="rect" id="node9" href="$boot__sr_8c.html#ab97a88a5a9b58393fdbb7dc5e1a05a23" title="boot_find_rest_permanent\l_volumes" alt="" coords="459,233,631,274"/>
+<area shape="rect" id="node10" href="$log__recovery_8c.html#a94f1505b0a4e2ec34df15da4fb8e0395" title="log_recovery_notpartof\l_volumes" alt="" coords="467,298,622,339"/>
+<area shape="rect" id="node12" href="$boot__sr_8h.html#acb0127ed69984740febd2060f7086821" title="xboot_soft_rename" alt="" coords="478,364,611,391"/>
+</map>

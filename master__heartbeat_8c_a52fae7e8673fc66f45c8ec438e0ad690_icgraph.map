@@ -1,0 +1,8 @@
+<map id="hb_cluster_request_heartbeat_to_all" name="hb_cluster_request_heartbeat_to_all">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#a25da7a907be3816238efd8bd202fd0ee" title="hb_cluster_job_calc\l_score" alt="" coords="206,5,343,47"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#ac7c70b03405b7f9ed9c83894d482b653" title="hb_cluster_job_check_ping" alt="" coords="185,71,364,98"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#a704a964615589964ee691656c429033e" title="hb_cluster_job_demote" alt="" coords="197,122,353,149"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#a9b50df1501f895dff43e0dfbeee020dc" title="hb_cluster_job_failback" alt="" coords="195,173,354,199"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8c.html#a042b78dcb44ef5a2e6ca7c1c5f5d161c" title="hb_cluster_job_failover" alt="" coords="197,223,352,250"/>
+<area shape="rect" id="node7" href="$master__heartbeat_8c.html#aa7c6acf4989dae8ec9bca44a668fbcfc" title="hb_cluster_job_heartbeat" alt="" coords="191,274,358,301"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="heap_scanrange_to_following" name="heap_scanrange_to_following">
+<area shape="rect" id="node2" href="$scan__manager_8h.html#a4523e1a49afe6d3922a5c29f5b6fa60d" title="scan_next_scan_block" alt="" coords="247,31,401,57"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a7434d4df88025f4102477e48ba7e6011" title="qexec_next_merge_block" alt="" coords="449,5,620,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a6069afab32f23903fd3a8d1105a3d19e" title="qexec_next_scan_block" alt="" coords="453,56,616,83"/>
+</map>

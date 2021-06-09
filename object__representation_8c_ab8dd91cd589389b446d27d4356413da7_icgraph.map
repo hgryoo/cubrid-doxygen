@@ -1,0 +1,6 @@
+<map id="or_put_varbit_internal" name="or_put_varbit_internal">
+<area shape="rect" id="node2" href="$object__representation_8c.html#af5a28dbf0138fc10700f38dfc1c636bc" title="or_packed_put_varbit" alt="" coords="200,13,347,40"/>
+<area shape="rect" id="node5" href="$object__representation_8c.html#a4b635bd910fc636b6c61caac6804c602" title="or_put_varbit" alt="" coords="225,64,322,91"/>
+<area shape="rect" id="node3" href="$object__primitive_8c.html#a967a77caf29795256a191fd8426b5ac7" title="mr_data_writemem_varbit" alt="" coords="395,5,567,32"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a66b534773e3371ef794c02902e7532f7" title="mr_writeval_varbit\l_internal" alt="" coords="417,57,545,98"/>
+</map>

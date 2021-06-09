@@ -1,0 +1,7 @@
+<map id="log_rec_mvcc_undoredo" name="log_rec_mvcc_undoredo">
+<area shape="rect" id="node2" href="$structlog__vacuum__info.html" title="{log_vacuum_info\n||}" alt="" coords="149,314,269,391"/>
+<area shape="rect" id="node3" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="5,5,111,244"/>
+<area shape="rect" id="node4" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="203,79,265,171"/>
+<area shape="rect" id="node5" href="$structlog__rec__undoredo.html" title="{log_rec_undoredo\n|+ ulength\l+ rlength\l|}" alt="" coords="293,307,417,399"/>
+<area shape="rect" id="node6" href="$structlog__data.html" title="{log_data\n|+ rcvindex\l+ pageid\l+ offset\l+ volid\l|}" alt="" coords="314,64,397,185"/>
+</map>

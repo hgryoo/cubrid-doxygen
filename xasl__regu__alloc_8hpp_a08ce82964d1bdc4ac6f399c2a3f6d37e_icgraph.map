@@ -1,0 +1,21 @@
+<map id="regu_array_alloc" name="regu_array_alloc">
+<area shape="rect" id="node2" href="$xasl__generation_8h.html#a4ffda647bdf164dbc2ed5f4e418c7ff3" title="pt_to_delete_xasl" alt="" coords="395,422,519,449"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#ae115559464c7b24184e599859c2590f8" title="pt_to_index_info" alt="" coords="399,676,516,702"/>
+<area shape="rect" id="node6" href="$xasl__generation_8h.html#aa08e377a0433d0f9d3167b1bb6bb0b1e" title="pt_to_insert_xasl" alt="" coords="796,194,917,221"/>
+<area shape="rect" id="node7" href="$xasl__generation_8c.html#a48691b3c7d9c7e4ce90d665d74fa2ac6" title="pt_to_list_key" alt="" coords="190,625,293,652"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#ad40a4696a329c337de0d1b4cec048d27" title="pt_to_merge_update_xasl" alt="" coords="372,524,543,550"/>
+<area shape="rect" id="node10" href="$xasl__generation_8c.html#a181ebc72c388222cddb1fadfbc053d90" title="pt_to_odku_info" alt="" coords="618,169,733,196"/>
+<area shape="rect" id="node11" href="$xasl__generation_8c.html#a95ddc94acd82fb27ba0e1ba3aaccf33f" title="pt_to_range_key" alt="" coords="182,676,301,702"/>
+<area shape="rect" id="node12" href="$xasl__generation_8c.html#abfd8b5f1ea7e6caecf55132f26425736" title="pt_to_rangelist_key" alt="" coords="174,726,309,753"/>
+<area shape="rect" id="node13" href="$xasl__generation_8c.html#acac107cf2f29b7c8264cee29b6db79cf" title="pt_to_single_key" alt="" coords="181,777,301,804"/>
+<area shape="rect" id="node14" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="393,473,521,500"/>
+<area shape="rect" id="node15" href="$xasl__regu__alloc_8hpp.html#adb548562720ca7126ca6cadbf232062d" title="regu_int_array_alloc" alt="" coords="172,321,311,348"/>
+<area shape="rect" id="node20" href="$xasl__regu__alloc_8hpp.html#aae72fd19cc915ba0848d0b430728e708" title="regu_oid_array_alloc" alt="" coords="171,473,312,500"/>
+<area shape="rect" id="node3" href="$execute__statement_8c.html#a018270c1c91a88694cac8747af9bd25a" title="build_xasl_for_server\l_delete" alt="" coords="603,358,748,399"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a5a96449a20d34f17f764bead35cde84e" title="do_prepare_delete" alt="" coords="611,448,739,474"/>
+<area shape="rect" id="node9" href="$xasl__generation_8h.html#a66ccce2cf7c670e0133287d24396f9e1" title="pt_to_merge_xasl" alt="" coords="613,524,738,550"/>
+<area shape="rect" id="node16" href="$xasl__generation_8c.html#a596ebbdf698a3b3f0de208e61629122f" title="pt_to_method_arglist" alt="" coords="386,321,529,348"/>
+<area shape="rect" id="node17" href="$xasl__generation_8c.html#a633985da683c0c13a7d4ed534d91f521" title="pt_make_class_access_spec" alt="" coords="360,68,555,94"/>
+<area shape="rect" id="node18" href="$xasl__generation_8c.html#a63de55264c9fc057f1a592bc4ca9b8d1" title="pt_init_pred_expr_context" alt="" coords="372,118,543,145"/>
+<area shape="rect" id="node19" href="$xasl__generation_8h.html#ae6077babb32b1a013aabada5e6291527" title="parser_generate_xasl" alt="" coords="384,372,531,398"/>
+</map>

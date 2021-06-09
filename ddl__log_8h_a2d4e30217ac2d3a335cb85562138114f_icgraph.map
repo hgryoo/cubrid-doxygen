@@ -1,0 +1,11 @@
+<map id="logddl_set_msg" name="logddl_set_msg">
+<area shape="rect" id="node2" href="$csql_8c.html#abf15dbbd8a81a17ceabf8b3c2a26ff3d" title="csql_execute_statements" alt="" coords="167,31,337,57"/>
+<area shape="rect" id="node5" href="$load__db_8c.html#a5671984042276ef3b0d96e39f9f1f02b" title="ldr_exec_query_from_file" alt="" coords="169,81,335,108"/>
+<area shape="rect" id="node7" href="$cas__execute_8h.html#a283a087c4e06d0575706e48328b6ebd4" title="ux_auto_commit" alt="" coords="193,132,311,159"/>
+<area shape="rect" id="node9" href="$cas__execute_8h.html#a58deea8c335da5c20867f4664eeb7e5f" title="ux_execute_batch" alt="" coords="188,183,316,209"/>
+<area shape="rect" id="node3" href="$csql_8c.html#a5a64da02076e414cb5f4ebdeb89248b4" title="start_csql" alt="" coords="584,5,663,32"/>
+<area shape="rect" id="node4" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="385,31,536,57"/>
+<area shape="rect" id="node6" href="$load__db_8c.html#a23f7dd8322d469075360a3461ff250e0" title="loaddb_internal" alt="" coords="406,81,515,108"/>
+<area shape="rect" id="node8" href="$cas_8c.html#a82a4271444049b1bd9184b82dcd506b4" title="process_request" alt="" coords="401,132,520,159"/>
+<area shape="rect" id="node10" href="$cas__function_8h.html#a0a2cf3821b50c136de71b03a9f25c788" title="fn_execute_batch" alt="" coords="398,183,523,209"/>
+</map>

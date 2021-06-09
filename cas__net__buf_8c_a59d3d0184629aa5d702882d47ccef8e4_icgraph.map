@@ -1,0 +1,21 @@
+<map id="net_buf_realloc" name="net_buf_realloc">
+<area shape="rect" id="node2" href="$cas__net__buf_8h.html#a029bb9218cd71c338fdc8b5646cde249" title="net_buf_cp_bigint" alt="" coords="167,173,291,199"/>
+<area shape="rect" id="node4" href="$cas__net__buf_8h.html#afa49a1981082f4b20bfb87ff555a7812" title="net_buf_cp_lob_handle" alt="" coords="343,173,497,199"/>
+<area shape="rect" id="node5" href="$cas__net__buf_8h.html#a0306d93046ad96c132ff09151b9cbbe1" title="net_buf_cp_byte" alt="" coords="170,350,289,377"/>
+<area shape="rect" id="node14" href="$cas__net__buf_8h.html#a392376cd9cfc06fd68d056f6def2b940" title="net_buf_cp_cas_type\l_and_charset" alt="" coords="347,5,493,47"/>
+<area shape="rect" id="node15" href="$cas__net__buf_8h.html#ad822a5cfc70ed05185a6492c26dd7390" title="net_buf_cp_double" alt="" coords="164,629,295,655"/>
+<area shape="rect" id="node16" href="$cas__net__buf_8h.html#ac61bc00e8ddac944f2551845c3922926" title="net_buf_cp_float" alt="" coords="170,679,289,706"/>
+<area shape="rect" id="node17" href="$cas__net__buf_8h.html#a875a89f0f4c27dc4d758d8f8c20f2b6d" title="net_buf_cp_int" alt="" coords="176,426,283,453"/>
+<area shape="rect" id="node18" href="$cas__net__buf_8h.html#ab63e6f91002a3656d517a5e3ffed5fe6" title="net_buf_cp_object" alt="" coords="356,730,484,757"/>
+<area shape="rect" id="node19" href="$cas__net__buf_8h.html#ae2e7ebceae2061315fb3b82585a3e775" title="net_buf_cp_short" alt="" coords="168,578,291,605"/>
+<area shape="rect" id="node20" href="$cas__net__buf_8h.html#afd76eb48fa0bca3136db7d4ea9281e77" title="net_buf_cp_str" alt="" coords="175,477,283,503"/>
+<area shape="rect" id="node3" href="$cas__execute_8c.html#a5f4feeb92d15f292c24762c69acc9f73" title="add_res_data_bigint" alt="" coords="545,71,684,98"/>
+<area shape="rect" id="node6" href="$cas__execute_8h.html#aee0aa1d2154b6630cb99732f71ad118a" title="ux_prepare" alt="" coords="377,274,463,301"/>
+<area shape="rect" id="node7" href="$cas__execute_8h.html#a480b90c05f39d0bea260091e4aabe256" title="ux_execute" alt="" coords="375,325,465,351"/>
+<area shape="rect" id="node8" href="$cas__execute_8h.html#a472d04640cef98dd54b3a79112fe1f01" title="ux_execute_all" alt="" coords="365,375,475,402"/>
+<area shape="rect" id="node9" href="$cas__execute_8h.html#a93e3389bccb4a45ef423390b55274a5f" title="ux_execute_call" alt="" coords="362,426,478,453"/>
+<area shape="rect" id="node10" href="$cas__execute_8h.html#a9ed8dbb79ec60d86f9dc963bb9df0567" title="ux_next_result" alt="" coords="367,223,473,250"/>
+<area shape="rect" id="node11" href="$cas__execute_8h.html#a58deea8c335da5c20867f4664eeb7e5f" title="ux_execute_batch" alt="" coords="551,629,679,655"/>
+<area shape="rect" id="node12" href="$cas__execute_8h.html#a0de2497a6df43aa3169e485b3f6d0f5b" title="ux_oid_get" alt="" coords="377,477,463,503"/>
+<area shape="rect" id="node13" href="$cas__execute_8h.html#a8270a97f105e6c4f0b1d4d8f38ba3bd8" title="ux_get_db_version" alt="" coords="355,629,485,655"/>
+</map>

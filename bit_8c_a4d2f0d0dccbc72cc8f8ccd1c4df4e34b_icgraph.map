@@ -1,0 +1,14 @@
+<map id="bit64_set" name="bit64_set">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#a7df0875d91464ce0ad5ae1d3077764c3" title="disk_stab_cursor_set_bit" alt="" coords="130,5,297,32"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#a0635ea76ea0fa0bd9815c08f489a1694" title="disk_stab_unit_reserve" alt="" coords="354,17,510,44"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#a5b9d725989a1e5ffdf2d29adced9b9af" title="disk_stab_unit_check\l_reserved" alt="" coords="139,107,287,149"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#a845aa2865d00b628feca7f496e21b92d" title="disk_stab_unit_unreserve" alt="" coords="128,173,299,200"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#a9115d0ec504a461d44be61d8eb0a6e24" title="file_partsect_set_bit" alt="" coords="144,249,283,276"/>
+<area shape="rect" id="node5" href="$disk__manager_8c.html#a750f3c04f5c21678ce10bc490fc27def" title="disk_check_sectors\l_are_reserved_in_volume" alt="" coords="347,82,517,123"/>
+<area shape="rect" id="node8" href="$file__manager_8c.html#a38cea7b20a0b915620d344e2faf6f578" title="file_partsect_alloc" alt="" coords="369,148,495,175"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#a3caedf6598ee654efb9b8be761cc8edc" title="file_temp_alloc" alt="" coords="570,173,679,200"/>
+<area shape="rect" id="node10" href="$file__manager_8c.html#aa08ad11c1dfde490334cc8eae91dfc21" title="file_rv_partsect_update" alt="" coords="353,249,511,276"/>
+<area shape="rect" id="node11" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="391,300,473,327"/>
+<area shape="rect" id="node12" href="$file__manager_8c.html#ab4e6734f7b6120acd90f5d46d56e6700" title="file_table_collect\l_ftab_pages" alt="" coords="565,373,684,414"/>
+<area shape="rect" id="node13" href="$file__manager_8c.html#a4c61a0360e115f67e787cbfc06d40047" title="file_extdata_collect\l_ftab_pages" alt="" coords="365,402,499,443"/>
+</map>

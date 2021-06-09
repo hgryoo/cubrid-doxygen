@@ -1,0 +1,9 @@
+<map id="vacuum_finalize" name="vacuum_finalize">
+<area shape="rect" id="node2" href="$classvacuum__master__context__manager.html#a5b80eb5560221ac44002b786669d1612" title="vacuum_master_context\l_manager::on_daemon_retire" alt="" coords="169,5,360,47"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a36fb5103effdeb06fe620798b36af461" title="vacuum_initialize" alt="" coords="203,71,326,98"/>
+<area shape="rect" id="node6" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="227,122,302,149"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="423,71,557,98"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="408,21,572,47"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#a4ddd3694ee7effd5a8477603cadec249" title="cvacuum" alt="" coords="453,122,527,149"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#a9a3181c08916a72b1163c260ca7de7e5" title="svacuum" alt="" coords="453,173,527,199"/>
+</map>

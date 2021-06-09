@@ -1,0 +1,21 @@
+<map id="pgbuf_get_tde_algorithm" name="pgbuf_get_tde_algorithm">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a3a741355345c6add6859fa974b7025eb" title="file_alloc" alt="" coords="477,423,551,449"/>
+<area shape="rect" id="node9" href="$log__manager_8c.html#af9eab79304e58db6d98885f7a771b20c" title="log_append_compensate\l_internal" alt="" coords="221,41,388,82"/>
+<area shape="rect" id="node10" href="$log__manager_8h.html#a853fd7ef5f6abc4a182d6e79f0a4846f" title="log_append_postpone" alt="" coords="231,107,379,133"/>
+<area shape="rect" id="node11" href="$log__manager_8h.html#ad39dc10a11df5427f5af4c203e9d98a6" title="log_append_redo_crumbs" alt="" coords="219,157,390,184"/>
+<area shape="rect" id="node12" href="$log__manager_8h.html#a487dabcb7a4dc15bab76299fb5ff1660" title="log_append_undoredo\l_crumbs" alt="" coords="440,66,588,107"/>
+<area shape="rect" id="node13" href="$log__manager_8h.html#ab82d5be060189c3aa56e57399a458e3a" title="log_append_run_postpone" alt="" coords="218,259,391,285"/>
+<area shape="rect" id="node14" href="$log__manager_8h.html#a9ba19c0baec377fbab0da02a75c7260d" title="log_append_undo_crumbs" alt="" coords="218,309,391,336"/>
+<area shape="rect" id="node15" href="$page__buffer_8c.html#a6ebdf1006f6b5bb49a3fc4c4f8f75e31" title="pgbuf_bcb_flush_with_wal" alt="" coords="217,360,392,387"/>
+<area shape="rect" id="node16" href="$page__buffer_8c.html#a8cbce269e04ed30279485fc77e786430" title="pgbuf_claim_bcb_for_fix" alt="" coords="223,411,386,437"/>
+<area shape="rect" id="node17" href="$page__buffer_8h.html#ab1daac3aca23e828c958d851d0b535b6" title="pgbuf_dealloc_page" alt="" coords="236,461,373,488"/>
+<area shape="rect" id="node18" href="$page__buffer_8h.html#a85a0865a93ee4a93b91e9719a406ad7a" title="pgbuf_rv_dealloc_undo" alt="" coords="227,512,382,539"/>
+<area shape="rect" id="node19" href="$page__buffer_8h.html#acbcb3cb97941478588f93a30f45af594" title="pgbuf_rv_dealloc_undo\l_compensate" alt="" coords="227,563,382,605"/>
+<area shape="rect" id="node20" href="$page__buffer_8h.html#ad304e940c0b239bc7889b663337c4076" title="pgbuf_set_tde_algorithm" alt="" coords="223,208,387,235"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a9332821b7e193ed05a97dc65660f8fc6" title="btree_get_new_page" alt="" coords="645,296,787,323"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#a1ac6ed02bab79e3feead71009d6db3be" title="btree_load_new_page" alt="" coords="642,347,790,373"/>
+<area shape="rect" id="node5" href="$system__catalog_8c.html#a28086c58514074fc209c4436ba876c86" title="catalog_get_new_page" alt="" coords="639,397,793,424"/>
+<area shape="rect" id="node6" href="$extendible__hash_8c.html#a7b16d2b1c129e751459ad1e9707b4e1b" title="ehash_create_helper" alt="" coords="645,448,787,475"/>
+<area shape="rect" id="node7" href="$extendible__hash_8c.html#a33bf66c0c4bbf2f69c67381fb86d4aa3" title="ehash_insert_to_bucket\l_after_create" alt="" coords="636,499,796,541"/>
+<area shape="rect" id="node8" href="$extendible__hash_8c.html#a7364e0e8eda0562a7361ff12b60c6104" title="ehash_split_bucket" alt="" coords="649,565,783,592"/>
+</map>

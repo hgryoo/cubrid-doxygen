@@ -1,0 +1,15 @@
+<map id="qfile_generate_tuple_into_list" name="qfile_generate_tuple_into_list">
+<area shape="rect" id="node2" href="$query__aggregate_8hpp.html#a180603e6448ef4e047a26eff860f1e32" title="qdata_save_agg_hentry\l_to_list" alt="" coords="205,89,365,130"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#ab586cfb0848f940d47ca7f4c2fbb8708" title="qexec_end_one_iteration" alt="" coords="848,197,1015,224"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#a124dfc1f7fe85f3de4683346c32e666b" title="qexec_end_buildvalueblock\l_iterations" alt="" coords="195,249,376,290"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#ace4cbe7f3418a09d43ee9ad479be8e06" title="qexec_gby_finalize\l_group" alt="" coords="219,314,352,355"/>
+<area shape="rect" id="node10" href="$query__executor_8h.html#a2be66313ab0041341af58712bbfd2aad" title="qexec_insert_tuple\l_into_list" alt="" coords="220,379,351,421"/>
+<area shape="rect" id="node11" href="$query__executor_8c.html#a47f3dd4a66025366a5dafd7a452ab7b2" title="qexec_merge_tuple_add_list" alt="" coords="192,445,379,472"/>
+<area shape="rect" id="node12" href="$query__executor_8c.html#ace94f31b6618ddcdf735e6e3c126542d" title="qexec_topn_tuples_to\l_list_id" alt="" coords="441,427,590,469"/>
+<area shape="rect" id="node13" href="$list__file_8h.html#a0468a848ae71131079666568ff72673d" title="qfile_add_item_to_list" alt="" coords="211,547,359,573"/>
+<area shape="rect" id="node14" href="$list__file_8c.html#a087deaf4ae4f9a4db0ce90622930f11f" title="qfile_put_next_sort_item" alt="" coords="203,597,367,624"/>
+<area shape="rect" id="node3" href="$query__aggregate_8hpp.html#a0c1a0d4736264858be8213e6ab677231" title="qdata_save_agg_htable\l_to_list" alt="" coords="436,30,595,71"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a17faac1fcc1657c08eccb5e91adfc86a" title="qexec_hash_gby_agg\l_tuple" alt="" coords="652,30,800,71"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#aeb8bf568b044802bdc42d5e200d45f27" title="qexec_groupby" alt="" coords="671,96,781,123"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#ace26f0b2682d1facc2561230e6f7b44d" title="qexec_hash_gby_put_next" alt="" coords="427,147,604,173"/>
+</map>

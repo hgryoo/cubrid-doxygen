@@ -1,0 +1,10 @@
+<map id="locator_allocate_lockset" name="locator_allocate_lockset">
+<area shape="rect" id="node2" href="$locator__sr_8c.html#a1c86618c7927424311607b824cb2d636" title="locator_all_reference\l_lockset" alt="" coords="589,76,732,117"/>
+<area shape="rect" id="node5" href="$locator_8h.html#aff30bd5266bf5b0bbb283058da17e47f" title="locator_allocate_and\l_unpack_lockset" alt="" coords="590,5,731,47"/>
+<area shape="rect" id="node7" href="$locator_8c.html#a0a9ebfe1eb3123150814b3b56eae864c" title="locator_initialize\l_lockset" alt="" coords="216,57,331,99"/>
+<area shape="rect" id="node9" href="$locator__cl_8c.html#ae2d2ef0074e3218a23790885d5db5d0c" title="locator_lock_set" alt="" coords="602,153,719,179"/>
+<area shape="rect" id="node3" href="$locator__sr_8c.html#a54d381653cbf99abc339437c280e0575" title="xlocator_fetch_all\l_reference_lockset" alt="" coords="791,76,923,117"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a36ef9cbcc9685fe46028bd465f7b2503" title="locator_fetch_all_reference\l_lockset" alt="" coords="981,21,1160,63"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#ab576a5707796c76521eed6869bb2dd65" title="slocator_fetch_lockset" alt="" coords="780,25,933,51"/>
+<area shape="rect" id="node8" href="$locator_8h.html#a18f31e2480190777ded8d13126dfe731" title="locator_allocate_lockset" alt="" coords="379,65,541,91"/>
+</map>

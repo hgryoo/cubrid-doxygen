@@ -1,0 +1,12 @@
+<map id="db_col_get" name="db_col_get">
+<area shape="rect" id="node2" href="$cas__execute_8c.html#a0fa7461a216bb80c11fc333a5565d7b6" title="execute_info_set" alt="" coords="158,81,279,108"/>
+<area shape="rect" id="node6" href="$db__collection_8c.html#adf9367b6acdab9210b73a871fcddf6b8" title="fill_collection" alt="" coords="170,165,267,192"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#a48691b3c7d9c7e4ce90d665d74fa2ac6" title="pt_to_list_key" alt="" coords="167,216,270,243"/>
+<area shape="rect" id="node10" href="$cas__execute_8h.html#a09f36de4c7844474d929c4c03b0a2c26" title="ux_col_get" alt="" coords="176,267,261,293"/>
+<area shape="rect" id="node11" href="$cas__execute_8c.html#a9201ae649114e34b5a7e59d7c00a4cd6" title="ux_get_generated_keys\l_client_insert" alt="" coords="139,318,299,359"/>
+<area shape="rect" id="node3" href="$cas__execute_8h.html#a480b90c05f39d0bea260091e4aabe256" title="ux_execute" alt="" coords="374,5,463,32"/>
+<area shape="rect" id="node4" href="$cas__execute_8h.html#a472d04640cef98dd54b3a79112fe1f01" title="ux_execute_all" alt="" coords="364,56,473,83"/>
+<area shape="rect" id="node5" href="$cas__execute_8h.html#a93e3389bccb4a45ef423390b55274a5f" title="ux_execute_call" alt="" coords="361,107,477,133"/>
+<area shape="rect" id="node7" href="$db__stub_8h.html#aaf95a2759091f1969373136514d8c8b0" title="api_collection_create\l_from_db_value" alt="" coords="347,158,491,199"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#ae115559464c7b24184e599859c2590f8" title="pt_to_index_info" alt="" coords="360,224,477,251"/>
+</map>

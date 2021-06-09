@@ -1,0 +1,10 @@
+<map id="tran_server_commit" name="tran_server_commit">
+<area shape="rect" id="node2" href="$transaction__cl_8h.html#a901b4a89a27aa3bc5c8ffdcc1f9e3150" title="tran_commit" alt="" coords="191,197,285,224"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#aa39d14f1ff60fe1a21729c84eccfa1b6" title="conn_end_tran" alt="" coords="363,5,470,32"/>
+<area shape="rect" id="node4" href="$shard__proxy__io_8h.html#a6043598e8bb6e16bf21d9edd1118c4f4" title="proxy_io_make_end_tran\l_request" alt="" coords="333,81,500,122"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a752e2863d33ed743b5957e92f1114494" title="db_commit_transaction" alt="" coords="338,147,495,173"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a389f6f845b9917b7feb2af7d3fc538cb" title="do_commit" alt="" coords="373,197,460,224"/>
+<area shape="rect" id="node7" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="548,273,687,300"/>
+<area shape="rect" id="node8" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="553,336,682,363"/>
+<area shape="rect" id="node9" href="$boot__cl_8h.html#aa7beb3207bb2b041cfbaf347ea2bf51a" title="boot_shutdown_client" alt="" coords="343,299,491,325"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="log_rec_sysop_end" name="log_rec_sysop_end">
+<area shape="rect" id="node2" href="$structlog__rec__mvcc__undo.html" title="{log_rec_mvcc_undo\n|+ mvccid\l|}" alt="" coords="211,491,350,568"/>
+<area shape="rect" id="node3" href="$structlog__vacuum__info.html" title="{log_vacuum_info\n||}" alt="" coords="219,307,339,384"/>
+<area shape="rect" id="node4" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="5,5,111,244"/>
+<area shape="rect" id="node5" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="319,79,381,171"/>
+<area shape="rect" id="node6" href="$structlog__rec__undo.html" title="{log_rec_undo\n|+ length\l|}" alt="" coords="97,307,195,384"/>
+</map>

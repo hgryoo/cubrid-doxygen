@@ -1,0 +1,14 @@
+<map id="btree_is_insert_object_purpose" name="btree_is_insert_object_purpose">
+<area shape="rect" id="node2" href="$btree_8c.html#afdb8b30043a26fc4ea1042eda91a2220" title="btree_fix_root_for\l_insert" alt="" coords="214,146,337,188"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a47ec7c5cf4f83c21beeef6944fab8d27" title="btree_insert_internal" alt="" coords="1271,103,1409,130"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a1cfca91bee50811416d845ebc3bac695" title="btree_key_append_object\l_as_new_overflow" alt="" coords="396,314,567,356"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a7962454a89268ebe528ff146f1b77770" title="btree_key_append_object\l_into_ovf" alt="" coords="615,373,785,414"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a1f1831813c1672ec6a5cb0d473b0c0c9" title="btree_key_append_object\l_non_unique" alt="" coords="833,490,1004,532"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a55fc6982f1020bc221d9faf6cac59ad9" title="btree_key_insert_new\l_object" alt="" coords="1063,490,1212,532"/>
+<area shape="rect" id="node9" href="$btree_8c.html#aa385b0e44659fdc7fd2857c32d14e78d" title="btree_key_relocate\l_last_into_ovf" alt="" coords="853,264,985,305"/>
+<area shape="rect" id="node10" href="$btree_8c.html#a3f6113cbdaa7c297f427928f0deaf8a2" title="btree_key_append_object\l_unique" alt="" coords="1052,238,1223,280"/>
+<area shape="rect" id="node11" href="$btree_8c.html#a9a08bb49c5343c8b162f0e9b1b5e86a7" title="btree_key_append_object\l_to_overflow" alt="" coords="396,432,567,473"/>
+<area shape="rect" id="node12" href="$btree_8c.html#a81f5f51a93b214d6fbc55104fbb0e4c8" title="btree_rv_log_insert\l_object" alt="" coords="209,482,341,524"/>
+<area shape="rect" id="node13" href="$btree_8c.html#a044540db3ec67e88e9313f84c6b242ee" title="btree_split_node_and\l_advance" alt="" coords="203,81,348,122"/>
+<area shape="rect" id="node4" href="$btree_8h.html#af9b91aa85529070ebd9a572128bcab4c" title="btree_online_index\l_list_dispatcher" alt="" coords="416,96,547,137"/>
+</map>

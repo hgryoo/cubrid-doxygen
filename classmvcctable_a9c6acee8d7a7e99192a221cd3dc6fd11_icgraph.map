@@ -1,0 +1,7 @@
+<map id="mvcctable::update_global_oldest_visible" name="mvcctable::update_global_oldest_visible">
+<area shape="rect" id="node2" href="$vacuum_8h.html#a2cb21fa7816f2d0a4cf699cae9e7fd7b" title="vacuum_data_load_and\l_recover" alt="" coords="418,5,577,47"/>
+<area shape="rect" id="node4" href="$vacuum_8c.html#a25daab97104455e9fa805fc81e61e92f" title="vacuum_data_unload\l_first_and_last_page" alt="" coords="224,64,369,105"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#adf068032dd3049af587cb5bbd03dab6f" title="vacuum_boot" alt="" coords="625,13,725,39"/>
+<area shape="rect" id="node5" href="$vacuum_8h.html#a6a0c8157402f3361e437b601e511c6b8" title="vacuum_finalize" alt="" coords="439,71,555,98"/>
+<area shape="rect" id="node6" href="$vacuum_8h.html#a8763d2485ae400a8f6779bc9549963bb" title="vacuum_sa_reflect_last\l_blockid" alt="" coords="417,123,577,164"/>
+</map>

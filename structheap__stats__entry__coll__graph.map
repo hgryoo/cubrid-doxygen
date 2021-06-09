@@ -1,0 +1,6 @@
+<map id="heap_stats_entry" name="heap_stats_entry">
+<area shape="rect" id="node2" href="$structheap__bestspace.html" title="{heap_bestspace\n|+ freespace\l|}" alt="" coords="5,160,123,237"/>
+<area shape="rect" id="node3" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="28,5,100,97"/>
+<area shape="rect" id="node4" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="146,160,211,237"/>
+<area shape="rect" id="node5" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="148,5,209,97"/>
+</map>

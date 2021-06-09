@@ -1,0 +1,5 @@
+<map id="func_type::signature_compatibility" name="func_type::signature_compatibility">
+<area shape="rect" id="node2" href="$structfunc__signature.html" title="{func_signature\n|+ fix\l+ rep\l|+ to_string_buffer()\l}" alt="" coords="5,233,137,325"/>
+<area shape="rect" id="node3" href="$structpt__arg__type.html" title="{pt_arg_type\n|+ type\l|+ pt_arg_type()\l+ pt_arg_type()\l+ pt_arg_type()\l+ operator()()\l+ operator()()\l+ operator()()\l}" alt="" coords="16,5,127,156"/>
+<area shape="rect" id="node4" href="$structpt__coll__infer.html" title="{pt_coll_infer\n|+ coll_id\l+ codeset\l+ coerc_level\l+ can_force_cs\l|}" alt="" coords="162,219,274,340"/>
+</map>

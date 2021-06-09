@@ -1,0 +1,11 @@
+<map id="logtb_get_global_unique_stats_entry" name="logtb_get_global_unique_stats_entry">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a960411b184cd03cdac558a2d88b28736" title="logtb_get_global_unique\l_stats" alt="" coords="215,165,376,207"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#acbd3fbf876bafc2892d58450dab217d7" title="logtb_rv_update_global\l_unique_stats_by_abs" alt="" coords="218,289,373,331"/>
+<area shape="rect" id="node10" href="$log__tran__table_8c.html#a234f44761e7ef2be2d15aaf4edd7dc12" title="logtb_update_global\l_unique_stats_by_delta" alt="" coords="216,355,375,396"/>
+<area shape="rect" id="node3" href="$btree_8h.html#a66036cb5f710abf2cc34291f87ea4b9a" title="btree_online_index\l_check_unique_constraint" alt="" coords="424,5,597,47"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a89e8bcbff868d116aff1bf9d349dcaca" title="btree_scan_for_show\l_index_header" alt="" coords="437,71,584,112"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#a4099da553de5a10d74a97582bea47368" title="locator_check_unique\l_btree_entries" alt="" coords="437,136,585,177"/>
+<area shape="rect" id="node6" href="$log__tran__table_8c.html#aaa328e24309172c8de9ac303b68f1b5a" title="logtb_create_unique\l_stats_from_repr" alt="" coords="441,201,580,243"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a43b24e7c8316f2923d9fac2d6449562b" title="xbtree_test_unique" alt="" coords="445,267,577,294"/>
+<area shape="rect" id="node9" href="$btree_8h.html#aed08c72a5a366f8760ce9fb487885360" title="btree_rv_redo_global\l_unique_stats_commit" alt="" coords="434,319,587,360"/>
+</map>

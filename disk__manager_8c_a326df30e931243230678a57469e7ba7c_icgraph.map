@@ -1,0 +1,6 @@
+<map id="disk_reserve_from_cache" name="disk_reserve_from_cache">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="224,56,371,83"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="439,5,522,32"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#aa40e735a48654f112a4539b5969bada9" title="file_perm_expand" alt="" coords="419,56,543,83"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a3caedf6598ee654efb9b8be761cc8edc" title="file_temp_alloc" alt="" coords="426,107,535,133"/>
+</map>

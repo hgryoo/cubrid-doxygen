@@ -1,0 +1,14 @@
+<map id="tz_conv_tz_datetime_w_region" name="tz_conv_tz_datetime_w_region">
+<area shape="rect" id="node2" href="$db__date_8h.html#a8a9872243f15399c8be5eed71d68a40e" title="db_timestamp_decode\l_w_reg" alt="" coords="224,5,377,47"/>
+<area shape="rect" id="node4" href="$db__date_8c.html#a9ad675b95a3707bd9206681d2b70c969" title="db_timestamp_encode\l_w_reg" alt="" coords="224,193,377,235"/>
+<area shape="rect" id="node6" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="683,173,863,199"/>
+<area shape="rect" id="node7" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="713,274,832,301"/>
+<area shape="rect" id="node9" href="$execute__statement_8h.html#a808d1caf2a1fe3f468169c9e18fdafcd" title="do_evaluate_default_expr" alt="" coords="687,477,858,503"/>
+<area shape="rect" id="node10" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="698,426,847,453"/>
+<area shape="rect" id="node11" href="$tz__support_8h.html#af07d82a43fba29ce92dd94e5794d1ef4" title="tz_conv_tz_datetime\l_w_zone_name" alt="" coords="229,259,372,300"/>
+<area shape="rect" id="node13" href="$tz__support_8h.html#a2809a1d6e1b67c559f4f0ae6fda95d04" title="tz_conv_tz_time_w_zone_name" alt="" coords="196,375,405,402"/>
+<area shape="rect" id="node3" href="$db__date_8h.html#ad562d9be3aa52e4bc487b3ae14aafbda" title="db_timestamp_decode_ses" alt="" coords="453,13,635,39"/>
+<area shape="rect" id="node5" href="$db__date_8h.html#add9cafa119125d6b648982295791edf5" title="db_timestamp_encode_ses" alt="" coords="453,122,635,149"/>
+<area shape="rect" id="node8" href="$db__date_8h.html#a8288faf996abe68e8699b699bc81e408" title="db_timestamp_encode_sys" alt="" coords="453,274,635,301"/>
+<area shape="rect" id="node12" href="$string__opfunc_8h.html#a32bda7d3c7ee083f32a09364379f9ec1" title="db_new_time" alt="" coords="495,223,593,250"/>
+</map>

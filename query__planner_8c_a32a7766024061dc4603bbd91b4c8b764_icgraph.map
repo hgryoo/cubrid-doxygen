@@ -1,0 +1,5 @@
+<map id="qo_has_sort_limit_subplan" name="qo_has_sort_limit_subplan">
+<area shape="rect" id="node2" href="$xasl__generation_8c.html#a74b1669de444554474a8dd16f05cd589" title="pt_set_limit_optimization\l_flags" alt="" coords="453,5,620,47"/>
+<area shape="rect" id="node4" href="$query__planner_8h.html#a32a7766024061dc4603bbd91b4c8b764" title="qo_has_sort_limit_subplan" alt="" coords="229,50,405,77"/>
+<area shape="rect" id="node3" href="$xasl__generation_8c.html#ac00afe3347320f27638ab8dbd860fa5c" title="pt_to_buildlist_proc" alt="" coords="668,13,803,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cubload::session::notify_batch_done" name="cubload::session::notify_batch_done">
+<area shape="rect" id="node2" href="$classcubload_1_1load__task.html#a516a332e8343a51a20593165e18b76f8" title="cubload::load_task\l::notify_done" alt="" coords="213,39,344,80"/>
+<area shape="rect" id="node3" href="$classcubload_1_1load__task.html#aa4e8a989957626a602b12db671672fdb" title="cubload::load_task\l::execute" alt="" coords="392,5,523,47"/>
+<area shape="rect" id="node4" href="$classcubload_1_1load__task.html#acc438d27b7880d0dc73a1ee2c716cee9" title="cubload::load_task\l::~load_task" alt="" coords="392,71,523,112"/>
+</map>

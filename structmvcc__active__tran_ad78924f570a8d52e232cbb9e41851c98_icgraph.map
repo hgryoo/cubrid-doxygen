@@ -1,0 +1,7 @@
+<map id="mvcc_active_tran::get_bit_offset" name="mvcc_active_tran::get_bit_offset">
+<area shape="rect" id="node2" href="$structmvcc__active__tran.html#a8f8fb1faaf7f82e34d039ab188b30009" title="mvcc_active_tran::is\l_active" alt="" coords="208,45,351,86"/>
+<area shape="rect" id="node5" href="$structmvcc__active__tran.html#affcc854b119d8a202e6429e97fbdb82f" title="mvcc_active_tran::set\l_bitarea_mvccid" alt="" coords="204,110,355,151"/>
+<area shape="rect" id="node3" href="$mvcc_8c.html#a1ab8344021e84d594408d9255aecd85f" title="mvcc_is_id_in_snapshot" alt="" coords="403,5,568,32"/>
+<area shape="rect" id="node4" href="$classmvcctable.html#a450520b79a5aecc3490a3ddc22298ccb" title="mvcctable::is_active" alt="" coords="414,56,557,83"/>
+<area shape="rect" id="node6" href="$structmvcc__active__tran.html#a38d35eb2cb50d1e3d00ed5b35cfebb22" title="mvcc_active_tran::set\l_inactive_mvccid" alt="" coords="410,110,561,151"/>
+</map>

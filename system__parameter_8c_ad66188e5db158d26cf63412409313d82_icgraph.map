@@ -1,0 +1,6 @@
+<map id="sysprm_get_session_parameters_count" name="sysprm_get_session_parameters_count">
+<area shape="rect" id="node2" href="$session_8h.html#a0c58bb5074e391d5315cc522f813ae9d" title="session_get_session\l_parameter" alt="" coords="196,49,340,90"/>
+<area shape="rect" id="node3" href="$system__parameter_8c.html#ab48c1182bb4c9d3cf9b308648452949a" title="sysprm_set_value" alt="" coords="388,5,516,32"/>
+<area shape="rect" id="node4" href="$system__parameter_8c.html#ae1cfb23809a4b00ea6d84c2d199f5d7f" title="prm_set_default" alt="" coords="395,56,509,83"/>
+<area shape="rect" id="node5" href="$system__parameter_8h.html#a5eeddbf3a2a795e638cb771341d44829" title="prm_get_value" alt="" coords="399,107,505,133"/>
+</map>

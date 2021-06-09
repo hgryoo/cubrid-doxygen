@@ -1,0 +1,6 @@
+<map id="pgbuf_flush_if_requested" name="pgbuf_flush_if_requested">
+<area shape="rect" id="node2" href="$vacuum_8c.html#a25daab97104455e9fa805fc81e61e92f" title="vacuum_data_unload\l_first_and_last_page" alt="" coords="220,64,365,105"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a2cb21fa7816f2d0a4cf699cae9e7fd7b" title="vacuum_data_load_and\l_recover" alt="" coords="414,5,573,47"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#a6a0c8157402f3361e437b601e511c6b8" title="vacuum_finalize" alt="" coords="435,71,551,98"/>
+<area shape="rect" id="node5" href="$vacuum_8h.html#a8763d2485ae400a8f6779bc9549963bb" title="vacuum_sa_reflect_last\l_blockid" alt="" coords="413,123,573,164"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="dwb_destroy" name="dwb_destroy">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="155,55,303,81"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="149,156,309,183"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="391,29,480,56"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#a2fd861e1d3b790174c60ffba8856e0e7" title="boot_shutdown_server" alt="" coords="359,80,512,107"/>
+<area shape="rect" id="node6" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="377,131,493,157"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#ad11c22c32fc80990a4d312bbfa65694f" title="boot_server_status" alt="" coords="369,181,502,208"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="561,207,725,233"/>
+<area shape="rect" id="node9" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="360,283,511,309"/>
+<area shape="rect" id="node10" href="$boot__sr_8c.html#ab5d8cbe4258cd66e61a0da4e4a87614f" title="xboot_unregister_client" alt="" coords="357,333,513,360"/>
+</map>

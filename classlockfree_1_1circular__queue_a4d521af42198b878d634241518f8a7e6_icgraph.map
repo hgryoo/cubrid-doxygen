@@ -1,0 +1,10 @@
+<map id="lockfree::circular_queue::consume" name="lockfree::circular_queue::consume">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a1869e0a6005a3553cf95f4573a52b4c0" title="pgbuf_lfcq_get_victim\l_from_private_lru" alt="" coords="198,5,347,47"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#ad6a87f13e7f04e7143483b3737eb6c86" title="pgbuf_lfcq_get_victim\l_from_shared_lru" alt="" coords="198,71,347,112"/>
+<area shape="rect" id="node5" href="$vacuum_8h.html#a503bfb46b513078cca18c570df9907a6" title="vacuum_consume_buffer\l_log_blocks" alt="" coords="189,188,357,229"/>
+<area shape="rect" id="node9" href="$vacuum_8c.html#a036c930ecf40c2682d2cde7418589c5b" title="vacuum_data_mark_finished" alt="" coords="179,137,367,163"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#ae3559936e3204102a7a9a4fee6087017" title="pgbuf_get_victim" alt="" coords="427,46,549,73"/>
+<area shape="rect" id="node6" href="$structvacuum__data.html#a8d3ac9a3f174ae46ac29f6347dc5ebea" title="vacuum_data::update" alt="" coords="415,137,561,163"/>
+<area shape="rect" id="node7" href="$vacuum_8h.html#a6a0c8157402f3361e437b601e511c6b8" title="vacuum_finalize" alt="" coords="430,187,546,214"/>
+<area shape="rect" id="node8" href="$vacuum_8c.html#a98dc5dfb2fca47a345da4f0f7c678554" title="vacuum_recover_lost\l_block_data" alt="" coords="415,239,561,280"/>
+</map>

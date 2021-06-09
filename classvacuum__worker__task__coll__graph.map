@@ -1,0 +1,5 @@
+<map id="vacuum_worker_task" name="vacuum_worker_task">
+<area shape="rect" id="node2" href="$classcubthread_1_1task.html" title="{cubthread::entry_task\n||+ task()\l+ ~task()\l+ execute()\l+ retire()\l}" alt="" coords="5,373,153,494"/>
+<area shape="rect" id="node3" href="$structvacuum__data__entry.html" title="{vacuum_data_entry\n|+ blockid\l+ oldest_visible_mvccid\l+ newest_mvccid\l|+ vacuum_data_entry()\l+ vacuum_data_entry()\l+ vacuum_data_entry()\l+ get_blockid()\l+ is_available()\l+ is_vacuumed()\l+ is_job_in_progress()\l+ was_interrupted()\l+ set_vacuumed()\l+ set_job_in_progress()\l+ set_interrupted()\l}" alt="" coords="178,307,341,560"/>
+<area shape="rect" id="node4" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="207,5,312,244"/>
+</map>

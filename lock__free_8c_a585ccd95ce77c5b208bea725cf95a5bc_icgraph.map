@@ -1,0 +1,11 @@
+<map id="lf_hash_insert_internal" name="lf_hash_insert_internal">
+<area shape="rect" id="node2" href="$lock__free_8h.html#adf886be97eb0dcb1737e8bbaad1641f9" title="lf_hash_find_or_insert" alt="" coords="205,122,355,149"/>
+<area shape="rect" id="node7" href="$lock__free_8h.html#a757b7349c81b1f336b51d59ed1fed38d" title="lf_hash_insert" alt="" coords="229,246,331,273"/>
+<area shape="rect" id="node9" href="$lock__free_8h.html#a56e43b1e14e654d54327a7e81b1138fa" title="lf_hash_insert_given" alt="" coords="209,303,351,330"/>
+<area shape="rect" id="node3" href="$classlf__hash__table__cpp.html#a44d3283657079cd0e8e444b474223f0e" title="lf_hash_table_cpp::\lfind_or_insert" alt="" coords="416,5,551,47"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a5038b8fffcde429063f163ae6d1bb35c" title="heap_cache_class_info" alt="" coords="404,71,563,98"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a67e8a520cb4db4092a880f4f7f9da6a7" title="heap_hfid_cache_get" alt="" coords="411,122,556,149"/>
+<area shape="rect" id="node6" href="$log__tran__table_8c.html#a5d8c811c730d90c49d5a22852ae50b9e" title="logtb_get_global_unique\l_stats_entry" alt="" coords="403,173,564,215"/>
+<area shape="rect" id="node8" href="$classlf__hash__table__cpp.html#a31b6b309a1fd6b44e3a712f9d70945c3" title="lf_hash_table_cpp::\linsert" alt="" coords="416,239,551,280"/>
+<area shape="rect" id="node10" href="$classlf__hash__table__cpp.html#ab54d2b0ad9ef935b7f8de8696b789899" title="lf_hash_table_cpp::\linsert_given" alt="" coords="416,304,551,345"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="au_find_user_to_drop" name="au_find_user_to_drop">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a7a4c57c9fc9c28036944c6f86d97bbf9" title="au_drop_user_method" alt="" coords="200,5,351,32"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a4dc4cb7c9cf9bb677ad496a770c911c2" title="db_find_user_to_drop" alt="" coords="202,56,349,83"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#ad2499b5620c0af807ab5765e124b5513" title="do_drop_user" alt="" coords="399,56,499,83"/>
+</map>

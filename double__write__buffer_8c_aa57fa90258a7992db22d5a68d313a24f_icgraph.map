@@ -1,0 +1,5 @@
+<map id="dwb_slots_hash_delete" name="dwb_slots_hash_delete">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#ad239ae8b08d1c10f627f2ada75eab28d" title="dwb_write_block" alt="" coords="212,35,331,61"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8c.html#a9990a5604abb5bdf77d643cd0023fe5b" title="dwb_flush_block" alt="" coords="397,5,515,32"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="379,57,533,98"/>
+</map>

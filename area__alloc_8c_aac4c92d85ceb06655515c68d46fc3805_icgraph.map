@@ -1,0 +1,18 @@
+<map id="area_destroy" name="area_destroy">
+<area shape="rect" id="node2" href="$class__object_8h.html#a10c1f2566833fd7df32c5ab09b04008e" title="classobj_area_final" alt="" coords="301,259,435,285"/>
+<area shape="rect" id="node6" href="$object__template_8h.html#aa9fea48cd0ea1b69e6cb7f971bd5d834" title="obt_area_final" alt="" coords="151,56,253,83"/>
+<area shape="rect" id="node8" href="$object__primitive_8h.html#acd3937aa5288f161608b460116f2e4c9" title="pr_area_final" alt="" coords="154,309,250,336"/>
+<area shape="rect" id="node10" href="$set__object_8h.html#ac3ba63f05c3eba1ed9102cfdf582700a" title="set_area_final" alt="" coords="151,157,253,184"/>
+<area shape="rect" id="node12" href="$unittests__area_8c.html#ac2b9f33eee7a638ac1499ba124af7818" title="test_area" alt="" coords="164,411,240,437"/>
+<area shape="rect" id="node13" href="$object__domain_8h.html#afba56bb9430c250bbacc01d8f5855087" title="tp_final" alt="" coords="336,411,400,437"/>
+<area shape="rect" id="node17" href="$work__space_8h.html#a7cfec43f2821c16fc2a18899afc165f4" title="ws_area_final" alt="" coords="151,208,253,235"/>
+<area shape="rect" id="node3" href="$work__space_8h.html#a7f356c42f2ee46cc4ff3f8cd9a06f0f7" title="ws_init" alt="" coords="531,208,593,235"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="689,259,828,285"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="694,309,823,336"/>
+<area shape="rect" id="node7" href="$object__template_8h.html#a30b2452a25e06e2344613d014d8d6842" title="obt_area_init" alt="" coords="320,5,416,32"/>
+<area shape="rect" id="node9" href="$object__primitive_8h.html#ae12a8c594fad2fc0fab2db8c4b6a5d40" title="PRIM_SET_NULL" alt="" coords="303,309,433,336"/>
+<area shape="rect" id="node11" href="$set__object_8h.html#a9585af34d51e74308d443558d631d54d" title="set_area_init" alt="" coords="320,107,416,133"/>
+<area shape="rect" id="node14" href="$utility_8h.html#afcca051358c81f7c4f159aa6859bcad2" title="patchdb" alt="" coords="528,411,596,437"/>
+<area shape="rect" id="node15" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="485,309,639,336"/>
+<area shape="rect" id="node16" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="483,360,641,387"/>
+</map>

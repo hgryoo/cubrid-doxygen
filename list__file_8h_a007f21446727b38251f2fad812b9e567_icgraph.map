@@ -1,0 +1,9 @@
+<map id="qfile_save_current_scan_tuple_position" name="qfile_save_current_scan_tuple_position">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a4d3537ba25d46d36535249eafc79da64" title="qexec_merge_list" alt="" coords="423,5,547,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a1d7879959029d8eecb52f04eaa25b6c4" title="qexec_recalc_tuples\l_parent_pos_in_list" alt="" coords="201,53,342,94"/>
+<area shape="rect" id="node6" href="$list__file_8c.html#aa8eff92c65c5072a3b6d064531bc882b" title="qfile_advance_group" alt="" coords="201,119,342,145"/>
+<area shape="rect" id="node7" href="$scan__manager_8h.html#ac8772c28e2021a5bf64738bfc237b331" title="scan_save_scan_pos" alt="" coords="197,169,345,196"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a8205ad7c83184c045333f920f7611fca" title="qexec_merge_listfiles" alt="" coords="625,59,773,85"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#aca3e5eec1423cc628767b7d7a8631244" title="qexec_execute_connect_by" alt="" coords="393,60,577,87"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#a4dbbb4d771851eb52f910bdb277a257c" title="qexec_merge_list_outer" alt="" coords="405,140,565,167"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="do_get_serial_obj_id" name="do_get_serial_obj_id">
+<area shape="rect" id="node2" href="$authenticate_8h.html#aa94c06a8a0d5617454fb4fabb493531a" title="au_change_serial_owner\l_method" alt="" coords="198,5,363,47"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a8a9e964d65f3f798727c4f2fc5c84668" title="db_get_serial_current\l_value" alt="" coords="207,71,354,112"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a3a1c2f72e5acedd5b63acbca827a2328" title="db_get_serial_next\l_value_ex" alt="" coords="215,136,346,177"/>
+<area shape="rect" id="node6" href="$transform__cl_8c.html#a7e9edf7ef6d40f43dc2b1c5dcca4594d" title="disk_to_class" alt="" coords="229,202,332,229"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="227,253,334,279"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html#a4b5c1edbe844b65f680fa8eceaa5683e" title="do_change_att_schema_only" alt="" coords="416,362,607,389"/>
+<area shape="rect" id="node10" href="$execute__statement_8h.html#ac78ed602718434e660dfe3f61cf88719" title="do_create_auto_increment\l_serial" alt="" coords="193,355,368,396"/>
+<area shape="rect" id="node11" href="$execute__statement_8h.html#a6d5023a6cc407b5d1d0222db0157e162" title="do_create_serial" alt="" coords="222,421,339,447"/>
+<area shape="rect" id="node12" href="$execute__statement_8h.html#a531bed70bff45e7b90d74cac4950f562" title="do_drop_serial" alt="" coords="227,471,334,498"/>
+<area shape="rect" id="node13" href="$execute__schema_8c.html#a17d21d8e0b4b4f4a2e042a8051d3802c" title="do_find_auto_increment\l_serial" alt="" coords="201,523,361,564"/>
+<area shape="rect" id="node14" href="$execute__statement_8h.html#ad37d6b13f9139f97baed90d66d276468" title="do_update_maxvalue\l_of_auto_increment_serial" alt="" coords="193,588,368,629"/>
+<area shape="rect" id="node15" href="$object__template_8c.html#a95c3533b251fa709472caaf7bfef3ecb" title="populate_auto_increment" alt="" coords="197,654,364,681"/>
+<area shape="rect" id="node16" href="$parser_8h.html#a8cd9239cfdc7df881a2c7d47d8cbf5f4" title="pt_resolve_serial" alt="" coords="221,705,341,731"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a80ad1094551d87edffc1a21c7b6183b6" title="db_get_serial_next\l_value" alt="" coords="446,136,577,177"/>
+<area shape="rect" id="node7" href="$transform__cl_8h.html#a30a26dd49369865b7a1e50a4bdfeffb9" title="tf_disk_to_class" alt="" coords="453,202,570,229"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="prm_set_bool_value" name="prm_set_bool_value">
+<area shape="rect" id="node2" href="$csql_8c.html#a15429a4b636888c56b3e95224a98c506" title="csql_set_trace" alt="" coords="241,27,348,53"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#ad975d64896bfb74611b6c5b4958bee42" title="do_set_query_trace" alt="" coords="227,88,363,115"/>
+<area shape="rect" id="node7" href="$system__parameter_8c.html#af246e6fea4a345d4404b79c6ae65ee1b" title="sysprm_set_system_parameter\l_value" alt="" coords="192,139,397,181"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="229,205,360,246"/>
+<area shape="rect" id="node3" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="445,5,596,32"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="470,56,571,83"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="644,81,799,108"/>
+<area shape="rect" id="node8" href="$system__parameter_8c.html#ab48c1182bb4c9d3cf9b308648452949a" title="sysprm_set_value" alt="" coords="457,157,585,184"/>
+</map>

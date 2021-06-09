@@ -1,0 +1,7 @@
+<map id="proxy_inactivate" name="proxy_inactivate">
+<area shape="rect" id="node2" href="$broker__admin__pub_8c.html#a2069352d734d14eb117b09560ade8dcd" title="br_inactivate" alt="" coords="171,81,267,108"/>
+<area shape="rect" id="node3" href="$broker__admin__pub_8h.html#a14999819eaeeb81cb1aa69aef429116f" title="admin_off_cmd" alt="" coords="321,5,431,32"/>
+<area shape="rect" id="node4" href="$broker__admin__pub_8h.html#a21e0332265b07017b4f3211c3f455640" title="admin_on_cmd" alt="" coords="321,56,431,83"/>
+<area shape="rect" id="node5" href="$broker__admin__pub_8h.html#ad2b7e17f9a9fe16d07b20db49cea8f6b" title="admin_start_cmd" alt="" coords="315,107,437,133"/>
+<area shape="rect" id="node6" href="$broker__admin__pub_8h.html#aea3392ab9991db755b0a823eb606be60" title="admin_stop_cmd" alt="" coords="315,157,437,184"/>
+</map>

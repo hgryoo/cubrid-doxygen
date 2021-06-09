@@ -1,0 +1,7 @@
+<map id="partition_free_cache_entry" name="partition_free_cache_entry">
+<area shape="rect" id="node2" href="$partition_8c.html#a5036b6824d8ee5fd574187c5c83e2c31" title="partition_cache_pruning\l_context" alt="" coords="192,5,351,47"/>
+<area shape="rect" id="node4" href="$partition_8c.html#af488fd46f3995b8e4d23b82b81290468" title="partition_free_cache\l_entry_kv" alt="" coords="202,71,341,112"/>
+<area shape="rect" id="node3" href="$partition__sr_8h.html#aef1b14c7f20079f1a0ef94745945d48c" title="partition_load_pruning\l_context" alt="" coords="406,5,554,47"/>
+<area shape="rect" id="node5" href="$partition__sr_8h.html#ab02785ce6fb41431104189dc8ca29d6d" title="partition_cache_finalize" alt="" coords="401,74,559,101"/>
+<area shape="rect" id="node6" href="$partition__sr_8h.html#a52a95bcc2d70fec238c91c2b07d02230" title="partition_decache_class" alt="" coords="399,125,561,151"/>
+</map>

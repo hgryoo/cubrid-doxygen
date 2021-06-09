@@ -1,0 +1,4 @@
+<map id="vacuum_init_thread_context" name="vacuum_init_thread_context">
+<area shape="rect" id="node2" href="$classvacuum__worker__context__manager.html#aaaea17bc95712fcdd83442b0fc2bd341" title="vacuum_worker_context\l_manager::on_create" alt="" coords="205,5,369,47"/>
+<area shape="rect" id="node3" href="$classvacuum__master__context__manager.html#a2a6e3acb5c260a5a68ca4ffe71ba4dad" title="vacuum_master_context\l_manager::on_daemon_create" alt="" coords="188,71,385,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="serial_cache_area" name="serial_cache_area">
+<area shape="rect" id="node2" href="$structserial__entry.html" title="{serial_entry\n|+ cached_num\l|}" alt="" coords="56,263,164,340"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,5,97,112"/>
+<area shape="rect" id="node4" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="121,20,219,97"/>
+</map>

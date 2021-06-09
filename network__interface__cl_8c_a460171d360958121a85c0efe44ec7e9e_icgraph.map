@@ -1,0 +1,8 @@
+<map id="qmgr_prepare_query" name="qmgr_prepare_query">
+<area shape="rect" id="node2" href="$query__cl_8h.html#a758f796c665b00b32ed41b73447702e8" title="prepare_query" alt="" coords="193,100,297,127"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#ac634b027d1b85e4fbfb2cc7e8b803fc7" title="do_prepare_update" alt="" coords="568,5,700,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a5a96449a20d34f17f764bead35cde84e" title="do_prepare_delete" alt="" coords="570,93,698,120"/>
+<area shape="rect" id="node5" href="$execute__statement_8c.html#ad23d776ce7a07d19479803018049af45" title="do_prepare_insert_internal" alt="" coords="345,201,520,228"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#af68cfdd2cffdd748ff0f6581df99c031" title="do_prepare_select" alt="" coords="369,100,497,127"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#a92e684c00e2d830e80140690244b728e" title="do_prepare_merge" alt="" coords="569,144,699,171"/>
+</map>

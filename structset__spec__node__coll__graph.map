@@ -1,0 +1,4 @@
+<map id="set_spec_node" name="set_spec_node">
+<area shape="rect" id="node2" href="$structregu__variable__list__node.html" title="{regu_variable_list_node\n||}" alt="" coords="5,233,164,311"/>
+<area shape="rect" id="node3" href="$classregu__variable__node.html" title="{regu_variable_node\n|+ type\l+ flags\l|+ regu_variable_node()\l+ map_regu()\l+ map_regu_and_xasl()\l+ clear_xasl()\l&#45; map_regu()\l&#45; clear_xasl_local()\l}" alt="" coords="5,5,164,171"/>
+</map>

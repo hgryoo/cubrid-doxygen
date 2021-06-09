@@ -1,0 +1,11 @@
+<map id="fmt_integral_value" name="fmt_integral_value">
+<area shape="rect" id="node2" href="$cnv_8c.html#a95ffc16b905e5ff98d1beab543fe0fd6" title="bifmt_numeric_value" alt="" coords="364,107,507,133"/>
+<area shape="rect" id="node4" href="$cnv_8c.html#af0dcde94808cd94f490ff84e65384b12" title="ffmt_value" alt="" coords="207,56,290,83"/>
+<area shape="rect" id="node7" href="$cnv_8c.html#a9d636a001d45d84ab90de93ddb227b48" title="ifmt_numeric_value" alt="" coords="181,157,316,184"/>
+<area shape="rect" id="node9" href="$cnv_8c.html#ae9bce87203723ec08b07c12bf79577b7" title="mfmt_value" alt="" coords="203,208,294,235"/>
+<area shape="rect" id="node3" href="$cnv_8c.html#a923019e6092988fcecf84ed2656e3b57" title="bifmt_value" alt="" coords="555,107,644,133"/>
+<area shape="rect" id="node5" href="$cnv_8h.html#ad7c6b381eb420abcf4e8ebde6b54bae5" title="db_string_double" alt="" coords="375,5,495,32"/>
+<area shape="rect" id="node6" href="$cnv_8h.html#a6eb40873645e016f321526f5be906979" title="db_string_float" alt="" coords="382,56,489,83"/>
+<area shape="rect" id="node8" href="$cnv_8c.html#a802a19cbe8331d735ec463272b886e74" title="ifmt_value" alt="" coords="394,157,477,184"/>
+<area shape="rect" id="node10" href="$cnv_8h.html#a9ed5836f9e8a7b227440f7514756a2e3" title="db_string_monetary" alt="" coords="367,208,503,235"/>
+</map>

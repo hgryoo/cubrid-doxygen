@@ -1,0 +1,8 @@
+<map id="hb_strtime" name="hb_strtime">
+<area shape="rect" id="node2" href="$master__heartbeat_8h.html#ab90a3f207b3b8c0ff7bb568d6b1be2e2" title="hb_disable_er_log" alt="" coords="144,93,271,119"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8h.html#a984cbac643ef3c972832ecb9b9b73ad6" title="hb_get_process_info\l_string" alt="" coords="136,159,279,200"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#a7ef50c56c703c8550287ce5ab0c71722" title="hb_thread_check_disk\l_failure" alt="" coords="344,5,496,47"/>
+<area shape="rect" id="node4" href="$master__request_8c.html#aee37914b846db533c53e257a148bd4c0" title="css_process_deactivate\l_heartbeat" alt="" coords="339,71,501,112"/>
+<area shape="rect" id="node5" href="$master__request_8c.html#a3e010067a99860164d727e8d1600508e" title="css_process_deact_stop_all" alt="" coords="327,137,513,163"/>
+<area shape="rect" id="node7" href="$master__request_8c.html#a9092e3dd577d17262fae61923cc95447" title="css_process_ha_process\l_list_info" alt="" coords="335,188,505,229"/>
+</map>

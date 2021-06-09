@@ -1,0 +1,9 @@
+<map id="fileio_is_volume_exist_and_file" name="fileio_is_volume_exist_and_file">
+<area shape="rect" id="node2" href="$file__io_8h.html#a98c76ffb65ff6ba353a0ae0475c7ca7f" title="fileio_abort_backup" alt="" coords="442,66,577,92"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="827,142,929,168"/>
+<area shape="rect" id="node6" href="$file__io_8h.html#a565ba42d5bbcba0f69f8401b5aeb77a5" title="fileio_remove_all_backup" alt="" coords="204,124,372,151"/>
+<area shape="rect" id="node3" href="$file__io_8h.html#a8d17e5474825c3a1c56afea7769dce18" title="fileio_start_backup" alt="" coords="647,116,778,143"/>
+<area shape="rect" id="node5" href="$file__io_8h.html#a1e084a8daab23659525589153f1208a8" title="fileio_abort_restore" alt="" coords="647,66,779,92"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="420,117,599,158"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a45020463486a6bde25e2428528cb5654" title="logpb_delete" alt="" coords="462,183,557,210"/>
+</map>

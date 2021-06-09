@@ -1,0 +1,10 @@
+<map id="lockfree::circular_queue::get_cursor_index" name="lockfree::circular_queue::get_cursor_index">
+<area shape="rect" id="node2" href="$classlockfree_1_1circular__queue.html#aaebeac663edf003f417375ef36228a52" title="lockfree::circular\l_queue::block" alt="" coords="232,136,351,177"/>
+<area shape="rect" id="node5" href="$classlockfree_1_1circular__queue.html#a15201ba003b6fc256d9c279735a675b9" title="lockfree::circular\l_queue::is_blocked" alt="" coords="224,71,359,112"/>
+<area shape="rect" id="node7" href="$classlockfree_1_1circular__queue.html#a55219e9c43483dcaff8144ab9efb4eaf" title="lockfree::circular\l_queue::load_data" alt="" coords="227,5,355,47"/>
+<area shape="rect" id="node8" href="$classlockfree_1_1circular__queue.html#a83199b5a74f575d560562cf68e28ed5f" title="lockfree::circular\l_queue::store_data" alt="" coords="225,201,358,243"/>
+<area shape="rect" id="node9" href="$classlockfree_1_1circular__queue.html#a91ff7bcd4f296476d61b8449aa2df017" title="lockfree::circular\l_queue::unblock" alt="" coords="232,267,351,308"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1circular__queue.html#a0b1f31d419a8f907fec6efa87395355d" title="lockfree::circular\l_queue::init_blocked\l_cursors" alt="" coords="407,126,548,182"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1circular__queue.html#a5bc10051f1f711c2b86cdb48b3d3ffb9" title="lockfree::circular\l_queue::produce" alt="" coords="418,205,537,247"/>
+<area shape="rect" id="node6" href="$classlockfree_1_1circular__queue.html#a4d521af42198b878d634241518f8a7e6" title="lockfree::circular\l_queue::consume" alt="" coords="415,32,540,73"/>
+</map>

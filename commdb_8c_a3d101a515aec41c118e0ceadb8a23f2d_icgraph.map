@@ -1,0 +1,10 @@
+<map id="send_request_one_arg" name="send_request_one_arg">
+<area shape="rect" id="node2" href="$commdb_8c.html#a0c47d3d849a756a169a6a03ac9940e07" title="process_deact_stop_all" alt="" coords="218,5,377,32"/>
+<area shape="rect" id="node4" href="$commdb_8c.html#ad20f18b61edec90170d49e59de58cbe2" title="process_ha_deregister\l_by_args" alt="" coords="221,57,374,98"/>
+<area shape="rect" id="node5" href="$commdb_8c.html#a3ccbdf26d1ce8def5bc368cd26b41b29" title="process_ha_deregister\l_by_pid" alt="" coords="221,122,374,163"/>
+<area shape="rect" id="node6" href="$commdb_8c.html#a00945ce8bf28fef0e27b892ad095449e" title="process_ha_server_mode" alt="" coords="212,188,383,215"/>
+<area shape="rect" id="node7" href="$commdb_8c.html#a5691777f87f11a0a0b72e60ce22fc790" title="process_ha_start_util\l_process" alt="" coords="224,239,371,281"/>
+<area shape="rect" id="node8" href="$commdb_8c.html#a84c4fe3f5e7ff3fe9f8ce6171f1f9472" title="process_is_registered_proc" alt="" coords="207,305,388,332"/>
+<area shape="rect" id="node9" href="$commdb_8c.html#a48db4707e8941935c716c69ada63c2a3" title="process_master_shutdown" alt="" coords="208,356,387,383"/>
+<area shape="rect" id="node3" href="$commdb_8c.html#a833a236806e3150efcf9eafa31b591df" title="process_batch_command" alt="" coords="436,188,607,215"/>
+</map>

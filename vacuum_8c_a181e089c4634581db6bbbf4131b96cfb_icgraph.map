@@ -1,0 +1,5 @@
+<map id="vacuum_cleanup_collected_by_vfid" name="vacuum_cleanup_collected_by_vfid">
+<area shape="rect" id="node2" href="$vacuum_8c.html#a2e814432b50f4504d10689047b62c061" title="vacuum_process_log\l_record" alt="" coords="232,39,377,80"/>
+<area shape="rect" id="node3" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="426,5,571,47"/>
+<area shape="rect" id="node4" href="$vacuum_8c.html#a98dc5dfb2fca47a345da4f0f7c678554" title="vacuum_recover_lost\l_block_data" alt="" coords="425,71,572,112"/>
+</map>

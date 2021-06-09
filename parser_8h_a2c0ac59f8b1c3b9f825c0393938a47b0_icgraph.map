@@ -1,0 +1,21 @@
+<map id="parser_init_func_vectors" name="parser_init_func_vectors">
+<area shape="rect" id="node2" href="$parser_8h.html#a65d80931fdbc47cd41fc924864d76e37" title="parser_create_parser" alt="" coords="217,493,361,520"/>
+<area shape="rect" id="node3" href="$checksumdb_8c.html#afe70c040b8b7d07321e72445770b3f39" title="chksum_start" alt="" coords="447,5,549,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8c.html#a9d69250286fbd63ff09dd500a6dc427d" title="compile_trigger_activity" alt="" coords="419,56,577,83"/>
+<area shape="rect" id="node5" href="$db__vdb_8c.html#a45d5325a0b9918761e2fe8d60bf68775" title="db_open_local" alt="" coords="445,107,551,133"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a49f15de500fb542b2c7df35cad5ae93c" title="db_validate_query_spec" alt="" coords="417,157,579,184"/>
+<area shape="rect" id="node7" href="$execute__schema_8h.html#a95d828b7c2320f57428a11f91e61134f" title="do_recreate_filter\l_index_constr" alt="" coords="437,209,559,250"/>
+<area shape="rect" id="node8" href="$execute__schema_8h.html#a781ed558285ee6b9acf14a6291ac6262" title="do_recreate_func_index\l_constr" alt="" coords="418,274,578,315"/>
+<area shape="rect" id="node9" href="$unload__schema_8c.html#ae700ca8c1f790a3eefa5e3b57d926fa7" title="emit_query_specs" alt="" coords="434,340,562,367"/>
+<area shape="rect" id="node10" href="$unload__schema_8c.html#a6e4a9939f83a885ca5f80a66f11a6db8" title="emit_query_specs_has\l_using_index" alt="" coords="420,391,576,433"/>
+<area shape="rect" id="node11" href="$view__transform_8c.html#aa2ff51ec653a656de9cf92f524ae6abe" title="mq_fetch_one_real_class\l_get_cache" alt="" coords="413,457,583,498"/>
+<area shape="rect" id="node12" href="$view__transform_8h.html#a1521bf43ed9f147838ae41aa87455c45" title="mq_get_attribute" alt="" coords="439,523,557,549"/>
+<area shape="rect" id="node13" href="$view__transform_8h.html#a67afca1985f6d6a00e0346692bd59e86" title="mq_get_expression" alt="" coords="431,573,565,600"/>
+<area shape="rect" id="node14" href="$view__transform_8h.html#af8c0e9f29956be17b97ecb9d9155823b" title="mq_is_updatable_attribute" alt="" coords="411,624,585,651"/>
+<area shape="rect" id="node15" href="$view__transform_8c.html#ac45b48e0333d9d66608797b87a961ac4" title="mq_is_updatable_local" alt="" coords="421,675,575,701"/>
+<area shape="rect" id="node16" href="$view__transform_8h.html#a3a7a44dcedaf5517e4029633d19125be" title="mq_update_attribute" alt="" coords="428,725,568,752"/>
+<area shape="rect" id="node17" href="$view__transform_8c.html#a85a6baf509b2579b68e8324ace3b0398" title="mq_virtual_queries" alt="" coords="433,776,563,803"/>
+<area shape="rect" id="node18" href="$semantic__check_8c.html#a5843229c5e01ec51876cbfc885b6377a" title="pt_check_alter_partition" alt="" coords="418,827,578,853"/>
+<area shape="rect" id="node19" href="$semantic__check_8h.html#aced1baa2c89cbe642fcf5facaa5c887e" title="pt_check_cyclic_reference\l_in_view_spec" alt="" coords="409,902,587,943"/>
+<area shape="rect" id="node20" href="$parser__support_8c.html#af62cbf6f0378d2434ddf12014eb347f1" title="pt_get_proxy_spec_name" alt="" coords="413,968,583,995"/>
+</map>

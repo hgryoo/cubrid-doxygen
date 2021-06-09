@@ -1,0 +1,6 @@
+<map id="session_set_trigger_state" name="session_set_trigger_state">
+<area shape="rect" id="node2" href="$query__manager_8c.html#acca53c25556757b153c16afc23f6ccd4" title="xqmgr_execute_query" alt="" coords="207,31,358,57"/>
+<area shape="rect" id="node5" href="$query__manager_8c.html#a55f2eab3bb1fa4d953fa300f40ff9708" title="xqmgr_prepare_and_execute\l_query" alt="" coords="188,82,377,123"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#af5588ff08bd4f5d52ccbf0219200ce0d" title="qmgr_execute_query" alt="" coords="429,5,572,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="425,56,576,83"/>
+</map>

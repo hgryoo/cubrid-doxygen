@@ -1,0 +1,5 @@
+<map id="lock_is_waiting_transaction" name="lock_is_waiting_transaction">
+<area shape="rect" id="node2" href="$transaction__sr_8c.html#ad77329783d35265402c0fa91eadac8c7" title="xtran_is_blocked" alt="" coords="236,31,356,57"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#afc1a742182a8c564a64b1e83f5a0d72f" title="tran_is_blocked" alt="" coords="407,5,521,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#af357c846378ac109fe2d4f1d1fd7cdc2" title="stran_is_blocked" alt="" coords="404,56,524,83"/>
+</map>

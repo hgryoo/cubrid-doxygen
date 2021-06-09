@@ -1,0 +1,8 @@
+<map id="pgbuf_delete_from_hash_chain" name="pgbuf_delete_from_hash_chain">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a32645b0c2aace57799af8b647423a493" title="pgbuf_invalidate_bcb" alt="" coords="217,85,361,112"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a88151b978de695fc8c76f011b0996962" title="pgbuf_victimize_bcb" alt="" coords="219,140,360,167"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#afde1751ceb069fe468ffa1b51283033f" title="pgbuf_unfix_debug" alt="" coords="423,5,554,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#acb30faadf59202892e5dd7a8afcde82e" title="pgbuf_invalidate_debug" alt="" coords="409,56,568,83"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#a172d7adc186f7dc6862f73c7fd2e8e55" title="pgbuf_invalidate_all\l_debug" alt="" coords="421,107,557,149"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#ad52a19e58500feeaa168bde701246375" title="pgbuf_allocate_bcb" alt="" coords="421,173,556,200"/>
+</map>

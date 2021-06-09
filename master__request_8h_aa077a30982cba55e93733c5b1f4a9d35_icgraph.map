@@ -1,0 +1,21 @@
+<map id="css_remove_entry_by_conn" name="css_remove_entry_by_conn">
+<area shape="rect" id="node2" href="$master_8c.html#ab98a79aef768822a55ab434613573ff0" title="css_check_master_socket\l_exception" alt="" coords="484,64,663,105"/>
+<area shape="rect" id="node4" href="$master_8c.html#a8728bff06fcba0fab45624e6b088beb6" title="css_check_master_socket\l_input" alt="" coords="246,5,425,47"/>
+<area shape="rect" id="node5" href="$master__request_8c.html#aa6292a998213f7b5d749e230209d9aea" title="css_cleanup_info_connection" alt="" coords="239,370,432,397"/>
+<area shape="rect" id="node15" href="$master_8c.html#a7441a35cc502b58af97bee709f08bd72" title="css_master_select_error" alt="" coords="491,130,656,157"/>
+<area shape="rect" id="node16" href="$master_8c.html#a05f24e0208f79323d7a49792982fe07d" title="css_master_timeout" alt="" coords="503,181,643,207"/>
+<area shape="rect" id="node17" href="$master_8c.html#af7eb18a37d78ffa472d5ab6ff425a286" title="css_send_to_existing\l_server" alt="" coords="261,421,409,463"/>
+<area shape="rect" id="node18" href="$master__heartbeat_8h.html#affdc967efdb017ddc46fe9247241983c" title="hb_cleanup_conn_and\l_start_process" alt="" coords="260,123,411,164"/>
+<area shape="rect" id="node19" href="$master__heartbeat_8h.html#aaefcbbcb81eb04e31435ffaf62523e15" title="hb_register_new_process" alt="" coords="250,487,421,514"/>
+<area shape="rect" id="node20" href="$master__heartbeat_8c.html#a3bd01ef49dee67a8425d1ae841811fbf" title="hb_resource_shutdown\l_all_ha_procs" alt="" coords="257,539,413,580"/>
+<area shape="rect" id="node3" href="$master_8c.html#ac695509254953790c651799b38956103" title="css_master_loop" alt="" coords="715,101,836,127"/>
+<area shape="rect" id="node6" href="$master__request_8c.html#aaae1a70ecf231d399b4c1bf59e9466cf" title="css_process_activate\l_heartbeat" alt="" coords="499,428,648,469"/>
+<area shape="rect" id="node7" href="$master__request_8c.html#aa22e4ecc93abfab13bc15895001e2877" title="css_process_all_count_info" alt="" coords="482,494,665,521"/>
+<area shape="rect" id="node8" href="$master__request_8c.html#a3ca023f1a557951756625caffcdcb117" title="css_process_all_list_info" alt="" coords="489,545,657,571"/>
+<area shape="rect" id="node9" href="$master__request_8c.html#a84403afda2e7c1c759fd6c2108756293" title="css_process_deact_confirm\l_no_server" alt="" coords="481,596,666,637"/>
+<area shape="rect" id="node10" href="$master__request_8c.html#ae3ee2fcbe417719a5c6a54146b6f2d66" title="css_process_deact_confirm\l_stop_all" alt="" coords="481,661,666,703"/>
+<area shape="rect" id="node11" href="$master__request_8c.html#a3e010067a99860164d727e8d1600508e" title="css_process_deact_stop_all" alt="" coords="480,727,667,754"/>
+<area shape="rect" id="node12" href="$master__request_8c.html#aee37914b846db533c53e257a148bd4c0" title="css_process_deactivate\l_heartbeat" alt="" coords="492,232,655,273"/>
+<area shape="rect" id="node13" href="$master__request_8c.html#ac50665e7eb97c1ed8411d4efd62b1ac1" title="css_process_deregister\l_ha_process" alt="" coords="493,297,653,339"/>
+<area shape="rect" id="node14" href="$master__request_8c.html#aaa4089547f6ea9804a36beb890be8131" title="css_process_get_server\l_ha_mode" alt="" coords="491,363,655,404"/>
+</map>

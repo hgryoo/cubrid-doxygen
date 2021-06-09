@@ -1,0 +1,6 @@
+<map id="cubmonitor::transaction_sheet_manager::get_sheet" name="cubmonitor::transaction_sheet_manager::get_sheet">
+<area shape="rect" id="node2" href="$classcubmonitor_1_1transaction__statistic.html#a44289226490d5e9cead234bed958dae2" title="cubmonitor::transaction\l_statistic::collect" alt="" coords="236,5,395,47"/>
+<area shape="rect" id="node3" href="$classcubmonitor_1_1transaction__statistic.html#a634d0576e23649cb80cfb6af7b6995ab" title="cubmonitor::transaction\l_statistic::fetch" alt="" coords="236,71,395,112"/>
+<area shape="rect" id="node4" href="$classcubmonitor_1_1monitor.html#a7ebd477ccea95706f6117897384d1821" title="cubmonitor::monitor\l::fetch_transaction\l_statistics" alt="" coords="247,135,384,191"/>
+<area shape="rect" id="node5" href="$classcubmonitor_1_1transaction__statistic.html#a167207028b0a4fdd15c2daa57453fc98" title="cubmonitor::transaction\l_statistic::get_value" alt="" coords="236,215,395,256"/>
+</map>

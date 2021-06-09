@@ -1,0 +1,14 @@
+<map id="disk_vhdr_get_vol_remarks" name="disk_vhdr_get_vol_remarks">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#a971276e3a06ae7991c85b248038f7c57" title="disk_vhdr_dump" alt="" coords="267,56,384,83"/>
+<area shape="rect" id="node5" href="$disk__manager_8c.html#a47d0f5707e784b6401e4825fa67deb4f" title="disk_vhdr_length_of\l_varfields" alt="" coords="256,121,395,162"/>
+<area shape="rect" id="node7" href="$disk__manager_8c.html#aa8ce5b093bac898f168927f0e8ae6fbe" title="disk_vhdr_set_next\l_vol_fullname" alt="" coords="258,201,393,242"/>
+<area shape="rect" id="node10" href="$disk__manager_8c.html#a55548e007f691e6799ed8f87f900cb07" title="disk_vhdr_set_vol_remarks" alt="" coords="235,288,416,315"/>
+<area shape="rect" id="node11" href="$disk__manager_8c.html#ae88f6b3611ad207c13c725fb74a98f82" title="xdisk_get_remarks" alt="" coords="259,360,391,387"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#ada59880f878d1cf9d3b102d47e29053a" title="disk_dump_volume_system_info" alt="" coords="464,5,676,32"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a1666d0b535e8cc5981b370194267bc10" title="disk_rv_dump_hdr" alt="" coords="506,56,634,83"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="724,183,815,209"/>
+<area shape="rect" id="node8" href="$disk__manager_8h.html#a2bab7d4af00d351387c2eb202700d58d" title="disk_set_link" alt="" coords="521,208,619,235"/>
+<area shape="rect" id="node9" href="$disk__manager_8h.html#a536ddab5102f62f46a8ec2357c2332b8" title="disk_rv_undoredo_link" alt="" coords="495,259,645,285"/>
+<area shape="rect" id="node12" href="$network__interface__cl_8h.html#ae4c0f809a9798587feb5ba86c1580c08" title="disk_get_remarks" alt="" coords="507,360,633,387"/>
+<area shape="rect" id="node13" href="$network__interface__sr_8h.html#a7b9dceb2f8a3f2945736811f081ae37f" title="sdk_remarks" alt="" coords="521,411,619,437"/>
+</map>

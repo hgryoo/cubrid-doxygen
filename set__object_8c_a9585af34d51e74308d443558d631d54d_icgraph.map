@@ -1,0 +1,13 @@
+<map id="set_area_init" name="set_area_init">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="157,123,292,149"/>
+<area shape="rect" id="node7" href="$set__object_8h.html#a4aed11ff0955fc4fa1aefb8d8112c973" title="col_new" alt="" coords="189,248,260,275"/>
+<area shape="rect" id="node10" href="$set__object_8h.html#a99d191c3d4bd1dfea7dd9665c9979c9a" title="set_make_reference" alt="" coords="155,299,295,325"/>
+<area shape="rect" id="node11" href="$work__space_8h.html#a7f356c42f2ee46cc4ff3f8cd9a06f0f7" title="ws_init" alt="" coords="193,349,256,376"/>
+<area shape="rect" id="node12" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="149,400,300,427"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="361,5,477,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="354,57,485,98"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="348,123,491,149"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="375,197,464,224"/>
+<area shape="rect" id="node8" href="$set__object_8h.html#aa454043deb72979b71d1a128b694b43b" title="setobj_create" alt="" coords="369,248,469,275"/>
+<area shape="rect" id="node9" href="$set__object_8h.html#ad659820d78453e464d29e5429f7ba9b4" title="setobj_copy" alt="" coords="373,299,465,325"/>
+</map>

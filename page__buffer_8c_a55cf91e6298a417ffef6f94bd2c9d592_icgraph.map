@@ -1,0 +1,7 @@
+<map id="pgbuf_compare_victim_list" name="pgbuf_compare_victim_list">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#ad4ad85e0c34c5bb45a458a6b0294cdf7" title="pgbuf_flush_checkpoint" alt="" coords="231,56,389,83"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="245,107,375,149"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#a850e6db878c034a88e735606f63fa477" title="logpb_remove_archive_logs" alt="" coords="437,5,620,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="467,56,590,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a5d98688d5706fd68216d7931e5638a3b" title="logpb_fatal_error_internal" alt="" coords="445,107,612,133"/>
+</map>

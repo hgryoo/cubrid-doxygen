@@ -1,0 +1,8 @@
+<map id="catalog_put_repr_item_to_record" name="catalog_put_repr_item_to_record">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a4dce6236aa7369102102ae1429aadb7e" title="catalog_drop_old_representations" alt="" coords="205,56,421,83"/>
+<area shape="rect" id="node5" href="$system__catalog_8c.html#adfbf222479a168c21ec18083794167eb" title="catalog_drop_representation_item" alt="" coords="204,107,421,133"/>
+<area shape="rect" id="node7" href="$system__catalog_8c.html#a6a2596b6bb09db04e0189d4d9fcf1903" title="catalog_put_representation_item" alt="" coords="207,157,418,184"/>
+<area shape="rect" id="node3" href="$compactdb_8c.html#a993755aa8f3b4d771f7cd9e44edc089d" title="process_class" alt="" coords="479,5,585,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a3628159bebf185f06a5e918bb8f17f26" title="boot_compact_db" alt="" coords="469,56,595,83"/>
+<area shape="rect" id="node6" href="$system__catalog_8c.html#a515d81b22c759898776e4c36017f09e2" title="catalog_drop" alt="" coords="484,107,580,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="db_open_buffer_local" name="db_open_buffer_local">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a1d3ecb39d3f27d5c44fb24082ea38423" title="au_delete_auth_of_dropping\l_table" alt="" coords="199,22,383,63"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#a82d44fbed523274c7df330ae8bd5d4c6" title="db_check_limit_need\l_recompile" alt="" coords="219,87,363,129"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a8bc7eb6413c3ff1ae63e9c1b3bfccafe" title="db_open_buffer" alt="" coords="235,153,346,180"/>
+<area shape="rect" id="node6" href="$db__vdb_8c.html#a2f479c7755c512521e37e7bf27b78436" title="db_open_buffer_and\l_compile_first_statement" alt="" coords="207,205,375,246"/>
+<area shape="rect" id="node7" href="$db__vdb_8c.html#ac69f13e43ae60dcbdb63c3e77ba2c017" title="do_process_prepare\l_statement" alt="" coords="221,270,360,311"/>
+<area shape="rect" id="node8" href="$db__vdb_8c.html#aa67900db91e4c062a739ff4d40d69a3c" title="do_recompile_and_execute\l_prepared_statement" alt="" coords="201,335,381,377"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="431,29,583,56"/>
+</map>

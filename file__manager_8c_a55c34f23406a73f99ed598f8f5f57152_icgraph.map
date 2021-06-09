@@ -1,0 +1,7 @@
+<map id="file_table_move_partial_sectors_to_header" name="file_table_move_partial_sectors_to_header">
+<area shape="rect" id="node2" href="$file__manager_8c.html#adc0db5dfc925dc493ef06a24997d87d1" title="file_perm_alloc" alt="" coords="208,84,317,111"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a3a741355345c6add6859fa974b7025eb" title="file_alloc" alt="" coords="583,8,656,35"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a73d7f335d0b5680c0f40feccb2d4d936" title="file_numerable_add_page" alt="" coords="365,33,535,60"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a809af1534543d29a6f24183047377085" title="file_perm_dealloc" alt="" coords="389,84,511,111"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#ac9b7228add17f355af39a6376dc581de" title="file_table_add_full\l_sector" alt="" coords="387,135,513,177"/>
+</map>

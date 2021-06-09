@@ -1,0 +1,7 @@
+<map id="prior_lsa_remove_prior_list" name="prior_lsa_remove_prior_list">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a49eae8d2ddee098f169f0038d73602d6" title="logpb_prior_lsa_append\l_all_list" alt="" coords="231,56,389,97"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#aa8d2c0d3e65b71a9cd934d587d4bc2a6" title="heap_get_visible_version\l_from_log" alt="" coords="655,5,823,47"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a7960a034a57d6eed6cccbdd3261db6d7" title="logpb_fetch_page" alt="" coords="460,38,584,65"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#ab5c84aff4d15372a2d150897ad6d2b80" title="logpb_flush_pages_direct" alt="" coords="437,89,607,115"/>
+<area shape="rect" id="node6" href="$log__append_8cpp.html#a055967129308b00d1f5fab263f24da07" title="prior_lsa_next_record\l_internal" alt="" coords="449,140,595,181"/>
+</map>

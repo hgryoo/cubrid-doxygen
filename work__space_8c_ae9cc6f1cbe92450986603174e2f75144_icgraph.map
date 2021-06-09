@@ -1,0 +1,15 @@
+<map id="ws_map_dirty_internal" name="ws_map_dirty_internal">
+<area shape="rect" id="node2" href="$work__space_8h.html#a4dfbafeb6d07df390f0c804ff974525d" title="ws_filter_dirty" alt="" coords="205,183,308,209"/>
+<area shape="rect" id="node10" href="$work__space_8h.html#a264c5e36478637cf91fe41a2de0c4f52" title="ws_map_dirty" alt="" coords="205,435,308,461"/>
+<area shape="rect" id="node3" href="$work__space_8h.html#ae72635d9c8c21f1397ba4e853207ede5" title="ws_intern_instances" alt="" coords="362,5,503,32"/>
+<area shape="rect" id="node4" href="$work__space_8c.html#abeb915a1200fb4bf02cca396c4d85a5c" title="ws_clear_internal" alt="" coords="371,56,494,83"/>
+<area shape="rect" id="node5" href="$work__space_8h.html#aa849129e9ae244ea0e9737b8b77cc777" title="ws_has_updated" alt="" coords="373,107,493,133"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#a3f10f50e3070effde1ee3d00bbf538af" title="la_commit_transaction" alt="" coords="356,157,509,184"/>
+<area shape="rect" id="node7" href="$transaction__cl_8h.html#a1d5ef42a794f24bbb7d41f3eaf164e8f" title="tran_abort" alt="" coords="393,208,473,235"/>
+<area shape="rect" id="node8" href="$transaction__cl_8h.html#a938f5814219f14c56e528805ddca545a" title="tran_abort_only_client" alt="" coords="358,259,507,285"/>
+<area shape="rect" id="node9" href="$transaction__cl_8h.html#a62d23d4ee828236473e300945ab38221" title="tran_internal_abort\l_upto_savepoint" alt="" coords="368,310,497,351"/>
+<area shape="rect" id="node11" href="$locator__cl_8h.html#a2bd674341e6658b7989460fddb458b0a" title="locator_flush_class" alt="" coords="365,376,500,403"/>
+<area shape="rect" id="node12" href="$locator__cl_8c.html#a3d7c89a7629d7f6aa7355cbfe9f7e45b" title="locator_internal_flush\l_instance" alt="" coords="360,427,505,469"/>
+<area shape="rect" id="node13" href="$locator__cl_8h.html#a73025246210134321c1e177cc943c5a5" title="locator_all_flush" alt="" coords="375,493,491,520"/>
+<area shape="rect" id="node14" href="$locator__cl_8h.html#ac9c385d791975c7c8603cc0626723aae" title="locator_assign_all\l_permanent_oids" alt="" coords="369,545,496,586"/>
+</map>

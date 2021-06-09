@@ -1,0 +1,6 @@
+<map id="obj_make_key_value" name="obj_make_key_value">
+<area shape="rect" id="node2" href="$object__accessor_8h.html#a49afe59a3ddcf2946d0ec04c8753f078" title="obj_find_multi_attr" alt="" coords="202,5,330,32"/>
+<area shape="rect" id="node4" href="$object__accessor_8h.html#a4475c405e7336211aae979913eb1cae7" title="obj_find_multi_desc" alt="" coords="197,56,335,83"/>
+<area shape="rect" id="node3" href="$db__obj_8c.html#aced87efacba185dfd079d7e7a45e66ba" title="db_find_multi_unique" alt="" coords="386,5,530,32"/>
+<area shape="rect" id="node5" href="$db__obj_8c.html#a44652c08a622b0fa6a4ace00668b1b4c" title="db_dfind_multi_unique" alt="" coords="383,56,533,83"/>
+</map>

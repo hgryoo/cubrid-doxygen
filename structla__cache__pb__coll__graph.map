@@ -1,0 +1,7 @@
+<map id="la_cache_pb" name="la_cache_pb">
+<area shape="rect" id="node2" href="$structmht__table.html" title="{mht_table\n|+ hash_func\l+ cmp_func\l+ name\l+ size\l+ rehash_at\l+ nentries\l+ nprealloc_entries\l+ ncollisions\l+ heap_id\l+ build_lru_list\l|}" alt="" coords="5,417,137,627"/>
+<area shape="rect" id="node3" href="$structhentry.html" title="{hentry\n|+ key\l+ data\l|}" alt="" coords="39,167,98,259"/>
+<area shape="rect" id="node4" href="$structla__cache__buffer.html" title="{la_cache_buffer\n|+ fix_count\l+ recently_free\l+ in_archive\l+ pageid\l+ phy_pageid\l|}" alt="" coords="251,145,366,281"/>
+<area shape="rect" id="node6" href="$structla__cache__buffer__area.html" title="{la_cache_buffer_area\n||}" alt="" coords="282,483,429,561"/>
+<area shape="rect" id="node5" href="$structlog__page.html" title="{log_page\n|+ area\l|}" alt="" coords="271,5,346,83"/>
+</map>

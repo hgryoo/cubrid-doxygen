@@ -1,0 +1,21 @@
+<map id="logtb_tran_update_unique_stats" name="logtb_tran_update_unique_stats">
+<area shape="rect" id="node2" href="$btree_8c.html#a2e05f06ab9c232eb06ba370bb90ef7de" title="btree_fix_root_for\l_delete" alt="" coords="248,5,371,47"/>
+<area shape="rect" id="node4" href="$btree_8h.html#af9b91aa85529070ebd9a572128bcab4c" title="btree_online_index\l_list_dispatcher" alt="" coords="455,156,586,197"/>
+<area shape="rect" id="node5" href="$btree_8c.html#afdb8b30043a26fc4ea1042eda91a2220" title="btree_fix_root_for\l_insert" alt="" coords="248,123,371,164"/>
+<area shape="rect" id="node6" href="$btree_8c.html#ad4120a97c500c3e5925d571c3baf09c1" title="btree_key_online_index\l_IB_insert" alt="" coords="230,384,389,425"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a0c69fa8afd6c6bad66e5f29a21e8b664" title="btree_key_online_index\l_tran_delete" alt="" coords="230,188,389,229"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a22870f850aa05a7db4d75ebf47f293de" title="btree_key_online_index\l_tran_insert" alt="" coords="230,253,389,295"/>
+<area shape="rect" id="node9" href="$btree_8c.html#a52840a60a1039d18a0a43d49b7411a9a" title="btree_key_online_index\l_tran_insert_DF" alt="" coords="230,319,389,360"/>
+<area shape="rect" id="node10" href="$btree_8h.html#a66331f2ebf5062d0284637e8d867c47e" title="btree_rv_update_tran\l_stats" alt="" coords="237,449,381,491"/>
+<area shape="rect" id="node11" href="$locator__sr_8c.html#a2306a5054d97cbf1cbbb2c4a8b9da1dd" title="locator_force_for_multi\l_update" alt="" coords="232,515,387,556"/>
+<area shape="rect" id="node12" href="$log__tran__table_8c.html#ad7b7a13281baccb430873858cf11f418" title="logtb_tran_update_unique\l_stats" alt="" coords="224,580,395,621"/>
+<area shape="rect" id="node13" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="446,653,595,679"/>
+<area shape="rect" id="node14" href="$query__executor_8c.html#a84e4a9dbad99cba3c32f68d1ad60dd88" title="qexec_process_partition\l_unique_stats" alt="" coords="228,697,391,739"/>
+<area shape="rect" id="node17" href="$query__executor_8c.html#aa99978e311d7086fc008a1da19f150f8" title="qexec_process_unique\l_stats" alt="" coords="232,763,387,804"/>
+<area shape="rect" id="node18" href="$classcubload_1_1server__object__loader.html#ac057a75548efb1a3dcfd6e1f5f1ec96e" title="cubload::server_object\l_loader::stop_scancache" alt="" coords="226,828,393,869"/>
+<area shape="rect" id="node20" href="$locator__sr_8c.html#a5a8be2c3d205f8655213ffae6565e1d8" title="xlocator_remove_class\l_from_index" alt="" coords="231,893,387,935"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a817f3908f139a51ad647ea391836b176" title="btree_delete_internal" alt="" coords="449,13,592,39"/>
+<area shape="rect" id="node15" href="$query__executor_8c.html#a6a52d397abf14eeef1f1a23bccd2ed42" title="qexec_execute_delete" alt="" coords="445,711,597,738"/>
+<area shape="rect" id="node16" href="$query__executor_8c.html#aa789b9a1da1ee681d9ad9464672c2325" title="qexec_execute_update" alt="" coords="443,766,599,793"/>
+<area shape="rect" id="node19" href="$classcubload_1_1server__object__loader.html#aab99e2a6c7248870bcbf13d85cce7fce" title="cubload::server_object\l_loader::destroy" alt="" coords="444,828,597,869"/>
+</map>

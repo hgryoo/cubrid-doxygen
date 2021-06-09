@@ -1,0 +1,6 @@
+<map id="pt_get_query_limit_from_limit" name="pt_get_query_limit_from_limit">
+<area shape="rect" id="node2" href="$parser__support_8c.html#accd3fd4a99ebc8122c4c4c3cf43bca47" title="pt_get_query_limit\l_value" alt="" coords="181,71,309,112"/>
+<area shape="rect" id="node3" href="$query__graph_8c.html#af77387ade8c3d4dc03055143fb4fd13b" title="qo_discover_sort_limit\l_nodes" alt="" coords="357,5,509,47"/>
+<area shape="rect" id="node4" href="$parser__support_8c.html#a4f2afc4d7711d9c4ca6d26df1a5c5793" title="pt_check_ordby_num\l_for_multi_range_opt" alt="" coords="360,71,507,112"/>
+<area shape="rect" id="node5" href="$parser__support_8c.html#ad00c43aee77b09224573fd0f40a685c9" title="pt_recompile_for_limit\l_optimizations" alt="" coords="359,136,508,177"/>
+</map>

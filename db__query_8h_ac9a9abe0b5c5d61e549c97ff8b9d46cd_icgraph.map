@@ -1,0 +1,21 @@
+<map id="db_free_query_format" name="db_free_query_format">
+<area shape="rect" id="node2" href="$db__query_8h.html#a0e4f5f36ecf0c6cafa85d16ebf6df25a" title="db_alloc_query_format" alt="" coords="209,193,362,220"/>
+<area shape="rect" id="node3" href="$db__query_8h.html#a8816ec16c29d6abc04f3a8a1579da6c6" title="db_cp_query_type" alt="" coords="433,126,561,153"/>
+<area shape="rect" id="node8" href="$query__result_8c.html#a79ebd3ae15ff73e5c13716937dcaf7dc" title="db_object_describe" alt="" coords="429,76,564,102"/>
+<area shape="rect" id="node11" href="$db__vdb_8c.html#ad05b347d3121390b98751cf79b621b74" title="db_close_session_local" alt="" coords="205,294,365,321"/>
+<area shape="rect" id="node12" href="$db__query_8h.html#a6a4521eb40759d66fbfeb0131a2edf0f" title="db_free_query_result" alt="" coords="214,244,357,270"/>
+<area shape="rect" id="node13" href="$db__vdb_8c.html#aa8b1ba225fb2b9530e3e1b7a07530c39" title="db_parse_one_statement" alt="" coords="201,345,369,372"/>
+<area shape="rect" id="node14" href="$dbi__compat_8h.html#ae9b70f741bd3eca9e9fec09481e68898" title="db_query_format_free" alt="" coords="423,25,571,52"/>
+<area shape="rect" id="node16" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="643,460,761,486"/>
+<area shape="rect" id="node17" href="$semantic__check_8c.html#ab5db455025783dc63b0964bb283a1115" title="pt_check_partitions" alt="" coords="635,536,769,562"/>
+<area shape="rect" id="node18" href="$query__result_8c.html#abf306fa5ab8d1d900c8dbc19db9d158b" title="pt_fillin_type_size" alt="" coords="222,497,349,524"/>
+<area shape="rect" id="node19" href="$parser__support_8c.html#a5ca85724577c4181396db354d5bb4485" title="pt_get_select_query\l_columns" alt="" coords="427,490,566,531"/>
+<area shape="rect" id="node20" href="$query__result_8c.html#a916a01a0c98b0404adca7f2e8cd422e2" title="pt_get_titles" alt="" coords="239,548,332,574"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a47b00d7b10f970367f0f5eb53e33a95a" title="db_get_query_type_list" alt="" coords="624,126,780,153"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a8326e216f443ded93864d14723424447" title="db_execute_oid" alt="" coords="440,228,553,254"/>
+<area shape="rect" id="node7" href="$db__query_8h.html#a3790ae04379d44ed6025ae450d4d0cc6" title="db_get_db_value_query\l_result" alt="" coords="417,279,576,320"/>
+<area shape="rect" id="node10" href="$query__result_8c.html#a2f980da9427324d6653e4b34af8d2f2d" title="db_object_fetch" alt="" coords="439,345,554,372"/>
+<area shape="rect" id="node5" href="$cas__execute_8c.html#a977259b8d253fa1f9cd18f4e46ef726b" title="prepare_column_list\l_info_set" alt="" coords="828,43,967,84"/>
+<area shape="rect" id="node9" href="$esql__cli_8c.html#a1b540716a72b98a145170be7a1ee4ad3" title="uci_object_describe" alt="" coords="633,76,771,102"/>
+<area shape="rect" id="node15" href="$cas__handle_8h.html#a8fd6135dc96627c5048e54fac2536a4e" title="hm_qresult_end" alt="" coords="645,25,759,52"/>
+</map>

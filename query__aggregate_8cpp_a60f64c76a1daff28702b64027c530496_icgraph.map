@@ -1,0 +1,5 @@
+<map id="qdata_evaluate_aggregate_optimize" name="qdata_evaluate_aggregate_optimize">
+<area shape="rect" id="node2" href="$query__aggregate_8hpp.html#aa312cafed9e126f592fbb9d427cef4cd" title="qdata_evaluate_aggregate\l_hierarchy" alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a364a77bbb2342abbe5e8668fbd33c2b0" title="qexec_evaluate_aggregates\l_optimize" alt="" coords="665,35,849,76"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a0b88bf39ba83d9169bfb2598f5298dad" title="qexec_evaluate_partition\l_aggregates" alt="" coords="451,5,617,47"/>
+</map>

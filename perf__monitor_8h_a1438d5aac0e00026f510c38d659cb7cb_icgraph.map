@@ -1,0 +1,19 @@
+<map id="perfmon_is_perf_tracking" name="perfmon_is_perf_tracking">
+<area shape="rect" id="node2" href="$classmvcctable.html#abb49acd267780e611121af87fcaf1431" title="mvcctable::build_mvcc_info" alt="" coords="221,5,405,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a3e0182aa5d5810429c559da1e8d347ff" title="logpb_copy_page" alt="" coords="252,56,375,83"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#aa36fb2c7b67e09da43ca73cbf46f0eb0" title="logpb_locate_page" alt="" coords="248,107,379,133"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#abced029cdab388279dc4b134179929c3" title="logtb_complete_mvcc" alt="" coords="239,157,388,184"/>
+<area shape="rect" id="node9" href="$page__buffer_8c.html#a702a8aa6d5d50661354c9f98e270e1d1" title="pgbuf_delete_from_hash\l_chain" alt="" coords="231,209,395,250"/>
+<area shape="rect" id="node12" href="$page__buffer_8h.html#afde1751ceb069fe468ffa1b51283033f" title="pgbuf_unfix_debug" alt="" coords="676,249,807,276"/>
+<area shape="rect" id="node13" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="683,475,800,501"/>
+<area shape="rect" id="node14" href="$page__buffer_8c.html#a06d2b0cbf44eb89ea6c4c9f068cf4344" title="pgbuf_get_page_flush\l_interval" alt="" coords="239,377,388,418"/>
+<area shape="rect" id="node15" href="$page__buffer_8c.html#af3ffb638cb88943a7e374cdeac9d27e9" title="pgbuf_insert_into_hash\l_chain" alt="" coords="463,437,619,478"/>
+<area shape="rect" id="node16" href="$page__buffer_8h.html#a1bf1b7b6a62392916056f3c33e414f9d" title="pgbuf_promote_read\l_latch_debug" alt="" coords="243,494,383,535"/>
+<area shape="rect" id="node17" href="$page__buffer_8c.html#aecda933a6524aa85e8aca3adaaba9812" title="pgbuf_unlock_page" alt="" coords="246,560,381,587"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a593d152ad0c8b7c29828b31d49a2458c" title="logtb_get_mvcc_snapshot" alt="" coords="453,5,628,32"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a7960a034a57d6eed6cccbdd3261db6d7" title="logpb_fetch_page" alt="" coords="479,56,603,83"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#aab023e1a9bbef2bdff8c2da6a017a14e" title="logpb_copy_page_from\l_log_buffer" alt="" coords="463,107,619,149"/>
+<area shape="rect" id="node10" href="$page__buffer_8c.html#a88151b978de695fc8c76f011b0996962" title="pgbuf_victimize_bcb" alt="" coords="470,173,611,200"/>
+<area shape="rect" id="node11" href="$page__buffer_8c.html#a32645b0c2aace57799af8b647423a493" title="pgbuf_invalidate_bcb" alt="" coords="469,224,613,251"/>
+<area shape="rect" id="node18" href="$page__buffer_8c.html#a8cbce269e04ed30279485fc77e786430" title="pgbuf_claim_bcb_for_fix" alt="" coords="459,559,622,585"/>
+</map>

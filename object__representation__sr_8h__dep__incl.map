@@ -1,0 +1,18 @@
+<map id="src/base/object_representation_sr.h" name="src/base/object_representation_sr.h">
+<area shape="rect" id="node2" href="$object__representation__sr_8c.html" title="src/base/object_representation_sr.c" alt="" coords="5,87,235,114"/>
+<area shape="rect" id="node3" href="$load__class__registry_8hpp.html" title="src/loaddb/load_class\l_registry.hpp" alt="" coords="259,80,407,121"/>
+<area shape="rect" id="node9" href="$vacuum_8c.html" title="src/query/vacuum.c" alt="" coords="431,87,569,114"/>
+<area shape="rect" id="node10" href="$btree__load_8c.html" title="src/storage/btree_load.c" alt="" coords="593,87,756,114"/>
+<area shape="rect" id="node11" href="$heap__file_8c.html" title="src/storage/heap_file.c" alt="" coords="780,87,935,114"/>
+<area shape="rect" id="node12" href="$statistics__sr_8h.html" title="src/storage/statistics_sr.h" alt="" coords="959,87,1132,114"/>
+<area shape="rect" id="node16" href="$locator__sr_8c.html" title="src/transaction/locator_sr.c" alt="" coords="1157,87,1337,114"/>
+<area shape="rect" id="node17" href="$lock__manager_8c.html" title="src/transaction/lock\l_manager.c" alt="" coords="1361,80,1497,121"/>
+<area shape="rect" id="node4" href="$load__class__registry_8cpp.html" title="src/loaddb/load_class\l_registry.cpp" alt="" coords="87,169,235,211"/>
+<area shape="rect" id="node5" href="$load__db__value__converter_8cpp.html" title="src/loaddb/load_db\l_value_converter.cpp" alt="" coords="260,169,407,211"/>
+<area shape="rect" id="node6" href="$load__server__loader_8cpp.html" title="src/loaddb/load_server\l_loader.cpp" alt="" coords="389,259,542,300"/>
+<area shape="rect" id="node7" href="$load__session_8hpp.html" title="src/loaddb/load_session.hpp" alt="" coords="481,177,668,203"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="609,259,791,300"/>
+<area shape="rect" id="node13" href="$xasl__cache_8c.html" title="src/query/xasl_cache.c" alt="" coords="777,177,935,203"/>
+<area shape="rect" id="node14" href="$statistics__sr_8c.html" title="src/storage/statistics_sr.c" alt="" coords="959,177,1132,203"/>
+<area shape="rect" id="node15" href="$system__catalog_8c.html" title="src/storage/system\l_catalog.c" alt="" coords="1157,169,1291,211"/>
+</map>

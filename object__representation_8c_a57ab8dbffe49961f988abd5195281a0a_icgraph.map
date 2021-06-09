@@ -1,0 +1,19 @@
+<map id="or_get_value" name="or_get_value">
+<area shape="rect" id="node2" href="$catalog__class_8c.html#a7d582bb9c89ad8c12586b7d4f9da0fbe" title="catcls_get_or_value\l_from_attribute" alt="" coords="177,5,316,47"/>
+<area shape="rect" id="node4" href="$catalog__class_8c.html#a05de9359907fa537638a5c8f2f3ecdb2" title="catcls_get_or_value\l_from_partition" alt="" coords="177,71,316,112"/>
+<area shape="rect" id="node5" href="$transform__cl_8c.html#abbfdce0d1a4eb0e066a1f503161fa721" title="disk_to_attribute" alt="" coords="187,137,306,163"/>
+<area shape="rect" id="node6" href="$transform__cl_8c.html#a51a24d6eb2769d2e41ed09add45c7639" title="disk_to_partition_info" alt="" coords="174,187,319,214"/>
+<area shape="rect" id="node7" href="$object__representation__sr_8h.html#a1dc8b183a1665d76dc8cc0523413dbee" title="or_class_get_partition_info" alt="" coords="158,238,335,265"/>
+<area shape="rect" id="node8" href="$object__representation_8c.html#aa7112174be8993f322ebd1fa6dcdafbb" title="or_disk_set_size" alt="" coords="187,289,307,315"/>
+<area shape="rect" id="node9" href="$object__representation__sr_8c.html#a4ef5b712a59b303dcc884350533cdf18" title="or_get_current_representation" alt="" coords="149,339,344,366"/>
+<area shape="rect" id="node10" href="$object__representation_8c.html#ab0630175dddb661d6b5a4fbe4aaed245" title="or_get_set" alt="" coords="205,390,288,417"/>
+<area shape="rect" id="node11" href="$object__representation_8c.html#a361c59c2ebeb9625ebcdef1fb9a9a0da" title="or_unpack_value" alt="" coords="187,441,307,467"/>
+<area shape="rect" id="node3" href="$catalog__class_8c.html#a84555f5478d1bbab02c00fce5c73fbae" title="catcls_get_or_value\l_from_class" alt="" coords="414,39,553,80"/>
+<area shape="rect" id="node12" href="$classcubpacking_1_1unpacker.html#a952aca5a0d23f370d308a7af18dab9da" title="cubpacking::unpacker\l::unpack_db_value" alt="" coords="409,257,558,299"/>
+<area shape="rect" id="node13" href="$network__interface__cl_8h.html#aa11536dcd7a0a1d17494ff180d400b74" title="csession_get_last_insert_id" alt="" coords="392,323,575,350"/>
+<area shape="rect" id="node14" href="$network__interface__cl_8h.html#a8ec24f22a197b9519074148585811584" title="serial_get_current\l_value" alt="" coords="421,375,546,416"/>
+<area shape="rect" id="node15" href="$network__interface__cl_8h.html#ac5fcd3950e0f7bb3e3e7122294b68124" title="serial_get_next_value" alt="" coords="409,441,557,467"/>
+<area shape="rect" id="node16" href="$network__interface__cl_8h.html#a36a75ee7067a1dc7813a2ea1b1dd595a" title="qp_get_server_info" alt="" coords="417,491,549,518"/>
+<area shape="rect" id="node17" href="$network__interface__sr_8c.html#a05954042ad45d1d11c5dca82f55f2894" title="sbtree_find_unique\l_internal" alt="" coords="418,543,549,584"/>
+<area shape="rect" id="node18" href="$object__representation_8c.html#a36c87bf48f6711afcca91ace6f4345c3" title="or_unpack_db_value" alt="" coords="413,609,554,635"/>
+</map>

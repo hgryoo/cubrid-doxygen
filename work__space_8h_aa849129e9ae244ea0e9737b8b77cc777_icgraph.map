@@ -1,0 +1,8 @@
+<map id="ws_has_updated" name="ws_has_updated">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#acbd760c1942dbf1e164bde9ee1c473c9" title="do_execute_select" alt="" coords="179,5,309,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#aeb0727e2943818bb2f6be2e9c6bce087" title="do_execute_session\l_statement" alt="" coords="173,57,315,98"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#a58fc761b77e358c590be69d852d5679a" title="pt_flush_class_and\l_null_xasl" alt="" coords="177,122,311,163"/>
+<area shape="rect" id="node6" href="$transaction__cl_8h.html#ae0d39a187daf5a0b082c23957969536c" title="tran_has_updated" alt="" coords="181,188,307,215"/>
+<area shape="rect" id="node7" href="$transaction__cl_8h.html#a182554f09892dd55dca1d954771fd419" title="tran_is_active_and\l_has_updated" alt="" coords="179,239,309,281"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="363,35,517,61"/>
+</map>

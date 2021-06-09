@@ -1,0 +1,11 @@
+<map id="cubthread::task::retire" name="cubthread::task::retire">
+<area shape="rect" id="node2" href="$classcubthread_1_1worker__pool_1_1core.html#ac98c103ce3e97a030135ef59a308b152" title="cubthread::worker_pool\l::core::execute_task" alt="" coords="215,5,373,47"/>
+<area shape="rect" id="node4" href="$classcubthread_1_1manager.html#a09c81d89a4b64a05ff19bcdbac024983" title="cubthread::manager\l::push_task_on_core" alt="" coords="639,35,781,76"/>
+<area shape="rect" id="node5" href="$classcubthread_1_1daemon.html#a1aa05cb83512b348c8bd8da65d744e50" title="cubthread::daemon::\lloop_with_context" alt="" coords="223,123,365,164"/>
+<area shape="rect" id="node6" href="$classcubthread_1_1manager.html#a852a6ac748aa2dfa7a45ecc7a4bbf9f5" title="cubthread::manager\l::push_task" alt="" coords="225,188,363,229"/>
+<area shape="rect" id="node7" href="$classcubthread_1_1worker__pool_1_1core_1_1worker.html#ab5a547c78572b2176b3c68eb9734b972" title="cubthread::worker_pool\l::core::worker::retire\l_current_task" alt="" coords="215,253,373,309"/>
+<area shape="rect" id="node9" href="$classcubthread_1_1manager.html#ac097f284c7b19dbbc48fd48e35acf9bb" title="cubthread::manager\l::try_task" alt="" coords="225,332,363,373"/>
+<area shape="rect" id="node10" href="$classcubthread_1_1worker__pool__task__capper_1_1capped__task.html#a12e9f88f33f6e7470d9c2db3503ce919" title="cubthread::worker_pool\l_task_capper::capped_task\l::~capped_task" alt="" coords="203,397,385,453"/>
+<area shape="rect" id="node3" href="$classcubthread_1_1worker__pool.html#ac7923eb70ec71bbba36255ab71734c7f" title="cubthread::worker_pool\l::execute_on_core" alt="" coords="433,5,591,47"/>
+<area shape="rect" id="node8" href="$classcubthread_1_1worker__pool_1_1core_1_1worker.html#a9999bcd12d4d480579dc7c6cf2c337bc" title="cubthread::worker_pool\l::core::worker::execute\l_current_task" alt="" coords="433,253,591,309"/>
+</map>

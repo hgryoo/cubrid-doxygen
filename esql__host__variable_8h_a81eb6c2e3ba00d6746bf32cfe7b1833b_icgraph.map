@@ -1,0 +1,18 @@
+<map id="pp_get_input_size" name="pp_get_input_size">
+<area shape="rect" id="node2" href="$esql__translate_8c.html#a1f2325449257c868dfcb8b4bddd62069" title="emit_get_db_value" alt="" coords="373,208,503,235"/>
+<area shape="rect" id="node7" href="$esql__translate_8c.html#a82726934301d0cbe7370c853a0e24e2f" title="emit_put_db_value" alt="" coords="373,119,503,145"/>
+<area shape="rect" id="node11" href="$esql__translate_8c.html#a008d955f15bf6a40cf083d6383c1e86d" title="get_quasi_string" alt="" coords="189,309,306,336"/>
+<area shape="rect" id="node15" href="$esql__host__variable_8h.html#a8c2f9c513c02a8c433b3fb05a844c330" title="pp_get_output_size" alt="" coords="180,208,315,235"/>
+<area shape="rect" id="node16" href="$esql__host__variable_8h.html#a41ccf72bf12015ae6aa99b028598db74" title="pp_print_host_ref" alt="" coords="186,385,309,412"/>
+<area shape="rect" id="node3" href="$esql__translate_8c.html#a20d6e0128ec0ad0f1d45a286170c7980" title="tr_static" alt="" coords="586,208,655,235"/>
+<area shape="rect" id="node4" href="$esql__translate_8c.html#a348b7ccb91a475c2b4aa09603a4e3deb" title="tr_fetch_cs" alt="" coords="577,309,664,336"/>
+<area shape="rect" id="node5" href="$esql__translate_8c.html#ab702fb2e8b978538416942958d777296" title="tr_execute" alt="" coords="579,157,662,184"/>
+<area shape="rect" id="node6" href="$esql__translate_8c.html#a72fb40bc4ca39d1344fb8961579b04da" title="tr_object_fetch" alt="" coords="567,259,675,285"/>
+<area shape="rect" id="node8" href="$esql__translate_8c.html#ae2a52b92fc1e3ffff0e12ed7d6059a27" title="tr_open_cs" alt="" coords="577,5,664,32"/>
+<area shape="rect" id="node9" href="$esql__translate_8c.html#a159f787cbc0c0b7afac8105155c87f3b" title="tr_update_cs" alt="" coords="572,56,669,83"/>
+<area shape="rect" id="node10" href="$esql__translate_8c.html#a53ca97d25c5964fb783964e3b1ee4de3" title="tr_object_update" alt="" coords="561,107,680,133"/>
+<area shape="rect" id="node12" href="$esql__translate_8c.html#a2fa357e9e19e23c0fb6e6af2f7680bb1" title="tr_connect" alt="" coords="397,259,479,285"/>
+<area shape="rect" id="node13" href="$esql__translate_8c.html#a47f1339e850ca8c987f4a6b6784397fd" title="tr_prepare_esql" alt="" coords="383,309,493,336"/>
+<area shape="rect" id="node14" href="$esql__translate_8c.html#abb10fcc889c49dc61f83840287982fee" title="tr_execute_immediate" alt="" coords="363,360,513,387"/>
+<area shape="rect" id="node17" href="$esql__cursor_8c.html#abbfb7117af986015bda4ece2f9d9eaaa" title="pp_print_cursor" alt="" coords="383,411,493,437"/>
+</map>

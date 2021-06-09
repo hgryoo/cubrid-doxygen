@@ -1,0 +1,12 @@
+<map id="xdisk_get_total_numpages" name="xdisk_get_total_numpages">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a9f19611c6e17a353595dbe45e642749d" title="disk_get_total_numpages" alt="" coords="231,31,401,57"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#a19a91bb75511ce2bfa5fe4e18fe88dcc" title="fileio_backup_volume" alt="" coords="243,107,389,133"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#afdf53e4360c4332c6770c24fcdd49bc1" title="logpb_copy_volume" alt="" coords="247,157,385,184"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#a6ec9243429397d83e40bd13cad13c656" title="sdk_totalpgs" alt="" coords="268,208,364,235"/>
+<area shape="rect" id="node11" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="234,259,398,285"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a5023989577e9627d135802aca18fead5" title="db_totalpgs" alt="" coords="491,5,581,32"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#af2f4679f1d456bc7b4eeb8aa5996c61a" title="logpb_backup_for_volume" alt="" coords="449,56,623,83"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="671,81,773,108"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a5d98688d5706fd68216d7931e5638a3b" title="logpb_fatal_error_internal" alt="" coords="453,157,619,184"/>
+<area shape="rect" id="node10" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="483,208,589,235"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="lc_class_oidset" name="lc_class_oidset">
+<area shape="rect" id="node2" href="$structlc__oidmap.html" title="{lc_oidmap\n|+ mop\l+ client_data\l+ est_size\l|}" alt="" coords="97,175,195,281"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="29,5,121,112"/>
+<area shape="rect" id="node4" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="280,189,345,267"/>
+<area shape="rect" id="node5" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="282,13,343,105"/>
+</map>

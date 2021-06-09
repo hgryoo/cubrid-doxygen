@@ -1,0 +1,5 @@
+<map id="dwb_set_slot_data" name="dwb_set_slot_data">
+<area shape="rect" id="node2" href="$double__write__buffer_8h.html#a5d4e7c50b94d3152e02effcb1e4f54bf" title="dwb_set_data_on_next_slot" alt="" coords="184,31,368,57"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#ab2537553c0bc21020c4a4003916d89a5" title="dwb_add_page" alt="" coords="416,5,525,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a6ebdf1006f6b5bb49a3fc4c4f8f75e31" title="pgbuf_bcb_flush_with_wal" alt="" coords="573,31,748,57"/>
+</map>

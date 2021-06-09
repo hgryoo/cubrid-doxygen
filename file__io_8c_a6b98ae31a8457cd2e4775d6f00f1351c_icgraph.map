@@ -1,0 +1,7 @@
+<map id="fileio_get_number_of_volume_pages" name="fileio_get_number_of_volume_pages">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#afcf0480c55f8a719699f416082dc8206" title="dwb_check_data_page\l_is_sane" alt="" coords="199,5,353,47"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="404,23,559,64"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a62ffd154657b96161bcae79f707b4295" title="log_get_num_pages_for\l_creation" alt="" coords="196,123,356,164"/>
+<area shape="rect" id="node5" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="410,105,553,131"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#a6e4cb0fa20df20ef22e01e5bae16b885" title="log_recovery_resetlog" alt="" coords="407,155,556,182"/>
+</map>

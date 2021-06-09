@@ -1,0 +1,21 @@
+<map id="tz_decode_tz_id" name="tz_decode_tz_id">
+<area shape="rect" id="node2" href="$tz__support_8h.html#a34584b6895166131882fe49b65840cc3" title="conv_tz" alt="" coords="435,395,503,421"/>
+<area shape="rect" id="node5" href="$tz__support_8h.html#ad1de1ddee438e7388661e3c1b9fefc56" title="tz_check_geographic_tz" alt="" coords="171,559,333,585"/>
+<area shape="rect" id="node6" href="$tz__support_8h.html#ae43592cae3d8ac669f19dc7ffd3694da" title="tz_datetimetz_fix_zone" alt="" coords="173,160,331,187"/>
+<area shape="rect" id="node13" href="$tz__support_8h.html#a5fa1223f4ade93a0b2d930ee916a3523" title="tz_explain_tz_id" alt="" coords="194,508,310,535"/>
+<area shape="rect" id="node17" href="$tz__support_8h.html#a77ef85fd67e32f8395ef703320fff0e3" title="tz_id_to_region" alt="" coords="197,307,307,333"/>
+<area shape="rect" id="node18" href="$tz__support_8h.html#aeadf251e2d0d934071018bdabee1d046" title="tz_id_to_str" alt="" coords="207,609,297,636"/>
+<area shape="rect" id="node19" href="$tz__support_8h.html#ad72e6bd6fc8ddd54e4e4471495d05f62" title="tz_tzid_convert_region\l_to_offset" alt="" coords="175,661,329,702"/>
+<area shape="rect" id="node20" href="$tz__support_8h.html#a89c11792c895b1eacc04b8cf58fccf5f" title="tz_utc_datetimetz_to\l_local" alt="" coords="180,442,324,483"/>
+<area shape="rect" id="node3" href="$string__opfunc_8h.html#a3e5cc61d939d3d58fe7bff5362da1959" title="db_conv_tz" alt="" coords="663,395,753,421"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="859,395,1039,421"/>
+<area shape="rect" id="node7" href="$tz__support_8h.html#a7d599115245b9c86e3ac89a723b9e054" title="tz_timestamptz_fix_zone" alt="" coords="385,109,553,136"/>
+<area shape="rect" id="node8" href="$query__opfunc_8h.html#abd94584c68f1f238e645e3aba89e9149" title="qdata_interpolation\l_function_values" alt="" coords="643,14,773,55"/>
+<area shape="rect" id="node9" href="$tz__support_8h.html#a653c31fe422685d6c9b24fc913536f83" title="tz_create_datetimetz\l_from_parts" alt="" coords="397,211,541,253"/>
+<area shape="rect" id="node11" href="$query__opfunc_8c.html#a36b4b6f630e62062daa0d73e0751a0a9" title="qdata_add_datetimetz\l_to_dbval" alt="" coords="394,43,545,85"/>
+<area shape="rect" id="node12" href="$query__opfunc_8c.html#ae3194fb284deccc1bc41e50ae3e879cf" title="qdata_subtract_datetimetz\l_to_dbval" alt="" coords="381,329,557,370"/>
+<area shape="rect" id="node10" href="$string__opfunc_8c.html#a04f48c011fb94e50ab89fb30d82ff11e" title="db_date_add_sub_interval_expr" alt="" coords="605,277,811,304"/>
+<area shape="rect" id="node14" href="$string__opfunc_8h.html#a2d62b1f9ad5ac3987d6b4307937f696f" title="db_time_format" alt="" coords="413,547,525,573"/>
+<area shape="rect" id="node15" href="$string__opfunc_8c.html#a3eabfdbc0680237a3ba296973c5e75a4" title="date_to_char" alt="" coords="421,597,518,624"/>
+<area shape="rect" id="node16" href="$string__opfunc_8h.html#a49b66849d973f090fa5a939a4e8cccc0" title="db_date_format" alt="" coords="413,496,525,523"/>
+</map>

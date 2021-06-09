@@ -1,0 +1,20 @@
+<map id="tp_value_str_auto_cast_to_number" name="tp_value_str_auto_cast_to_number">
+<area shape="rect" id="node2" href="$arithmetic_8h.html#a58633e38e60a11f720b34b5cb2e48e09" title="db_abs_dbval" alt="" coords="615,236,717,262"/>
+<area shape="rect" id="node7" href="$arithmetic_8h.html#a0535b866d5962b1e6a7577444d977abf" title="db_ceil_dbval" alt="" coords="615,413,717,440"/>
+<area shape="rect" id="node8" href="$arithmetic_8h.html#ad9378ae2c0b068c4a537e3c1ea67fa12" title="db_floor_dbval" alt="" coords="613,464,719,490"/>
+<area shape="rect" id="node9" href="$arithmetic_8c.html#a555f941ad7ef603d56e52031a4beb720" title="db_mod_bigint" alt="" coords="443,286,550,313"/>
+<area shape="rect" id="node11" href="$arithmetic_8c.html#a86a4e19a50da4223c39ea2594029ec6e" title="db_mod_double" alt="" coords="241,337,354,364"/>
+<area shape="rect" id="node12" href="$arithmetic_8c.html#afb37c5f9cf683088eeda5865cf3af005" title="db_mod_string" alt="" coords="443,388,550,414"/>
+<area shape="rect" id="node13" href="$arithmetic_8c.html#a5e83939099fedb0b98e27bad75525fd5" title="db_mod_float" alt="" coords="447,33,547,60"/>
+<area shape="rect" id="node14" href="$arithmetic_8c.html#ab44ef8fc514f3e8f93919ed3ed34f243" title="db_mod_int" alt="" coords="452,84,541,110"/>
+<area shape="rect" id="node15" href="$arithmetic_8c.html#ad9862fe73e9f8fa2f6681503879c32d6" title="db_mod_monetary" alt="" coords="432,134,561,161"/>
+<area shape="rect" id="node16" href="$arithmetic_8c.html#a1a6833c541d9b51fa3e860ec5b01ea5c" title="db_mod_numeric" alt="" coords="237,185,358,212"/>
+<area shape="rect" id="node17" href="$arithmetic_8c.html#ae81208b6a78ab1664c5d4e4d93e9db9f" title="db_mod_short" alt="" coords="245,236,349,262"/>
+<area shape="rect" id="node18" href="$arithmetic_8h.html#a2ca1b6f705b0fbbcc8406fdc5d157d29" title="db_round_dbval" alt="" coords="609,362,723,389"/>
+<area shape="rect" id="node19" href="$query__opfunc_8h.html#a139074fc8216bb3a88b835978eb84132" title="qdata_unary_minus_dbval" alt="" coords="211,590,384,617"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="771,362,951,389"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a6d5023a6cc407b5d1d0222db0157e162" title="do_create_serial" alt="" coords="802,210,919,237"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="807,261,914,288"/>
+<area shape="rect" id="node6" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="801,413,920,440"/>
+<area shape="rect" id="node10" href="$arithmetic_8h.html#abc5db8483a4fd106aff5b8d2b592f7ad" title="db_mod_dbval" alt="" coords="613,286,719,313"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="css_read_header" name="css_read_header">
+<area shape="rect" id="node2" href="$server__support_8h.html#a8b07e301b0f090fa52920cc1b48b4777" title="css_is_shutdown_timeout\l_expired" alt="" coords="379,57,552,98"/>
+<area shape="rect" id="node5" href="$connection__cl_8h.html#afacd6d9707bc812e9209c3efc6bb7c70" title="css_read_one_request" alt="" coords="176,8,329,35"/>
+<area shape="rect" id="node7" href="$server__support_8c.html#af5a6ff70826ab90a661c2e644735cb99" title="css_refuse_connection\l_request" alt="" coords="175,114,331,155"/>
+<area shape="rect" id="node3" href="$server__support_8c.html#ad9793b78930d95c3ef58cfec55f490df" title="css_stop_all_workers" alt="" coords="600,35,748,61"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a43c3e6965dc07096503c8de506a1069f" title="log_abort_all_active\l_transaction" alt="" coords="605,86,743,127"/>
+<area shape="rect" id="node6" href="$connection__sr_8h.html#ab47ff109ae696be9a494b969f5123125" title="css_receive_request" alt="" coords="394,5,537,32"/>
+<area shape="rect" id="node8" href="$server__support_8c.html#ac2cd29547215949b8aa651ad772b5faf" title="css_process_new_client" alt="" coords="383,123,548,149"/>
+</map>

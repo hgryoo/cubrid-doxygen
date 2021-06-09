@@ -1,0 +1,5 @@
+<map id="host_lod" name="host_lod">
+<area shape="rect" id="node2" href="$structhost__ref.html" title="{host_ref\n|+ uci_type\l|}" alt="" coords="25,399,107,476"/>
+<area shape="rect" id="node3" href="$structhost__var.html" title="{host_var\n|+ heap_allocated\l|}" alt="" coords="145,231,267,309"/>
+<area shape="rect" id="node4" href="$structvarstring.html" title="{varstring\n|+ base\l+ limit\l+ start\l+ end\l+ heap_allocated\l|}" alt="" coords="5,5,127,141"/>
+</map>

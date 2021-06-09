@@ -1,0 +1,6 @@
+<map id="log_2pc_read_prepare" name="log_2pc_read_prepare">
+<area shape="rect" id="node2" href="$log__2pc_8c.html#a565e8d3bfcf88367b603b8204db503e0" title="log_2pc_recovery_prepare" alt="" coords="203,15,377,42"/>
+<area shape="rect" id="node4" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="226,67,354,94"/>
+<area shape="rect" id="node3" href="$log__2pc_8c.html#aa731e03ca3e829eadad4f39dd1f91503" title="log_2pc_recovery_analysis\l_record" alt="" coords="425,5,604,47"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="467,71,563,98"/>
+</map>

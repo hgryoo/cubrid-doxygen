@@ -1,0 +1,10 @@
+<map id="cubmonitor::statistic_value_cast" name="cubmonitor::statistic_value_cast">
+<area shape="rect" id="node2" href="$classcubmonitor_1_1primitive.html#a27104f22834ad8a7d867e9ec86d1e4d0" title="cubmonitor::primitive\l::fetch" alt="" coords="203,71,346,112"/>
+<area shape="rect" id="node6" href="$classcubmonitor_1_1atomic__primitive.html#a8cb7c576891011c0c133dc84f70074b1" title="cubmonitor::atomic\l_primitive::fetch" alt="" coords="208,136,341,177"/>
+<area shape="rect" id="node7" href="$classcubmonitor_1_1atomic__primitive_3_01time__rep_01_4.html#a4ce838394ca5acbf0a21bb9256e11187" title="cubmonitor::atomic\l_primitive\&lt; time_rep\l \&gt;::fetch" alt="" coords="205,201,345,257"/>
+<area shape="rect" id="node8" href="$classcubmonitor_1_1counter__timer__statistic.html#a8332401c45dfab3933c58e8f80cb70a0" title="cubmonitor::counter\l_timer_statistic::register\l_to_monitor" alt="" coords="193,281,356,337"/>
+<area shape="rect" id="node9" href="$classcubmonitor_1_1counter__timer__max__statistic.html#a365d6d0e72aa11214d11e07d938d8cef" title="cubmonitor::counter\l_timer_max_statistic\l::register_to_monitor" alt="" coords="203,361,346,417"/>
+<area shape="rect" id="node3" href="$classcubmonitor_1_1primitive.html#af84a92b54e295e52f494329cbbb7c23e" title="cubmonitor::primitive\l::operator=" alt="" coords="404,5,547,47"/>
+<area shape="rect" id="node4" href="$classcubmonitor_1_1atomic__primitive.html#ab81a737c8baf72c9139ce44953294a50" title="cubmonitor::atomic\l_primitive::operator=" alt="" coords="405,71,546,112"/>
+<area shape="rect" id="node5" href="$classcubmonitor_1_1atomic__primitive_3_01time__rep_01_4.html#a05b8c0160501ea19adc4f2ca738cc941" title="cubmonitor::atomic\l_primitive\&lt; time_rep\l \&gt;::operator=" alt="" coords="405,135,545,191"/>
+</map>

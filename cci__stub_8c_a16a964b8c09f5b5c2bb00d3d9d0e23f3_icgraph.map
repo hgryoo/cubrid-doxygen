@@ -1,0 +1,6 @@
+<map id="opool_ght_elem_dtor" name="opool_ght_elem_dtor">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#a2b2b1b4364ff9d0cde63ac6c14eece1a" title="opool_destroy" alt="" coords="196,23,299,50"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#a9f506c749a42c53c4bfcd4737b97a0e3" title="ci_create_connection_impl" alt="" coords="540,23,716,50"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#ad40d8680e80defc1196fc5fc1d3671e6" title="connection_impl_dtor" alt="" coords="347,23,492,50"/>
+<area shape="rect" id="node5" href="$cci__stub_8c.html#a932f66574162f8bb1bbed2db87096f0a" title="opool_create" alt="" coords="371,74,467,100"/>
+</map>

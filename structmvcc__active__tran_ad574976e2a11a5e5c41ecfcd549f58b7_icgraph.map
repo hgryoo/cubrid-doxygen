@@ -1,0 +1,7 @@
+<map id="mvcc_active_tran::bit_size_to_unit_size" name="mvcc_active_tran::bit_size_to_unit_size">
+<area shape="rect" id="node2" href="$structmvcc__active__tran.html#adaec91b1aae5d4cc39398456cf7704d3" title="mvcc_active_tran::get\l_area_size" alt="" coords="200,17,351,59"/>
+<area shape="rect" id="node3" href="$structmvcc__active__tran.html#a3384484485d373415165d00109565d6e" title="mvcc_active_tran::get\l_bit_area_memsize" alt="" coords="399,47,549,88"/>
+<area shape="rect" id="node4" href="$structmvcc__active__tran.html#ac19f2fcd645b6eeb6799a199a7c97103" title="mvcc_active_tran::ltrim_area" alt="" coords="597,39,788,66"/>
+<area shape="rect" id="node5" href="$structmvcc__active__tran.html#affcc854b119d8a202e6429e97fbdb82f" title="mvcc_active_tran::set\l_bitarea_mvccid" alt="" coords="1076,17,1227,59"/>
+<area shape="rect" id="node6" href="$structmvcc__active__tran.html#abdd9a7a8307b06e7ea1dcf180be5a2ea" title="mvcc_active_tran::cleanup\l_migrate_to_long_transations" alt="" coords="836,76,1028,117"/>
+</map>

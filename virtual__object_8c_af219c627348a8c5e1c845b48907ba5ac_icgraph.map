@@ -1,0 +1,16 @@
+<map id="vid_is_base_instance" name="vid_is_base_instance">
+<area shape="rect" id="node2" href="$object__template_8c.html#a1d646d2173c1730053d4f8e76d69118e" title="create_template_object" alt="" coords="200,5,357,32"/>
+<area shape="rect" id="node4" href="$object__template_8c.html#ab1a49f2b7b043063d70b8f50111e7e9f" title="obt_apply_assignments" alt="" coords="624,56,783,83"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a246f7677d6a8a717fab2853acbf82685" title="db_is_real_instance" alt="" coords="210,107,347,133"/>
+<area shape="rect" id="node7" href="$object__template_8c.html#a0451bc34e21472dc8f9ad4b19b35f9c2" title="make_template" alt="" coords="223,157,334,184"/>
+<area shape="rect" id="node8" href="$virtual__object_8h.html#afba8067dcea407082e3599c46f5c85d0" title="vid_base_instance" alt="" coords="213,208,344,235"/>
+<area shape="rect" id="node11" href="$virtual__object_8h.html#aafda39169f38de3a51c4e48675ae7481" title="vid_decache_instance" alt="" coords="203,259,354,285"/>
+<area shape="rect" id="node12" href="$virtual__object_8h.html#ab22aa7383d923d65b7cc09e7dc85e13e" title="vid_flush_and_rehash" alt="" coords="417,309,565,336"/>
+<area shape="rect" id="node13" href="$virtual__object_8h.html#a8a5cab7a0999c4c8b2d3c33d3c0ec9b5" title="vid_flush_instance" alt="" coords="213,360,344,387"/>
+<area shape="rect" id="node14" href="$virtual__object_8h.html#ab37c298992eb472c815d4a13d62d3d57" title="vid_rem_instance" alt="" coords="217,411,341,437"/>
+<area shape="rect" id="node3" href="$object__template_8c.html#af529284ef8a36888b50d277a186426aa" title="access_object" alt="" coords="437,5,544,32"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#abaef55427cef4ce34afad16f1da0e981" title="db_real_instance" alt="" coords="431,120,551,147"/>
+<area shape="rect" id="node9" href="$work__space_8h.html#a147e331c4cbda179b8e5c8883d9fdc37" title="ws_oid" alt="" coords="459,196,522,223"/>
+<area shape="rect" id="node10" href="$cursor_8c.html#aa5f0ba610bb79f77d1825407a71a4dcb" title="cursor_get_oid_from_vobj" alt="" coords="405,247,576,273"/>
+<area shape="rect" id="node15" href="$object__accessor_8h.html#a656f7a11efc0d147c9af471b68edf2f2" title="obj_delete" alt="" coords="450,411,531,437"/>
+</map>

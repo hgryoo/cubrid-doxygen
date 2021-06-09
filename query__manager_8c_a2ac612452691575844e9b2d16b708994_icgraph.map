@@ -1,0 +1,5 @@
+<map id="qmgr_initialize_tran_entry" name="qmgr_initialize_tran_entry">
+<area shape="rect" id="node2" href="$query__manager_8h.html#a8669feab93ec13c2cf25a2011313e3e6" title="qmgr_allocate_tran\l_entries" alt="" coords="188,23,320,65"/>
+<area shape="rect" id="node3" href="$query__manager_8h.html#af4f328c92e903e58012d29296381edd5" title="qmgr_initialize" alt="" coords="393,5,499,32"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#a9d858c98e9a769b71176ddb505acddfd" title="logtb_expand_trantable" alt="" coords="368,56,524,83"/>
+</map>

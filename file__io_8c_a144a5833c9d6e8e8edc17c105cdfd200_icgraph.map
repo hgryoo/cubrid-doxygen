@@ -1,0 +1,11 @@
+<map id="fileio_remove_all_backup" name="fileio_remove_all_backup">
+<area shape="rect" id="node2" href="$file__io_8h.html#a98c76ffb65ff6ba353a0ae0475c7ca7f" title="fileio_abort_backup" alt="" coords="243,81,378,108"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="669,56,772,83"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a45020463486a6bde25e2428528cb5654" title="logpb_delete" alt="" coords="263,208,358,235"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="221,281,400,322"/>
+<area shape="rect" id="node3" href="$file__io_8h.html#a8d17e5474825c3a1c56afea7769dce18" title="fileio_start_backup" alt="" coords="469,5,600,32"/>
+<area shape="rect" id="node5" href="$file__io_8h.html#a1e084a8daab23659525589153f1208a8" title="fileio_abort_restore" alt="" coords="469,107,601,133"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="451,208,618,235"/>
+<area shape="rect" id="node8" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="448,259,621,285"/>
+<area shape="rect" id="node10" href="$boot__sr_8h.html#acb0127ed69984740febd2060f7086821" title="xboot_soft_rename" alt="" coords="468,309,601,336"/>
+</map>

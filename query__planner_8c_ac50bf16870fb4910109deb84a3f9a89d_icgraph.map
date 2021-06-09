@@ -1,0 +1,6 @@
+<map id="qo_plan_join_print_json" name="qo_plan_join_print_json">
+<area shape="rect" id="node2" href="$query__planner_8c.html#afea076e286276c030495a71c26108b37" title="qo_plan_print_json" alt="" coords="211,56,341,83"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#af33e56be4b891674c8e2ebdbf9b1e3fb" title="qo_plan_sort_print_json" alt="" coords="395,5,554,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#ad89955863660322831252b3eb5399e4a" title="qo_plan_follow_print_json" alt="" coords="389,56,560,83"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#aad549ea8a678c629c8e0ca45d5792665" title="qo_top_plan_print_json" alt="" coords="397,107,552,133"/>
+</map>

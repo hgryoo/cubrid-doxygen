@@ -1,0 +1,6 @@
+<map id="spage_collect_statistics" name="spage_collect_statistics">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a320a296b462305ebbf9f0cbef9b52029" title="heap_stats_sync_bestspace" alt="" coords="216,31,404,57"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a2b0c3f9af6d7acec2a7c754c14acbdf4" title="xheap_reclaim_addresses" alt="" coords="223,81,397,108"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#ae7c1d5ed9bdd2f239cbfca947c2b69cd" title="heap_get_num_objects" alt="" coords="465,5,621,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#af256d9deeaf7200651bfe15fc3b12207" title="heap_stats_find_best_page" alt="" coords="452,56,633,83"/>
+</map>

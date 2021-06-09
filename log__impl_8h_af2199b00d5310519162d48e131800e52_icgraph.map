@@ -1,0 +1,9 @@
+<map id="logpb_create_log_info" name="logpb_create_log_info">
+<area shape="rect" id="node2" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="225,56,356,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a882849d3d8e388f55efa9f52a6386de7" title="logpb_copy_database" alt="" coords="217,127,365,153"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="201,178,380,219"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ad2eeada203e066baffcd4c6207a573b8" title="log_create" alt="" coords="453,5,536,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="448,56,541,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="450,131,539,157"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#acb0127ed69984740febd2060f7086821" title="xboot_soft_rename" alt="" coords="428,185,561,212"/>
+</map>

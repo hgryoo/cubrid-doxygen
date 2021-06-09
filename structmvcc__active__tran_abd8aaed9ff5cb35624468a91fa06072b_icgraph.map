@@ -1,0 +1,6 @@
+<map id="mvcc_active_tran::remove_long_transaction" name="mvcc_active_tran::remove_long_transaction">
+<area shape="rect" id="node2" href="$structmvcc__active__tran.html#a38d35eb2cb50d1e3d00ed5b35cfebb22" title="mvcc_active_tran::set\l_inactive_mvccid" alt="" coords="229,16,380,58"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a2632c87ab0cc83e936e91109b102d568" title="logtb_complete_sub_mvcc" alt="" coords="659,28,836,54"/>
+<area shape="rect" id="node4" href="$classmvcctable.html#abe1fe9fb2ba6d076dfad17edeec315fa" title="mvcctable::complete_mvcc" alt="" coords="428,24,611,50"/>
+<area shape="rect" id="node5" href="$classmvcctable.html#abfa435889d956012972a3a74479b9ca0" title="mvcctable::complete\l_sub_mvcc" alt="" coords="448,75,591,116"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="clear_wait_queue_entry_and_free_buffer" name="clear_wait_queue_entry_and_free_buffer">
+<area shape="rect" id="node2" href="$connection__sr_8c.html#a4ae98ca7720529ffbc7f83697630ca18" title="css_return_queued_data\l_timeout" alt="" coords="212,23,376,65"/>
+<area shape="rect" id="node3" href="$connection__sr_8c.html#afcd0ccababe9471e2ff31025115890ba" title="css_receive_data" alt="" coords="444,5,568,32"/>
+<area shape="rect" id="node4" href="$connection__sr_8h.html#a11acb43e6eba61f77bf72b91b284deb7" title="css_return_queued_data" alt="" coords="424,56,588,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="btree_log_page" name="btree_log_page">
+<area shape="rect" id="node2" href="$btree__load_8c.html#a2e3d0063dd97e3546031d1f224c54831" title="btree_build_nleafs" alt="" coords="367,30,494,57"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#ad96235296b0b3438c2639b7f7111664b" title="btree_connect_page" alt="" coords="164,30,303,57"/>
+<area shape="rect" id="node5" href="$btree__load_8c.html#a152e2fb9000bb23ccd9be5a7c9c5bfba" title="btree_construct_leafs" alt="" coords="357,81,504,107"/>
+<area shape="rect" id="node6" href="$btree__load_8c.html#aedf651a4177f910e479ec130a42b475b" title="btree_proceed_leaf" alt="" coords="167,131,299,158"/>
+<area shape="rect" id="node7" href="$btree__load_8c.html#a8e2c6954ccd58059ca57474ef9bd9fa9" title="btree_save_last_leafrec" alt="" coords="351,131,511,158"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="559,81,685,107"/>
+</map>

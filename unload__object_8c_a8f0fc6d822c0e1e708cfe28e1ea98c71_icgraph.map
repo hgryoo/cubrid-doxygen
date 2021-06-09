@@ -1,0 +1,8 @@
+<map id="is_req_class" name="is_req_class">
+<area shape="rect" id="node2" href="$unloaddb_8h.html#a8f06d201be33ae14bcdaf8d8bfffb36f" title="extract_objects" alt="" coords="600,34,711,61"/>
+<area shape="rect" id="node4" href="$unload__schema_8c.html#a297e02ef88c576a3d4dabfacb58122b6" title="filter_unrequired_classes" alt="" coords="155,34,322,61"/>
+<area shape="rect" id="node6" href="$unload__object_8c.html#aac2760dc732ad43879d5eb67944529de" title="set_referenced_subclasses" alt="" coords="148,85,329,112"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a090ec522bafd813b8ba255a9af927ba3" title="unloaddb" alt="" coords="759,34,833,61"/>
+<area shape="rect" id="node5" href="$unload__schema_8c.html#a38e5979524fc917d4975785de16b7068" title="get_ordered_classes" alt="" coords="393,34,536,61"/>
+<area shape="rect" id="node7" href="$unload__object_8c.html#aa45b8847bcf578c36b866a2ac1ba6962" title="check_referenced_domain" alt="" coords="377,85,552,112"/>
+</map>

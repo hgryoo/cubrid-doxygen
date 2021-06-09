@@ -1,0 +1,6 @@
+<map id="perfmon_stat_thread_stat_name" name="perfmon_stat_thread_stat_name">
+<area shape="rect" id="node2" href="$perf__monitor_8c.html#a661cd0b1b5ad54e163466fb322691188" title="perfmon_stat_dump_in\l_buffer_thread_stats" alt="" coords="195,5,349,47"/>
+<area shape="rect" id="node4" href="$perf__monitor_8c.html#af6c06fdf5116f7845de13db027e00c6d" title="perfmon_stat_dump_in\l_file_thread_stats" alt="" coords="195,71,349,112"/>
+<area shape="rect" id="node3" href="$perf__monitor_8c.html#a802d0da01933f4291c94fcb129007518" title="f_dump_in_buffer_thread\l_stats" alt="" coords="397,5,563,47"/>
+<area shape="rect" id="node5" href="$perf__monitor_8c.html#afe5afd2df6cb854a0bb5a3c61e493eca" title="f_dump_in_file_thread\l_stats" alt="" coords="405,71,555,112"/>
+</map>

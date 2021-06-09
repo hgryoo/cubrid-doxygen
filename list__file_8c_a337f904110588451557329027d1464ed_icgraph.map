@@ -1,0 +1,10 @@
+<map id="qfile_scan_prev" name="qfile_scan_prev">
+<area shape="rect" id="node2" href="$list__file_8h.html#ada95fed13f524ba69bf43a229891f2a5" title="qfile_make_sort_key" alt="" coords="167,107,309,133"/>
+<area shape="rect" id="node7" href="$list__file_8h.html#ad50f4d186ee6f530df8633c63ea8a8b2" title="qfile_scan_list_prev" alt="" coords="169,216,307,243"/>
+<area shape="rect" id="node3" href="$list__file_8c.html#af487801cfa0d88e41cc6af3402af8904" title="qfile_get_next_sort_item" alt="" coords="364,5,528,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a824b82a2a74b3bb47597f1ddf5acae32" title="qexec_hash_gby_get_next" alt="" coords="357,56,535,83"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a5e40956553d5323c11a5cc6c757dec7b" title="qexec_gby_get_next" alt="" coords="375,107,517,133"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#a9e8080fd67f3bb81d7e453c6dc9c1f1f" title="qexec_analytic_get_next" alt="" coords="363,157,529,184"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#adabe00eff390a72bd8454913de4837a5" title="qexec_analytic_value\l_advance" alt="" coords="373,209,519,250"/>
+<area shape="rect" id="node9" href="$scan__manager_8c.html#aafe08e62544267c6d2cc685c93495644" title="scan_prev_scan_local" alt="" coords="371,275,521,301"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="pt_make_aptr_parent_node" name="pt_make_aptr_parent_node">
+<area shape="rect" id="node2" href="$xasl__generation_8h.html#a4ffda647bdf164dbc2ed5f4e418c7ff3" title="pt_to_delete_xasl" alt="" coords="255,54,379,81"/>
+<area shape="rect" id="node5" href="$xasl__generation_8h.html#aa08e377a0433d0f9d3167b1bb6bb0b1e" title="pt_to_insert_xasl" alt="" coords="257,105,378,131"/>
+<area shape="rect" id="node6" href="$xasl__generation_8c.html#aaec21ce3a085c64cbd1f04cc22bb43d1" title="pt_to_merge_insert_xasl" alt="" coords="235,155,399,182"/>
+<area shape="rect" id="node7" href="$xasl__generation_8c.html#ad40a4696a329c337de0d1b4cec048d27" title="pt_to_merge_update_xasl" alt="" coords="232,206,403,233"/>
+<area shape="rect" id="node8" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="253,257,381,283"/>
+<area shape="rect" id="node3" href="$execute__statement_8c.html#a018270c1c91a88694cac8747af9bd25a" title="build_xasl_for_server\l_delete" alt="" coords="451,5,596,47"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a5a96449a20d34f17f764bead35cde84e" title="do_prepare_delete" alt="" coords="459,95,587,122"/>
+</map>

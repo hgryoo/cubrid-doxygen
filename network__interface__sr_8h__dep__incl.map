@@ -1,0 +1,6 @@
+<map id="src/communication/network_interface_sr.h" name="src/communication/network_interface_sr.h">
+<area shape="rect" id="node2" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="5,95,188,136"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html" title="src/communication/network_sr.c" alt="" coords="213,102,423,129"/>
+<area shape="rect" id="node4" href="$method__scan_8c.html" title="src/query/method_scan.c" alt="" coords="448,102,617,129"/>
+<area shape="rect" id="node5" href="$btree_8c.html" title="src/storage/btree.c" alt="" coords="642,102,773,129"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="sm_free_filter_index_info" name="sm_free_filter_index_info">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#ae946e6aefead200daf0e5ddbc5fcd417" title="sm_add_secondary_index\l_on_partition" alt="" coords="603,42,776,83"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="441,49,555,76"/>
+<area shape="rect" id="node9" href="$schema__manager_8h.html#a25ab9991b38b9208bae19b5651cde2cb" title="sm_free_constraint_info" alt="" coords="609,208,770,234"/>
+<area shape="rect" id="node13" href="$schema__manager_8h.html#af79ae91ab66a52d5528c3ae6f74378c9" title="sm_save_filter_index_info" alt="" coords="220,100,393,126"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#ac770726929bfb229a6fde8c58f2e1374" title="sm_add_constraint" alt="" coords="857,49,989,76"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a03dbf8ec3962e323a7e7fdcd814c8ce3" title="do_alter_clause_change\l_attribute" alt="" coords="1071,12,1233,54"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#afaa7284d4b1251a4e20e4232705f1c3b" title="do_copy_indexes" alt="" coords="1091,100,1213,126"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#a117d19cbdb55baa5877f998a7c3e9310" title="do_recreate_renamed\l_class_indexes" alt="" coords="1079,202,1225,243"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="1086,150,1218,177"/>
+<area shape="rect" id="node10" href="$execute__schema_8c.html#a45757e20f94e61e441446ac8faa9dbda" title="do_redistribute_partitions_data" alt="" coords="824,318,1023,345"/>
+<area shape="rect" id="node11" href="$execute__schema_8c.html#a498df7c8cdee073136edfc5e0ee24ad1" title="save_constraint_info\l_from_pt_node" alt="" coords="852,202,995,243"/>
+<area shape="rect" id="node12" href="$schema__manager_8h.html#abf076f4cfa9acb9d5b9bd20c6848df05" title="sm_save_constraint_info" alt="" coords="840,150,1007,177"/>
+</map>

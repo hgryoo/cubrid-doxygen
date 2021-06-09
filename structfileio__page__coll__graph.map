@@ -1,0 +1,5 @@
+<map id="fileio_page" name="fileio_page">
+<area shape="rect" id="node2" href="$structfileio__page__watermark.html" title="{fileio_page_watermark\n||}" alt="" coords="5,351,157,428"/>
+<area shape="rect" id="node3" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="127,5,233,244"/>
+<area shape="rect" id="node4" href="$structfileio__page__reserved.html" title="{fileio_page_reserved\n|+ pageid\l+ volid\l+ ptype\l+ pflag\l+ p_reserve_1\l+ p_reserve_2\l+ tde_nonce\l|}" alt="" coords="181,307,323,472"/>
+</map>

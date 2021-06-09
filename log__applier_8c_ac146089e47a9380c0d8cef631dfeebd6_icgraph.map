@@ -1,0 +1,6 @@
+<map id="la_get_mem_size" name="la_get_mem_size">
+<area shape="rect" id="node2" href="$log__applier_8c.html#aee007ea67facc56f124ef69c0a3fb004" title="la_check_mem_size" alt="" coords="177,5,319,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#ae463b7b60cf0a8ca13bf56cb4f8e6056" title="la_init" alt="" coords="220,56,276,83"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a985ea807a9f77fb66077722eea3554a9" title="la_apply_log_file" alt="" coords="374,5,493,32"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a9180654b6a7f8977c97f70878cf57d3d" title="la_log_page_check" alt="" coords="367,56,500,83"/>
+</map>

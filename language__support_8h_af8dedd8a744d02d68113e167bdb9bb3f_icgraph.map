@@ -1,0 +1,12 @@
+<map id="lang_digit_grouping_symbol" name="lang_digit_grouping_symbol">
+<area shape="rect" id="node2" href="$string__opfunc_8c.html#a2cac75bf8b649075cd0a363c96036e60" title="convert_locale_number" alt="" coords="187,266,343,293"/>
+<area shape="rect" id="node3" href="$string__opfunc_8c.html#a207bd6ef9c9d0c05b891afa65117a2bb" title="number_to_char" alt="" coords="593,190,708,217"/>
+<area shape="rect" id="node4" href="$string__opfunc_8h.html#a556b385cb2fad7ffcff4b054965ddfa4" title="db_format" alt="" coords="756,190,836,217"/>
+<area shape="rect" id="node5" href="$string__opfunc_8c.html#af7d786734d573d6df30b46779f6a4cbf" title="make_number" alt="" coords="416,367,520,394"/>
+<area shape="rect" id="node6" href="$string__opfunc_8h.html#a054828717c4464bccfc880f886ddee05" title="db_to_number" alt="" coords="599,367,703,394"/>
+<area shape="rect" id="node7" href="$string__opfunc_8c.html#aa00f1538d050abd642d7b3102b823c32" title="get_number_token" alt="" coords="403,215,533,242"/>
+<area shape="rect" id="node8" href="$string__opfunc_8c.html#a0e2236bf524b8220c42bcc7f1ab24e69" title="make_number_to_char" alt="" coords="391,114,545,141"/>
+<area shape="rect" id="node9" href="$string__opfunc_8c.html#ab1dd70a0d9011441b8a8bb5c00844234" title="roundoff" alt="" coords="230,63,299,90"/>
+<area shape="rect" id="node11" href="$string__opfunc_8c.html#afe7130c8a79d780b5c6d74d5d3d1bb79" title="to_number_next_state" alt="" coords="189,367,340,394"/>
+<area shape="rect" id="node10" href="$dtoa_8c.html#abbed1bdb2911476a2a9444d4655c9ea4" title="_DEFUN" alt="" coords="430,63,506,90"/>
+</map>

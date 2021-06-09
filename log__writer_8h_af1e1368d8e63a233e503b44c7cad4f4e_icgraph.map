@@ -1,0 +1,7 @@
+<map id="logwr_log_ha_filestat_to_string" name="logwr_log_ha_filestat_to_string">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a61df29370069d0a128f78c566b8e445a" title="la_print_log_header" alt="" coords="205,5,340,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a53d35f511b18f8af20ed5eb09c286c73" title="log_active_log_header\l_next_scan" alt="" coords="197,57,348,98"/>
+<area shape="rect" id="node6" href="$structlogwr__info.html#a39686f4651dd3d00395255c7cbd90fc4" title="logwr_info::logwr_info" alt="" coords="199,123,347,149"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a9180654b6a7f8977c97f70878cf57d3d" title="la_log_page_check" alt="" coords="399,5,532,32"/>
+<area shape="rect" id="node5" href="$show__scan_8c.html#aecf736200d67937c5e8b499d2570ea1d" title="showstmt_scan_init" alt="" coords="396,64,535,91"/>
+</map>

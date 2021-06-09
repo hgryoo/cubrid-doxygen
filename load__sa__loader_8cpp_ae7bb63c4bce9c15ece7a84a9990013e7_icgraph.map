@@ -1,0 +1,10 @@
+<map id="ldr_act_attr" name="ldr_act_attr">
+<area shape="rect" id="node2" href="$load__sa__loader_8cpp.html#af7a6f8b06ff0c4429d7a18e91c32bc1e" title="ldr_collection_db_collection" alt="" coords="140,31,321,57"/>
+<area shape="rect" id="node5" href="$load__sa__loader_8cpp.html#a8bd9b94300dfb07ce334162f90c37073" title="ldr_finish_context" alt="" coords="169,157,293,184"/>
+<area shape="rect" id="node7" href="$load__sa__loader_8cpp.html#af41b16fc6c7965267350c2502f2bde99" title="ldr_init_loader" alt="" coords="552,157,655,184"/>
+<area shape="rect" id="node9" href="$classcubload_1_1sa__object__loader.html#a68aaa7fcfb3738c4bfe34f1359aa466c" title="cubload::sa_object\l_loader::process_line" alt="" coords="158,259,303,301"/>
+<area shape="rect" id="node3" href="$load__sa__loader_8cpp.html#a1561a5e2a89a52cec871765c97b0d3b7" title="ldr_act_class_attr" alt="" coords="374,5,499,32"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#af3144eb2dc546ac311d12e80c693b3e8" title="ldr_act_add_attr" alt="" coords="379,56,494,83"/>
+<area shape="rect" id="node6" href="$load__sa__loader_8cpp.html#a7fdb4a27a4f0f3c67db4730f416efcc9" title="ldr_act_init_context" alt="" coords="369,107,504,133"/>
+<area shape="rect" id="node8" href="$load__sa__loader_8cpp.html#ad64700c984ccfd79eef78e162dbd8e6e" title="ldr_destroy" alt="" coords="393,157,480,184"/>
+</map>

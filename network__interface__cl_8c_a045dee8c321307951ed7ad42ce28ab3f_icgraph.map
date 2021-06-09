@@ -1,0 +1,5 @@
+<map id="btree_delete_index" name="btree_delete_index">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#a6abe540e7e82d57e2b237c56d5a44254" title="deallocate_index" alt="" coords="184,43,303,69"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#a94a5ab245d87fe80cc5e41e78cf18554" title="transfer_disk_structures" alt="" coords="351,5,513,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#a46905b698e1a61916384860ef3f740ce" title="sm_drop_index" alt="" coords="377,80,487,107"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="tp_value_auto_cast" name="tp_value_auto_cast">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#a84568ded60b29438a241e0573c1f123e" title="db_hex" alt="" coords="237,80,301,107"/>
+<area shape="rect" id="node4" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="627,308,745,335"/>
+<area shape="rect" id="node5" href="$string__opfunc_8h.html#a2d62b1f9ad5ac3987d6b4307937f696f" title="db_time_format" alt="" coords="213,131,325,157"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#a31f4dad86f2e02e226d60b7b48cde2be" title="heap_attrinfo_set" alt="" coords="208,181,331,208"/>
+<area shape="rect" id="node7" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="205,232,333,259"/>
+<area shape="rect" id="node8" href="$query__opfunc_8h.html#a9fa70ad6fa6a96385c1600dd2e37f203" title="qdata_add_dbval" alt="" coords="429,451,549,477"/>
+<area shape="rect" id="node9" href="$query__opfunc_8h.html#aafb8199a5f74c33c642ada2e62e34d3c" title="qdata_divide_dbval" alt="" coords="422,333,555,360"/>
+<area shape="rect" id="node10" href="$query__opfunc_8c.html#aaf2337e06e3bbcbb7517eed8f8ebbe43" title="qdata_get_dbval_from\l_constant_regu_variable" alt="" coords="188,385,351,426"/>
+<area shape="rect" id="node11" href="$query__opfunc_8h.html#a5e0ccfc1fb37973e1e05a7b4c6839d86" title="qdata_multiply_dbval" alt="" coords="417,552,561,579"/>
+<area shape="rect" id="node12" href="$query__opfunc_8h.html#aac9d8a58076279ce106291800e69f542" title="qdata_strcat_dbval" alt="" coords="203,501,335,528"/>
+<area shape="rect" id="node13" href="$query__opfunc_8h.html#a994c370cfc8c103ea406a53ab82a0bf0" title="qdata_subtract_dbval" alt="" coords="415,29,562,56"/>
+<area shape="rect" id="node14" href="$object__domain_8h.html#a14772faf4fc8d26ae36e6d43e61370a8" title="tp_value_str_auto_cast\l_to_number" alt="" coords="191,603,348,645"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="399,131,579,157"/>
+</map>

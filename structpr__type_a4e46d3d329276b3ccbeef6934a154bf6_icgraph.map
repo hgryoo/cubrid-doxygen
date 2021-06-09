@@ -1,0 +1,21 @@
+<map id="pr_type::get_id" name="pr_type::get_id">
+<area shape="rect" id="node2" href="$classcubload_1_1server__object__loader.html#a9cfaba458edb0cc2567713869a66fa08" title="cubload::server_object\l_loader::process_collection\l_constant" alt="" coords="395,71,575,127"/>
+<area shape="rect" id="node4" href="$classcubload_1_1server__object__loader.html#a25e79facf80a7f488e5e7c452b1a655c" title="cubload::server_object\l_loader::process_generic\l_constant" alt="" coords="167,136,334,192"/>
+<area shape="rect" id="node5" href="$classcubload_1_1server__object__loader.html#a90588525cece1c2b9ab0a6f4f4def590" title="cubload::server_object\l_loader::process_monetary\l_constant" alt="" coords="161,5,340,61"/>
+<area shape="rect" id="node6" href="$object__domain_8h.html#a765c2cd02dd86f6227f9393806a00f0d" title="tp_domain_disk_size" alt="" coords="179,455,323,481"/>
+<area shape="rect" id="node20" href="$object__domain_8h.html#ac734d9c6b732e25a58e6e6564016222f" title="tp_domain_memory_size" alt="" coords="167,505,334,532"/>
+<area shape="rect" id="node3" href="$classcubload_1_1server__object__loader.html#aeecb160d3513e047d24c7d56387fdf66" title="cubload::server_object\l_loader::process_constant" alt="" coords="631,78,805,119"/>
+<area shape="rect" id="node7" href="$class__object_8h.html#a3220191cf2a26a22f94e71692b1a5032" title="classobj_install_template" alt="" coords="401,353,569,380"/>
+<area shape="rect" id="node8" href="$load__object_8c.html#a7f25f6cc92cc5e6353f3dc5cee0ca13a" title="get_desc_current" alt="" coords="424,404,547,431"/>
+<area shape="rect" id="node9" href="$heap__file_8c.html#a6b8c964e2905c9611abc4d99648366b6" title="heap_attrinfo_get_disksize" alt="" coords="397,201,574,228"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#a550ba39ad01765a4f0b7115fbb43f60c" title="heap_attrinfo_transform\l_to_disk_internal" alt="" coords="639,321,797,362"/>
+<area shape="rect" id="node11" href="$heap__file_8c.html#a62d347cce7629668b36cfb0b61959d0a" title="heap_attrvalue_read" alt="" coords="416,556,555,583"/>
+<area shape="rect" id="node12" href="$log__applier_8c.html#a5326a3ed4d4ab628c1df97fe6cbd3e4d" title="la_get_current" alt="" coords="433,607,537,633"/>
+<area shape="rect" id="node13" href="$load__object_8c.html#a077a99a209500ebda1e82619ca08d198" title="object_disk_size" alt="" coords="426,657,545,684"/>
+<area shape="rect" id="node14" href="$object__representation_8c.html#aa7112174be8993f322ebd1fa6dcdafbb" title="or_disk_set_size" alt="" coords="425,708,545,735"/>
+<area shape="rect" id="node15" href="$object__representation__sr_8h.html#a4d8b5863852379bed246c3c507ae9c27" title="or_get_all_representation" alt="" coords="635,784,801,811"/>
+<area shape="rect" id="node16" href="$object__representation__sr_8c.html#a4ef5b712a59b303dcc884350533cdf18" title="or_get_current_representation" alt="" coords="388,759,583,785"/>
+<area shape="rect" id="node17" href="$object__representation__sr_8c.html#a68f749262702a286c41eae3a019b0748" title="or_get_old_representation" alt="" coords="633,607,803,633"/>
+<area shape="rect" id="node18" href="$object__representation_8c.html#ab0630175dddb661d6b5a4fbe4aaed245" title="or_get_set" alt="" coords="444,252,527,279"/>
+<area shape="rect" id="node19" href="$object__representation_8c.html#a41947e515c8b44f6e53edd2197f870e9" title="or_packed_set_info" alt="" coords="418,303,553,329"/>
+</map>

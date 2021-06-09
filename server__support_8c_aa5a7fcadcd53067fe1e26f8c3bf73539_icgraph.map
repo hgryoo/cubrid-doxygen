@@ -1,0 +1,5 @@
+<map id="css_get_master_request" name="css_get_master_request">
+<area shape="rect" id="node2" href="$server__support_8c.html#ae58c62456655b0400a42763aa98b0232" title="css_process_change\l_server_ha_mode_request" alt="" coords="219,5,393,47"/>
+<area shape="rect" id="node3" href="$server__support_8c.html#a2934109a790ef10943951a8dd1a2f63c" title="css_process_master\l_request" alt="" coords="441,64,584,105"/>
+<area shape="rect" id="node4" href="$server__support_8c.html#a6723b99fee4a903f30d774a1ab758c52" title="css_process_shutdown\l_request" alt="" coords="227,123,385,164"/>
+</map>

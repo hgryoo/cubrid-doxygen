@@ -1,0 +1,7 @@
+<map id="method_clear_scan_buffer" name="method_clear_scan_buffer">
+<area shape="rect" id="node2" href="$method__scan_8h.html#a8709cde84fd75245188ad96d3012460a" title="method_close_scan" alt="" coords="239,5,377,32"/>
+<area shape="rect" id="node4" href="$method__scan_8c.html#a1f3a0afa8dc057d2f4886bce69626c3c" title="method_invoke_from\l_stand_alone" alt="" coords="237,57,379,98"/>
+<area shape="rect" id="node6" href="$method__scan_8c.html#ab5c1ecda7b5379e97445b2d334767dcb" title="method_receive_results\l_for_stand_alone" alt="" coords="228,122,388,163"/>
+<area shape="rect" id="node3" href="$scan__manager_8h.html#aed4849a437d23cf0913900740556009d" title="scan_close_scan" alt="" coords="436,5,559,32"/>
+<area shape="rect" id="node5" href="$method__scan_8c.html#a3e30ade63f18a1da2391bf605cb76afa" title="method_invoke" alt="" coords="442,64,553,91"/>
+</map>

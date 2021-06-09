@@ -1,0 +1,5 @@
+<map id="cubthread::internal_tasks_worker_pool::initialize" name="cubthread::internal_tasks_worker_pool::initialize">
+<area shape="rect" id="node2" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="217,5,333,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a06d2b0cbf44eb89ea6c4c9f068cf4344" title="pgbuf_get_page_flush\l_interval" alt="" coords="200,57,349,98"/>
+<area shape="rect" id="node3" href="$server_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="397,5,448,32"/>
+</map>

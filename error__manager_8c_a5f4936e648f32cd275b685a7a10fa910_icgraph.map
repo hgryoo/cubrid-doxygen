@@ -1,0 +1,5 @@
+<map id="er_stop_on_error" name="er_stop_on_error">
+<area shape="rect" id="node2" href="$error__manager_8c.html#afcc3225dce14d9110881598b39854569" title="er_log" alt="" coords="197,5,254,32"/>
+<area shape="rect" id="node4" href="$error__manager_8c.html#ac7f74b30bacfef84dba1b02f20f12aa2" title="er_set_internal" alt="" coords="172,56,279,83"/>
+<area shape="rect" id="node3" href="$error__manager_8c.html#a4b2ad853dfb91e291d3c0d46a034297d" title="er_emergency" alt="" coords="327,5,431,32"/>
+</map>

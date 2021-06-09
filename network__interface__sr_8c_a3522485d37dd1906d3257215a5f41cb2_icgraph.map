@@ -1,0 +1,9 @@
+<map id="xio_send_user_prompt_to_client" name="xio_send_user_prompt_to_client">
+<area shape="rect" id="node2" href="$file__io_8h.html#aa20a327c4a251274c5f5a27229f5b234" title="fileio_request_user\l_response" alt="" coords="207,129,337,170"/>
+<area shape="rect" id="node3" href="$file__io_8h.html#a804410092892d2bfac5a0b9d21a4e3c7" title="fileio_finish_backup" alt="" coords="408,5,544,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="641,56,743,83"/>
+<area shape="rect" id="node5" href="$file__io_8c.html#aebeeec98ab02d21bae159cc383e51731" title="fileio_make_error_message" alt="" coords="385,107,567,133"/>
+<area shape="rect" id="node6" href="$file__io_8c.html#a9fb6af728c404f5ac0822488d1711dd2" title="fileio_find_restore\l_volume" alt="" coords="414,223,538,265"/>
+<area shape="rect" id="node7" href="$file__io_8c.html#a548d455254d93c20e0630710f28cadf0" title="fileio_get_next_backup\l_volume" alt="" coords="615,253,769,294"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#ae0ca8eb9081bca5cf948e3a5e46813f6" title="logpb_remote_ask_user\l_before_delete_volumes" alt="" coords="395,158,557,199"/>
+</map>

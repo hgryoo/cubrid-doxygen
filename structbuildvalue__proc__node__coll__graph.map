@@ -1,0 +1,13 @@
+<map id="buildvalue_proc_node" name="buildvalue_proc_node">
+<area shape="rect" id="node2" href="$structcubxasl_1_1aggregate__list__node.html" title="{cubxasl::aggregate\l_list_node\n|+ function\l+ option\l+ opr_dbtype\l+ original_opr_dbtype\l+ flag_agg_optimize\l|}" alt="" coords="631,491,777,641"/>
+<area shape="rect" id="node3" href="$structsort__list.html" title="{sort_list\n|+ del_id\l+ s_order\l+ s_nulls\l|}" alt="" coords="139,5,216,112"/>
+<area shape="rect" id="node9" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="539,219,688,384"/>
+<area shape="rect" id="node4" href="$unioncubxasl_1_1aggregate__specific__function__info.html" title="{cubxasl::aggregate\l_specific_function_info\n||}" alt="" coords="115,255,269,347"/>
+<area shape="rect" id="node5" href="$structcubxasl_1_1aggregate__accumulator.html" title="{cubxasl::aggregate\l_accumulator\n|+ curr_cnt\l+ clear_value_at_clone\l_decache\l+ clear_value2_at_clone\l_decache\l|}" alt="" coords="712,226,875,377"/>
+<area shape="rect" id="node6" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="1254,20,1351,97"/>
+<area shape="rect" id="node12" href="$structarith__list__node.html" title="{arith_list_node\n|+ leftptr\l+ rightptr\l+ thirdptr\l+ opcode\l+ misc_operand\l+ rand_seed\l|}" alt="" coords="1256,491,1371,641"/>
+<area shape="rect" id="node7" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="899,263,1000,340"/>
+<area shape="rect" id="node8" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="1024,189,1157,413"/>
+<area shape="rect" id="node10" href="$structregu__variable__list__node.html" title="{regu_variable_list_node\n||}" alt="" coords="294,263,453,340"/>
+<area shape="rect" id="node11" href="$structcubxasl_1_1pred__expr.html" title="{cubxasl::pred_expr\n|+ pe\l+ type\l|+ clear_xasl()\l}" alt="" coords="1371,255,1503,347"/>
+</map>

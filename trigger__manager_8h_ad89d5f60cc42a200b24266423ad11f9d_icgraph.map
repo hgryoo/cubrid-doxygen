@@ -1,0 +1,11 @@
+<map id="tr_validate_schema_cache" name="tr_validate_schema_cache">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#a900c42123e2d2bf2f7d27a7ac48e8a40" title="get_schema_trigger\l_objects" alt="" coords="203,5,339,47"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#aefb8299f10f32a91c6a50da24fbdd1ce" title="tr_active_schema_cache" alt="" coords="188,71,355,98"/>
+<area shape="rect" id="node7" href="$trigger__manager_8h.html#aed70ae6c883a57725cfef43cdc03d3c1" title="tr_delete_triggers\l_for_class" alt="" coords="210,123,333,164"/>
+<area shape="rect" id="node8" href="$trigger__manager_8h.html#a697079934063d98110504cdb006683ab" title="tr_prepare_class" alt="" coords="212,189,331,215"/>
+<area shape="rect" id="node10" href="$trigger__manager_8h.html#a544e41976d6d1ec8a64500545e20cf6d" title="tr_prepare_statement" alt="" coords="199,239,344,266"/>
+<area shape="rect" id="node3" href="$trigger__manager_8c.html#a3d7ddc46ecd5b26b1c6880d6c63fab45" title="find_event_triggers" alt="" coords="403,13,535,39"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a893acf3f38f5cab5e8462bcf28e38f02" title="sm_active_triggers" alt="" coords="403,79,535,106"/>
+<area shape="rect" id="node6" href="$object__template_8c.html#ab1a49f2b7b043063d70b8f50111e7e9f" title="obt_apply_assignments" alt="" coords="583,107,741,134"/>
+<area shape="rect" id="node9" href="$object__accessor_8h.html#a656f7a11efc0d147c9af471b68edf2f2" title="obj_delete" alt="" coords="428,189,509,215"/>
+</map>

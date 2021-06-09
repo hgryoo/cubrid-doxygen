@@ -1,0 +1,9 @@
+<map id="db_make_resultset" name="db_make_resultset">
+<area shape="rect" id="node2" href="$jsp__cl_8c.html#a5feb038e4243234f86063eb887fb171b" title="jsp_unpack_resultset" alt="" coords="200,5,345,32"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a37d6eb47ef01be0a62a47d1d8be22ede" title="mr_data_readval_resultset" alt="" coords="185,56,360,83"/>
+<area shape="rect" id="node6" href="$object__primitive_8c.html#a98edf8ea8aa4e916b085e161f1ed23ed" title="mr_getmem_resultset" alt="" coords="199,107,347,133"/>
+<area shape="rect" id="node7" href="$object__primitive_8c.html#a67fb922f0741a264a51135b8ba7f5339" title="mr_initval_resultset" alt="" coords="205,157,340,184"/>
+<area shape="rect" id="node8" href="$object__primitive_8c.html#a2764358cc12c18e60d20dffcbe0ee10b" title="mr_setval_resultset" alt="" coords="205,208,341,235"/>
+<area shape="rect" id="node3" href="$jsp__cl_8c.html#adca4338f9836960f2d2ddd641d5cb91d" title="jsp_unpack_value" alt="" coords="415,5,541,32"/>
+<area shape="rect" id="node5" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="408,125,548,166"/>
+</map>

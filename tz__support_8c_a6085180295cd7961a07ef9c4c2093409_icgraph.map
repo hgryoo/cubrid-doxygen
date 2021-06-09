@@ -1,0 +1,8 @@
+<map id="tz_unload" name="tz_unload">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="135,85,288,112"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="535,111,673,137"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="539,9,669,36"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="132,212,291,239"/>
+<area shape="rect" id="node7" href="$utility_8h.html#aa6af9cd5dcec4fa5c2c592e199958744" title="dump_tz" alt="" coords="175,263,247,289"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aa7beb3207bb2b041cfbaf347ea2bf51a" title="boot_shutdown_client" alt="" coords="339,60,487,87"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="css_server_task" name="css_server_task">
+<area shape="rect" id="node2" href="$classcubthread_1_1task.html" title="{cubthread::entry_task\n||+ task()\l+ ~task()\l+ execute()\l+ retire()\l}" alt="" coords="5,365,153,487"/>
+<area shape="rect" id="node3" href="$structcss__conn__entry.html" title="{css_conn_entry\n|+ fd\l+ request_id\l+ status\l+ invalidate_snapshot\l+ client_id\l+ db_error\l+ in_transaction\l+ reset_on_commit\l+ file\l+ cnxn\l+ session_id\l+ transaction_id\l|}" alt="" coords="178,307,327,545"/>
+<area shape="rect" id="node4" href="$structcss__queue__entry.html" title="{css_queue_entry\n|+ buffer\l+ key\l+ size\l+ rc\l+ transaction_id\l+ invalidate_snapshot\l+ db_error\l+ lock\l|}" alt="" coords="178,5,327,185"/>
+</map>

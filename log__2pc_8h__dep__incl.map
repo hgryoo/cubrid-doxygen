@@ -1,0 +1,21 @@
+<map id="src/transaction/log_2pc.h" name="src/transaction/log_2pc.h">
+<area shape="rect" id="node2" href="$log__impl_8h.html" title="src/transaction/log\l_impl.h" alt="" coords="1635,95,1765,136"/>
+<area shape="rect" id="node18" href="$log__2pc_8c.html" title="src/transaction/log\l_2pc.c" alt="" coords="2443,184,2573,225"/>
+<area shape="rect" id="node19" href="$log__recovery_8c.html" title="src/transaction/log\l_recovery.c" alt="" coords="2597,184,2726,225"/>
+<area shape="rect" id="node20" href="$transaction__sr_8c.html" title="src/transaction/transaction_sr.c" alt="" coords="2596,102,2801,129"/>
+<area shape="rect" id="node3" href="$event__log_8c.html" title="src/base/event_log.c" alt="" coords="1727,191,1870,218"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="2129,273,2311,315"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html" title="src/communication/network_sr.c" alt="" coords="2209,191,2420,218"/>
+<area shape="rect" id="node6" href="$connection__sr_8c.html" title="src/connection/connection_sr.c" alt="" coords="5,191,208,218"/>
+<area shape="rect" id="node7" href="$migrate_8c.html" title="src/executables/migrate.c" alt="" coords="233,191,405,218"/>
+<area shape="rect" id="node8" href="$server_8c.html" title="src/executables/server.c" alt="" coords="429,191,595,218"/>
+<area shape="rect" id="node9" href="$unittests__snapshot_8c.html" title="src/executables/unittests\l_snapshot.c" alt="" coords="619,184,787,225"/>
+<area shape="rect" id="node10" href="$monitor__transaction_8cpp.html" title="src/monitor/monitor\l_transaction.cpp" alt="" coords="811,184,946,225"/>
+<area shape="rect" id="node11" href="$vacuum_8h.html" title="src/query/vacuum.h" alt="" coords="1997,191,2134,218"/>
+<area shape="rect" id="node12" href="$vacuum_8c.html" title="src/query/vacuum.c" alt="" coords="1766,281,1903,307"/>
+<area shape="rect" id="node13" href="$file__manager_8c.html" title="src/storage/file_manager.c" alt="" coords="1928,281,2104,307"/>
+<area shape="rect" id="node14" href="$double__write__buffer_8c.html" title="src/storage/double\l_write_buffer.c" alt="" coords="970,184,1099,225"/>
+<area shape="rect" id="node15" href="$page__buffer_8c.html" title="src/storage/page_buffer.c" alt="" coords="1124,191,1295,218"/>
+<area shape="rect" id="node16" href="$thread__entry__task_8cpp.html" title="src/thread/thread_entry\l_task.cpp" alt="" coords="1319,184,1475,225"/>
+<area shape="rect" id="node17" href="$thread__manager_8cpp.html" title="src/thread/thread_manager.cpp" alt="" coords="1500,191,1703,218"/>
+</map>

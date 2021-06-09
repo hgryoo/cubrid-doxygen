@@ -1,0 +1,5 @@
+<map id="la_arv_log" name="la_arv_log">
+<area shape="rect" id="node2" href="$structlog__page.html" title="{log_page\n|+ area\l|}" alt="" coords="26,241,101,318"/>
+<area shape="rect" id="node3" href="$structlog__hdrpage.html" title="{log_hdrpage\n|+ logical_pageid\l+ offset\l+ flags\l+ checksum\l|}" alt="" coords="5,5,121,127"/>
+<area shape="rect" id="node4" href="$structlog__arv__header.html" title="{log_arv_header\n|+ magic\l+ dummy\l+ db_creation\l+ next_trid\l+ npages\l+ fpageid\l+ arv_num\l+ dummy2\l|+ log_arv_header()\l}" alt="" coords="125,189,255,369"/>
+</map>

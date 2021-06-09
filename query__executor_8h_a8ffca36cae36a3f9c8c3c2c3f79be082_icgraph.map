@@ -1,0 +1,20 @@
+<map id="qexec_clear_xasl" name="qexec_clear_xasl">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a3015a5794486fd26f84bf04c16efaad7" title="qexec_clear_access\l_spec_list" alt="" coords="634,34,775,76"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a5b7976d30c689d5874ca294e2b1ae888" title="qexec_clear_regu_var" alt="" coords="181,311,330,338"/>
+<area shape="rect" id="node14" href="$query__executor_8h.html#a8117e936942551d7d4b2362e9638260f" title="qexec_execute_query" alt="" coords="181,735,330,762"/>
+<area shape="rect" id="node15" href="$xasl__cache_8c.html#a4d70bee71593e44f2e74272dc2695ce6" title="xcache_clone_decache" alt="" coords="176,786,335,812"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a0e54541ef8121b272ba2e5dec23e7899" title="qexec_clear_agg_orderby\l_const_list" alt="" coords="397,488,568,529"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a7c7a9097d61a6214e642758de693cf77" title="qexec_clear_analytic\l_function_list" alt="" coords="411,553,555,594"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#aa67ccf69f30a30f5bc6c9c6001f49c49" title="qexec_clear_arith_list" alt="" coords="631,424,779,451"/>
+<area shape="rect" id="node7" href="$query__executor_8h.html#a3d55661ca66de16ef8ec33dfbc13b07a" title="qexec_clear_func_pred" alt="" coords="405,143,561,170"/>
+<area shape="rect" id="node8" href="$query__executor_8h.html#a48436717e372e52de58a3d57d9649766" title="qexec_clear_partition\l_expression" alt="" coords="410,194,555,236"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#a5349c13f04c9ff5790eccaaaf3ad6f1c" title="qexec_clear_pred" alt="" coords="421,92,545,119"/>
+<area shape="rect" id="node10" href="$query__executor_8c.html#a512adbdec54fd97d07c799da4f1eb159" title="qexec_clear_regu_list" alt="" coords="409,42,557,68"/>
+<area shape="rect" id="node11" href="$query__executor_8c.html#a9f50bd2e2415b43e421b8ad18b247d28" title="qexec_clear_regu_value_list" alt="" coords="389,260,576,287"/>
+<area shape="rect" id="node12" href="$query__executor_8c.html#af070053625a521777e17dc9f6905fc1e" title="qexec_clear_regu_variable_list" alt="" coords="383,311,583,338"/>
+<area shape="rect" id="node13" href="$query__executor_8c.html#a21447d25eab375eeafd566dbca44a7fe" title="qexec_clear_update\l_assignment" alt="" coords="413,618,552,660"/>
+<area shape="rect" id="node16" href="$xasl__cache_8c.html#ae0e6ccfb52651475d53b96e7c04b02e3" title="xcache_entry_uninit" alt="" coords="413,887,552,914"/>
+<area shape="rect" id="node17" href="$xasl__cache_8h.html#a842418197de94d50f49156f0cbd62693" title="xcache_unfix" alt="" coords="433,735,532,762"/>
+<area shape="rect" id="node18" href="$xasl__cache_8c.html#aeb179da67dcc6687e23222ae6c408890" title="xcache_invalidate_entries" alt="" coords="397,786,569,812"/>
+<area shape="rect" id="node19" href="$xasl__cache_8h.html#ac6dc1de3e66ac45c874a8da614b59f57" title="xcache_retire_clone" alt="" coords="413,836,552,863"/>
+</map>

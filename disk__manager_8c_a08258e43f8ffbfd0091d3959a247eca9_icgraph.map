@@ -1,0 +1,12 @@
+<map id="disk_is_page_sector_reserved" name="disk_is_page_sector_reserved">
+<area shape="rect" id="node2" href="$btree_8h.html#a728f3aa612626ec0f9a05d51514c130e" title="btree_leaf_record_change\l_overflow_link" alt="" coords="203,57,373,98"/>
+<area shape="rect" id="node6" href="$btree_8h.html#aed08c72a5a366f8760ce9fb487885360" title="btree_rv_redo_global\l_unique_stats_commit" alt="" coords="211,122,365,163"/>
+<area shape="rect" id="node7" href="$btree_8h.html#abc33f2b519aa775877e696a0c9f3f1b0" title="btree_rv_undo_global\l_unique_stats_commit" alt="" coords="211,187,365,229"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#a1063293444bb398d29a2b95ccdcecd33" title="heap_reuse" alt="" coords="243,253,333,280"/>
+<area shape="rect" id="node9" href="$log__recovery_8c.html#a554fcd04d7ce6a4b49b5c27661c4700e" title="log_rv_redo_fix_page" alt="" coords="215,304,361,331"/>
+<area shape="rect" id="node11" href="$page__buffer_8h.html#a130532104328cc6d57cda05541d66afc" title="pgbuf_fix_if_not_deallocated\l_with_caller" alt="" coords="195,355,381,397"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#a152e2fb9000bb23ccd9be5a7c9c5bfba" title="btree_construct_leafs" alt="" coords="448,5,595,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a1cfca91bee50811416d845ebc3bac695" title="btree_key_append_object\l_as_new_overflow" alt="" coords="436,57,607,98"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a295c9ba1e4f9edc1c564c9ff5babea60" title="btree_modify_leaf_ovfl_vpid" alt="" coords="429,123,613,149"/>
+<area shape="rect" id="node10" href="$log__recovery_8c.html#a89b2faf81d863199e7bb7f69d963cbf2" title="log_recovery_redo" alt="" coords="457,304,585,331"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="hb_resource" name="hb_resource">
+<area shape="rect" id="node2" href="$structHB__PROC__ENTRY.html" title="{HB_PROC_ENTRY\n|+ state\l+ type\l+ sfd\l+ pid\l+ exec_path\l+ args\l+ frtime\l+ rtime\l+ dtime\l+ ktime\l+ stime\l+ changemode_rid\l+ changemode_gap\l+ is_curr_eof_received\l+ being_shutdown\l+ server_hang\l|}" alt="" coords="41,321,195,619"/>
+<area shape="rect" id="node3" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="5,5,111,244"/>
+<area shape="rect" id="node4" href="$structcss__conn__entry.html" title="{css_conn_entry\n|+ fd\l+ request_id\l+ status\l+ invalidate_snapshot\l+ client_id\l+ db_error\l+ in_transaction\l+ reset_on_commit\l+ file\l+ cnxn\l+ session_id\l+ transaction_id\l|}" alt="" coords="134,5,283,244"/>
+</map>

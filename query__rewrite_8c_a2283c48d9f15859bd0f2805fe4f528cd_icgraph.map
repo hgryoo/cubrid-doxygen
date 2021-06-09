@@ -1,0 +1,5 @@
+<map id="qo_reset_location" name="qo_reset_location">
+<area shape="rect" id="node2" href="$query__rewrite_8c.html#aa66b66e241c8b7cfc2befb9ca60cefb1" title="qo_rewrite_innerjoin" alt="" coords="178,5,315,32"/>
+<area shape="rect" id="node4" href="$query__rewrite_8c.html#ae9fbf22125eef6a120fc1aa857e0457b" title="qo_rewrite_outerjoin" alt="" coords="177,56,316,83"/>
+<area shape="rect" id="node3" href="$query__rewrite_8c.html#ace6201135ef7c3f735dc445859b48617" title="qo_optimize_queries" alt="" coords="364,31,505,57"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="area_alloc" name="area_alloc">
+<area shape="rect" id="node2" href="$class__object_8h.html#ac2f36b9f52f4fd5d4410b163d5c73c6e" title="classobj_make_template" alt="" coords="135,119,301,145"/>
+<area shape="rect" id="node8" href="$set__object_8h.html#a4aed11ff0955fc4fa1aefb8d8112c973" title="col_new" alt="" coords="183,181,253,208"/>
+<area shape="rect" id="node9" href="$object__template_8c.html#a0451bc34e21472dc8f9ad4b19b35f9c2" title="make_template" alt="" coords="163,232,273,259"/>
+<area shape="rect" id="node10" href="$work__space_8h.html#a5b95ad4fb99211edf89c55db0eaf43a5" title="ml_ext_add" alt="" coords="173,283,263,309"/>
+<area shape="rect" id="node13" href="$work__space_8h.html#a86ded9d6d83ba8417e8a313176f22e85" title="ml_ext_alloc_link" alt="" coords="157,333,279,360"/>
+<area shape="rect" id="node14" href="$object__template_8c.html#a5acf740c1e4b2d960f80720f0ca46798" title="obt_make_assignment" alt="" coords="141,384,295,411"/>
+<area shape="rect" id="node15" href="$object__primitive_8h.html#a23ef563d4fb6c61aa8866c6d82b63c00" title="pr_make_ext_value" alt="" coords="151,435,285,461"/>
+<area shape="rect" id="node16" href="$set__object_8h.html#a99d191c3d4bd1dfea7dd9665c9979c9a" title="set_make_reference" alt="" coords="148,485,288,512"/>
+<area shape="rect" id="node17" href="$unittests__area_8c.html#a482dc46b5571eecf187f0e9bccd8ebb0" title="test_area_proc" alt="" coords="164,536,272,563"/>
+<area shape="rect" id="node18" href="$unittests__area_8c.html#a342f8dbbac4672b5acb587b59e24a049" title="test_area_proc_1" alt="" coords="157,587,279,613"/>
+<area shape="rect" id="node19" href="$unittests__area_8c.html#a0cdfec54dfd36dbd20cd1075c8254460" title="test_area_proc_2" alt="" coords="157,637,279,664"/>
+<area shape="rect" id="node20" href="$object__domain_8h.html#a47c9a79d56e9b53e4f58bd85f9abd899" title="tp_domain_new" alt="" coords="161,688,275,715"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#ad9699f258635747b5fdec2695b3141f5" title="flatten_template" alt="" coords="363,5,478,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#aaa9c2e0d60f249e466ecde8c10a21fad" title="flatten_subclasses" alt="" coords="540,56,671,83"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="719,81,871,108"/>
+<area shape="rect" id="node6" href="$schema__template_8c.html#a4b27f355934b2e64b9d8248f095de783" title="def_class_internal" alt="" coords="357,157,484,184"/>
+<area shape="rect" id="node7" href="$schema__template_8h.html#a62c4db76db8f4b7ef56cade543d7865b" title="smt_edit_class_mop" alt="" coords="349,232,492,259"/>
+<area shape="rect" id="node11" href="$cas__execute_8c.html#a8d1e4125473165ac7455afd4fb1ca9d6" title="sch_trigger" alt="" coords="377,283,464,309"/>
+<area shape="rect" id="node12" href="$unload__schema_8c.html#a38e5979524fc917d4975785de16b7068" title="get_ordered_classes" alt="" coords="349,333,492,360"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="css_send_error_to_client" name="css_send_error_to_client">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#af154b275e38e2e151c0521f113fe7d01" title="return_error_to_client" alt="" coords="220,436,364,463"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#ae411c65a8239aaf3abb5a8524667b9db" title="net_server_request" alt="" coords="443,5,576,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#ad090c800f95bb6c185e4a1298f81ef58" title="netsr_spacedb" alt="" coords="456,56,563,83"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#adc14b38b7389296639f9b588b8652a4f" title="sacl_reload" alt="" coords="465,107,553,133"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#a8575b0aff82934213a3b31d34302153e" title="sboot_add_volume_extension" alt="" coords="412,157,607,184"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a74265f7323374cc4c532fc99a18fa443" title="sboot_backup" alt="" coords="458,208,561,235"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#ab275afe2b2e11383cae924c9b34cd50f" title="sboot_change_ha_mode" alt="" coords="428,259,591,285"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#ac943e8151ff415b7e91045217b64798a" title="sboot_check_db_consistency" alt="" coords="412,309,607,336"/>
+<area shape="rect" id="node10" href="$network__interface__sr_8h.html#a189068fac8f9243c90ffa414c66d9246" title="sboot_compact_db" alt="" coords="443,360,575,387"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#ad8e8b5ffb5b455da9162b398cb5d3de9" title="sboot_compact_start" alt="" coords="437,411,581,437"/>
+<area shape="rect" id="node12" href="$network__interface__sr_8h.html#a3c5de2885dcb3f2ef8db4694d484af15" title="sboot_compact_stop" alt="" coords="438,461,581,488"/>
+<area shape="rect" id="node13" href="$network__interface__sr_8h.html#aca4baefe4e8457d30362e53584fdcd3d" title="sboot_get_locales_info" alt="" coords="432,512,587,539"/>
+<area shape="rect" id="node14" href="$network__interface__sr_8h.html#a301582fdfaae3b760c18fc1d8a4167bc" title="sboot_get_timezone\l_checksum" alt="" coords="440,563,579,605"/>
+<area shape="rect" id="node15" href="$network__interface__sr_8h.html#a8f58e4601f71b2103020488a92ea7dda" title="sboot_heap_compact" alt="" coords="436,629,583,656"/>
+<area shape="rect" id="node16" href="$network__interface__sr_8h.html#a47ea7b1b99660de36dc085d0d263e673" title="sboot_notify_ha_log\l_applier_state" alt="" coords="440,681,579,722"/>
+<area shape="rect" id="node17" href="$network__interface__sr_8h.html#a8e37c47455fc1ef6ebc9966c51cb64e1" title="sboot_register_client" alt="" coords="438,747,581,773"/>
+<area shape="rect" id="node18" href="$network__interface__sr_8h.html#a1d5ca072aeaa5187bdd2b4ee70b77d49" title="sbtree_add_index" alt="" coords="447,797,571,824"/>
+<area shape="rect" id="node19" href="$network__interface__sr_8h.html#a0367a9b155f09f1ecab576c3ca015dc5" title="sbtree_class_test_unique" alt="" coords="424,848,595,875"/>
+<area shape="rect" id="node20" href="$network__interface__sr_8h.html#af02b45f5e139a55a8780deef4cd9fefd" title="sbtree_delete_index" alt="" coords="440,899,579,925"/>
+</map>

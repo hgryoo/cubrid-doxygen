@@ -1,0 +1,6 @@
+<map id="btree_unique_stats::delete_null_and_row" name="btree_unique_stats::delete_null_and_row">
+<area shape="rect" id="node2" href="$btree_8c.html#a2e05f06ab9c232eb06ba370bb90ef7de" title="btree_fix_root_for\l_delete" alt="" coords="201,5,324,47"/>
+<area shape="rect" id="node5" href="$btree_8c.html#afdb8b30043a26fc4ea1042eda91a2220" title="btree_fix_root_for\l_insert" alt="" coords="201,71,324,112"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a817f3908f139a51ad647ea391836b176" title="btree_delete_internal" alt="" coords="372,13,515,39"/>
+<area shape="rect" id="node4" href="$btree_8h.html#af9b91aa85529070ebd9a572128bcab4c" title="btree_online_index\l_list_dispatcher" alt="" coords="378,67,509,108"/>
+</map>

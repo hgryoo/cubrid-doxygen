@@ -1,0 +1,10 @@
+<map id="cubthread::manager::push_task" name="cubthread::manager::push_task">
+<area shape="rect" id="node2" href="$server__support_8c.html#a121a57ed7f323f07a9c2db10188742a6" title="css_internal_connection\l_handler" alt="" coords="191,35,353,76"/>
+<area shape="rect" id="node4" href="$server__support_8h.html#adc1b9bc6e1d670a3eacb31fc3c953820" title="css_push_external_task" alt="" coords="191,115,353,142"/>
+<area shape="rect" id="node8" href="$btree__load_8c.html#a72589bdf8ecdb8521c23103b862503c0" title="online_index_builder" alt="" coords="203,166,341,193"/>
+<area shape="rect" id="node9" href="$vacuum_8c.html#a25daab97104455e9fa805fc81e61e92f" title="vacuum_data_unload\l_first_and_last_page" alt="" coords="199,217,345,259"/>
+<area shape="rect" id="node3" href="$server__support_8h.html#ac4e84e9d3ebf296bc35219b41b7f4ad4" title="css_initialize_server\l_interfaces" alt="" coords="415,5,555,47"/>
+<area shape="rect" id="node5" href="$file__io_8c.html#a6e1abcb3cd753e4b49625501fe6b7fd3" title="fileio_write_backup_node" alt="" coords="401,71,569,98"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a43c3e6965dc07096503c8de506a1069f" title="log_abort_all_active\l_transaction" alt="" coords="417,123,554,164"/>
+<area shape="rect" id="node7" href="$external__sort_8c.html#acb22f46db2a4675bb23bedb6bfbd0e22" title="px_sort_assign" alt="" coords="430,189,541,215"/>
+</map>

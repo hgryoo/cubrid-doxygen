@@ -1,0 +1,9 @@
+<map id="xheap_create" name="xheap_create">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="153,17,320,44"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#af49bebf9853336fa0f303e998222457f" title="heap_create" alt="" coords="190,79,283,105"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a2c138e74e1fc630588956eb4218fab28" title="shf_create" alt="" coords="195,144,278,171"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="380,5,531,32"/>
+<area shape="rect" id="node5" href="$locator__cl_8h.html#a735917dbd677abc3245f3509f7d09568" title="locator_create_heap\l_if_needed" alt="" coords="386,57,525,98"/>
+<area shape="rect" id="node6" href="$schema__manager_8c.html#a74a7b74c0b75fb805a8392f15887cea6" title="sm_truncate_using_delete" alt="" coords="368,123,543,149"/>
+<area shape="rect" id="node8" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="402,173,509,200"/>
+</map>

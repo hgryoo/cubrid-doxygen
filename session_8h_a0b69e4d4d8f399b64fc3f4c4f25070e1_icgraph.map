@@ -1,0 +1,9 @@
+<map id="session_get_load_session" name="session_get_load_session">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#add13200b9ab3246719ffd545a1f669e2" title="sloaddb_destroy" alt="" coords="244,5,361,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a1ccc17c2b8ede3474490170c0ac13f1c" title="sloaddb_fetch_status" alt="" coords="229,56,376,83"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#aa04827e49a2d0a38359cc70bc6342566" title="sloaddb_install_class" alt="" coords="229,107,376,133"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#a235f7335bf76a11ba7474e6b316e1cb4" title="sloaddb_interrupt" alt="" coords="242,157,363,184"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a9c1e10de2f480a8803e4f8c5ec5dc178" title="sloaddb_load_batch" alt="" coords="234,208,371,235"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#aa54b57f395f97a327e8495817cb46ae9" title="sloaddb_update_stats" alt="" coords="228,259,377,285"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="425,132,532,159"/>
+</map>

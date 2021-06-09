@@ -1,0 +1,14 @@
+<map id="qstr_coerce" name="qstr_coerce">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#aae42e253fed565752be1650a9c47890b" title="db_char_string_coerce" alt="" coords="144,281,297,308"/>
+<area shape="rect" id="node3" href="$db__macro_8c.html#aaac41ec0708d386802559c899a7d90aa" title="coerce_char_to_dbvalue" alt="" coords="351,5,513,32"/>
+<area shape="rect" id="node4" href="$db__macro_8c.html#adc4955ce645cf7cf780120375444e190" title="coerce_binary_to_dbvalue" alt="" coords="345,56,519,83"/>
+<area shape="rect" id="node5" href="$db__macro_8c.html#ad9bea2655c3eaa567571103c651abd69" title="coerce_date_to_dbvalue" alt="" coords="351,107,513,133"/>
+<area shape="rect" id="node6" href="$db__macro_8c.html#a7b50b508e293f576d05ce384f8529fd8" title="coerce_time_to_dbvalue" alt="" coords="351,157,513,184"/>
+<area shape="rect" id="node7" href="$db__macro_8c.html#ac90d0d9a6d9010a1ca69d1098c73f33b" title="coerce_timestamp_to\l_dbvalue" alt="" coords="359,209,505,250"/>
+<area shape="rect" id="node8" href="$db__macro_8c.html#a50005912f93d40f89614b934c8e3ac34" title="coerce_datetime_to\l_dbvalue" alt="" coords="364,274,500,315"/>
+<area shape="rect" id="node9" href="$object__domain_8c.html#a43fd07c8dbf7ae97c0d8fc59fa482918" title="make_desired_string\l_db_value" alt="" coords="361,339,503,381"/>
+<area shape="rect" id="node10" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="567,376,719,403"/>
+<area shape="rect" id="node11" href="$object__domain_8h.html#aa669dbcd5cc79e08876051b4279deee1" title="tp_value_compare_with\l_error" alt="" coords="353,457,511,498"/>
+<area shape="rect" id="node12" href="$string__opfunc_8h.html#a807a395c4444a52498ffc96127d68436" title="db_string_concatenate" alt="" coords="355,523,509,549"/>
+<area shape="rect" id="node13" href="$string__opfunc_8h.html#ae5567b6b475c49ef1448ab2663eef094" title="db_string_convert_to" alt="" coords="361,573,503,600"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="btree_get_value_from_leaf_slot" name="btree_get_value_from_leaf_slot">
+<area shape="rect" id="node2" href="$btree__load_8c.html#a2885bca95c95b6af512a3b1f1df7712b" title="btree_advance_to_next\l_slot_and_fix_page" alt="" coords="200,5,357,47"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#a3a58f0efdf76a4d2a1e8bc8b915ed0b1" title="btree_load_check_fk" alt="" coords="405,13,548,39"/>
+</map>

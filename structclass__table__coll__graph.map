@@ -1,0 +1,7 @@
+<map id="class_table" name="class_table">
+<area shape="rect" id="node2" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="5,377,180,631"/>
+<area shape="rect" id="node3" href="$unionvid__oid.html" title="{vid_oid\n||}" alt="" coords="44,175,107,252"/>
+<area shape="rect" id="node4" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="207,5,299,112"/>
+<area shape="rect" id="node6" href="$structinstance__info.html" title="{instance_info\n|+ flags\l|}" alt="" coords="282,276,381,353"/>
+<area shape="rect" id="node5" href="$structws__value__list.html" title="{ws_value_list\n||}" alt="" coords="131,175,233,252"/>
+</map>

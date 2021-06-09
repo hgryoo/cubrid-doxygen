@@ -1,0 +1,6 @@
+<map id="scan_finalize" name="scan_finalize">
+<area shape="rect" id="node2" href="$query__manager_8h.html#a31720786b29140e72cfc7906dbf60603" title="qmgr_finalize" alt="" coords="155,5,253,32"/>
+<area shape="rect" id="node4" href="$scan__manager_8h.html#a0e500909e45936cae42c4a07ab615bb3" title="scan_initialize" alt="" coords="152,56,256,83"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="304,5,463,32"/>
+<area shape="rect" id="node5" href="$query__manager_8h.html#af4f328c92e903e58012d29296381edd5" title="qmgr_initialize" alt="" coords="331,56,436,83"/>
+</map>

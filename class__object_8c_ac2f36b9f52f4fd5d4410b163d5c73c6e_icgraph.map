@@ -1,0 +1,9 @@
+<map id="classobj_make_template" name="classobj_make_template">
+<area shape="rect" id="node2" href="$schema__template_8c.html#a4b27f355934b2e64b9d8248f095de783" title="def_class_internal" alt="" coords="228,31,355,57"/>
+<area shape="rect" id="node5" href="$schema__manager_8c.html#aaa9c2e0d60f249e466ecde8c10a21fad" title="flatten_subclasses" alt="" coords="419,132,549,159"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="605,157,757,184"/>
+<area shape="rect" id="node7" href="$schema__manager_8c.html#ad9699f258635747b5fdec2695b3141f5" title="flatten_template" alt="" coords="234,132,349,159"/>
+<area shape="rect" id="node8" href="$schema__template_8h.html#a62c4db76db8f4b7ef56cade543d7865b" title="smt_edit_class_mop" alt="" coords="220,257,363,284"/>
+<area shape="rect" id="node3" href="$schema__template_8h.html#a246ac18cf8d738fc1915d80a2b09b83c" title="smt_def_class" alt="" coords="431,5,537,32"/>
+<area shape="rect" id="node4" href="$schema__template_8h.html#aa79e34704ce26dd5104666938b386a62" title="smt_def_typed_class" alt="" coords="411,56,557,83"/>
+</map>

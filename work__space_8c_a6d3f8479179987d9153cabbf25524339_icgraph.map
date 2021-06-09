@@ -1,0 +1,10 @@
+<map id="ws_make_mop" name="ws_make_mop">
+<area shape="rect" id="node2" href="$work__space_8h.html#a7f356c42f2ee46cc4ff3f8cd9a06f0f7" title="ws_init" alt="" coords="206,56,269,83"/>
+<area shape="rect" id="node5" href="$work__space_8h.html#a193f0383c3deea8fa00d2a1a9eca5f57" title="ws_make_temp_mop" alt="" coords="164,107,311,133"/>
+<area shape="rect" id="node7" href="$work__space_8h.html#ac4849b35ba7d0928d24d1518c3ad81d5" title="ws_mop" alt="" coords="202,157,273,184"/>
+<area shape="rect" id="node8" href="$work__space_8h.html#ac4ad6f34a1b2ccf19e3b0407435159e6" title="ws_vmop" alt="" coords="389,183,467,209"/>
+<area shape="rect" id="node9" href="$work__space_8h.html#aaf1a1e5e52e1e27486cdd946870c5cbd" title="ws_new_mop" alt="" coords="186,259,289,285"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="359,5,497,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="363,56,493,83"/>
+<area shape="rect" id="node6" href="$object__template_8c.html#ad82d48a1dc3d924f74b67a85f41f9a3a" title="make_temp_object" alt="" coords="362,107,494,133"/>
+</map>

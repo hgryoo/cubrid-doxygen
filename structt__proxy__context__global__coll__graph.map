@@ -1,0 +1,7 @@
+<map id="t_proxy_context_global" name="t_proxy_context_global">
+<area shape="rect" id="node2" href="$structt__proxy__context.html" title="{t_proxy_context\n|+ cid\l+ uid\l+ is_busy\l+ is_in_tran\l+ is_prepare_for_execute\l+ free_on_end_tran\l+ free_on_client_io_write\l+ free_context\l+ is_client_in_tran\l+ is_cas_in_tran\l+ waiting_dummy_prepare\l+ dont_free_statement\l+ func_code\l+ stmt_h_id\l+ stmt_hint_type\l+ wait_timeout\l+ is_connected\l+ database_user\l+ database_passwd\l+ client_id\l+ shard_id\l+ cas_id\l+ error_ind\l+ error_code\l+ error_msg\l|}" alt="" coords="193,351,367,780"/>
+<area shape="rect" id="node3" href="$structt__context__stmt.html" title="{t_context_stmt\n|+ stmt_h_id\l|}" alt="" coords="5,108,115,185"/>
+<area shape="rect" id="node4" href="$structt__shard__stmt.html" title="{t_shard_stmt\n|+ index\l+ num_alloc\l+ stmt_h_id\l+ status\l+ stmt_type\l+ client_version\l+ ctx_cid\l+ ctx_uid\l+ database_user\l+ num_pinned\l+ request_buffer_length\l+ request_buffer\l+ reply_buffer_length\l+ reply_buffer\l+ srv_h_id_ent\l|}" alt="" coords="201,5,359,288"/>
+<area shape="rect" id="node5" href="$structt__proxy__event.html" title="{t_proxy_event\n|+ type\l+ from_cas\l+ cid\l+ uid\l+ shard_id\l+ cas_id\l|}" alt="" coords="477,71,581,222"/>
+<area shape="rect" id="node6" href="$structt__shard__cqueue.html" title="{t_shard_cqueue\n|+ size\l+ count\l+ front\l+ rear\l+ ent\l|}" alt="" coords="392,497,507,633"/>
+</map>

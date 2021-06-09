@@ -1,0 +1,9 @@
+<map id="classobj_copy_reslist" name="classobj_copy_reslist">
+<area shape="rect" id="node2" href="$class__object_8h.html#ac2f36b9f52f4fd5d4410b163d5c73c6e" title="classobj_make_template" alt="" coords="200,95,367,121"/>
+<area shape="rect" id="node8" href="$schema__manager_8c.html#a9d80422f1483e9a1c9bc346c529a29e7" title="filter_resolutions" alt="" coords="225,19,342,45"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#ad9699f258635747b5fdec2695b3141f5" title="flatten_template" alt="" coords="429,5,543,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#aaa9c2e0d60f249e466ecde8c10a21fad" title="flatten_subclasses" alt="" coords="605,56,736,83"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="784,81,936,108"/>
+<area shape="rect" id="node6" href="$schema__template_8c.html#a4b27f355934b2e64b9d8248f095de783" title="def_class_internal" alt="" coords="423,157,549,184"/>
+<area shape="rect" id="node7" href="$schema__template_8h.html#a62c4db76db8f4b7ef56cade543d7865b" title="smt_edit_class_mop" alt="" coords="415,232,557,259"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="rel_get_disk_compatible" name="rel_get_disk_compatible">
+<area shape="rect" id="node2" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="244,81,387,108"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a63a720215fa477b0b24287fe33f11464" title="logpb_find_header_parameters" alt="" coords="216,216,415,243"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#adaf3756eb46d2f608fb945c678a665c8" title="logpb_restore" alt="" coords="490,275,590,301"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a95f060b401ef97e5ff9be51b7a304a5b" title="log_initialize" alt="" coords="493,5,587,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a425ed5fad08e748df89edfd0350986f9" title="log_restart_emergency" alt="" coords="463,56,617,83"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="493,107,587,133"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a1bfabe29d0a3621d3f9d12f3e77cd3ee" title="log_get_io_page_size" alt="" coords="467,157,613,184"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#a0cb138cb6e789ecf8abb67698e42abd2" title="log_get_charset_from\l_header_page" alt="" coords="467,209,613,250"/>
+</map>

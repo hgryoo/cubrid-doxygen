@@ -1,0 +1,21 @@
+<map id="qfile_allocate_new_page_if_need" name="qfile_allocate_new_page_if_need">
+<area shape="rect" id="node2" href="$list__file_8h.html#a2005306af0ac913c31afc556976d6f5b" title="qfile_add_overflow\l_tuple_to_list" alt="" coords="193,49,323,90"/>
+<area shape="rect" id="node5" href="$list__file_8h.html#a88701afa7143306fcc56a84af346b37d" title="qfile_add_tuple_get\l_pos_in_list" alt="" coords="191,581,325,622"/>
+<area shape="rect" id="node6" href="$list__file_8h.html#a1e2a42b61030009d8c1e0a978ef043db" title="qfile_add_tuple_to_list" alt="" coords="183,296,333,323"/>
+<area shape="rect" id="node15" href="$list__file_8h.html#a7367427e8def1151f9a947ca981eab03" title="qfile_fast_intint_tuple\l_to_list" alt="" coords="185,515,331,557"/>
+<area shape="rect" id="node16" href="$list__file_8h.html#a79b427702c441e92eac44f705adaa4c4" title="qfile_fast_intval_tuple\l_to_list" alt="" coords="184,450,332,491"/>
+<area shape="rect" id="node17" href="$list__file_8h.html#a0beac1181962d1d3f8f62564fc787f53" title="qfile_fast_val_tuple\l_to_list" alt="" coords="191,662,325,703"/>
+<area shape="rect" id="node19" href="$list__file_8h.html#ab25660ebc30a310c22427b3c20172f00" title="qfile_generate_tuple\l_into_list" alt="" coords="189,377,327,418"/>
+<area shape="rect" id="node3" href="$list__file_8c.html#a087deaf4ae4f9a4db0ce90622930f11f" title="qfile_put_next_sort_item" alt="" coords="393,56,557,83"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a88c76f42fcdb0493ad08df615f85f379" title="qexec_ordby_put_next" alt="" coords="398,5,551,32"/>
+<area shape="rect" id="node7" href="$list__file_8h.html#a0468a848ae71131079666568ff72673d" title="qfile_add_item_to_list" alt="" coords="401,355,549,381"/>
+<area shape="rect" id="node8" href="$query__aggregate_8hpp.html#a180603e6448ef4e047a26eff860f1e32" title="qdata_save_agg_hentry\l_to_list" alt="" coords="395,406,555,447"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#ab586cfb0848f940d47ca7f4c2fbb8708" title="qexec_end_one_iteration" alt="" coords="616,531,783,557"/>
+<area shape="rect" id="node10" href="$query__executor_8c.html#a47f3dd4a66025366a5dafd7a452ab7b2" title="qexec_merge_tuple_add_list" alt="" coords="381,472,568,499"/>
+<area shape="rect" id="node11" href="$query__executor_8c.html#a124dfc1f7fe85f3de4683346c32e666b" title="qexec_end_buildvalueblock\l_iterations" alt="" coords="384,158,565,199"/>
+<area shape="rect" id="node12" href="$query__executor_8h.html#a2be66313ab0041341af58712bbfd2aad" title="qexec_insert_tuple\l_into_list" alt="" coords="409,223,540,265"/>
+<area shape="rect" id="node13" href="$query__executor_8c.html#ace4cbe7f3418a09d43ee9ad479be8e06" title="qexec_gby_finalize\l_group" alt="" coords="408,289,541,330"/>
+<area shape="rect" id="node14" href="$query__executor_8c.html#a6394d4bb03d48d1a78d2d365c297a7ab" title="qexec_analytic_finalize\l_group" alt="" coords="396,641,553,682"/>
+<area shape="rect" id="node18" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="400,707,549,733"/>
+<area shape="rect" id="node20" href="$query__executor_8c.html#ace94f31b6618ddcdf735e6e3c126542d" title="qexec_topn_tuples_to\l_list_id" alt="" coords="400,523,549,565"/>
+</map>

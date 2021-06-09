@@ -1,0 +1,10 @@
+<map id="or_unpack_log_lsa" name="or_unpack_log_lsa">
+<area shape="rect" id="node2" href="$master__heartbeat_8h.html#aa878758626a36f3cabda7f3036ae0858" title="hb_resource_receive\l_get_eof" alt="" coords="195,5,338,47"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#aaca8893d9e49a434c30d5a8585e66633" title="repl_log_get_append_lsa" alt="" coords="184,71,349,98"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#a36e15cbbb034ffbb05d07593bab9b9c5" title="tran_server_2pc_prepare\l_global_tran" alt="" coords="184,123,349,164"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#abcd0fd9e317b8da72cdc7f5613a3ed24" title="tran_server_partial\l_abort" alt="" coords="202,188,331,229"/>
+<area shape="rect" id="node9" href="$network__interface__cl_8h.html#a012d03ddeae8ee4eec86dba52aa7895f" title="tran_server_savepoint" alt="" coords="191,254,342,281"/>
+<area shape="rect" id="node3" href="$master__request_8c.html#abb95f071d1dd6ed28c991bb1e12edc6c" title="css_process_get_eof" alt="" coords="420,13,567,39"/>
+<area shape="rect" id="node5" href="$locator__cl_8h.html#a268d3bb53130ef323f33ce587239dd47" title="locator_get_append_lsa" alt="" coords="414,71,573,98"/>
+<area shape="rect" id="node7" href="$transaction__cl_8h.html#a351fb6b676910a2ef50a2bf03980e724" title="tran_2pc_prepare_global_tran" alt="" coords="397,130,589,157"/>
+</map>

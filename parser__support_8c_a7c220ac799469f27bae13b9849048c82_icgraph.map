@@ -1,0 +1,9 @@
+<map id="pt_find_spec_in_statement" name="pt_find_spec_in_statement">
+<area shape="rect" id="node2" href="$parser__support_8c.html#a11a48180700cb2cf9d0c0e21ae47c17c" title="pt_mark_spec_list_for\l_delete" alt="" coords="255,50,405,91"/>
+<area shape="rect" id="node6" href="$parser__support_8c.html#a5fe601ad6a8df13dea317be5ee23af43" title="pt_mark_spec_list_for\l_update" alt="" coords="255,115,405,157"/>
+<area shape="rect" id="node7" href="$semantic__check_8c.html#a8ace6e3dcf7c5b1840dc5f4df6fed4b7" title="pt_semantic_check_local" alt="" coords="245,181,415,208"/>
+<area shape="rect" id="node8" href="$execute__statement_8c.html#a2c2524c97da8593dcdf5601b362e6d6a" title="update_check_for_constraints" alt="" coords="232,232,428,259"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#a88972d58fe2c28c819d740d227f80633" title="mq_translate_delete" alt="" coords="477,5,615,32"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#a71b8a2bd2bc9c02cc39058ce5ed1e034" title="mq_translate_merge" alt="" coords="476,123,616,149"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#a2371a50a9f8ef998a9d23cd351908668" title="mq_rewrite_upd_del\l_top_level_specs" alt="" coords="477,57,615,98"/>
+</map>

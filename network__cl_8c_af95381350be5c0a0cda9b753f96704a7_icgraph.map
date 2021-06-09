@@ -1,0 +1,5 @@
+<map id="net_client_ping_server" name="net_client_ping_server">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a4fd7695c987a26d2fc1fa8adfdb86174" title="db_ping_server" alt="" coords="205,31,316,57"/>
+<area shape="rect" id="node3" href="$cas__execute_8h.html#af498365c52c4e567a40298d32c265d73" title="ux_check_connection" alt="" coords="368,5,516,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#af6a61a71316f5835642b6c103e9eba30" title="la_check_time_commit" alt="" coords="364,56,520,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="fileio_make_dwb_name" name="fileio_make_dwb_name">
+<area shape="rect" id="node2" href="$double__write__buffer_8h.html#acba78f5f185d579f9bc108af1713519c" title="dwb_create" alt="" coords="215,63,304,90"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="364,5,519,47"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a45020463486a6bde25e2428528cb5654" title="logpb_delete" alt="" coords="212,114,307,141"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="358,71,525,98"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="355,122,528,149"/>
+</map>

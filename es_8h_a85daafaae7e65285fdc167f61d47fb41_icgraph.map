@@ -1,0 +1,8 @@
+<map id="es_delete_file" name="es_delete_file">
+<area shape="rect" id="node2" href="$elo_8h.html#af406eb24867177d9a708ef216ed2221b" title="elo_copy" alt="" coords="191,5,266,32"/>
+<area shape="rect" id="node4" href="$elo_8h.html#a0249443f6e32df5b6e29768e6ca534c2" title="elo_delete" alt="" coords="188,56,269,83"/>
+<area shape="rect" id="node6" href="$transaction__transient_8hpp.html#a4b245c24099b14761db5dc475bc45754" title="tx_lob_locator_clear" alt="" coords="159,107,298,133"/>
+<area shape="rect" id="node7" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="156,158,301,199"/>
+<area shape="rect" id="node3" href="$db__elo_8h.html#a8e99d641ceebd68c13a27a5ae1d2fab6" title="db_elo_copy" alt="" coords="353,5,448,32"/>
+<area shape="rect" id="node5" href="$db__elo_8h.html#ab80e8a23858f216ae5b10d86f6145db1" title="db_elo_delete" alt="" coords="349,56,452,83"/>
+</map>

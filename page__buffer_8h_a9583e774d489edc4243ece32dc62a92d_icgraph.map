@@ -1,0 +1,8 @@
+<map id="pgbuf_adjust_quotas" name="pgbuf_adjust_quotas">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#a7ddee48663b8b2801c073e9ecf87f041" title="pgbuf_assign_private_lru" alt="" coords="198,31,365,57"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a06d2b0cbf44eb89ea6c4c9f068cf4344" title="pgbuf_get_page_flush\l_interval" alt="" coords="207,82,356,123"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#a5ee1208a8c23e2a5b9d3ed7ab72a4b62" title="pgbuf_release_private_lru" alt="" coords="196,148,367,175"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a36fb5103effdeb06fe620798b36af461" title="vacuum_initialize" alt="" coords="427,5,549,32"/>
+<area shape="rect" id="node4" href="$session_8h.html#aee058bef79cef1a5ff0ae8033b1afb6c" title="session_state_create" alt="" coords="415,56,561,83"/>
+<area shape="rect" id="node7" href="$session_8c.html#a2b7195f4d807a71e7290871accba1d81" title="session_state_uninit" alt="" coords="417,148,559,175"/>
+</map>

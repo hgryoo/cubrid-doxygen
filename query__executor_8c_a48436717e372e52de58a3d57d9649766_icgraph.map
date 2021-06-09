@@ -1,0 +1,5 @@
+<map id="qexec_clear_partition_expression" name="qexec_clear_partition_expression">
+<area shape="rect" id="node2" href="$partition_8c.html#acbfd434c339aefb616078bd81774e316" title="partition_free_partition\l_predicate" alt="" coords="199,35,349,76"/>
+<area shape="rect" id="node3" href="$partition__sr_8h.html#af9a2feea32c0c4aa004f290e6bec8429" title="partition_clear_pruning\l_context" alt="" coords="397,5,549,47"/>
+<area shape="rect" id="node4" href="$partition__sr_8h.html#aef1b14c7f20079f1a0ef94745945d48c" title="partition_load_pruning\l_context" alt="" coords="597,35,745,76"/>
+</map>

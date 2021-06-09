@@ -1,0 +1,8 @@
+<map id="css_send_message_to_server" name="css_send_message_to_server">
+<area shape="rect" id="node2" href="$master__request_8h.html#ab95d8911016491f0d16851a64872cf3c" title="css_process_start_shutdown" alt="" coords="209,143,401,170"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#a5f2175a5aefc9e676a17637455fe954f" title="hb_resource_job_proc\l_dereg" alt="" coords="471,5,621,47"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#a9e0780a83756c551c236c35c3f952d5c" title="hb_resource_demote\l_start_shutdown_server_proc" alt="" coords="449,71,643,112"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#a3bd01ef49dee67a8425d1ae841811fbf" title="hb_resource_shutdown\l_all_ha_procs" alt="" coords="468,136,624,177"/>
+<area shape="rect" id="node6" href="$master__request_8c.html#a2ff0bb854e6255ac70a1daf82ea2eb47" title="css_process_kill_slave" alt="" coords="467,202,625,229"/>
+<area shape="rect" id="node7" href="$master__request_8c.html#a1802a977cdcc0909e87c62a907681c86" title="css_process_shutdown" alt="" coords="467,253,625,279"/>
+</map>

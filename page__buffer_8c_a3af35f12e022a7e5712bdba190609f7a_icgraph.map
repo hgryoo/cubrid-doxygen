@@ -1,0 +1,11 @@
+<map id="pgbuf_get_shared_lru_index_for_add" name="pgbuf_get_shared_lru_index_for_add">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a76e301b78b2f0d65de56d7b2f57106e0" title="pgbuf_lru_move_from\l_private_to_shared" alt="" coords="230,5,377,47"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a8c129e83675a9f0d02325c18ca54f52f" title="pgbuf_move_bcb_to_bottom_lru" alt="" coords="200,71,407,98"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a90501157aa646894800f4a2ee370ca93" title="pgbuf_put_bcb_into\l_invalid_list" alt="" coords="236,188,371,229"/>
+<area shape="rect" id="node10" href="$page__buffer_8c.html#af1d28b14d0180489e3ec532a4dbf54d6" title="pgbuf_unlatch_void\l_zone_bcb" alt="" coords="236,123,371,164"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="455,64,621,105"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="683,162,800,189"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#a702a8aa6d5d50661354c9f98e270e1d1" title="pgbuf_delete_from_hash\l_chain" alt="" coords="456,239,620,280"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#a32645b0c2aace57799af8b647423a493" title="pgbuf_invalidate_bcb" alt="" coords="669,275,813,302"/>
+<area shape="rect" id="node9" href="$page__buffer_8c.html#a8cbce269e04ed30279485fc77e786430" title="pgbuf_claim_bcb_for_fix" alt="" coords="457,187,619,214"/>
+</map>

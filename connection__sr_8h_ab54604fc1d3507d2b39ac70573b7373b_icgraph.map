@@ -1,0 +1,21 @@
+<map id="css_send_abort_request" name="css_send_abort_request">
+<area shape="rect" id="node2" href="$server__support_8h.html#adaee10d524d25661f1d88e90898edeec" title="css_send_abort_to_client" alt="" coords="217,477,388,504"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8h.html#ad65187f377a0026c2af8227b77aeb9dc" title="slocator_repl_force" alt="" coords="465,5,597,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a39438f04ddf6b4a0273eefef2bf2942a" title="slocator_force" alt="" coords="479,56,583,83"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#ab576a5707796c76521eed6869bb2dd65" title="slocator_fetch_lockset" alt="" coords="454,107,607,133"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#ae7ad79c87b91d71cf585e3b12981fc6f" title="slogpb_dump_stat" alt="" coords="467,157,595,184"/>
+<area shape="rect" id="node7" href="$network__interface__sr_8h.html#a7f881dbe1310e4ab1b96c954a38d81d6" title="sacl_dump" alt="" coords="488,208,573,235"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#a01dddcf63f62b4d2f38ed262abf8ea85" title="slock_dump" alt="" coords="485,259,577,285"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#a5304145fa3a3f83ce97e20910548ced9" title="stran_server_set_global\l_tran_info" alt="" coords="451,310,611,351"/>
+<area shape="rect" id="node10" href="$network__interface__sr_8h.html#aee10228c6ddae81d012de566ed302a82" title="stran_server_get_global\l_tran_info" alt="" coords="451,375,611,417"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#aea3182b75093cfb7cb8cfdce3deecd6c" title="stran_server_2pc_recovery\l_prepared" alt="" coords="441,441,620,482"/>
+<area shape="rect" id="node12" href="$network__interface__sr_8h.html#a696506d9e58f3f6150d81800833ae1ae" title="sboot_initialize_server" alt="" coords="455,507,606,533"/>
+<area shape="rect" id="node13" href="$network__interface__sr_8h.html#ac4bf784bf4adda8039932fc590f97ae6" title="sbtree_load_index" alt="" coords="467,557,594,584"/>
+<area shape="rect" id="node14" href="$network__interface__sr_8h.html#aef6990715a35a132bcad8c9a492aeae5" title="sqmgr_prepare_query" alt="" coords="457,608,604,635"/>
+<area shape="rect" id="node15" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="455,659,606,685"/>
+<area shape="rect" id="node16" href="$network__interface__sr_8h.html#abe5a5fb9e7d4da29e0db82283a10503e" title="sqmgr_prepare_and_execute\l_query" alt="" coords="436,710,625,751"/>
+<area shape="rect" id="node17" href="$network__interface__sr_8h.html#a0c6ba99691a0e77630df660530c42cf4" title="sqmgr_dump_query_plans" alt="" coords="443,776,618,803"/>
+<area shape="rect" id="node18" href="$network__interface__sr_8h.html#a664a9115cd98454c3395d8bf958ba688" title="sqmgr_dump_query_cache" alt="" coords="441,827,620,853"/>
+<area shape="rect" id="node19" href="$network__interface__sr_8h.html#ac9811e7409f7f54a1e425de795dacee7" title="smnt_server_copy_stats" alt="" coords="448,877,613,904"/>
+<area shape="rect" id="node20" href="$network__interface__sr_8h.html#a0ecddb0590c2feac8457be434a4bf1ca" title="smnt_server_copy_global\l_stats" alt="" coords="445,929,616,970"/>
+</map>

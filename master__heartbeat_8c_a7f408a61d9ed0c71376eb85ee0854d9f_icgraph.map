@@ -1,0 +1,6 @@
+<map id="hb_cluster_is_isolated" name="hb_cluster_is_isolated">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#a25da7a907be3816238efd8bd202fd0ee" title="hb_cluster_job_calc\l_score" alt="" coords="211,5,349,47"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#ad68d54da58f2dcd82f1366c620ea21ae" title="hb_cluster_job_check\l_valid_ping_server" alt="" coords="206,71,354,112"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8h.html#a44a4edf9a0f88b060a5c9496cb110683" title="hb_get_ping_host_info\l_string" alt="" coords="204,136,356,177"/>
+<area shape="rect" id="node5" href="$master__request_8c.html#a0089eb50c64c93955163bfb60945999f" title="css_process_ha_ping\l_host_info" alt="" coords="404,136,552,177"/>
+</map>

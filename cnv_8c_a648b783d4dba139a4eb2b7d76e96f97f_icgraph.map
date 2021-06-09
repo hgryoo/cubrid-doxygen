@@ -1,0 +1,6 @@
+<map id="bfmt_print" name="bfmt_print">
+<area shape="rect" id="node2" href="$cnv_8h.html#aac5a6e961b3837bf3cd34ac3925ab08d" title="db_bit_string" alt="" coords="133,80,229,107"/>
+<area shape="rect" id="node3" href="$cnv_8h.html#a773963dd7108265a483a0030115d9bd9" title="db_string_value" alt="" coords="284,29,397,56"/>
+<area shape="rect" id="node4" href="$csql__result__format_8c.html#a5f8b2d2b686f83980b0d3b06c8c0d783" title="bit_to_string" alt="" coords="294,80,387,107"/>
+<area shape="rect" id="node5" href="$parser_8h.html#a97db81cc090f8335071ae769f1412574" title="pt_dbval_to_value" alt="" coords="277,131,404,157"/>
+</map>

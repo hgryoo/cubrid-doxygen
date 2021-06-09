@@ -1,0 +1,9 @@
+<map id="stx_build_list_id" name="stx_build_list_id">
+<area shape="rect" id="node2" href="$stream__to__xasl_8c.html#a21224ee564ac39d0b2a186925eb463dd" title="stx_restore_list_id" alt="" coords="168,110,296,137"/>
+<area shape="rect" id="node3" href="$stream__to__xasl_8c.html#afa525649c2f8b18da865b325b5098f31" title="stx_build_xasl_node" alt="" coords="565,34,705,61"/>
+<area shape="rect" id="node4" href="$stream__to__xasl_8c.html#ab1ae88c5629ceb75c59b0ec7cff04e20" title="stx_build_buildlist_proc" alt="" coords="352,34,509,61"/>
+<area shape="rect" id="node5" href="$stream__to__xasl_8c.html#a4d644201353ef09fb3e56c4dd8009273" title="stx_build_aggregate_type" alt="" coords="345,85,516,111"/>
+<area shape="rect" id="node6" href="$stream__to__xasl_8c.html#a66fd6968423474fa117a19c6c187649c" title="stx_build_analytic_type" alt="" coords="351,135,510,162"/>
+<area shape="rect" id="node7" href="$stream__to__xasl_8c.html#a9de4b3c49af41a49da79412dba2bcc32" title="stx_build_srlist_id" alt="" coords="367,186,494,213"/>
+<area shape="rect" id="node8" href="$stream__to__xasl_8c.html#af522886337ec4decc8370f4f0564b255" title="stx_build_connectby_proc" alt="" coords="344,237,517,263"/>
+</map>

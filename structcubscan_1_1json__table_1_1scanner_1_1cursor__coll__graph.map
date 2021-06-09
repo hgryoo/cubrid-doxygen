@@ -1,0 +1,6 @@
+<map id="cubscan::json_table::scanner::cursor" name="cubscan::json_table::scanner::cursor">
+<area shape="rect" id="node2" href="$structcubxasl_1_1json__table_1_1node.html" title="{cubxasl::json_table\l::node\n|+ m_path\l+ m_ordinality\l+ m_output_columns_size\l+ m_nested_nodes_size\l+ m_id\l+ m_is_iterable_node\l|+ node()\l+ init()\l+ clear_columns()\l+ clear_iterators()\l+ clear_xasl()\l+ init_iterator()\l+ init_ordinality()\l}" alt="" coords="92,461,267,715"/>
+<area shape="rect" id="node3" href="$classJSON__ITERATOR.html" title="{JSON_ITERATOR\n||+ JSON_ITERATOR()\l+ ~JSON_ITERATOR()\l+ next()\l+ has_next()\l+ get()\l+ set()\l+ get_value_to_doc()\l+ reset()\l+ is_empty()\l+ clear_content()\l}" alt="" coords="81,175,243,384"/>
+<area shape="rect" id="node4" href="$classJSON__DOC.html" title="{JSON_DOC\n|&#45; MAX_CHUNK_SIZE\l|+ IsLeaf()\l}" alt="" coords="7,5,159,83"/>
+<area shape="rect" id="node5" href="$structcubxasl_1_1json__table_1_1column.html" title="{cubxasl::json_table\l::column\n|+ m_path\l+ m_column_name\l+ m_function\l|+ column()\l+ init()\l+ evaluate()\l+ clear_xasl()\l&#45; evaluate_extract()\l&#45; evaluate_exists()\l&#45; evaluate_ordinality()\l&#45; trigger_on_error()\l&#45; trigger_on_empty()\l}" alt="" coords="267,160,414,399"/>
+</map>

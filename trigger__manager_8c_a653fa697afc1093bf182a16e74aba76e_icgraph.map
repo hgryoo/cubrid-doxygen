@@ -1,0 +1,6 @@
+<map id="its_deleted" name="its_deleted">
+<area shape="rect" id="node2" href="$trigger__manager_8h.html#af5246583905394c9c1a2e8de59dd0735" title="tr_execute_deferred\l_activities" alt="" coords="139,64,276,105"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#af63384eb2a153421670765ec97a16a55" title="db_execute_deferred\l_activities" alt="" coords="339,5,481,47"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#a41d04a7d0b17de73944be50c74e07715" title="tr_check_commit_triggers" alt="" coords="324,71,496,98"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#abab83460820e08fd46668a24486e06a4" title="do_execute_trigger" alt="" coords="344,122,476,149"/>
+</map>

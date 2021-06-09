@@ -1,0 +1,9 @@
+<map id="locator_reserve_class_names" name="locator_reserve_class_names">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a93c7945f42b42b68c8bf8e59b4f73136" title="acquire_locks_for_multiple\l_rename" alt="" coords="209,19,385,61"/>
+<area shape="rect" id="node4" href="$locator__cl_8h.html#a9fdd1675996de2396c0e1be631c62320" title="locator_reserve_class_name" alt="" coords="203,107,391,133"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a105be134bc38bc82f9ce620f2186269f" title="do_rename" alt="" coords="460,5,547,32"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#ac9f92fa6a5c28a01e0bdb4f8c4b0ec95" title="db_create_class" alt="" coords="445,56,562,83"/>
+<area shape="rect" id="node6" href="$db__temp_8c.html#a555a16efc6790eec2c32519266292eca" title="dbt_reserve_name" alt="" coords="439,107,568,133"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#aae39b1feccfef8822105fb8e91a66307" title="db_create_vclass" alt="" coords="441,157,565,184"/>
+<area shape="rect" id="node8" href="$locator__cl_8h.html#a913d82589353ffbe520b7c01f8665cf0" title="locator_add_root" alt="" coords="444,208,563,235"/>
+</map>

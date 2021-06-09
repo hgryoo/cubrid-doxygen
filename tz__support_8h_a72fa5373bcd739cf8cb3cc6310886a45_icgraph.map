@@ -1,0 +1,15 @@
+<map id="tz_load" name="tz_load">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="128,56,257,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="125,157,260,184"/>
+<area shape="rect" id="node6" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="329,107,445,133"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="322,283,453,325"/>
+<area shape="rect" id="node10" href="$utility_8h.html#a782e5c7e88490d6faaf37d0c32511675" title="createdb" alt="" coords="157,259,229,285"/>
+<area shape="rect" id="node11" href="$utility_8h.html#aa6af9cd5dcec4fa5c2c592e199958744" title="dump_tz" alt="" coords="157,309,229,336"/>
+<area shape="rect" id="node12" href="$system__parameter_8c.html#aeb766c3f75b6f9f14c54acc8fa40bab3" title="prm_load_by_section" alt="" coords="120,360,265,387"/>
+<area shape="rect" id="node14" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="117,411,268,437"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a77bd95c7f71d0f419d0f69a3090c4836" title="conn_restart_client" alt="" coords="321,5,453,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a4f475937ff6abf40ab472a149d37ae11" title="db_restart" alt="" coords="347,56,427,83"/>
+<area shape="rect" id="node8" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="316,157,459,184"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="343,232,432,259"/>
+<area shape="rect" id="node13" href="$system__parameter_8c.html#aef60e7f0f0cc8041a2886d5d164b3052" title="prm_read_and_parse\l_ini_file" alt="" coords="316,353,459,394"/>
+</map>

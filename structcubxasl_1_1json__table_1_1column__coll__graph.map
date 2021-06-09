@@ -1,0 +1,5 @@
+<map id="cubxasl::json_table::column" name="cubxasl::json_table::column">
+<area shape="rect" id="node2" href="$structjson__table__column__behavior.html" title="{json_table_column_behavior\n|+ m_behavior\l|}" alt="" coords="196,219,383,296"/>
+<area shape="rect" id="node3" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="50,5,148,83"/>
+<area shape="rect" id="node4" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="407,145,540,369"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="locator_decide_operation_type" name="locator_decide_operation_type">
+<area shape="rect" id="node2" href="$locator__sr_8c.html#ae0b773e954c8caecf01501e44a90269f" title="xlocator_does_exist" alt="" coords="404,31,543,57"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#afb8c6532efffe86e1fa32584e00f193d" title="xlocator_fetch" alt="" coords="252,56,356,83"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#abb3a7e6b58382f05d6e8ea014efe85ca" title="locator_does_exist" alt="" coords="595,5,725,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a79186ccdff23a4e8f11acc361e525f86" title="slocator_does_exist" alt="" coords="591,56,729,83"/>
+</map>

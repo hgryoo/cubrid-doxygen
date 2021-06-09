@@ -1,0 +1,6 @@
+<map id="pt_get_one_tuple_from_list_id" name="pt_get_one_tuple_from_list_id">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#acbd760c1942dbf1e164bde9ee1c473c9" title="do_execute_select" alt="" coords="226,5,357,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8c.html#a3253881929bb3083cba7e2825304d246" title="do_select_internal" alt="" coords="228,56,355,83"/>
+<area shape="rect" id="node5" href="$parse__evaluate_8c.html#a8c4be930836f528e1f5dea8ef14f7767" title="pt_evaluate_tree_internal" alt="" coords="208,107,375,133"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="423,5,577,32"/>
+</map>

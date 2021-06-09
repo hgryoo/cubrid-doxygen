@@ -1,0 +1,9 @@
+<map id="css_master_cleanup" name="css_master_cleanup">
+<area shape="rect" id="node2" href="$master_8c.html#a2212a475aa3a9a6425fcf95959c320e3" title="css_master_init" alt="" coords="222,5,337,32"/>
+<area shape="rect" id="node3" href="$master_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="461,31,511,57"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#afce580b3d40ad7b45dfa5b528539c393" title="hb_resource_job_demote\l_confirm_shutdown" alt="" coords="196,107,363,149"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#a100d19eab669365452290daddae38273" title="hb_resource_job_demote\l_start_shutdown" alt="" coords="196,173,363,214"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8c.html#a55b1494e27be31b12f76a26f5776b2df" title="hb_resource_job_proc\l_start" alt="" coords="205,238,354,279"/>
+<area shape="rect" id="node7" href="$master__heartbeat_8h.html#ab3345237d28e9527feaa7fe6b6c0e1cd" title="hb_start_util_process" alt="" coords="206,304,353,331"/>
+<area shape="rect" id="node8" href="$master__request_8c.html#a86d70040f9f7b29354224022c47a44ef" title="css_process_ha_start\l_util_process" alt="" coords="411,297,561,338"/>
+</map>

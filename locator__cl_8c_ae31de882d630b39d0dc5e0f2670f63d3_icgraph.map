@@ -1,0 +1,21 @@
+<map id="locator_lock" name="locator_lock">
+<area shape="rect" id="node2" href="$locator__cl_8h.html#a162cc8c5c073ef8db7db3d789a6a447b" title="locator_add_class" alt="" coords="179,173,306,200"/>
+<area shape="rect" id="node4" href="$locator__cl_8h.html#a43345128717d8aad9ff84393a6bfd367" title="locator_fetch_class" alt="" coords="175,391,310,417"/>
+<area shape="rect" id="node15" href="$locator__cl_8h.html#ad48df9b93687b92ebd22902a680b9409" title="locator_fetch_instance" alt="" coords="409,623,562,649"/>
+<area shape="rect" id="node16" href="$locator__cl_8h.html#a3f8277df885969c594d6529043245e1a" title="locator_fetch_object" alt="" coords="173,572,312,599"/>
+<area shape="rect" id="node17" href="$locator__cl_8c.html#ab9fb1f62ff38efae9c657efd41a2e342" title="locator_find_class\l_by_name" alt="" coords="422,674,549,715"/>
+<area shape="rect" id="node18" href="$locator__cl_8c.html#acf82bc0f3d4f11a20f464775863f4be1" title="locator_find_class\l_by_oid" alt="" coords="179,674,306,715"/>
+<area shape="rect" id="node19" href="$locator__cl_8h.html#a807841a659df9ea7613f212dca2e61d2" title="locator_get_cache_coherency\l_number" alt="" coords="145,739,340,781"/>
+<area shape="rect" id="node20" href="$locator__cl_8c.html#ae2d2ef0074e3218a23790885d5db5d0c" title="locator_lock_set" alt="" coords="184,805,301,832"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#af5d108d7bc0dbdecea7edd27580dbfe0" title="update_class" alt="" coords="436,5,535,32"/>
+<area shape="rect" id="node5" href="$checksumdb_8c.html#afe70c040b8b7d07321e72445770b3f39" title="chksum_start" alt="" coords="631,191,732,217"/>
+<area shape="rect" id="node6" href="$compactdb__cl_8c.html#a3c96cc7b752912d6205b04479c0e0289" title="do_reclaim_class_addresses" alt="" coords="390,107,581,133"/>
+<area shape="rect" id="node7" href="$compactdb__cl_8c.html#a2b986f7fe0b7b678127c741d56742ae5" title="class_referenced_by\l_class" alt="" coords="414,158,557,199"/>
+<area shape="rect" id="node8" href="$unload__object_8c.html#aa226f526afebfa0453ddff08a5b7ca61" title="process_value" alt="" coords="432,224,539,251"/>
+<area shape="rect" id="node9" href="$authenticate_8c.html#a36a9f9bf7e05bbf33f03c101747cc11c" title="fetch_class" alt="" coords="441,275,530,301"/>
+<area shape="rect" id="node10" href="$schema__manager_8h.html#a7d9cb89e5aa2c0c341884d4a83c1f0bb" title="sm_get_class_repid" alt="" coords="416,325,555,352"/>
+<area shape="rect" id="node11" href="$schema__manager_8h.html#afb4efe77481bada99d304564e7e3c5ec" title="sm_decache_instances\l_after_query_executed\l_with_commit" alt="" coords="406,376,565,432"/>
+<area shape="rect" id="node12" href="$schema__manager_8c.html#a7b2781b2d83ca48f5934e71d84a832b5" title="sm_flush_and_decache\l_objects_internal" alt="" coords="406,455,565,497"/>
+<area shape="rect" id="node13" href="$schema__template_8h.html#a93573b56585aa364a9823afddf213204" title="smt_change_query_spec" alt="" coords="402,521,569,548"/>
+<area shape="rect" id="node14" href="$xasl__generation_8c.html#a633985da683c0c13a7d4ed534d91f521" title="pt_make_class_access_spec" alt="" coords="388,572,583,599"/>
+</map>

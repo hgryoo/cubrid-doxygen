@@ -1,0 +1,8 @@
+<map id="prior_lsa_next_record_with_lock" name="prior_lsa_next_record_with_lock">
+<area shape="rect" id="node2" href="$log__manager_8c.html#a6afac2f490b2d4593d74b1c3a634b729" title="log_append_donetime\l_internal" alt="" coords="200,57,348,98"/>
+<area shape="rect" id="node6" href="$log__manager_8c.html#abf1cc4e746e0b5939da9868aec3613da" title="log_append_repl_info\l_internal" alt="" coords="202,122,346,163"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="213,188,335,215"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#aba63cb46c8cb6b70f5cd09b2349d740e" title="log_append_commit_log" alt="" coords="396,5,559,32"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#a6e4e93a7ea3dfe9cd5d4771c76d107e0" title="log_append_commit_log\l_with_lock" alt="" coords="396,57,559,98"/>
+<area shape="rect" id="node5" href="$log__manager_8c.html#ad648d8d9254d7b13e3b7b1438ad4f8a7" title="log_append_abort_log" alt="" coords="403,123,551,149"/>
+</map>

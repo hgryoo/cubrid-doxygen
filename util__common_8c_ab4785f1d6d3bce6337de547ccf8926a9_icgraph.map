@@ -1,0 +1,12 @@
+<map id="util_is_localhost" name="util_is_localhost">
+<area shape="rect" id="node2" href="$util__sa_8c.html#a0548be3e73416ec89c3b22003ec4ca05" title="check_ha_db_and_node_list" alt="" coords="168,5,355,32"/>
+<area shape="rect" id="node4" href="$util__service_8c.html#a9c569ca1f115a6f4ed685d0584f031ff" title="us_hb_applylogdb_start" alt="" coords="182,208,341,235"/>
+<area shape="rect" id="node5" href="$util__service_8c.html#a50f6edf3b6ca9d910887a4d44c2ffbf2" title="us_hb_applylogdb_stop" alt="" coords="411,157,570,184"/>
+<area shape="rect" id="node9" href="$util__service_8c.html#ad38e2e7d29bbafe8dc0a9909fac9470c" title="us_hb_copylogdb_start" alt="" coords="183,157,339,184"/>
+<area shape="rect" id="node11" href="$util__service_8c.html#a9aac5bc9dfd4b2c0f3014d56eae912e1" title="us_hb_copylogdb_stop" alt="" coords="184,56,339,83"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a10b60f770d6126b9bb769fac421fcd2d" title="restoreslave" alt="" coords="444,5,537,32"/>
+<area shape="rect" id="node7" href="$util__service_8c.html#a600189435f4fb288aa3a8ec9d67fd60a" title="us_hb_process_applylogdb" alt="" coords="627,196,805,223"/>
+<area shape="rect" id="node8" href="$util__service_8c.html#a72d07de25278f292f37d040a43357784" title="us_hb_process_start" alt="" coords="419,208,562,235"/>
+<area shape="rect" id="node6" href="$util__service_8c.html#a5a46ff9266676e86ed6a38fcda91a0e0" title="us_hb_process_stop" alt="" coords="645,120,787,147"/>
+<area shape="rect" id="node10" href="$util__service_8c.html#ab8df63b9a64a2df5043964ad46232e20" title="us_hb_process_copylogdb" alt="" coords="403,107,579,133"/>
+</map>

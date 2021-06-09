@@ -1,0 +1,9 @@
+<map id="file_manager_init" name="file_manager_init">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#ac27166ed5a81c72375cfccc620c702da" title="logtb_define_trantable\l_log_latch" alt="" coords="173,125,323,166"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="399,5,541,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a1bfabe29d0a3621d3f9d12f3e77cd3ee" title="log_get_io_page_size" alt="" coords="617,81,764,108"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a63a720215fa477b0b24287fe33f11464" title="logpb_find_header_parameters" alt="" coords="371,107,569,133"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#adaf3756eb46d2f608fb945c678a665c8" title="logpb_restore" alt="" coords="641,144,741,171"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a45020463486a6bde25e2428528cb5654" title="logpb_delete" alt="" coords="423,208,517,235"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#aea65dea16f0d4816ff1ff6f22019f660" title="logtb_define_trantable" alt="" coords="395,259,545,285"/>
+</map>

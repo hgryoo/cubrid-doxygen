@@ -1,0 +1,9 @@
+<map id="btree_check_locking_for_insert_unique" name="btree_check_locking_for_insert_unique">
+<area shape="rect" id="node2" href="$btree_8c.html#a5af8ba4607057c98ad45f0d91b6f7160" title="btree_key_insert_new_key" alt="" coords="195,130,372,157"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a138d6474a32b948d3bc2f23712620cb2" title="btree_key_lock_and\l_append_object_unique" alt="" coords="420,5,579,47"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a55fc6982f1020bc221d9faf6cac59ad9" title="btree_key_insert_new\l_object" alt="" coords="627,35,776,76"/>
+<area shape="rect" id="node5" href="$btree_8c.html#ad4120a97c500c3e5925d571c3baf09c1" title="btree_key_online_index\l_IB_insert" alt="" coords="420,123,579,164"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a22870f850aa05a7db4d75ebf47f293de" title="btree_key_online_index\l_tran_insert" alt="" coords="420,188,579,229"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a0c69fa8afd6c6bad66e5f29a21e8b664" title="btree_key_online_index\l_tran_delete" alt="" coords="420,253,579,295"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a52840a60a1039d18a0a43d49b7411a9a" title="btree_key_online_index\l_tran_insert_DF" alt="" coords="420,319,579,360"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="cubthread::lockfree_hashmap::destroy" name="cubthread::lockfree_hashmap::destroy">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a81012864472f136b26bede20eddd772c" title="catalog_finalize" alt="" coords="203,37,315,63"/>
+<area shape="rect" id="node8" href="$system__catalog_8h.html#a0235b56fdf5dfaad97dda55408c328e4" title="catalog_initialize" alt="" coords="400,11,519,38"/>
+<area shape="rect" id="node9" href="$double__write__buffer_8c.html#a5776b24a954909a353c19d6029fccb0a" title="dwb_destroy_internal" alt="" coords="187,239,332,266"/>
+<area shape="rect" id="node12" href="$filter__pred__cache_8h.html#a2b6c8e8b0184a6f6a542fbde52b55e67" title="fpcache_finalize" alt="" coords="401,138,517,165"/>
+<area shape="rect" id="node13" href="$session_8h.html#a6040d805991e73f567b655103d39ab84" title="session_states_finalize" alt="" coords="380,189,539,215"/>
+<area shape="rect" id="node14" href="$slotted__page_8h.html#ad2dbcb62644d4a41c9978b2a1862c4f3" title="spage_finalize" alt="" coords="207,87,312,114"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="380,87,539,114"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="587,37,753,63"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="603,138,737,165"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="801,87,965,114"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="590,189,750,215"/>
+<area shape="rect" id="node10" href="$double__write__buffer_8h.html#a5f895a64d283260b4d3b6147b49c17c0" title="dwb_destroy" alt="" coords="411,290,507,317"/>
+<area shape="rect" id="node11" href="$double__write__buffer_8h.html#a73fd65b5e5208dc676dab35b729a84fc" title="dwb_recreate" alt="" coords="409,239,509,266"/>
+</map>

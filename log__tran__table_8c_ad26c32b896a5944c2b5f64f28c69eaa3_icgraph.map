@@ -1,0 +1,21 @@
+<map id="logtb_rv_find_allocate_tran_index" name="logtb_rv_find_allocate_tran_index">
+<area shape="rect" id="node2" href="$log__recovery_8c.html#a42f1dffa7317d699c51a0396041ebb3f" title="log_rv_analysis_2pc\l_abort_decision" alt="" coords="227,5,367,47"/>
+<area shape="rect" id="node3" href="$log__recovery_8c.html#a8fe6ee1c2e7613f4914d7a6ea61d9e1c" title="log_rv_analysis_2pc\l_abort_inform_particps" alt="" coords="219,71,374,112"/>
+<area shape="rect" id="node4" href="$log__recovery_8c.html#a222e17b93060f51dec71c0ad2c438e14" title="log_rv_analysis_2pc\l_commit_decision" alt="" coords="227,136,367,177"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#ab83390f7e82e54dbc860e5606de9fc8f" title="log_rv_analysis_2pc\l_commit_inform_particps" alt="" coords="213,201,381,243"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#aeb13188077127bfa84f114bcad6a674d" title="log_rv_analysis_2pc\l_prepare" alt="" coords="227,267,367,308"/>
+<area shape="rect" id="node7" href="$log__recovery_8c.html#acebdf5ea4f25e47e83bf901d1854e166" title="log_rv_analysis_2pc\l_recv_ack" alt="" coords="227,332,367,373"/>
+<area shape="rect" id="node8" href="$log__recovery_8c.html#a8f0f96574ff162e8f4fcfa01d7db401c" title="log_rv_analysis_2pc\l_start" alt="" coords="227,397,367,439"/>
+<area shape="rect" id="node9" href="$log__recovery_8c.html#a8e010df2e6d22f7a2ded3b516e38a772" title="log_rv_analysis_atomic\l_sysop_start" alt="" coords="217,463,376,504"/>
+<area shape="rect" id="node10" href="$log__recovery_8c.html#aa602932622e64ddb13319c947242daf8" title="log_rv_analysis_commit\l_with_postpone" alt="" coords="215,528,378,569"/>
+<area shape="rect" id="node11" href="$log__recovery_8c.html#a50a9df08d3ecf87cef9180700bb260a2" title="log_rv_analysis_compensate" alt="" coords="201,594,392,621"/>
+<area shape="rect" id="node12" href="$log__recovery_8c.html#a54cf4cf9255218ff0ef70b33d9d2ce35" title="log_rv_analysis_dummy\l_head_postpone" alt="" coords="215,645,378,687"/>
+<area shape="rect" id="node13" href="$log__recovery_8c.html#a55342b1df03774997b07f168bc2f56ea" title="log_rv_analysis_end\l_checkpoint" alt="" coords="227,711,367,752"/>
+<area shape="rect" id="node14" href="$log__recovery_8c.html#a54305f1836cb503db9df3e6f1d28a155" title="log_rv_analysis_postpone" alt="" coords="211,777,383,803"/>
+<area shape="rect" id="node15" href="$log__recovery_8c.html#a941e021d2daaa0ecb6d60836f0eef190" title="log_rv_analysis_run\l_postpone" alt="" coords="228,828,365,869"/>
+<area shape="rect" id="node16" href="$log__recovery_8c.html#ab35666485006a7d10a8fdf54ccce2d63" title="log_rv_analysis_save\l_point" alt="" coords="223,893,370,935"/>
+<area shape="rect" id="node17" href="$log__recovery_8c.html#a3f08e549de42ef85638163fbdb573640" title="log_rv_analysis_sysop_end" alt="" coords="205,959,388,986"/>
+<area shape="rect" id="node18" href="$log__recovery_8c.html#a82202c365e41626febff27eebda2d908" title="log_rv_analysis_sysop\l_start_postpone" alt="" coords="219,1011,374,1052"/>
+<area shape="rect" id="node19" href="$log__recovery_8c.html#ac9e5d4b1d9f648fa64738438a391d058" title="log_rv_analysis_undo_redo" alt="" coords="207,1077,386,1103"/>
+<area shape="rect" id="node20" href="$log__recovery_8c.html#a227592216970a7d78d268cf77f9d0e7b" title="log_rv_analysis_will\l_commit" alt="" coords="227,1128,366,1169"/>
+</map>

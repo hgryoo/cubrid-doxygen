@@ -1,0 +1,12 @@
+<map id="intl_utf8_to_cp_list" name="intl_utf8_to_cp_list">
+<area shape="rect" id="node2" href="$uca__support_8c.html#a402b3fb11776c1d755c3dfda52a1516e" title="apply_tailoring_rules" alt="" coords="202,81,342,108"/>
+<area shape="rect" id="node5" href="$locale__support_8c.html#a607d5d0eef6fc43dfb367eb1f4371ae9" title="dump_collation_contr" alt="" coords="199,31,345,57"/>
+<area shape="rect" id="node8" href="$intl__support_8c.html#a7afb4cfaa586f377433a789ddb976dad" title="intl_strcasecmp_utf8\l_one_cp" alt="" coords="201,133,343,174"/>
+<area shape="rect" id="node11" href="$unicode__support_8h.html#a4ebce0e4ed7d8702c8fba823ae9adb30" title="unicode_process_alphabet" alt="" coords="184,224,360,251"/>
+<area shape="rect" id="node3" href="$uca__support_8h.html#a927d3f4d6d33ccd17bc594776dd1a181" title="uca_process_collation" alt="" coords="410,81,561,108"/>
+<area shape="rect" id="node4" href="$locale__support_8h.html#a11f1002bcb3deb0d34dfdcc5cf463c9c" title="locale_compile_locale" alt="" coords="611,140,761,167"/>
+<area shape="rect" id="node6" href="$locale__support_8c.html#ab8670aa747c50310ab0af0f4ae657b3c" title="dump_locale_collation" alt="" coords="611,5,761,32"/>
+<area shape="rect" id="node7" href="$locale__support_8c.html#a71cd31b0999183af4cdd0a1b58f669ae" title="dump_collation_key" alt="" coords="417,31,554,57"/>
+<area shape="rect" id="node9" href="$intl__support_8h.html#a2822c33ddedbee95fb8ee1ebddf5c8a7" title="intl_case_match_tok" alt="" coords="414,132,557,159"/>
+<area shape="rect" id="node10" href="$intl__support_8h.html#af1f9b0d2b613834c0b0a304e5960968a" title="intl_identifier_casecmp\l_w_size" alt="" coords="408,183,563,225"/>
+</map>

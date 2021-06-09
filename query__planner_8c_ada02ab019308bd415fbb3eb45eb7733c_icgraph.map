@@ -1,0 +1,8 @@
+<map id="qo_check_groupby_skip_descending" name="qo_check_groupby_skip_descending">
+<area shape="rect" id="node2" href="$query__planner_8c.html#ad04b877a86065b76342661464afe91b7" title="qo_top_plan_new" alt="" coords="216,107,339,133"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#afc94b2afba8e2c262dac725b29b95339" title="qo_seq_scan_new" alt="" coords="391,5,522,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#a82cfa5f4b039ab1cc94a7b66059f2802" title="qo_index_scan_new" alt="" coords="387,56,527,83"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#ac3e3b3ef6ef0e55aee11e6356c20b225" title="qo_sort_new" alt="" coords="409,107,505,133"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a2e536d726c8f7999dbd9cca454a3ba87" title="qo_join_new" alt="" coords="575,132,669,159"/>
+<area shape="rect" id="node7" href="$query__planner_8c.html#aa45ef41a2902f6b1c9b0411139df3cd6" title="qo_follow_new" alt="" coords="403,208,511,235"/>
+</map>

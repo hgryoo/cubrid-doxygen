@@ -1,0 +1,6 @@
+<map id="cubthread::waiter::get_stats" name="cubthread::waiter::get_stats">
+<area shape="rect" id="node2" href="$classcubthread_1_1daemon.html#a2fc7761797afb57a0768080a89b07154" title="cubthread::daemon::\lget_stats" alt="" coords="184,57,325,98"/>
+<area shape="rect" id="node3" href="$lock__manager_8h.html#a39894afba679cc8ff708080ea5ae6ac8" title="lock_initialize" alt="" coords="411,5,511,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="377,57,545,98"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#a87f07b4e008ec03f3f93a2f561e1328f" title="pgbuf_daemons_get_stats" alt="" coords="373,123,548,149"/>
+</map>

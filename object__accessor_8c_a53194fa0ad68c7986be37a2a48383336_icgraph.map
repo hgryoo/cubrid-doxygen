@@ -1,0 +1,12 @@
+<map id="obj_class_lock" name="obj_class_lock">
+<area shape="rect" id="node2" href="$object__accessor_8h.html#adb5453e43de8a62c871c2c77b5b030bf" title="obj_lock" alt="" coords="161,232,232,259"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#adc8fdf4ac52dabea8594d54afbe5f62f" title="db_lock_read" alt="" coords="307,5,406,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#ae3bba16730fd99a2b83bbb99380b871d" title="db_lock_write" alt="" coords="305,56,408,83"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#aa342a69ca7b60255010098e40211866a" title="db_is_deleted" alt="" coords="305,107,408,133"/>
+<area shape="rect" id="node6" href="$set__object_8h.html#a29a0b885c2d84dff7c88a1d43dffe4bd" title="set_add_element" alt="" coords="296,181,417,208"/>
+<area shape="rect" id="node7" href="$set__object_8h.html#a34a12ed04cc3f6f7bc0fb6287ee8d5e8" title="set_put_element" alt="" coords="297,232,416,259"/>
+<area shape="rect" id="node8" href="$set__object_8h.html#a2637cbedf333d3bfbd24cefe7db06bc6" title="set_insert_element" alt="" coords="291,283,423,309"/>
+<area shape="rect" id="node9" href="$set__object_8h.html#aefc4764ac33e055802cf007aeb4a701a" title="set_drop_element" alt="" coords="294,333,419,360"/>
+<area shape="rect" id="node10" href="$set__object_8h.html#a884728db3caa20602f8654ac45ef3b07" title="set_drop_seq_element" alt="" coords="280,384,433,411"/>
+<area shape="rect" id="node11" href="$set__object_8h.html#a136efd0974ecd134c1fa1411e0dee7be" title="set_convert_oids_to\l_objects" alt="" coords="287,435,426,477"/>
+</map>

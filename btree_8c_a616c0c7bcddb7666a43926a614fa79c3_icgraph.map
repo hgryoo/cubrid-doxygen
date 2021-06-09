@@ -1,0 +1,7 @@
+<map id="btree_is_online_index_loading" name="btree_is_online_index_loading">
+<area shape="rect" id="node2" href="$btree_8c.html#a2e05f06ab9c232eb06ba370bb90ef7de" title="btree_fix_root_for\l_delete" alt="" coords="227,5,350,47"/>
+<area shape="rect" id="node5" href="$btree_8c.html#afdb8b30043a26fc4ea1042eda91a2220" title="btree_fix_root_for\l_insert" alt="" coords="227,71,350,112"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a5af8ba4607057c98ad45f0d91b6f7160" title="btree_key_insert_new_key" alt="" coords="200,137,377,163"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a817f3908f139a51ad647ea391836b176" title="btree_delete_internal" alt="" coords="425,13,568,39"/>
+<area shape="rect" id="node4" href="$btree_8h.html#af9b91aa85529070ebd9a572128bcab4c" title="btree_online_index\l_list_dispatcher" alt="" coords="431,67,562,108"/>
+</map>

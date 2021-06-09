@@ -1,0 +1,12 @@
+<map id="ws_pin_instance_and_class" name="ws_pin_instance_and_class">
+<area shape="rect" id="node2" href="$load__sa__loader_8cpp.html#a7df88243620fab77ff6ba4f2134cb554" title="construct_instance" alt="" coords="200,24,332,51"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#a9aa0f48f3bf9f906b3741ad03b78545b" title="ldr_reset_context" alt="" coords="205,93,327,120"/>
+<area shape="rect" id="node6" href="$object__accessor_8h.html#a730886952e461fbe7e2cc188c39a0c90" title="obj_get_att" alt="" coords="223,173,309,200"/>
+<area shape="rect" id="node11" href="$object__accessor_8c.html#a8486c3a1ff8729d0497dcd8ff6e1de18" title="obj_set_att" alt="" coords="223,224,309,251"/>
+<area shape="rect" id="node3" href="$load__sa__loader_8cpp.html#accbff6cc88ae442d6a41d63c68f07792" title="insert_meth_instance" alt="" coords="380,5,527,32"/>
+<area shape="rect" id="node5" href="$classcubload_1_1sa__object__loader.html#a3353c960714ee4bbb0e6f958871f2574" title="cubload::sa_object\l_loader::start_line" alt="" coords="388,57,519,98"/>
+<area shape="rect" id="node7" href="$object__accessor_8h.html#a2a001a3bd5f060004b9a1e9d9bbc4308" title="obj_copy" alt="" coords="416,123,491,149"/>
+<area shape="rect" id="node8" href="$object__accessor_8h.html#aa5f703ba8f5bb849f3265abb41eadd0a" title="obj_desc_get" alt="" coords="404,173,503,200"/>
+<area shape="rect" id="node9" href="$object__accessor_8h.html#a775471af79835aa370cebd2a2d2c754c" title="obj_get" alt="" coords="421,224,485,251"/>
+<area shape="rect" id="node10" href="$object__accessor_8c.html#a79e0c5838f048366d968f4104b0587d5" title="obj_get_temp" alt="" coords="403,275,503,301"/>
+</map>

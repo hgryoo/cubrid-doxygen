@@ -1,0 +1,13 @@
+<map id="file_extdata_collect_ftab_pages" name="file_extdata_collect_ftab_pages">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a9db2cf7e69746367fcfc73918106e71b" title="file_destroy" alt="" coords="203,157,292,184"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#ab4e6734f7b6120acd90f5d46d56e6700" title="file_table_collect\l_ftab_pages" alt="" coords="188,371,307,413"/>
+<area shape="rect" id="node3" href="$extendible__hash_8c.html#a7b16d2b1c129e751459ad1e9707b4e1b" title="ehash_create_helper" alt="" coords="375,5,518,32"/>
+<area shape="rect" id="node4" href="$extendible__hash_8c.html#a3ce9dc1eae7f9434904d4bdfcc738eb2" title="xehash_destroy" alt="" coords="389,56,504,83"/>
+<area shape="rect" id="node5" href="$file__manager_8h.html#ac554fd92b9c12716bb57cc06edf7a7da" title="file_rv_destroy" alt="" coords="393,107,500,133"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#a1a30188f8cc913b7b98aa1ccc5bdefde" title="file_temp_retire_internal" alt="" coords="367,157,527,184"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#a722ae14045e317d8c823cb3d97b9c48a" title="file_tempcache_cache\l_or_drop_entries" alt="" coords="371,209,523,250"/>
+<area shape="rect" id="node8" href="$file__manager_8h.html#abd2cf9a006d83c726b746269814ba167" title="file_rv_tracker_mark\l_heap_deleted_compensate\l_or_run_postpone" alt="" coords="355,273,539,329"/>
+<area shape="rect" id="node10" href="$file__manager_8h.html#af7b9e9f5c59461af1a7fdaee2d4ee6e5" title="file_apply_tde_algorithm" alt="" coords="365,353,528,380"/>
+<area shape="rect" id="node11" href="$file__manager_8h.html#af76b436d627c9b8eac53b49d40c916d2" title="file_map_pages" alt="" coords="390,404,503,431"/>
+<area shape="rect" id="node12" href="$file__manager_8c.html#a0fe1ac2ba5d73e34057539e939a76032" title="file_temp_reset_user\l_pages" alt="" coords="375,455,518,497"/>
+</map>

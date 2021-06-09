@@ -1,0 +1,20 @@
+<map id="set_area_init" name="set_area_init">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="157,139,292,165"/>
+<area shape="rect" id="node7" href="$set__object_8h.html#a4aed11ff0955fc4fa1aefb8d8112c973" title="col_new" alt="" coords="189,299,260,325"/>
+<area shape="rect" id="node13" href="$set__object_8h.html#a99d191c3d4bd1dfea7dd9665c9979c9a" title="set_make_reference" alt="" coords="349,299,489,325"/>
+<area shape="rect" id="node18" href="$work__space_8h.html#a7f356c42f2ee46cc4ff3f8cd9a06f0f7" title="ws_init" alt="" coords="193,349,256,376"/>
+<area shape="rect" id="node19" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="149,400,300,427"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="361,80,477,107"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="354,131,485,173"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="348,197,491,224"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="375,29,464,56"/>
+<area shape="rect" id="node8" href="$set__object_8h.html#ad659820d78453e464d29e5429f7ba9b4" title="setobj_copy" alt="" coords="373,248,465,275"/>
+<area shape="rect" id="node11" href="$set__object_8h.html#aa454043deb72979b71d1a128b694b43b" title="setobj_create" alt="" coords="369,400,469,427"/>
+<area shape="rect" id="node9" href="$set__object_8h.html#a59ce825a24948f80ccef216a558eb219" title="set_copy" alt="" coords="583,147,657,173"/>
+<area shape="rect" id="node10" href="$object__primitive_8c.html#a35e752b8b6695c70b6300f052c136b3f" title="mr_setval_set_internal" alt="" coords="749,172,903,199"/>
+<area shape="rect" id="node12" href="$set__object_8h.html#af16802b155488edde101548d1f6574f8" title="set_create" alt="" coords="579,451,661,477"/>
+<area shape="rect" id="node14" href="$object__primitive_8c.html#a94216dda8b74e100668aea330218d24a" title="mr_data_readval_set" alt="" coords="755,349,897,376"/>
+<area shape="rect" id="node15" href="$set__object_8h.html#adf2314b05a5a2127707cad66ba0b4eb1" title="set_create_with_domain" alt="" coords="539,349,701,376"/>
+<area shape="rect" id="node16" href="$set__object_8h.html#aeeb227d07fc42895df9ea46b1f5b7745" title="set_coerce" alt="" coords="577,248,663,275"/>
+<area shape="rect" id="node17" href="$set__object_8h.html#a8a5f5e52c37509740aa0c02eb3dc15ce" title="setobj_get_reference" alt="" coords="549,299,691,325"/>
+</map>

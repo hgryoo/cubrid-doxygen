@@ -1,0 +1,10 @@
+<map id="locator_lock_set" name="locator_lock_set">
+<area shape="rect" id="node2" href="$locator__cl_8h.html#a6dd9b8243295de1f881fc4e0db032780" title="locator_fetch_set" alt="" coords="195,107,317,133"/>
+<area shape="rect" id="node8" href="$locator__cl_8c.html#acd38be0f3e44fcfee66192c3f48c7ca0" title="locator_fun_get_all_mops" alt="" coords="171,157,341,184"/>
+<area shape="rect" id="node9" href="$locator__cl_8h.html#af940800757ae4fd3287705b64d149f94" title="locator_update_instance" alt="" coords="175,208,337,235"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a604637b845d66f0ca9e30e7e8f5fbc7d" title="db_fetch_array" alt="" coords="423,5,531,32"/>
+<area shape="rect" id="node4" href="$db__admin_8c.html#aa5ae0d35e2fea1bae1d5280835b73e0b" title="fetch_set_internal" alt="" coords="415,56,540,83"/>
+<area shape="rect" id="node5" href="$unloaddb_8h.html#a8f06d201be33ae14bcdaf8d8bfffb36f" title="extract_objects" alt="" coords="422,107,533,133"/>
+<area shape="rect" id="node6" href="$cursor_8c.html#a543a90c437d8995ef9696114c7b04693" title="cursor_fetch_oids" alt="" coords="415,157,540,184"/>
+<area shape="rect" id="node7" href="$execute__schema_8c.html#a93c7945f42b42b68c8bf8e59b4f73136" title="acquire_locks_for_multiple\l_rename" alt="" coords="389,209,565,250"/>
+</map>

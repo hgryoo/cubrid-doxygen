@@ -1,0 +1,6 @@
+<map id="heap_log_update_physical" name="heap_log_update_physical">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a512d30dc792740a94604451092dc9493" title="heap_update_bigone" alt="" coords="237,5,378,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a0e14957c5684f34d4601bbcbbef56dc4" title="heap_update_home" alt="" coords="240,56,375,83"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#aad64b24fe26326bcf208fff0a228988b" title="heap_update_relocation" alt="" coords="228,107,387,133"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a1bfe88925bd63940173e3c7fe7bb7c46" title="heap_update_logical" alt="" coords="435,56,575,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="numeric_long_div" name="numeric_long_div">
+<area shape="rect" id="node2" href="$numeric__opfunc_8h.html#adc92df2237df745a925b2bffdc1f2738" title="numeric_db_value_div" alt="" coords="316,163,467,189"/>
+<area shape="rect" id="node9" href="$numeric__opfunc_8c.html#af53df31fc108418e9d3d8ad21c17e866" title="numeric_div" alt="" coords="176,217,268,244"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="515,5,695,32"/>
+<area shape="rect" id="node4" href="$arithmetic_8c.html#ac452ff9e0f644a66073dcadf6d85d4be" title="db_width_bucket_calculate\l_numeric" alt="" coords="515,57,694,98"/>
+<area shape="rect" id="node5" href="$query__opfunc_8c.html#af44b08abd27bfba1582c64274b0cbed1" title="qdata_divide_short\l_to_dbval" alt="" coords="539,122,670,163"/>
+<area shape="rect" id="node6" href="$query__opfunc_8c.html#ae83ac8560daa1a5afadef1a9062d2bf5" title="qdata_divide_int_to\l_dbval" alt="" coords="537,187,672,229"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#a49cbc6c0064c6bebad1c968b766398db" title="qdata_divide_bigint\l_to_dbval" alt="" coords="538,253,671,294"/>
+<area shape="rect" id="node8" href="$query__opfunc_8c.html#a44dd30b7aea8c89214f98928cb0b0be0" title="qdata_divide_numeric\l_to_dbval" alt="" coords="531,318,679,359"/>
+<area shape="rect" id="node10" href="$numeric__opfunc_8h.html#a047b26a933d0a5a7c76cf8284ccc202b" title="numeric_coerce_num\l_to_bigint" alt="" coords="318,214,465,255"/>
+</map>

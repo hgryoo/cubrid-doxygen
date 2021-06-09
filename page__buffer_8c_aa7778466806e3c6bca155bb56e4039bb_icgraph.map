@@ -1,0 +1,15 @@
+<map id="pgbuf_bcb_get_pool_index" name="pgbuf_bcb_get_pool_index">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#aa7f4946b49981798d50ffae1c26aeee4" title="pgbuf_check_bcb_page_vpid" alt="" coords="192,187,383,213"/>
+<area shape="rect" id="node10" href="$page__buffer_8h.html#a138aa1cbf381f1621e6538662f0568a0" title="pgbuf_unfix_all" alt="" coords="233,443,342,469"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="459,5,577,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#add423e5b0a2a154224d4ab7810fc0e6a" title="pgbuf_get_page_id" alt="" coords="453,56,583,83"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#a17e80064f8a2c4ca732039acf0391249" title="pgbuf_get_page_ptype" alt="" coords="441,107,595,133"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#a087e0ba35d14f58979e47ce998f2bcb1" title="pgbuf_set_page_ptype" alt="" coords="441,157,595,184"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="435,209,601,250"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#a6ebdf1006f6b5bb49a3fc4c4f8f75e31" title="pgbuf_bcb_flush_with_wal" alt="" coords="431,275,605,301"/>
+<area shape="rect" id="node9" href="$page__buffer_8c.html#a8fcb9f06c911dd15ea90ac6691edbbbf" title="pgbuf_check_page_ptype\l_internal" alt="" coords="433,326,603,367"/>
+<area shape="rect" id="node11" href="$network__sr_8c.html#ae411c65a8239aaf3abb5a8524667b9db" title="net_server_request" alt="" coords="451,392,585,419"/>
+<area shape="rect" id="node12" href="$vacuum_8h.html#a6a0c8157402f3361e437b601e511c6b8" title="vacuum_finalize" alt="" coords="460,443,576,469"/>
+<area shape="rect" id="node13" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="445,494,591,535"/>
+<area shape="rect" id="node14" href="$lock__manager_8h.html#a7a4552847269854167212acb2d02de60" title="lock_unlock_all" alt="" coords="463,560,573,587"/>
+</map>

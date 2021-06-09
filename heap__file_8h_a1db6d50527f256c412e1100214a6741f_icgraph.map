@@ -1,0 +1,8 @@
+<map id="heap_get_btid_from_index_name" name="heap_get_btid_from_index_name">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#aaa542c4c891c69ad42f3c3e786d03325" title="catalog_get_cardinality\l_by_name" alt="" coords="193,5,347,47"/>
+<area shape="rect" id="node4" href="$serial_8c.html#acabfa3fb1e3093657b1b510a21647ee7" title="serial_alloc_cache_area" alt="" coords="189,71,351,98"/>
+<area shape="rect" id="node7" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="205,123,335,164"/>
+<area shape="rect" id="node3" href="$query__opfunc_8h.html#a296028f272d6f2014687a04eca528a4a" title="qdata_get_cardinality" alt="" coords="416,13,561,39"/>
+<area shape="rect" id="node5" href="$serial_8c.html#a68a8e5d34969d7444ff1bb017cfdd37d" title="serial_alloc_cache\l_entry" alt="" coords="424,64,553,105"/>
+<area shape="rect" id="node6" href="$serial_8h.html#aeac3d01d696bc5d57030cae77e38eb58" title="serial_initialize_cache_pool" alt="" coords="399,130,579,157"/>
+</map>

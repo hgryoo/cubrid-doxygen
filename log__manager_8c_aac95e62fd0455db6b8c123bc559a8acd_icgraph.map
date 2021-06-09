@@ -1,0 +1,8 @@
+<map id="log_get_next_nested_top" name="log_get_next_nested_top">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a84c22f7c022059f1304946e48ef83025" title="log_do_postpone" alt="" coords="237,107,357,133"/>
+<area shape="rect" id="node7" href="$log__recovery_8c.html#ad67f64c3498349a885874929f85d70c2" title="log_recovery_find_first\l_postpone" alt="" coords="220,158,373,199"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#a2f223d57ca61e8009df26a1e0efc2795" title="log_tran_do_postpone" alt="" coords="428,5,577,32"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#aff36e63affe3029989477fa08770329b" title="log_sysop_do_postpone" alt="" coords="421,56,584,83"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a9644e05051274672439fd862fee704f7" title="log_recovery_finish\l_sysop_postpone" alt="" coords="435,158,570,199"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#a766a771dfebf096e54eca48d411cf0d0" title="log_recovery_finish\l_postpone" alt="" coords="632,158,767,199"/>
+</map>

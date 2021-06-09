@@ -1,0 +1,12 @@
+<map id="sm_is_subclass" name="sm_is_subclass">
+<area shape="rect" id="node2" href="$db__info_8c.html#a04b10943c4a2a05ee452b6cf651a700a" title="db_is_subclass" alt="" coords="169,224,281,251"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a652dca61fe0cdc517c6d8e1b898894e7" title="build_att_type_change_map" alt="" coords="329,5,513,32"/>
+<area shape="rect" id="node4" href="$compactdb__cl_8c.html#adcae64b9a86ed617b273a0f391362efc" title="class_referenced_by\l_domain" alt="" coords="350,57,493,98"/>
+<area shape="rect" id="node5" href="$db__info_8c.html#aac91b0f8f50f24bf7a3b29ec45e778a6" title="db_is_superclass" alt="" coords="360,123,483,149"/>
+<area shape="rect" id="node6" href="$semantic__check_8c.html#a74be8f892e6e90ed5692941e03bf1843" title="pt_check_alter" alt="" coords="561,148,668,175"/>
+<area shape="rect" id="node7" href="$semantic__check_8c.html#ac19bfc04cb0c8835e8b49083ca3b56dc" title="pt_attr_refers_to_self" alt="" coords="349,224,494,251"/>
+<area shape="rect" id="node8" href="$semantic__check_8c.html#a4546f0bea621480bbe409d5c6cdc6929" title="pt_check_drop" alt="" coords="368,275,475,301"/>
+<area shape="rect" id="node9" href="$semantic__check_8c.html#a63f6e78887540b1e98c142350611e055" title="pt_objects_assignable" alt="" coords="346,325,497,352"/>
+<area shape="rect" id="node10" href="$semantic__check_8c.html#a88eb4e7e8c3bab1514646632c6e0451c" title="pt_type_assignable" alt="" coords="354,376,489,403"/>
+<area shape="rect" id="node11" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="345,427,497,453"/>
+</map>

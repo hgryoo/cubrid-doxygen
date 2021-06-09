@@ -1,0 +1,6 @@
+<map id="logpb_fetch_header_from_active_log" name="logpb_fetch_header_from_active_log">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a63a720215fa477b0b24287fe33f11464" title="logpb_find_header_parameters" alt="" coords="188,64,387,91"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a1bfabe29d0a3621d3f9d12f3e77cd3ee" title="log_get_io_page_size" alt="" coords="435,5,581,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a0cb138cb6e789ecf8abb67698e42abd2" title="log_get_charset_from\l_header_page" alt="" coords="435,57,581,98"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#adaf3756eb46d2f608fb945c678a665c8" title="logpb_restore" alt="" coords="458,123,558,149"/>
+</map>

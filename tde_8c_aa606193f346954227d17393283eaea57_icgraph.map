@@ -1,0 +1,14 @@
+<map id="tde_decrypt_log_page" name="tde_decrypt_log_page">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a248465451ddc5c3a07700d168cabdc6a" title="la_log_fetch" alt="" coords="473,5,565,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a0aaff7042c0765bd3eeff3d94545ce1b" title="la_log_fetch_from_archive" alt="" coords="203,56,377,83"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a9180654b6a7f8977c97f70878cf57d3d" title="la_log_page_check" alt="" coords="452,56,585,83"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#ad2a4086ead560587d249dcefe4a943e4" title="logpb_fetch_from_archive" alt="" coords="205,208,375,235"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a721f75e714fb216eb1c86e38c1640644" title="logpb_read_page_from_file" alt="" coords="430,107,607,133"/>
+<area shape="rect" id="node12" href="$log__page__buffer_8c.html#acadd68b314ff158d221266ebcc9a11b4" title="logpb_read_page_from\l_active_log" alt="" coords="213,318,367,359"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a3436eeb4ab4214cafd9b124118e4b93c" title="la_cache_buffer_replace" alt="" coords="660,5,823,32"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#ab30ed794767e26daa14273f87708ae20" title="logpb_get_archive_number" alt="" coords="430,157,607,184"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="435,325,603,352"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="457,208,580,235"/>
+<area shape="rect" id="node11" href="$log__writer_8h.html#af1e1368d8e63a233e503b44c7cad4f4e" title="logwr_log_ha_filestat\l_to_string" alt="" coords="447,259,591,301"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html#a44eb784dcaf09b76943d76ad06af5832" title="logpb_background_archiving" alt="" coords="425,376,612,403"/>
+</map>

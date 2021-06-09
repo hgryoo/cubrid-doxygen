@@ -1,0 +1,12 @@
+<map id="src/session/session.h" name="src/session/session.h">
+<area shape="rect" id="node2" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node3" href="$db__admin_8c.html" title="src/compat/db_admin.c" alt="" coords="212,87,371,114"/>
+<area shape="rect" id="node4" href="$connection__sr_8c.html" title="src/connection/connection_sr.c" alt="" coords="395,87,598,114"/>
+<area shape="rect" id="node5" href="$server__support_8c.html" title="src/connection/server\l_support.c" alt="" coords="622,80,769,121"/>
+<area shape="rect" id="node6" href="$fetch_8c.html" title="src/query/fetch.c" alt="" coords="793,87,913,114"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html" title="src/query/query_executor.c" alt="" coords="937,87,1117,114"/>
+<area shape="rect" id="node8" href="$query__manager_8c.html" title="src/query/query_manager.c" alt="" coords="1141,87,1321,114"/>
+<area shape="rect" id="node9" href="$session_8c.html" title="src/session/session.c" alt="" coords="1346,87,1495,114"/>
+<area shape="rect" id="node10" href="$session__sr_8c.html" title="src/session/session_sr.c" alt="" coords="1520,87,1687,114"/>
+<area shape="rect" id="node11" href="$boot__sr_8c.html" title="src/transaction/boot_sr.c" alt="" coords="1711,87,1877,114"/>
+</map>

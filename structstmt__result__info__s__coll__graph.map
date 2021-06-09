@@ -1,0 +1,8 @@
+<map id="stmt_result_info_s" name="stmt_result_info_s">
+<area shape="rect" id="node2" href="$structci__resultset__s.html" title="{ci_resultset_s\n|+ COMMON_RESULTSET_HEADER\l+ stmt_idx\l+ current_row_isupdated\l+ current_row_isdeleted\l|}" alt="" coords="197,520,443,641"/>
+<area shape="rect" id="node3" href="$structvalue__bind__table__s.html" title="{value_bind_table_s\n||}" alt="" coords="588,336,721,413"/>
+<area shape="rect" id="node4" href="$structci__resultset__meta__s.html" title="{ci_resultset_meta_s\n|+ COMMON_RESULTSET_META\l_HEADER\l+ stmt_idx\l+ col_count\l|}" alt="" coords="5,314,232,435"/>
+<area shape="rect" id="node5" href="$structbh__interface__s.html" title="{bh_interface_s\n|+ alloc_handle\l+ destroy_handle\l+ lookup\l+ bind_to_handle\l+ bind_get_parent\l+ bind_prune\l+ bind_graft\l+ bind_get_first_child\l+ bind_get_next_sibling\l+ bind_map\l+ destroy\l|}" alt="" coords="134,5,293,229"/>
+<area shape="rect" id="node6" href="$structdb__query__result.html" title="{db_query_result\n|+ type\l+ status\l+ col_cnt\l+ oid_included\l+ type_cnt\l+ qtable_ind\l+ res\l|}" alt="" coords="388,292,503,457"/>
+<area shape="rect" id="node7" href="$structrs__meta__info.html" title="{rs_meta_info\n|+ sql_type\l+ has_result\l+ affected_row\l|}" alt="" coords="468,527,577,634"/>
+</map>

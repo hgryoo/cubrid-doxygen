@@ -1,0 +1,21 @@
+<map id="api_val_dtor" name="api_val_dtor">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#a088836dbd23dc8f140530403aab39d89" title="api_col_insert" alt="" coords="187,5,290,32"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#a2cf58dde071bdf7399b744cdd07bfefd" title="api_qres_clear_updates" alt="" coords="159,56,318,83"/>
+<area shape="rect" id="node5" href="$cci__stub_8c.html#a0cf661484f899b893791218800f3b9f7" title="api_qres_update_value" alt="" coords="161,107,316,133"/>
+<area shape="rect" id="node7" href="$cci__stub_8c.html#a72d00d3a71b2949b3e52e57106476feb" title="cci_set_to_xcol" alt="" coords="182,157,295,184"/>
+<area shape="rect" id="node10" href="$cci__stub_8c.html#a3f86bad7d24be55cf61151d8e4556083" title="ci_stmt_set_parameter_impl" alt="" coords="145,208,332,235"/>
+<area shape="rect" id="node11" href="$cci__stub_8c.html#aadf404c51af0bd012cd07e361ebe833c" title="complete_statement" alt="" coords="389,263,529,289"/>
+<area shape="rect" id="node13" href="$cci__stub_8c.html#ab370f53949a34306276a57763d5c877a" title="resultset_impl_dtor" alt="" coords="173,360,305,387"/>
+<area shape="rect" id="node16" href="$cci__stub_8c.html#a1fa0ea848b1e6321810fd6bd544449e0" title="statement_impl_dtor" alt="" coords="169,411,309,437"/>
+<area shape="rect" id="node18" href="$cci__stub_8c.html#aeee8ea8dc815844e968c0d082b9ab381" title="stmt_complete_batch" alt="" coords="165,309,312,336"/>
+<area shape="rect" id="node19" href="$cci__stub_8c.html#a4a7eb236de7abda6b2bed24d491d286e" title="xcol_copy" alt="" coords="198,461,279,488"/>
+<area shape="rect" id="node20" href="$cci__stub_8c.html#ae2745cab09e59a775cbfac193fa0d377" title="xcol_elem_dtor" alt="" coords="183,512,294,539"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#a83070e195e6eb4842153000c7c3f6fb9" title="api_ores_clear_updates" alt="" coords="380,44,539,71"/>
+<area shape="rect" id="node6" href="$cci__stub_8c.html#a80af2aefa65f6e65bd1227173e3b0390" title="api_ores_update_value" alt="" coords="382,95,537,121"/>
+<area shape="rect" id="node8" href="$cci__stub_8c.html#aaea086744e8e056ed1576258d0704b0e" title="get_value_from_req\l_handle" alt="" coords="391,146,527,187"/>
+<area shape="rect" id="node9" href="$cci__stub_8c.html#a95650a1fa64b1ccfe75d60acdc301d4c" title="get_value_from_tset" alt="" coords="389,212,529,239"/>
+<area shape="rect" id="node12" href="$cci__stub_8c.html#a095e2010525f1e31811decbf60812c9a" title="complete_connection" alt="" coords="587,263,732,289"/>
+<area shape="rect" id="node14" href="$cci__stub_8c.html#aa15e4008404246b9657f18091da6f840" title="create_resultset_impl" alt="" coords="386,313,533,340"/>
+<area shape="rect" id="node15" href="$cci__stub_8c.html#a6583f686cc29bcc6694bfdb45eb28263" title="destroy_cci_object" alt="" coords="394,364,525,391"/>
+<area shape="rect" id="node17" href="$cci__stub_8c.html#a05861d9179c53aecbc8d345ecb60343b" title="init_statement_impl" alt="" coords="392,415,527,441"/>
+</map>

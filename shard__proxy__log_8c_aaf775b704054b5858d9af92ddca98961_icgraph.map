@@ -1,0 +1,6 @@
+<map id="make_proxy_log_filename" name="make_proxy_log_filename">
+<area shape="rect" id="node2" href="$shard__proxy__log_8h.html#a894e483037b05b3045dacc969d00a26a" title="proxy_log_open" alt="" coords="227,56,340,83"/>
+<area shape="rect" id="node3" href="$shard__proxy__log_8c.html#a6adbe84e39c8173a95ea7c3d57c91be9" title="proxy_log_reset" alt="" coords="388,5,503,32"/>
+<area shape="rect" id="node4" href="$shard__proxy__log_8h.html#ad4623e613a698785806562c6ce132c63" title="proxy_log_write" alt="" coords="551,56,664,83"/>
+<area shape="rect" id="node5" href="$shard__proxy__log_8h.html#a64f92ea4edccc28895359e7592c11b75" title="proxy_log_end" alt="" coords="392,107,499,133"/>
+</map>

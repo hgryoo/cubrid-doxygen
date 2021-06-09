@@ -1,0 +1,9 @@
+<map id="vs_do_sprintf" name="vs_do_sprintf">
+<area shape="rect" id="node2" href="$variable__string_8h.html#a72a3d1053b183093b2c5a0a0ff116ffe" title="vs_sprintf" alt="" coords="153,132,232,159"/>
+<area shape="rect" id="node3" href="$esql__declare_8c.html#a52161f213df3f2245dea10e29bce987b" title="pp_print_link" alt="" coords="303,5,398,32"/>
+<area shape="rect" id="node4" href="$esql__host__variable_8h.html#a96589f8ce96f8e04abad676e5c5ed187" title="pp_get_precision" alt="" coords="291,56,411,83"/>
+<area shape="rect" id="node5" href="$esql__host__variable_8h.html#a81eb6c2e3ba00d6746bf32cfe7b1833b" title="pp_get_input_size" alt="" coords="287,107,414,133"/>
+<area shape="rect" id="node6" href="$esql__host__variable_8h.html#a8c2f9c513c02a8c433b3fb05a844c330" title="pp_get_output_size" alt="" coords="469,132,604,159"/>
+<area shape="rect" id="node7" href="$esql__host__variable_8c.html#afb57541a887b6bfcb39dfced17320be4" title="pp_addr_expr" alt="" coords="301,208,401,235"/>
+<area shape="rect" id="node8" href="$esql__symbol__table_8c.html#ae81d0f1509405e0a9dbc00c5f36abf1e" title="pp_new_pseudo_def" alt="" coords="280,259,421,285"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="disk_stab_cursor_fix" name="disk_stab_cursor_fix">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#a5e383b330d3bd73a4c76321e4cd6be9f" title="disk_is_sector_reserved" alt="" coords="196,71,359,98"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#a2d981e61a815f2354d5075a24a2ce26f" title="disk_stab_iterate_units" alt="" coords="199,181,355,207"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a3e817661d1b1d12e8287beaac17f820c" title="disk_is_page_sector\l_reserved_with_debug_crash" alt="" coords="409,5,599,47"/>
+<area shape="rect" id="node5" href="$disk__manager_8h.html#a636a75a6b5ad42273ee31512c59b2321" title="disk_rv_volhead_extend_redo" alt="" coords="407,71,601,98"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#a9855426436d83dd37b9c5d1cd68d28ab" title="disk_stab_iterate_units_all" alt="" coords="416,122,592,149"/>
+<area shape="rect" id="node7" href="$disk__manager_8c.html#aad7390c570ef3eedca9ee0cf6221c1ee" title="disk_reserve_sectors\l_in_volume" alt="" coords="431,173,577,215"/>
+<area shape="rect" id="node8" href="$disk__manager_8c.html#a4d69850bca6997e8414af47fb9dbab3a" title="disk_unreserve_sectors\l_from_volume" alt="" coords="424,239,584,280"/>
+<area shape="rect" id="node9" href="$disk__manager_8c.html#ad67cba5035ba371ef155b71183c0431e" title="disk_stab_init" alt="" coords="453,305,555,331"/>
+<area shape="rect" id="node10" href="$disk__manager_8c.html#a750f3c04f5c21678ce10bc490fc27def" title="disk_check_sectors\l_are_reserved_in_volume" alt="" coords="419,356,589,397"/>
+</map>

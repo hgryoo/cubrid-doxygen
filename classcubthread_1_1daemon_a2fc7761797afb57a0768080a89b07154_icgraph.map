@@ -1,0 +1,10 @@
+<map id="cubthread::daemon::get_stats" name="cubthread::daemon::get_stats">
+<area shape="rect" id="node2" href="$lock__manager_8h.html#a39894afba679cc8ff708080ea5ae6ac8" title="lock_initialize" alt="" coords="232,42,332,69"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="198,123,366,164"/>
+<area shape="rect" id="node8" href="$page__buffer_8h.html#a87f07b4e008ec03f3f93a2f561e1328f" title="pgbuf_daemons_get_stats" alt="" coords="195,218,369,245"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#ac27166ed5a81c72375cfccc620c702da" title="logtb_define_trantable\l_log_latch" alt="" coords="440,5,589,47"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#ad7d852d6547ead2335b5cc6ce6360ea0" title="log_wakeup_log_flush\l_daemon" alt="" coords="439,123,590,164"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#aa91abaf89af63e703737ac5c00d7cd7d" title="logpb_flush_pages" alt="" coords="660,86,791,113"/>
+<area shape="rect" id="node7" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="660,167,791,208"/>
+<area shape="rect" id="node9" href="$perf__monitor_8c.html#a38bbe037f0aed7417e2a1bd4b3d58e6f" title="perfmon_stat_dump_in\l_buffer_thread_daemon_stats" alt="" coords="417,240,612,281"/>
+</map>

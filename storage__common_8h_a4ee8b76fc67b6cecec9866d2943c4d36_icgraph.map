@@ -1,0 +1,16 @@
+<map id="db_network_page_size" name="db_network_page_size">
+<area shape="rect" id="node2" href="$locator_8h.html#a38dcc9162fda10169f6306265c341cb1" title="locator_allocate_copy\l_area_by_length" alt="" coords="208,347,356,389"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#a1a79e7d9b55349403bdc3a50d4889dc6" title="locator_repl_add_error\l_to_copyarea" alt="" coords="635,402,785,443"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a996791011d85ea533addb7ae59c30877" title="locator_force" alt="" coords="447,5,544,32"/>
+<area shape="rect" id="node4" href="$locator_8c.html#a529112c2adb25c9cb9a75dd8a5bbd5c7" title="locator_free_packed" alt="" coords="426,56,565,83"/>
+<area shape="rect" id="node5" href="$locator_8h.html#aebbedc964145b2b5fc35f36ea94b92aa" title="locator_reallocate\l_copy_area_by_length" alt="" coords="419,107,571,149"/>
+<area shape="rect" id="node7" href="$locator_8h.html#a03f5d3d4f6ba651b038b8fffdb4bd2da" title="locator_recv_allocate\l_copyarea" alt="" coords="423,173,568,214"/>
+<area shape="rect" id="node8" href="$locator__cl_8c.html#a7456748ee00f483eb3ef0160b16222b5" title="locator_mflush_reallocate\l_copy_area" alt="" coords="410,238,581,279"/>
+<area shape="rect" id="node9" href="$locator__sr_8c.html#afb8c6532efffe86e1fa32584e00f193d" title="xlocator_fetch" alt="" coords="443,304,547,331"/>
+<area shape="rect" id="node10" href="$locator__sr_8c.html#a7d4468c551465a0acbae0f621c841197" title="xlocator_fetch_all" alt="" coords="433,355,557,381"/>
+<area shape="rect" id="node11" href="$locator__sr_8c.html#ab0245c26a24226f23c26bc80b86e4c4a" title="xlocator_fetch_lockset" alt="" coords="419,405,572,432"/>
+<area shape="rect" id="node12" href="$locator__sr_8h.html#aed9949860d03e24a533cf63afe02f0a5" title="locator_allocate_copy\l_area_by_attr_info" alt="" coords="421,457,569,498"/>
+<area shape="rect" id="node13" href="$locator__sr_8c.html#af9f1aed4f891330c6301fee452c2961d" title="xlocator_notify_isolation\l_incons" alt="" coords="414,522,577,563"/>
+<area shape="rect" id="node14" href="$locator__sr_8c.html#ac1db221d5d8f2910fc84a738e9c30491" title="xlocator_fetch_lockhint\l_classes" alt="" coords="417,587,573,629"/>
+<area shape="rect" id="node15" href="$locator__sr_8c.html#a3c9a757e40e4fa7d69245a99289b3f35" title="xlocator_lock_and_fetch_all" alt="" coords="404,653,587,680"/>
+</map>

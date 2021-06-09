@@ -1,0 +1,20 @@
+<map id="numeric_coerce_string_to_num" name="numeric_coerce_string_to_num">
+<area shape="rect" id="node2" href="$db__macro_8c.html#aaac41ec0708d386802559c899a7d90aa" title="coerce_char_to_dbvalue" alt="" coords="213,5,375,32"/>
+<area shape="rect" id="node4" href="$string__opfunc_8h.html#a556b385cb2fad7ffcff4b054965ddfa4" title="db_format" alt="" coords="466,56,546,83"/>
+<area shape="rect" id="node7" href="$db__value__table_8c.html#a2bb7ca4b167371b9b488703484bb2a2c" title="db_value_to_value" alt="" coords="229,157,359,184"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="241,208,347,235"/>
+<area shape="rect" id="node9" href="$execute__statement_8h.html#ac78ed602718434e660dfe3f61cf88719" title="do_create_auto_increment\l_serial" alt="" coords="207,259,381,301"/>
+<area shape="rect" id="node10" href="$execute__statement_8h.html#a6d5023a6cc407b5d1d0222db0157e162" title="do_create_serial" alt="" coords="235,325,353,352"/>
+<area shape="rect" id="node11" href="$execute__statement_8h.html#ad37d6b13f9139f97baed90d66d276468" title="do_update_maxvalue\l_of_auto_increment_serial" alt="" coords="207,377,381,418"/>
+<area shape="rect" id="node12" href="$jsp__cl_8c.html#a741170149aebd33af7778d9015f80198" title="jsp_unpack_numeric\l_value" alt="" coords="223,442,365,483"/>
+<area shape="rect" id="node14" href="$string__opfunc_8c.html#af7d786734d573d6df30b46779f6a4cbf" title="make_number" alt="" coords="242,107,346,133"/>
+<area shape="rect" id="node16" href="$parser_8h.html#a2ec0c565180360fd5b91fe6a2484b39f" title="pt_db_value_initialize" alt="" coords="221,508,367,535"/>
+<area shape="rect" id="node17" href="$object__domain_8c.html#a00d336975ca8465d6d3e2f8adce7c27c" title="tp_atonumeric" alt="" coords="242,559,346,585"/>
+<area shape="rect" id="node3" href="$dbtype__function_8h.html#a016e76c19ca1ec9246142c13e6734336" title="db_value_put" alt="" coords="457,5,555,32"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="631,56,811,83"/>
+<area shape="rect" id="node6" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="661,107,780,133"/>
+<area shape="rect" id="node13" href="$jsp__cl_8c.html#adca4338f9836960f2d2ddd641d5cb91d" title="jsp_unpack_value" alt="" coords="443,449,569,476"/>
+<area shape="rect" id="node15" href="$string__opfunc_8h.html#a054828717c4464bccfc880f886ddee05" title="db_to_number" alt="" coords="454,107,558,133"/>
+<area shape="rect" id="node18" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="430,533,582,560"/>
+<area shape="rect" id="node19" href="$object__domain_8h.html#a3ef8fad832e5b2d18462ff84b286782a" title="tp_value_coerce_strict" alt="" coords="429,584,583,611"/>
+</map>

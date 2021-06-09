@@ -1,0 +1,8 @@
+<map id="pt_add_name_col_to_sel_list" name="pt_add_name_col_to_sel_list">
+<area shape="rect" id="node2" href="$parser__support_8c.html#ac50f81397af94d48227c4b74b2ceb2b8" title="pt_make_collection\l_type_subquery_node" alt="" coords="203,5,352,47"/>
+<area shape="rect" id="node3" href="$parser__support_8c.html#a4494aa793880ba27595805bae6b7f4d3" title="pt_make_field_key_type\l_expr_node" alt="" coords="196,71,359,112"/>
+<area shape="rect" id="node4" href="$parser__support_8c.html#a420a18dae7546a265903bedaa2ac4b78" title="pt_make_outer_select\l_for_show_columns" alt="" coords="202,136,353,177"/>
+<area shape="rect" id="node6" href="$parser__support_8c.html#acd499a83b556ef65f99a69d7cf3b6afc" title="pt_make_query_show\l_collation" alt="" coords="203,201,352,243"/>
+<area shape="rect" id="node7" href="$parser__support_8c.html#abf59e2eb70e3d09695e2fc44988dba89" title="pt_make_query_show\l_table" alt="" coords="203,267,352,308"/>
+<area shape="rect" id="node5" href="$parser__support_8c.html#abcdf4391e31707aa649835833440a11a" title="pt_make_query_show\l_columns" alt="" coords="407,136,556,177"/>
+</map>

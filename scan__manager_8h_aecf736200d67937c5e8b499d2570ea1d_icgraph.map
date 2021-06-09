@@ -1,0 +1,5 @@
+<map id="showstmt_scan_init" name="showstmt_scan_init">
+<area shape="rect" id="node2" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="192,31,335,57"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a01c5641d7966ab43b12116327a2e6d4b" title="boot_register_client" alt="" coords="387,5,521,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a8e37c47455fc1ef6ebc9966c51cb64e1" title="sboot_register_client" alt="" coords="383,56,525,83"/>
+</map>

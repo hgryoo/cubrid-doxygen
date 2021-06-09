@@ -1,0 +1,7 @@
+<map id="create_db_value_bind_table" name="create_db_value_bind_table">
+<area shape="rect" id="node2" href="$db__stub_8c.html#a45fa4365199245e397f61b13b172e226" title="create_resultset_value\l_table" alt="" coords="201,49,355,90"/>
+<area shape="rect" id="node5" href="$db__object_8c.html#a4dfaafb73c79825cdd24159a7e1ac49c" title="or_create" alt="" coords="240,115,316,141"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#ab6dd11ba08b0b0486c25f266f40e9c75" title="stmt_exec_internal" alt="" coords="425,5,557,32"/>
+<area shape="rect" id="node4" href="$db__stub_8c.html#a316bbdc5f4f9519839b0c186665856e6" title="stmt_exec_one_statement" alt="" coords="403,56,579,83"/>
+<area shape="rect" id="node6" href="$db__object_8c.html#aa6194cb50fe2c57abe0aa3705a58f080" title="orp_api_get_object\l_resultset" alt="" coords="425,107,556,149"/>
+</map>

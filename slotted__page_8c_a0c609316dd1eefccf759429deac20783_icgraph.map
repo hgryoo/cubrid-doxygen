@@ -1,0 +1,17 @@
+<map id="spage_get_free_space_without_saving" name="spage_get_free_space_without_saving">
+<area shape="rect" id="node2" href="$btree_8c.html#a54928f25003d071320739f18f0e31dd1" title="btree_key_insert_does\l_leaf_need_split" alt="" coords="217,37,370,79"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a0fde528436144f61d9ba16806b85b688" title="btree_key_online_index\l_IB_insert_list" alt="" coords="214,103,373,144"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a044540db3ec67e88e9313f84c6b242ee" title="btree_split_node_and\l_advance" alt="" coords="221,168,366,209"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#aed856c234f25743601d85ca254815ece" title="heap_delete_physical" alt="" coords="436,251,583,278"/>
+<area shape="rect" id="node12" href="$heap__file_8c.html#a1063293444bb398d29a2b95ccdcecd33" title="heap_reuse" alt="" coords="249,285,338,311"/>
+<area shape="rect" id="node13" href="$heap__file_8h.html#a38649266971c61b3ea363c237acbe54c" title="heap_stats_update" alt="" coords="227,335,359,362"/>
+<area shape="rect" id="node15" href="$vacuum_8h.html#a3171e0413044eaee675846edbfb3a086" title="vacuum_heap_page" alt="" coords="649,370,787,397"/>
+<area shape="rect" id="node16" href="$heap__file_8h.html#a2b0c3f9af6d7acec2a7c754c14acbdf4" title="xheap_reclaim_addresses" alt="" coords="207,437,380,463"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a138d6474a32b948d3bc2f23712620cb2" title="btree_key_lock_and\l_append_object_unique" alt="" coords="430,5,589,47"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a0c69fa8afd6c6bad66e5f29a21e8b664" title="btree_key_online_index\l_tran_delete" alt="" coords="430,71,589,112"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#a9c06dba1a14e54d2c79028ae05ff51bf" title="heap_delete_bigone" alt="" coords="649,159,787,186"/>
+<area shape="rect" id="node9" href="$heap__file_8c.html#ae6bc2f0a557f47735e3626174f158ac0" title="heap_delete_home" alt="" coords="653,210,783,237"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#a39452d0770e56fac7920a1eef55d75b9" title="heap_delete_relocation" alt="" coords="641,261,795,287"/>
+<area shape="rect" id="node11" href="$heap__file_8c.html#aad64b24fe26326bcf208fff0a228988b" title="heap_update_relocation" alt="" coords="639,311,797,338"/>
+<area shape="rect" id="node14" href="$vacuum_8c.html#a21a09fb70213284c38077da5c94adf52" title="vacuum_heap_page_log\l_and_reset" alt="" coords="428,320,591,361"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="xsysprm_obtain_server_parameters" name="xsysprm_obtain_server_parameters">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#a7375cba4e11da75b551b3e82c49218a5" title="sprm_server_obtain\l_parameters" alt="" coords="218,5,354,47"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8c.html#ae299a5bc12769a2a9ee93faa51f84309" title="sysprm_obtain_server\l_parameters" alt="" coords="211,71,361,112"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="447,13,554,39"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a25ec1e1ee1ed2ecd053a903feda6eaca" title="db_get_system_parameters" alt="" coords="409,78,592,105"/>
+</map>

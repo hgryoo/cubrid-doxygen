@@ -1,0 +1,6 @@
+<map id="ws_clear_internal" name="ws_clear_internal">
+<area shape="rect" id="node2" href="$work__space_8h.html#a17dd5c275dd166dd57cee4d72bde103f" title="ws_clear" alt="" coords="176,56,251,83"/>
+<area shape="rect" id="node3" href="$work__space_8h.html#a2b66610f9ec3f812d0030b48e13ac5e8" title="ws_final" alt="" coords="328,5,399,32"/>
+<area shape="rect" id="node4" href="$transaction__cl_8h.html#a1d5ef42a794f24bbb7d41f3eaf164e8f" title="tran_abort" alt="" coords="323,56,403,83"/>
+<area shape="rect" id="node5" href="$transaction__cl_8h.html#a62d23d4ee828236473e300945ab38221" title="tran_internal_abort\l_upto_savepoint" alt="" coords="299,107,428,149"/>
+</map>

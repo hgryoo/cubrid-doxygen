@@ -1,0 +1,3 @@
+<map id="t_shm_diag_info_server" name="t_shm_diag_info_server">
+<area shape="rect" id="node2" href="$structt__diag__monitor__db__value.html" title="{t_diag_monitor_db_value\n|+ query_open_page\l+ query_opened_page\l+ query_slow_query\l+ query_full_scan\l+ conn_cli_request\l+ conn_aborted_clients\l+ conn_conn_req\l+ conn_conn_reject\l+ buffer_page_write\l+ buffer_page_read\l+ lock_deadlock\l+ lock_request\l|}" alt="" coords="5,5,172,244"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="mht_rem2" name="mht_rem2">
+<area shape="rect" id="node2" href="$heap__file_8c.html#aa83f329539bf9a5faf5af65f38465d9d" title="heap_stats_del_bestspace\l_by_hfid" alt="" coords="133,74,311,115"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#a2437d61eaada3d0e392b8c1f2ceeb8fd" title="heap_stats_del_bestspace\l_by_vpid" alt="" coords="133,217,311,258"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#ab3cb899c1d19e4e21ef56cbaf2630ffa" title="heap_stats_find_page\l_in_bestspace" alt="" coords="362,158,511,199"/>
+<area shape="rect" id="node10" href="$list__file_8c.html#a7b53432d49fb2caef19e11df6647f6a7" title="qfile_delete_list_cache\l_entry" alt="" coords="145,282,299,323"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#a23cd5f642edebaad25e8fafd58600228" title="heap_create_internal" alt="" coords="365,5,508,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a2199d817b3d6fc06ac2772e0d210049d" title="xheap_destroy" alt="" coords="383,56,490,83"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a816077d2fcf52e1e8536a9e77355ecdf" title="xheap_destroy_newly\l_created" alt="" coords="563,74,711,115"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#abd325e5117742a611e53e81b0a6efe82" title="heap_vpid_remove" alt="" coords="371,224,502,251"/>
+<area shape="rect" id="node9" href="$heap__file_8h.html#a28f6fc3308f6b6f0fb71222f8f5aa1a8" title="heap_remove_page_on\l_vacuum" alt="" coords="359,275,515,317"/>
+</map>

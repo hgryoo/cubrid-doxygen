@@ -1,0 +1,11 @@
+<map id="hb_deregister_process" name="hb_deregister_process">
+<area shape="rect" id="node2" href="$master__heartbeat_8h.html#ad5dc0541bf3c989d91fc903d734495e3" title="hb_deregister_by_args" alt="" coords="207,50,360,77"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8h.html#a466b604a2d2e33561313fb0bc0d1a37d" title="hb_deregister_by_pid" alt="" coords="211,166,356,193"/>
+<area shape="rect" id="node9" href="$master__heartbeat_8c.html#abcba91f0e0527d2a12822ed9953835fc" title="hb_reload_config" alt="" coords="223,253,343,279"/>
+<area shape="rect" id="node3" href="$master__request_8c.html#a46cff02c38f4dbb4c8109f4438981df5" title="css_process_ha_deregister\l_by_args" alt="" coords="408,5,589,47"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8h.html#ab457fb9fc6053acbec57f454a92a3001" title="hb_kill_all_heartbeat\l_process" alt="" coords="429,71,569,112"/>
+<area shape="rect" id="node6" href="$master__request_8c.html#a2ff0bb854e6255ac70a1daf82ea2eb47" title="css_process_kill_slave" alt="" coords="420,137,577,163"/>
+<area shape="rect" id="node7" href="$master__request_8c.html#ac50665e7eb97c1ed8411d4efd62b1ac1" title="css_process_deregister\l_ha_process" alt="" coords="419,188,579,229"/>
+<area shape="rect" id="node8" href="$master__request_8c.html#a964d8c20ad7ec01296b19cdc0b977974" title="css_process_ha_deregister\l_by_pid" alt="" coords="408,253,589,295"/>
+<area shape="rect" id="node10" href="$master__heartbeat_8h.html#a6f9ed497c283816e8d6612d968519cd4" title="hb_reconfig_heartbeat" alt="" coords="423,319,574,346"/>
+</map>

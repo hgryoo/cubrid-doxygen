@@ -1,0 +1,12 @@
+<map id="cubthread::worker_pool::map_running_contexts" name="cubthread::worker_pool::map_running_contexts">
+<area shape="rect" id="node2" href="$server__support_8h.html#a210ecd4da2ee50429699f86b20655ea8" title="css_are_all_request\l_handlers_suspended" alt="" coords="223,27,371,69"/>
+<area shape="rect" id="node4" href="$server__support_8h.html#a828e24952477283b9d9f5f3c6d88de04" title="css_count_transaction\l_worker_threads" alt="" coords="221,151,374,193"/>
+<area shape="rect" id="node9" href="$server__support_8c.html#ad9793b78930d95c3ef58cfec55f490df" title="css_stop_all_workers" alt="" coords="223,217,371,244"/>
+<area shape="rect" id="node11" href="$classcubthread_1_1worker__pool.html#a14e23efd44422cd8f859d60962a43795" title="cubthread::worker_pool\l::get_wait_for_task_time" alt="" coords="215,269,380,310"/>
+<area shape="rect" id="node3" href="$lock__manager_8c.html#a104e521b5f958d944f9443a0aff23348" title="lock_detect_local_deadlock" alt="" coords="428,5,611,32"/>
+<area shape="rect" id="node5" href="$server__support_8c.html#a9d7ca6dc124394595a8891d9e758034a" title="css_connection_handler\l_thread" alt="" coords="438,57,601,98"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a43c3e6965dc07096503c8de506a1069f" title="log_abort_all_active\l_transaction" alt="" coords="451,122,588,163"/>
+<area shape="rect" id="node7" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="441,188,597,215"/>
+<area shape="rect" id="node8" href="$transaction__sr_8c.html#a01192d465099edf243078a681db1fee4" title="xtran_wait_server_active\l_trans" alt="" coords="436,239,603,281"/>
+<area shape="rect" id="node10" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="486,305,553,332"/>
+</map>

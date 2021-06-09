@@ -1,0 +1,5 @@
+<map id="xsession_drop_session_variables" name="xsession_drop_session_variables">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a79a2e9641896738f311bcf462fc251b8" title="csession_drop_session\l_variables" alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a9af20dab021905396b0e8b331363a741" title="ssession_drop_session\l_variables" alt="" coords="212,71,371,112"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a12f59b5af5408867fc64ed8ea8c3f7af" title="do_drop_session_variables" alt="" coords="419,13,597,39"/>
+</map>

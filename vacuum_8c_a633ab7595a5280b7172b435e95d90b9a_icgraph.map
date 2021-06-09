@@ -1,0 +1,9 @@
+<map id="vacuum_min_log_pageid_to_keep" name="vacuum_min_log_pageid_to_keep">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="649,29,752,55"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a850e6db878c034a88e735606f63fa477" title="logpb_remove_archive_logs" alt="" coords="419,29,601,55"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a99e07d445f133a194b23cf7effd85c08" title="logpb_remove_archive\l_logs_exceed_limit" alt="" coords="219,80,371,121"/>
+<area shape="rect" id="node8" href="$vacuum_8h.html#a08404cf4bad99999d68542d216846597" title="xvacuum_dump" alt="" coords="237,146,352,173"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#af38a549f999967427ff62509d3092c7d" title="xboot_backup" alt="" coords="800,29,903,55"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="426,80,594,121"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="426,146,594,173"/>
+</map>

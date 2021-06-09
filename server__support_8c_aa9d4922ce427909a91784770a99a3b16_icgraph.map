@@ -1,0 +1,10 @@
+<map id="css_notify_ha_log_applier_state" name="css_notify_ha_log_applier_state">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#a47ea7b1b99660de36dc085d0d263e673" title="sboot_notify_ha_log\l_applier_state" alt="" coords="234,5,373,47"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="232,82,375,109"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#ab5d8cbe4258cd66e61a0da4e4a87614f" title="xboot_unregister_client" alt="" coords="225,154,381,181"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="633,53,740,79"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#a01c5641d7966ab43b12116327a2e6d4b" title="boot_register_client" alt="" coords="440,53,575,79"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#a8e37c47455fc1ef6ebc9966c51cb64e1" title="sboot_register_client" alt="" coords="436,103,579,130"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#a13db15b7b8d3fb9f09f8d746dc649115" title="boot_unregister_client" alt="" coords="433,154,582,181"/>
+<area shape="rect" id="node9" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="429,205,585,231"/>
+</map>

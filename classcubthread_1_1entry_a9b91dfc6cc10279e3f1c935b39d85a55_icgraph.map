@@ -1,0 +1,9 @@
+<map id="cubthread::entry::register_id" name="cubthread::entry::register_id">
+<area shape="rect" id="node2" href="$classcubthread_1_1entry__manager.html#a4b30b7add7a41dfb4e65dc8854c4edd8" title="cubthread::entry_manager\l::create_context" alt="" coords="237,41,411,82"/>
+<area shape="rect" id="node3" href="$namespacecubthread.html#a0fe46d939ce37d236bc84ee0bd3319c9" title="cubthread::initialize" alt="" coords="257,107,391,133"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="473,5,608,32"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="671,31,787,57"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a6dc8b536b7d535d54c1471a87b76f2c2" title="xboot_delete" alt="" coords="493,107,589,133"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="459,157,623,184"/>
+<area shape="rect" id="node8" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="465,208,616,235"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="src/optimizer/plan_generation.c" name="src/optimizer/plan_generation.c">
+<area shape="rect" id="node3" href="$optimizer_8h.html" title="optimizer.h" alt="" coords="586,244,673,271"/>
+<area shape="rect" id="node9" href="$parser_8h.html" title="parser.h" alt="" coords="833,319,903,345"/>
+<area shape="rect" id="node11" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="1107,95,1231,121"/>
+<area shape="rect" id="node13" href="$query__bitset_8h.html" title="query_bitset.h" alt="" coords="553,169,657,196"/>
+<area shape="rect" id="node14" href="$query__graph_8h.html" title="query_graph.h" alt="" coords="692,95,796,121"/>
+<area shape="rect" id="node15" href="$query__planner_8h.html" title="query_planner.h" alt="" coords="503,95,617,121"/>
+<area shape="rect" id="node16" href="$parser__support_8h.html" title="parser_support.h" alt="" coords="43,244,162,271"/>
+<area shape="rect" id="node17" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="185,244,327,271"/>
+<area shape="rect" id="node18" href="$xasl_8h.html" title="xasl.h" alt="" coords="505,244,562,271"/>
+<area shape="rect" id="node19" href="$xasl__generation_8h.html" title="xasl_generation.h" alt="" coords="783,169,907,196"/>
+<area shape="rect" id="node20" href="$xasl__predicate_8hpp.html" title="xasl_predicate.hpp" alt="" coords="983,169,1113,196"/>
+<area shape="rect" id="node5" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="402,319,518,345"/>
+<area shape="rect" id="node7" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="695,319,809,345"/>
+<area shape="rect" id="node10" href="$release__string_8h.html" title="release_string.h" alt="" coords="212,319,327,345"/>
+<area shape="rect" id="node8" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="947,393,1045,420"/>
+</map>

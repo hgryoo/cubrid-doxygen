@@ -1,0 +1,7 @@
+<map id="msgcat_close" name="msgcat_close">
+<area shape="rect" id="node2" href="$message__catalog_8h.html#aa14f649676fda02ec862c0b567e49bdf" title="msgcat_final" alt="" coords="156,81,252,108"/>
+<area shape="rect" id="node3" href="$commdb_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="354,5,405,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="303,56,456,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="507,132,641,159"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="300,157,459,184"/>
+</map>

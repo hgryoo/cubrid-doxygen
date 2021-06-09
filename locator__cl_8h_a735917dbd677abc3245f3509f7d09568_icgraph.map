@@ -1,0 +1,21 @@
+<map id="locator_create_heap_if_needed" name="locator_create_heap_if_needed">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="440,6,517,33"/>
+<area shape="rect" id="node4" href="$trigger__manager_8c.html#af58f67029308197cdea0e081eb275f2a" title="define_trigger_classes" alt="" coords="198,57,350,83"/>
+<area shape="rect" id="node6" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="419,107,538,134"/>
+<area shape="rect" id="node9" href="$execute__schema_8c.html#a71e57012993f98148b4b9bb1236f7daa" title="do_create_partition" alt="" coords="208,158,340,185"/>
+<area shape="rect" id="node10" href="$locator__cl_8h.html#a4b6c7387864e64b6864b9c73b5ccdbb5" title="locator_add_instance" alt="" coords="201,209,347,235"/>
+<area shape="rect" id="node11" href="$locator__cl_8h.html#a3a8a8b0c7161332139c6f032131b5866" title="locator_has_heap" alt="" coords="212,259,336,286"/>
+<area shape="rect" id="node17" href="$xasl__generation_8h.html#a9ccc077451801b5a81c370b4640dce2f" title="pt_to_func_pred" alt="" coords="217,310,331,337"/>
+<area shape="rect" id="node18" href="$xasl__generation_8h.html#aa08e377a0433d0f9d3167b1bb6bb0b1e" title="pt_to_insert_xasl" alt="" coords="213,361,335,387"/>
+<area shape="rect" id="node19" href="$xasl__generation_8c.html#aaec21ce3a085c64cbd1f04cc22bb43d1" title="pt_to_merge_insert_xasl" alt="" coords="192,411,356,438"/>
+<area shape="rect" id="node20" href="$xasl__generation_8h.html#ab8f25d76a557244b44c78cbc7d54ba59" title="pt_to_pred_with_context" alt="" coords="192,462,356,489"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="601,31,740,58"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#a891ddfcb30165bb34d63010778ebf774" title="tr_install" alt="" coords="443,57,514,83"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="788,121,943,147"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="620,146,721,173"/>
+<area shape="rect" id="node12" href="$boot__cl_8c.html#ae2a0ceee20e63251e74393a1d95c4e17" title="boot_define_class" alt="" coords="415,158,542,185"/>
+<area shape="rect" id="node13" href="$boot__cl_8c.html#a68ba90128105b5f4d18841f2a98a9701" title="boot_define_attribute" alt="" coords="407,209,550,235"/>
+<area shape="rect" id="node14" href="$boot__cl_8c.html#affe798c51f4f6ca1bd2062dab54ead20" title="boot_define_domain" alt="" coords="409,259,548,286"/>
+<area shape="rect" id="node15" href="$boot__cl_8c.html#acb53f554c9b458e3d45a63cfcffd1f53" title="boot_define_method" alt="" coords="409,310,548,337"/>
+<area shape="rect" id="node16" href="$boot__cl_8c.html#a63003e5e2849d1695ce18c284805cbeb" title="boot_define_meth_sig" alt="" coords="404,361,553,387"/>
+</map>

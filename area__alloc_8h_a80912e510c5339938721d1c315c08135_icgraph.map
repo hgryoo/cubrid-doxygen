@@ -1,0 +1,21 @@
+<map id="area_create" name="area_create">
+<area shape="rect" id="node2" href="$class__object_8h.html#a3e7130b99915b8bccc12f9c1dfddd5ed" title="classobj_area_init" alt="" coords="144,56,271,83"/>
+<area shape="rect" id="node6" href="$object__template_8h.html#a30b2452a25e06e2344613d014d8d6842" title="obt_area_init" alt="" coords="159,107,255,133"/>
+<area shape="rect" id="node7" href="$object__primitive_8h.html#ac60db53eb9fd52f411c4df8010ea3f4a" title="pr_area_init" alt="" coords="163,208,252,235"/>
+<area shape="rect" id="node12" href="$set__object_8h.html#a9585af34d51e74308d443558d631d54d" title="set_area_init" alt="" coords="159,157,255,184"/>
+<area shape="rect" id="node15" href="$unittests__area_8c.html#ac2b9f33eee7a638ac1499ba124af7818" title="test_area" alt="" coords="169,512,245,539"/>
+<area shape="rect" id="node17" href="$object__domain_8h.html#a40722355e901476149a0ede4153c286e" title="tp_init" alt="" coords="179,360,236,387"/>
+<area shape="rect" id="node20" href="$work__space_8h.html#aee22007e66fc956958ad1755a4d18b36" title="ws_area_init" alt="" coords="160,5,255,32"/>
+<area shape="rect" id="node3" href="$work__space_8h.html#a7f356c42f2ee46cc4ff3f8cd9a06f0f7" title="ws_init" alt="" coords="369,31,432,57"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="531,107,669,133"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="535,309,665,336"/>
+<area shape="rect" id="node8" href="$object__primitive_8h.html#ae12a8c594fad2fc0fab2db8c4b6a5d40" title="PRIM_SET_NULL" alt="" coords="335,284,466,311"/>
+<area shape="rect" id="node9" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="325,183,476,209"/>
+<area shape="rect" id="node10" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="333,233,468,260"/>
+<area shape="rect" id="node11" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="535,382,665,423"/>
+<area shape="rect" id="node13" href="$set__object_8h.html#a4aed11ff0955fc4fa1aefb8d8112c973" title="col_new" alt="" coords="365,81,436,108"/>
+<area shape="rect" id="node14" href="$set__object_8h.html#a99d191c3d4bd1dfea7dd9665c9979c9a" title="set_make_reference" alt="" coords="331,132,471,159"/>
+<area shape="rect" id="node16" href="$unittests__area_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="375,588,426,615"/>
+<area shape="rect" id="node18" href="$utility_8h.html#afcca051358c81f7c4f159aa6859bcad2" title="patchdb" alt="" coords="367,537,435,564"/>
+<area shape="rect" id="node19" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="319,436,483,463"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="hb_list_remove" name="hb_list_remove">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#a38218e4a5ad64b7dba1999c4fcab5804" title="hb_job_dequeue" alt="" coords="183,56,299,83"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#ad41a045d565bf07da57d8f9854d4c77b" title="hb_job_set_expire_and\l_reorder" alt="" coords="164,173,319,214"/>
+<area shape="rect" id="node8" href="$master__heartbeat_8c.html#a59abcb6d643931224b1d0e8d86fba584" title="hb_job_shutdown" alt="" coords="180,289,303,316"/>
+<area shape="rect" id="node11" href="$master__heartbeat_8c.html#a2714b2a9d5856483e04267dcc7e114b4" title="hb_remove_node" alt="" coords="181,348,302,375"/>
+<area shape="rect" id="node13" href="$master__heartbeat_8c.html#a3b1a3af08512cf5ad18af5a130cf6167" title="hb_remove_ping_host" alt="" coords="167,405,316,432"/>
+<area shape="rect" id="node15" href="$master__heartbeat_8c.html#aae16f673a34c1224233b14b71978d117" title="hb_remove_proc" alt="" coords="182,511,301,537"/>
+<area shape="rect" id="node20" href="$master__heartbeat_8c.html#ac10fce827c943f166a117ff1420ce493" title="hb_remove_ui_node" alt="" coords="172,561,311,588"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#ad7580044403dd1e5d18c41c41728563b" title="hb_cluster_job_dequeue" alt="" coords="375,5,538,32"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#a328b097221b7aff1336e82ca1cc93891" title="hb_resource_job_dequeue" alt="" coords="370,56,543,83"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8c.html#a36c565c7a5cfab9cea7d2503a03e586f" title="hb_cluster_job_set\l_expire_and_reorder" alt="" coords="387,107,526,149"/>
+<area shape="rect" id="node7" href="$master__heartbeat_8c.html#a0717d75d7bc6f98073dd5db1abec72ee" title="hb_resource_job_set\l_expire_and_reorder" alt="" coords="385,173,528,214"/>
+<area shape="rect" id="node9" href="$master__heartbeat_8c.html#a9177a011007c053c60a2916c478d1359" title="hb_cluster_job_shutdown" alt="" coords="372,239,541,265"/>
+<area shape="rect" id="node10" href="$master__heartbeat_8c.html#a2b12417185f15929353a614ae48c0ec6" title="hb_resource_job_shutdown" alt="" coords="367,289,547,316"/>
+<area shape="rect" id="node12" href="$master__heartbeat_8c.html#a403fa9b8ec2971752c0cc827ce0625bc" title="hb_cluster_remove_all\l_nodes" alt="" coords="381,341,533,382"/>
+<area shape="rect" id="node14" href="$master__heartbeat_8c.html#ac1bfaf1d84fd7855099cd1a0b6e4021d" title="hb_cluster_remove_all\l_ping_hosts" alt="" coords="381,406,533,447"/>
+<area shape="rect" id="node16" href="$master__heartbeat_8c.html#a95eda95d368a22106e87f197c051c260" title="hb_resource_job_confirm\l_cleanup_all" alt="" coords="373,471,540,513"/>
+<area shape="rect" id="node17" href="$master__heartbeat_8c.html#a5f2175a5aefc9e676a17637455fe954f" title="hb_resource_job_proc\l_dereg" alt="" coords="382,537,531,578"/>
+<area shape="rect" id="node18" href="$master__heartbeat_8c.html#a2bdc88c8b9811a90d119928ec4fb238f" title="hb_resource_job_confirm\l_dereg" alt="" coords="373,602,540,643"/>
+<area shape="rect" id="node19" href="$master__heartbeat_8c.html#a101c5b1c9ab1ca5a96a493e84c79545d" title="hb_remove_all_procs" alt="" coords="384,668,529,695"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="css_finalize_list" name="css_finalize_list">
+<area shape="rect" id="node2" href="$connection__sr_8c.html#a074e6b86ddb75471f99f128336298aa8" title="css_shutdown_conn" alt="" coords="168,56,309,83"/>
+<area shape="rect" id="node3" href="$connection__sr_8h.html#a4e5cff26b4a95e909bb2f1b7f69418ad" title="css_final_conn_list" alt="" coords="357,5,491,32"/>
+<area shape="rect" id="node4" href="$connection__sr_8c.html#ace8be06bb48b5cfb6930cd25aa803ad6" title="css_free_conn" alt="" coords="371,56,477,83"/>
+<area shape="rect" id="node5" href="$heartbeat_8h.html#a6d0be3cc8d17ff465741d60dc941d472" title="hb_process_term" alt="" coords="363,107,485,133"/>
+</map>

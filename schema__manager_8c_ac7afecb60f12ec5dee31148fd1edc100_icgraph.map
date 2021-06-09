@@ -1,0 +1,11 @@
+<map id="template_classname" name="template_classname">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#aea0ec5b03ed572660980c07b858704be" title="check_alias_domains" alt="" coords="208,5,355,32"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#a9111c9be0c88ab939f23c020c67bfd36" title="resolve_candidates" alt="" coords="419,9,553,36"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#a2f54f04ba8365bdca4fed398bcfe8b0c" title="check_invalid_resolutions" alt="" coords="196,107,367,133"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a01c6585fa8eccac8d36e89c82bed24e0" title="sm_produce_constraint\l_name_tmpl" alt="" coords="203,158,360,199"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#af4a7b6b5e9a854d20b819ed148665aef" title="dbt_add_constraint" alt="" coords="420,64,552,91"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#a694521513fe9f708721fd6a819ec063e" title="dbt_drop_constraint" alt="" coords="418,115,554,141"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#ae502b1b401f3074af64821cd32bd8afc" title="dbt_add_foreign_key" alt="" coords="415,165,557,192"/>
+<area shape="rect" id="node9" href="$class__object_8c.html#a7ccc84963969303714e4fb2a51070e96" title="classobj_copy_constraint_like" alt="" coords="605,191,801,217"/>
+<area shape="rect" id="node10" href="$execute__schema_8h.html#aad5f8b87532634fce640fe47c496aebe" title="do_add_constraints" alt="" coords="419,267,553,293"/>
+</map>

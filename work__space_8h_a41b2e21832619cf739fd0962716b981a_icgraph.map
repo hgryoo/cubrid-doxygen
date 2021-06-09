@@ -1,0 +1,9 @@
+<map id="ws_decache_all_instances" name="ws_decache_all_instances">
+<area shape="rect" id="node2" href="$classcubload_1_1sa__object__loader.html#a8a6c945de603337f5be66791eb05f554" title="cubload::sa_object\l_loader::finish_line" alt="" coords="232,31,363,73"/>
+<area shape="rect" id="node3" href="$work__space_8h.html#a86a6f71a36aecbfb409f7253c5c53f58" title="ws_cache" alt="" coords="257,97,338,124"/>
+<area shape="rect" id="node8" href="$work__space_8h.html#a8a91f874e3655eb45524ef40c177f417" title="ws_decache" alt="" coords="250,148,345,175"/>
+<area shape="rect" id="node4" href="$locator__cl_8h.html#a913d82589353ffbe520b7c01f8665cf0" title="locator_add_root" alt="" coords="424,5,543,32"/>
+<area shape="rect" id="node5" href="$locator__cl_8c.html#a9175d2c0dcdfa3dd4bbdae59d96c1b67" title="locator_cache_object\l_class" alt="" coords="411,57,556,98"/>
+<area shape="rect" id="node6" href="$locator__cl_8c.html#a71f5ed6795357653b5af8200c7c2dd58" title="locator_cache_object\l_instance" alt="" coords="411,122,556,163"/>
+<area shape="rect" id="node7" href="$work__space_8h.html#aafe82e7d7831a07351c36d64ffd09d6b" title="ws_cache_with_oid" alt="" coords="415,188,551,215"/>
+</map>

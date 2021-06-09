@@ -1,0 +1,5 @@
+<map id="css_net_send3_with_socket" name="css_net_send3_with_socket">
+<area shape="rect" id="node2" href="$connection__support_8c.html#ad030fbb5d5aeb087f87fcd7d534cd3b1" title="css_net_send3" alt="" coords="219,37,329,63"/>
+<area shape="rect" id="node4" href="$connection__support_8h.html#a554aafd262166a90823950cbba347451" title="css_send_request_with\l_socket" alt="" coords="195,88,353,129"/>
+<area shape="rect" id="node3" href="$connection__support_8h.html#a22a063da64db5362b79f59b31c9b6cfe" title="css_send_request_with\l_data_buffer" alt="" coords="401,29,560,71"/>
+</map>

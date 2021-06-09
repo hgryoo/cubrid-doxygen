@@ -1,0 +1,6 @@
+<map id="emit_get_db_value" name="emit_get_db_value">
+<area shape="rect" id="node2" href="$esql__translate_8c.html#ab702fb2e8b978538416942958d777296" title="tr_execute" alt="" coords="197,5,279,32"/>
+<area shape="rect" id="node3" href="$esql__translate_8c.html#a348b7ccb91a475c2b4aa09603a4e3deb" title="tr_fetch_cs" alt="" coords="195,56,281,83"/>
+<area shape="rect" id="node4" href="$esql__translate_8c.html#a72fb40bc4ca39d1344fb8961579b04da" title="tr_object_fetch" alt="" coords="184,107,292,133"/>
+<area shape="rect" id="node5" href="$esql__translate_8c.html#a20d6e0128ec0ad0f1d45a286170c7980" title="tr_static" alt="" coords="203,157,273,184"/>
+</map>

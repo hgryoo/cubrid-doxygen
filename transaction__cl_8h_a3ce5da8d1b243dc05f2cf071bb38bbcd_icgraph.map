@@ -1,0 +1,10 @@
+<map id="tran_get_check_interrupt" name="tran_get_check_interrupt">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a4831ca525479b8569b14ef4a181dfd7c" title="logtb_get_check_interrupt" alt="" coords="219,157,389,184"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#ae499b237d71a7f52450298b19618122a" title="disk_extend" alt="" coords="473,5,565,32"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#a6aef95977713b43fcfa1f809b4525c6d" title="fileio_initialize_pages" alt="" coords="447,56,592,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="468,107,571,133"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="461,157,578,184"/>
+<area shape="rect" id="node7" href="$query__manager_8h.html#a5de73a5fa215d2f58935a2a5015e555d" title="qmgr_free_list_temp_file" alt="" coords="437,208,601,235"/>
+<area shape="rect" id="node8" href="$query__manager_8h.html#a6f173948c0eb9538690b2302950d2962" title="qmgr_get_old_page" alt="" coords="452,259,587,285"/>
+<area shape="rect" id="node9" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="447,310,592,351"/>
+</map>

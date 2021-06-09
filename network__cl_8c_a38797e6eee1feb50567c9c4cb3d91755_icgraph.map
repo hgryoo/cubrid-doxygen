@@ -1,0 +1,5 @@
+<map id="client_capabilities" name="client_capabilities">
+<area shape="rect" id="node2" href="$network__cl_8c.html#a9e79325f1639b867f33b62f68b12a2be" title="check_server_capabilities" alt="" coords="188,5,360,32"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a669e1ce0f8fe4fd698271b150702ac6b" title="net_client_ping_server\l_with_handshake" alt="" coords="417,23,569,65"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#ad9d584fa39ad4b97df4f2d58e5e8a8b2" title="server_ping_with_handshake" alt="" coords="179,107,369,133"/>
+</map>

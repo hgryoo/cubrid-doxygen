@@ -1,0 +1,7 @@
+<map id="pr_type::is_size_computed" name="pr_type::is_size_computed">
+<area shape="rect" id="node2" href="$query__opfunc_8h.html#ab019da6da42578a89c2b91ff84fec296" title="qdata_get_tuple_value\l_size_from_dbval" alt="" coords="232,104,384,145"/>
+<area shape="rect" id="node3" href="$query__opfunc_8h.html#ab92eb03bb3303ee8e501d2f6c7157af6" title="qdata_copy_valptr_list\l_to_tuple" alt="" coords="436,5,588,47"/>
+<area shape="rect" id="node4" href="$query__opfunc_8h.html#a5ec9b4adde889edd47140846cc0d181d" title="qdata_generate_tuple\l_desc_for_valptr_list" alt="" coords="439,71,585,112"/>
+<area shape="rect" id="node5" href="$query__aggregate_8hpp.html#a180603e6448ef4e047a26eff860f1e32" title="qdata_save_agg_hentry\l_to_list" alt="" coords="432,136,592,177"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#ace94f31b6618ddcdf735e6e3c126542d" title="qexec_topn_tuples_to\l_list_id" alt="" coords="437,201,587,243"/>
+</map>

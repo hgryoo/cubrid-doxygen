@@ -1,0 +1,5 @@
+<map id="logtb_tran_reset_cos_func" name="logtb_tran_reset_cos_func">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a14b65ae767a8628322209a6dedb6e189" title="logtb_tran_reset_count\l_optim_state" alt="" coords="228,23,383,65"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a95ba237812e6f9b8aec2e12fb661575e" title="logtb_invalidate_snapshot_data" alt="" coords="431,5,635,32"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#abced029cdab388279dc4b134179929c3" title="logtb_complete_mvcc" alt="" coords="458,56,607,83"/>
+</map>

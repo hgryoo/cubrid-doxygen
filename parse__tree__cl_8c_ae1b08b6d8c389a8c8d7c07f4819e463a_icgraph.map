@@ -1,0 +1,11 @@
+<map id="pt_restore_assignment_links" name="pt_restore_assignment_links">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#a661feaacf0e01e3f0f72364db8648b7a" title="do_merge" alt="" coords="465,31,543,57"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a92e684c00e2d830e80140690244b728e" title="do_prepare_merge" alt="" coords="439,132,569,159"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#ac634b027d1b85e4fbfb2cc7e8b803fc7" title="do_prepare_update" alt="" coords="637,183,769,209"/>
+<area shape="rect" id="node7" href="$parser_8h.html#ae15e723ce20ba2049b84760e4e8b8107" title="pt_get_assignment_lists" alt="" coords="208,183,371,209"/>
+<area shape="rect" id="node8" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="440,233,568,260"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#ad40a4696a329c337de0d1b4cec048d27" title="pt_to_merge_update_xasl" alt="" coords="419,284,589,311"/>
+<area shape="rect" id="node10" href="$execute__statement_8c.html#a0020c2da00fa0d7f818341da14457837" title="update_real_class" alt="" coords="441,335,567,361"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="653,56,754,83"/>
+<area shape="rect" id="node4" href="$extendible__hash_8h.html#a00a376ae68821de52e727460e5b2fd97" title="ehash_delete" alt="" coords="654,5,753,32"/>
+</map>

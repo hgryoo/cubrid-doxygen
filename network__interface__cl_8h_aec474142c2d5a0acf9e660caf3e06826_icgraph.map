@@ -1,0 +1,5 @@
+<map id="stats_update_all_statistics" name="stats_update_all_statistics">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#a5382c4ce290b60cf2fd9d7fcec1dc847" title="sm_update_all_statistics" alt="" coords="231,31,397,57"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a550644fdffe2aff6b4a4d09c6791fb15" title="optimizedb" alt="" coords="462,5,547,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a92e6728e9b85ff99255dd27fef6477f3" title="do_update_stats" alt="" coords="445,56,564,83"/>
+</map>

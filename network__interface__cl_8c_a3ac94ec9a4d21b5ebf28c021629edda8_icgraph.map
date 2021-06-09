@@ -1,0 +1,17 @@
+<map id="log_reset_wait_msecs" name="log_reset_wait_msecs">
+<area shape="rect" id="node2" href="$transaction__cl_8h.html#ac8c988290d3c5fe7ad0155bdfad8e217" title="tran_reset_wait_times" alt="" coords="205,335,356,361"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#ae94687281a0974e2a2fb0c34a20c0f34" title="ci_conn_set_option_impl" alt="" coords="404,5,569,32"/>
+<area shape="rect" id="node4" href="$cas__execute_8h.html#a5deb39e702491923749330c4c79b3a93" title="ux_set_lock_timeout" alt="" coords="415,56,558,83"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#aeb66e0917e9cc4aa813428836fd18d1e" title="db_set_lock_timeout" alt="" coords="415,107,558,133"/>
+<area shape="rect" id="node6" href="$compactdb__cl_8c.html#ad8ac2934f7ec63bfee9cfcab72aa95dd" title="compactdb_start" alt="" coords="617,183,736,209"/>
+<area shape="rect" id="node7" href="$compactdb__cl_8c.html#ad3b2ec867203ae1e6e05d1b2e304ba01" title="do_reclaim_addresses" alt="" coords="411,208,563,235"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#adc0fb0803f8c57ce11f25db35f37dd9e" title="do_set_xaction" alt="" coords="431,259,542,285"/>
+<area shape="rect" id="node9" href="$execute__statement_8c.html#a0020c2da00fa0d7f818341da14457837" title="update_real_class" alt="" coords="423,309,550,336"/>
+<area shape="rect" id="node10" href="$execute__statement_8h.html#afe56199df5cbc88a2f7aef1dc0cb0bdc" title="do_execute_update" alt="" coords="419,360,554,387"/>
+<area shape="rect" id="node11" href="$execute__statement_8c.html#a64dfb8ac55e46089afdb246594b4b597" title="delete_real_class" alt="" coords="425,411,548,437"/>
+<area shape="rect" id="node12" href="$execute__statement_8h.html#a8340db60b99d2305e581a997044657ee" title="do_execute_delete" alt="" coords="421,461,552,488"/>
+<area shape="rect" id="node13" href="$execute__statement_8c.html#afc8676086646494b31f8b100d05f13da" title="do_insert_template" alt="" coords="421,512,553,539"/>
+<area shape="rect" id="node14" href="$execute__statement_8h.html#a661feaacf0e01e3f0f72364db8648b7a" title="do_merge" alt="" coords="447,563,526,589"/>
+<area shape="rect" id="node15" href="$execute__statement_8h.html#af259588ebb962b880ecb05ae0b82c5e9" title="do_execute_merge" alt="" coords="421,613,553,640"/>
+<area shape="rect" id="node16" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="422,664,551,691"/>
+</map>

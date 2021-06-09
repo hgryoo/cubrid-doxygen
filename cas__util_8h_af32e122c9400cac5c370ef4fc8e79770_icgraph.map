@@ -1,0 +1,21 @@
+<map id="ut_trim" name="ut_trim">
+<area shape="rect" id="node2" href="$cas__execute_8c.html#a09334d93e7e9425e4940811bc08f9811" title="dbval_to_net_buf" alt="" coords="139,197,260,224"/>
+<area shape="rect" id="node10" href="$cas__function_8c.html#a635a2b29ecc1cec25b1461301ca3aab6" title="fn_prepare_internal" alt="" coords="348,593,480,620"/>
+<area shape="rect" id="node11" href="$broker__log__top_8c.html#a5cd041e1545d2e224523c8aff79e2d27" title="log_top" alt="" coords="167,644,231,671"/>
+<area shape="rect" id="node13" href="$cas__net__buf_8h.html#a59e8c884b1ae36ab53d31f0b463daf28" title="net_buf_column_info_set" alt="" coords="116,467,283,493"/>
+<area shape="rect" id="node18" href="$cas__execute_8c.html#a235ed61a310d3fc128b8c64464ce6c47" title="netval_to_dbval" alt="" coords="143,695,256,721"/>
+<area shape="rect" id="node19" href="$broker__log__sql__list_8c.html#af69e579a5c125f655fb2f385d86a2a0e" title="sql_change_comp_form" alt="" coords="119,745,279,772"/>
+<area shape="rect" id="node20" href="$cas__execute_8h.html#aee0aa1d2154b6630cb99732f71ad118a" title="ux_prepare" alt="" coords="156,593,243,620"/>
+<area shape="rect" id="node3" href="$cas__execute_8c.html#ad83c01a1069cc7783bda754518ebffdc" title="cur_tuple" alt="" coords="377,5,451,32"/>
+<area shape="rect" id="node4" href="$cas__execute_8c.html#ab13919ddaf95cf9466c621daaa2cacf8" title="fetch_call" alt="" coords="375,56,453,83"/>
+<area shape="rect" id="node5" href="$cas__execute_8c.html#ad6b2873c66c3ca178799d5fcd6e798fd" title="oid_data_set" alt="" coords="366,107,462,133"/>
+<area shape="rect" id="node6" href="$cas__execute_8h.html#a09f36de4c7844474d929c4c03b0a2c26" title="ux_col_get" alt="" coords="371,340,457,367"/>
+<area shape="rect" id="node7" href="$cas__execute_8c.html#a9201ae649114e34b5a7e59d7c00a4cd6" title="ux_get_generated_keys\l_client_insert" alt="" coords="334,158,494,199"/>
+<area shape="rect" id="node8" href="$cas__execute_8c.html#a735668caa8859a320e62614b989b6787" title="ux_get_generated_keys\l_server_insert" alt="" coords="334,223,494,265"/>
+<area shape="rect" id="node9" href="$cas__execute_8h.html#a29ea4d2bfb035ecd174ffc8c0de0a0c6" title="ux_get_last_insert_id" alt="" coords="341,289,487,316"/>
+<area shape="rect" id="node12" href="$broker__log__top_8c.html#a53babe7878ecc2ec71776eea34589ed0" title="log_top_query" alt="" coords="363,644,465,671"/>
+<area shape="rect" id="node14" href="$cas__execute_8c.html#a776ecaee0a6b29bfcd6665c7b1459a2d" title="oid_attr_info_set" alt="" coords="355,391,473,417"/>
+<area shape="rect" id="node15" href="$cas__execute_8c.html#ab8325302e8898d7491398775714bf061" title="prepare_column_info_set" alt="" coords="331,441,497,468"/>
+<area shape="rect" id="node16" href="$cas__schema__info_8h.html#a85fd07f92e990edd93379c548e5293b4" title="schema_attr_meta" alt="" coords="349,492,479,519"/>
+<area shape="rect" id="node17" href="$cas__schema__info_8h.html#a8bd617d4f0191398a227f76aba6cde18" title="schema_attrpriv_meta" alt="" coords="339,543,489,569"/>
+</map>

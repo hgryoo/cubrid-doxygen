@@ -1,0 +1,4 @@
+<map id="SORTKEY_INFO" name="SORTKEY_INFO">
+<area shape="rect" id="node2" href="$structSUBKEY__INFO.html" title="{SUBKEY_INFO\n|+ col\l+ permuted_col\l+ sort_f\l+ is_desc\l+ is_nulls_first\l+ use_cmp_dom\l|}" alt="" coords="13,307,131,457"/>
+<area shape="rect" id="node3" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="5,5,139,229"/>
+</map>

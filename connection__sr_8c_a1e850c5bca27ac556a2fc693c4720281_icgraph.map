@@ -1,0 +1,11 @@
+<map id="css_find_and_remove_queue_entry" name="css_find_and_remove_queue_entry">
+<area shape="rect" id="node2" href="$connection__sr_8c.html#a51bdf96038b0665495e256c172bbb1fd" title="css_process_abort_packet" alt="" coords="203,5,381,32"/>
+<area shape="rect" id="node4" href="$connection__sr_8c.html#acca77d961ddea1869c0f9c1b7058e8d6" title="css_queue_data_packet" alt="" coords="211,56,373,83"/>
+<area shape="rect" id="node5" href="$connection__sr_8c.html#a7afcb6dfd693bad71fdecfca847046d3" title="css_remove_unexpected\l_packets" alt="" coords="209,107,375,149"/>
+<area shape="rect" id="node7" href="$connection__sr_8c.html#a4ae98ca7720529ffbc7f83697630ca18" title="css_return_queued_data\l_timeout" alt="" coords="210,173,374,214"/>
+<area shape="rect" id="node10" href="$connection__sr_8c.html#ad05c25b47445c78d07bbec8810db2016" title="css_return_queued_error" alt="" coords="209,239,375,265"/>
+<area shape="rect" id="node3" href="$connection__sr_8c.html#a7b14f5dcb61f10200379c033f8d47156" title="css_queue_packet" alt="" coords="446,31,577,57"/>
+<area shape="rect" id="node6" href="$connection__sr_8h.html#ab54604fc1d3507d2b39ac70573b7373b" title="css_send_abort_request" alt="" coords="429,115,593,141"/>
+<area shape="rect" id="node8" href="$connection__sr_8c.html#afcd0ccababe9471e2ff31025115890ba" title="css_receive_data" alt="" coords="449,173,573,200"/>
+<area shape="rect" id="node9" href="$connection__sr_8h.html#a11acb43e6eba61f77bf72b91b284deb7" title="css_return_queued_data" alt="" coords="429,224,593,251"/>
+</map>

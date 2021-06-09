@@ -1,0 +1,5 @@
+<map id="logtb_set_number_of_total_tran_indices" name="logtb_set_number_of_total_tran_indices">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a9d858c98e9a769b71176ddb505acddfd" title="logtb_expand_trantable" alt="" coords="196,46,352,73"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a3bc8e667a4001db19a340b7f600ba3ae" title="logtb_allocate_tran\l_index" alt="" coords="409,5,540,47"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#ac27166ed5a81c72375cfccc620c702da" title="logtb_define_trantable\l_log_latch" alt="" coords="400,71,549,112"/>
+</map>

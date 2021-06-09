@@ -1,0 +1,5 @@
+<map id="ldr_mop_tempoid_maps" name="ldr_mop_tempoid_maps">
+<area shape="rect" id="node2" href="$structldr__mop__tempoid__map.html" title="{ldr_mop_tempoid_map\n|+ id\l|}" alt="" coords="16,491,169,568"/>
+<area shape="rect" id="node3" href="$structclass__table.html" title="{class_table\n|+ count\l+ presize\l+ total_inserts\l|}" alt="" coords="116,321,221,428"/>
+<area shape="rect" id="node4" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="5,5,180,259"/>
+</map>

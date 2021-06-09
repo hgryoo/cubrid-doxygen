@@ -1,0 +1,9 @@
+<map id="qmgr_create_new_temp_file" name="qmgr_create_new_temp_file">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a7c9417cbf00ad332e508fad017f05b5e" title="qexec_setup_list_id" alt="" coords="239,81,376,108"/>
+<area shape="rect" id="node7" href="$list__file_8h.html#ab4f13b15b2ddac8fbd42965eb5a7dbbd" title="qfile_get_first_page" alt="" coords="240,132,375,159"/>
+<area shape="rect" id="node8" href="$list__file_8h.html#a9a0cb0a6d85281f2415ed963cdbe90f6" title="qfile_open_list" alt="" coords="255,183,360,209"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a6a52d397abf14eeef1f1a23bccd2ed42" title="qexec_execute_delete" alt="" coords="426,5,578,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#ad4c07e39f9cb586e3f27bba78f9da682" title="qexec_execute_insert" alt="" coords="427,56,577,83"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a98038934d3c74520f49e6c153067683b" title="qexec_execute_merge" alt="" coords="628,107,781,133"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#aa789b9a1da1ee681d9ad9464672c2325" title="qexec_execute_update" alt="" coords="424,157,580,184"/>
+</map>

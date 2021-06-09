@@ -1,0 +1,5 @@
+<map id="file_ovf_heap_des" name="file_ovf_heap_des">
+<area shape="rect" id="node2" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,160,97,267"/>
+<area shape="rect" id="node3" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="121,175,187,252"/>
+<area shape="rect" id="node4" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="123,5,185,97"/>
+</map>

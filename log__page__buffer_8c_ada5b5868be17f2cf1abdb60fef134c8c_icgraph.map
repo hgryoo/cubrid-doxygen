@@ -1,0 +1,11 @@
+<map id="logpb_initialize_log_buffer" name="logpb_initialize_log_buffer">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a10dc05607248603c703e1c9d1e5a5b0f" title="logpb_initialize_pool" alt="" coords="188,165,327,192"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#afaf4f61b0bc8a369451280c036d97bc2" title="logpb_invalidate_pool" alt="" coords="184,279,331,305"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="413,5,543,32"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="407,56,549,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a63a720215fa477b0b24287fe33f11464" title="logpb_find_header_parameters" alt="" coords="379,107,577,133"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a85ec139e097deb26a87c48c836d88ce0" title="logpb_rename_all_volumes\l_files" alt="" coords="389,158,567,199"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a45020463486a6bde25e2428528cb5654" title="logpb_delete" alt="" coords="431,224,525,251"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#ae4e8d582d0a9a203bde7da29096cb726" title="logpb_remove_all_in\l_log_path" alt="" coords="408,275,548,317"/>
+<area shape="rect" id="node10" href="$log__recovery_8c.html#a6e4cb0fa20df20ef22e01e5bae16b885" title="log_recovery_resetlog" alt="" coords="403,341,553,368"/>
+</map>

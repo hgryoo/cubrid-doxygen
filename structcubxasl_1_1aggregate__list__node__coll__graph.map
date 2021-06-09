@@ -1,0 +1,12 @@
+<map id="cubxasl::aggregate_list_node" name="cubxasl::aggregate_list_node">
+<area shape="rect" id="node2" href="$structsort__list.html" title="{sort_list\n|+ del_id\l+ s_order\l+ s_nulls\l|}" alt="" coords="151,447,228,553"/>
+<area shape="rect" id="node10" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="172,631,321,796"/>
+<area shape="rect" id="node3" href="$structqfile__tuple__value__position.html" title="{qfile_tuple_value_position\n|+ pos_no\l|}" alt="" coords="75,307,245,384"/>
+<area shape="rect" id="node4" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="5,5,139,229"/>
+<area shape="rect" id="node5" href="$unioncubxasl_1_1aggregate__specific__function__info.html" title="{cubxasl::aggregate\l_specific_function_info\n||}" alt="" coords="345,667,500,759"/>
+<area shape="rect" id="node6" href="$structcubxasl_1_1aggregate__percentile__info.html" title="{cubxasl::aggregate\l_percentile_info\n|+ cur_group_percentile\l|}" alt="" coords="345,454,500,546"/>
+<area shape="rect" id="node7" href="$structcubxasl_1_1aggregate__accumulator.html" title="{cubxasl::aggregate\l_accumulator\n|+ curr_cnt\l+ clear_value_at_clone\l_decache\l+ clear_value2_at_clone\l_decache\l|}" alt="" coords="524,638,687,789"/>
+<area shape="rect" id="node8" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="557,461,654,539"/>
+<area shape="rect" id="node9" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="711,675,812,752"/>
+<area shape="rect" id="node11" href="$structregu__variable__list__node.html" title="{regu_variable_list_node\n||}" alt="" coords="837,675,995,752"/>
+</map>

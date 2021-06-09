@@ -1,0 +1,18 @@
+<map id="db_is_system_class" name="db_is_system_class">
+<area shape="rect" id="node2" href="$checksumdb_8c.html#afe70c040b8b7d07321e72445770b3f39" title="chksum_start" alt="" coords="232,81,333,108"/>
+<area shape="rect" id="node4" href="$cas__execute_8c.html#a39ed4860d075855bc6f79df6b8bbcd23" title="class_type" alt="" coords="240,208,325,235"/>
+<area shape="rect" id="node11" href="$unload__schema_8c.html#a7f350b6c338350335b74eb7af07ab6db" title="filter_system_classes" alt="" coords="208,335,357,361"/>
+<area shape="rect" id="node13" href="$name__resolution_8c.html#a8e618654b13d30a3f4fdaa2f60c041b1" title="pt_bind_names" alt="" coords="227,385,338,412"/>
+<area shape="rect" id="node14" href="$work__space_8h.html#a1837cfceed0c6003e62da2d0e04f8043" title="ws_release_user_instance" alt="" coords="195,436,371,463"/>
+<area shape="rect" id="node3" href="$utility_8h.html#a17e5e9027694b5ebcafb93de6b62544f" title="checksumdb" alt="" coords="445,5,541,32"/>
+<area shape="rect" id="node5" href="$unload__schema_8c.html#a7f79130b2669758e935be8a5b57261c1" title="emit_schema" alt="" coords="443,56,543,83"/>
+<area shape="rect" id="node6" href="$cas__execute_8c.html#a858d459979b8025dd9647a20ed6202a7" title="fetch_class" alt="" coords="448,107,537,133"/>
+<area shape="rect" id="node7" href="$locator__cl_8c.html#ac4aa1cdfdeb6a0d65e7a7fd4e1194e69" title="locator_mflush" alt="" coords="439,157,546,184"/>
+<area shape="rect" id="node8" href="$cas__execute_8c.html#ac9fd90b5a9617b8844606ead2a23be01" title="sch_superclass" alt="" coords="436,208,549,235"/>
+<area shape="rect" id="node9" href="$virtual__object_8h.html#a5005f7cde869fb7bab3295b4b98bd9cf" title="vid_getall_mops" alt="" coords="435,259,551,285"/>
+<area shape="rect" id="node10" href="$work__space_8h.html#ac7a4e44b46ae0cb814f318c2e5ad420c" title="ws_has_dirty_objects" alt="" coords="419,309,567,336"/>
+<area shape="rect" id="node12" href="$unload__schema_8c.html#a38e5979524fc917d4975785de16b7068" title="get_ordered_classes" alt="" coords="421,360,564,387"/>
+<area shape="rect" id="node15" href="$log__applier_8c.html#a2d40a24d77f7d73ad8df508c20a5dbdb" title="la_apply_update_log" alt="" coords="423,411,563,437"/>
+<area shape="rect" id="node16" href="$log__applier_8c.html#aae222bafc8147044057c499295141b9b" title="la_apply_insert_log" alt="" coords="426,461,559,488"/>
+<area shape="rect" id="node17" href="$log__applier_8c.html#a390461d66ad3104850cb216ea17fc356" title="la_create_repl_filter" alt="" coords="425,512,560,539"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="qmgr_get_new_page" name="qmgr_get_new_page">
+<area shape="rect" id="node2" href="$list__file_8c.html#a09a320a9e523837ac8c8de64dcb10a05" title="qfile_allocate_new\l_ovf_page" alt="" coords="213,71,343,112"/>
+<area shape="rect" id="node6" href="$list__file_8c.html#a53924a83c409288c48e6380a479fcb2d" title="qfile_allocate_new_page" alt="" coords="196,137,360,163"/>
+<area shape="rect" id="node7" href="$list__file_8c.html#a1914e43f4a96514cbc9f0555a5b69529" title="qfile_copy_list_pages" alt="" coords="205,187,351,214"/>
+<area shape="rect" id="node8" href="$list__file_8h.html#ab4f13b15b2ddac8fbd42965eb5a7dbbd" title="qfile_get_first_page" alt="" coords="211,238,345,265"/>
+<area shape="rect" id="node3" href="$list__file_8h.html#a2005306af0ac913c31afc556976d6f5b" title="qfile_add_overflow\l_tuple_to_list" alt="" coords="418,5,549,47"/>
+<area shape="rect" id="node4" href="$list__file_8h.html#a88701afa7143306fcc56a84af346b37d" title="qfile_add_tuple_get\l_pos_in_list" alt="" coords="416,71,551,112"/>
+<area shape="rect" id="node5" href="$list__file_8h.html#a1e2a42b61030009d8c1e0a978ef043db" title="qfile_add_tuple_to_list" alt="" coords="408,137,559,163"/>
+</map>

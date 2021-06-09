@@ -1,0 +1,6 @@
+<map id="qfile_sort_scan_id" name="qfile_sort_scan_id">
+<area shape="rect" id="node2" href="$structqfile__list__scan__id.html" title="{qfile_list_scan_id\n|+ status\l+ position\l+ curr_pgptr\l+ curr_tpl\l+ keep_page_on_finish\l+ curr_offset\l+ curr_tplno\l|}" alt="" coords="112,403,268,568"/>
+<area shape="rect" id="node3" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="26,5,98,97"/>
+<area shape="rect" id="node4" href="$structqfile__list__id.html" title="{qfile_list_id\n|+ tuple_cnt\l+ page_cnt\l+ last_pgptr\l+ last_offset\l+ lasttpl_len\l+ query_id\l+ is_domain_resolved\l|}" alt="" coords="100,175,249,340"/>
+<area shape="rect" id="node5" href="$structqfile__tuple__record.html" title="{qfile_tuple_record\n|+ tpl\l+ size\l|}" alt="" coords="272,211,396,303"/>
+</map>

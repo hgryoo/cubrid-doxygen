@@ -1,0 +1,17 @@
+<map id="src/broker/shard_proxy_handler.c" name="src/broker/shard_proxy_handler.c">
+<area shape="rect" id="node3" href="$broker__config_8h.html" title="broker_config.h" alt="" coords="745,393,855,420"/>
+<area shape="rect" id="node5" href="$cas__protocol_8h.html" title="cas_protocol.h" alt="" coords="324,468,431,495"/>
+<area shape="rect" id="node8" href="$broker__shm_8h.html" title="broker_shm.h" alt="" coords="455,319,556,345"/>
+<area shape="rect" id="node13" href="$shard__proxy__common_8h.html" title="shard_proxy_common.h" alt="" coords="762,169,923,196"/>
+<area shape="rect" id="node14" href="$shard__proxy__queue_8h.html" title="shard_proxy_queue.h" alt="" coords="981,244,1128,271"/>
+<area shape="rect" id="node16" href="$shard__shm_8h.html" title="shard_shm.h" alt="" coords="475,95,573,121"/>
+<area shape="rect" id="node17" href="$shard__proxy__handler_8h.html" title="shard_proxy_handler.h" alt="" coords="1026,95,1179,121"/>
+<area shape="rect" id="node18" href="$shard__proxy__io_8h.html" title="shard_proxy_io.h" alt="" coords="881,95,1002,121"/>
+<area shape="rect" id="node19" href="$shard__parser_8h.html" title="shard_parser.h" alt="" coords="1255,95,1363,121"/>
+<area shape="rect" id="node20" href="$shard__proxy__function_8h.html" title="shard_proxy_function.h" alt="" coords="648,95,805,121"/>
+<area shape="rect" id="node6" href="$environment__variable_8h.html" title="environment_variable.h" alt="" coords="615,468,771,495"/>
+<area shape="rect" id="node7" href="$porting_8h.html" title="porting.h" alt="" coords="857,468,929,495"/>
+<area shape="rect" id="node11" href="$broker__env__def_8h.html" title="broker_env_def.h" alt="" coords="547,393,669,420"/>
+<area shape="rect" id="node12" href="$broker__max__heap_8h.html" title="broker_max_heap.h" alt="" coords="149,393,285,420"/>
+<area shape="rect" id="node15" href="$shard__proxy__log_8h.html" title="shard_proxy_log.h" alt="" coords="736,244,864,271"/>
+</map>

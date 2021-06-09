@@ -1,0 +1,11 @@
+<map id="hash_destroy" name="hash_destroy">
+<area shape="rect" id="node2" href="$api__handle_8c.html#a47e2e45aaa7b32357eefa11592bdd1bc" title="be_create_static_hash" alt="" coords="316,29,469,55"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#a932f66574162f8bb1bbed2db87096f0a" title="opool_create" alt="" coords="345,79,441,106"/>
+<area shape="rect" id="node6" href="$cci__stub_8c.html#a2b2b1b4364ff9d0cde63ac6c14eece1a" title="opool_destroy" alt="" coords="159,130,262,157"/>
+<area shape="rect" id="node8" href="$db__object_8c.html#ae74b996d894aa488a1f2531cadc22752" title="orp_api_destroy" alt="" coords="153,210,268,237"/>
+<area shape="rect" id="node10" href="$api__handle_8c.html#af09df53b46621fb1b80f63ff16888c0e" title="sh_destroy" alt="" coords="167,29,254,55"/>
+<area shape="rect" id="node3" href="$api__handle_8h.html#a65e742d561a70c9b5eda6b231714dae0" title="create_handle_context" alt="" coords="529,29,682,55"/>
+<area shape="rect" id="node5" href="$cci__stub_8c.html#a9f506c749a42c53c4bfcd4737b97a0e3" title="ci_create_connection_impl" alt="" coords="517,105,693,131"/>
+<area shape="rect" id="node7" href="$cci__stub_8c.html#ad40d8680e80defc1196fc5fc1d3671e6" title="connection_impl_dtor" alt="" coords="320,181,465,207"/>
+<area shape="rect" id="node9" href="$db__stub_8h.html#a151573e562acfa96b7c152a3e9245198" title="api_object_resultset\l_pool_create" alt="" coords="323,232,462,273"/>
+</map>

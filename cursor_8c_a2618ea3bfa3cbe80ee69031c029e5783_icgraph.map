@@ -1,0 +1,15 @@
+<map id="cursor_get_tuple_value" name="cursor_get_tuple_value">
+<area shape="rect" id="node2" href="$cursor_8h.html#a0b7c2275565ead2f2e1e673500e6d0ce" title="cursor_get_tuple_value_list" alt="" coords="209,279,389,306"/>
+<area shape="rect" id="node5" href="$parse__evaluate_8c.html#a8c4be930836f528e1f5dea8ef14f7767" title="pt_evaluate_tree_internal" alt="" coords="660,130,827,157"/>
+<area shape="rect" id="node14" href="$dbi__compat_8h.html#a6e62481610a9ea448fdd30d385e0eca4" title="db_query_get_tuple\l_value" alt="" coords="232,97,367,139"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a2248172a3f1f8df350d2a634b27cd987" title="db_query_get_tuple\l_valuelist" alt="" coords="457,5,592,47"/>
+<area shape="rect" id="node4" href="$parse__evaluate_8c.html#a2e51925132dc08be6682930e1bb0bbdf" title="pt_set_table_to_db" alt="" coords="459,71,591,98"/>
+<area shape="rect" id="node6" href="$parser_8h.html#aad3a2a097f967001a50f50bbb499e6e8" title="pt_get_one_tuple_from\l_list_id" alt="" coords="447,123,602,164"/>
+<area shape="rect" id="node7" href="$cursor_8h.html#a84dfa260db77ce4614b496d1f7761961" title="cursor_fetch_page_having\l_tuple" alt="" coords="437,188,612,229"/>
+<area shape="rect" id="node8" href="$execute__statement_8c.html#adda1936f2e53715e967cbc5d042a3f3f" title="update_objs_for_list_file" alt="" coords="443,254,606,281"/>
+<area shape="rect" id="node9" href="$execute__statement_8c.html#a55436ca0ff8e3d473b5c8ed3e259f183" title="delete_list_by_oids" alt="" coords="458,305,591,331"/>
+<area shape="rect" id="node10" href="$execute__statement_8c.html#a2ed4e36685dfd7b5d4e82516a415d0e9" title="insert_subquery_results" alt="" coords="445,355,605,382"/>
+<area shape="rect" id="node11" href="$execute__statement_8h.html#aeb0727e2943818bb2f6be2e9c6bce087" title="do_execute_session\l_statement" alt="" coords="454,407,595,448"/>
+<area shape="rect" id="node12" href="$method__scan_8c.html#ab5c1ecda7b5379e97445b2d334767dcb" title="method_receive_results\l_for_stand_alone" alt="" coords="445,472,605,513"/>
+<area shape="rect" id="node13" href="$query__method_8h.html#a4d924a91280fef1cebe25fbcfca186d7" title="method_invoke_for_server" alt="" coords="437,538,612,565"/>
+</map>

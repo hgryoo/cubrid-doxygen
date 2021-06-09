@@ -1,0 +1,7 @@
+<map id="setobj_drop_element" name="setobj_drop_element">
+<area shape="rect" id="node2" href="$set__object_8h.html#aefc4764ac33e055802cf007aeb4a701a" title="set_drop_element" alt="" coords="196,81,321,108"/>
+<area shape="rect" id="node3" href="$db__set__function_8h.html#adcd3f27ebf30db498086899fc5d101d1" title="db_set_drop" alt="" coords="400,5,493,32"/>
+<area shape="rect" id="node4" href="$db__set__function_8h.html#a27ba4d145638bb0fc4059edbf27e460a" title="db_col_drop" alt="" coords="401,56,493,83"/>
+<area shape="rect" id="node5" href="$db__set__function_8h.html#adc56f01246bec62337298fd58df633cd" title="db_col_drop_nulls" alt="" coords="383,107,510,133"/>
+<area shape="rect" id="node6" href="$trigger__manager_8c.html#a2b293d32494648b1e2ef15c887d157dc" title="unregister_user_trigger" alt="" coords="369,157,524,184"/>
+</map>

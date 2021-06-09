@@ -1,0 +1,21 @@
+<map id="spage_is_record_located_at_end" name="spage_is_record_located_at_end">
+<area shape="rect" id="node2" href="$slotted__page_8h.html#afd65f125e45ecee4ba04b6063c18bced" title="spage_delete" alt="" coords="244,376,343,403"/>
+<area shape="rect" id="node16" href="$slotted__page_8h.html#a7b3b2ecfd80f3b8ace03a602a03ec4b7" title="spage_merge" alt="" coords="456,711,556,737"/>
+<area shape="rect" id="node17" href="$slotted__page_8c.html#a8babb15f96118961deadfbb0c2c4f0f0" title="spage_put_helper" alt="" coords="231,619,355,645"/>
+<area shape="rect" id="node18" href="$slotted__page_8h.html#a26dce904e73bbe85947a5d1bab46d2f2" title="spage_take_out" alt="" coords="236,669,351,696"/>
+<area shape="rect" id="node19" href="$slotted__page_8c.html#a493ecd5f1f20fc0cfdfe05580ec3d2b5" title="spage_update_record\l_after_compact" alt="" coords="220,721,367,762"/>
+<area shape="rect" id="node20" href="$slotted__page_8c.html#a16a6f10a1b47e510f1c2729f54124aa2" title="spage_update_record\l_in_place" alt="" coords="220,786,367,827"/>
+<area shape="rect" id="node3" href="$btree_8c.html#ae76900aeda71256f1f0389b8977d3b86" title="btree_delete_key_from_leaf" alt="" coords="415,5,597,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#ada7a268ad5aa96c1b9011b9db1f2a717" title="btree_delete_meta_record" alt="" coords="420,56,592,83"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a1012b26ece22db26540906ab85b6ef30" title="btree_merge_node" alt="" coords="441,107,571,133"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a777512037cd84eb5b53cc6492a81447f" title="btree_split_node" alt="" coords="645,171,763,197"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a7a1974789f71aceef777e399fbdf8e8d" title="btree_split_test" alt="" coords="451,208,561,235"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a29dab257ee803a595192321147caa5ed" title="btree_split_root" alt="" coords="649,247,759,273"/>
+<area shape="rect" id="node9" href="$btree_8h.html#a19a791a33496458f2108868eefd3cd45" title="btree_rv_nodehdr_undo\l_insert" alt="" coords="427,310,585,351"/>
+<area shape="rect" id="node10" href="$btree_8h.html#a2b8fbc95054f60f5e521999cb4958496" title="btree_rv_pagerec_delete" alt="" coords="424,376,588,403"/>
+<area shape="rect" id="node11" href="$btree_8c.html#aaa267465ef3900c62ee720e7cd2000b6" title="btree_rv_record_modify\l_internal" alt="" coords="427,427,585,469"/>
+<area shape="rect" id="node12" href="$extendible__hash_8c.html#ad5ee71036809b9d5b07f696c075258f1" title="ehash_distribute_records\l_into_two_bucket" alt="" coords="423,493,589,534"/>
+<area shape="rect" id="node13" href="$extendible__hash_8h.html#a00a376ae68821de52e727460e5b2fd97" title="ehash_delete" alt="" coords="457,559,555,585"/>
+<area shape="rect" id="node14" href="$extendible__hash_8h.html#ad2cddf164d1a2069d2f6a16ba660e031" title="ehash_rv_delete_redo" alt="" coords="431,609,581,636"/>
+<area shape="rect" id="node15" href="$extendible__hash_8c.html#a431c1ad9f3270ff06f031ec199890e23" title="ehash_rv_delete" alt="" coords="447,660,565,687"/>
+</map>

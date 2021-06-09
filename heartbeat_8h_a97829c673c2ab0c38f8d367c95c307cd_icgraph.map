@@ -1,0 +1,13 @@
+<map id="css_send_heartbeat_request" name="css_send_heartbeat_request">
+<area shape="rect" id="node2" href="$server__support_8c.html#ae58c62456655b0400a42763aa98b0232" title="css_process_change\l_server_ha_mode_request" alt="" coords="209,5,384,47"/>
+<area shape="rect" id="node4" href="$server__support_8c.html#a48a983c343682b67779fffd257ac84f2" title="css_process_get_eof\l_request" alt="" coords="223,71,370,112"/>
+<area shape="rect" id="node5" href="$heartbeat_8h.html#aa26b7b665d5e76a8b90e0c117bfec120" title="hb_deregister_from\l_master" alt="" coords="230,136,363,177"/>
+<area shape="rect" id="node6" href="$heartbeat_8h.html#a2e6014376ec0ebc7fe7b2e36a6bead1d" title="hb_register_to_master" alt="" coords="221,202,372,229"/>
+<area shape="rect" id="node9" href="$master__heartbeat_8c.html#af2f59a0ac1f17f2c3bb37bc3515ef63e" title="hb_resource_send_changemode" alt="" coords="192,253,401,279"/>
+<area shape="rect" id="node11" href="$master__heartbeat_8c.html#af8a4a7638be6683075e9ce9187c80931" title="hb_resource_send_get_eof" alt="" coords="207,307,386,334"/>
+<area shape="rect" id="node3" href="$server__support_8c.html#a2934109a790ef10943951a8dd1a2f63c" title="css_process_master\l_request" alt="" coords="481,39,623,80"/>
+<area shape="rect" id="node7" href="$heartbeat_8h.html#a7f2564c7af0ae10ccc4f711805a71df9" title="hb_process_init" alt="" coords="495,151,609,178"/>
+<area shape="rect" id="node8" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="519,202,585,229"/>
+<area shape="rect" id="node10" href="$master__heartbeat_8c.html#aac551c80bc667e1910292bf4505b4338" title="hb_resource_job_change_mode" alt="" coords="449,253,655,279"/>
+<area shape="rect" id="node12" href="$master__heartbeat_8c.html#a7ef50c56c703c8550287ce5ab0c71722" title="hb_thread_check_disk\l_failure" alt="" coords="476,304,628,345"/>
+</map>

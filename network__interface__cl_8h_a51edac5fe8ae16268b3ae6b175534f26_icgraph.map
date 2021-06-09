@@ -1,0 +1,7 @@
+<map id="btree_add_index" name="btree_add_index">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#a763686da25436ca147ff96459ba0cc67" title="allocate_index" alt="" coords="171,81,276,108"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#ac53a3d8a0b509303408b2fb742e1cf4b" title="allocate_unique_constraint" alt="" coords="324,5,500,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#ae4753271b1ad5f658307b6269fefd248" title="allocate_disk_structures\l_index" alt="" coords="548,49,711,90"/>
+<area shape="rect" id="node5" href="$schema__manager_8c.html#a3ff533d629bcff4db58f79f702510735" title="allocate_foreign_key" alt="" coords="341,107,483,133"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="355,181,469,208"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="timeval_add_msec" name="timeval_add_msec">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#a63a546f3bd2182d9b4e0ead2aa4e6251" title="dwb_wait_for_block\l_completion" alt="" coords="205,5,343,47"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8c.html#a83874b2343c29141d5349aa14526ffde" title="dwb_wait_for_strucure\l_modification" alt="" coords="197,71,351,112"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#aa91abaf89af63e703737ac5c00d7cd7d" title="logpb_flush_pages" alt="" coords="209,137,339,163"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#ac2390524b0573f69fb3e957717ff9243" title="pgbuf_flush_chkpt_seq_list" alt="" coords="184,187,364,214"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8c.html#aca527d0257d80e110577c000d35a8d97" title="dwb_acquire_next_slot" alt="" coords="412,17,567,43"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8h.html#a38ef0589ebaadb13a11f9bdf6ec322c7" title="dwb_flush_force" alt="" coords="431,71,548,98"/>
+</map>

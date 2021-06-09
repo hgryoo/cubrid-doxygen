@@ -1,0 +1,21 @@
+<map id="db_make_nchar" name="db_make_nchar">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#ae5567b6b475c49ef1448ab2663eef094" title="db_string_convert_to" alt="" coords="187,71,329,98"/>
+<area shape="rect" id="node6" href="$dbtype__function_8h.html#acd2e5589f8c77a2a80b81260909fffd9" title="db_string_truncate" alt="" coords="193,122,323,149"/>
+<area shape="rect" id="node7" href="$cnv_8h.html#a773963dd7108265a483a0030115d9bd9" title="db_string_value" alt="" coords="201,197,315,223"/>
+<area shape="rect" id="node9" href="$session_8c.html#ad4996dbf33e64c995b1128139d78d972" title="db_value_alloc_and_copy" alt="" coords="173,247,343,274"/>
+<area shape="rect" id="node10" href="$object__domain_8c.html#a43fd07c8dbf7ae97c0d8fc59fa482918" title="make_desired_string\l_db_value" alt="" coords="187,299,329,340"/>
+<area shape="rect" id="node11" href="$object__primitive_8c.html#a00c50cd668633adf58cb08f3f8c1a82a" title="mr_getmem_nchar" alt="" coords="193,365,323,391"/>
+<area shape="rect" id="node12" href="$object__primitive_8c.html#a4033e6408a3e3abddfca39655a5ad920" title="mr_readval_nchar_internal" alt="" coords="171,415,345,442"/>
+<area shape="rect" id="node13" href="$object__primitive_8c.html#a8e071126217967993842181a1a1d8243" title="mr_setval_nchar" alt="" coords="199,466,317,493"/>
+<area shape="rect" id="node14" href="$cas__execute_8c.html#a235ed61a310d3fc128b8c64464ce6c47" title="netval_to_dbval" alt="" coords="201,517,315,543"/>
+<area shape="rect" id="node15" href="$numeric__opfunc_8h.html#a2934147eb85e158f40bb51be6d46cad1" title="numeric_db_value_coerce\l_from_num" alt="" coords="171,568,345,609"/>
+<area shape="rect" id="node16" href="$parser_8h.html#a2ec0c565180360fd5b91fe6a2484b39f" title="pt_db_value_initialize" alt="" coords="185,634,331,661"/>
+<area shape="rect" id="node17" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="168,685,348,711"/>
+<area shape="rect" id="node18" href="$string__opfunc_8h.html#adc0df8ac55ed6ad5da5df0aa503e3a0f" title="qstr_make_typed_string" alt="" coords="177,735,339,762"/>
+<area shape="rect" id="node19" href="$object__domain_8c.html#a6162b6101f4f4be3a23d93ee4ef7a06e" title="tp_dtoa" alt="" coords="225,786,291,813"/>
+<area shape="rect" id="node20" href="$object__domain_8c.html#a186fd3d01b61c32e412253a193b4f4c9" title="tp_ftoa" alt="" coords="227,837,289,863"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#ad19ec3a1c9d3ada8d8cf8fc3c78c70a1" title="pt_json_str_codeset\l_normalization" alt="" coords="417,5,555,47"/>
+<area shape="rect" id="node4" href="$string__opfunc_8h.html#a0a58389fcce7ab4260247ba112a8d7ee" title="db_json_convert_to_utf8" alt="" coords="404,71,568,98"/>
+<area shape="rect" id="node5" href="$string__opfunc_8h.html#a4970af452df899258924dfaebad2d626" title="db_json_copy_and_convert\l_to_utf8" alt="" coords="396,123,576,164"/>
+<area shape="rect" id="node8" href="$db__macro_8c.html#aaac41ec0708d386802559c899a7d90aa" title="coerce_char_to_dbvalue" alt="" coords="405,466,567,493"/>
+</map>

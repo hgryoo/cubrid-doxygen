@@ -1,0 +1,21 @@
+<map id="cursor_first_tuple" name="cursor_first_tuple">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#ad22a46756c4f38f18c0d69002e155450" title="db_query_first_tuple" alt="" coords="176,456,315,483"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#a432ae2e4cbf4a4657fc1165dd0f553a7" title="au_drop_user" alt="" coords="409,5,509,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#a2b48850e09edf4650b2cab61d029401a" title="au_dump_to_file" alt="" coords="400,56,517,83"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a5cfe0a7ffd242da92334d64fce12f629" title="au_export_users" alt="" coords="399,107,518,133"/>
+<area shape="rect" id="node6" href="$authenticate_8h.html#afb3c317e408bd9ad5a72bcc7c52877e2" title="au_find_user" alt="" coords="411,157,507,184"/>
+<area shape="rect" id="node7" href="$authenticate_8c.html#a19834076a0fc4f36b7af2e4f1094dcfb" title="au_get_new_auth" alt="" coords="397,208,521,235"/>
+<area shape="rect" id="node8" href="$checksumdb_8c.html#af15bd4119508a23ed602f6dfd7f37688" title="chksum_get_prev_checksum\l_results" alt="" coords="363,259,555,301"/>
+<area shape="rect" id="node9" href="$checksumdb_8c.html#a69f120474e33601b7c2421898f13d161" title="chksum_report_diff" alt="" coords="392,325,525,352"/>
+<area shape="rect" id="node10" href="$checksumdb_8c.html#a01d5e1b3a8b103b5be99721ca323cdd5" title="chksum_report_schema_diff" alt="" coords="365,376,552,403"/>
+<area shape="rect" id="node11" href="$checksumdb_8c.html#ac7155fbf03565c5bb71a2f0ca7597aea" title="chksum_report_summary" alt="" coords="374,427,543,453"/>
+<area shape="rect" id="node12" href="$checksumdb_8c.html#ae43367c21b046473ea58ea0c9b7936ed" title="chksum_update_master\l_checksum" alt="" coords="378,478,539,519"/>
+<area shape="rect" id="node13" href="$csql_8c.html#ad3f65a0ccb2951a16bf6b75d4958e5c0" title="csql_display_trace" alt="" coords="393,544,524,571"/>
+<area shape="rect" id="node14" href="$csql__result_8c.html#aecdfca7c24bc3ed014f444d04f92ca25" title="csql_results" alt="" coords="413,595,505,621"/>
+<area shape="rect" id="node15" href="$dbi__compat_8h.html#ac28fe5564f438b2ab42628420e9dfcb8" title="db_query_seek_tuple" alt="" coords="386,645,531,672"/>
+<area shape="rect" id="node16" href="$cas__execute_8c.html#a155b399a63eb71ca8a1103ac41f668b1" title="fetch_result" alt="" coords="603,671,693,697"/>
+<area shape="rect" id="node17" href="$execute__schema_8h.html#a0ca53719d282b2611e36999a182f7c9e" title="do_check_rows_for_null" alt="" coords="377,747,540,773"/>
+<area shape="rect" id="node18" href="$unload__schema_8c.html#a19c7529861ddae68e39dc5e12d23e60e" title="export_serial" alt="" coords="411,797,507,824"/>
+<area shape="rect" id="node19" href="$log__applier_8c.html#a6b467a291b33f9f1c52cfcbcef3d6f8b" title="la_get_ha_apply_info" alt="" coords="387,848,531,875"/>
+<area shape="rect" id="node20" href="$esql__cli_8c.html#a70f208e67ee627aa6266d945583940a0" title="uci_execute" alt="" coords="413,899,505,925"/>
+</map>

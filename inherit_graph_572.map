@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classHL_1_1MallocHeap.html" title="HL::MallocHeap" alt="" coords="5,46,121,73"/>
+<area shape="rect" id="node2" href="$classHL_1_1ObstackHeap.html" title="HL::ObstackHeap\&lt; 0,\l MallocHeap \&gt;" alt="" coords="201,8,352,49"/>
+<area shape="rect" id="node5" href="$classHL_1_1ZoneHeap.html" title="HL::ZoneHeap\&lt; MallocHeap, 0 \&gt;" alt="" coords="169,75,384,102"/>
+<area shape="rect" id="node3" href="$classHL_1_1SizeHeap.html" title="HL::SizeHeap\&lt; ObstackHeap\l\&lt; 0, MallocHeap \&gt; \&gt;" alt="" coords="432,5,628,47"/>
+<area shape="rect" id="node4" href="$classTheObstackHeapType.html" title="TheObstackHeapType" alt="" coords="702,13,855,39"/>
+<area shape="rect" id="node6" href="$classHL_1_1FreelistHeap.html" title="HL::FreelistHeap\&lt; ZoneHeap\l\&lt; MallocHeap, 0 \&gt; \&gt;" alt="" coords="433,71,627,112"/>
+<area shape="rect" id="node7" href="$classHL_1_1LockedHeap.html" title="HL::LockedHeap\&lt; SpinLock\lType, FreelistHeap\&lt; ZoneHeap\l\&lt; MallocHeap, 0 \&gt; \&gt; \&gt;" alt="" coords="676,63,881,119"/>
+<area shape="rect" id="node8" href="$classTheFixedHeapType.html" title="TheFixedHeapType" alt="" coords="929,78,1065,105"/>
+</map>

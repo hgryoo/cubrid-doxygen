@@ -1,0 +1,6 @@
+<map id="catcls_get_apply_info_log_record_time" name="catcls_get_apply_info_log_record_time">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="201,35,369,76"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="616,5,747,47"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ad7d852d6547ead2335b5cc6ce6360ea0" title="log_wakeup_log_flush\l_daemon" alt="" coords="417,35,568,76"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#aa91abaf89af63e703737ac5c00d7cd7d" title="logpb_flush_pages" alt="" coords="616,86,747,113"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="css_read_one_request" name="css_read_one_request">
+<area shape="rect" id="node2" href="$connection__sr_8h.html#ab47ff109ae696be9a494b969f5123125" title="css_receive_request" alt="" coords="207,71,349,98"/>
+<area shape="rect" id="node3" href="$server__support_8c.html#adf5ceb094b83224c48d4c22203367ded" title="css_internal_request\l_handler" alt="" coords="425,5,567,47"/>
+<area shape="rect" id="node4" href="$master_8c.html#a8a4bdb5250660839484e99764d10da44" title="css_process_new_connection" alt="" coords="397,71,595,98"/>
+<area shape="rect" id="node5" href="$master__request_8h.html#a0d0d71b7f22a154bc9f7522d09a17429" title="css_process_info_request" alt="" coords="409,122,583,149"/>
+</map>

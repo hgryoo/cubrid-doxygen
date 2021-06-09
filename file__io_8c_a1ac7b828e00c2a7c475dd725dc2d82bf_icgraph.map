@@ -1,0 +1,17 @@
+<map id="fileio_os_read" name="fileio_os_read">
+<area shape="rect" id="node2" href="$file__io_8h.html#af92be8ac407eb6f15f5c9f15b229aa16" title="fileio_read" alt="" coords="177,302,258,328"/>
+<area shape="rect" id="node15" href="$file__io_8h.html#aeb8b0533645d198c4f9ce9cfa65ab8c2" title="fileio_read_pages" alt="" coords="156,632,279,659"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html#a4e56e244f9d5c2cf42106670fa58d101" title="disk_can_overwrite\l_data_volume" alt="" coords="355,109,489,150"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8c.html#afcf0480c55f8a719699f416082dc8206" title="dwb_check_data_page\l_is_sane" alt="" coords="345,560,499,601"/>
+<area shape="rect" id="node6" href="$file__io_8h.html#a4b534d96b4cf0f126cc3e3455bc476ae" title="fileio_copy_volume" alt="" coords="355,226,489,252"/>
+<area shape="rect" id="node7" href="$file__io_8h.html#abc96dd43b6e1e621b7003ebc703d940f" title="fileio_reset_volume" alt="" coords="355,276,489,303"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#a8cbce269e04ed30279485fc77e786430" title="pgbuf_claim_bcb_for_fix" alt="" coords="341,327,503,354"/>
+<area shape="rect" id="node9" href="$page__buffer_8c.html#aa7f4946b49981798d50ffae1c26aeee4" title="pgbuf_check_bcb_page_vpid" alt="" coords="327,378,517,404"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a4eab49e93d9b7ef62c929efc625e5cec" title="logpb_fetch_header\l_from_active_log" alt="" coords="355,429,489,470"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#a575ff09e22f563027fb0ab3106bd0348" title="logpb_peek_header_of\l_active_log_from_backup" alt="" coords="337,494,507,536"/>
+<area shape="rect" id="node12" href="$log__page__buffer_8c.html#a721f75e714fb216eb1c86e38c1640644" title="logpb_read_page_from_file" alt="" coords="565,84,743,111"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html#ad2a4086ead560587d249dcefe4a943e4" title="logpb_fetch_from_archive" alt="" coords="337,175,507,202"/>
+<area shape="rect" id="node14" href="$log__page__buffer_8c.html#aca52bf7ea3cda88146355cbbbf9a4d87" title="logpb_find_oldest_available\l_page_id" alt="" coords="331,44,513,85"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="577,622,731,664"/>
+<area shape="rect" id="node16" href="$log__page__buffer_8c.html#acadd68b314ff158d221266ebcc9a11b4" title="logpb_read_page_from\l_active_log" alt="" coords="345,625,499,666"/>
+</map>

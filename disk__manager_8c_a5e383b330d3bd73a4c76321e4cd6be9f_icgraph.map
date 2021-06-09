@@ -1,0 +1,7 @@
+<map id="disk_is_sector_reserved" name="disk_is_sector_reserved">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a3e817661d1b1d12e8287beaac17f820c" title="disk_is_page_sector\l_reserved_with_debug_crash" alt="" coords="216,93,407,135"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a08258e43f8ffbfd0091d3959a247eca9" title="disk_is_page_sector\l_reserved" alt="" coords="455,5,596,47"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#a77ff6ca6c124519ccd48294173aa9ee6" title="pgbuf_is_valid_page" alt="" coords="455,71,595,98"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#a92e66577d09468848d4c6e520b3d5c0d" title="locator_drop_class\l_name_entry" alt="" coords="460,123,591,164"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#adecb56661a8c0b7ebd008b74d8e3b512" title="locator_defence_drop\l_class_name_entry" alt="" coords="644,152,791,193"/>
+</map>

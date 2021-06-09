@@ -1,0 +1,5 @@
+<map id="log_tran_btid_unique_stats_chunk" name="log_tran_btid_unique_stats_chunk">
+<area shape="rect" id="node2" href="$structlog__tran__btid__unique__stats.html" title="{log_tran_btid_unique\l_stats\n|+ deleted\l|}" alt="" coords="61,189,203,281"/>
+<area shape="rect" id="node3" href="$structlog__unique__stats.html" title="{log_unique_stats\n|+ num_nulls\l+ num_keys\l+ num_oids\l|}" alt="" coords="5,5,125,112"/>
+<area shape="rect" id="node4" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="149,20,251,97"/>
+</map>

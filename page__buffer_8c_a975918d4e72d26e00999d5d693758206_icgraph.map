@@ -1,0 +1,6 @@
+<map id="pgbuf_bcb_safe_flush_force_lock" name="pgbuf_bcb_safe_flush_force_lock">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#abd4eba7853551f4117e645cb8bfdf847" title="pgbuf_flush_seq_list" alt="" coords="211,5,353,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#a172d7adc186f7dc6862f73c7fd2e8e55" title="pgbuf_invalidate_all\l_debug" alt="" coords="214,57,350,98"/>
+<area shape="rect" id="node5" href="$page__buffer_8h.html#acb30faadf59202892e5dd7a8afcde82e" title="pgbuf_invalidate_debug" alt="" coords="203,123,361,149"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#ac2390524b0573f69fb3e957717ff9243" title="pgbuf_flush_chkpt_seq_list" alt="" coords="409,5,589,32"/>
+</map>

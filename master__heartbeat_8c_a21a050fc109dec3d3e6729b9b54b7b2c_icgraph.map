@@ -1,0 +1,6 @@
+<map id="hb_thread_cluster_worker" name="hb_thread_cluster_worker">
+<area shape="rect" id="node2" href="$master__heartbeat_8h.html#aa878758626a36f3cabda7f3036ae0858" title="hb_resource_receive\l_get_eof" alt="" coords="224,5,367,47"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#a445bfec33e06f7d759c35d6704382524" title="hb_thread_initialize" alt="" coords="229,71,362,98"/>
+<area shape="rect" id="node3" href="$master__request_8c.html#abb95f071d1dd6ed28c991bb1e12edc6c" title="css_process_get_eof" alt="" coords="415,13,561,39"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8h.html#ad3854f3310ba585c385d71a4c1616b09" title="hb_master_init" alt="" coords="435,71,541,98"/>
+</map>

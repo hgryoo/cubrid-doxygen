@@ -1,0 +1,5 @@
+<map id="cubxasl::json_table::node::init_ordinality" name="cubxasl::json_table::node::init_ordinality">
+<area shape="rect" id="node2" href="$classcubscan_1_1json__table_1_1scanner.html#a96a83e644dd54cea2d95ed10e29a5546" title="cubscan::json_table\l::scanner::reset_ordinality" alt="" coords="196,39,368,80"/>
+<area shape="rect" id="node3" href="$classcubscan_1_1json__table_1_1scanner.html#a4f319e2c68c0bf6e6206d3ddddbf796a" title="cubscan::json_table\l::scanner::clear" alt="" coords="416,5,555,47"/>
+<area shape="rect" id="node4" href="$classcubscan_1_1json__table_1_1scanner.html#a99af789495d777cd1b1d8dd7c713ff68" title="cubscan::json_table\l::scanner::open" alt="" coords="416,71,555,112"/>
+</map>

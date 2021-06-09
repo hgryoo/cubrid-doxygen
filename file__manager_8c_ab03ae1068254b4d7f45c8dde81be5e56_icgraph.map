@@ -1,0 +1,16 @@
+<map id="file_get_sticky_first_page" name="file_get_sticky_first_page">
+<area shape="rect" id="node2" href="$btree_8h.html#a3c06f9ee331612389816bed78e65c7ac" title="btree_get_btid_from_file" alt="" coords="239,60,401,87"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#af6c98f91ee46d76cd9a9e576c6456d3e" title="file_tracker_item_reuse_heap" alt="" coords="224,119,416,145"/>
+<area shape="rect" id="node7" href="$file__manager_8h.html#a206d2a6ed0eb2b2479d9f4ccb1571547" title="file_tracker_load" alt="" coords="494,173,611,200"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#a5909b1a1d28770fee9749613b8d3816a" title="heap_get_header_page" alt="" coords="242,307,398,333"/>
+<area shape="rect" id="node14" href="$vacuum_8c.html#aa519e47bb0e76950cf28a2e197ef8c5e" title="vacuum_get_first_page\l_dropped_files" alt="" coords="241,221,399,262"/>
+<area shape="rect" id="node3" href="$btree_8h.html#a3c85046f2365a12a2921225c99808a5f" title="btree_check_by_btid" alt="" coords="481,5,624,32"/>
+<area shape="rect" id="node4" href="$btree_8h.html#ab34ca7ee87eabdd2180f092066db543d" title="btree_repair_prev_link" alt="" coords="478,56,627,83"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a7939b3a271a8a34cd612b2741be489c4" title="file_tracker_item_dump\l_btree_capacity" alt="" coords="474,107,631,149"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="704,173,839,200"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="689,224,853,251"/>
+<area shape="rect" id="node11" href="$heap__file_8h.html#a2227d0baf96c8e9ee396fcb52ecd3c73" title="heap_check_heap_file" alt="" coords="477,275,628,301"/>
+<area shape="rect" id="node12" href="$heap__file_8h.html#a9c3b67fbb2c2a962cd9476c5e0610edf" title="heap_get_hfid_from_vfid" alt="" coords="471,325,635,352"/>
+<area shape="rect" id="node13" href="$heap__file_8h.html#a5e313f0925494170e1858df2a8794dbe" title="heap_rv_postpone_append\l_pages_to_heap" alt="" coords="464,377,641,418"/>
+<area shape="rect" id="node15" href="$vacuum_8h.html#a36fb5103effdeb06fe620798b36af461" title="vacuum_initialize" alt="" coords="491,224,614,251"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="classobj_free_desclist" name="classobj_free_desclist">
+<area shape="rect" id="node2" href="$class__object_8h.html#abf5d7b23110fa22e0c127521c24a735c" title="classobj_free_descriptor" alt="" coords="204,56,367,83"/>
+<area shape="rect" id="node5" href="$schema__manager_8c.html#a0cb64687e709b6eaaa513b8def2baff6" title="sm_reset_descriptors" alt="" coords="212,107,359,133"/>
+<area shape="rect" id="node3" href="$class__object_8h.html#aa1f93f14b2270eec0ed74f157b396da4" title="classobj_make_descriptor" alt="" coords="416,5,589,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#a258213f07ce1703b5cf4c406a0837045" title="sm_free_descriptor" alt="" coords="436,56,569,83"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#a3b0219c9ad80cc2dad107a148290edcb" title="sm_transaction_boundary" alt="" coords="417,107,588,133"/>
+<area shape="rect" id="node7" href="$schema__manager_8c.html#a9d014b3ebeaf0ce2c4ba47922277f5e7" title="install_new_representation" alt="" coords="415,157,591,184"/>
+</map>

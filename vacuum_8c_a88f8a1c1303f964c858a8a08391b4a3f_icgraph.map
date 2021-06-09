@@ -1,0 +1,6 @@
+<map id="vacuum_compare_dropped_files" name="vacuum_compare_dropped_files">
+<area shape="rect" id="node2" href="$vacuum_8c.html#ab3cea56efb984531d2c8dbc2ca5f3cfe" title="vacuum_add_dropped_file" alt="" coords="232,5,405,32"/>
+<area shape="rect" id="node4" href="$vacuum_8c.html#adf3aabbdefc66d86e068756ddcf9fe30" title="vacuum_find_dropped_file" alt="" coords="232,56,405,83"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#ae91e0f47523b8c7ff4d7581c7883d038" title="vacuum_rv_notify_dropped_file" alt="" coords="453,5,656,32"/>
+<area shape="rect" id="node5" href="$vacuum_8h.html#a0a55bc5bf18a3ecd596732eb313bf5c1" title="vacuum_is_file_dropped" alt="" coords="473,56,636,83"/>
+</map>

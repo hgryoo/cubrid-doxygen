@@ -1,0 +1,6 @@
+<map id="fileio_page_hexa_dump" name="fileio_page_hexa_dump">
+<area shape="rect" id="node2" href="$log__recovery_8c.html#afd45fb1ef67df793b067695e37d91623" title="log_recovery_analysis" alt="" coords="212,5,363,32"/>
+<area shape="rect" id="node4" href="$file__io_8c.html#aca6d2f0fa8db31627a725fcb74139310" title="pwrite_with_injected\l_fault" alt="" coords="217,57,357,98"/>
+<area shape="rect" id="node3" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="415,5,511,32"/>
+<area shape="rect" id="node5" href="$file__io_8c.html#a8e7a49def94a8699adba85f5e3f4c4f1" title="fileio_os_write" alt="" coords="411,64,516,91"/>
+</map>

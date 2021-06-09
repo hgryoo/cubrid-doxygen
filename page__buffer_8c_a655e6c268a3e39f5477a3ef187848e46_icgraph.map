@@ -1,0 +1,5 @@
+<map id="pgbuf_reset_temp_lsa" name="pgbuf_reset_temp_lsa">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a421fd50c31a6b7e87ada9559a39e22c5" title="logpb_check_and_reset\l_temp_lsa" alt="" coords="204,23,363,65"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="433,5,526,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#afdf53e4360c4332c6770c24fcdd49bc1" title="logpb_copy_volume" alt="" coords="411,56,548,83"/>
+</map>

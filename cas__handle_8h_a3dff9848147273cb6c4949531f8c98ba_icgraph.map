@@ -1,0 +1,9 @@
+<map id="hm_new_srv_handle" name="hm_new_srv_handle">
+<area shape="rect" id="node2" href="$cas__execute_8c.html#af824690d93baaedcca4808c911d7d4c3" title="create_srv_handle_with\l_query_result" alt="" coords="195,5,353,47"/>
+<area shape="rect" id="node4" href="$cas__function_8h.html#a86aae9afd60e21af7c964ea5752ba309" title="fn_get_query_info" alt="" coords="211,71,337,98"/>
+<area shape="rect" id="node5" href="$cas__execute_8h.html#aee0aa1d2154b6630cb99732f71ad118a" title="ux_prepare" alt="" coords="231,122,317,149"/>
+<area shape="rect" id="node7" href="$cas__execute_8h.html#ace4faf20b5b8b588ceb0494b846ed4f3" title="ux_schema_info" alt="" coords="215,173,333,199"/>
+<area shape="rect" id="node3" href="$cas__execute_8c.html#ace493c88c381cec40bd3d9ebc6ba754e" title="ux_use_sp_out" alt="" coords="412,13,523,39"/>
+<area shape="rect" id="node6" href="$cas__function_8c.html#a635a2b29ecc1cec25b1461301ca3aab6" title="fn_prepare_internal" alt="" coords="401,122,533,149"/>
+<area shape="rect" id="node8" href="$cas__function_8h.html#a08a90bf078a8ebea8181b8bbc0b9c819" title="fn_schema_info" alt="" coords="410,173,525,199"/>
+</map>

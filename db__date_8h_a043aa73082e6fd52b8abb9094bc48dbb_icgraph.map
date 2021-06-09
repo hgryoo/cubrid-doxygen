@@ -1,0 +1,6 @@
+<map id="db_strftime" name="db_strftime">
+<area shape="rect" id="node2" href="$csql__result__format_8c.html#ad27a4cf8980c58deac0af4386deae046" title="double_to_string" alt="" coords="155,9,272,36"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#ac21ed28c2bae99a740226407cd0e72e5" title="pt_xasl_data_type_to\l_domain" alt="" coords="140,65,287,106"/>
+<area shape="rect" id="node3" href="$csql__result__format_8c.html#a615aadd42f9ddc0c94255f17c0660a8d" title="csql_db_value_as_string" alt="" coords="335,5,500,32"/>
+<area shape="rect" id="node5" href="$xasl__generation_8h.html#afe16617c99177ca7cb6d411d9e5e5713" title="pt_to_regu_variable" alt="" coords="350,80,485,107"/>
+</map>

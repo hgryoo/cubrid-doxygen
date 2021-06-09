@@ -1,0 +1,21 @@
+<map id="logtb_clear_tdes" name="logtb_clear_tdes">
+<area shape="rect" id="node2" href="$log__manager_8h.html#a205cb9f31defd227b8340f7f4bd24a09" title="log_complete" alt="" coords="442,312,541,339"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="836,210,985,236"/>
+<area shape="rect" id="node8" href="$log__recovery_8c.html#a55342b1df03774997b07f168bc2f56ea" title="log_rv_analysis_end\l_checkpoint" alt="" coords="841,13,981,54"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="203,312,325,339"/>
+<area shape="rect" id="node11" href="$log__tran__table_8c.html#a3bc8e667a4001db19a340b7f600ba3ae" title="logtb_allocate_tran\l_index" alt="" coords="426,93,557,134"/>
+<area shape="rect" id="node14" href="$log__tran__table_8c.html#a6cc94001cf3c733f41073e2b847a8275" title="logtb_finalize_tdes" alt="" coords="199,552,329,579"/>
+<area shape="rect" id="node17" href="$log__tran__table_8c.html#ab6259b55420e741a2b4e5b9d05778f85" title="logtb_free_tran_index" alt="" coords="418,427,565,454"/>
+<area shape="rect" id="node18" href="$log__tran__table_8c.html#a0e075f8cf3a95dd3685eaaa9890335dc" title="logtb_get_new_tran_id" alt="" coords="188,210,340,236"/>
+<area shape="rect" id="node19" href="$log__tran__table_8c.html#a9bce4472330e5cbb58805dfa37cf239a" title="logtb_initialize_system_tdes" alt="" coords="171,603,357,630"/>
+<area shape="rect" id="node20" href="$log__system__tran_8cpp.html#a066ac29440eef7e4eab760c67c766fe8" title="systdes_retire_tdes" alt="" coords="196,654,332,680"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a6ae789049ef769d2489e14fd6bec41f8" title="log_abort" alt="" coords="669,260,744,287"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a390852f8765cd90576d47d02ef0d10b6" title="log_commit" alt="" coords="662,311,751,338"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a766a771dfebf096e54eca48d411cf0d0" title="log_recovery_finish\l_postpone" alt="" coords="639,362,774,404"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#a18e7fc0efb64ea17207486e0abacaebe" title="log_recovery_undo" alt="" coords="641,428,772,455"/>
+<area shape="rect" id="node9" href="$log__recovery_8c.html#ac171971a3d45b8f97159ace9995bb21e" title="log_rv_analysis_record" alt="" coords="1033,20,1188,47"/>
+<area shape="rect" id="node12" href="$log__tran__table_8c.html#a2009f11bd300ce6fb8b2901332593f28" title="logtb_assign_tran_index" alt="" coords="625,108,788,135"/>
+<area shape="rect" id="node13" href="$log__tran__table_8c.html#ad26c32b896a5944c2b5f64f28c69eaa3" title="logtb_rv_find_allocate\l_tran_index" alt="" coords="633,42,781,84"/>
+<area shape="rect" id="node15" href="$classlog__system__tdes.html#ad16ad072f3512a8af5c777ac19d68869" title="log_system_tdes::~log\l_system_tdes" alt="" coords="414,632,569,673"/>
+<area shape="rect" id="node16" href="$classlog__system__tdes.html#a83670aa1209e11d8d6865089376eb0a0" title="log_system_tdes::destroy\l_system_transactions" alt="" coords="405,553,577,594"/>
+</map>

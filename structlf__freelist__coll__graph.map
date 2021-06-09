@@ -1,0 +1,6 @@
+<map id="lf_freelist" name="lf_freelist">
+<area shape="rect" id="node2" href="$structlf__tran__system.html" title="{lf_tran_system\n|+ entry_count\l+ global_transaction_id\l+ min_active_transaction_id\l+ mati_refresh_interval\l+ used_entry_count\l|}" alt="" coords="63,351,248,487"/>
+<area shape="rect" id="node5" href="$structlf__tran__entry.html" title="{lf_tran_entry\n|+ last_cleanup_id\l+ transaction_id\l+ retired_list\l+ temp_entry\l+ entry_idx\l+ did_incr\l|}" alt="" coords="5,549,129,700"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1bitmap.html" title="{lockfree::bitmap\n|+ bitfield\l+ entry_count\l+ entry_count_in_use\l+ style\l+ usage_threshold\l+ start_idx\l+ FULL_USAGE_RATIO\l+ NINTETYFIVE_PERCENTILE\l_USAGE_RATIO\l|+ bitmap()\l+ ~bitmap()\l+ init()\l+ destroy()\l+ get_entry()\l+ free_entry()\l+ is_full()\l}" alt="" coords="40,5,255,288"/>
+<area shape="rect" id="node4" href="$structlf__entry__descriptor.html" title="{lf_entry_descriptor\n|+ of_local_next\l+ of_next\l+ of_del_tran_id\l+ of_key\l+ of_mutex\l+ using_mutex\l+ f_alloc\l+ f_free\l+ f_init\l+ f_uninit\l+ f_key_copy\l+ f_key_cmp\l+ f_hash\l+ f_duplicate\l|}" alt="" coords="279,13,408,281"/>
+</map>

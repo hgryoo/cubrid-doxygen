@@ -1,0 +1,9 @@
+<map id="logtb_find_current_tran_lsa" name="logtb_find_current_tran_lsa">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a2c31657df36a10a573c448e212e86c54" title="heap_log_delete_physical" alt="" coords="179,107,349,133"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#aad64b24fe26326bcf208fff0a228988b" title="heap_update_relocation" alt="" coords="397,157,556,184"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#a512d30dc792740a94604451092dc9493" title="heap_update_bigone" alt="" coords="193,208,335,235"/>
+<area shape="rect" id="node8" href="$heap__file_8c.html#a0e14957c5684f34d4601bbcbbef56dc4" title="heap_update_home" alt="" coords="197,259,331,285"/>
+<area shape="rect" id="node3" href="$heap__file_8c.html#a9c06dba1a14e54d2c79028ae05ff51bf" title="heap_delete_bigone" alt="" coords="408,5,545,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#ae6bc2f0a557f47735e3626174f158ac0" title="heap_delete_home" alt="" coords="411,56,542,83"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a39452d0770e56fac7920a1eef55d75b9" title="heap_delete_relocation" alt="" coords="399,107,554,133"/>
+</map>

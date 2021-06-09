@@ -1,0 +1,10 @@
+<map id="qdata_add_monetary" name="qdata_add_monetary">
+<area shape="rect" id="node2" href="$query__opfunc_8c.html#aaa4fc64a3aae2f00688cccdae601613f" title="qdata_add_bigint_to\l_dbval" alt="" coords="206,5,345,47"/>
+<area shape="rect" id="node5" href="$query__opfunc_8c.html#a27a78a12a3bbf1187ecc267631511d11" title="qdata_add_double_to\l_dbval" alt="" coords="203,71,348,112"/>
+<area shape="rect" id="node6" href="$query__opfunc_8c.html#af38a84872eda679e3bf38c1bb74090a4" title="qdata_add_float_to\l_dbval" alt="" coords="209,136,341,177"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#ab523c334c51905e3e11f5acc718f0ecd" title="qdata_add_int_to_dbval" alt="" coords="196,202,355,229"/>
+<area shape="rect" id="node8" href="$query__opfunc_8c.html#a12dfd52f9a6537d98b40db5a3ea7b744" title="qdata_add_monetary\l_to_dbval" alt="" coords="204,253,347,295"/>
+<area shape="rect" id="node9" href="$query__opfunc_8c.html#a88e35dcda78f66259418964bb14f8fcf" title="qdata_add_short_to\l_dbval" alt="" coords="207,319,343,360"/>
+<area shape="rect" id="node3" href="$query__opfunc_8h.html#a9fa70ad6fa6a96385c1600dd2e37f203" title="qdata_add_dbval" alt="" coords="583,169,703,195"/>
+<area shape="rect" id="node4" href="$query__opfunc_8h.html#aac9d8a58076279ce106291800e69f542" title="qdata_strcat_dbval" alt="" coords="403,169,535,195"/>
+</map>

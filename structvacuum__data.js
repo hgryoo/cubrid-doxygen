@@ -1,0 +1,26 @@
+var structvacuum__data =
+[
+    [ "vacuum_data", "structvacuum__data.html#ae01a397abcd6e914ae561a17bb5e08a7", null ],
+    [ "get_first_blockid", "structvacuum__data.html#a6300d32822bfa7591026881e65801d3c", null ],
+    [ "get_first_entry", "structvacuum__data.html#a367e897859a9cb7e40a4e5689d2dd9d2", null ],
+    [ "get_last_blockid", "structvacuum__data.html#a54cac5f221e9122be3ef49ce827e2687", null ],
+    [ "has_one_page", "structvacuum__data.html#a3bf089c67c39bef6f4479d5b072259f7", null ],
+    [ "is_empty", "structvacuum__data.html#a72a16638d7cf69c953ed75bf4d2c9844", null ],
+    [ "set_last_blockid", "structvacuum__data.html#ab2f58149575e87d727fbd7d37c72c9ec", null ],
+    [ "set_oldest_unvacuumed_on_boot", "structvacuum__data.html#ad84aad23997de1b67b457dacfc08308c", null ],
+    [ "update", "structvacuum__data.html#a8d3ac9a3f174ae46ac29f6347dc5ebea", null ],
+    [ "upgrade_oldest_unvacuumed", "structvacuum__data.html#a529f1ce5b6becb7eef9b5d7b29ddd70e", null ],
+    [ "first_page", "structvacuum__data.html#a1129125ee18911078a2613fe5ee8c607", null ],
+    [ "is_archive_removal_safe", "structvacuum__data.html#a25e9598b57a5d009c122703718935b70", null ],
+    [ "is_loaded", "structvacuum__data.html#a202d251e743226be72034954e1d2c7e8", null ],
+    [ "is_restoredb_session", "structvacuum__data.html#a56b6e113118cff16c971615793487bde", null ],
+    [ "keep_from_log_pageid", "structvacuum__data.html#a618f3246c2580c9fe03337c2a1c27394", null ],
+    [ "last_page", "structvacuum__data.html#af921b98691ed82c956fc8478b9d14f64", null ],
+    [ "log_block_npages", "structvacuum__data.html#aa7e1b55876ce58570fab03ac64bc9ad1", null ],
+    [ "m_last_blockid", "structvacuum__data.html#a032d9bb3eb1959a0d6dbb2170dab812f", null ],
+    [ "oldest_unvacuumed_mvccid", "structvacuum__data.html#a7ff69d0c622918b9b4023623c77e67a0", null ],
+    [ "page_data_max_count", "structvacuum__data.html#a1b07182faa4d668cf061ca6f0b1c019c", null ],
+    [ "recovery_lsa", "structvacuum__data.html#a13a2700bbba38ba40e932d1031112a8c", null ],
+    [ "shutdown_sequence", "structvacuum__data.html#aed0770c87f10536e29311ab344ff580e", null ],
+    [ "vacuum_data_file", "structvacuum__data.html#ab85204c3fcc42888101fc27fe64bada6", null ]
+];

@@ -1,0 +1,7 @@
+<map id="destroy_cci_object" name="destroy_cci_object">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#a403f9866eb677c6d2c0b31e8301197d8" title="opool_get_object_resultset" alt="" coords="367,5,544,32"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#a91de48a506cc9fdcee5ab29b8953ed84" title="opool_ht_elem_dtor" alt="" coords="184,56,319,83"/>
+<area shape="rect" id="node6" href="$cci__stub_8c.html#afebeb397e771a4749dabb49b43c2b8b8" title="opool_oid_delete" alt="" coords="192,107,311,133"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#a932f66574162f8bb1bbed2db87096f0a" title="opool_create" alt="" coords="592,56,688,83"/>
+<area shape="rect" id="node5" href="$cci__stub_8c.html#a2b2b1b4364ff9d0cde63ac6c14eece1a" title="opool_destroy" alt="" coords="404,56,507,83"/>
+</map>

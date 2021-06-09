@@ -1,0 +1,5 @@
+<map id="sync_dump_statistics" name="sync_dump_statistics">
+<area shape="rect" id="node2" href="$critical__section_8h.html#ac7e9dfe45fd2766bc49bfede3bf967da" title="csect_name_at" alt="" coords="225,5,335,32"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8h.html#a769af3de20659154bcccc1f577abe274" title="sthread_dump_cs_stat" alt="" coords="203,56,357,83"/>
+<area shape="rect" id="node4" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="405,56,512,83"/>
+</map>

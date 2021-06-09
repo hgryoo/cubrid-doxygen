@@ -1,0 +1,9 @@
+<map id="disk_stab_cursor_set_at_start" name="disk_stab_cursor_set_at_start">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#aad7390c570ef3eedca9ee0cf6221c1ee" title="disk_reserve_sectors\l_in_volume" alt="" coords="215,19,361,61"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#a9855426436d83dd37b9c5d1cd68d28ab" title="disk_stab_iterate_units_all" alt="" coords="200,107,376,133"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="424,5,571,32"/>
+<area shape="rect" id="node5" href="$disk__manager_8h.html#a11c0f285080de4a726add2b851dac9c1" title="disk_rv_redo_format" alt="" coords="427,56,567,83"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#a1ae52075d2aa7b8e8ffd2cb55c301005" title="disk_volume_boot" alt="" coords="434,107,561,133"/>
+<area shape="rect" id="node7" href="$disk__manager_8c.html#ab6db5934cc0e7964937d5b54473b1fc1" title="disk_stab_dump" alt="" coords="439,157,556,184"/>
+<area shape="rect" id="node8" href="$disk__manager_8c.html#aeec03ae8e7c25ee787b85ac8140c8596" title="disk_check_volume" alt="" coords="429,208,566,235"/>
+</map>

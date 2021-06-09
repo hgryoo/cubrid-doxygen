@@ -1,0 +1,12 @@
+<map id="spage_compare_slot_offset" name="spage_compare_slot_offset">
+<area shape="rect" id="node2" href="$slotted__page_8h.html#a89feba336f0fb490247f5dd08062008d" title="spage_compact" alt="" coords="196,261,311,287"/>
+<area shape="rect" id="node3" href="$vacuum_8c.html#a21a09fb70213284c38077da5c94adf52" title="vacuum_heap_page_log\l_and_reset" alt="" coords="379,5,542,47"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#ace71b7c043ac822741cf92955ee7a814" title="vacuum_rv_redo_vacuum\l_heap_page" alt="" coords="375,71,546,112"/>
+<area shape="rect" id="node5" href="$vacuum_8h.html#a4917b3cfea42b5b179319ec4f98682af" title="vacuum_rv_redo_vacuum\l_heap_record" alt="" coords="375,136,546,177"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#a6ad960e84d48361ff1ab7c0994e3f05e" title="heap_compact_pages" alt="" coords="386,202,535,229"/>
+<area shape="rect" id="node7" href="$slotted__page_8c.html#a493ecd5f1f20fc0cfdfe05580ec3d2b5" title="spage_update_record\l_after_compact" alt="" coords="387,253,534,295"/>
+<area shape="rect" id="node8" href="$slotted__page_8h.html#ab68d38c29c234969d85ddb87ddad1cfb" title="spage_split" alt="" coords="417,319,505,346"/>
+<area shape="rect" id="node9" href="$slotted__page_8c.html#a8babb15f96118961deadfbb0c2c4f0f0" title="spage_put_helper" alt="" coords="399,370,523,397"/>
+<area shape="rect" id="node10" href="$slotted__page_8h.html#a7b3b2ecfd80f3b8ace03a602a03ec4b7" title="spage_merge" alt="" coords="411,421,511,447"/>
+<area shape="rect" id="node11" href="$slotted__page_8c.html#af8530cffae1a516e28cbb0c41799c35c" title="spage_has_enough_contiguous\l_space" alt="" coords="359,472,563,513"/>
+</map>

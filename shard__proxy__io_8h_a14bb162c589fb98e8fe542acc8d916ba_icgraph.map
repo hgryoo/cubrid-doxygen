@@ -1,0 +1,7 @@
+<map id="proxy_shard_io_print" name="proxy_shard_io_print">
+<area shape="rect" id="node2" href="$shard__proxy__io_8c.html#a9a90e6e7de639ba56603b02317636804" title="proxy_cas_io_new" alt="" coords="211,5,341,32"/>
+<area shape="rect" id="node4" href="$shard__proxy__io_8c.html#acbda91e57dd9fc557d8e7df2b718030a" title="proxy_shard_io_destroy" alt="" coords="196,56,356,83"/>
+<area shape="rect" id="node3" href="$shard__proxy__io_8c.html#aafb0cf99242ce0ad1674778debf4dc3e" title="proxy_process_cas_register" alt="" coords="404,5,589,32"/>
+<area shape="rect" id="node5" href="$shard__proxy__io_8h.html#a6743f9538982cd6c8b226057f8e16ee1" title="proxy_io_destroy" alt="" coords="436,56,557,83"/>
+<area shape="rect" id="node6" href="$shard__proxy__io_8c.html#aeb394f10e41439a9f26be84334905838" title="proxy_shard_io_initialize" alt="" coords="415,107,579,133"/>
+</map>

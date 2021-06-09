@@ -1,0 +1,7 @@
+<map id="ut_kill_proxy_process" name="ut_kill_proxy_process">
+<area shape="rect" id="node2" href="$broker__admin__pub_8c.html#a360e3e8bf49653cfc4ffd884475ced9a" title="proxy_inactivate" alt="" coords="207,5,325,32"/>
+<area shape="rect" id="node4" href="$broker_8c.html#aaa219607a30bcb567284745904217927" title="stop_proxy_server" alt="" coords="201,56,331,83"/>
+<area shape="rect" id="node3" href="$broker__admin__pub_8c.html#a2069352d734d14eb117b09560ade8dcd" title="br_inactivate" alt="" coords="401,5,497,32"/>
+<area shape="rect" id="node5" href="$broker_8c.html#a76748bb9e898b446e576c83bf758bbe4" title="proxy_monitor_worker" alt="" coords="568,81,719,108"/>
+<area shape="rect" id="node6" href="$broker_8c.html#a02ec798c2dc7a6eb69afe65e7aa57b36" title="restart_proxy_server" alt="" coords="379,107,520,133"/>
+</map>

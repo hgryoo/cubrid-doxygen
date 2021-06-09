@@ -1,0 +1,16 @@
+<map id="encrypt_password_sha2_512" name="encrypt_password_sha2_512">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a5cfe0a7ffd242da92334d64fce12f629" title="au_export_users" alt="" coords="271,5,390,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#ace9d5a5f2a717b99510c8eefe7feb2b1" title="au_login" alt="" coords="693,173,764,200"/>
+<area shape="rect" id="node10" href="$authenticate_8c.html#a6cc0705679fa78505fb5a1ca4fef96f6" title="au_set_password_internal" alt="" coords="244,139,417,165"/>
+<area shape="rect" id="node14" href="$authenticate_8c.html#a5346ac26e1bca03bbc0777cae45021a5" title="match_password" alt="" coords="270,225,391,252"/>
+<area shape="rect" id="node3" href="$unloaddb_8h.html#aab2eec8bbc4988ca57d5cef87fafc87b" title="extract_classes" alt="" coords="498,5,613,32"/>
+<area shape="rect" id="node5" href="$db__stub_8c.html#a725de860a647ad79fee0d5ce1b1f5143" title="ci_conn_connect_impl" alt="" coords="812,72,963,99"/>
+<area shape="rect" id="node6" href="$cas__execute_8h.html#a2bfc849a249d18d8e67ad6840558e742" title="ux_database_connect" alt="" coords="1011,173,1160,200"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#aaaf24d762d7ccd58a0082a3bfd26b43e" title="db_login" alt="" coords="852,173,923,200"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#a735bbbf348fd8491ebb278e27b8c9fbd" title="db_restart_ex" alt="" coords="837,224,938,251"/>
+<area shape="rect" id="node9" href="$authenticate_8h.html#a8d753785735f3c84472ddbc0ff23aacd" title="au_login_method" alt="" coords="827,275,947,301"/>
+<area shape="rect" id="node11" href="$authenticate_8h.html#a12981b736d3f151096718c9b236c86f4" title="au_set_password" alt="" coords="493,107,617,133"/>
+<area shape="rect" id="node12" href="$authenticate_8h.html#ad1964511272ae4835eee74e509f979a8" title="au_set_password_encoded\l_method" alt="" coords="465,158,645,199"/>
+<area shape="rect" id="node13" href="$authenticate_8h.html#a169b2f9ee6e24df9e19bd081271a6ab2" title="au_set_password_encoded\l_sha1_method" alt="" coords="465,223,645,265"/>
+<area shape="rect" id="node15" href="$authenticate_8c.html#a345411e85753dfbd58f1dfa3aae45a84" title="au_perform_login" alt="" coords="495,289,616,316"/>
+</map>

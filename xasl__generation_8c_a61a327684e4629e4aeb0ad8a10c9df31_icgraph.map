@@ -1,0 +1,19 @@
+<map id="pt_make_access_spec" name="pt_make_access_spec">
+<area shape="rect" id="node2" href="$xasl__generation_8c.html#a633985da683c0c13a7d4ed534d91f521" title="pt_make_class_access_spec" alt="" coords="222,56,417,83"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#acdadee945b137b88c70b7289e4cf230e" title="pt_make_cselect_access_spec" alt="" coords="217,169,422,196"/>
+<area shape="rect" id="node7" href="$xasl__generation_8c.html#ad6f2fc620742e2172305d1e0545bbd99" title="pt_make_json_table\l_access_spec" alt="" coords="250,250,389,291"/>
+<area shape="rect" id="node8" href="$xasl__generation_8c.html#a76688708de1ac01d99c24ea628018d40" title="pt_make_list_access_spec" alt="" coords="229,316,409,343"/>
+<area shape="rect" id="node15" href="$xasl__generation_8c.html#aeccb2d38ff0f09459def2baa3ef6b2ed" title="pt_make_set_access_spec" alt="" coords="229,396,410,423"/>
+<area shape="rect" id="node17" href="$xasl__generation_8c.html#af818b9ad6c0e18eded00b21e64ba6893" title="pt_make_showstmt_access_spec" alt="" coords="209,505,429,532"/>
+<area shape="rect" id="node3" href="$xasl__generation_8c.html#adca9aa75df7761ba5b053cd92f899ecc" title="pt_to_class_spec_list" alt="" coords="493,5,641,32"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#a6457e45b3d4ac9e8190d17ef180960a8" title="pt_to_buildschema_proc" alt="" coords="485,56,648,83"/>
+<area shape="rect" id="node6" href="$xasl__generation_8c.html#a19906ad42f9a82f16e7d8ffa5ad67476" title="pt_to_cselect_table\l_spec_list" alt="" coords="499,107,634,149"/>
+<area shape="rect" id="node9" href="$xasl__generation_8c.html#af9d281071acaa360c554e13ebaf59e47" title="pt_make_connect_by_proc" alt="" coords="477,173,656,200"/>
+<area shape="rect" id="node10" href="$xasl__generation_8c.html#a60181ecd4510288154c581b4b4bce6e3" title="pt_to_subquery_table\l_spec_list" alt="" coords="493,225,640,266"/>
+<area shape="rect" id="node11" href="$xasl__generation_8c.html#aeb8786463b0e238ffd96c34bc6a63da6" title="pt_to_cte_table_spec_list" alt="" coords="481,291,652,317"/>
+<area shape="rect" id="node12" href="$xasl__generation_8c.html#a4ea08bb04305fd1cec8b6188d2922ba9" title="pt_to_fetch_as_scan_proc" alt="" coords="479,341,654,368"/>
+<area shape="rect" id="node13" href="$xasl__generation_8h.html#a728da7d5b9b5550603a615d3ac24bb7a" title="ptqo_to_list_scan_proc" alt="" coords="489,392,645,419"/>
+<area shape="rect" id="node14" href="$xasl__generation_8c.html#a27b378c84e037826e15488be63b31375" title="pt_make_aptr_parent_node" alt="" coords="477,443,656,469"/>
+<area shape="rect" id="node16" href="$xasl__generation_8c.html#a322070e7237c33f34c33eef77a94938a" title="pt_to_set_expr_table\l_spec_list" alt="" coords="495,494,638,535"/>
+<area shape="rect" id="node18" href="$xasl__generation_8c.html#a357f4bae0b111919ad19bc8cb323cfa7" title="pt_to_showstmt_spec_list" alt="" coords="479,560,654,587"/>
+</map>

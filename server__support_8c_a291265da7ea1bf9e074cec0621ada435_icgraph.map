@@ -1,0 +1,8 @@
+<map id="css_check_accessibility" name="css_check_accessibility">
+<area shape="rect" id="node2" href="$server__support_8h.html#a8b07e301b0f090fa52920cc1b48b4777" title="css_is_shutdown_timeout\l_expired" alt="" coords="217,27,391,69"/>
+<area shape="rect" id="node5" href="$server__support_8h.html#aa9d4922ce427909a91784770a99a3b16" title="css_notify_ha_log_applier\l_state" alt="" coords="218,93,390,134"/>
+<area shape="rect" id="node6" href="$server__support_8c.html#ac2cd29547215949b8aa651ad772b5faf" title="css_process_new_client" alt="" coords="221,159,387,185"/>
+<area shape="rect" id="node3" href="$server__support_8c.html#ad9793b78930d95c3ef58cfec55f490df" title="css_stop_all_workers" alt="" coords="439,5,587,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a43c3e6965dc07096503c8de506a1069f" title="log_abort_all_active\l_transaction" alt="" coords="444,57,581,98"/>
+<area shape="rect" id="node7" href="$server__support_8c.html#a2934109a790ef10943951a8dd1a2f63c" title="css_process_master\l_request" alt="" coords="441,151,584,193"/>
+</map>

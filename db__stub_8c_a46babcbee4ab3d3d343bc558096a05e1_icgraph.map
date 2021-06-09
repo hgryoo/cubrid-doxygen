@@ -1,0 +1,5 @@
+<map id="get_col_count" name="get_col_count">
+<area shape="rect" id="node2" href="$db__stub_8c.html#adc3082e0315129d13d32476c3ab7331a" title="stmt_bind_resultset\l_meta_handle" alt="" coords="156,39,292,80"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a6aed22da5d12b856b8a1efb1f3f72b70" title="api_rs_get_resultset\l_metadata" alt="" coords="340,5,479,47"/>
+<area shape="rect" id="node4" href="$db__stub_8c.html#a6c1bc94329c5ceed834355d673c75344" title="stmt_get_resultset\l_metadata_internal" alt="" coords="343,71,475,112"/>
+</map>

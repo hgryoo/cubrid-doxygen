@@ -1,0 +1,21 @@
+<map id="spage_max_record_size" name="spage_max_record_size">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a0235b56fdf5dfaad97dda55408c328e4" title="catalog_initialize" alt="" coords="257,107,376,133"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#a1bd47a9dfa569f39c05bbbdccff9ae9b" title="heap_manager_initialize" alt="" coords="236,56,397,83"/>
+<area shape="rect" id="node7" href="$heap__file_8h.html#a81e87e3be7f7604f1ec709334c797483" title="heap_nonheader_page\l_capacity" alt="" coords="241,158,393,199"/>
+<area shape="rect" id="node9" href="$slotted__page_8c.html#a756e5a4b54913dd86e1ae6f3593f4594" title="spage_check_mvcc_updatable" alt="" coords="216,224,417,251"/>
+<area shape="rect" id="node11" href="$slotted__page_8c.html#ad0c38bc0f36930d2508633141797c0d9" title="spage_check_record\l_for_insert" alt="" coords="245,305,388,346"/>
+<area shape="rect" id="node15" href="$slotted__page_8c.html#a2225348843f5cb76dccbfbd1f0fe5dbb" title="spage_check_updatable" alt="" coords="235,443,398,469"/>
+<area shape="rect" id="node18" href="$slotted__page_8c.html#a8babb15f96118961deadfbb0c2c4f0f0" title="spage_put_helper" alt="" coords="255,544,379,571"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="486,5,621,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="470,56,637,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="471,107,635,133"/>
+<area shape="rect" id="node8" href="$locator__sr_8h.html#a04d5e2ed684cc4d2b3e5a09765fb88de" title="locator_multi_insert\l_force" alt="" coords="486,158,621,199"/>
+<area shape="rect" id="node10" href="$slotted__page_8h.html#a41adbc08bc8ee0f71a94f4c6670acb9d" title="spage_is_mvcc_updatable" alt="" coords="465,224,641,251"/>
+<area shape="rect" id="node12" href="$slotted__page_8c.html#a7743951007c39122cd9abb306cad75a0" title="spage_find_slot_for\l_insert" alt="" coords="486,275,621,317"/>
+<area shape="rect" id="node13" href="$slotted__page_8h.html#a635a6c611aaf5572d0056cea84f026c7" title="spage_insert_at" alt="" coords="496,392,611,419"/>
+<area shape="rect" id="node14" href="$slotted__page_8h.html#a6fd7a5a8718856c00234aa9e5d33f940" title="spage_insert_for_recovery" alt="" coords="689,367,864,393"/>
+<area shape="rect" id="node16" href="$slotted__page_8h.html#a96d4ff40ec138ee07679d7de0813fbec" title="spage_is_updatable" alt="" coords="485,443,622,469"/>
+<area shape="rect" id="node17" href="$slotted__page_8h.html#a730e0f7edabde62143313bc8fecf3193" title="spage_update" alt="" coords="502,493,605,520"/>
+<area shape="rect" id="node19" href="$slotted__page_8h.html#a96f45ad19da9dc86242cf156645c4f8b" title="spage_append" alt="" coords="500,544,607,571"/>
+<area shape="rect" id="node20" href="$slotted__page_8h.html#a1542082170b53bd4ca7e53f313f8b167" title="spage_put" alt="" coords="512,595,595,621"/>
+</map>

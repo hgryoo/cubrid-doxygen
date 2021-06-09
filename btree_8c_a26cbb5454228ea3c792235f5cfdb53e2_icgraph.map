@@ -1,0 +1,7 @@
+<map id="btree_search_nonleaf_page" name="btree_search_nonleaf_page">
+<area shape="rect" id="node2" href="$btree_8c.html#ad3be7305ad337d78e327eaa268575a46" title="btree_advance_and_find_key" alt="" coords="235,31,425,57"/>
+<area shape="rect" id="node5" href="$btree_8c.html#acea286eb82079783f298baa39d4cd373" title="btree_merge_node_and\l_advance" alt="" coords="251,82,409,123"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a044540db3ec67e88e9313f84c6b242ee" title="btree_split_node_and\l_advance" alt="" coords="257,147,403,189"/>
+<area shape="rect" id="node3" href="$btree_8h.html#ae80950bc8fde8c5da58670a839d58988" title="btree_locate_key" alt="" coords="478,5,599,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#ad40756f7c8c28e6a45092d3df8ac03b8" title="xbtree_find_unique" alt="" coords="473,56,604,83"/>
+</map>

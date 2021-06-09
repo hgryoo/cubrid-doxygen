@@ -1,0 +1,12 @@
+<map id="locator_can_skip_fetch_from_server" name="locator_can_skip_fetch_from_server">
+<area shape="rect" id="node2" href="$locator__cl_8c.html#ae31de882d630b39d0dc5e0f2670f63d3" title="locator_lock" alt="" coords="255,173,347,200"/>
+<area shape="rect" id="node3" href="$locator__cl_8c.html#ae2d2ef0074e3218a23790885d5db5d0c" title="locator_lock_set" alt="" coords="479,5,596,32"/>
+<area shape="rect" id="node11" href="$locator__cl_8c.html#a97fdc87a854adcee66cb56d5f7ebbc12" title="locator_lock_and_doesexist" alt="" coords="209,224,392,251"/>
+<area shape="rect" id="node4" href="$locator__cl_8h.html#a807841a659df9ea7613f212dca2e61d2" title="locator_get_cache_coherency\l_number" alt="" coords="440,57,635,98"/>
+<area shape="rect" id="node5" href="$locator__cl_8h.html#a3f8277df885969c594d6529043245e1a" title="locator_fetch_object" alt="" coords="468,123,607,149"/>
+<area shape="rect" id="node6" href="$locator__cl_8h.html#a43345128717d8aad9ff84393a6bfd367" title="locator_fetch_class" alt="" coords="470,173,605,200"/>
+<area shape="rect" id="node7" href="$locator__cl_8h.html#ad48df9b93687b92ebd22902a680b9409" title="locator_fetch_instance" alt="" coords="683,173,836,200"/>
+<area shape="rect" id="node8" href="$locator__cl_8c.html#acf82bc0f3d4f11a20f464775863f4be1" title="locator_find_class\l_by_oid" alt="" coords="474,275,601,317"/>
+<area shape="rect" id="node9" href="$locator__cl_8c.html#ab9fb1f62ff38efae9c657efd41a2e342" title="locator_find_class\l_by_name" alt="" coords="696,305,823,346"/>
+<area shape="rect" id="node10" href="$locator__cl_8h.html#a162cc8c5c073ef8db7db3d789a6a447b" title="locator_add_class" alt="" coords="474,392,601,419"/>
+</map>

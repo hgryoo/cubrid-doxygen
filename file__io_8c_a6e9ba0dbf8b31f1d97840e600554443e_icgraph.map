@@ -1,0 +1,7 @@
+<map id="fileio_flush_backup" name="fileio_flush_backup">
+<area shape="rect" id="node2" href="$file__io_8h.html#a804410092892d2bfac5a0b9d21a4e3c7" title="fileio_finish_backup" alt="" coords="384,5,520,32"/>
+<area shape="rect" id="node4" href="$file__io_8c.html#a4fe56f069fc8ffa50e58619f9e0fe079" title="fileio_write_backup" alt="" coords="187,56,320,83"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="779,31,881,57"/>
+<area shape="rect" id="node5" href="$file__io_8c.html#a6e1abcb3cd753e4b49625501fe6b7fd3" title="fileio_write_backup_node" alt="" coords="368,56,536,83"/>
+<area shape="rect" id="node6" href="$file__io_8h.html#a19a91bb75511ce2bfa5fe4e18fe88dcc" title="fileio_backup_volume" alt="" coords="584,56,731,83"/>
+</map>

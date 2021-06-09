@@ -1,0 +1,8 @@
+<map id="showstmt_get_metadata" name="showstmt_get_metadata">
+<area shape="rect" id="node2" href="$parser__support_8c.html#a461052699fbe18f35b8718284070a5da" title="pt_make_query_showstmt" alt="" coords="219,5,393,32"/>
+<area shape="rect" id="node3" href="$parse__tree__cl_8c.html#a46f6872e8c9369b473f2b8428c95c928" title="pt_print_showstmt" alt="" coords="241,56,371,83"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#a8ace6e3dcf7c5b1840dc5f4df6fed4b7" title="pt_semantic_check_local" alt="" coords="221,107,391,133"/>
+<area shape="rect" id="node6" href="$show__meta_8h.html#ad6b872cded8db3f1eee433e62e2ee1d4" title="showstmt_get_attributes" alt="" coords="223,157,389,184"/>
+<area shape="rect" id="node4" href="$parse__tree__cl_8c.html#a143de2b2f3374959607a53e3337afe0a" title="pt_init_print_f" alt="" coords="467,56,567,83"/>
+<area shape="rect" id="node7" href="$name__resolution_8c.html#a6e6f45d81387ef9fc94fe2975d65e8e7" title="pt_get_all_showstmt\l_attributes_and_types" alt="" coords="441,150,592,191"/>
+</map>

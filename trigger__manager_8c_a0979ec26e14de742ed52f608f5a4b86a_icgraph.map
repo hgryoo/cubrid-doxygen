@@ -1,0 +1,6 @@
+<map id="tr_trigger_event" name="tr_trigger_event">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a5f6fa30734f54add86e02653faca2971" title="db_trigger_event" alt="" coords="188,5,307,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8c.html#a9f341ff4ec84a560c6ff82709ba8b15a" title="get_user_trigger_objects" alt="" coords="165,56,329,83"/>
+<area shape="rect" id="node3" href="$cas__execute_8c.html#acac59ef04e3708dfe197d92e9d809a00" title="fetch_trigger" alt="" coords="396,5,491,32"/>
+<area shape="rect" id="node5" href="$trigger__manager_8c.html#a3d7ddc46ecd5b26b1c6880d6c63fab45" title="find_event_triggers" alt="" coords="377,56,509,83"/>
+</map>

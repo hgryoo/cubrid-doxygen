@@ -1,0 +1,7 @@
+<map id="qo_check_join_for_multi_range_opt" name="qo_check_join_for_multi_range_opt">
+<area shape="rect" id="node2" href="$query__planner_8c.html#a2e536d726c8f7999dbd9cca454a3ba87" title="qo_join_new" alt="" coords="216,81,311,108"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#a053c8e82287ae14a642dda7b0c8ee09e" title="qo_cp_new" alt="" coords="411,5,499,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#a78d7522d9fccf497692d3f0f7e92f5c4" title="qo_examine_nl_join" alt="" coords="387,56,523,83"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#ae01ebcf9f349d4e6ea212fc4e59e5c43" title="qo_examine_merge_join" alt="" coords="374,107,537,133"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a6d502f0e742e3f1448fefff588540079" title="qo_generate_join_index_scan" alt="" coords="359,157,552,184"/>
+</map>

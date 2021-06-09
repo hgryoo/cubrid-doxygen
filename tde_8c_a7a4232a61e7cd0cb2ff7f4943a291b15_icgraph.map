@@ -1,0 +1,13 @@
+<map id="tde_get_keyinfo" name="tde_get_keyinfo">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a4cec082b7bb9fd3f683382a9eb090096" title="boot_reset_mk_after\l_restart_from_backup" alt="" coords="179,5,327,47"/>
+<area shape="rect" id="node4" href="$tde_8h.html#ae5d4ddd359d5cad9183ef4670dbd8c79" title="tde_cipher_initialize" alt="" coords="185,93,321,119"/>
+<area shape="rect" id="node7" href="$tde_8c.html#a0bcde01c04a3715cc4a2aeabf7502464" title="xtde_change_mk_without\l_flock" alt="" coords="168,144,339,185"/>
+<area shape="rect" id="node10" href="$tde_8c.html#a2bbecc1afcfb2d2a3217d88e77de25ad" title="xtde_get_mk_info" alt="" coords="191,249,316,275"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="620,13,751,55"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="412,46,547,73"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="393,97,566,123"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#a7f4d0687a64b7a18a537ffa607870a6f" title="tde_change_mk_on_server" alt="" coords="390,147,569,174"/>
+<area shape="rect" id="node9" href="$network__interface__sr_8h.html#aebb9501cb4618dbabde1180b42f2de4b" title="stde_change_mk_on_server" alt="" coords="387,198,572,225"/>
+<area shape="rect" id="node11" href="$network__interface__cl_8h.html#af5768cbdabb1070a45c7fe8b9eea1b38" title="tde_get_mk_info" alt="" coords="420,249,539,275"/>
+<area shape="rect" id="node12" href="$network__interface__sr_8h.html#acd9c75999dfe254c1e876372eba9978e" title="stde_get_mk_info" alt="" coords="417,299,542,326"/>
+</map>

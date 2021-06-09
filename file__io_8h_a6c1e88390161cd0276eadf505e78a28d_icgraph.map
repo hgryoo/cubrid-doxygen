@@ -1,0 +1,7 @@
+<map id="fileio_get_backup_volume" name="fileio_get_backup_volume">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#adaf3756eb46d2f608fb945c678a665c8" title="logpb_restore" alt="" coords="237,5,337,32"/>
+<area shape="rect" id="node4" href="$util__sa_8c.html#ae523ae290e95cc481c7ae701392ca9b3" title="print_backup_info" alt="" coords="225,56,349,83"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="397,5,532,32"/>
+<area shape="rect" id="node5" href="$utility_8h.html#a5f35382f20e9bb7772bd4a513fbda32c" title="restoredb" alt="" coords="427,56,503,83"/>
+<area shape="rect" id="node6" href="$utility_8h.html#a10b60f770d6126b9bb769fac421fcd2d" title="restoreslave" alt="" coords="418,107,511,133"/>
+</map>

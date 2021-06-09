@@ -1,0 +1,6 @@
+<map id="session_stop_attached_threads" name="session_stop_attached_threads">
+<area shape="rect" id="node2" href="$session_8c.html#a2b7195f4d807a71e7290871accba1d81" title="session_state_uninit" alt="" coords="220,5,361,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a04babeccad52cd734ce05ffeedf02eda" title="ssession_stop_attached\l_threads" alt="" coords="209,57,372,98"/>
+<area shape="rect" id="node3" href="$session_8h.html#af0e0bce21a1cfdad15c4c9f72ef55d29" title="session_state_destroy" alt="" coords="421,5,575,32"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#ad9e50b33d3536b4f408ed7738e8988c1" title="net_server_conn_down" alt="" coords="420,64,576,91"/>
+</map>

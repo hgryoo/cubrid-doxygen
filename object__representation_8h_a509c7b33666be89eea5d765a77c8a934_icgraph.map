@@ -1,0 +1,10 @@
+<map id="or_unpack_string_alloc" name="or_unpack_string_alloc">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#af63ed165e9ddde93c5477c4f6baca925" title="csession_get_prepared\l_statement" alt="" coords="434,5,590,47"/>
+<area shape="rect" id="node4" href="$db__query_8h.html#a0e462a91dd285b474f0e7a58500af245" title="db_unpack_prepare_info" alt="" coords="431,71,593,98"/>
+<area shape="rect" id="node5" href="$db__query_8c.html#a7d986a3d874708031e8801c7a0bd7e4d" title="or_unpack_query_format" alt="" coords="213,114,378,141"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#ab8a5b28a22cda8bcfb1cee739100f6a3" title="ssession_create_prepared\l_statement" alt="" coords="208,165,383,207"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#a7cce10b54f3fd06231384b44776b3007" title="ssession_find_or_create\l_session" alt="" coords="214,231,377,272"/>
+<area shape="rect" id="node9" href="$work__space_8h.html#ad59f4e429ba562fd32ce6464ca0317b2" title="ws_set_repl_error_into\l_error_link" alt="" coords="219,296,372,337"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#a93c1293b96800340e00cf9d51a4d99f9" title="do_get_prepared_statement_info" alt="" coords="641,42,852,69"/>
+<area shape="rect" id="node7" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="459,205,565,231"/>
+</map>

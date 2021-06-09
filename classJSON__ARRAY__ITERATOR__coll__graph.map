@@ -1,0 +1,4 @@
+<map id="JSON_ARRAY_ITERATOR" name="JSON_ARRAY_ITERATOR">
+<area shape="rect" id="node2" href="$classJSON__ITERATOR.html" title="{JSON_ITERATOR\n||+ JSON_ITERATOR()\l+ ~JSON_ITERATOR()\l+ next()\l+ has_next()\l+ get()\l+ set()\l+ get_value_to_doc()\l+ reset()\l+ is_empty()\l+ clear_content()\l}" alt="" coords="28,160,189,369"/>
+<area shape="rect" id="node3" href="$classJSON__DOC.html" title="{JSON_DOC\n|&#45; MAX_CHUNK_SIZE\l|+ IsLeaf()\l}" alt="" coords="33,5,185,83"/>
+</map>

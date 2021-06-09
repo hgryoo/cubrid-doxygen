@@ -1,0 +1,21 @@
+<map id="src/object/elo.h" name="src/object/elo.h">
+<area shape="rect" id="node2" href="$network__interface__sr_8c.html" title="src/communication/network\l_interface_sr.c" alt="" coords="5,155,188,196"/>
+<area shape="rect" id="node3" href="$dbtype_8h.html" title="src/compat/dbtype.h" alt="" coords="1642,80,1783,107"/>
+<area shape="rect" id="node11" href="$db__elo_8c.html" title="src/compat/db_elo.c" alt="" coords="212,162,352,189"/>
+<area shape="rect" id="node12" href="$db__macro_8c.html" title="src/compat/db_macro.c" alt="" coords="1787,162,1945,189"/>
+<area shape="rect" id="node13" href="$load__sa__loader_8cpp.html" title="src/loaddb/load_sa\l_loader.cpp" alt="" coords="1970,155,2101,196"/>
+<area shape="rect" id="node14" href="$elo_8c.html" title="src/object/elo.c" alt="" coords="2125,162,2236,189"/>
+<area shape="rect" id="node15" href="$object__primitive_8c.html" title="src/object/object_primitive.c" alt="" coords="2260,162,2445,189"/>
+<area shape="rect" id="node16" href="$query__executor_8c.html" title="src/query/query_executor.c" alt="" coords="2469,162,2649,189"/>
+<area shape="rect" id="node17" href="$string__opfunc_8c.html" title="src/query/string_opfunc.c" alt="" coords="2673,162,2843,189"/>
+<area shape="rect" id="node18" href="$heap__file_8c.html" title="src/storage/heap_file.c" alt="" coords="2867,162,3022,189"/>
+<area shape="rect" id="node19" href="$log__manager_8c.html" title="src/transaction/log\l_manager.c" alt="" coords="3045,155,3175,196"/>
+<area shape="rect" id="node20" href="$dbtype__function_8c.html" title="src/compat/dbtype_function.c" alt="" coords="2471,80,2666,107"/>
+<area shape="rect" id="node4" href="$event__log_8c.html" title="src/base/event_log.c" alt="" coords="1405,162,1548,189"/>
+<area shape="rect" id="node5" href="$language__support_8c.html" title="src/base/language_support.c" alt="" coords="1573,162,1762,189"/>
+<area shape="rect" id="node6" href="$memory__alloc_8c.html" title="src/base/memory_alloc.c" alt="" coords="377,162,545,189"/>
+<area shape="rect" id="node7" href="$memory__hash_8c.html" title="src/base/memory_hash.c" alt="" coords="569,162,739,189"/>
+<area shape="rect" id="node8" href="$object__representation__sr_8c.html" title="src/base/object_representation_sr.c" alt="" coords="763,162,993,189"/>
+<area shape="rect" id="node9" href="$pinnable__buffer_8hpp.html" title="src/base/pinnable_buffer.hpp" alt="" coords="1017,162,1206,189"/>
+<area shape="rect" id="node10" href="$tz__compile_8c.html" title="src/base/tz_compile.c" alt="" coords="1231,162,1381,189"/>
+</map>

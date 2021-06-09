@@ -1,0 +1,4 @@
+<map id="print_output" name="print_output">
+<area shape="rect" id="node2" href="$classstring__buffer.html" title="{string_buffer\n|&#45; m_len\l|+ string_buffer()\l+ ~string_buffer()\l+ string_buffer()\l+ string_buffer()\l+ get_buffer()\l+ clear()\l+ len()\l+ release_ptr()\l+ operator+=()\l+ add_bytes()\l+ operator()()\l+ hex_dump()\l+ hex_dump()\l&#45; string_buffer()\l&#45; string_buffer()\l&#45; operator=()\l&#45; operator=()\l}" alt="" coords="17,351,140,663"/>
+<area shape="rect" id="node3" href="$structcubmem_1_1extensible__block.html" title="{cubmem::extensible\l_block\n||+ extensible_block()\l+ extensible_block()\l+ extensible_block()\l+ ~extensible_block()\l+ operator=()\l+ extend_by()\l+ extend_to()\l+ freemem()\l+ get_ptr()\l+ get_read_ptr()\l+ get_size()\l+ release_ptr()\l&#45; extensible_block()\l&#45; operator=()\l}" alt="" coords="5,5,152,288"/>
+</map>

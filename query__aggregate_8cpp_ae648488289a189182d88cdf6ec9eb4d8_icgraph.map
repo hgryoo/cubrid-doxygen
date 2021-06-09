@@ -1,0 +1,6 @@
+<map id="qdata_aggregate_value_to_accumulator" name="qdata_aggregate_value_to_accumulator">
+<area shape="rect" id="node2" href="$query__aggregate_8hpp.html#ab44b50dac7f00cac2fd85e2231977397" title="qdata_aggregate_accumulator\l_to_accumulator" alt="" coords="209,23,405,65"/>
+<area shape="rect" id="node5" href="$query__aggregate_8cpp.html#a6af66372180ec76e84b1a86861352c70" title="qdata_aggregate_multiple\l_values_to_accumulator" alt="" coords="222,89,393,130"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#ace26f0b2682d1facc2561230e6f7b44d" title="qexec_hash_gby_put_next" alt="" coords="453,5,631,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a359484e86d5c757860ace460753653ef" title="qexec_gby_put_next" alt="" coords="471,56,613,83"/>
+</map>

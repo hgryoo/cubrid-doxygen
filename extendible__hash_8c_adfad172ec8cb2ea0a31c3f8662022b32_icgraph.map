@@ -1,0 +1,12 @@
+<map id="ehash_dir_locate" name="ehash_dir_locate">
+<area shape="rect" id="node2" href="$extendible__hash_8c.html#adcce30080fe11d84a1a9ba806ac695d3" title="ehash_connect_bucket" alt="" coords="177,107,333,133"/>
+<area shape="rect" id="node6" href="$extendible__hash_8c.html#a7b16d2b1c129e751459ad1e9707b4e1b" title="ehash_create_helper" alt="" coords="183,56,326,83"/>
+<area shape="rect" id="node7" href="$extendible__hash_8h.html#ae7ea7c7c81fc3fd905b16b32429f6edb" title="ehash_dump" alt="" coords="416,237,512,264"/>
+<area shape="rect" id="node8" href="$extendible__hash_8c.html#afa783151ab8cdbe727194bdd22947c10" title="ehash_expand_directory" alt="" coords="173,5,336,32"/>
+<area shape="rect" id="node9" href="$extendible__hash_8c.html#a217f79a442853418263bcc2afc9ba125" title="ehash_find_bucket_vpid" alt="" coords="173,208,336,235"/>
+<area shape="rect" id="node10" href="$extendible__hash_8c.html#aa1415d3b230f0588c1b42fc5d9b3603b" title="ehash_find_depth" alt="" coords="193,157,317,184"/>
+<area shape="rect" id="node11" href="$extendible__hash_8c.html#ab7f58fc299a785627016a7abf9b426b7" title="ehash_shrink_directory" alt="" coords="177,309,333,336"/>
+<area shape="rect" id="node3" href="$extendible__hash_8c.html#a7384004000ceeebb6f46b4dd630c35d0" title="ehash_extend_bucket" alt="" coords="389,27,539,53"/>
+<area shape="rect" id="node4" href="$extendible__hash_8c.html#a33bf66c0c4bbf2f69c67381fb86d4aa3" title="ehash_insert_to_bucket\l_after_create" alt="" coords="384,150,544,191"/>
+<area shape="rect" id="node5" href="$extendible__hash_8c.html#a1c8176aed6a50a9ef5f8133c6c80a346" title="ehash_merge" alt="" coords="414,99,514,125"/>
+</map>

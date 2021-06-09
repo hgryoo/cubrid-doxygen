@@ -1,0 +1,17 @@
+<map id="cursor_open" name="cursor_open">
+<area shape="rect" id="node2" href="$cursor_8h.html#a84dfa260db77ce4614b496d1f7761961" title="cursor_fetch_page_having\l_tuple" alt="" coords="147,278,321,319"/>
+<area shape="rect" id="node5" href="$parse__evaluate_8c.html#a2e51925132dc08be6682930e1bb0bbdf" title="pt_set_table_to_db" alt="" coords="581,5,713,32"/>
+<area shape="rect" id="node6" href="$parser_8h.html#aad3a2a097f967001a50f50bbb499e6e8" title="pt_get_one_tuple_from\l_list_id" alt="" coords="570,103,725,145"/>
+<area shape="rect" id="node7" href="$execute__statement_8c.html#adda1936f2e53715e967cbc5d042a3f3f" title="update_objs_for_list_file" alt="" coords="566,263,729,289"/>
+<area shape="rect" id="node8" href="$execute__statement_8c.html#a55436ca0ff8e3d473b5c8ed3e259f183" title="delete_list_by_oids" alt="" coords="581,316,714,343"/>
+<area shape="rect" id="node9" href="$execute__statement_8c.html#a2ed4e36685dfd7b5d4e82516a415d0e9" title="insert_subquery_results" alt="" coords="567,371,727,397"/>
+<area shape="rect" id="node10" href="$execute__statement_8h.html#aeb0727e2943818bb2f6be2e9c6bce087" title="do_execute_session\l_statement" alt="" coords="577,430,718,471"/>
+<area shape="rect" id="node11" href="$query__method_8h.html#a4d924a91280fef1cebe25fbcfca186d7" title="method_invoke_for_server" alt="" coords="560,513,735,540"/>
+<area shape="rect" id="node15" href="$method__scan_8c.html#a1f3a0afa8dc057d2f4886bce69626c3c" title="method_invoke_from\l_stand_alone" alt="" coords="163,590,305,631"/>
+<area shape="rect" id="node16" href="$query__result_8c.html#a8a976c0a0dd712e230283eeefcb6e2d8" title="pt_new_query_result\l_descriptor" alt="" coords="163,655,305,697"/>
+<area shape="rect" id="node3" href="$db__query_8h.html#a0596989287a67c15297b26ce1df55b86" title="db_query_set_tplpos" alt="" coords="369,336,512,363"/>
+<area shape="rect" id="node4" href="$cursor_8h.html#a967606d5ded22590ae29f82f232595a3" title="cursor_next_tuple" alt="" coords="378,285,503,312"/>
+<area shape="rect" id="node12" href="$cursor_8h.html#a53d6ab8c21c0841923c642766e356a6a" title="cursor_prev_tuple" alt="" coords="378,133,503,160"/>
+<area shape="rect" id="node13" href="$cursor_8h.html#ab84998985fd7f9c1149cc1ec383f63af" title="cursor_first_tuple" alt="" coords="379,184,502,211"/>
+<area shape="rect" id="node14" href="$cursor_8h.html#ad7d6a971115013bf8a029469598103dc" title="cursor_last_tuple" alt="" coords="380,235,501,261"/>
+</map>

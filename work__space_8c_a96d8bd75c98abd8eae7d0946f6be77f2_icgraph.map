@@ -1,0 +1,18 @@
+<map id="ws_disconnect_deleted_instances" name="ws_disconnect_deleted_instances">
+<area shape="rect" id="node2" href="$locator__cl_8h.html#af0c4194863687ace802ef085afa02605" title="locator_flush_all_instances" alt="" coords="212,333,391,360"/>
+<area shape="rect" id="node15" href="$schema__manager_8h.html#afb4efe77481bada99d304564e7e3c5ec" title="sm_decache_instances\l_after_query_executed\l_with_commit" alt="" coords="222,467,381,523"/>
+<area shape="rect" id="node16" href="$work__space_8h.html#a5a91ade2616766caa405de6651728032" title="ws_remove_resident\l_class" alt="" coords="230,627,373,669"/>
+<area shape="rect" id="node3" href="$compactdb_8c.html#a993755aa8f3b4d771f7cd9e44edc089d" title="process_class" alt="" coords="481,5,587,32"/>
+<area shape="rect" id="node4" href="$compactdb__cl_8c.html#ad8ac2934f7ec63bfee9cfcab72aa95dd" title="compactdb_start" alt="" coords="475,56,593,83"/>
+<area shape="rect" id="node5" href="$compactdb__cl_8c.html#a3c96cc7b752912d6205b04479c0e0289" title="do_reclaim_class_addresses" alt="" coords="439,107,629,133"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#afee992faddb9617993784f8f7763129e" title="sm_force_write_all\l_classes" alt="" coords="469,158,599,199"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#aa1103605b7e5cf2b26a8ee5a2ecea440" title="sm_update_statistics" alt="" coords="461,224,607,251"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="691,249,805,276"/>
+<area shape="rect" id="node9" href="$schema__manager_8c.html#a7b2781b2d83ca48f5934e71d84a832b5" title="sm_flush_and_decache\l_objects_internal" alt="" coords="455,326,613,367"/>
+<area shape="rect" id="node10" href="$schema__manager_8c.html#a9d014b3ebeaf0ce2c4ba47922277f5e7" title="install_new_representation" alt="" coords="446,392,622,419"/>
+<area shape="rect" id="node11" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="458,635,610,661"/>
+<area shape="rect" id="node12" href="$work__space_8h.html#ae72635d9c8c21f1397ba4e853207ede5" title="ws_intern_instances" alt="" coords="677,564,819,591"/>
+<area shape="rect" id="node13" href="$execute__statement_8c.html#a583e92585b6c898d0dc170330a724266" title="do_check_for_empty\l_classes_in_delete" alt="" coords="463,494,605,535"/>
+<area shape="rect" id="node14" href="$locator__cl_8c.html#acd38be0f3e44fcfee66192c3f48c7ca0" title="locator_fun_get_all_mops" alt="" coords="449,560,619,587"/>
+<area shape="rect" id="node17" href="$work__space_8h.html#a81e8e69ef4f434cd5ccf193e717c5e5d" title="ws_cull_mops" alt="" coords="481,685,587,712"/>
+</map>

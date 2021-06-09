@@ -1,0 +1,10 @@
+<map id="css_return_entry_by_conn" name="css_return_entry_by_conn">
+<area shape="rect" id="node2" href="$master__heartbeat_8h.html#a984cbac643ef3c972832ecb9b9b73ad6" title="hb_get_process_info\l_string" alt="" coords="253,5,396,47"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#a9e0780a83756c551c236c35c3f952d5c" title="hb_resource_demote\l_start_shutdown_server_proc" alt="" coords="228,71,421,112"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8c.html#a5f2175a5aefc9e676a17637455fe954f" title="hb_resource_job_proc\l_dereg" alt="" coords="250,136,399,177"/>
+<area shape="rect" id="node7" href="$master__heartbeat_8c.html#a3bd01ef49dee67a8425d1ae841811fbf" title="hb_resource_shutdown\l_all_ha_procs" alt="" coords="247,201,403,243"/>
+<area shape="rect" id="node3" href="$master__request_8c.html#a9092e3dd577d17262fae61923cc95447" title="css_process_ha_process\l_list_info" alt="" coords="479,5,649,47"/>
+<area shape="rect" id="node5" href="$master__heartbeat_8c.html#a100d19eab669365452290daddae38273" title="hb_resource_job_demote\l_start_shutdown" alt="" coords="481,71,647,112"/>
+<area shape="rect" id="node8" href="$master__heartbeat_8c.html#a8bc7fb9d918cf16a64e85b9c8abc521c" title="hb_resource_job_cleanup_all" alt="" coords="469,183,659,210"/>
+<area shape="rect" id="node9" href="$master__heartbeat_8c.html#aaad3f3b52fc26288faf63919e78455e9" title="hb_resource_cleanup" alt="" coords="491,234,637,261"/>
+</map>

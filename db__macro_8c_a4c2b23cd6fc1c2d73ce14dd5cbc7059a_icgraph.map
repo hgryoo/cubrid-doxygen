@@ -1,0 +1,8 @@
+<map id="db_value_domain_zero" name="db_value_domain_zero">
+<area shape="rect" id="node2" href="$dbtype__function_8h.html#a08c1944afc91bb447d33feaf6a9ef382" title="db_value_domain_default" alt="" coords="208,143,377,170"/>
+<area shape="rect" id="node3" href="$db__macro_8c.html#a503142a67c11c0373d308b8ddc829fed" title="valcnv_convert_data\l_to_string" alt="" coords="429,5,571,47"/>
+<area shape="rect" id="node4" href="$parser__support_8c.html#abcdf4391e31707aa649835833440a11a" title="pt_make_query_show\l_columns" alt="" coords="425,71,575,112"/>
+<area shape="rect" id="node5" href="$parser__support_8c.html#a10b5a894507ddc79c5ba23825f719534" title="pt_make_query_show\l_index" alt="" coords="425,136,575,177"/>
+<area shape="rect" id="node6" href="$xasl__generation_8h.html#a5922ed3fb3f0afecdb69ea391afa9826" title="pt_to_upd_del_query" alt="" coords="429,202,571,229"/>
+<area shape="rect" id="node7" href="$heap__file_8h.html#a745a52a21d15c06a1af94740bfc9c287" title="heap_object_upgrade\l_domain" alt="" coords="427,253,573,295"/>
+</map>

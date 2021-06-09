@@ -1,0 +1,21 @@
+<map id="log_append_undoredo_crumbs" name="log_append_undoredo_crumbs">
+<area shape="rect" id="node2" href="$file__manager_8c.html#a816e71658abbbe5fc6b5a01947bbbee7" title="file_log_extdata_add" alt="" coords="223,173,364,200"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#a8efc61d2115e0a7f3527c18ebfd87bf6" title="file_log_extdata_remove" alt="" coords="212,341,375,368"/>
+<area shape="rect" id="node11" href="$heap__file_8c.html#a1c8ac655e0ef2b622fa7d90219a3af33" title="heap_mvcc_log_insert" alt="" coords="217,526,369,553"/>
+<area shape="rect" id="node13" href="$heap__file_8c.html#a4c5e61f6e5f9eb0ec5fed855393047a0" title="heap_mvcc_log_redistribute" alt="" coords="201,577,385,604"/>
+<area shape="rect" id="node14" href="$log__manager_8h.html#a5c4af392f84fee0ddddee9e29e94752b" title="log_append_undoredo_data" alt="" coords="203,476,383,502"/>
+<area shape="rect" id="node18" href="$log__manager_8h.html#addfa3d47a458055afd11100d64b0865b" title="log_append_undoredo\l_data2" alt="" coords="219,14,367,55"/>
+<area shape="rect" id="node19" href="$log__manager_8h.html#a5b86861d06b273efd9a45cfefc83d3f6" title="log_append_undoredo\l_recdes2" alt="" coords="219,628,367,670"/>
+<area shape="rect" id="node20" href="$vacuum_8c.html#a59f73ee814b5a7288baef8df4b6631a0" title="vacuum_log_redoundo\l_vacuum_record" alt="" coords="217,694,369,735"/>
+<area shape="rect" id="node3" href="$file__manager_8c.html#a73d7f335d0b5680c0f40feccb2d4d936" title="file_numerable_add_page" alt="" coords="871,17,1040,44"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a809af1534543d29a6f24183047377085" title="file_perm_dealloc" alt="" coords="894,304,1017,330"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#ac9b7228add17f355af39a6376dc581de" title="file_table_add_full\l_sector" alt="" coords="454,199,581,240"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#a55c34f23406a73f99ed598f8f5f57152" title="file_table_move_partial\l_sectors_to_header" alt="" coords="440,68,595,110"/>
+<area shape="rect" id="node8" href="$file__manager_8c.html#a76460db46414569db5eb3042cf269782" title="file_tracker_register\l_internal" alt="" coords="449,134,585,175"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#adc0db5dfc925dc493ef06a24997d87d1" title="file_perm_alloc" alt="" coords="681,206,791,233"/>
+<area shape="rect" id="node10" href="$file__manager_8c.html#a69df34ca3f1e090985833e7142f6412e" title="file_extdata_find_and\l_remove_item" alt="" coords="663,334,809,375"/>
+<area shape="rect" id="node12" href="$heap__file_8c.html#a233044a0039e3ea744a43d2c5a597e11" title="heap_log_insert_physical" alt="" coords="433,652,601,678"/>
+<area shape="rect" id="node15" href="$vacuum_8c.html#ab3cea56efb984531d2c8dbc2ca5f3cfe" title="vacuum_add_dropped_file" alt="" coords="649,505,823,532"/>
+<area shape="rect" id="node16" href="$vacuum_8c.html#a6008dc7b6d7690e0ca43515c746f8882" title="vacuum_dropped_files\l_set_next_page" alt="" coords="441,468,593,510"/>
+<area shape="rect" id="node17" href="$btree_8c.html#a748a60d980be800bbef3524a564d3fc0" title="btree_replace_first\l_oid_with_ovfl_oid" alt="" coords="453,586,582,627"/>
+</map>

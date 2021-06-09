@@ -1,0 +1,7 @@
+<map id="qstr_eval_like" name="qstr_eval_like">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#a5d4a9ca9b0005512eab8d461ccf2f524" title="db_string_like" alt="" coords="156,93,259,120"/>
+<area shape="rect" id="node3" href="$db__json_8cpp.html#a156ad3efe36d9efdc73d97ee6d39e660" title="db_json_search_func" alt="" coords="324,5,469,32"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="307,56,487,83"/>
+<area shape="rect" id="node5" href="$query__evaluator_8h.html#aedf7cfad70a5ffb11238f8e47329a6f6" title="eval_pred" alt="" coords="357,131,436,157"/>
+<area shape="rect" id="node6" href="$query__evaluator_8h.html#a308e76f55d3d48bc5f02ca226bb77b8d" title="eval_pred_like6" alt="" coords="341,181,453,208"/>
+</map>

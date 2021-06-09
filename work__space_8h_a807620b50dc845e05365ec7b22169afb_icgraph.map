@@ -1,0 +1,7 @@
+<map id="ws_free_repl_obj" name="ws_free_repl_obj">
+<area shape="rect" id="node2" href="$locator__cl_8c.html#a4c39fcf6a59f9fcab8e31f08be261bdb" title="locator_repl_mflush" alt="" coords="183,5,317,32"/>
+<area shape="rect" id="node5" href="$work__space_8h.html#a176984781f23c65eaf851a6b678c194e" title="ws_clear_all_repl_objs" alt="" coords="173,56,327,83"/>
+<area shape="rect" id="node3" href="$locator__cl_8h.html#a491c3ac09996ea3abad57c4f0514fc28" title="locator_repl_flush_all" alt="" coords="375,5,519,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a2619bf3c9fa91a51b2bcea7e15f149ff" title="la_flush_repl_items" alt="" coords="567,31,701,57"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#ad97155c9e3578c3babdee6ec3d62cd07" title="la_shutdown" alt="" coords="399,107,494,133"/>
+</map>

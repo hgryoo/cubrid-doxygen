@@ -1,0 +1,8 @@
+<map id="perfmon_per_daemon_stat_count" name="perfmon_per_daemon_stat_count">
+<area shape="rect" id="node2" href="$perf__monitor_8c.html#a38bbe037f0aed7417e2a1bd4b3d58e6f" title="perfmon_stat_dump_in\l_buffer_thread_daemon_stats" alt="" coords="200,5,395,47"/>
+<area shape="rect" id="node4" href="$perf__monitor_8c.html#a4bd2d462f5846df59affff33d3be6f9a" title="perfmon_stat_dump_in\l_file_thread_daemon_stats" alt="" coords="208,71,387,112"/>
+<area shape="rect" id="node6" href="$perf__monitor_8c.html#a6350aa5d45bf13e7e7552d8fb983249a" title="perfmon_thread_daemon\l_stats_count" alt="" coords="215,136,380,177"/>
+<area shape="rect" id="node3" href="$perf__monitor_8c.html#af47f65a3beed4f6f1d5c154ac1bc352b" title="f_dump_in_buffer_thread\l_daemon_stats" alt="" coords="443,5,608,47"/>
+<area shape="rect" id="node5" href="$perf__monitor_8c.html#a2367c92624dc7dc72c667d944dd3b1fd" title="f_dump_in_file_thread\l_daemon_stats" alt="" coords="451,71,600,112"/>
+<area shape="rect" id="node7" href="$perf__monitor_8c.html#acd3a2730ec97a4e205d0409ece127939" title="f_load_thread_daemon\l_stats" alt="" coords="449,136,602,177"/>
+</map>

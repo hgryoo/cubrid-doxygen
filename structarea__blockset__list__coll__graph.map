@@ -1,0 +1,4 @@
+<map id="area_blockset_list" name="area_blockset_list">
+<area shape="rect" id="node2" href="$structarea__block.html" title="{area_block\n|+ data\l|}" alt="" coords="70,351,155,428"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1bitmap.html" title="{lockfree::bitmap\n|+ bitfield\l+ entry_count\l+ entry_count_in_use\l+ style\l+ usage_threshold\l+ start_idx\l+ FULL_USAGE_RATIO\l+ NINTETYFIVE_PERCENTILE\l_USAGE_RATIO\l|+ bitmap()\l+ ~bitmap()\l+ init()\l+ destroy()\l+ get_entry()\l+ free_entry()\l+ is_full()\l}" alt="" coords="5,5,220,288"/>
+</map>

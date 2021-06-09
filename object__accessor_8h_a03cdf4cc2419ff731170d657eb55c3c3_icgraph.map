@@ -1,0 +1,17 @@
+<map id="obj_create" name="obj_create">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="544,14,621,40"/>
+<area shape="rect" id="node4" href="$authenticate_8c.html#a6d6d63b0e417da4f892561898c64893c" title="au_make_user" alt="" coords="169,64,276,91"/>
+<area shape="rect" id="node6" href="$authenticate_8c.html#a6cc0705679fa78505fb5a1ca4fef96f6" title="au_set_password_internal" alt="" coords="136,128,309,155"/>
+<area shape="rect" id="node7" href="$db__obj_8c.html#aa826595c9f376b8c9e29dbc5379f0116" title="db_create_internal" alt="" coords="159,230,287,256"/>
+<area shape="rect" id="node16" href="$object__accessor_8h.html#a01e0ca6f972d8b9ec1038b7826fb325d" title="obj_create_by_name" alt="" coords="151,280,294,307"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="669,14,808,40"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#abf5a1e3cd4160a51bc6acd4abff51bb6" title="au_add_user" alt="" coords="379,39,475,66"/>
+<area shape="rect" id="node8" href="$authenticate_8c.html#a8a7c21f89841de7a41578a09e4cd63b5" title="au_set_new_auth" alt="" coords="365,90,489,116"/>
+<area shape="rect" id="node9" href="$boot__cl_8c.html#ae1c31550294abe00870d12f9569a0114" title="boot_add_charsets" alt="" coords="361,140,493,167"/>
+<area shape="rect" id="node10" href="$boot__cl_8h.html#a23206f121c6c773602c8b8e6123b0c55" title="boot_add_collations" alt="" coords="358,191,495,218"/>
+<area shape="rect" id="node11" href="$boot__cl_8c.html#a0d1a409c37bd1d24e85c7e843b1a22e9" title="boot_add_data_type" alt="" coords="357,242,496,268"/>
+<area shape="rect" id="node12" href="$boot__cl_8c.html#afc3f9ea83d4f2eb3c5797467ffc144fc" title="boot_define_dual" alt="" coords="367,292,487,319"/>
+<area shape="rect" id="node13" href="$dbi__compat_8h.html#a98c2e26053f556b0dc8395d6c2d8da2f" title="db_create" alt="" coords="387,343,466,370"/>
+<area shape="rect" id="node14" href="$load__sa__loader_8cpp.html#af1a349e8741eb78e5613ea0cb0b4cc45" title="find_instance" alt="" coords="377,394,476,420"/>
+<area shape="rect" id="node15" href="$load__sa__loader_8cpp.html#a9aa0f48f3bf9f906b3741ad03b78545b" title="ldr_reset_context" alt="" coords="365,444,488,471"/>
+</map>

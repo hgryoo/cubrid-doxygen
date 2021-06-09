@@ -1,0 +1,21 @@
+<map id="disk_lock_extend" name="disk_lock_extend">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a279170576b55612ae4e7b6befdfc8da8" title="boot_find_next_permanent\l_volid" alt="" coords="189,35,363,76"/>
+<area shape="rect" id="node4" href="$disk__manager_8h.html#a24432937a48bec91095efd8acca6d4aa" title="disk_add_volume_extension" alt="" coords="183,130,369,157"/>
+<area shape="rect" id="node7" href="$disk__manager_8c.html#a326df30e931243230678a57469e7ba7c" title="disk_reserve_from_cache" alt="" coords="191,189,361,215"/>
+<area shape="rect" id="node9" href="$disk__manager_8h.html#aef6e1b1644dec76f855e6988e90fc332" title="disk_spacedb" alt="" coords="225,239,327,266"/>
+<area shape="rect" id="node12" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="225,290,327,317"/>
+<area shape="rect" id="node14" href="$boot__sr_8c.html#ace20b0215551fade39404f63fbbcc932" title="xboot_check_db_consistency" alt="" coords="179,341,373,367"/>
+<area shape="rect" id="node15" href="$boot__sr_8c.html#a93ba3b5a78f4bd7d7dabf188d69bb538" title="xboot_find_last_permanent" alt="" coords="187,391,365,418"/>
+<area shape="rect" id="node18" href="$boot__sr_8c.html#a2b97bcca9168f75ee997a79e2c2a4bfd" title="xboot_find_last_temp" alt="" coords="203,442,349,469"/>
+<area shape="rect" id="node19" href="$boot__sr_8c.html#a98a8ac2f4a371f7589e48352b2b363ae" title="xboot_find_number_permanent\l_volumes" alt="" coords="176,493,376,535"/>
+<area shape="rect" id="node20" href="$boot__sr_8c.html#a3df5655eb99f610866e7a4ab2f1474b6" title="xboot_find_number_temp\l_volumes" alt="" coords="192,559,360,600"/>
+<area shape="rect" id="node3" href="$log__recovery_8c.html#a94f1505b0a4e2ec34df15da4fb8e0395" title="log_recovery_notpartof\l_volumes" alt="" coords="444,5,599,47"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#aecd8a2e1e45c5ccd6f369fcd13ae35bb" title="xboot_add_volume_extension" alt="" coords="424,71,619,98"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#a9d0b2321745fe1161be99609ac6a46d2" title="boot_parse_add_volume\l_extensions" alt="" coords="440,123,603,164"/>
+<area shape="rect" id="node8" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="448,189,595,215"/>
+<area shape="rect" id="node10" href="$network__interface__cl_8h.html#ad3838879f13711fb2058f1513d6da7a3" title="netcl_spacedb" alt="" coords="468,239,575,266"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#ad090c800f95bb6c185e4a1298f81ef58" title="netsr_spacedb" alt="" coords="468,290,575,317"/>
+<area shape="rect" id="node13" href="$boot__sr_8c.html#af38a549f999967427ff62509d3092c7d" title="xboot_backup" alt="" coords="470,341,573,367"/>
+<area shape="rect" id="node16" href="$network__interface__cl_8h.html#a3d15e4a4604b48a6f999fea79153a3a7" title="boot_find_last_permanent" alt="" coords="436,391,607,418"/>
+<area shape="rect" id="node17" href="$network__interface__sr_8h.html#a6d9ca6bf5239c014c107d1f382db734f" title="sboot_find_last_permanent" alt="" coords="432,442,611,469"/>
+</map>

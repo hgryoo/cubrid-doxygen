@@ -1,0 +1,7 @@
+<map id="qstr_concatenate" name="qstr_concatenate">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#a807a395c4444a52498ffc96127d68436" title="db_string_concatenate" alt="" coords="176,85,329,112"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="389,5,569,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a02c2422318d4f6e94263e47ee1fe55e4" title="qexec_schema_get_type_desc" alt="" coords="377,56,580,83"/>
+<area shape="rect" id="node5" href="$query__opfunc_8c.html#a0be289fbec6386477a3ec28fecdb51fa" title="qdata_add_chars_to\l_dbval" alt="" coords="409,107,548,149"/>
+<area shape="rect" id="node6" href="$string__opfunc_8h.html#a0b9646cf5e5c388b45cd4980f9b8f4ff" title="db_string_insert_substring" alt="" coords="391,173,566,200"/>
+</map>

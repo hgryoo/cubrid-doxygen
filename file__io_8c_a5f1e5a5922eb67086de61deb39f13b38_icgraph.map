@@ -1,0 +1,15 @@
+<map id="fileio_synchronize_sys_volume" name="fileio_synchronize_sys_volume">
+<area shape="rect" id="node2" href="$file__io_8h.html#a4571e2ee793cb5c067a638b4d23d0e49" title="fileio_synchronize_all" alt="" coords="180,233,327,260"/>
+<area shape="rect" id="node14" href="$file__io_8c.html#a36bcb8c0dd4f9bc0c83fd86a97d748b8" title="fileio_synchronize\l_bg_archive_volume" alt="" coords="183,285,324,326"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8c.html#ab180db015df6cfbabb8c7e1692c00ab1" title="dwb_create_internal" alt="" coords="397,5,535,32"/>
+<area shape="rect" id="node4" href="$file__io_8c.html#a8e6c852e5b478288fab6c8d927ad682f" title="fileio_compensate_flush" alt="" coords="385,56,547,83"/>
+<area shape="rect" id="node5" href="$file__io_8h.html#a11b879a757fb73fd1e78b9d0e052fd28" title="fileio_finish_restore" alt="" coords="399,107,533,133"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="749,240,916,267"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#aae3120d951badf0f042b20d1039584ff" title="log_final" alt="" coords="618,240,689,267"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="419,259,513,285"/>
+<area shape="rect" id="node9" href="$log__manager_8h.html#ac92df3fb17efd887483ccf4616f20f27" title="log_rv_outside_noop_redo" alt="" coords="379,309,553,336"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a850e6db878c034a88e735606f63fa477" title="logpb_remove_archive_logs" alt="" coords="375,360,557,387"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="405,411,527,437"/>
+<area shape="rect" id="node12" href="$log__recovery_8c.html#a25de713746a915b7dc019384ef68a8f0" title="log_recovery" alt="" coords="605,436,701,463"/>
+<area shape="rect" id="node13" href="$log__page__buffer_8c.html#a5d98688d5706fd68216d7931e5638a3b" title="logpb_fatal_error_internal" alt="" coords="383,512,549,539"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="bh_down_heap" name="bh_down_heap">
+<area shape="rect" id="node2" href="$binaryheap_8h.html#a2389b2676f034e953dd499ae18d9fa1e" title="bh_build_heap" alt="" coords="353,5,458,32"/>
+<area shape="rect" id="node3" href="$binaryheap_8h.html#a8c41cb48993d20eddf1e6e36f28ca6ea" title="bh_down_heap" alt="" coords="163,121,272,148"/>
+<area shape="rect" id="node4" href="$binaryheap_8h.html#a93c140ee0151cdf136085a8f6319add1" title="bh_extract_max" alt="" coords="348,93,463,120"/>
+<area shape="rect" id="node5" href="$binaryheap_8c.html#a902f818d7ad8cf100950fa0f041e5b83" title="bh_replace_max" alt="" coords="347,163,464,189"/>
+<area shape="rect" id="node6" href="$binaryheap_8h.html#a646964e011cb4ac1208d8c366e3c2044" title="bh_to_sorted_array" alt="" coords="339,223,472,249"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#a15b0d933787a45726dc62d856467a99e" title="qexec_add_tuple_to_topn" alt="" coords="320,273,491,300"/>
+</map>

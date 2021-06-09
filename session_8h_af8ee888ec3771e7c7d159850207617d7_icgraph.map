@@ -1,0 +1,21 @@
+<map id="session_get_session_id" name="session_get_session_id">
+<area shape="rect" id="node2" href="$session_8c.html#a8504a3f60ab5c34788717e013fd1f785" title="session_get_session\l_state" alt="" coords="215,493,359,535"/>
+<area shape="rect" id="node20" href="$session_8h.html#a6a4cea644c7a164823f718477995b259" title="session_get_variable\l_no_copy" alt="" coords="215,559,359,600"/>
+<area shape="rect" id="node3" href="$session_8h.html#ad716e5e9e91bd4a029b5585033c88eca" title="session_begin_insert\l_values" alt="" coords="423,5,567,47"/>
+<area shape="rect" id="node4" href="$session_8h.html#a0ce47df3b8620a2319f7f478d13205b3" title="session_clear_query\l_entry_info" alt="" coords="424,71,565,112"/>
+<area shape="rect" id="node5" href="$session_8h.html#a90c7a29a6b5865f2f964a9b45cc44de7" title="session_clear_trace\l_stats" alt="" coords="425,136,564,177"/>
+<area shape="rect" id="node6" href="$session_8h.html#a1eb0d56a9ae045a550e3fc5f951cc4ad" title="session_create_prepared\l_statement" alt="" coords="411,201,578,243"/>
+<area shape="rect" id="node7" href="$session_8h.html#a6ea36c371241fa4162b62e9a48c8627a" title="session_define_variable" alt="" coords="414,267,575,294"/>
+<area shape="rect" id="node8" href="$session_8h.html#abf878206de625fb32c5656cc01773b5f" title="session_delete_prepared\l_statement" alt="" coords="411,319,578,360"/>
+<area shape="rect" id="node9" href="$session_8h.html#afb4008ca193f8ccc21568866dd7125b0" title="session_drop_session\l_variables" alt="" coords="419,384,570,425"/>
+<area shape="rect" id="node10" href="$session_8h.html#a205f3783bacc87f99c659a767e94c570" title="session_get_last_insert_id" alt="" coords="407,450,583,477"/>
+<area shape="rect" id="node11" href="$session_8h.html#a0b69e4d4d8f399b64fc3f4c4f25070e1" title="session_get_load_session" alt="" coords="407,501,582,527"/>
+<area shape="rect" id="node12" href="$session_8h.html#ab72e4f553268042010f4cbce84b18767" title="session_get_prepared\l_statement" alt="" coords="420,552,569,593"/>
+<area shape="rect" id="node13" href="$session_8h.html#a5937462552e48cd575022d06650bd571" title="session_get_row_count" alt="" coords="415,618,574,645"/>
+<area shape="rect" id="node14" href="$session_8h.html#a0c58bb5074e391d5315cc522f813ae9d" title="session_get_session\l_parameter" alt="" coords="423,669,567,711"/>
+<area shape="rect" id="node15" href="$session_8h.html#a344ef0cb10f4f152744fd7ee28ef91b9" title="session_get_session\l_parameters" alt="" coords="423,735,567,776"/>
+<area shape="rect" id="node16" href="$session_8h.html#a9240c184094e3730ec41406a3f2d6fab" title="session_get_session\l_tz_region" alt="" coords="423,800,567,841"/>
+<area shape="rect" id="node17" href="$session_8h.html#a826dae4b7c822eed883686452b4bcf64" title="session_get_trace_stats" alt="" coords="413,866,577,893"/>
+<area shape="rect" id="node18" href="$session_8h.html#a53ef7d90ddbcd19356568c1a21d146fa" title="session_get_variable" alt="" coords="423,917,567,943"/>
+<area shape="rect" id="node19" href="$session_8h.html#a4a4f47cec45a3c6bfb0f159d178610ba" title="session_is_queryid_idle" alt="" coords="415,967,575,994"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="or_put_timestamptz" name="or_put_timestamptz">
+<area shape="rect" id="node2" href="$object__primitive_8c.html#a65b1c7f4cfdf03328a9fc507c01f852a" title="mr_data_writemem_timestamptz" alt="" coords="191,5,403,32"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#abd5607c669aead127f7f8b02aff0147c" title="mr_data_writeval_timestamptz" alt="" coords="197,56,397,83"/>
+<area shape="rect" id="node3" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="451,23,591,65"/>
+</map>

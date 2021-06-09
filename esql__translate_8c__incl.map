@@ -1,0 +1,13 @@
+<map id="src/executables/esql_translate.c" name="src/executables/esql_translate.c">
+<area shape="rect" id="node5" href="$language__support_8h.html" title="language_support.h" alt="" coords="5,95,140,121"/>
+<area shape="rect" id="node11" href="$misc__string_8h.html" title="misc_string.h" alt="" coords="164,95,264,121"/>
+<area shape="rect" id="node12" href="$util__func_8h.html" title="util_func.h" alt="" coords="882,95,965,121"/>
+<area shape="rect" id="node16" href="$dbi_8h.html" title="dbi.h" alt="" coords="807,95,858,121"/>
+<area shape="rect" id="node18" href="$esql__translate_8h.html" title="esql_translate.h" alt="" coords="590,95,705,121"/>
+<area shape="rect" id="node19" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="451,95,566,121"/>
+<area shape="rect" id="node20" href="$esql__misc_8h.html" title="esql_misc.h" alt="" coords="989,95,1081,121"/>
+<area shape="rect" id="node7" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="112,169,212,196"/>
+<area shape="rect" id="node10" href="$locale__support_8h.html" title="locale_support.h" alt="" coords="61,244,178,271"/>
+<area shape="rect" id="node9" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="363,319,460,345"/>
+<area shape="rect" id="node17" href="$dbtran__def_8h.html" title="dbtran_def.h" alt="" coords="885,169,980,196"/>
+</map>

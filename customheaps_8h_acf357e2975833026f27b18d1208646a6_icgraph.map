@@ -1,0 +1,21 @@
+<map id="hl_lea_free" name="hl_lea_free">
+<area shape="rect" id="node2" href="$memory__alloc_8h.html#a2e4e8b91f28f28772f69811f3029088d" title="db_private_free_debug" alt="" coords="281,31,434,57"/>
+<area shape="rect" id="node5" href="$quick__fit_8h.html#afa05a74a092593977b15e5104d1437da" title="db_ws_free" alt="" coords="139,417,228,444"/>
+<area shape="rect" id="node3" href="$memory__alloc_8h.html#ac1d3f56cf50bb0416b1c971a01f01814" title="db_private_free_external" alt="" coords="487,5,651,32"/>
+<area shape="rect" id="node4" href="$memory__alloc_8h.html#a1fbaa11773275dfdedaa40466255b263" title="db_private_strdup" alt="" coords="506,56,631,83"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#abb1f68098a8959cab781d3466d8f7cd7" title="db_string_free" alt="" coords="305,81,409,108"/>
+<area shape="rect" id="node7" href="$csql_8c.html#ae5438c0028c780e59368b62b517f44d6" title="csql_print_database" alt="" coords="288,132,427,159"/>
+<area shape="rect" id="node8" href="$authenticate_8c.html#a5233371d6aa543f0fbc58f7f8a7d3ea2" title="free_grant_list" alt="" coords="305,183,409,209"/>
+<area shape="rect" id="node9" href="$class__object_8h.html#a244e2c9cfe9b17b4189cbf19d5f5ed61" title="classobj_free_threaded\l_array" alt="" coords="279,234,435,275"/>
+<area shape="rect" id="node10" href="$class__object_8c.html#a9f2ccc81174490100fd45f1f21e87318" title="classobj_free_constraint" alt="" coords="276,300,439,327"/>
+<area shape="rect" id="node11" href="$class__object_8h.html#a6f9d3c44af867c897dd3c4e63157b1ff" title="classobj_free_foreign\l_key_ref" alt="" coords="285,351,430,393"/>
+<area shape="rect" id="node12" href="$class__object_8h.html#a42325ba4194094db4d2699fd41c1d325" title="classobj_free_class\l_constraints" alt="" coords="500,402,637,443"/>
+<area shape="rect" id="node13" href="$class__object_8c.html#a4bf7fc9a432432078f14c36ac2dd2c10" title="classobj_cache_not\l_null_constraints" alt="" coords="699,431,836,473"/>
+<area shape="rect" id="node14" href="$class__object_8c.html#a89048143fe0278cdb56d05843086a99f" title="classobj_make_foreign\l_key_info" alt="" coords="280,519,435,561"/>
+<area shape="rect" id="node15" href="$class__object_8c.html#a29a1c3352bf17abbf07f92a8a2756dea" title="classobj_make_foreign\l_key_ref" alt="" coords="280,585,435,626"/>
+<area shape="rect" id="node16" href="$class__object_8c.html#a1a57f976576d019681d81f363d66dbec" title="classobj_make_index\l_prefix_info" alt="" coords="284,650,431,691"/>
+<area shape="rect" id="node17" href="$class__object_8c.html#af052a1567cc2d88efb138cdec35fb164" title="classobj_make_index\l_filter_pred_info" alt="" coords="284,715,431,757"/>
+<area shape="rect" id="node18" href="$class__object_8h.html#a991a579ac8c711707f24dae5492e5887" title="classobj_make_attribute" alt="" coords="276,781,439,808"/>
+<area shape="rect" id="node19" href="$class__object_8h.html#aa2096b8b71af6d6afa6f8308fcba4ae9" title="classobj_copy_attribute" alt="" coords="278,832,437,859"/>
+<area shape="rect" id="node20" href="$class__object_8h.html#a877315c9c28a885bb6b5962b124f1c36" title="classobj_free_attribute" alt="" coords="281,883,434,909"/>
+</map>

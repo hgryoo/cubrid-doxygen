@@ -1,0 +1,6 @@
+<map id="btree_insert" name="btree_insert">
+<area shape="rect" id="node2" href="$btree_8h.html#a890fe22be1bcabc969563629e136a81b" title="btree_update" alt="" coords="174,5,271,32"/>
+<area shape="rect" id="node3" href="$locator__sr_8h.html#a4955d5ba9c9a9197d618e2929d3dcee1" title="locator_update_index" alt="" coords="349,31,495,57"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#ab82d600b3f62b5b63fd9b3fd864e7031" title="locator_add_or_remove\l_index_internal" alt="" coords="144,107,301,149"/>
+<area shape="rect" id="node5" href="$locator__sr_8c.html#a00f54e30237319ee47b689a2e582399e" title="locator_repair_btree\l_by_insert" alt="" coords="155,173,291,214"/>
+</map>

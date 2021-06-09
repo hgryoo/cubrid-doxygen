@@ -1,0 +1,7 @@
+<map id="pt_objects_assignable" name="pt_objects_assignable">
+<area shape="rect" id="node2" href="$semantic__check_8h.html#a18801c91c5d3a9eca89c63a2f3502f1a" title="pt_class_assignable" alt="" coords="204,81,344,108"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#a1dea00c408ab6b78e7ccc87e7cd2a4f0" title="pt_class_compatible" alt="" coords="418,5,559,32"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#abc45490596871488d322ae7351f3fe80" title="pt_check_vclass_union_spec" alt="" coords="392,56,585,83"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#ad3fdd6cb586a725778ba7e2192129d28" title="pt_check_vclass_query_spec" alt="" coords="633,81,828,108"/>
+<area shape="rect" id="node6" href="$semantic__check_8c.html#a5ef515f4a113dc7b1c025a4cd300c73c" title="pt_assignment_class\l_compatible" alt="" coords="416,158,561,199"/>
+</map>

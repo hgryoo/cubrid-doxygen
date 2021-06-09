@@ -1,0 +1,6 @@
+<map id="stx_map_stream_to_xasl" name="stx_map_stream_to_xasl">
+<area shape="rect" id="node2" href="$query__manager_8c.html#ab406973856e1d1e95ebbc7bd111f9d19" title="qmgr_process_query" alt="" coords="221,71,364,98"/>
+<area shape="rect" id="node5" href="$xasl__cache_8h.html#a8fabfb770698720e6cc0141fd8bfa2da" title="xcache_find_xasl_id\l_for_execute" alt="" coords="223,5,363,47"/>
+<area shape="rect" id="node3" href="$query__manager_8c.html#acca53c25556757b153c16afc23f6ccd4" title="xqmgr_execute_query" alt="" coords="431,13,582,39"/>
+<area shape="rect" id="node4" href="$query__manager_8c.html#a55f2eab3bb1fa4d953fa300f40ff9708" title="xqmgr_prepare_and_execute\l_query" alt="" coords="412,64,601,105"/>
+</map>

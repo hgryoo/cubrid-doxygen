@@ -1,0 +1,6 @@
+<map id="tran_end_libcas_function" name="tran_end_libcas_function">
+<area shape="rect" id="node2" href="$jsp__cl_8c.html#ab24bc5f166d40bbc07d5f5904df08545" title="jsp_receive_response" alt="" coords="233,13,381,39"/>
+<area shape="rect" id="node4" href="$jsp__cl_8h.html#af8a64f8c46674e009c2fbcdb2aea2b45" title="jsp_send_destroy_request" alt="" coords="220,63,395,90"/>
+<area shape="rect" id="node3" href="$jsp__cl_8c.html#a82999aceae550ba9ec2e56f798c0f3f9" title="jsp_execute_stored\l_procedure" alt="" coords="473,5,607,47"/>
+<area shape="rect" id="node5" href="$jsp__cl_8h.html#a554d2bf3d96897a065bb6bfb6e2c28be" title="jsp_send_destroy_request_all" alt="" coords="443,71,637,98"/>
+</map>

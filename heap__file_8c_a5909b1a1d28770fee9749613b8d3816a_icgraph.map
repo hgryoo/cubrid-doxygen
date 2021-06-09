@@ -1,0 +1,9 @@
+<map id="heap_get_header_page" name="heap_get_header_page">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a2227d0baf96c8e9ee396fcb52ecd3c73" title="heap_check_heap_file" alt="" coords="223,56,373,83"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a9c3b67fbb2c2a962cd9476c5e0610edf" title="heap_get_hfid_from_vfid" alt="" coords="216,107,380,133"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#a5e313f0925494170e1858df2a8794dbe" title="heap_rv_postpone_append\l_pages_to_heap" alt="" coords="209,158,387,199"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#af800f3bfd7690fa522c15142c2486142" title="heap_check_all_heaps" alt="" coords="453,5,608,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a70167f3572fd39fae0ddc463c682de15" title="xboot_checkdb_table" alt="" coords="458,56,603,83"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#a63f1bb951cd7db038c6caecd17f8078d" title="file_tracker_item_dump_heap" alt="" coords="435,107,627,133"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#aedb2834e544c5ab2a6b1dfd7dbed565f" title="file_tracker_item_dump\l_heap_capacity" alt="" coords="452,158,609,199"/>
+</map>

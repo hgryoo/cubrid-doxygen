@@ -1,0 +1,9 @@
+<map id="tx_transient_class_registry::clear" name="tx_transient_class_registry::clear">
+<area shape="rect" id="node2" href="$log__manager_8c.html#a419b499e71801215e558b71c0060f96b" title="log_cleanup_modified\l_class_list" alt="" coords="181,49,328,90"/>
+<area shape="rect" id="node6" href="$log__tran__table_8c.html#a6c5edebbae75e1a92360baf780ce8377" title="logtb_clear_tdes" alt="" coords="196,115,313,141"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#af367ea7ca740da91a90b19b7fb7a867b" title="logtb_set_tdes" alt="" coords="201,165,308,192"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="387,5,496,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a337f8a4c9ef75b8f01e4f5293d2f3381" title="log_abort_partial" alt="" coords="383,56,500,83"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="380,107,503,133"/>
+<area shape="rect" id="node7" href="$log__tran__table_8c.html#a3bc8e667a4001db19a340b7f600ba3ae" title="logtb_allocate_tran\l_index" alt="" coords="376,158,507,199"/>
+</map>

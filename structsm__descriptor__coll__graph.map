@@ -1,0 +1,9 @@
+<map id="sm_descriptor" name="sm_descriptor">
+<area shape="rect" id="node2" href="$structsm__descriptor__list.html" title="{sm_descriptor_list\n|+ write_access\l|}" alt="" coords="148,1232,276,1309"/>
+<area shape="rect" id="node3" href="$structsm__class.html" title="{sm_class\n|+ class_type\l+ repid\l+ object_size\l+ att_count\l+ shared_count\l+ class_attribute_count\l+ loader_commands\l+ method_count\l+ class_method_count\l+ fixed_count\l+ variable_count\l+ fixed_size\l+ att_ids\l+ method_ids\l+ unused\l+ collation_id\l+ auth_cache\l+ comment\l+ flags\l+ virtual_cache_local\l_schema_id\l+ virtual_cache_global\l_schema_id\l+ virtual_cache_snapshot\l_version\l+ tde_algorithm\l+ methods_loaded\l+ post_load_cleanup\l+ triggers_validated\l+ has_active_triggers\l+ dont_decache_constraints\l_or_flush\l+ recache_constraints\l|}" alt="" coords="353,623,540,1169"/>
+<area shape="rect" id="node4" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="285,5,459,259"/>
+<area shape="rect" id="node5" href="$structdb__objlist.html" title="{db_objlist\n||}" alt="" coords="405,395,483,472"/>
+<area shape="rect" id="node7" href="$structsm__validation.html" title="{sm_validation\n|+ last_type\l+ last_precision\l+ last_scale\l|}" alt="" coords="564,843,679,949"/>
+<area shape="rect" id="node8" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="717,321,851,545"/>
+<area shape="rect" id="node6" href="$structsm__component.html" title="{sm_component\n|+ name\l+ name_space\l|}" alt="" coords="157,850,267,942"/>
+</map>

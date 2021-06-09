@@ -1,0 +1,9 @@
+<map id="obj_create" name="obj_create">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="501,20,579,47"/>
+<area shape="rect" id="node4" href="$authenticate_8c.html#a6d6d63b0e417da4f892561898c64893c" title="au_make_user" alt="" coords="169,45,276,72"/>
+<area shape="rect" id="node6" href="$authenticate_8c.html#a6cc0705679fa78505fb5a1ca4fef96f6" title="au_set_password_internal" alt="" coords="136,96,309,123"/>
+<area shape="rect" id="node7" href="$db__obj_8c.html#aa826595c9f376b8c9e29dbc5379f0116" title="db_create_internal" alt="" coords="159,147,287,173"/>
+<area shape="rect" id="node8" href="$object__accessor_8h.html#a01e0ca6f972d8b9ec1038b7826fb325d" title="obj_create_by_name" alt="" coords="151,197,294,224"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="627,20,765,47"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#abf5a1e3cd4160a51bc6acd4abff51bb6" title="au_add_user" alt="" coords="357,45,453,72"/>
+</map>

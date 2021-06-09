@@ -1,0 +1,9 @@
+<map id="set_free_block" name="set_free_block">
+<area shape="rect" id="node2" href="$set__object_8h.html#ae7290c96c20122c940a27c6ee603c6fd" title="col_delete" alt="" coords="165,107,247,133"/>
+<area shape="rect" id="node8" href="$set__object_8h.html#a15ee298bf13392b9fa26ef3a4718aa7b" title="setobj_clear" alt="" coords="160,157,252,184"/>
+<area shape="rect" id="node3" href="$set__object_8h.html#a49e011387621c5eaa260b46ce6f565d0" title="col_drop" alt="" coords="350,5,421,32"/>
+<area shape="rect" id="node4" href="$set__object_8h.html#a4bcff805b733ee13a0427ebe959ba010" title="col_drop_nulls" alt="" coords="333,56,438,83"/>
+<area shape="rect" id="node5" href="$set__object_8h.html#a54ff98de53c99ab2bf69fb1ebd4196c9" title="setobj_coerce" alt="" coords="334,107,437,133"/>
+<area shape="rect" id="node6" href="$set__object_8h.html#af864a101244e9d0274719b385fdce952" title="setobj_drop_seq_element" alt="" coords="300,157,471,184"/>
+<area shape="rect" id="node7" href="$set__object_8h.html#a121da72cfa4b3bcf6b2e4614411277d4" title="setobj_filter" alt="" coords="341,208,430,235"/>
+</map>

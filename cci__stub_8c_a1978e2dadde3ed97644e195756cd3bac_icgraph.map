@@ -1,0 +1,7 @@
+<map id="get_value_from_api_val" name="get_value_from_api_val">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#a1a1316017782b447edc65fa9afcccb2e" title="api_col_get_elem" alt="" coords="244,5,367,32"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#aea3a1a3d17d7f35399bd8365a2e926b7" title="api_qres_get_value" alt="" coords="238,56,373,83"/>
+<area shape="rect" id="node6" href="$cci__stub_8c.html#a0bb6fa68044725440d038b3b8cf036de" title="ci_stmt_get_parameter_impl" alt="" coords="212,107,399,133"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#a1f272e156964b310897a1c96ae6c1e38" title="api_ores_get_value" alt="" coords="447,27,581,53"/>
+<area shape="rect" id="node5" href="$cci__stub_8c.html#a3246d4ec98e00b110a564094bb3420cf" title="api_qres_get_value\l_by_name" alt="" coords="447,78,581,119"/>
+</map>

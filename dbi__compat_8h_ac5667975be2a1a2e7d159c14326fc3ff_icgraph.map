@@ -1,0 +1,20 @@
+<map id="dbt_finish_object" name="dbt_finish_object">
+<area shape="rect" id="node2" href="$authenticate_8c.html#a108c8891b2b7c834eb9f2b6db2b57269" title="au_change_serial_owner" alt="" coords="181,35,347,61"/>
+<area shape="rect" id="node5" href="$esql__gadget_8h.html#a4439ec0649e23f4e5ca55d99a8a948a0" title="db_gadget_exec" alt="" coords="205,85,323,112"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="211,136,317,163"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#af56fe6a18d78487bce9c670e95849ea2" title="do_change_auto_increment\l_serial" alt="" coords="173,187,355,229"/>
+<area shape="rect" id="node8" href="$execute__statement_8c.html#a6873703d7f825aaf348f4f6090e3257b" title="do_create_serial_internal" alt="" coords="181,253,347,280"/>
+<area shape="rect" id="node9" href="$execute__statement_8c.html#afc8676086646494b31f8b100d05f13da" title="do_insert_template" alt="" coords="424,537,556,564"/>
+<area shape="rect" id="node10" href="$execute__statement_8h.html#ac84337eb62af002730d69cc10ada1064" title="do_reset_auto_increment\l_serial" alt="" coords="180,355,348,397"/>
+<area shape="rect" id="node11" href="$execute__statement_8h.html#a4cbdb8fd2fa52821893bd3fca7614375" title="do_update_auto_increment\l_serial_on_rename" alt="" coords="175,421,353,462"/>
+<area shape="rect" id="node12" href="$execute__statement_8h.html#ad37d6b13f9139f97baed90d66d276468" title="do_update_maxvalue\l_of_auto_increment_serial" alt="" coords="177,486,351,527"/>
+<area shape="rect" id="node13" href="$execute__statement_8c.html#a2ed4e36685dfd7b5d4e82516a415d0e9" title="insert_subquery_results" alt="" coords="184,552,344,579"/>
+<area shape="rect" id="node14" href="$jsp__cl_8c.html#a492fc77e32ed00bc045be5703c4aba55" title="jsp_add_stored_procedure" alt="" coords="403,617,577,644"/>
+<area shape="rect" id="node15" href="$jsp__cl_8c.html#a5ae7532d8b80611831949995873a9de2" title="jsp_add_stored_procedure\l_argument" alt="" coords="177,654,351,695"/>
+<area shape="rect" id="node16" href="$trigger__manager_8c.html#aa2049ae03789b4c17d66fb6b84e92fdb" title="trigger_to_object" alt="" coords="205,720,323,747"/>
+<area shape="rect" id="node17" href="$execute__statement_8c.html#a549b89c3cb634fe4951a70c2429877e9" title="update_class_attributes" alt="" coords="184,771,344,797"/>
+<area shape="rect" id="node18" href="$execute__statement_8c.html#a7ff55edca9d93dd271aa98b76e7e3605" title="update_object_tuple" alt="" coords="195,821,333,848"/>
+<area shape="rect" id="node19" href="$cas__execute_8h.html#a8d818811bf466e466d2f7269d2905bcb" title="ux_oid_put" alt="" coords="221,872,307,899"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#a4ff4b32df44cb6e0eeb1c44369e6c981" title="au_change_owner" alt="" coords="427,5,553,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#aa94c06a8a0d5617454fb4fabb493531a" title="au_change_serial_owner\l_method" alt="" coords="407,57,573,98"/>
+</map>

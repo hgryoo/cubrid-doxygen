@@ -1,0 +1,7 @@
+<map id="pt_transform_cnf_post" name="pt_transform_cnf_post">
+<area shape="rect" id="node2" href="$parser_8h.html#ab2682428dcd7e3bb5710e6eaf4f4a535" title="pt_cnf" alt="" coords="205,81,264,108"/>
+<area shape="rect" id="node3" href="$query__rewrite_8c.html#ace6201135ef7c3f735dc445859b48617" title="qo_optimize_queries" alt="" coords="327,5,468,32"/>
+<area shape="rect" id="node4" href="$parser_8h.html#a8d07d3f1b828141e052ca7ed4ef793dc" title="pt_do_cnf" alt="" coords="358,56,437,83"/>
+<area shape="rect" id="node5" href="$name__resolution_8c.html#a8e618654b13d30a3f4fdaa2f60c041b1" title="pt_bind_names" alt="" coords="342,107,453,133"/>
+<area shape="rect" id="node6" href="$view__transform_8c.html#a396d97d8efd6d9c48491e60031c4f8db" title="mq_check_rewrite_select" alt="" coords="312,157,483,184"/>
+</map>

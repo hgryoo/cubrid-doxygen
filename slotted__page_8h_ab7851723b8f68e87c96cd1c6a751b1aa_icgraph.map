@@ -1,0 +1,11 @@
+<map id="spage_anchor_flag_string" name="spage_anchor_flag_string">
+<area shape="rect" id="node2" href="$external__sort_8c.html#ae7a5a999822e768113ac3446dab506fa" title="sort_spage_get_record" alt="" coords="232,115,387,141"/>
+<area shape="rect" id="node6" href="$slotted__page_8c.html#a525350134a4697eb36cf4317912b453d" title="spage_dump_header_to\l_string" alt="" coords="229,174,389,215"/>
+<area shape="rect" id="node9" href="$slotted__page_8h.html#ac74bad30464e72ff71012d4fe698f0eb" title="spage_header_next_scan" alt="" coords="224,257,395,284"/>
+<area shape="rect" id="node3" href="$external__sort_8c.html#ac9b6855d69afd12a4205aa72ec31dadd" title="sort_exphase_merge" alt="" coords="443,5,585,32"/>
+<area shape="rect" id="node4" href="$external__sort_8c.html#a8d5351bc6db3ed4d8fb9e90a6a9b1a4b" title="sort_exphase_merge\l_elim_dup" alt="" coords="443,57,585,98"/>
+<area shape="rect" id="node5" href="$external__sort_8c.html#ae88a25d3c753f1ad9629064c1b092270" title="sort_inphase_sort" alt="" coords="451,123,577,149"/>
+<area shape="rect" id="node7" href="$slotted__page_8c.html#a4118f3754471ef36005d21c271e25392" title="spage_dump_header" alt="" coords="443,173,585,200"/>
+<area shape="rect" id="node8" href="$slotted__page_8c.html#a0c520b4ca05470d660b557d23e5714a5" title="spage_verify_header" alt="" coords="443,224,585,251"/>
+<area shape="rect" id="node10" href="$show__scan_8c.html#aecf736200d67937c5e8b499d2570ea1d" title="showstmt_scan_init" alt="" coords="445,275,583,301"/>
+</map>

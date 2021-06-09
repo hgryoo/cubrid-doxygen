@@ -1,0 +1,11 @@
+<map id="xasl_cache_ent" name="xasl_cache_ent">
+<area shape="rect" id="node2" href="$structxasl__clone.html" title="{xasl_clone\n||}" alt="" coords="295,832,379,909"/>
+<area shape="rect" id="node3" href="$structxasl__node.html" title="{xasl_node\n|+ type\l+ flag\l+ orderby_limit\l+ ordbynum_flag\l+ is_single_tuple\l+ option\l+ limit_offset\l+ limit_row_count\l+ level_regu\l+ isleaf_regu\l+ iscycle_regu\l+ instnum_flag\l+ next_scan_on\l+ next_scan_block_on\l+ cat_fetched\l+ query_in_progress\l+ scan_op_type\l+ upd_del_class_cnt\l+ mvcc_reev_extra_cls_cnt\l+ proc\l+ cardinality\l+ projected_size\l+ n_oid_list\l+ class_locks\l+ tcard_list\l+ query_alias\l+ dbval_cnt\l+ iscan_oid_order\l+ max_iterations\l|}" alt="" coords="302,189,485,677"/>
+<area shape="rect" id="node4" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="218,5,310,112"/>
+<area shape="rect" id="node10" href="$structxcache__related__object.html" title="{xcache_related_object\n|+ lock\l+ tcard\l|}" alt="" coords="5,701,157,793"/>
+<area shape="rect" id="node5" href="$structxasl__node__header.html" title="{xasl_node_header\n|+ xasl_flag\l|}" alt="" coords="458,20,585,97"/>
+<area shape="rect" id="node7" href="$structxasl__stream.html" title="{xasl_stream\n|+ buffer\l+ buffer_size\l|}" alt="" coords="667,825,765,917"/>
+<area shape="rect" id="node6" href="$structxasl__unpack__info.html" title="{xasl_unpack_info\n|+ packed_xasl\l+ alloc_buf\l+ packed_size\l+ ptr_lwm\l+ ptr_max\l+ alloc_size\l+ track_allocated_bufers\l+ use_xasl_clone\l|}" alt="" coords="112,343,277,523"/>
+<area shape="rect" id="node8" href="$structxasl__id.html" title="{xasl_id\n|+ cache_flag\l|}" alt="" coords="634,395,731,472"/>
+<area shape="rect" id="node9" href="$structexecution__info.html" title="{execution_info\n|+ sql_hash_text\l+ sql_user_text\l+ sql_plan_text\l|}" alt="" coords="528,817,643,924"/>
+</map>

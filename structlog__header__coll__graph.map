@@ -1,0 +1,4 @@
+<map id="log_header" name="log_header">
+<area shape="rect" id="node2" href="$structlog__hdr__bkup__level__info.html" title="{log_hdr_bkup_level_info\n|+ bkup_attime\l+ io_baseln_time\l+ io_bkuptime\l+ ndirty_pages_post_bkup\l+ io_numpages\l|}" alt="" coords="5,57,180,193"/>
+<area shape="rect" id="node3" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="204,5,309,244"/>
+</map>

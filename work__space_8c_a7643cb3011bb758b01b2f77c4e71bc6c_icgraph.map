@@ -1,0 +1,10 @@
+<map id="ws_release_instance" name="ws_release_instance">
+<area shape="rect" id="node2" href="$load__sa__loader_8cpp.html#accbff6cc88ae442d6a41d63c68f07792" title="insert_meth_instance" alt="" coords="212,21,359,47"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#a9aa0f48f3bf9f906b3741ad03b78545b" title="ldr_reset_context" alt="" coords="224,78,347,105"/>
+<area shape="rect" id="node6" href="$work__space_8h.html#a1837cfceed0c6003e62da2d0e04f8043" title="ws_release_user_instance" alt="" coords="197,162,373,189"/>
+<area shape="rect" id="node3" href="$classcubload_1_1sa__object__loader.html#a8a6c945de603337f5be66791eb05f554" title="cubload::sa_object\l_loader::finish_line" alt="" coords="426,5,557,47"/>
+<area shape="rect" id="node5" href="$classcubload_1_1sa__object__loader.html#a3353c960714ee4bbb0e6f958871f2574" title="cubload::sa_object\l_loader::start_line" alt="" coords="426,71,557,112"/>
+<area shape="rect" id="node7" href="$log__applier_8c.html#a2d40a24d77f7d73ad8df508c20a5dbdb" title="la_apply_update_log" alt="" coords="421,137,561,163"/>
+<area shape="rect" id="node8" href="$log__applier_8c.html#aae222bafc8147044057c499295141b9b" title="la_apply_insert_log" alt="" coords="425,187,558,214"/>
+<area shape="rect" id="node9" href="$log__applier_8c.html#a390461d66ad3104850cb216ea17fc356" title="la_create_repl_filter" alt="" coords="424,238,559,265"/>
+</map>

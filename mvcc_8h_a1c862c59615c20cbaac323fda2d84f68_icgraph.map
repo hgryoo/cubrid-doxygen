@@ -1,0 +1,9 @@
+<map id="mvcc_satisfies_vacuum" name="mvcc_satisfies_vacuum">
+<area shape="rect" id="node2" href="$vacuum_8c.html#a0b546c50d65fdfb6159f3d582382c44f" title="is_not_vacuumed_and_lost" alt="" coords="217,14,397,41"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#a3171e0413044eaee675846edbfb3a086" title="vacuum_heap_page" alt="" coords="237,66,376,93"/>
+<area shape="rect" id="node5" href="$vacuum_8h.html#aab6f2ee7c2266ae8c5d42130a4acbb6c" title="vacuum_rv_check_at_undo" alt="" coords="216,121,397,147"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#ac1f294e847923c4538c02efe63a307ec" title="vacuum_check_not_vacuumed\l_rec_header" alt="" coords="445,5,648,47"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#a6728a58d6b32d704d13dbe4980b9af51" title="heap_rv_undo_delete" alt="" coords="474,71,619,98"/>
+<area shape="rect" id="node7" href="$heap__file_8h.html#a085ec7b9a671f0829718f8a26143b424" title="heap_rv_undo_ovf_update" alt="" coords="459,122,634,149"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#a2d604e809b30d8a5b4a7c028b61de89b" title="heap_rv_undo_update" alt="" coords="472,173,621,199"/>
+</map>

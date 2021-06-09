@@ -1,0 +1,5 @@
+<map id="update_default_instances_stats" name="update_default_instances_stats">
+<area shape="rect" id="node2" href="$load__sa__loader_8cpp.html#ad64700c984ccfd79eef78e162dbd8e6e" title="ldr_destroy" alt="" coords="224,42,311,69"/>
+<area shape="rect" id="node3" href="$classcubload_1_1sa__object__loader.html#a13dfc4b0853b145a4e43b0c6be1dc439" title="cubload::sa_object\l_loader::destroy" alt="" coords="359,5,489,47"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#a73482ecfb2918c7af1a383e20a2cf4fd" title="ldr_final" alt="" coords="391,71,457,98"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="scan_init_scan_attrs" name="scan_init_scan_attrs">
+<area shape="rect" id="node2" href="$scan__manager_8h.html#ac13d4449d241355e579ac11376b4aa91" title="scan_open_class_attr_scan" alt="" coords="196,5,380,32"/>
+<area shape="rect" id="node5" href="$scan__manager_8h.html#a772c4c306aeb55e2ba514de5142dc280" title="scan_open_heap_scan" alt="" coords="211,56,365,83"/>
+<area shape="rect" id="node6" href="$scan__manager_8h.html#a182c8e92047f6d81e263152409c29da0" title="scan_open_index_scan" alt="" coords="209,107,367,133"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#ab987ce7bd67fd4b9e0c392cea960d924" title="qexec_open_scan" alt="" coords="448,31,575,57"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#aabe6a73176c447365adf5a71e0db3d0a" title="qexec_init_next_partition" alt="" coords="428,81,595,108"/>
+</map>

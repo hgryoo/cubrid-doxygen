@@ -1,0 +1,5 @@
+<map id="qo_or_selectivity" name="qo_or_selectivity">
+<area shape="rect" id="node2" href="$query__planner_8c.html#ae20bc1be9c3d7ca372af3f827c84aad3" title="qo_expr_selectivity" alt="" coords="363,5,497,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#a6e1a27feea4e30539347c97b11aab333" title="qo_range_selectivity" alt="" coords="173,31,315,57"/>
+<area shape="rect" id="node3" href="$query__graph_8c.html#a4d322007ce6983e3472645dbca6b53ec" title="qo_analyze_term" alt="" coords="545,5,667,32"/>
+</map>

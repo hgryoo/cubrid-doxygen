@@ -1,0 +1,7 @@
+<map id="indx_info" name="indx_info">
+<area shape="rect" id="node2" href="$structkey__range.html" title="{key_range\n|+ range\l|}" alt="" coords="46,248,128,325"/>
+<area shape="rect" id="node4" href="$structkey__info.html" title="{key_info\n|+ key_cnt\l+ is_constant\l+ key_limit_reset\l+ is_user_given_keylimit\l|}" alt="" coords="104,388,270,509"/>
+<area shape="rect" id="node3" href="$classregu__variable__node.html" title="{regu_variable_node\n|+ type\l+ flags\l|+ regu_variable_node()\l+ map_regu()\l+ map_regu_and_xasl()\l+ clear_xasl()\l&#45; map_regu()\l&#45; clear_xasl_local()\l}" alt="" coords="68,5,226,171"/>
+<area shape="rect" id="node5" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="294,395,386,502"/>
+<area shape="rect" id="node6" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="411,410,512,487"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="shard_shm_set_client_info_request" name="shard_shm_set_client_info_request">
+<area shape="rect" id="node2" href="$shard__proxy__handler_8c.html#a65116d4672d3cc719268d92190b7639d" title="proxy_handler_process\l_client_request" alt="" coords="203,27,359,68"/>
+<area shape="rect" id="node3" href="$shard__proxy__handler_8c.html#a6d513c07af9d66835ec7ca81ab90bc16" title="proxy_handler_process\l_client_event" alt="" coords="653,27,809,68"/>
+<area shape="rect" id="node4" href="$shard__proxy__handler_8c.html#a408a8b358cd2ec49dac7d9e4f0e2c5bc" title="proxy_handler_process\l_client_wakeup_by_shard" alt="" coords="420,27,592,68"/>
+<area shape="rect" id="node5" href="$shard__proxy__handler_8c.html#a796f6ce0e69f8a554ae5329ce5a9e007" title="proxy_handler_process\l_client_wakeup_by_statement" alt="" coords="407,92,605,133"/>
+</map>

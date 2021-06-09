@@ -1,0 +1,11 @@
+<map id="set_create_with_domain" name="set_create_with_domain">
+<area shape="rect" id="node2" href="$db__set__function_8h.html#ab865d002c78a21e7277b58194d4354a3" title="db_col_create" alt="" coords="255,69,357,95"/>
+<area shape="rect" id="node5" href="$classcubload_1_1server__object__loader.html#a9cfaba458edb0cc2567713869a66fa08" title="cubload::server_object\l_loader::process_collection\l_constant" alt="" coords="216,119,396,175"/>
+<area shape="rect" id="node7" href="$set__object_8c.html#a52079c2baf3a02a633fd42540d4fce9e" title="set_op" alt="" coords="275,218,337,245"/>
+<area shape="rect" id="node3" href="$db__stub_8h.html#ad76bf175ed113ede83f99090c29e3988" title="api_collection_set\l_to_db_value" alt="" coords="471,5,598,47"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#af7a6f8b06ff0c4429d7a18e91c32bc1e" title="ldr_collection_db_collection" alt="" coords="444,71,625,98"/>
+<area shape="rect" id="node6" href="$classcubload_1_1server__object__loader.html#aeecb160d3513e047d24c7d56387fdf66" title="cubload::server_object\l_loader::process_constant" alt="" coords="447,124,622,165"/>
+<area shape="rect" id="node8" href="$set__object_8h.html#a208b881dca16692f9342430c483702c5" title="set_difference" alt="" coords="483,190,587,217"/>
+<area shape="rect" id="node9" href="$set__object_8h.html#a712c7cfcabe7dd337785fcc75ea40bd0" title="set_union" alt="" coords="495,241,574,267"/>
+<area shape="rect" id="node10" href="$set__object_8h.html#a3f207a10bc821d650690f1db77033f12" title="set_intersection" alt="" coords="477,291,592,318"/>
+</map>

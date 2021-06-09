@@ -1,0 +1,10 @@
+<map id="pgbuf_has_perm_pages_fixed" name="pgbuf_has_perm_pages_fixed">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#aa91abaf89af63e703737ac5c00d7cd7d" title="logpb_flush_pages" alt="" coords="213,165,344,192"/>
+<area shape="rect" id="node3" href="$log__2pc_8h.html#a6ae2e71f9ebb8789390c01087bb8e947" title="log_2pc_prepare_global_tran" alt="" coords="398,5,585,32"/>
+<area shape="rect" id="node4" href="$log__2pc_8c.html#a0b4b07ad424446ad3c9292440f8dc432" title="log_2pc_append_start" alt="" coords="417,56,566,83"/>
+<area shape="rect" id="node5" href="$log__2pc_8c.html#a6de65c9860465e42247d14cd310d9ec6" title="log_2pc_append_decision" alt="" coords="406,107,577,133"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a7ef2b913287067a2beccb363958ee1ae" title="log_append_ha_server\l_state" alt="" coords="415,158,567,199"/>
+<area shape="rect" id="node7" href="$log__manager_8c.html#a10de2e470bc106af7ae59bb103a2f305" title="log_append_commit_postpone" alt="" coords="392,224,591,251"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html#a7f7a5833cb6b2f3a205c26fa0761e76d" title="log_change_tran_as\l_completed" alt="" coords="422,275,561,317"/>
+<area shape="rect" id="node9" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="639,312,788,339"/>
+</map>

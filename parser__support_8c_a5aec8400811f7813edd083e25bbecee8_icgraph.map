@@ -1,0 +1,21 @@
+<map id="pt_entity" name="pt_entity">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#aa8642854aa888c08178f2f26c0962f73" title="compile_partition_expression" alt="" coords="125,72,316,99"/>
+<area shape="rect" id="node4" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="161,188,280,215"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#afd8e3772618184adddd0e1bb5bb4d61b" title="mq_translate_tree" alt="" coords="157,239,284,265"/>
+<area shape="rect" id="node6" href="$parser__support_8c.html#aa08b100b7fa4e84ff7df20f24a1e02d8" title="pt_add_table_name_to\l_from_list" alt="" coords="144,421,297,462"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a9f2af464afc304581eafc189be1b9a1b" title="pt_node_to_partition_info" alt="" coords="369,5,535,32"/>
+<area shape="rect" id="node7" href="$view__transform_8c.html#a929049b95083d87cfa9c41d7a50612cb" title="mq_add_dummy_from_pre" alt="" coords="364,56,540,83"/>
+<area shape="rect" id="node8" href="$parser__support_8c.html#ac50f81397af94d48227c4b74b2ceb2b8" title="pt_make_collection\l_type_subquery_node" alt="" coords="377,107,527,149"/>
+<area shape="rect" id="node9" href="$parser__support_8c.html#ad5c7adf2fb7d20813a09ce4ab0e68859" title="pt_make_dummy_query\l_check_table" alt="" coords="371,173,533,214"/>
+<area shape="rect" id="node10" href="$parser__support_8c.html#a34207b9b9d7e11d3afe931744aa4ca4e" title="pt_make_query_show\l_create_view" alt="" coords="588,202,737,243"/>
+<area shape="rect" id="node11" href="$parser__support_8c.html#ad7a9f10c1cd080c98fb09555e8093248" title="pt_make_field_extra\l_expr_node" alt="" coords="383,290,521,331"/>
+<area shape="rect" id="node12" href="$parser__support_8c.html#a4494aa793880ba27595805bae6b7f4d3" title="pt_make_field_key_type\l_expr_node" alt="" coords="371,355,533,397"/>
+<area shape="rect" id="node13" href="$parser__support_8c.html#a420a18dae7546a265903bedaa2ac4b78" title="pt_make_outer_select\l_for_show_columns" alt="" coords="377,421,527,462"/>
+<area shape="rect" id="node14" href="$parser__support_8c.html#abcdf4391e31707aa649835833440a11a" title="pt_make_query_show\l_columns" alt="" coords="588,467,737,509"/>
+<area shape="rect" id="node15" href="$parser__support_8c.html#a709c4a890badbd5c5b4369fc70790d2c" title="pt_make_outer_select\l_for_show_stmt" alt="" coords="377,589,527,630"/>
+<area shape="rect" id="node16" href="$parser__support_8c.html#abf59e2eb70e3d09695e2fc44988dba89" title="pt_make_query_show\l_table" alt="" coords="588,542,737,583"/>
+<area shape="rect" id="node17" href="$parser__support_8c.html#acd499a83b556ef65f99a69d7cf3b6afc" title="pt_make_query_show\l_collation" alt="" coords="588,626,737,667"/>
+<area shape="rect" id="node18" href="$parser__support_8c.html#a477f73c4c2312943424dc428eb3bb7c0" title="pt_make_query_show\l_create_table" alt="" coords="377,706,527,747"/>
+<area shape="rect" id="node19" href="$parser__support_8c.html#a62bf7092afaec291c69a1f5233a7992d" title="pt_make_query_show\l_grants" alt="" coords="377,771,527,813"/>
+<area shape="rect" id="node20" href="$parser__support_8c.html#a10b5a894507ddc79c5ba23825f719534" title="pt_make_query_show\l_index" alt="" coords="377,837,527,878"/>
+</map>

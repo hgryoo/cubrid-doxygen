@@ -1,0 +1,7 @@
+<map id="method_link" name="method_link">
+<area shape="rect" id="node2" href="$structsm__method.html" title="{sm_method\n|+ function\l+ id\l+ order\l+ unused\l|}" alt="" coords="269,520,359,641"/>
+<area shape="rect" id="node3" href="$structsm__method__signature.html" title="{sm_method_signature\n|+ function_name\l+ function\l+ sql_definition\l+ num_args\l|}" alt="" coords="5,329,156,450"/>
+<area shape="rect" id="node4" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="227,5,401,259"/>
+<area shape="rect" id="node5" href="$structdb__set.html" title="{db_set\n|+ disk_set\l+ attribute\l+ ref_count\l+ disk_size\l+ need_clear\l|}" alt="" coords="367,321,464,457"/>
+<area shape="rect" id="node6" href="$structsm__component.html" title="{sm_component\n|+ name\l+ name_space\l|}" alt="" coords="567,343,677,435"/>
+</map>

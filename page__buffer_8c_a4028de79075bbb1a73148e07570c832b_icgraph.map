@@ -1,0 +1,15 @@
+<map id="pgbuf_lru_sanity_check" name="pgbuf_lru_sanity_check">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#abaa51159b1cd1415ea6c06976a4c232f" title="pgbuf_lru_add_new_bcb\l_to_bottom" alt="" coords="633,38,796,79"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#ad61cc7e90f9ccaf0bc58b99113c6480c" title="pgbuf_lru_add_new_bcb\l_to_middle" alt="" coords="212,66,375,107"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#a1bc27d1a6244fb49011a2a271c976136" title="pgbuf_lru_add_new_bcb\l_to_top" alt="" coords="423,248,585,290"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#a71472951a1a3c3fc25291339157cbb8a" title="pgbuf_lru_adjust_zones" alt="" coords="214,314,373,341"/>
+<area shape="rect" id="node11" href="$page__buffer_8c.html#a30de612d32bf24eec316c94bad440a6a" title="pgbuf_lru_boost_bcb" alt="" coords="433,416,575,442"/>
+<area shape="rect" id="node12" href="$page__buffer_8c.html#a10517209eae529f43203d575af64ed97" title="pgbuf_lru_remove_bcb" alt="" coords="217,161,370,188"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a8c129e83675a9f0d02325c18ca54f52f" title="pgbuf_move_bcb_to_bottom_lru" alt="" coords="844,45,1051,72"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a76e301b78b2f0d65de56d7b2f57106e0" title="pgbuf_lru_move_from\l_private_to_shared" alt="" coords="431,66,577,107"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#af1d28b14d0180489e3ec532a4dbf54d6" title="pgbuf_unlatch_void\l_zone_bcb" alt="" coords="647,183,782,224"/>
+<area shape="rect" id="node9" href="$page__buffer_8h.html#a9583e774d489edc4243ece32dc62a92d" title="pgbuf_adjust_quotas" alt="" coords="433,365,575,392"/>
+<area shape="rect" id="node10" href="$page__buffer_8c.html#a7cc1c686b4d3e0a9de41d12d4bfa26b7" title="pgbuf_get_victim_from\l_lru_list" alt="" coords="637,278,792,319"/>
+<area shape="rect" id="node13" href="$page__buffer_8c.html#aacfdde3e346ff6e9ecf80711fbcf3285" title="pgbuf_assign_direct\l_victim" alt="" coords="435,183,573,224"/>
+<area shape="rect" id="node14" href="$page__buffer_8c.html#a32645b0c2aace57799af8b647423a493" title="pgbuf_invalidate_bcb" alt="" coords="432,132,576,158"/>
+</map>

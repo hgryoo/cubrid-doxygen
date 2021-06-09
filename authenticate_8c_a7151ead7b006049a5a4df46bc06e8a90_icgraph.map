@@ -1,0 +1,7 @@
+<map id="au_reset_authorization_caches" name="au_reset_authorization_caches">
+<area shape="rect" id="node2" href="$work__space_8h.html#a8b81b7a90bfd1cfb54ba372e8a73fd4d" title="ws_abort_mops" alt="" coords="214,56,329,83"/>
+<area shape="rect" id="node6" href="$work__space_8h.html#ac35b94dc2323a312912a509bbbed4f51" title="ws_clear_all_hints" alt="" coords="207,107,336,133"/>
+<area shape="rect" id="node3" href="$transaction__cl_8h.html#a1d5ef42a794f24bbb7d41f3eaf164e8f" title="tran_abort" alt="" coords="419,5,499,32"/>
+<area shape="rect" id="node4" href="$transaction__cl_8h.html#a938f5814219f14c56e528805ddca545a" title="tran_abort_only_client" alt="" coords="384,56,533,83"/>
+<area shape="rect" id="node5" href="$transaction__cl_8h.html#a62d23d4ee828236473e300945ab38221" title="tran_internal_abort\l_upto_savepoint" alt="" coords="394,107,523,149"/>
+</map>

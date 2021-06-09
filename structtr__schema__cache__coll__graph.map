@@ -1,0 +1,6 @@
+<map id="tr_schema_cache" name="tr_schema_cache">
+<area shape="rect" id="node2" href="$structtr__triglist.html" title="{tr_triglist\n||}" alt="" coords="63,685,135,763"/>
+<area shape="rect" id="node3" href="$structtr__trigger.html" title="{tr_trigger\n|+ name\l+ priority\l+ status\l+ event\l+ attribute\l+ current_refname\l+ temp_refname\l+ class_attribute\l+ chn\l+ comment\l|}" alt="" coords="79,351,207,560"/>
+<area shape="rect" id="node4" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="55,5,229,259"/>
+<area shape="rect" id="node5" href="$structdb__objlist.html" title="{db_objlist\n||}" alt="" coords="206,584,283,661"/>
+</map>

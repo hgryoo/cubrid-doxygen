@@ -1,0 +1,12 @@
+<map id="cubload::class_entry::get_class_name" name="cubload::class_entry::get_class_name">
+<area shape="rect" id="node2" href="$classcubload_1_1load__task.html#aa4e8a989957626a602b12db671672fdb" title="cubload::load_task\l::execute" alt="" coords="220,5,351,47"/>
+<area shape="rect" id="node3" href="$classcubload_1_1server__object__loader.html#a59e168f3f9d0312d95c9fe90786e5729" title="cubload::server_object\l_loader::flush_records" alt="" coords="209,71,362,112"/>
+<area shape="rect" id="node4" href="$classcubload_1_1session.html#af7b882aec97dd0768d4b17f04d3dc7fd" title="cubload::session::install\l_class" alt="" coords="204,136,367,177"/>
+<area shape="rect" id="node6" href="$classcubload_1_1server__object__loader.html#a9cfaba458edb0cc2567713869a66fa08" title="cubload::server_object\l_loader::process_collection\l_constant" alt="" coords="423,266,603,322"/>
+<area shape="rect" id="node8" href="$classcubload_1_1server__object__loader.html#a25e79facf80a7f488e5e7c452b1a655c" title="cubload::server_object\l_loader::process_generic\l_constant" alt="" coords="202,201,369,257"/>
+<area shape="rect" id="node9" href="$classcubload_1_1server__object__loader.html#a90588525cece1c2b9ab0a6f4f4def590" title="cubload::server_object\l_loader::process_monetary\l_constant" alt="" coords="196,331,375,387"/>
+<area shape="rect" id="node10" href="$classcubload_1_1session.html#a21cb808c9b77475cf78631bbc032f539" title="cubload::session::update\l_class_statistics" alt="" coords="202,411,369,452"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#aa04827e49a2d0a38359cc70bc6342566" title="sloaddb_install_class" alt="" coords="439,143,586,170"/>
+<area shape="rect" id="node7" href="$classcubload_1_1server__object__loader.html#aeecb160d3513e047d24c7d56387fdf66" title="cubload::server_object\l_loader::process_constant" alt="" coords="651,273,825,315"/>
+<area shape="rect" id="node11" href="$network__interface__sr_8h.html#aa54b57f395f97a327e8495817cb46ae9" title="sloaddb_update_stats" alt="" coords="438,418,587,445"/>
+</map>

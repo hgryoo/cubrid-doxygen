@@ -1,0 +1,11 @@
+<map id="log_commit" name="log_commit">
+<area shape="rect" id="node2" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="168,37,261,64"/>
+<area shape="rect" id="node4" href="$transaction__sr_8c.html#af315497226787ae75ee124e68e92da04" title="xtran_server_commit" alt="" coords="143,149,287,176"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="335,5,499,32"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#a09892fdeb1d0a25ac378217c002187da" title="tran_server_commit" alt="" coords="348,56,485,83"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8c.html#a698b603f6ce39ef58412a8cdf5d2bd91" title="stran_server_commit\l_internal" alt="" coords="345,107,489,149"/>
+<area shape="rect" id="node7" href="$classcubload_1_1load__task.html#aa4e8a989957626a602b12db671672fdb" title="cubload::load_task\l::execute" alt="" coords="351,173,482,214"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="349,239,484,265"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="547,264,636,291"/>
+<area shape="rect" id="node10" href="$boot__sr_8h.html#a4cec082b7bb9fd3f683382a9eb090096" title="boot_reset_mk_after\l_restart_from_backup" alt="" coords="343,341,491,382"/>
+</map>

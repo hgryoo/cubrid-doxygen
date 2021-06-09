@@ -1,0 +1,11 @@
+<map id="jsp_writen" name="jsp_writen">
+<area shape="rect" id="node2" href="$javasp_8cpp.html#a6ef47e33f1cbd9904aaba3108f2e4351" title="javasp_ping_server" alt="" coords="155,5,289,32"/>
+<area shape="rect" id="node5" href="$javasp_8cpp.html#a5facca6ade9b49832ac058d23ece70b0" title="javasp_status_server" alt="" coords="149,56,295,83"/>
+<area shape="rect" id="node6" href="$javasp_8cpp.html#a23542ac5987008b9969705eb3b97d23c" title="javasp_stop_server" alt="" coords="155,107,289,133"/>
+<area shape="rect" id="node7" href="$jsp__cl_8c.html#a6c89586d908a37d9a20efab6828d8487" title="jsp_send_call_request" alt="" coords="147,157,297,184"/>
+<area shape="rect" id="node9" href="$jsp__cl_8h.html#af8a64f8c46674e009c2fbcdb2aea2b45" title="jsp_send_destroy_request" alt="" coords="135,208,309,235"/>
+<area shape="rect" id="node3" href="$javasp_8cpp.html#a02706d415cc0faffaf9d77cb41808c5d" title="javasp_is_running" alt="" coords="391,5,518,32"/>
+<area shape="rect" id="node4" href="$javasp_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="429,56,480,83"/>
+<area shape="rect" id="node8" href="$jsp__cl_8c.html#a82999aceae550ba9ec2e56f798c0f3f9" title="jsp_execute_stored\l_procedure" alt="" coords="387,150,522,191"/>
+<area shape="rect" id="node10" href="$jsp__cl_8h.html#a554d2bf3d96897a065bb6bfb6e2c28be" title="jsp_send_destroy_request_all" alt="" coords="357,216,552,243"/>
+</map>

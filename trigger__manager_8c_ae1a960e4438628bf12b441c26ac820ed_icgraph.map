@@ -1,0 +1,7 @@
+<map id="free_state" name="free_state">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#af7053c85e3e3fedb642c6f3f3a7b797b" title="tr_finish" alt="" coords="133,81,201,108"/>
+<area shape="rect" id="node3" href="$trigger__manager_8c.html#a3792d4dac4d3bea26df6277cee9b83cc" title="run_user_triggers" alt="" coords="257,5,379,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#ad068cc1a86485eeab604a7c3ad7c6e51" title="tr_abort" alt="" coords="285,56,351,83"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#abf7d79e474c3e67524488e727c66afd5" title="tr_after_object" alt="" coords="435,81,540,108"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#af5246583905394c9c1a2e8de59dd0735" title="tr_execute_deferred\l_activities" alt="" coords="249,158,387,199"/>
+</map>

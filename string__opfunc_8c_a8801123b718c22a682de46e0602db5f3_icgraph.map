@@ -1,0 +1,14 @@
+<map id="is_integer" name="is_integer">
+<area shape="rect" id="node2" href="$string__opfunc_8c.html#a24dfc9fdfa4aaac866433949a76be0a2" title="db_string_regexp_count" alt="" coords="137,9,297,36"/>
+<area shape="rect" id="node5" href="$string__opfunc_8c.html#a6607fed7404457cb2f79846c1e27903c" title="db_string_regexp_instr" alt="" coords="141,60,294,86"/>
+<area shape="rect" id="node6" href="$string__opfunc_8c.html#aa7058941f373035aa4018b4aad6f222d" title="db_string_regexp_replace" alt="" coords="132,110,303,137"/>
+<area shape="rect" id="node7" href="$string__opfunc_8c.html#af1b25c633b9a9a78b28f7989ef7952d3" title="db_string_regexp_substr" alt="" coords="135,161,299,188"/>
+<area shape="rect" id="node8" href="$string__opfunc_8h.html#a4bb4326997eaf42782ebfb2730109163" title="db_string_repeat" alt="" coords="379,430,497,457"/>
+<area shape="rect" id="node11" href="$string__opfunc_8h.html#a3b655df8e91d1524f5561b258302dd40" title="db_string_substring" alt="" coords="150,262,285,289"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#ae8d094582688ae1145d7eecb8edaa438" title="pt_evaluate_function\l_w_args" alt="" coords="592,103,735,144"/>
+<area shape="rect" id="node4" href="$query__opfunc_8c.html#a8fcde0dd7de30ed5e89ff83e9877d332" title="qdata_regexp_function" alt="" coords="361,60,515,86"/>
+<area shape="rect" id="node9" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="573,380,753,406"/>
+<area shape="rect" id="node10" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="604,321,723,348"/>
+<area shape="rect" id="node12" href="$string__opfunc_8h.html#a5e2730b844cab8c70224695652b99510" title="db_string_substring\l_index" alt="" coords="371,314,505,355"/>
+<area shape="rect" id="node13" href="$string__opfunc_8h.html#a0b9646cf5e5c388b45cd4980f9b8f4ff" title="db_string_insert_substring" alt="" coords="351,212,525,238"/>
+</map>

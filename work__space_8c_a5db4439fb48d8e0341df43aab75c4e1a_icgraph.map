@@ -1,0 +1,8 @@
+<map id="ws_increment_mvcc_snapshot_version" name="ws_increment_mvcc_snapshot_version">
+<area shape="rect" id="node2" href="$dbi_8h.html#a24c3a762d1abb514d28806efd04bb78a" title="db_invalidate_mvcc\l_snapshot_before_statement" alt="" coords="256,71,447,112"/>
+<area shape="rect" id="node6" href="$transaction__cl_8h.html#a1d5ef42a794f24bbb7d41f3eaf164e8f" title="tran_abort" alt="" coords="311,137,391,163"/>
+<area shape="rect" id="node7" href="$transaction__cl_8h.html#a901b4a89a27aa3bc5c8ffdcc1f9e3150" title="tran_commit" alt="" coords="304,187,399,214"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#a78481e1554c3d1807c07bcb8bfc7cd54" title="db_compile_and_execute\l_queries_internal" alt="" coords="495,5,664,47"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#ad6b414798f5f576f2df94299d7842810" title="db_execute_and_keep\l_statement" alt="" coords="503,71,655,112"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#af9bd6b1ca9d48913f3c7af27f0536dd2" title="db_execute_statement" alt="" coords="502,137,657,163"/>
+</map>

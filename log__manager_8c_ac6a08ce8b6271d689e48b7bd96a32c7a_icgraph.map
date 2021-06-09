@@ -1,0 +1,8 @@
+<map id="log_sysop_get_tran_index_and_tdes" name="log_sysop_get_tran_index_and_tdes">
+<area shape="rect" id="node2" href="$log__manager_8c.html#a1504524244c9badcc53c1bb8b0d4213f" title="log_sysop_end_begin" alt="" coords="195,64,341,91"/>
+<area shape="rect" id="node6" href="$log__manager_8c.html#a3cec5baaf013ea91aa2dca8fe7860686" title="log_sysop_get_level" alt="" coords="198,115,338,141"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#ae26c12c22d460e7b63ac626074a4cf4c" title="log_sysop_start_atomic" alt="" coords="188,165,348,192"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a8ba8a8666ca892dac7b456367d153965" title="log_sysop_abort" alt="" coords="427,5,545,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a5e97a30aa978dafbca4f7180c5d3909f" title="log_sysop_attach_to\l_outer" alt="" coords="415,57,557,98"/>
+<area shape="rect" id="node5" href="$log__manager_8c.html#a1e4500b198cf9f51121a641472d9cddc" title="log_sysop_commit_internal" alt="" coords="396,123,576,149"/>
+</map>

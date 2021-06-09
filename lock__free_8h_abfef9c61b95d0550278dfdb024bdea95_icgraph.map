@@ -1,0 +1,16 @@
+<map id="lf_freelist_retire" name="lf_freelist_retire">
+<area shape="rect" id="node2" href="$classlf__hash__table__cpp.html#ae626c616e22a158cf972777c108e0589" title="lf_hash_table_cpp::\lfreelist_retire" alt="" coords="167,5,302,47"/>
+<area shape="rect" id="node3" href="$lock__free_8h.html#af023551b0f4f4e9765a1abb0a0deae31" title="lf_list_delete" alt="" coords="187,71,282,98"/>
+<area shape="rect" id="node5" href="$lock__free_8c.html#a18af93f8c02190c692007b889f487500" title="lf_list_insert_internal" alt="" coords="164,122,305,149"/>
+<area shape="rect" id="node7" href="$lock__manager_8h.html#a039adf79f7b8839277c035670e009fd9" title="lock_rep_read_tran" alt="" coords="169,173,301,199"/>
+<area shape="rect" id="node9" href="$list__file_8h.html#aff23e96127c3293df96eb028de2f5261" title="qfile_free_sort_list" alt="" coords="171,253,299,279"/>
+<area shape="rect" id="node14" href="$unittests__lf_8c.html#a2268dc8b698fc7e8b31517a46488a762" title="test_freelist_proc" alt="" coords="384,427,507,454"/>
+<area shape="rect" id="node15" href="$unittests__lf_8c.html#aaf441e6b6e06232e972039a0bf4198b0" title="test_freelist_proc\l_local_tran" alt="" coords="173,403,296,444"/>
+<area shape="rect" id="node4" href="$lock__free_8c.html#ad06dcdf70022d324e5bf01155191963e" title="lf_hash_delete_internal" alt="" coords="368,42,523,69"/>
+<area shape="rect" id="node6" href="$lock__free_8c.html#a585ccd95ce77c5b208bea725cf95a5bc" title="lf_hash_insert_internal" alt="" coords="369,93,521,119"/>
+<area shape="rect" id="node8" href="$transaction__sr_8c.html#adea9113696646ab1a88c8e0e348180fa" title="xtran_lock_rep_read" alt="" coords="376,143,515,170"/>
+<area shape="rect" id="node10" href="$list__file_8h.html#acf0c3c92cc8da1b114de98dadbd3cfd0" title="qfile_clear_list_id" alt="" coords="384,194,507,221"/>
+<area shape="rect" id="node11" href="$query__executor_8c.html#afc8ab2de7aaa4b6d5ef71a493ff1e9fc" title="qexec_orderby_distinct\l_by_sorting" alt="" coords="367,245,523,287"/>
+<area shape="rect" id="node12" href="$query__executor_8c.html#a75490070f52bc6d226b9135801e36972" title="qexec_initialize_groupby\l_state" alt="" coords="363,311,527,352"/>
+<area shape="rect" id="node13" href="$query__executor_8c.html#aca3e5eec1423cc628767b7d7a8631244" title="qexec_execute_connect_by" alt="" coords="353,377,537,403"/>
+</map>

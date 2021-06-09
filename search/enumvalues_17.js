@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['x_5flock',['X_LOCK',['../storage__common_8h.html#a64e574540182edd2d7379becc1bfb86cafa8d8939871f7305fb226c675078f7e8',1,'storage_common.h']]],
+  ['xasl_5fcache_5fpinned_5freference',['XASL_CACHE_PINNED_REFERENCE',['../query__list_8h.html#aaa91b962ffd8aca2f3c24e886a222419a99823ed49fca3749c1e6d76c1c395205',1,'query_list.h']]],
+  ['xasl_5fcache_5frecompile_5fexecute',['XASL_CACHE_RECOMPILE_EXECUTE',['../xasl__cache_8h.html#adf00839fdf18f433cb4240f01b19849ea8bb69e8f1209658530812ae073b93b4d',1,'xasl_cache.h']]],
+  ['xasl_5fcache_5frecompile_5fnot_5fneeded',['XASL_CACHE_RECOMPILE_NOT_NEEDED',['../xasl__cache_8h.html#adf00839fdf18f433cb4240f01b19849eadd045d4aadd0a021d6cd735cc7f9d634',1,'xasl_cache.h']]],
+  ['xasl_5fcache_5frecompile_5fprepare',['XASL_CACHE_RECOMPILE_PREPARE',['../xasl__cache_8h.html#adf00839fdf18f433cb4240f01b19849ea070bf48c6e1c41ebe1de8baf7d0d202d',1,'xasl_cache.h']]],
+  ['xasl_5fcache_5fsearch_5ffor_5fexecute',['XASL_CACHE_SEARCH_FOR_EXECUTE',['../xasl__cache_8h.html#a5ce32224e81a368c8f6c1a628ca04e9ca6b6f10774915176676f611e4e6da622d',1,'xasl_cache.h']]],
+  ['xasl_5fcache_5fsearch_5ffor_5fprepare',['XASL_CACHE_SEARCH_FOR_PREPARE',['../xasl__cache_8h.html#a5ce32224e81a368c8f6c1a628ca04e9ca5f4c4bca7a6284105eac60ea5ffb9ee5',1,'xasl_cache.h']]],
+  ['xasl_5fcache_5fsearch_5fgeneric',['XASL_CACHE_SEARCH_GENERIC',['../xasl__cache_8h.html#a5ce32224e81a368c8f6c1a628ca04e9ca9e5f183f028cd2cb0adbf94f22a8b628',1,'xasl_cache.h']]],
+  ['xasl_5ftrace_5fjson',['XASL_TRACE_JSON',['../query__list_8h.html#aaa91b962ffd8aca2f3c24e886a222419a4e43a69489affffe814489700a9f011a',1,'query_list.h']]],
+  ['xasl_5ftrace_5ftext',['XASL_TRACE_TEXT',['../query__list_8h.html#aaa91b962ffd8aca2f3c24e886a222419a4ea86272fff46ee83403c8a9d80e14d8',1,'query_list.h']]],
+  ['xcache_5fcleanup_5ffull',['XCACHE_CLEANUP_FULL',['../xasl__cache_8h.html#a0e953eb3fbc0406e6d01ee3fea85f1f6a97599843c4b7aef0a4b24de1058976a5',1,'xasl_cache.h']]],
+  ['xcache_5fcleanup_5fnone',['XCACHE_CLEANUP_NONE',['../xasl__cache_8h.html#a0e953eb3fbc0406e6d01ee3fea85f1f6a833bda039597710a16e0032d80ee8e00',1,'xasl_cache.h']]],
+  ['xcache_5fcleanup_5ftimeout',['XCACHE_CLEANUP_TIMEOUT',['../xasl__cache_8h.html#a0e953eb3fbc0406e6d01ee3fea85f1f6af6aa73b5526fa72548524f1c7d86b04f',1,'xasl_cache.h']]],
+  ['xml_5fins_5fpos_5fafter',['XML_INS_POS_AFTER',['../xml__parser_8c.html#a331ea0c5ae09af0506024bdd923a4d2ea8be0efdacbb213107a51d327c7339804',1,'xml_parser.c']]],
+  ['xml_5fins_5fpos_5fbefore',['XML_INS_POS_BEFORE',['../xml__parser_8c.html#a331ea0c5ae09af0506024bdd923a4d2eaaa8247a319ef0e7fdadbf774524c2a55',1,'xml_parser.c']]],
+  ['xml_5fins_5fpos_5fundef',['XML_INS_POS_UNDEF',['../xml__parser_8c.html#a331ea0c5ae09af0506024bdd923a4d2ea16799fb6fce6bdb447c233c43e9be199',1,'xml_parser.c']]]
+];

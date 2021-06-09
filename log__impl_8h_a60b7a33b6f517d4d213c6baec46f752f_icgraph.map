@@ -1,0 +1,4 @@
+<map id="logtb_find_interrupt" name="logtb_find_interrupt">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a6162cf50793bc050bab311ce4b8effa7" title="xlogtb_kill_or_interrupt_tran" alt="" coords="185,5,367,32"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8h.html#ad3f52ec3a1ab7fd6082f917ec75a9e40" title="sthread_kill_or_interrupt_tran" alt="" coords="415,5,604,32"/>
+</map>

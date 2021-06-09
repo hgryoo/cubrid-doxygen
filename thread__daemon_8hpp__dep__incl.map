@@ -1,0 +1,9 @@
+<map id="src/thread/thread_daemon.hpp" name="src/thread/thread_daemon.hpp">
+<area shape="rect" id="node2" href="$session_8c.html" title="src/session/session.c" alt="" coords="5,87,155,114"/>
+<area shape="rect" id="node3" href="$disk__manager_8c.html" title="src/storage/disk_manager.c" alt="" coords="179,87,362,114"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8c.html" title="src/storage/double\l_write_buffer.c" alt="" coords="386,80,515,121"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html" title="src/storage/page_buffer.c" alt="" coords="540,87,711,114"/>
+<area shape="rect" id="node6" href="$thread__daemon_8cpp.html" title="src/thread/thread_daemon.cpp" alt="" coords="735,87,934,114"/>
+<area shape="rect" id="node7" href="$lock__manager_8c.html" title="src/transaction/lock\l_manager.c" alt="" coords="957,80,1093,121"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html" title="src/transaction/log\l_manager.c" alt="" coords="1117,80,1246,121"/>
+</map>

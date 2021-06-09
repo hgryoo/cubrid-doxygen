@@ -1,0 +1,20 @@
+<map id="src/storage/external_sort.h" name="src/storage/external_sort.h">
+<area shape="rect" id="node2" href="$list__file_8h.html" title="src/query/list_file.h" alt="" coords="913,102,1045,129"/>
+<area shape="rect" id="node15" href="$query__aggregate_8hpp.html" title="src/query/query_aggregate.hpp" alt="" coords="243,102,445,129"/>
+<area shape="rect" id="node18" href="$btree__load_8c.html" title="src/storage/btree_load.c" alt="" coords="1069,102,1232,129"/>
+<area shape="rect" id="node19" href="$external__sort_8c.html" title="src/storage/external\l_sort.c" alt="" coords="1257,95,1394,136"/>
+<area shape="rect" id="node3" href="$list__file_8c.html" title="src/query/list_file.c" alt="" coords="670,273,802,300"/>
+<area shape="rect" id="node4" href="$query__manager_8h.html" title="src/query/query_manager.h" alt="" coords="761,191,941,218"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html" title="src/query/query_executor.c" alt="" coords="262,273,442,300"/>
+<area shape="rect" id="node6" href="$scan__manager_8c.html" title="src/query/scan_manager.c" alt="" coords="827,273,1003,300"/>
+<area shape="rect" id="node7" href="$xasl__cache_8c.html" title="src/query/xasl_cache.c" alt="" coords="1027,273,1184,300"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html" title="src/storage/page_buffer.c" alt="" coords="1208,273,1379,300"/>
+<area shape="rect" id="node9" href="$locator__sr_8c.html" title="src/transaction/locator_sr.c" alt="" coords="466,273,646,300"/>
+<area shape="rect" id="node10" href="$query__aggregate_8cpp.html" title="src/query/query_aggregate.cpp" alt="" coords="382,191,583,218"/>
+<area shape="rect" id="node11" href="$query__analytic_8cpp.html" title="src/query/query_analytic.cpp" alt="" coords="1067,191,1256,218"/>
+<area shape="rect" id="node12" href="$query__evaluator_8c.html" title="src/query/query_evaluator.c" alt="" coords="1331,191,1514,218"/>
+<area shape="rect" id="node13" href="$query__opfunc_8c.html" title="src/query/query_opfunc.c" alt="" coords="1538,191,1707,218"/>
+<area shape="rect" id="node14" href="$thread__entry_8cpp.html" title="src/thread/thread_entry.cpp" alt="" coords="1732,191,1913,218"/>
+<area shape="rect" id="node16" href="$partition_8c.html" title="src/query/partition.c" alt="" coords="169,191,306,218"/>
+<area shape="rect" id="node17" href="$stream__to__xasl_8c.html" title="src/query/stream_to\l_xasl.c" alt="" coords="5,184,144,225"/>
+</map>

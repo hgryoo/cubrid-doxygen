@@ -1,0 +1,21 @@
+<map id="pr_clear_value_vector" name="pr_clear_value_vector">
+<area shape="rect" id="node2" href="$object__primitive_8h.html#ae12a8c594fad2fc0fab2db8c4b6a5d40" title="PRIM_SET_NULL" alt="" coords="203,474,333,501"/>
+<area shape="rect" id="node15" href="$query__aggregate_8hpp.html#a3b55abbced0f132eb0b1cb63c7064755" title="qdata_evaluate_aggregate_list" alt="" coords="607,782,805,809"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ac3ce10467021e10265bcd79357dcba60" title="db_get_schema_def_dbval" alt="" coords="381,246,559,273"/>
+<area shape="rect" id="node4" href="$schema__manager_8h.html#aafbbf994fe81ea00cc1441a2f1b7c4ee" title="classobj_put_foreign\l_key_ref" alt="" coords="635,391,777,432"/>
+<area shape="rect" id="node5" href="$object__primitive_8h.html#abdd8e69e6de537d16c0272caacd1618e" title="pr_clear_value" alt="" coords="417,499,523,526"/>
+<area shape="rect" id="node6" href="$set__object_8h.html#ae7290c96c20122c940a27c6ee603c6fd" title="col_delete" alt="" coords="665,78,747,105"/>
+<area shape="rect" id="node7" href="$set__object_8h.html#a49e011387621c5eaa260b46ce6f565d0" title="col_drop" alt="" coords="885,53,956,79"/>
+<area shape="rect" id="node8" href="$query__evaluator_8c.html#aab33ad1233736ceacfee29d0ca4cf44c" title="eval_item_card_set" alt="" coords="639,609,773,635"/>
+<area shape="rect" id="node9" href="$query__evaluator_8c.html#ad076c360b289d381ffa63c7a173610d9" title="eval_sub_multi_set\l_to_sort_list" alt="" coords="853,677,988,719"/>
+<area shape="rect" id="node10" href="$query__evaluator_8c.html#aebbd1b8fc2c61f25115e9a0e04663ff1" title="eval_sub_sort_list\l_to_multi_set" alt="" coords="857,500,984,541"/>
+<area shape="rect" id="node11" href="$query__evaluator_8c.html#ac9eed956bbcdebd6879f4fee0068330c" title="eval_item_card_sort_list" alt="" coords="625,710,787,737"/>
+<area shape="rect" id="node12" href="$query__evaluator_8c.html#a051dda4ed5d2e435328a125a6abb62f6" title="eval_some_eval" alt="" coords="648,457,764,483"/>
+<area shape="rect" id="node13" href="$query__evaluator_8c.html#ab1b12a6db6c92dfa186a941231963621" title="eval_some_list_eval" alt="" coords="636,558,776,585"/>
+<area shape="rect" id="node14" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="647,242,765,269"/>
+<area shape="rect" id="node16" href="$set__object_8c.html#a061d9b02ed6e00377bf070805b935333" title="col_null_values" alt="" coords="415,651,525,678"/>
+<area shape="rect" id="node17" href="$set__object_8h.html#a17c3a46a385f3c5259dd65b496c9aadc" title="col_insert" alt="" coords="431,702,509,729"/>
+<area shape="rect" id="node18" href="$set__object_8h.html#a9fef91e5fae6bccc6dac162c678e89b1" title="setobj_put_value" alt="" coords="410,753,530,779"/>
+<area shape="rect" id="node19" href="$arithmetic_8h.html#a2ab702586e5cd69557aa5e0d3d18a83a" title="db_crc32_dbval" alt="" coords="413,195,527,222"/>
+<area shape="rect" id="node20" href="$fetch_8c.html#a05cc348edfa9d51b8dea3ad38064450f" title="get_hour_minute_or\l_second" alt="" coords="402,129,538,171"/>
+</map>

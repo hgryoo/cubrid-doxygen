@@ -1,0 +1,6 @@
+<map id="ha_make_mem_size" name="ha_make_mem_size">
+<area shape="rect" id="node2" href="$util__service_8c.html#a9c569ca1f115a6f4ed685d0584f031ff" title="us_hb_applylogdb_start" alt="" coords="196,56,355,83"/>
+<area shape="rect" id="node3" href="$util__service_8c.html#a50f6edf3b6ca9d910887a4d44c2ffbf2" title="us_hb_applylogdb_stop" alt="" coords="403,5,561,32"/>
+<area shape="rect" id="node4" href="$util__service_8c.html#a600189435f4fb288aa3a8ec9d67fd60a" title="us_hb_process_applylogdb" alt="" coords="609,31,788,57"/>
+<area shape="rect" id="node5" href="$util__service_8c.html#a72d07de25278f292f37d040a43357784" title="us_hb_process_start" alt="" coords="411,107,553,133"/>
+</map>

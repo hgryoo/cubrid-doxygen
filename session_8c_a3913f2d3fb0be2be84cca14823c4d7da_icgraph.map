@@ -1,0 +1,5 @@
+<map id="session_set_load_session" name="session_set_load_session">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#add13200b9ab3246719ffd545a1f669e2" title="sloaddb_destroy" alt="" coords="228,5,345,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a9bac6f44802bcadf83fa395b26b93c42" title="sloaddb_init" alt="" coords="241,56,332,83"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="393,31,500,57"/>
+</map>

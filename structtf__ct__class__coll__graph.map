@@ -1,0 +1,4 @@
+<map id="tf_ct_class" name="tf_ct_class">
+<area shape="rect" id="node2" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,5,97,112"/>
+<area shape="rect" id="node3" href="$structtf__ct__attribute.html" title="{tf_ct_attribute\n|+ ca_name\l+ ca_id\l+ ca_type\l|}" alt="" coords="121,5,224,112"/>
+</map>

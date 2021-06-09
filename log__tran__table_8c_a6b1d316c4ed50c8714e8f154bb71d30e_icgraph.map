@@ -1,0 +1,5 @@
+<map id="logtb_set_suppress_repl_on_transaction" name="logtb_set_suppress_repl_on_transaction">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a2646e8c38104076538d84918b79c8eb6" title="xlogtb_set_suppress\l_repl_on_transaction" alt="" coords="196,39,339,80"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#af3af30fc3d4bff62ee92e20b23a308aa" title="log_set_suppress_repl\l_on_transaction" alt="" coords="387,5,539,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#ac29de93ac13edd5de2452cd3d811a7d0" title="slogtb_set_suppress\l_repl_on_transaction" alt="" coords="391,71,534,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CRC::Reflect" name="CRC::Reflect">
+<area shape="rect" id="node2" href="$classCRC.html#a78e9e8d7f86f3acfd6cc8b446a305b99" title="Computes a CRC remainder. " alt="" coords="156,5,335,32"/>
+<area shape="rect" id="node4" href="$classCRC.html#af3247bcac33c4422cbbd97d0eddb1fe6" title="Computes the final reflection and XOR of a CRC remainder. " alt="" coords="193,56,298,83"/>
+<area shape="rect" id="node5" href="$classCRC.html#a5818ddbe23b318349e59323ee03cb28f" title="Undoes the process of computing the final reflection and XOR of a CRC remainder. " alt="" coords="177,107,313,133"/>
+<area shape="rect" id="node3" href="$classCRC.html#ae37d010c92c3afcf0da63834afc51469" title="Computes a CRC. " alt="" coords="383,5,497,32"/>
+</map>

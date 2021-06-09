@@ -1,0 +1,17 @@
+<map id="or_get_byte" name="or_get_byte">
+<area shape="rect" id="node2" href="$log__recovery_8c.html#a714f5a0c8ca696520eb1cf8b1b706d96" title="log_rv_undoredo_partial\l_changes_recursive" alt="" coords="144,66,303,107"/>
+<area shape="rect" id="node4" href="$object__representation_8c.html#aafd94f545fbefa2e4024531b98b3394c" title="or_get_offset_internal" alt="" coords="362,132,509,159"/>
+<area shape="rect" id="node11" href="$object__representation_8c.html#a6c69834752de339bd7eee103b808508e" title="or_get_varbit_length" alt="" coords="154,249,293,276"/>
+<area shape="rect" id="node3" href="$log__recovery_8c.html#ab58608b3311d02710479684964e3d417" title="log_rv_undoredo_record\l_partial_changes" alt="" coords="355,66,515,107"/>
+<area shape="rect" id="node5" href="$load__object_8c.html#a7f25f6cc92cc5e6353f3dc5cee0ca13a" title="get_desc_current" alt="" coords="594,5,717,32"/>
+<area shape="rect" id="node6" href="$load__object_8c.html#ade6fa5893ed9950c176a2a0d4f4409aa" title="get_desc_old" alt="" coords="606,56,705,83"/>
+<area shape="rect" id="node7" href="$object__representation_8c.html#a2d4b39cd937ff568cfb10b039504d35c" title="or_get_offset" alt="" coords="606,107,705,133"/>
+<area shape="rect" id="node8" href="$transform__cl_8c.html#a08c52b92bc4b768d3d8cbf7933fac1f8" title="get_current" alt="" coords="612,157,699,184"/>
+<area shape="rect" id="node9" href="$transform__cl_8c.html#ae9e4324eff373fb625c92053ce737d7d" title="get_old" alt="" coords="623,208,687,235"/>
+<area shape="rect" id="node10" href="$log__applier_8c.html#a5326a3ed4d4ab628c1df97fe6cbd3e4d" title="la_get_current" alt="" coords="603,259,707,285"/>
+<area shape="rect" id="node12" href="$object__primitive_8c.html#a89c3fc6fa0b2d15f067c39fbe32630c0" title="mr_index_lengthmem\l_varbit" alt="" coords="362,183,509,225"/>
+<area shape="rect" id="node13" href="$object__primitive_8c.html#af402427c51677c746dc495f20f85fd51" title="mr_data_readmem_varbit" alt="" coords="351,249,520,276"/>
+<area shape="rect" id="node14" href="$object__primitive_8c.html#a7ebdc0d7bb55f5a5e13584f9e9b227a1" title="mr_readval_varbit_internal" alt="" coords="568,343,743,369"/>
+<area shape="rect" id="node15" href="$object__primitive_8c.html#ad1a539a33004073f477d5284a5048b75" title="mr_data_cmpdisk_varbit" alt="" coords="353,351,517,377"/>
+<area shape="rect" id="node16" href="$object__representation_8c.html#ae4d0dde6fd9226ec1f0021e8b6171ae1" title="or_skip_varbit" alt="" coords="384,401,487,428"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="tz_create_datetimetz_from_parts" name="tz_create_datetimetz_from_parts">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#a045b88b288b95b37b80fce9159d27598" title="db_add_time" alt="" coords="495,5,591,32"/>
+<area shape="rect" id="node5" href="$string__opfunc_8c.html#a7e58a682266897bf30614dc35ed52d16" title="db_date_add_sub_interval_days" alt="" coords="197,56,405,83"/>
+<area shape="rect" id="node8" href="$string__opfunc_8c.html#a04f48c011fb94e50ab89fb30d82ff11e" title="db_date_add_sub_interval_expr" alt="" coords="199,107,404,133"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="681,31,861,57"/>
+<area shape="rect" id="node4" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="712,81,831,108"/>
+<area shape="rect" id="node6" href="$string__opfunc_8h.html#a768e2e29cfe15b3cb23838664d3e7302" title="db_date_add_interval_days" alt="" coords="453,107,633,133"/>
+<area shape="rect" id="node7" href="$string__opfunc_8h.html#a4aeb2a062201b7bbbd4ae22d3ec18005" title="db_date_sub_interval_days" alt="" coords="453,56,633,83"/>
+</map>

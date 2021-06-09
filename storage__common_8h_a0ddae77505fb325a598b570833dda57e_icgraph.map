@@ -1,0 +1,21 @@
+<map id="recdes_set_data_area" name="recdes_set_data_area">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a0902e9960fee85e7288b4039adc64ce4" title="catalog_get_class_info" alt="" coords="232,290,387,317"/>
+<area shape="rect" id="node15" href="$system__catalog_8c.html#ab54d13a6e571defa366e18af8e668ec9" title="catalog_initialize\l_new_page" alt="" coords="250,341,369,383"/>
+<area shape="rect" id="node16" href="$system__catalog_8c.html#a6a2596b6bb09db04e0189d4d9fcf1903" title="catalog_put_representation_item" alt="" coords="204,407,415,434"/>
+<area shape="rect" id="node17" href="$system__catalog_8h.html#a24584a544f145eac9e5da71596ccabba" title="catalog_rv_insert_redo" alt="" coords="233,458,386,485"/>
+<area shape="rect" id="node18" href="$system__catalog_8h.html#aae825a665d9c13f6039518a76b2c1a29" title="catalog_rv_new_page_redo" alt="" coords="219,509,399,535"/>
+<area shape="rect" id="node19" href="$system__catalog_8h.html#a62306615e59556c6a3ed79872c7287b7" title="catalog_rv_update" alt="" coords="245,559,373,586"/>
+<area shape="rect" id="node20" href="$system__catalog_8h.html#aa17c0fb2e8eda2108b37a57d26fba19f" title="catalog_update_class_info" alt="" coords="221,71,397,98"/>
+<area shape="rect" id="node3" href="$xasl__cache_8c.html#a05f909f16236e09399f20a97dca60b92" title="xcache_check_recompilation\l_threshold" alt="" coords="463,5,653,47"/>
+<area shape="rect" id="node4" href="$catalog__class_8c.html#a00147e67f79dc24215279c77d1cfe977" title="catcls_insert_subset" alt="" coords="487,458,629,485"/>
+<area shape="rect" id="node5" href="$catalog__class_8c.html#a6b775186b2da43dd55ca72709a9632bd" title="catcls_delete_subset" alt="" coords="485,509,631,535"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#ad99ccfa2d0247243db7b8272ba40ff48" title="catcls_insert_catalog\l_classes" alt="" coords="485,611,631,652"/>
+<area shape="rect" id="node7" href="$locator__sr_8c.html#a6f18a8259b1deabed7d9a5c38672dbdd" title="catcls_update_catalog\l_classes" alt="" coords="707,581,859,623"/>
+<area shape="rect" id="node8" href="$locator__sr_8c.html#acd52d882b98b65068e365f6ba20a2b0b" title="catcls_delete_catalog\l_classes" alt="" coords="484,123,632,164"/>
+<area shape="rect" id="node9" href="$catalog__class_8c.html#a48510ab1df2c4a8d0aa731ff9935f3dc" title="catcls_update_subset" alt="" coords="483,189,633,215"/>
+<area shape="rect" id="node10" href="$statistics__sr_8c.html#a502d831d7f2d3b593c5d107748aae384" title="xstats_update_statistics" alt="" coords="476,290,640,317"/>
+<area shape="rect" id="node11" href="$statistics__sr_8c.html#a87537ae40bfb987f6d7be9eff99352cd" title="stats_update_partitioned\l_statistics" alt="" coords="701,283,865,324"/>
+<area shape="rect" id="node12" href="$statistics__sr_8c.html#a197b8a66e5cc0b46843f790c5c865c09" title="xstats_get_statistics\l_from_server" alt="" coords="487,341,629,383"/>
+<area shape="rect" id="node13" href="$system__catalog_8h.html#a4ea20d720ec7634b5a5004ca53bad45e" title="catalog_update" alt="" coords="503,71,613,98"/>
+<area shape="rect" id="node14" href="$system__catalog_8h.html#a4aa1649ad60867f8884dc92d09ea41e9" title="catalog_dump" alt="" coords="507,407,609,434"/>
+</map>

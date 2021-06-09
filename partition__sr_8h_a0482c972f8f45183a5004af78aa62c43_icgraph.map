@@ -1,0 +1,9 @@
+<map id="partition_prune_spec" name="partition_prune_spec">
+<area shape="rect" id="node2" href="$query__executor_8c.html#aa0228de3d463d4f25f995136288bfbb8" title="qexec_execute_obj_fetch" alt="" coords="196,81,367,108"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#a637deab5f1ea552740d503c5fab6d636" title="qexec_prune_spec" alt="" coords="216,157,347,184"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a7f4c93cc11a284d13f0844c5ef6daeaf" title="qexec_execute_scan" alt="" coords="419,5,565,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a3ba286b3f8a60ba4dd45993cb9c87c42" title="qexec_intprt_fnc" alt="" coords="433,56,551,83"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#aae780f3598f8e002d08caef216a1c5b4" title="qexec_merge_fnc" alt="" coords="429,107,555,133"/>
+<area shape="rect" id="node7" href="$query__executor_8c.html#ab987ce7bd67fd4b9e0c392cea960d924" title="qexec_open_scan" alt="" coords="429,157,555,184"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#a2540923600eb0289e38743fe841dfbcd" title="qexec_execute_selupd\l_list_find_class" alt="" coords="415,209,569,250"/>
+</map>

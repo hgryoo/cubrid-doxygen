@@ -1,0 +1,7 @@
+<map id="btree_pack_object" name="btree_pack_object">
+<area shape="rect" id="node2" href="$btree_8c.html#a39b8c99c165876715a6bf7b33fd8c544" title="btree_insert_object\l_ordered_by_oid" alt="" coords="198,12,330,53"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a00bed5b7d996d6568808223fa33cd1c5" title="btree_record_replace\l_object" alt="" coords="409,71,551,112"/>
+<area shape="rect" id="node5" href="$btree_8c.html#adfae13e9aaa54caf4bd54c315f23a237" title="btree_record_append\l_object" alt="" coords="193,129,335,171"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a318997abfe282d72e924f6a1556d0a3f" title="btree_remove_delete\l_mvccid_unique_internal" alt="" coords="181,195,347,236"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a9a08bb49c5343c8b162f0e9b1b5e86a7" title="btree_key_append_object\l_to_overflow" alt="" coords="395,5,565,47"/>
+</map>

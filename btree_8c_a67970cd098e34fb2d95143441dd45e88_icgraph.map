@@ -1,0 +1,10 @@
+<map id="btree_find_oid_from_leaf" name="btree_find_oid_from_leaf">
+<area shape="rect" id="node2" href="$btree_8c.html#a6f290c721ac3d0614bead9d8dcf7053e" title="btree_find_oid_and\l_its_page" alt="" coords="217,187,348,229"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a93210bd3eacb38cb47cf3d06592cf91c" title="btree_find_key_from_leaf" alt="" coords="397,5,565,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#acd6ffc4be0ff27263600943058942f4f" title="btree_find_oid_with\l_page_and_record" alt="" coords="414,57,549,98"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a362a4d222b53ff74e31f9994532fe8a2" title="btree_key_delete_remove\l_object" alt="" coords="396,122,567,163"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a24cd363ca531b34b93e5092e7611129f" title="btree_key_find_and\l_insert_delete_mvccid" alt="" coords="405,187,557,229"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a7f7fdf63e50ccbe79eedb32bceac1174" title="btree_key_remove_delete\l_mvccid" alt="" coords="396,253,567,294"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a4677aa84bd5547452ceca59e56a738ae" title="btree_key_remove_insert\l_mvccid" alt="" coords="397,318,565,359"/>
+<area shape="rect" id="node9" href="$btree_8c.html#abb588d6393e8a8038772b43021ec89bd" title="btree_key_remove_object\l_and_keep_visible_first" alt="" coords="396,383,567,425"/>
+</map>

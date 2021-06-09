@@ -1,0 +1,7 @@
+<map id="heap_is_reusable_oid" name="heap_is_reusable_oid">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a9c06dba1a14e54d2c79028ae05ff51bf" title="heap_delete_bigone" alt="" coords="217,5,355,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#ae6bc2f0a557f47735e3626174f158ac0" title="heap_delete_home" alt="" coords="221,56,351,83"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a39452d0770e56fac7920a1eef55d75b9" title="heap_delete_relocation" alt="" coords="209,107,363,133"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#a88cafd05abdb0910752e3eeeed9b1856" title="heap_vacuum_all_objects" alt="" coords="200,157,372,184"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#aefde2dcf4add17b9075b27ff07a7e400" title="heap_delete_logical" alt="" coords="420,56,556,83"/>
+</map>

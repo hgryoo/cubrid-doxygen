@@ -1,0 +1,7 @@
+<map id="au_link_static_methods" name="au_link_static_methods">
+<area shape="rect" id="node2" href="$db__stub_8c.html#a77bd95c7f71d0f419d0f69a3090c4836" title="conn_restart_client" alt="" coords="222,5,354,32"/>
+<area shape="rect" id="node4" href="$db__admin_8c.html#a313f4b0ca2eb24526064f5af77a28d8d" title="install_static_methods" alt="" coords="212,56,364,83"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#a725de860a647ad79fee0d5ce1b1f5143" title="ci_conn_connect_impl" alt="" coords="412,5,563,32"/>
+<area shape="rect" id="node5" href="$db__admin_8c.html#acd0f03a64561e4bf469d557cd751a631" title="db_init" alt="" coords="457,56,517,83"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a4f475937ff6abf40ab472a149d37ae11" title="db_restart" alt="" coords="447,107,527,133"/>
+</map>

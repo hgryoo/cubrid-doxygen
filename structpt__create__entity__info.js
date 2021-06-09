@@ -1,0 +1,26 @@
+var structpt__create__entity__info =
+[
+    [ "as_query_list", "structpt__create__entity__info.html#a07d16c13bfac0cba9f733371e9662cfa", null ],
+    [ "attr_def_list", "structpt__create__entity__info.html#a9a7f9741c1c7b8270f34a33fe1727387", null ],
+    [ "class_attr_def_list", "structpt__create__entity__info.html#a233c00b67f8f8ee0c073552c1b3cb2ae", null ],
+    [ "constraint_list", "structpt__create__entity__info.html#acdb2b5b6def1a628ddab3b9a05dc3f92", null ],
+    [ "create_index", "structpt__create__entity__info.html#aa38de2b6b6b38e540cd4e850b8b337b4", null ],
+    [ "create_like", "structpt__create__entity__info.html#a5ff6f4532bf900591e48fd7a5a592d5d", null ],
+    [ "create_select", "structpt__create__entity__info.html#a098ba708a45e1e520180c380067b4442", null ],
+    [ "create_select_action", "structpt__create__entity__info.html#a3505535f951733ee97c65b761b74a4a1", null ],
+    [ "entity_name", "structpt__create__entity__info.html#a1ce2e3147cce362a682fbd8e6db4cb6e", null ],
+    [ "entity_type", "structpt__create__entity__info.html#a11a844d6bfc010f9014e3bb41f0ffde8", null ],
+    [ "if_not_exists", "structpt__create__entity__info.html#af1b166497f323583f7977052e3fd5a1b", null ],
+    [ "internal_stmts", "structpt__create__entity__info.html#a0b9e0eae72244509e48e7dfa1bfe2fe1", null ],
+    [ "method_def_list", "structpt__create__entity__info.html#a4739cad7da36056218f0124f27445783", null ],
+    [ "method_file_list", "structpt__create__entity__info.html#a01ff2d3081c2f105614111ac84c31f4d", null ],
+    [ "object_id_list", "structpt__create__entity__info.html#a337b1a9efcc94f1149c155716274ae57", null ],
+    [ "or_replace", "structpt__create__entity__info.html#a6f1175074aa231d9026c6a27022dedeb", null ],
+    [ "partition_info", "structpt__create__entity__info.html#ae0037944d2c7b8d46773209b940dcc98", null ],
+    [ "resolution_list", "structpt__create__entity__info.html#a8b4077b4d3b7fc07c0693b0a2ebfa456", null ],
+    [ "supclass_list", "structpt__create__entity__info.html#a37053e38c6b6e2dcb715c1ee28be4322", null ],
+    [ "table_option_list", "structpt__create__entity__info.html#a71ca6aa5d916d0be26b6f7d04e1f69f2", null ],
+    [ "update", "structpt__create__entity__info.html#a97dc382316128fb251bd4115cd626c22", null ],
+    [ "vclass_comment", "structpt__create__entity__info.html#a6e6a6eb0e1025cb32e7db8db5eaadb8b", null ],
+    [ "with_check_option", "structpt__create__entity__info.html#a63e35681e9c8d4e0eb57a167db7bf0de", null ]
+];

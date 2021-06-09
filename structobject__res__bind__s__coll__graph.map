@@ -1,0 +1,10 @@
+<map id="object_res_bind_s" name="object_res_bind_s">
+<area shape="rect" id="node3" href="$structobject__resultset__s__.html" title="{object_resultset_s_\n|+ deleted\l+ nattrs\l+ conn\l|}" alt="" coords="527,637,661,744"/>
+<area shape="rect" id="node2" href="$structapi__resultset__s.html" title="{api_resultset_s\n|+ COMMON_RESULTSET_HEADER\l|}" alt="" coords="787,93,1033,171"/>
+<area shape="rect" id="node8" href="$structobject__rm__bind__s.html" title="{object_rm_bind_s\n||}" alt="" coords="532,807,656,884"/>
+<area shape="rect" id="node4" href="$structsm__attribute.html" title="{sm_attribute\n|+ id\l+ offset\l+ on_update_default_expr\l+ flags\l+ order\l+ storage_order\l+ comment\l|}" alt="" coords="100,365,272,531"/>
+<area shape="rect" id="node5" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="5,5,180,259"/>
+<area shape="rect" id="node6" href="$structvalue__bind__table__s.html" title="{value_bind_table_s\n||}" alt="" coords="390,409,523,487"/>
+<area shape="rect" id="node7" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="548,395,640,501"/>
+<area shape="rect" id="node9" href="$structbh__interface__s.html" title="{bh_interface_s\n|+ alloc_handle\l+ destroy_handle\l+ lookup\l+ bind_to_handle\l+ bind_get_parent\l+ bind_prune\l+ bind_graft\l+ bind_get_first_child\l+ bind_get_next_sibling\l+ bind_map\l+ destroy\l|}" alt="" coords="664,336,823,560"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="or_pack_hfid" name="or_pack_hfid">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#a733e33c36f6622401399e8875c111ac6" title="btree_load_index" alt="" coords="181,5,301,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#af49bebf9853336fa0f303e998222457f" title="heap_create" alt="" coords="195,56,288,83"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#a624cfc5566d14b2b0b93b1a4b9607294" title="heap_destroy_newly\l_created" alt="" coords="171,107,312,149"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#af2f22c0763539e26869c0b5bb3f7d753" title="heap_get_class_num\l_objects_pages" alt="" coords="169,173,314,214"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#abda0d769b1bc40f74368c9d0449a43ad" title="heap_has_instance" alt="" coords="174,239,309,265"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#a46aad22b36277c8d23b3abf9de421403" title="heap_reclaim_addresses" alt="" coords="158,289,325,316"/>
+<area shape="rect" id="node9" href="$network__interface__cl_8h.html#a0423c520bd685096602d46d1c3d06b66" title="locator_assign_oid" alt="" coords="176,340,307,367"/>
+<area shape="rect" id="node10" href="$network__interface__cl_8h.html#a76e5be9373d385c224b1efcd837a7022" title="locator_check_fk_validity" alt="" coords="157,391,326,417"/>
+<area shape="rect" id="node11" href="$network__interface__cl_8h.html#a85540fa8c81d437601bc3da3c4189c43" title="locator_fetch_all" alt="" coords="183,441,300,468"/>
+<area shape="rect" id="node12" href="$locator_8h.html#a4d87ba626763557f8ea9b4a97ce2a458" title="locator_pack_copy_area\l_descriptor" alt="" coords="160,493,323,534"/>
+<area shape="rect" id="node13" href="$locator_8h.html#a6b0935a953bcd9569593ea88c91e431b" title="locator_pack_oid_set" alt="" coords="169,559,314,585"/>
+<area shape="rect" id="node14" href="$network__interface__cl_8h.html#a6fd8a3c726f0ee63cfb00e9fef44aa59" title="locator_remove_class\l_from_index" alt="" coords="167,610,316,651"/>
+<area shape="rect" id="node15" href="$network__interface__sr_8h.html#a8e37c47455fc1ef6ebc9966c51cb64e1" title="sboot_register_client" alt="" coords="170,676,313,703"/>
+<area shape="rect" id="node16" href="$network__interface__sr_8h.html#a2c138e74e1fc630588956eb4218fab28" title="shf_create" alt="" coords="200,727,283,753"/>
+<area shape="rect" id="node17" href="$xasl__to__stream_8c.html#ad358da598465ef0c574df839a13bdcf5" title="xts_process_cls_spec_type" alt="" coords="149,777,333,804"/>
+<area shape="rect" id="node18" href="$xasl__to__stream_8c.html#a1e9c622b5d78e2fa35c68bcc248db63c" title="xts_process_insert_proc" alt="" coords="159,828,323,855"/>
+<area shape="rect" id="node19" href="$xasl__to__stream_8c.html#aba834c53bacab1dc27e8bfc624a49788" title="xts_process_selupd_list" alt="" coords="160,879,323,905"/>
+<area shape="rect" id="node20" href="$xasl__to__stream_8c.html#ad71e90e67a53458afca8e43df4df622f" title="xts_save_hfid_array" alt="" coords="172,929,311,956"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#a763686da25436ca147ff96459ba0cc67" title="allocate_index" alt="" coords="381,123,487,149"/>
+</map>

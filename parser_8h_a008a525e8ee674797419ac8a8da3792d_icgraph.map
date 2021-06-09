@@ -1,0 +1,21 @@
+<map id="parser_init_node" name="parser_init_node">
+<area shape="rect" id="node2" href="$view__transform_8c.html#a04b11576d50d2048e602e79d35e46e09" title="mq_fetch_expression\l_for_real_class_update" alt="" coords="178,107,334,149"/>
+<area shape="rect" id="node4" href="$view__transform_8h.html#a4203b8bbd01cd90b3ada9c97a5ed1c8a" title="mq_is_updatable_att" alt="" coords="399,5,542,32"/>
+<area shape="rect" id="node5" href="$view__transform_8h.html#a1521bf43ed9f147838ae41aa87455c45" title="mq_get_attribute" alt="" coords="411,56,530,83"/>
+<area shape="rect" id="node6" href="$view__transform_8h.html#ac41e3605bceeb09e0b972034026dc5aa" title="mq_oid" alt="" coords="439,208,503,235"/>
+<area shape="rect" id="node8" href="$view__transform_8h.html#a3a7a44dcedaf5517e4029633d19125be" title="mq_update_attribute" alt="" coords="401,157,541,184"/>
+<area shape="rect" id="node9" href="$view__transform_8c.html#aa2ff51ec653a656de9cf92f524ae6abe" title="mq_fetch_one_real_class\l_get_cache" alt="" coords="171,411,341,453"/>
+<area shape="rect" id="node10" href="$view__transform_8c.html#ac45b48e0333d9d66608797b87a961ac4" title="mq_is_updatable_local" alt="" coords="179,477,333,504"/>
+<area shape="rect" id="node11" href="$parser_8h.html#ab6fecde2fff17ae83a9dd25a77304089" title="parser_new_node" alt="" coords="194,360,318,387"/>
+<area shape="rect" id="node20" href="$parse__dbi_8c.html#aa07c45abab5389ff3727ff6f46d54697" title="pt_bind_set_type" alt="" coords="195,528,317,555"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#a17362d3e601b5f400ee9e097e1701fa7" title="mq_translate_paths" alt="" coords="403,107,539,133"/>
+<area shape="rect" id="node7" href="$parser_8h.html#af6d48eb6f1781fa254ccc2025cd97bc1" title="pt_spec_to_oid_attr" alt="" coords="609,233,745,260"/>
+<area shape="rect" id="node12" href="$plan__generation_8c.html#ac98411fbf68dfadfa1170cd4e6664586" title="qo_get_orderby_num\l_upper_bound_node" alt="" coords="399,563,542,605"/>
+<area shape="rect" id="node13" href="$query__graph_8c.html#a6661f70c021baf64b9e930dac51b404b" title="build_graph_for_entity" alt="" coords="396,629,545,656"/>
+<area shape="rect" id="node14" href="$query__planner_8c.html#ae3656f5a8781a44487ae893bc2de03f2" title="qo_plan_compute_iscan\l_sort_list" alt="" coords="389,681,552,722"/>
+<area shape="rect" id="node15" href="$query__rewrite_8c.html#a4b3aa0a9cadb50ab555a45756db384cd" title="qo_analyze_path_join" alt="" coords="397,309,544,336"/>
+<area shape="rect" id="node16" href="$query__rewrite_8c.html#a869ac073bd571afc6fe21d747d61a4af" title="qo_construct_new_set" alt="" coords="394,512,547,539"/>
+<area shape="rect" id="node17" href="$query__rewrite_8c.html#a5942bcf0f0ae8ddbf44e66a9a4aa11eb" title="qo_make_new_derived\l_tblspec" alt="" coords="600,469,755,510"/>
+<area shape="rect" id="node18" href="$query__rewrite_8c.html#ab1242ea63cd0272ce608d14841dff2c7" title="qo_reduce_order_by_for" alt="" coords="390,411,551,437"/>
+<area shape="rect" id="node19" href="$query__rewrite_8c.html#aa35a234703e4e4ffe3c313867bff0734" title="qo_reduce_order_by" alt="" coords="608,396,747,423"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="insert_proc_node" name="insert_proc_node">
+<area shape="rect" id="node2" href="$structcubxasl_1_1pred__expr.html" title="{cubxasl::pred_expr\n|+ pe\l+ type\l|+ clear_xasl()\l}" alt="" coords="323,182,455,274"/>
+<area shape="rect" id="node4" href="$structcubxasl_1_1pred.html" title="{cubxasl::pred\n|+ bool_op\l|}" alt="" coords="475,388,575,465"/>
+<area shape="rect" id="node8" href="$structodku__info.html" title="{odku_info\n|+ num_assigns\l+ attr_ids\l|+ odku_info()\l}" alt="" coords="599,381,710,473"/>
+<area shape="rect" id="node3" href="$structcubxasl_1_1eval__term.html" title="{cubxasl::eval_term\n|+ et_type\l+ et\l|}" alt="" coords="323,5,455,97"/>
+<area shape="rect" id="node5" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="111,373,203,480"/>
+<area shape="rect" id="node6" href="$structvalptr__list__node.html" title="{valptr_list_node\n|+ valptr_cnt\l|+ valptr_list_node()\l}" alt="" coords="228,388,361,465"/>
+<area shape="rect" id="node7" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="386,388,451,465"/>
+<area shape="rect" id="node9" href="$structheap__cache__attrinfo.html" title="{heap_cache_attrinfo\n|+ dummy\l|}" alt="" coords="585,189,724,267"/>
+<area shape="rect" id="node10" href="$structupdate__assignment.html" title="{update_assignment\n|+ cls_idx\l+ att_idx\l+ regu_var\l+ clear_value_at_clone\l_decache\l|}" alt="" coords="748,160,904,296"/>
+<area shape="rect" id="node11" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="851,13,948,90"/>
+</map>

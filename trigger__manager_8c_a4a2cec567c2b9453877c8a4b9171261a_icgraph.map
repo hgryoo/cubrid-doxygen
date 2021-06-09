@@ -1,0 +1,8 @@
+<map id="remove_trigger_list" name="remove_trigger_list">
+<area shape="rect" id="node2" href="$trigger__manager_8h.html#ab86886b8498d463986948822d3086b33" title="tr_create_trigger" alt="" coords="205,17,321,44"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#a5504bbaa6c0aaf4394cd0e7a9837356d" title="tr_drop_cache_trigger" alt="" coords="189,68,336,95"/>
+<area shape="rect" id="node6" href="$trigger__manager_8c.html#ad22e88534246991be186e6d3121cbd7c" title="tr_drop_trigger_internal" alt="" coords="388,132,543,159"/>
+<area shape="rect" id="node7" href="$trigger__manager_8c.html#a2b293d32494648b1e2ef15c887d157dc" title="unregister_user_trigger" alt="" coords="185,169,340,196"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#af6c2b72c697cc0754fa10d7edff714a3" title="db_create_trigger" alt="" coords="404,5,527,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a4031e13892e89e8a3b919278737eded3" title="do_create_trigger" alt="" coords="404,56,527,83"/>
+</map>

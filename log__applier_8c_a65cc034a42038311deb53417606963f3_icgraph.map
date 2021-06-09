@@ -1,0 +1,6 @@
+<map id="la_free_all_repl_items" name="la_free_all_repl_items">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a7ba25f44bcecbaa522dd022fb722f0c5" title="la_apply_repl_log" alt="" coords="395,5,517,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#acad5b835c2657fd28047decc477207e8" title="la_clear_applied_info" alt="" coords="201,56,344,83"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a074bae9d02a5d1762d2f938082877397" title="la_apply_commit_list" alt="" coords="568,5,712,32"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#ac3a75bba3dd4c6f4eade513dba22a620" title="la_free_repl_items\l_by_tranid" alt="" coords="392,57,520,98"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="boot_shutdown_client_at_exit" name="boot_shutdown_client_at_exit">
+<area shape="rect" id="node2" href="$boot__cl_8c.html#acbbffeaf60c21d508959f4e5c8e06e93" title="boot_client" alt="" coords="201,57,287,84"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="335,32,488,58"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="536,6,675,33"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="541,69,670,96"/>
+<area shape="rect" id="node6" href="$boot__cl_8h.html#af807b21fe58bf3fc403c4ce452c5ad08" title="boot_server_die_or\l_changed" alt="" coords="345,134,477,175"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="logtb_update_global_unique_stats_by_delta" name="logtb_update_global_unique_stats_by_delta">
+<area shape="rect" id="node2" href="$btree_8h.html#abc33f2b519aa775877e696a0c9f3f1b0" title="btree_rv_undo_global\l_unique_stats_commit" alt="" coords="216,5,369,47"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#abced029cdab388279dc4b134179929c3" title="logtb_complete_mvcc" alt="" coords="615,101,764,127"/>
+<area shape="rect" id="node7" href="$log__tran__table_8c.html#a5f8951bdc2bc82e85e84507395d6e182" title="logtb_tran_update_delta\l_hash_func" alt="" coords="213,123,373,164"/>
+<area shape="rect" id="node9" href="$log__manager_8c.html#aeb86b620abf2ee6ef65f67be72da3315" title="logtb_tran_update_stats\l_online_index_rb" alt="" coords="212,188,373,229"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="845,50,954,77"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="838,101,961,127"/>
+<area shape="rect" id="node6" href="$unittests__snapshot_8c.html#a6e94852860f51ea0f1b3cfd809ee8f00" title="test_new_mvcc_complete" alt="" coords="812,151,987,178"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#a3480cda1ffc8521c5f450418549b0197" title="logtb_tran_update_all\l_global_unique_stats" alt="" coords="421,123,567,164"/>
+</map>

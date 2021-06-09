@@ -1,0 +1,4 @@
+<map id="locator_global::locator_global_lockhint_areas" name="locator_global::locator_global_lockhint_areas">
+<area shape="rect" id="node2" href="$structlc__lock__hint.html" title="{lc_lock_hint\n|+ mem\l+ length\l+ max_classes\l+ num_classes\l+ num_classes_processed\l+ quit_on_errors\l+ packed_size\l+ packed\l+ first_fetch_lockhint_call\l|}" alt="" coords="5,175,184,369"/>
+<area shape="rect" id="node3" href="$structlc__lockhint__class.html" title="{lc_lockhint_class\n|+ chn\l+ lock\l+ need_subclasses\l|}" alt="" coords="27,5,162,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="or_get_align64" name="or_get_align64">
+<area shape="rect" id="node2" href="$object__representation_8c.html#abf37a5f19595abfeb1ad4858d74d3168" title="or_pack_mem_value" alt="" coords="167,53,309,79"/>
+<area shape="rect" id="node4" href="$object__representation_8c.html#a2a33e9093216a888635de950d30567ee" title="or_unpack_mem_value" alt="" coords="160,143,316,170"/>
+<area shape="rect" id="node3" href="$locator__sr_8c.html#a1a79e7d9b55349403bdc3a50d4889dc6" title="locator_repl_add_error\l_to_copyarea" alt="" coords="365,5,516,47"/>
+<area shape="rect" id="node5" href="$work__space_8h.html#ad59f4e429ba562fd32ce6464ca0317b2" title="ws_set_repl_error_into\l_error_link" alt="" coords="364,71,517,112"/>
+<area shape="rect" id="node6" href="$locator__sr_8c.html#a873466f35219880006bf0d32ad9b6ae7" title="locator_repl_get_key\l_value" alt="" coords="369,136,512,177"/>
+<area shape="rect" id="node7" href="$log__applier_8c.html#afd4e57b14d49a93039899444fe0d18b5" title="la_get_item_pk_value" alt="" coords="367,202,515,229"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html#a663a6c912eb23797196e582be80f1e47" title="log_repl_data_dump" alt="" coords="371,253,510,279"/>
+</map>

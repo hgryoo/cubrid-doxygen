@@ -1,0 +1,19 @@
+<map id="btree_read_fixed_portion_of_non_leaf_record" name="btree_read_fixed_portion_of_non_leaf_record">
+<area shape="rect" id="node2" href="$btree_8c.html#aaf6c3062cf639de8e75ce72e5ed9557e" title="btree_check_pages" alt="" coords="246,5,381,32"/>
+<area shape="rect" id="node4" href="$btree_8c.html#ada7a268ad5aa96c1b9011b9db1f2a717" title="btree_delete_meta_record" alt="" coords="227,56,399,83"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a2bf37f8fdcc96b6f2dd5de89d62afc0d" title="btree_dump_page_with\l_subtree" alt="" coords="235,107,391,149"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a9440028322544c43af113387a96acdd7" title="btree_find_AR_sampling_leaf" alt="" coords="217,173,409,200"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a3b1831815ea0e1f9498ca68a18ccfcca" title="btree_find_boundary_leaf" alt="" coords="230,224,397,251"/>
+<area shape="rect" id="node11" href="$btree_8c.html#aad1b2d99e069565133e6d2085e57dce4" title="btree_find_key_from\l_nleaf" alt="" coords="243,275,383,317"/>
+<area shape="rect" id="node12" href="$btree_8h.html#a11ba492b2c19b7e7bd804b2656026b7b" title="btree_get_next_node_info" alt="" coords="228,341,399,368"/>
+<area shape="rect" id="node13" href="$btree_8c.html#a184d8f063af39efbd4d219dcb2df8e67" title="btree_get_subtree_capacity" alt="" coords="222,392,405,419"/>
+<area shape="rect" id="node14" href="$btree_8h.html#a70c00bb9a5aef557d4b06cc7d37cad71" title="btree_get_unique_statistics" alt="" coords="223,443,404,469"/>
+<area shape="rect" id="node15" href="$btree_8c.html#a1012b26ece22db26540906ab85b6ef30" title="btree_merge_node" alt="" coords="249,493,378,520"/>
+<area shape="rect" id="node16" href="$btree_8c.html#acea286eb82079783f298baa39d4cd373" title="btree_merge_node_and\l_advance" alt="" coords="463,537,620,578"/>
+<area shape="rect" id="node17" href="$btree_8c.html#abe79504ac909c0ca86fb150d0bf97fdb" title="btree_repair_prev_link\l_by_btid" alt="" coords="239,595,388,637"/>
+<area shape="rect" id="node18" href="$btree_8c.html#a26cbb5454228ea3c792235f5cfdb53e2" title="btree_search_nonleaf_page" alt="" coords="223,661,404,688"/>
+<area shape="rect" id="node3" href="$btree_8h.html#a7d4f7f59ab6d6bad900dbc72e832a69d" title="btree_check_tree" alt="" coords="480,5,603,32"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a1b5f950350c0e1997489fad31cc8cdff" title="btree_get_stats_with\l_AR_sampling" alt="" coords="470,158,613,199"/>
+<area shape="rect" id="node9" href="$btree_8c.html#abf6babe856403e7141a7d8c723f21a30" title="btree_find_leftmost_leaf" alt="" coords="461,224,622,251"/>
+<area shape="rect" id="node10" href="$btree_8c.html#af315c93b4677ecb72aac10acee71b2af" title="btree_find_rightmost_leaf" alt="" coords="457,275,625,301"/>
+</map>

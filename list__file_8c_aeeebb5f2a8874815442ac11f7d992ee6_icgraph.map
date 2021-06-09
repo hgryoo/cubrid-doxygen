@@ -1,0 +1,7 @@
+<map id="qfile_update_domains_on_type_list" name="qfile_update_domains_on_type_list">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a23207c671a6f992a68e20efa5a68b81a" title="qexec_generate_tuple\l_descriptor" alt="" coords="201,90,351,131"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#ab586cfb0848f940d47ca7f4c2fbb8708" title="qexec_end_one_iteration" alt="" coords="406,5,573,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a124dfc1f7fe85f3de4683346c32e666b" title="qexec_end_buildvalueblock\l_iterations" alt="" coords="399,57,580,98"/>
+<area shape="rect" id="node5" href="$query__executor_8h.html#a2be66313ab0041341af58712bbfd2aad" title="qexec_insert_tuple\l_into_list" alt="" coords="424,122,555,163"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#ace4cbe7f3418a09d43ee9ad479be8e06" title="qexec_gby_finalize\l_group" alt="" coords="423,187,556,229"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rel_is_log_compatible" name="rel_is_log_compatible">
+<area shape="rect" id="node2" href="$file__io_8c.html#a75de3fb1bd3a4ce20808ae371e5bdca6" title="fileio_continue_restore" alt="" coords="200,56,352,83"/>
+<area shape="rect" id="node5" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="205,132,347,159"/>
+<area shape="rect" id="node3" href="$file__io_8c.html#a66c6de07286da1c9850e69522a423fd4" title="fileio_read_restore" alt="" coords="413,5,541,32"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#ae03fe0d348dc4382d997df5f33a209bc" title="fileio_start_restore" alt="" coords="413,56,542,83"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a95f060b401ef97e5ff9be51b7a304a5b" title="log_initialize" alt="" coords="431,107,524,133"/>
+<area shape="rect" id="node7" href="$log__manager_8h.html#a425ed5fad08e748df89edfd0350986f9" title="log_restart_emergency" alt="" coords="400,157,555,184"/>
+<area shape="rect" id="node8" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="431,208,524,235"/>
+</map>

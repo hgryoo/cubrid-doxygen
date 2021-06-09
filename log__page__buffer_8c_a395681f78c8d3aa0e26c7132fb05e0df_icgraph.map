@@ -1,0 +1,8 @@
+<map id="logpb_flush_page" name="logpb_flush_page">
+<area shape="rect" id="node2" href="$log__manager_8c.html#acd7aa0cf89421cf5efece93122c9fc81" title="log_create_internal" alt="" coords="185,56,316,83"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a6e4cb0fa20df20ef22e01e5bae16b885" title="log_recovery_resetlog" alt="" coords="176,107,325,133"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ad2eeada203e066baffcd4c6207a573b8" title="log_create" alt="" coords="418,5,501,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="413,56,506,83"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#a57545124a0b490108e49a8ca77acf2d7" title="log_rv_analysis_complete" alt="" coords="373,107,545,133"/>
+<area shape="rect" id="node7" href="$log__recovery_8c.html#afd45fb1ef67df793b067695e37d91623" title="log_recovery_analysis" alt="" coords="384,157,535,184"/>
+</map>

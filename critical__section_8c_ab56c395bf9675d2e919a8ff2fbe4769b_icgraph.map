@@ -1,0 +1,6 @@
+<map id="sync_allocate_sync_stats_chunk" name="sync_allocate_sync_stats_chunk">
+<area shape="rect" id="node2" href="$critical__section_8c.html#a4c5ca7d5427a37dfe5549c2886b68d5e" title="sync_allocate_sync\l_stats" alt="" coords="191,64,328,105"/>
+<area shape="rect" id="node3" href="$critical__section_8h.html#a32c3630d27172ab0269f7135c2f11992" title="csect_initialize_critical\l_section" alt="" coords="376,5,529,47"/>
+<area shape="rect" id="node4" href="$critical__section_8h.html#a0b8776d06a5b51776284c36ed64fb7da" title="rmutex_initialize" alt="" coords="395,71,511,98"/>
+<area shape="rect" id="node5" href="$critical__section_8h.html#a07a2f1a4494f4081dc560d6cfc3dd004" title="rwlock_initialize" alt="" coords="395,122,510,149"/>
+</map>

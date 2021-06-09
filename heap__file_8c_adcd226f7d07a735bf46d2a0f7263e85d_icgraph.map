@@ -1,0 +1,7 @@
+<map id="heap_chnguess_finalize" name="heap_chnguess_finalize">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a703d3215a6e96a95b300fdf291e1e8f6" title="heap_chnguess_initialize" alt="" coords="215,56,381,83"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#aa9775422c60e8ebfce82739cdbf5a2bb" title="heap_manager_finalize" alt="" coords="221,107,375,133"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a1bd47a9dfa569f39c05bbbdccff9ae9b" title="heap_manager_initialize" alt="" coords="429,5,591,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#ae6beb99cf2079e11b1dccc51763f02cb" title="heap_chnguess_realloc" alt="" coords="431,56,589,83"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="431,107,589,133"/>
+</map>

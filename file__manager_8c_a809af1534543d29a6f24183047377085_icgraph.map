@@ -1,0 +1,5 @@
+<map id="file_perm_dealloc" name="file_perm_dealloc">
+<area shape="rect" id="node2" href="$file__manager_8c.html#af5423ddf6eaedabd0060fb5adbf411ee" title="file_rv_dealloc_internal" alt="" coords="176,35,331,61"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a48b1847e1ef1f16deb8b37585178de35" title="file_rv_dealloc_on_undo" alt="" coords="379,5,540,32"/>
+<area shape="rect" id="node4" href="$file__manager_8h.html#ad1c322e255776d6631f0f953fa5f71ed" title="file_rv_dealloc_on\l_postpone" alt="" coords="396,57,523,98"/>
+</map>

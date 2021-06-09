@@ -1,0 +1,9 @@
+<map id="db_set_session_id" name="db_set_session_id">
+<area shape="rect" id="node2" href="$cas_8c.html#a3b8b6849797b70033014f112a4de6d76" title="cas_set_session_id" alt="" coords="204,5,341,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a0f10de6a4a686a08a8f0d049c63d92c8" title="db_find_or_create_session" alt="" coords="184,68,361,95"/>
+<area shape="rect" id="node8" href="$cas__execute_8h.html#afae155f41de29961913222838a59509e" title="ux_set_session_id" alt="" coords="207,119,338,145"/>
+<area shape="rect" id="node3" href="$cas_8c.html#a860d9ee786081f5655e997ed55d494e8" title="cas_main" alt="" coords="607,80,685,107"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="415,43,553,69"/>
+<area shape="rect" id="node6" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="419,93,549,120"/>
+<area shape="rect" id="node7" href="$cas__execute_8h.html#a2bfc849a249d18d8e67ad6840558e742" title="ux_database_connect" alt="" coords="409,168,559,195"/>
+</map>

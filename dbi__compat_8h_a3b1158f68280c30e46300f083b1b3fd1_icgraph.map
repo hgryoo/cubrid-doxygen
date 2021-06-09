@@ -1,0 +1,9 @@
+<map id="db_get_owner" name="db_get_owner">
+<area shape="rect" id="node2" href="$object__print_8h.html#a95675a68eac4e781b4a866caeefa8bca" title="help_class_names" alt="" coords="168,5,299,32"/>
+<area shape="rect" id="node4" href="$load__db_8c.html#acc6f6aa60b6b0b1f3ba005f825f5ad93" title="load_has_authorization" alt="" coords="156,56,311,83"/>
+<area shape="rect" id="node6" href="$view__transform_8c.html#a85a6baf509b2579b68e8324ace3b0398" title="mq_virtual_queries" alt="" coords="168,107,299,133"/>
+<area shape="rect" id="node8" href="$semantic__check_8c.html#ab91fa2f14173b33a59cab8354817238d" title="pt_check_user_owns\l_class" alt="" coords="161,158,306,199"/>
+<area shape="rect" id="node3" href="$object__print_8c.html#a3bc8ec02286a0a36d9221c8c277106c4" title="help_fprint_class_names" alt="" coords="359,5,525,32"/>
+<area shape="rect" id="node5" href="$load__db_8c.html#a1f4a56d4ff6ea428352286ba01aa315e" title="load_object_file" alt="" coords="386,56,498,83"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#a377cbc4f3e0978a261fdd2682c3624bd" title="sm_virtual_queries" alt="" coords="377,107,507,133"/>
+</map>

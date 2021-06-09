@@ -1,0 +1,17 @@
+<map id="src/query/cursor.c" name="src/query/cursor.c">
+<area shape="rect" id="node6" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="835,304,951,331"/>
+<area shape="rect" id="node7" href="$storage__common_8h.html" title="storage_common.h" alt="" coords="477,304,611,331"/>
+<area shape="rect" id="node8" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="288,304,403,331"/>
+<area shape="rect" id="node9" href="$object__primitive_8h.html" title="object_primitive.h" alt="" coords="481,80,605,107"/>
+<area shape="rect" id="node10" href="$object__representation_8h.html" title="object_representation.h" alt="" coords="195,229,352,256"/>
+<area shape="rect" id="node11" href="$db_8h.html" title="db.h" alt="" coords="1166,229,1213,256"/>
+<area shape="rect" id="node12" href="$locator__cl_8h.html" title="locator_cl.h" alt="" coords="731,155,821,181"/>
+<area shape="rect" id="node13" href="$work__space_8h.html" title="work_space.h" alt="" coords="529,229,631,256"/>
+<area shape="rect" id="node14" href="$server__interface_8h.html" title="server_interface.h" alt="" coords="529,155,655,181"/>
+<area shape="rect" id="node15" href="$set__object_8h.html" title="set_object.h" alt="" coords="1048,229,1141,256"/>
+<area shape="rect" id="node16" href="$cursor_8h.html" title="cursor.h" alt="" coords="955,229,1024,256"/>
+<area shape="rect" id="node17" href="$parser__support_8h.html" title="parser_support.h" alt="" coords="1171,155,1290,181"/>
+<area shape="rect" id="node18" href="$virtual__object_8h.html" title="virtual_object.h" alt="" coords="782,80,893,107"/>
+<area shape="rect" id="node19" href="$network__interface__cl_8h.html" title="network_interface_cl.h" alt="" coords="303,80,457,107"/>
+<area shape="rect" id="node20" href="$dbtype_8h.html" title="dbtype.h" alt="" coords="757,229,829,256"/>
+</map>

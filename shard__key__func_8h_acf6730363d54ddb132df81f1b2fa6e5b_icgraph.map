@@ -1,0 +1,8 @@
+<map id="proxy_find_shard_id_by_hint_value" name="proxy_find_shard_id_by_hint_value">
+<area shape="rect" id="node2" href="$broker__admin__pub_8h.html#a8c0b17f2f0ade79a52a47448a892a76d" title="admin_getid_cmd" alt="" coords="217,5,341,32"/>
+<area shape="rect" id="node4" href="$shard__proxy__function_8c.html#ac4df0a79790b748b44db768c91dffa93" title="proxy_get_range_by\l_param" alt="" coords="210,57,349,98"/>
+<area shape="rect" id="node6" href="$shard__statement_8c.html#a9723d3169ba29602ec7bbf6b3afc8902" title="shard_stmt_change_shard\l_val_to_id" alt="" coords="192,122,367,163"/>
+<area shape="rect" id="node3" href="$broker__admin_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="468,5,519,32"/>
+<area shape="rect" id="node5" href="$shard__proxy__function_8c.html#a96f7c96bf00a69ada8249bc8852f94cd" title="proxy_get_shard_id" alt="" coords="426,64,561,91"/>
+<area shape="rect" id="node7" href="$shard__statement_8h.html#a7fa963afea776def3c65b3aa56b2a812" title="shard_stmt_rewrite_sql" alt="" coords="415,129,572,156"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="classobj_make_method_file" name="classobj_make_method_file">
+<area shape="rect" id="node2" href="$class__object_8c.html#a7ac2ed4208492b5ff51711239ecb1064" title="classobj_copy_methfile" alt="" coords="236,5,395,32"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#a2798c79a86a82edd1ffebf5db2bbbbcf" title="flatten_method_files" alt="" coords="656,31,795,57"/>
+<area shape="rect" id="node5" href="$transform__cl_8c.html#a9d88784bcfaa52eff49c88b67cb2f407" title="disk_to_methfile" alt="" coords="257,107,374,133"/>
+<area shape="rect" id="node6" href="$schema__template_8h.html#a12065c9023e551451ce92c83a65a6e5e" title="smt_add_method_file" alt="" coords="242,157,389,184"/>
+<area shape="rect" id="node3" href="$class__object_8h.html#a6380a61e0bbbe3937cc9d47d98ca6be4" title="classobj_copy_methfiles" alt="" coords="443,5,608,32"/>
+<area shape="rect" id="node7" href="$db__class_8c.html#a9db183b561f970bef67dfd61a4d98dac" title="db_add_method_file" alt="" coords="456,132,595,159"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#aaa89d09f58c08929f92d72e20f5066f7" title="dbt_add_method_file" alt="" coords="454,183,597,209"/>
+</map>

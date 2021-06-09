@@ -1,0 +1,8 @@
+<map id="shard_shm_get_shard_stat" name="shard_shm_get_shard_stat">
+<area shape="rect" id="node2" href="$broker__monitor_8c.html#abb2e5e0380a1939d498f1a7554c017d4" title="metadata_monitor" alt="" coords="238,5,365,32"/>
+<area shape="rect" id="node4" href="$shard__proxy__function_8c.html#a4b647703784102303dcc8495cf413f14" title="proxy_update_shard\l_stats" alt="" coords="232,122,371,163"/>
+<area shape="rect" id="node7" href="$shard__proxy__function_8c.html#abbfe84e47ab0e688802d1067e065a9e1" title="proxy_update_shard\l_stats_without_hint" alt="" coords="232,57,371,98"/>
+<area shape="rect" id="node3" href="$broker__monitor_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="473,5,524,32"/>
+<area shape="rect" id="node5" href="$shard__proxy__function_8h.html#a311b744e4b544961d2d2f9e8e85bc6dc" title="fn_proxy_client_prepare\l_and_execute" alt="" coords="419,122,579,163"/>
+<area shape="rect" id="node6" href="$shard__proxy__function_8c.html#affba070c8d56d9b5d6f48c7202361d29" title="proxy_client_execute\l_internal" alt="" coords="426,57,571,98"/>
+</map>

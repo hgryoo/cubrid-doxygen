@@ -1,0 +1,16 @@
+<map id="pt_find_spec" name="pt_find_spec">
+<area shape="rect" id="node2" href="$view__transform_8c.html#ac215f16a40d7d58cc76a7eb5736a3e83" title="mq_substitute_subquery\l_in_statement" alt="" coords="165,31,329,72"/>
+<area shape="rect" id="node4" href="$semantic__check_8c.html#a4b3d5d45219cedc7d9447296d9a21cc0" title="pt_check_single_valued_node" alt="" coords="149,173,345,199"/>
+<area shape="rect" id="node6" href="$parser__support_8c.html#af847cdeafa6faa773bb6a227a607ecc2" title="pt_find_aggregate_names" alt="" coords="162,122,333,149"/>
+<area shape="rect" id="node9" href="$parser__support_8c.html#a7c220ac799469f27bae13b9849048c82" title="pt_find_spec_in_statement" alt="" coords="158,223,337,250"/>
+<area shape="rect" id="node13" href="$parser__support_8c.html#ad925b274649bc90fdc5ea73f09267cb5" title="pt_process_spec_for\l_update" alt="" coords="176,275,319,316"/>
+<area shape="rect" id="node14" href="$parser_8h.html#a0fdab78f059823a9566f5879dbc2b660" title="pt_resolve_names" alt="" coords="183,341,311,367"/>
+<area shape="rect" id="node15" href="$xasl__generation_8h.html#a4ffda647bdf164dbc2ed5f4e418c7ff3" title="pt_to_delete_xasl" alt="" coords="185,391,309,418"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#aed7b1446f180bf7dd44884a4a68cf2b9" title="mq_substitute_subquery\l_list_in_statement" alt="" coords="417,5,581,47"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#a8ace6e3dcf7c5b1840dc5f4df6fed4b7" title="pt_semantic_check_local" alt="" coords="414,173,583,199"/>
+<area shape="rect" id="node7" href="$parser__support_8c.html#a420ba98b36b243ea153871e6bde2225e" title="pt_find_aggregate_functions_pre" alt="" coords="393,122,604,149"/>
+<area shape="rect" id="node8" href="$view__transform_8c.html#af7d6ca65ec68176b36cbda6e5634ad93" title="mq_rewrite_agg_names" alt="" coords="419,71,579,98"/>
+<area shape="rect" id="node10" href="$parser__support_8c.html#a11a48180700cb2cf9d0c0e21ae47c17c" title="pt_mark_spec_list_for\l_delete" alt="" coords="423,275,574,316"/>
+<area shape="rect" id="node11" href="$parser__support_8c.html#a5fe601ad6a8df13dea317be5ee23af43" title="pt_mark_spec_list_for\l_update" alt="" coords="423,340,574,381"/>
+<area shape="rect" id="node12" href="$execute__statement_8c.html#a2c2524c97da8593dcdf5601b362e6d6a" title="update_check_for_constraints" alt="" coords="401,223,597,250"/>
+</map>

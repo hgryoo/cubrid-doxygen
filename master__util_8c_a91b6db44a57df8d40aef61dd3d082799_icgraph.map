@@ -1,0 +1,6 @@
+<map id="master_util_wait_proc_terminate" name="master_util_wait_proc_terminate">
+<area shape="rect" id="node2" href="$master__request_8c.html#a1802a977cdcc0909e87c62a907681c86" title="css_process_shutdown" alt="" coords="203,5,361,32"/>
+<area shape="rect" id="node4" href="$commdb_8c.html#aed5834396723c635d85466b012f40d37" title="process_slave_kill" alt="" coords="217,56,347,83"/>
+<area shape="rect" id="node3" href="$master__request_8h.html#a0d0d71b7f22a154bc9f7522d09a17429" title="css_process_info_request" alt="" coords="409,5,584,32"/>
+<area shape="rect" id="node5" href="$commdb_8c.html#a833a236806e3150efcf9eafa31b591df" title="process_batch_command" alt="" coords="411,56,582,83"/>
+</map>

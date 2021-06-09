@@ -1,0 +1,10 @@
+<map id="src/compat/db_client_type.hpp" name="src/compat/db_client_type.hpp">
+<area shape="rect" id="node2" href="$db__admin_8h.html" title="src/compat/db_admin.h" alt="" coords="85,102,244,129"/>
+<area shape="rect" id="node4" href="$client__credentials_8hpp.html" title="src/transaction/client\l_credentials.hpp" alt="" coords="315,95,457,136"/>
+<area shape="rect" id="node3" href="$db_8h.html" title="src/compat/db.h" alt="" coords="5,191,121,218"/>
+<area shape="rect" id="node5" href="$boot_8h.html" title="src/transaction/boot.h" alt="" coords="145,191,293,218"/>
+<area shape="rect" id="node6" href="$log__impl_8h.html" title="src/transaction/log\l_impl.h" alt="" coords="211,273,340,315"/>
+<area shape="rect" id="node7" href="$client__credentials_8cpp.html" title="src/transaction/client\l_credentials.cpp" alt="" coords="369,184,512,225"/>
+<area shape="rect" id="node8" href="$log__record_8hpp.html" title="src/transaction/log\l_record.hpp" alt="" coords="536,184,665,225"/>
+<area shape="rect" id="node9" href="$log__writer_8h.html" title="src/transaction/log\l_writer.h" alt="" coords="689,184,819,225"/>
+</map>

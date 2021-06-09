@@ -1,0 +1,4 @@
+<map id="cubload::class_installer" name="cubload::class_installer">
+<area shape="rect" id="node2" href="$classcubload_1_1sa__class__installer.html" title="{cubload::sa_class_installer\n||+ sa_class_installer()\l+ ~sa_class_installer()\l+ set_class_id()\l+ check_class()\l+ install_class()\l+ install_class()\l}" alt="" coords="5,263,184,413"/>
+<area shape="rect" id="node3" href="$classcubload_1_1server__class__installer.html" title="{cubload::server_class\l_installer\n|&#45; m_session\l&#45; m_error_handler\l&#45; m_clsid\l|+ server_class_installer()\l+ server_class_installer()\l+ ~server_class_installer()\l+ set_class_id()\l+ check_class()\l+ install_class()\l+ install_class()\l+ is_class_ignored()\l+ to_lowercase_identifier()\l&#45; locate_class()\l&#45; register_class_with\l_attributes()\l&#45; get_class_attributes()\l}" alt="" coords="208,189,384,487"/>
+</map>

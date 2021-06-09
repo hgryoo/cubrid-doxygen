@@ -1,0 +1,9 @@
+<map id="pt_make_pred_name_string_val" name="pt_make_pred_name_string_val">
+<area shape="rect" id="node2" href="$parser__support_8c.html#ac50f81397af94d48227c4b74b2ceb2b8" title="pt_make_collection\l_type_subquery_node" alt="" coords="269,5,418,47"/>
+<area shape="rect" id="node3" href="$parser__support_8c.html#a0c92b1c36d45d362aaa61326cd9031b4" title="pt_make_query_describe\l_w_identifier" alt="" coords="260,71,427,112"/>
+<area shape="rect" id="node4" href="$parser__support_8c.html#a34207b9b9d7e11d3afe931744aa4ca4e" title="pt_make_query_show\l_create_view" alt="" coords="269,136,418,177"/>
+<area shape="rect" id="node5" href="$parser__support_8c.html#a62bf7092afaec291c69a1f5233a7992d" title="pt_make_query_show\l_grants" alt="" coords="475,257,624,299"/>
+<area shape="rect" id="node7" href="$parser__support_8c.html#abf59e2eb70e3d09695e2fc44988dba89" title="pt_make_query_show\l_table" alt="" coords="269,253,418,295"/>
+<area shape="rect" id="node8" href="$parser__support_8c.html#a665c34f6af4448bfbce2572a9f25904f" title="pt_make_query_user\l_groups" alt="" coords="272,319,415,360"/>
+<area shape="rect" id="node6" href="$parser__support_8c.html#ab19117ddcef176d9c8b6e55c43329338" title="pt_make_query_show\l_grants_curr_usr" alt="" coords="672,257,821,299"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="qfile_list_cache_entry_pool" name="qfile_list_cache_entry_pool">
+<area shape="rect" id="node2" href="$unionqfile__pooled__list__cache__entry.html" title="{qfile_pooled_list_cache\l_entry\n|+ next\l+ s\l+ dummy\l|}" alt="" coords="16,219,173,340"/>
+<area shape="rect" id="node3" href="$structqfile__list__cache__entry.html" title="{qfile_list_cache_entry\n|+ list_ht_no\l+ query_string\l+ time_created\l+ time_last_used\l+ ref_count\l+ deletion_marker\l|}" alt="" coords="21,5,169,156"/>
+</map>

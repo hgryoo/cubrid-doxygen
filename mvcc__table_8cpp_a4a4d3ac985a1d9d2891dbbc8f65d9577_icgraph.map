@@ -1,0 +1,11 @@
+<map id="oldest_active_set" name="oldest_active_set">
+<area shape="rect" id="node2" href="$classmvcctable.html#abb49acd267780e611121af87fcaf1431" title="mvcctable::build_mvcc_info" alt="" coords="181,52,365,79"/>
+<area shape="rect" id="node5" href="$classmvcctable.html#abe1fe9fb2ba6d076dfad17edeec315fa" title="mvcctable::complete_mvcc" alt="" coords="181,237,364,264"/>
+<area shape="rect" id="node8" href="$classmvcctable.html#a93d4fd9b0bde4ca9c75b5e816650174d" title="mvcctable::reset_transaction\l_lowest_active" alt="" coords="177,150,368,191"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a593d152ad0c8b7c29828b31d49a2458c" title="logtb_get_mvcc_snapshot" alt="" coords="416,5,591,32"/>
+<area shape="rect" id="node4" href="$unittests__snapshot_8c.html#ada455928b564cc6e95dc723b6e1418c3" title="test_mvcc_get_snapshot" alt="" coords="642,31,810,57"/>
+<area shape="rect" id="node6" href="$log__tran__table_8c.html#abced029cdab388279dc4b134179929c3" title="logtb_complete_mvcc" alt="" coords="429,259,578,285"/>
+<area shape="rect" id="node7" href="$unittests__snapshot_8c.html#a6e94852860f51ea0f1b3cfd809ee8f00" title="test_new_mvcc_complete" alt="" coords="639,233,813,260"/>
+<area shape="rect" id="node9" href="$log__manager_8h.html#a205cb9f31defd227b8340f7f4bd24a09" title="log_complete" alt="" coords="454,107,553,133"/>
+<area shape="rect" id="node10" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="429,157,578,184"/>
+</map>

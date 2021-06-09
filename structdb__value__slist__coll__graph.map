@@ -1,0 +1,8 @@
+<map id="db_value_slist" name="db_value_slist">
+<area shape="rect" id="node2" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="5,285,180,539"/>
+<area shape="rect" id="node7" href="$structdb__set.html" title="{db_set\n|+ disk_set\l+ attribute\l+ ref_count\l+ disk_size\l+ need_clear\l|}" alt="" coords="25,616,123,752"/>
+<area shape="rect" id="node3" href="$unionvid__oid.html" title="{vid_oid\n||}" alt="" coords="40,145,103,223"/>
+<area shape="rect" id="node4" href="$structws__value__list.html" title="{ws_value_list\n||}" alt="" coords="127,145,229,223"/>
+<area shape="rect" id="node5" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="229,5,327,83"/>
+<area shape="rect" id="node6" href="$structsm__partition.html" title="{sm_partition\n|+ pname\l+ partition_type\l+ expr\l+ comment\l|}" alt="" coords="26,815,138,936"/>
+</map>

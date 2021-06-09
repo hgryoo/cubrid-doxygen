@@ -1,0 +1,7 @@
+<map id="t_shard_stmt_global" name="t_shard_stmt_global">
+<area shape="rect" id="node2" href="$structmht__table.html" title="{mht_table\n|+ hash_func\l+ cmp_func\l+ name\l+ size\l+ rehash_at\l+ nentries\l+ nprealloc_entries\l+ ncollisions\l+ heap_id\l+ build_lru_list\l|}" alt="" coords="5,299,137,509"/>
+<area shape="rect" id="node3" href="$structhentry.html" title="{hentry\n|+ key\l+ data\l|}" alt="" coords="31,20,90,112"/>
+<area shape="rect" id="node4" href="$structt__shard__stmt.html" title="{t_shard_stmt\n|+ index\l+ num_alloc\l+ stmt_h_id\l+ status\l+ stmt_type\l+ client_version\l+ ctx_cid\l+ ctx_uid\l+ database_user\l+ num_pinned\l+ request_buffer_length\l+ request_buffer\l+ reply_buffer_length\l+ reply_buffer\l+ srv_h_id_ent\l|}" alt="" coords="171,263,329,545"/>
+<area shape="rect" id="node5" href="$structt__shard__queue.html" title="{t_shard_queue\n|+ lock\l+ cond\l|}" alt="" coords="197,20,303,112"/>
+<area shape="rect" id="node6" href="$structsp__parser__ctx.html" title="{sp_parser_ctx\n|+ sql_stmt\l+ is_select\l+ bind_count\l+ operator_\l|}" alt="" coords="327,5,431,127"/>
+</map>

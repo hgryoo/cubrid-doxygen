@@ -1,0 +1,14 @@
+<map id="fileio_ctime" name="fileio_ctime">
+<area shape="rect" id="node2" href="$file__io_8c.html#a75de3fb1bd3a4ce20808ae371e5bdca6" title="fileio_continue_restore" alt="" coords="143,56,295,83"/>
+<area shape="rect" id="node5" href="$file__io_8h.html#a804410092892d2bfac5a0b9d21a4e3c7" title="fileio_finish_backup" alt="" coords="532,157,668,184"/>
+<area shape="rect" id="node7" href="$file__io_8c.html#a548d455254d93c20e0630710f28cadf0" title="fileio_get_next_backup\l_volume" alt="" coords="141,158,296,199"/>
+<area shape="rect" id="node9" href="$file__io_8c.html#aacc79c8e464b57ae53c0711433484927" title="fileio_lock" alt="" coords="179,224,259,251"/>
+<area shape="rect" id="node12" href="$file__io_8h.html#a46a70e3ae8051cf096bff5bcf1c30d50" title="fileio_lock_la_log_path" alt="" coords="142,292,295,319"/>
+<area shape="rect" id="node3" href="$file__io_8c.html#a66c6de07286da1c9850e69522a423fd4" title="fileio_read_restore" alt="" coords="350,5,478,32"/>
+<area shape="rect" id="node4" href="$file__io_8h.html#ae03fe0d348dc4382d997df5f33a209bc" title="fileio_start_restore" alt="" coords="349,56,479,83"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="716,196,819,223"/>
+<area shape="rect" id="node8" href="$file__io_8c.html#a6e9ba0dbf8b31f1d97840e600554443e" title="fileio_flush_backup" alt="" coords="347,157,481,184"/>
+<area shape="rect" id="node10" href="$file__io_8c.html#addc9d05dedccecd27deedf9f6d311f74" title="fileio_create" alt="" coords="368,208,460,235"/>
+<area shape="rect" id="node11" href="$file__io_8h.html#a84fbe8f4420d7decc0fe88516373e5a8" title="fileio_mount" alt="" coords="554,233,646,260"/>
+<area shape="rect" id="node13" href="$log__applier_8c.html#a8ad5fb613c8323f40eb847be942e1682" title="la_check_duplicated" alt="" coords="344,309,484,336"/>
+</map>

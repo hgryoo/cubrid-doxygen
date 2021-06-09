@@ -1,0 +1,9 @@
+<map id="cubthread::looper::get_stats_value_count" name="cubthread::looper::get_stats_value_count">
+<area shape="rect" id="node2" href="$classcubthread_1_1daemon.html#afd9cbb28f44f731cfc7b15077a7e2bfc" title="cubthread::daemon::\lget_stat_name" alt="" coords="425,225,566,266"/>
+<area shape="rect" id="node4" href="$classcubthread_1_1daemon.html#a2fc7761797afb57a0768080a89b07154" title="cubthread::daemon::\lget_stats" alt="" coords="213,79,354,121"/>
+<area shape="rect" id="node8" href="$classcubthread_1_1daemon.html#a3b201b6fa3e93e4aa9640acf6beeadbd" title="cubthread::daemon::\lget_stats_value_count" alt="" coords="207,166,360,207"/>
+<area shape="rect" id="node3" href="$perf__monitor_8c.html#a9bb2ec73da51aaad362a2f5860b0d167" title="perfmon_per_daemon\l_stat_count" alt="" coords="631,195,777,237"/>
+<area shape="rect" id="node5" href="$lock__manager_8h.html#a39894afba679cc8ff708080ea5ae6ac8" title="lock_initialize" alt="" coords="445,5,545,32"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="411,57,579,98"/>
+<area shape="rect" id="node7" href="$page__buffer_8h.html#a87f07b4e008ec03f3f93a2f561e1328f" title="pgbuf_daemons_get_stats" alt="" coords="408,123,583,149"/>
+</map>

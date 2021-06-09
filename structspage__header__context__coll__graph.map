@@ -1,0 +1,4 @@
+<map id="spage_header_context" name="spage_header_context">
+<area shape="rect" id="node2" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="5,79,77,171"/>
+<area shape="rect" id="node3" href="$structspage__header.html" title="{spage_header\n|+ num_slots\l+ num_records\l+ anchor_type\l+ alignment\l+ total_free\l+ cont_free\l+ offset_to_free_area\l+ reserved1\l+ flags\l+ is_saving\l+ need_update_best_hint\l+ reserved_bits\l|}" alt="" coords="101,5,269,244"/>
+</map>

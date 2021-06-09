@@ -1,0 +1,5 @@
+<map id="xcache_dump" name="xcache_dump">
+<area shape="rect" id="node2" href="$query__manager_8c.html#a7bfd64540b31f84cb0f3cc8f9af80b77" title="xqmgr_dump_query_plans" alt="" coords="156,31,331,57"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a8dfda1e3130fc407fbe9bb44acd7d577" title="qmgr_dump_query_plans" alt="" coords="383,5,549,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a0c6ba99691a0e77630df660530c42cf4" title="sqmgr_dump_query_plans" alt="" coords="379,56,553,83"/>
+</map>

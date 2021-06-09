@@ -1,0 +1,12 @@
+<map id="tz_str_read_time" name="tz_str_read_time">
+<area shape="rect" id="node2" href="$tz__compile_8c.html#a1a01a8f8e889ba9bed122e8ee37afaaf" title="str_to_offset_rule\l_until" alt="" coords="179,22,302,63"/>
+<area shape="rect" id="node4" href="$tz__support_8h.html#a609ef8e7780c394020e76688129a1c83" title="tz_str_to_seconds" alt="" coords="176,135,305,161"/>
+<area shape="rect" id="node10" href="$tz__compile_8c.html#ade7cebc2c08f5ed88eabbd4fef8f0d05" title="tzc_load_leap_secs" alt="" coords="172,236,309,263"/>
+<area shape="rect" id="node3" href="$tz__compile_8c.html#a40a191630134a1a2d9ec77c95fba84e2" title="tzc_add_offset_rule" alt="" coords="371,5,507,32"/>
+<area shape="rect" id="node5" href="$tz__compile_8c.html#a71e1fae606536d3f5c31ddc1e92d60dc" title="tzc_add_ds_rule" alt="" coords="381,56,498,83"/>
+<area shape="rect" id="node6" href="$tz__compile_8c.html#ac2e6f742c46034bf261a011ac69f4d40" title="tzc_compile_data" alt="" coords="377,107,501,133"/>
+<area shape="rect" id="node7" href="$tz__support_8h.html#a26537640fc31e9b318c56123aa543f96" title="tz_get_timezone_offset" alt="" coords="360,157,519,184"/>
+<area shape="rect" id="node8" href="$tz__support_8c.html#a9ce169ba9479dccf37668371ac6af6b5" title="tz_str_timezone_decode" alt="" coords="357,208,521,235"/>
+<area shape="rect" id="node9" href="$tz__support_8h.html#ae71e25dc47235044f0fc52e6f75e56bf" title="tz_str_to_region" alt="" coords="382,259,497,285"/>
+<area shape="rect" id="node11" href="$tz__compile_8c.html#abca69f6ae4f604b251f40ce39d88e188" title="tzc_load_raw_data" alt="" coords="374,309,505,336"/>
+</map>

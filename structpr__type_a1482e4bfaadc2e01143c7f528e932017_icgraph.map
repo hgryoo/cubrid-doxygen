@@ -1,0 +1,8 @@
+<map id="pr_type::initmem" name="pr_type::initmem">
+<area shape="rect" id="node2" href="$transform__cl_8c.html#aceef15d73650038e351dd97766816604" title="clear_new_unbound" alt="" coords="172,5,309,32"/>
+<area shape="rect" id="node4" href="$object__accessor_8h.html#ab2da4980dc007ccf627e9816ae8465f0" title="obj_alloc" alt="" coords="204,56,277,83"/>
+<area shape="rect" id="node3" href="$transform__cl_8c.html#ae9e4324eff373fb625c92053ce737d7d" title="get_old" alt="" coords="411,5,475,32"/>
+<area shape="rect" id="node5" href="$object__template_8c.html#a1d646d2173c1730053d4f8e76d69118e" title="create_template_object" alt="" coords="364,56,521,83"/>
+<area shape="rect" id="node6" href="$transform__cl_8c.html#a08c52b92bc4b768d3d8cbf7933fac1f8" title="get_current" alt="" coords="399,107,486,133"/>
+<area shape="rect" id="node7" href="$virtual__object_8c.html#a4c83744f2982452b7daccec22c2e32f6" title="vid_build_non_upd_object" alt="" coords="357,157,528,184"/>
+</map>

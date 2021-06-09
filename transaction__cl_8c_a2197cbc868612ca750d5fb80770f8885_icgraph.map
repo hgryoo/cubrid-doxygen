@@ -1,0 +1,6 @@
+<map id="tran_current_timemillis" name="tran_current_timemillis">
+<area shape="rect" id="node2" href="$transaction__cl_8h.html#af1c93227778f552ac523339201b9bb31" title="tran_get_query_timeout" alt="" coords="207,35,365,61"/>
+<area shape="rect" id="node5" href="$transaction__cl_8h.html#ac2b56c7269df9e0b7ee7b707e0b92ecc" title="tran_set_query_timeout" alt="" coords="207,85,365,112"/>
+<area shape="rect" id="node3" href="$query__cl_8h.html#ab778ee35e2c7018fc30ac7f98b886669" title="execute_query" alt="" coords="433,5,540,32"/>
+<area shape="rect" id="node4" href="$query__cl_8h.html#aeab3fbcec16279cf60f9dff58ad427e4" title="prepare_and_execute\l_query" alt="" coords="413,57,560,98"/>
+</map>

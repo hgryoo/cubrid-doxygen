@@ -1,0 +1,9 @@
+<map id="smt_drop_constraint" name="smt_drop_constraint">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a694521513fe9f708721fd6a819ec063e" title="dbt_drop_constraint" alt="" coords="193,129,329,156"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#abd1979a808b3a290e4e35b3f3bf039e0" title="sm_drop_constraint" alt="" coords="193,195,329,221"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ac416d6ac67423b4e90e3de8083c0e5d3" title="dbt_constrain_non_null" alt="" coords="401,5,556,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a7ea9cfb87b1c3025ed3c0dae4e9c614b" title="dbt_constrain_unique" alt="" coords="406,56,551,83"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="408,107,549,149"/>
+<area shape="rect" id="node6" href="$schema__manager_8c.html#aaf8cb9a526840ff9dc1a92546cf36c7f" title="sm_drop_cascade_foreign_key" alt="" coords="377,173,580,200"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="413,224,545,251"/>
+</map>

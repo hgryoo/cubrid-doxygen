@@ -1,0 +1,5 @@
+<map id="check_semantics" name="check_semantics">
+<area shape="rect" id="node2" href="$trigger__manager_8h.html#ab86886b8498d463986948822d3086b33" title="tr_create_trigger" alt="" coords="177,31,293,57"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#af6c2b72c697cc0754fa10d7edff714a3" title="db_create_trigger" alt="" coords="341,5,464,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a4031e13892e89e8a3b919278737eded3" title="do_create_trigger" alt="" coords="341,56,464,83"/>
+</map>

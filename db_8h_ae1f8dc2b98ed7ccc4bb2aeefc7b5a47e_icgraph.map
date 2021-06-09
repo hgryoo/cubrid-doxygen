@@ -1,0 +1,12 @@
+<map id="db_compile_statement_local" name="db_compile_statement_local">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a1d3ecb39d3f27d5c44fb24082ea38423" title="au_delete_auth_of_dropping\l_table" alt="" coords="207,22,391,63"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#a78481e1554c3d1807c07bcb8bfc7cd54" title="db_compile_and_execute\l_queries_internal" alt="" coords="439,174,608,215"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a47cee80497593880d438b0f0291aac45" title="db_compile_statement" alt="" coords="222,139,375,165"/>
+<area shape="rect" id="node6" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="447,265,599,306"/>
+<area shape="rect" id="node7" href="$db__vdb_8c.html#a2f479c7755c512521e37e7bf27b78436" title="db_open_buffer_and\l_compile_first_statement" alt="" coords="215,190,383,231"/>
+<area shape="rect" id="node8" href="$db__vdb_8c.html#ac69f13e43ae60dcbdb63c3e77ba2c017" title="do_process_prepare\l_statement" alt="" coords="229,307,368,349"/>
+<area shape="rect" id="node9" href="$db__stub_8c.html#a1270305253397f2df6f248228ca271c1" title="stmt_exec_batch_query\l_internal" alt="" coords="218,373,379,414"/>
+<area shape="rect" id="node10" href="$db__stub_8c.html#a316bbdc5f4f9519839b0c186665856e6" title="stmt_exec_one_statement" alt="" coords="211,439,387,465"/>
+<area shape="rect" id="node11" href="$db__stub_8c.html#a7fe6b2c90c8229bff396b2db348b9d39" title="stmt_prepare_internal" alt="" coords="225,489,372,516"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="447,29,599,56"/>
+</map>

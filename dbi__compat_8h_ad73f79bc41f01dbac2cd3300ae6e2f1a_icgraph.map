@@ -1,0 +1,8 @@
+<map id="db_set_host_status" name="db_set_host_status">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="609,31,763,57"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="1011,81,1141,108"/>
+<area shape="rect" id="node6" href="$network__cl_8c.html#a9e79325f1639b867f33b62f68b12a2be" title="check_server_capabilities" alt="" coords="189,27,361,53"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="1007,5,1145,32"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aa7beb3207bb2b041cfbaf347ea2bf51a" title="boot_shutdown_client" alt="" coords="811,31,959,57"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#a669e1ce0f8fe4fd698271b150702ac6b" title="net_client_ping_server\l_with_handshake" alt="" coords="409,15,561,57"/>
+</map>

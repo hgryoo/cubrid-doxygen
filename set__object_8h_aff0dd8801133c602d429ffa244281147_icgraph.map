@@ -1,0 +1,10 @@
+<map id="setobj_put_domain" name="setobj_put_domain">
+<area shape="rect" id="node2" href="$object__representation_8c.html#ab0630175dddb661d6b5a4fbe4aaed245" title="or_get_set" alt="" coords="219,81,301,108"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#a9361d7d1b6a9aa17eb833fa7fc6ee829" title="qdata_convert_dbvals\l_to_set" alt="" coords="185,133,335,174"/>
+<area shape="rect" id="node8" href="$query__opfunc_8c.html#a6b94d2d895a5914234b43e76a8a80b12" title="qdata_convert_table\l_to_set" alt="" coords="191,198,329,239"/>
+<area shape="rect" id="node9" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="184,264,336,291"/>
+<area shape="rect" id="node3" href="$object__primitive_8c.html#a7259e27db7626e27f7387e60fd32206b" title="mr_data_readmem_set" alt="" coords="384,5,539,32"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a94216dda8b74e100668aea330218d24a" title="mr_data_readval_set" alt="" coords="390,56,533,83"/>
+<area shape="rect" id="node5" href="$object__representation_8c.html#acfae7e195ccf5245d5c43e4cbaaf0a0a" title="or_unpack_set" alt="" coords="408,107,515,133"/>
+<area shape="rect" id="node6" href="$set__object_8h.html#a01aeb8b23b9b891629c1a9c201b3cbdf" title="set_tform_disk_set" alt="" coords="395,157,528,184"/>
+</map>

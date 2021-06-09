@@ -1,0 +1,6 @@
+<map id="compute_rec_size" name="compute_rec_size">
+<area shape="rect" id="node2" href="$memory__alloc_8h.html#a2ab97bd2731effa73b3a2734736d4170" title="db_create_fixed_heap" alt="" coords="181,56,331,83"/>
+<area shape="rect" id="node3" href="$memory__hash_8h.html#a7b3a79a9b238f019bc78e4c6bbbf539a" title="mht_create" alt="" coords="391,5,477,32"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#a1c86618c7927424311607b824cb2d636" title="locator_all_reference\l_lockset" alt="" coords="537,23,680,65"/>
+<area shape="rect" id="node5" href="$memory__hash_8h.html#a4e7b1fbfde9ed464e0cadad76d4e181e" title="mht_create_hls" alt="" coords="379,107,489,133"/>
+</map>

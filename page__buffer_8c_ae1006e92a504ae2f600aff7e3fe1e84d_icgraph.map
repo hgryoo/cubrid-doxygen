@@ -1,0 +1,21 @@
+<map id="pgbuf_lru_remove_victim_candidate" name="pgbuf_lru_remove_victim_candidate">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#aad5004edb8758596a43871a706b8f6d7" title="pgbuf_bcb_change_zone" alt="" coords="220,599,387,626"/>
+<area shape="rect" id="node12" href="$page__buffer_8c.html#ad50b362a31af0bc9c9845aa0e3333071" title="pgbuf_bcb_set_dirty" alt="" coords="234,749,373,775"/>
+<area shape="rect" id="node14" href="$page__buffer_8c.html#a844a60b0938cc24d0f8b555ed449ff11" title="pgbuf_bcb_update_flags" alt="" coords="222,225,385,251"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a610fe052aecc1052b1f53eb90c475a4f" title="pgbuf_get_bcb_from\l_invalid_list" alt="" coords="458,508,598,549"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#aad6d15171c6f5af5ca6405df73f2f3f1" title="pgbuf_lru_add_bcb_to\l_bottom" alt="" coords="453,741,603,783"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#af799ba6def15940d08271e35dfaf894f" title="pgbuf_lru_add_bcb_to\l_middle" alt="" coords="453,807,603,848"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#a1c119531a7cd99a2de202b424d2ab0a2" title="pgbuf_lru_add_bcb_to_top" alt="" coords="441,406,615,433"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#a280bb6f8402f95b4f2c21bc3ae0d2a82" title="pgbuf_lru_adjust_zone1" alt="" coords="449,457,607,483"/>
+<area shape="rect" id="node9" href="$page__buffer_8c.html#afefe190b536faf7fecddcd0bff83e6e7" title="pgbuf_lru_fall_bcb\l_to_zone_3" alt="" coords="900,567,1027,608"/>
+<area shape="rect" id="node10" href="$page__buffer_8c.html#a90501157aa646894800f4a2ee370ca93" title="pgbuf_put_bcb_into\l_invalid_list" alt="" coords="461,676,595,717"/>
+<area shape="rect" id="node11" href="$page__buffer_8c.html#a1b3f5eacd4887a0b34ceee3809664212" title="pgbuf_remove_from_lru_list" alt="" coords="669,625,852,651"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#ad52a19e58500feeaa168bde701246375" title="pgbuf_allocate_bcb" alt="" coords="693,385,828,411"/>
+<area shape="rect" id="node13" href="$page__buffer_8c.html#adc00be58d233ba732a1cfd1f132246f0" title="pgbuf_set_dirty_buffer_ptr" alt="" coords="441,873,615,899"/>
+<area shape="rect" id="node15" href="$page__buffer_8c.html#aacfdde3e346ff6e9ecf80711fbcf3285" title="pgbuf_assign_direct\l_victim" alt="" coords="691,188,830,229"/>
+<area shape="rect" id="node16" href="$page__buffer_8c.html#a39ca704de10a1b72028fd9d4c64119ff" title="pgbuf_bcb_clear_dirty" alt="" coords="453,305,603,331"/>
+<area shape="rect" id="node17" href="$page__buffer_8c.html#ac37a32fc9cfb2621e6d4bb4ef1c3280e" title="pgbuf_bcb_mark_is_flushing" alt="" coords="435,355,621,382"/>
+<area shape="rect" id="node18" href="$page__buffer_8c.html#a4650e968e5f0af16f5b99c777c62fa7f" title="pgbuf_bcb_mark_was\l_flushed" alt="" coords="453,188,603,229"/>
+<area shape="rect" id="node19" href="$page__buffer_8c.html#a1a3372fee0b20ec8c13da4d0c198ccc4" title="pgbuf_bcb_mark_was\l_not_flushed" alt="" coords="453,5,603,47"/>
+<area shape="rect" id="node20" href="$page__buffer_8c.html#a7b2dfb96a20574b1b57312f01a840fbe" title="pgbuf_bcb_safe_flush\l_internal" alt="" coords="453,71,603,112"/>
+</map>

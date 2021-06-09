@@ -1,0 +1,21 @@
+<map id="qexec_clear_regu_var" name="qexec_clear_regu_var">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a3015a5794486fd26f84bf04c16efaad7" title="qexec_clear_access\l_spec_list" alt="" coords="467,497,609,539"/>
+<area shape="rect" id="node3" href="$query__executor_8h.html#a8ffca36cae36a3f9c8c3c2c3f79be082" title="qexec_clear_xasl" alt="" coords="683,305,806,331"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a0e54541ef8121b272ba2e5dec23e7899" title="qexec_clear_agg_orderby\l_const_list" alt="" coords="453,147,623,188"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a7c7a9097d61a6214e642758de693cf77" title="qexec_clear_analytic\l_function_list" alt="" coords="231,205,375,247"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#aa67ccf69f30a30f5bc6c9c6001f49c49" title="qexec_clear_arith_list" alt="" coords="464,446,612,473"/>
+<area shape="rect" id="node7" href="$query__executor_8h.html#a3d55661ca66de16ef8ec33dfbc13b07a" title="qexec_clear_func_pred" alt="" coords="460,665,616,691"/>
+<area shape="rect" id="node12" href="$query__executor_8h.html#a48436717e372e52de58a3d57d9649766" title="qexec_clear_partition\l_expression" alt="" coords="230,271,375,312"/>
+<area shape="rect" id="node14" href="$query__executor_8c.html#a5349c13f04c9ff5790eccaaaf3ad6f1c" title="qexec_clear_pred" alt="" coords="241,513,365,539"/>
+<area shape="rect" id="node16" href="$query__executor_8c.html#a512adbdec54fd97d07c799da4f1eb159" title="qexec_clear_regu_list" alt="" coords="229,337,377,363"/>
+<area shape="rect" id="node18" href="$query__executor_8c.html#a9f50bd2e2415b43e421b8ad18b247d28" title="qexec_clear_regu_value_list" alt="" coords="209,563,396,590"/>
+<area shape="rect" id="node19" href="$query__executor_8c.html#af070053625a521777e17dc9f6905fc1e" title="qexec_clear_regu_variable_list" alt="" coords="203,614,403,641"/>
+<area shape="rect" id="node20" href="$query__executor_8c.html#a21447d25eab375eeafd566dbca44a7fe" title="qexec_clear_update\l_assignment" alt="" coords="233,5,372,47"/>
+<area shape="rect" id="node8" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="681,581,808,607"/>
+<area shape="rect" id="node9" href="$btree__load_8c.html#af357a6db5b719e56298916f696fee234" title="xbtree_load_online\l_index" alt="" coords="679,632,810,673"/>
+<area shape="rect" id="node10" href="$heap__file_8c.html#af40ef1310c09076dc7e3d3e718ff4523" title="heap_eval_function\l_index" alt="" coords="677,697,812,739"/>
+<area shape="rect" id="node11" href="$heap__file_8h.html#ac42581a76af021af03bd7c240994cbf9" title="heap_free_func_pred\l_unpack_info" alt="" coords="673,763,816,804"/>
+<area shape="rect" id="node13" href="$partition_8c.html#acbfd434c339aefb616078bd81774e316" title="partition_free_partition\l_predicate" alt="" coords="463,264,613,305"/>
+<area shape="rect" id="node15" href="$query__executor_8h.html#adbf69b6ce4b436bc214d0b43bf4c9b42" title="qexec_clear_pred_context" alt="" coords="451,614,625,641"/>
+<area shape="rect" id="node17" href="$query__executor_8h.html#a7d0bca1e8254f25b16a026620d4ebdab" title="qexec_start_mainblock\l_iterations" alt="" coords="460,329,616,371"/>
+</map>

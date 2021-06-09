@@ -1,0 +1,4 @@
+<map id="t_client_io_global" name="t_client_io_global">
+<area shape="rect" id="node2" href="$structt__client__io.html" title="{t_client_io\n|+ client_id\l+ is_busy\l+ fd\l+ ctx_cid\l+ ctx_uid\l+ driver_info\l|}" alt="" coords="5,5,100,156"/>
+<area shape="rect" id="node3" href="$structt__shard__cqueue.html" title="{t_shard_cqueue\n|+ size\l+ count\l+ front\l+ rear\l+ ent\l|}" alt="" coords="125,13,239,149"/>
+</map>

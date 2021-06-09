@@ -1,0 +1,7 @@
+<map id="qo_termset_fprint" name="qo_termset_fprint">
+<area shape="rect" id="node2" href="$query__planner_8c.html#a1baf4f3185744d03beed321a3e292243" title="qo_join_fprint" alt="" coords="552,35,651,62"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#af80f7459a85be1d2bc14dff607d5f9b7" title="qo_plan_print_outer\l_join_terms" alt="" coords="369,28,504,69"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#a9c72f7a33ae344788956f05cb0fde0d2" title="qo_plan_print_sarged\l_terms" alt="" coords="176,86,321,128"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a02e6e087fe89ecb801ef6b2495106a41" title="qo_scan_fprint" alt="" coords="195,152,302,179"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#a29015bb5df44c033125028b2fe14cdfe" title="qo_plan_fprint" alt="" coords="385,94,488,120"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="la_disk_to_obj" name="la_disk_to_obj">
+<area shape="rect" id="node2" href="$log__applier_8c.html#aae222bafc8147044057c499295141b9b" title="la_apply_insert_log" alt="" coords="162,5,295,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a2d40a24d77f7d73ad8df508c20a5dbdb" title="la_apply_update_log" alt="" coords="159,56,299,83"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a7ba25f44bcecbaa522dd022fb722f0c5" title="la_apply_repl_log" alt="" coords="347,31,469,57"/>
+</map>

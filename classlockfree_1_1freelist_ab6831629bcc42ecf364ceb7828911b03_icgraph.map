@@ -1,0 +1,5 @@
+<map id="lockfree::freelist::pop_from_available" name="lockfree::freelist::pop_from_available">
+<area shape="rect" id="node2" href="$classlockfree_1_1freelist.html#a806d42cde415b3c618b703eff2560614" title="lockfree::freelist\l::claim" alt="" coords="196,39,311,80"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1freelist.html#af5a1aeac1b8815263e1f59094c51b13e" title="lockfree::freelist\l::claim" alt="" coords="370,5,485,47"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1hashmap.html#aa84d2f30a6f3bb4b2f541870bc5c198d" title="lockfree::hashmap::\lfreelist_claim" alt="" coords="359,71,496,112"/>
+</map>

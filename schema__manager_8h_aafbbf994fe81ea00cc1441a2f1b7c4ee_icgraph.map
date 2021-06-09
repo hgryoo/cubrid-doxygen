@@ -1,0 +1,6 @@
+<map id="classobj_put_foreign_key_ref" name="classobj_put_foreign_key_ref">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#a3ff533d629bcff4db58f79f702510735" title="allocate_foreign_key" alt="" coords="616,13,757,39"/>
+<area shape="rect" id="node4" href="$schema__manager_8c.html#ad976623d2bf1138f7d4da0acc8061e5d" title="update_fk_ref_partitioned\l_class" alt="" coords="195,35,363,76"/>
+<area shape="rect" id="node5" href="$schema__manager_8c.html#a4be58376ad46bd333b990118c0ed2507" title="update_foreign_key_ref" alt="" coords="411,42,568,69"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#ae4753271b1ad5f658307b6269fefd248" title="allocate_disk_structures\l_index" alt="" coords="805,5,968,47"/>
+</map>

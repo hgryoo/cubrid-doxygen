@@ -1,0 +1,7 @@
+<map id="logpb_read_page_from_active_log" name="logpb_read_page_from_active_log">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="216,56,384,83"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a44eb784dcaf09b76943d76ad06af5832" title="logpb_background_archiving" alt="" coords="207,107,393,133"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#a1008d09ffcc36774a25d9cd198a721ff" title="logpb_backup" alt="" coords="475,5,577,32"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a978997a75ba311ff9ab0e14bb43100e5" title="logpb_next_append_page" alt="" coords="441,56,611,83"/>
+<area shape="rect" id="node6" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="455,107,597,133"/>
+</map>

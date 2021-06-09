@@ -1,0 +1,5 @@
+<map id="qmgr_put_temp_file_into_list" name="qmgr_put_temp_file_into_list">
+<area shape="rect" id="node2" href="$query__manager_8h.html#a5de73a5fa215d2f58935a2a5015e555d" title="qmgr_free_list_temp_file" alt="" coords="189,5,353,32"/>
+<area shape="rect" id="node4" href="$query__manager_8h.html#ae0b3bb3c0bef77a1a8d2a67470c94896" title="qmgr_free_temp_file_list" alt="" coords="189,56,353,83"/>
+<area shape="rect" id="node3" href="$list__file_8h.html#a47aa19fae522f6b516600ed723eebe9e" title="qfile_destroy_list" alt="" coords="401,5,521,32"/>
+</map>

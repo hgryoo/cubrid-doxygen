@@ -1,0 +1,10 @@
+<map id="src/executables/master_heartbeat.h" name="src/executables/master_heartbeat.h">
+<area shape="rect" id="node2" href="$heartbeat_8h.html" title="heartbeat.h" alt="" coords="201,95,287,121"/>
+<area shape="rect" id="node7" href="$porting_8h.html" title="porting.h" alt="" coords="5,244,77,271"/>
+<area shape="rect" id="node9" href="$log__lsa_8hpp.html" title="log_lsa.hpp" alt="" coords="439,95,527,121"/>
+<area shape="rect" id="node13" href="$master__util_8h.html" title="master_util.h" alt="" coords="79,95,177,121"/>
+<area shape="rect" id="node14" href="$system__parameter_8h.html" title="system_parameter.h" alt="" coords="239,169,380,196"/>
+<area shape="rect" id="node3" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="87,169,215,196"/>
+<area shape="rect" id="node4" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="102,244,218,271"/>
+<area shape="rect" id="node6" href="$error__code_8h.html" title="error_code.h" alt="" coords="281,319,375,345"/>
+</map>

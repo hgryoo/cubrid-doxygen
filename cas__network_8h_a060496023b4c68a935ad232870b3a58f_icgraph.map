@@ -1,0 +1,15 @@
+<map id="init_msg_header" name="init_msg_header">
+<area shape="rect" id="node2" href="$cas_8c.html#a4eaa91102f9cdad93746d5f9a7c02707" title="cas_register_to_proxy" alt="" coords="171,5,321,32"/>
+<area shape="rect" id="node4" href="$cas_8c.html#a82a4271444049b1bd9184b82dcd506b4" title="process_request" alt="" coords="187,56,305,83"/>
+<area shape="rect" id="node6" href="$shard__proxy__io_8c.html#a04117538883bb09b76274553e18a11ca" title="proxy_init_net_buf" alt="" coords="182,329,310,356"/>
+<area shape="rect" id="node3" href="$cas_8c.html#ac8849983c74ee222d58f8f17b887755a" title="shard_cas_main" alt="" coords="401,5,518,32"/>
+<area shape="rect" id="node5" href="$cas_8c.html#a860d9ee786081f5655e997ed55d494e8" title="cas_main" alt="" coords="420,56,499,83"/>
+<area shape="rect" id="node7" href="$shard__proxy__io_8c.html#ab2a18373421faf2da6256915d84c6149" title="proxy_io_make_ex_get_int" alt="" coords="371,107,548,133"/>
+<area shape="rect" id="node8" href="$shard__proxy__io_8h.html#a3d800db0e38fc3cb7e4bd36965e2de28" title="proxy_io_make_error_msg" alt="" coords="372,157,547,184"/>
+<area shape="rect" id="node9" href="$shard__proxy__io_8h.html#a6043598e8bb6e16bf21d9edd1118c4f4" title="proxy_io_make_end_tran\l_request" alt="" coords="376,233,543,274"/>
+<area shape="rect" id="node10" href="$shard__proxy__io_8h.html#aad0eaac1b7afa167d56a2471913b1f61" title="proxy_io_make_close\l_req_handle_ok" alt="" coords="385,322,533,363"/>
+<area shape="rect" id="node11" href="$shard__proxy__io_8h.html#a966be8922a2ef25008744604e1c36d32" title="proxy_io_make_get_db\l_version" alt="" coords="381,387,537,429"/>
+<area shape="rect" id="node12" href="$shard__proxy__io_8h.html#a28417e298c58cb6b8c93e1b7b36e21ce" title="proxy_io_make_client\l_proxy_alive" alt="" coords="385,453,533,494"/>
+<area shape="rect" id="node13" href="$shard__proxy__io_8h.html#a7e660d466028cdb90401100c9482340a" title="proxy_io_make_shard_info" alt="" coords="371,519,548,545"/>
+<area shape="rect" id="node14" href="$shard__proxy__io_8h.html#a484386ce8c0a1a4b2bdcd837966171fa" title="proxy_io_make_check_cas" alt="" coords="369,569,549,596"/>
+</map>

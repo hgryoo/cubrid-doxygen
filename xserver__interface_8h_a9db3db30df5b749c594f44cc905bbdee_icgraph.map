@@ -1,0 +1,4 @@
+<map id="xboot_get_server_session_key" name="xboot_get_server_session_key">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#a7cce10b54f3fd06231384b44776b3007" title="ssession_find_or_create\l_session" alt="" coords="256,5,419,47"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="467,13,573,39"/>
+</map>

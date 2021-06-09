@@ -1,0 +1,21 @@
+<map id="locator_fetch_object" name="locator_fetch_object">
+<area shape="rect" id="node2" href="$cursor_8c.html#a543a90c437d8995ef9696114c7b04693" title="cursor_fetch_oids" alt="" coords="192,64,317,91"/>
+<area shape="rect" id="node5" href="$locator__cl_8h.html#a3f61445c1c1ed7a0b4327507a71ac023" title="locator_is_class" alt="" coords="197,452,313,479"/>
+<area shape="rect" id="node3" href="$cursor_8c.html#afdc7cfa5300ce00fad0801d87b5f6985" title="cursor_prefetch_column_oids" alt="" coords="365,5,557,32"/>
+<area shape="rect" id="node4" href="$cursor_8c.html#a6d2300dc0d8dde17195c46af1d93979a" title="cursor_prefetch_first\l_hidden_oid" alt="" coords="391,57,532,98"/>
+<area shape="rect" id="node6" href="$db__info_8c.html#a71fdffd0384654fa789d91a2c8fded62" title="db_is_class" alt="" coords="416,123,507,149"/>
+<area shape="rect" id="node7" href="$db__info_8c.html#a342224e1f2790ee272674ceb3b7de969" title="db_is_any_class" alt="" coords="402,173,521,200"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#a246f7677d6a8a717fab2853acbf82685" title="db_is_real_instance" alt="" coords="393,224,530,251"/>
+<area shape="rect" id="node9" href="$dbi__compat_8h.html#a4c0e956c7fd5f3b804107d65f799b5df" title="db_instance_equal" alt="" coords="605,313,736,340"/>
+<area shape="rect" id="node10" href="$dbi__compat_8h.html#a1f86ffc840bf6625dde39ec5330f7cf1" title="db_is_updatable_object" alt="" coords="382,325,541,352"/>
+<area shape="rect" id="node11" href="$dbi__compat_8h.html#a987601cd86ba3fc72e2a17188738c980" title="db_is_updatable_attribute" alt="" coords="376,376,547,403"/>
+<area shape="rect" id="node12" href="$object__accessor_8c.html#a8486c3a1ff8729d0497dcd8ff6e1de18" title="obj_set_att" alt="" coords="627,389,714,416"/>
+<area shape="rect" id="node13" href="$dbi__compat_8h.html#afa5f0326f7f174096671095a3fa22358" title="db_is_vclass" alt="" coords="412,477,511,504"/>
+<area shape="rect" id="node14" href="$compactdb__cl_8c.html#a3c96cc7b752912d6205b04479c0e0289" title="do_reclaim_class_addresses" alt="" coords="366,528,557,555"/>
+<area shape="rect" id="node15" href="$authenticate_8c.html#a36a9f9bf7e05bbf33f03c101747cc11c" title="fetch_class" alt="" coords="417,579,506,605"/>
+<area shape="rect" id="node16" href="$structclass__description.html#a061e86b25df4183c88c2916d295cd6f6" title="class_description::init" alt="" coords="387,629,535,656"/>
+<area shape="rect" id="node17" href="$object__accessor_8c.html#a3e28a846fceb645c544b71b20aa9558a" title="find_attribute" alt="" coords="413,680,510,707"/>
+<area shape="rect" id="node18" href="$object__accessor_8h.html#aaa8cae8867b174407608a9429ccdf99a" title="obj_locate_attribute" alt="" coords="394,731,529,757"/>
+<area shape="rect" id="node19" href="$object__accessor_8c.html#a534c75ee4f47e7062c08121cbff41d45" title="assign_set_value" alt="" coords="400,781,523,808"/>
+<area shape="rect" id="node20" href="$object__accessor_8c.html#ad16da27bf3e168141ae27a8e6f67f256" title="get_set_value" alt="" coords="410,832,513,859"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="vid_oid_to_object" name="vid_oid_to_object">
+<area shape="rect" id="node2" href="$cursor_8c.html#a327c17c554adf034de19a93504e3dff0" title="cursor_fixup_vobjs" alt="" coords="187,5,317,32"/>
+<area shape="rect" id="node5" href="$parser_8h.html#a97db81cc090f8335071ae769f1412574" title="pt_dbval_to_value" alt="" coords="189,56,315,83"/>
+<area shape="rect" id="node6" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="176,107,328,133"/>
+<area shape="rect" id="node3" href="$cursor_8c.html#a459d993177f7f7fc7b9d60b8b9c090d4" title="cursor_fixup_set_vobjs" alt="" coords="376,5,532,32"/>
+<area shape="rect" id="node4" href="$cursor_8c.html#a3a0a433ef25d4bd0dc22c95744d7b676" title="cursor_get_tuple_value\l_to_dbvalue" alt="" coords="376,57,532,98"/>
+</map>

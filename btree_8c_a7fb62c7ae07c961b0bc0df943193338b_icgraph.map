@@ -1,0 +1,11 @@
+<map id="btree_split_next_pivot" name="btree_split_next_pivot">
+<area shape="rect" id="node2" href="$btree_8c.html#a5af8ba4607057c98ad45f0d91b6f7160" title="btree_key_insert_new_key" alt="" coords="203,143,380,169"/>
+<area shape="rect" id="node9" href="$btree_8c.html#aaa267465ef3900c62ee720e7cd2000b6" title="btree_rv_record_modify\l_internal" alt="" coords="212,194,371,235"/>
+<area shape="rect" id="node10" href="$btree_8c.html#a777512037cd84eb5b53cc6492a81447f" title="btree_split_node" alt="" coords="233,260,350,287"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a55fc6982f1020bc221d9faf6cac59ad9" title="btree_key_insert_new\l_object" alt="" coords="635,9,784,50"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a138d6474a32b948d3bc2f23712620cb2" title="btree_key_lock_and\l_append_object_unique" alt="" coords="428,38,587,79"/>
+<area shape="rect" id="node5" href="$btree_8c.html#ad4120a97c500c3e5925d571c3baf09c1" title="btree_key_online_index\l_IB_insert" alt="" coords="428,103,587,145"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a0c69fa8afd6c6bad66e5f29a21e8b664" title="btree_key_online_index\l_tran_delete" alt="" coords="428,169,587,210"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a22870f850aa05a7db4d75ebf47f293de" title="btree_key_online_index\l_tran_insert" alt="" coords="428,234,587,275"/>
+<area shape="rect" id="node8" href="$btree_8c.html#a52840a60a1039d18a0a43d49b7411a9a" title="btree_key_online_index\l_tran_insert_DF" alt="" coords="428,299,587,341"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="xperfmon_server_copy_stats" name="xperfmon_server_copy_stats">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#ac98bd9876570ac033ef7286a353d3f3a" title="perfmon_server_copy\l_stats" alt="" coords="217,5,364,47"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8h.html#ac9811e7409f7f54a1e425de795dacee7" title="smnt_server_copy_stats" alt="" coords="208,71,373,98"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#ad3c75a325f799f083d9c4a74d45671e4" title="sqmgr_execute_query" alt="" coords="215,122,366,149"/>
+<area shape="rect" id="node4" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="421,97,528,123"/>
+</map>

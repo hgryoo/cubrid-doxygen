@@ -1,0 +1,5 @@
+<map id="perfmon_time_stat" name="perfmon_time_stat">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="184,39,315,80"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a7014e631a37bc9e0f7136303cbc78ae6" title="pgbuf_wakeup_page_flush\l_daemon" alt="" coords="363,5,539,47"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a06d2b0cbf44eb89ea6c4c9f068cf4344" title="pgbuf_get_page_flush\l_interval" alt="" coords="376,71,525,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rmutex_dump_statistics" name="rmutex_dump_statistics">
+<area shape="rect" id="node2" href="$critical__section_8h.html#ac7e9dfe45fd2766bc49bfede3bf967da" title="csect_name_at" alt="" coords="434,5,545,32"/>
+<area shape="rect" id="node3" href="$critical__section_8h.html#ac7a489f638cc5cfe42647e7652b3347e" title="sync_dump_statistics" alt="" coords="215,56,364,83"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a769af3de20659154bcccc1f577abe274" title="sthread_dump_cs_stat" alt="" coords="412,56,567,83"/>
+</map>

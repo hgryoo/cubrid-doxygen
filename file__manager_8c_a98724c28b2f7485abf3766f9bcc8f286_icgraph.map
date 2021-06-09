@@ -1,0 +1,10 @@
+<map id="file_get_tempcache_entry_index" name="file_get_tempcache_entry_index">
+<area shape="rect" id="node2" href="$file__manager_8h.html#a73b681fe41643f62b4b9d3bab13c549b" title="file_get_tran_num_temp\l_files" alt="" coords="188,64,349,105"/>
+<area shape="rect" id="node3" href="$file__manager_8h.html#a266493da17b6d1e9ec9c2494c86164a0" title="file_tempcache_drop\l_tran_temp_files" alt="" coords="421,5,563,47"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a5d2c4523160ba4b214316d0a1b83aecb" title="file_tempcache_pop\l_tran_file" alt="" coords="199,129,338,171"/>
+<area shape="rect" id="node8" href="$file__manager_8c.html#aa8a53c833d16d158741a659df13b2266" title="file_tempcache_push\l_tran_file" alt="" coords="196,205,341,247"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#a1799a28ad76ce5c876cfd920cf2573fa" title="logtb_descriptors_start_scan" alt="" coords="397,71,587,98"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#a1a30188f8cc913b7b98aa1ccc5bdefde" title="file_temp_retire_internal" alt="" coords="412,122,572,149"/>
+<area shape="rect" id="node7" href="$file__manager_8h.html#a1e8435c4aa4eab3f0553811b58021f59" title="file_temp_preserve" alt="" coords="426,173,558,199"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#a64196cd150853d3b210a8f55740f0839" title="file_create_temp_internal" alt="" coords="409,223,575,250"/>
+</map>

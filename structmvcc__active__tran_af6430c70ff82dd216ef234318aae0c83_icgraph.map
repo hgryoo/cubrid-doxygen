@@ -1,0 +1,8 @@
+<map id="mvcc_active_tran::initialize" name="mvcc_active_tran::initialize">
+<area shape="rect" id="node2" href="$classmvcctable.html#abb49acd267780e611121af87fcaf1431" title="mvcctable::build_mvcc_info" alt="" coords="233,5,417,32"/>
+<area shape="rect" id="node5" href="$structmvcc__snapshot.html#a735e7b405cd8e8e72a658302baf96d38" title="mvcc_snapshot::copy_to" alt="" coords="469,56,637,83"/>
+<area shape="rect" id="node6" href="$structmvcc__trans__status.html#abaca5e9dbf94501cf06a17e82cd30fcf" title="mvcc_trans_status::\linitialize" alt="" coords="255,107,396,149"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a593d152ad0c8b7c29828b31d49a2458c" title="logtb_get_mvcc_snapshot" alt="" coords="465,5,640,32"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a455bca38c3599344599944eed9ca49f4" title="heap_is_object_not_null" alt="" coords="688,31,849,57"/>
+<area shape="rect" id="node7" href="$classmvcctable.html#a89d9a0f06b1ebb64f6cd77ed849d8038" title="mvcctable::initialize" alt="" coords="484,115,621,141"/>
+</map>

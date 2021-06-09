@@ -1,0 +1,6 @@
+<map id="heap_page_set_vacuum_status_none" name="heap_page_set_vacuum_status_none">
+<area shape="rect" id="node2" href="$vacuum_8h.html#a3171e0413044eaee675846edbfb3a086" title="vacuum_heap_page" alt="" coords="232,31,371,57"/>
+<area shape="rect" id="node5" href="$vacuum_8h.html#ace71b7c043ac822741cf92955ee7a814" title="vacuum_rv_redo_vacuum\l_heap_page" alt="" coords="216,82,387,123"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a88cafd05abdb0910752e3eeeed9b1856" title="heap_vacuum_all_objects" alt="" coords="435,5,607,32"/>
+<area shape="rect" id="node4" href="$vacuum_8c.html#a0433dd74ad9a718b4c46f657536617f3" title="vacuum_heap" alt="" coords="469,56,572,83"/>
+</map>

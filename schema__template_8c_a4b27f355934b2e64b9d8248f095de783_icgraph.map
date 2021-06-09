@@ -1,0 +1,9 @@
+<map id="def_class_internal" name="def_class_internal">
+<area shape="rect" id="node2" href="$schema__template_8h.html#a246ac18cf8d738fc1915d80a2b09b83c" title="smt_def_class" alt="" coords="200,81,307,108"/>
+<area shape="rect" id="node6" href="$schema__template_8h.html#aa79e34704ce26dd5104666938b386a62" title="smt_def_typed_class" alt="" coords="180,157,327,184"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ac9f92fa6a5c28a01e0bdb4f8c4b0ec95" title="db_create_class" alt="" coords="413,5,530,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a7cc2c9c1ede5cebc791451f39cb9e675" title="dbt_create_class" alt="" coords="411,56,532,83"/>
+<area shape="rect" id="node5" href="$class__object_8h.html#a50dc37f5abd0f57a486f0becf02ade22" title="classobj_make_template_like" alt="" coords="375,107,568,133"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#a7b747a5d3af60a7d50eaad837d9acc47" title="dbt_create_vclass" alt="" coords="407,157,535,184"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#aae39b1feccfef8822105fb8e91a66307" title="db_create_vclass" alt="" coords="409,208,533,235"/>
+</map>

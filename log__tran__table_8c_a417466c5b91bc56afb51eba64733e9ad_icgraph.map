@@ -1,0 +1,4 @@
+<map id="logtb_check_kill_tran_auth" name="logtb_check_kill_tran_auth">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a6162cf50793bc050bab311ce4b8effa7" title="xlogtb_kill_or_interrupt_tran" alt="" coords="229,5,411,32"/>
+<area shape="rect" id="node3" href="$network__interface__sr_8h.html#ad3f52ec3a1ab7fd6082f917ec75a9e40" title="sthread_kill_or_interrupt_tran" alt="" coords="459,5,648,32"/>
+</map>

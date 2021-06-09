@@ -1,0 +1,6 @@
+<map id="connection_impl_s" name="connection_impl_s">
+<area shape="rect" id="node2" href="$structcci__object__pool__s.html" title="{cci_object_pool_s\n|+ err_buf\l|}" alt="" coords="187,711,314,788"/>
+<area shape="rect" id="node3" href="$structhash__table__s.html" title="{hash_table_s\n|+ bucket_sz\l+ hashf\l+ keyf\l+ comparef\l|}" alt="" coords="5,402,104,523"/>
+<area shape="rect" id="node4" href="$structapi__object__resultset__pool__s.html" title="{api_object_resultset\l_pool_s\n|+ get_object_resultset\l+ oid_delete\l+ oid_get_classname\l+ destroy\l+ glo_create\l+ glo_get_path_name\l+ glo_do_compaction\l+ glo_insert\l+ glo_delete\l+ glo_read\l+ glo_write\l+ glo_truncate\l+ glo_seek\l+ glo_tell\l+ glo_like_search\l+ glo_reg_search\l+ glo_bin_search\l+ glo_copy\l|}" alt="" coords="129,292,279,633"/>
+<area shape="rect" id="node5" href="$structbh__interface__s.html" title="{bh_interface_s\n|+ alloc_handle\l+ destroy_handle\l+ lookup\l+ bind_to_handle\l+ bind_get_parent\l+ bind_prune\l+ bind_graft\l+ bind_get_first_child\l+ bind_get_next_sibling\l+ bind_map\l+ destroy\l|}" alt="" coords="333,5,491,229"/>
+</map>

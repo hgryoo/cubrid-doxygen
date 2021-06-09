@@ -1,0 +1,6 @@
+<map id="opool_destroy" name="opool_destroy">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#a9f506c749a42c53c4bfcd4737b97a0e3" title="ci_create_connection_impl" alt="" coords="537,30,713,56"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#ad40d8680e80defc1196fc5fc1d3671e6" title="connection_impl_dtor" alt="" coords="156,30,301,56"/>
+<area shape="rect" id="node5" href="$cci__stub_8c.html#a932f66574162f8bb1bbed2db87096f0a" title="opool_create" alt="" coords="371,80,467,107"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#a4100e2c45598b061a4bd2a0c6c606849" title="init_connection_impl" alt="" coords="349,30,489,56"/>
+</map>

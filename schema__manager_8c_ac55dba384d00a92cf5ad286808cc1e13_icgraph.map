@@ -1,0 +1,6 @@
+<map id="sm_save_nested_view_versions" name="sm_save_nested_view_versions">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#a377cbc4f3e0978a261fdd2682c3624bd" title="sm_virtual_queries" alt="" coords="208,64,339,91"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#a5a6c9bacc8d25c691f54840c13c98467" title="mq_fetch_subqueries" alt="" coords="387,5,533,32"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#af1900d43029fe9713f1a36feb588bd69" title="mq_fetch_subqueries\l_for_update_local" alt="" coords="387,57,533,98"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#a88d6ff0ad20516faa5100141956e71b2" title="mq_fetch_attributes" alt="" coords="391,123,529,149"/>
+</map>

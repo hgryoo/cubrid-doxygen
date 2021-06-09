@@ -1,0 +1,4 @@
+<map id="tran_server_2pc_recovery_prepared" name="tran_server_2pc_recovery_prepared">
+<area shape="rect" id="node2" href="$transaction__cl_8h.html#a2d3405ad6245fa57bd5d3bd4a11fe0ff" title="tran_2pc_recovery_prepared" alt="" coords="225,13,412,39"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#ae911845804775453eabef5ab09f0611d" title="db_2pc_prepared_transactions" alt="" coords="460,13,659,39"/>
+</map>

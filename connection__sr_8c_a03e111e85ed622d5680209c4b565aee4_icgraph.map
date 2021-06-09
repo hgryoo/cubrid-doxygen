@@ -1,0 +1,14 @@
+<map id="css_retire_queue_entry" name="css_retire_queue_entry">
+<area shape="rect" id="node2" href="$connection__sr_8c.html#a76333ad6d01cad2e978ebc91c2be11e2" title="css_add_queue_entry" alt="" coords="211,379,361,406"/>
+<area shape="rect" id="node8" href="$connection__sr_8c.html#abda4e98c155e58dd34f4563d71aa6b3b" title="css_free_queue_entry" alt="" coords="211,227,361,254"/>
+<area shape="rect" id="node3" href="$connection__sr_8c.html#a51bdf96038b0665495e256c172bbb1fd" title="css_process_abort_packet" alt="" coords="417,303,596,330"/>
+<area shape="rect" id="node4" href="$connection__sr_8c.html#ad62d5782095a463fd07ddec7eb1a1727" title="css_queue_command_packet" alt="" coords="409,405,604,431"/>
+<area shape="rect" id="node5" href="$connection__sr_8c.html#acca77d961ddea1869c0f9c1b7058e8d6" title="css_queue_data_packet" alt="" coords="425,354,588,381"/>
+<area shape="rect" id="node6" href="$connection__sr_8c.html#a8e2cb0ace56a72fab004c6a849454250" title="css_queue_error_packet" alt="" coords="425,455,589,482"/>
+<area shape="rect" id="node7" href="$connection__sr_8c.html#a6dc8b79f63003b2df49182d7597a5fc8" title="css_queue_user_data\l_buffer" alt="" coords="432,507,581,548"/>
+<area shape="rect" id="node9" href="$connection__sr_8c.html#af259f61c9b0fe0c564b1752fe5021e19" title="css_remove_and_free\l_queue_entry" alt="" coords="431,5,582,47"/>
+<area shape="rect" id="node10" href="$connection__sr_8c.html#a7afcb6dfd693bad71fdecfca847046d3" title="css_remove_unexpected\l_packets" alt="" coords="423,71,590,112"/>
+<area shape="rect" id="node11" href="$connection__sr_8c.html#a4ae98ca7720529ffbc7f83697630ca18" title="css_return_queued_data\l_timeout" alt="" coords="425,136,589,177"/>
+<area shape="rect" id="node12" href="$connection__sr_8c.html#ad05c25b47445c78d07bbec8810db2016" title="css_return_queued_error" alt="" coords="424,202,589,229"/>
+<area shape="rect" id="node13" href="$connection__sr_8h.html#a272eaf66008b4f0bd5774d7bdba37073" title="css_return_queued_request" alt="" coords="415,253,598,279"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="envvar_localedatadir_file" name="envvar_localedatadir_file">
+<area shape="rect" id="node2" href="$uca__support_8c.html#a50a68c75fdcf4d65f669c9ecb2f976a0" title="init_uca_instance" alt="" coords="223,5,345,32"/>
+<area shape="rect" id="node4" href="$unicode__support_8c.html#a32f48944a4b2c9611637ac49e0a07242" title="load_unicode_data" alt="" coords="219,107,349,133"/>
+<area shape="rect" id="node5" href="$unicode__support_8h.html#a4ebce0e4ed7d8702c8fba823ae9adb30" title="unicode_process_alphabet" alt="" coords="411,56,587,83"/>
+<area shape="rect" id="node3" href="$uca__support_8h.html#a927d3f4d6d33ccd17bc594776dd1a181" title="uca_process_collation" alt="" coords="424,5,575,32"/>
+<area shape="rect" id="node6" href="$unicode__support_8h.html#a4d04d602f2e3064081d4f9b26483e3c3" title="unicode_process_normalization" alt="" coords="397,107,601,133"/>
+</map>

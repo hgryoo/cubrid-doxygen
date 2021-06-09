@@ -1,0 +1,8 @@
+<map id="db_get_system_parameters" name="db_get_system_parameters">
+<area shape="rect" id="node2" href="$csql_8c.html#ad52f6714d8b860d9e1747c69ebc993a4" title="csql_get_sys_param" alt="" coords="253,5,395,32"/>
+<area shape="rect" id="node4" href="$utility_8h.html#a222e056aeec93dc58810d9238d90d10e" title="statdump" alt="" coords="286,56,362,83"/>
+<area shape="rect" id="node5" href="$cas__execute_8h.html#ac78915e1b3aaad00dc639e634a821ee4" title="ux_get_default_setting" alt="" coords="460,132,613,159"/>
+<area shape="rect" id="node7" href="$cas__execute_8h.html#a0ae1c0910187ba3505b2e2dd1704e279" title="ux_get_system_parameter" alt="" coords="236,157,412,184"/>
+<area shape="rect" id="node3" href="$csql_8c.html#a32c8e33498e89a77423caa20a3e93be7" title="csql_do_session_cmd" alt="" coords="461,5,612,32"/>
+<area shape="rect" id="node6" href="$cas__execute_8h.html#a2bfc849a249d18d8e67ad6840558e742" title="ux_database_connect" alt="" coords="661,132,811,159"/>
+</map>

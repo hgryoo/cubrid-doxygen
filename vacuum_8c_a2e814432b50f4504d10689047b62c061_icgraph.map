@@ -1,0 +1,6 @@
+<map id="vacuum_process_log_record" name="vacuum_process_log_record">
+<area shape="rect" id="node2" href="$vacuum_8c.html#abe3b3bc34deeb8e2ae38fda3c9493fc6" title="vacuum_process_log\l_block" alt="" coords="199,5,345,47"/>
+<area shape="rect" id="node4" href="$vacuum_8c.html#a98dc5dfb2fca47a345da4f0f7c678554" title="vacuum_recover_lost\l_block_data" alt="" coords="199,71,345,112"/>
+<area shape="rect" id="node3" href="$classvacuum__worker__task.html#a891dbf778c07a5115965d8e87a8e0a95" title="vacuum_worker_task\l::execute" alt="" coords="399,5,546,47"/>
+<area shape="rect" id="node5" href="$vacuum_8h.html#a2cb21fa7816f2d0a4cf699cae9e7fd7b" title="vacuum_data_load_and\l_recover" alt="" coords="393,71,552,112"/>
+</map>

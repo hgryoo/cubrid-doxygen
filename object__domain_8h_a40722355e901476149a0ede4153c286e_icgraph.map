@@ -1,0 +1,17 @@
+<map id="tp_init" name="tp_init">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="528,405,667,432"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="128,124,257,151"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="125,296,260,323"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="336,175,467,217"/>
+<area shape="rect" id="node12" href="$utility_8h.html#afcca051358c81f7c4f159aa6859bcad2" title="patchdb" alt="" coords="563,481,631,508"/>
+<area shape="rect" id="node13" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="111,435,275,461"/>
+<area shape="rect" id="node15" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="117,359,268,385"/>
+<area shape="rect" id="node3" href="$db__admin_8c.html#acd0f03a64561e4bf469d557cd751a631" title="db_init" alt="" coords="715,405,775,432"/>
+<area shape="rect" id="node5" href="$db__stub_8c.html#a77bd95c7f71d0f419d0f69a3090c4836" title="conn_restart_client" alt="" coords="335,73,467,100"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a4f475937ff6abf40ab472a149d37ae11" title="db_restart" alt="" coords="361,124,441,151"/>
+<area shape="rect" id="node8" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="343,316,459,343"/>
+<area shape="rect" id="node10" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="330,367,473,393"/>
+<area shape="rect" id="node11" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="357,265,446,292"/>
+<area shape="rect" id="node14" href="$network__interface__cl_8h.html#ad5a0894d25fa1b98981a8cfceaa6ed33" title="boot_emergency_patch" alt="" coords="323,468,480,495"/>
+<area shape="rect" id="node16" href="$network__interface__cl_8h.html#af7fc2ae37e95cfeb4a29cd212b403f3d" title="boot_initialize_server" alt="" coords="329,417,473,444"/>
+</map>

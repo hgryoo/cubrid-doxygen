@@ -1,0 +1,7 @@
+<map id="destroy_mspace_internal" name="destroy_mspace_internal">
+<area shape="rect" id="node2" href="$lea__heap_8c.html#a5c08bd182f5648c6ec49cc561b30fb8d" title="hl_clear_lea_heap" alt="" coords="234,5,361,32"/>
+<area shape="rect" id="node4" href="$lea__heap_8c.html#a0f1cd273906d27f6a97bb36cb9ad12b4" title="hl_unregister_lea_heap" alt="" coords="220,56,375,83"/>
+<area shape="rect" id="node3" href="$memory__alloc_8h.html#a6c2cafbd5f58d25406266bad9c13d9b6" title="db_clear_private_heap" alt="" coords="442,5,594,32"/>
+<area shape="rect" id="node5" href="$memory__alloc_8h.html#a0022f15db6f4420cdcfdeba7882fa46f" title="db_destroy_private_heap" alt="" coords="435,56,601,83"/>
+<area shape="rect" id="node6" href="$quick__fit_8h.html#a9a59acc357a22daa34737250fc91ffd1" title="db_destroy_workspace_heap" alt="" coords="423,107,613,133"/>
+</map>

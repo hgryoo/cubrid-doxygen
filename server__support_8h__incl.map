@@ -1,0 +1,15 @@
+<map id="src/connection/server_support.h" name="src/connection/server_support.h">
+<area shape="rect" id="node2" href="$connection__defs_8h.html" title="connection_defs.h" alt="" coords="453,259,581,285"/>
+<area shape="rect" id="node11" href="$connection__sr_8h.html" title="connection_sr.h" alt="" coords="279,95,393,121"/>
+<area shape="rect" id="node15" href="$thread__entry_8hpp.html" title="thread_entry.hpp" alt="" coords="910,95,1029,121"/>
+<area shape="rect" id="node20" href="$thread__entry__task_8hpp.html" title="thread_entry_task.hpp" alt="" coords="1053,95,1203,121"/>
+<area shape="rect" id="node3" href="$boot_8h.html" title="boot.h" alt="" coords="512,333,571,360"/>
+<area shape="rect" id="node4" href="$porting_8h.html" title="porting.h" alt="" coords="700,408,772,435"/>
+<area shape="rect" id="node6" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="30,333,146,360"/>
+<area shape="rect" id="node8" href="$memory__alloc_8h.html" title="memory_alloc.h" alt="" coords="323,333,437,360"/>
+<area shape="rect" id="node9" href="$thread__compat_8hpp.html" title="thread_compat.hpp" alt="" coords="193,408,327,435"/>
+<area shape="rect" id="node12" href="$connection__support_8h.html" title="connection_support.h" alt="" coords="420,177,567,203"/>
+<area shape="rect" id="node13" href="$critical__section_8h.html" title="critical_section.h" alt="" coords="276,177,396,203"/>
+<area shape="rect" id="node16" href="$error__context_8hpp.html" title="error_context.hpp" alt="" coords="1249,177,1372,203"/>
+<area shape="rect" id="node17" href="$lockfree__transaction__def_8hpp.html" title="lockfree_transaction\l_def.hpp" alt="" coords="900,169,1039,211"/>
+</map>

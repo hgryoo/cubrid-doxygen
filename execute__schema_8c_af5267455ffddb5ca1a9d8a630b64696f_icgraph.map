@@ -1,0 +1,7 @@
+<map id="do_recreate_saved_indexes" name="do_recreate_saved_indexes">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a45757e20f94e61e441446ac8faa9dbda" title="do_redistribute_partitions_data" alt="" coords="237,54,436,80"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a3bff2a1d9326a77b64702da53220fa4d" title="do_alter_partitioning_post" alt="" coords="720,54,891,80"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a7bd66fee9b49cf349c1cf1375eafd6f0" title="do_remove_partition_post" alt="" coords="493,28,663,55"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a27cdef58d6b0ba9dad96ebfc24dd8720" title="do_coalesce_partition_post" alt="" coords="488,79,668,106"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#a01222261e7695803bebc1209fe887577" title="do_reorganize_partition_post" alt="" coords="484,130,672,156"/>
+</map>

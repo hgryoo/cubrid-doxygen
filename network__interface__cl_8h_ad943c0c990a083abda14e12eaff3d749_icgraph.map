@@ -1,0 +1,7 @@
+<map id="log_reset_isolation" name="log_reset_isolation">
+<area shape="rect" id="node2" href="$transaction__cl_8h.html#afde8cd66e1c6aedce52af70ec4da070a" title="tran_reset_isolation" alt="" coords="184,81,319,108"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#ae94687281a0974e2a2fb0c34a20c0f34" title="ci_conn_set_option_impl" alt="" coords="367,5,532,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#ac621679f09392a8fc946e43c15b45a4d" title="db_set_isolation" alt="" coords="391,56,507,83"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#adc0fb0803f8c57ce11f25db35f37dd9e" title="do_set_xaction" alt="" coords="394,107,505,133"/>
+<area shape="rect" id="node6" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="385,157,514,184"/>
+</map>

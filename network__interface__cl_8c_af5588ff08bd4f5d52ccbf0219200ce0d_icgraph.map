@@ -1,0 +1,10 @@
+<map id="qmgr_execute_query" name="qmgr_execute_query">
+<area shape="rect" id="node2" href="$query__cl_8h.html#ab778ee35e2c7018fc30ac7f98b886669" title="execute_query" alt="" coords="196,173,303,199"/>
+<area shape="rect" id="node3" href="$tz__compile_8c.html#a42f887cbeff90bb6259a8a76b968da6c" title="tzc_compute_timezone\l_checksum" alt="" coords="351,5,508,47"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#afe56199df5cbc88a2f7aef1dc0cb0bdc" title="do_execute_update" alt="" coords="362,71,497,98"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a8340db60b99d2305e581a997044657ee" title="do_execute_delete" alt="" coords="364,122,495,149"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a50ddf81e4f4f001d75513104cec3607e" title="do_execute_insert" alt="" coords="365,173,493,199"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#aeb0727e2943818bb2f6be2e9c6bce087" title="do_execute_session\l_statement" alt="" coords="359,224,500,265"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#acbd760c1942dbf1e164bde9ee1c473c9" title="do_execute_select" alt="" coords="364,290,495,317"/>
+<area shape="rect" id="node9" href="$execute__statement_8h.html#af259588ebb962b880ecb05ae0b82c5e9" title="do_execute_merge" alt="" coords="363,341,495,367"/>
+</map>

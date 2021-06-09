@@ -1,0 +1,7 @@
+<map id="cubthread::manager::alloc_entries" name="cubthread::manager::alloc_entries">
+<area shape="rect" id="node2" href="$namespacecubthread.html#a896437648b59558b4995ee8898888a82" title="cubthread::initialize\l_thread_entries" alt="" coords="191,74,325,115"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="388,5,523,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a6dc8b536b7d535d54c1471a87b76f2c2" title="xboot_delete" alt="" coords="407,56,503,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="373,107,537,133"/>
+<area shape="rect" id="node6" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="380,157,531,184"/>
+</map>

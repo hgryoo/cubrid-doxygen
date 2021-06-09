@@ -1,0 +1,7 @@
+<map id="do_promote_partition" name="do_promote_partition">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a8f5b820167cb22e7617a62284be30225" title="do_coalesce_partition_pre" alt="" coords="196,5,369,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a8e147b1c9c62bacd86a2e942ac0abc27" title="do_promote_partition\l_by_name" alt="" coords="211,57,354,98"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#aedeb2a4d7196782cc611f23eb45aa388" title="do_promote_partition_list" alt="" coords="199,123,366,149"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#aa1b56381a1544bece439484fdf2e904a" title="do_remove_partition_pre" alt="" coords="201,173,365,200"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a3d065088ea9aebd736b48d0427c4c604" title="do_alter_partitioning_pre" alt="" coords="417,123,580,149"/>
+</map>

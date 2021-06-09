@@ -1,0 +1,6 @@
+<map id="partition_cache_entry" name="partition_cache_entry">
+<area shape="rect" id="node2" href="$structor__partition.html" title="{or_partition\n|+ partition_type\l+ rep_id\l|}" alt="" coords="123,204,235,296"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,20,97,127"/>
+<area shape="rect" id="node4" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="145,35,211,112"/>
+<area shape="rect" id="node5" href="$structdb__set.html" title="{db_set\n|+ disk_set\l+ attribute\l+ ref_count\l+ disk_size\l+ need_clear\l|}" alt="" coords="235,5,332,141"/>
+</map>

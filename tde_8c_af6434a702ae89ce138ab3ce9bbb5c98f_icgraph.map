@@ -1,0 +1,6 @@
+<map id="tde_dk_nonce" name="tde_dk_nonce">
+<area shape="rect" id="node2" href="$tde_8c.html#a77ebb5c6c2d484a3f33f667512c46aa6" title="tde_decrypt_dk" alt="" coords="156,5,267,32"/>
+<area shape="rect" id="node4" href="$tde_8c.html#a887593334e966ad1a4bc461c9ab732c7" title="tde_encrypt_dk" alt="" coords="156,56,267,83"/>
+<area shape="rect" id="node3" href="$tde_8c.html#a22f425b541567c575faaf51452fe503c" title="tde_load_dks" alt="" coords="339,5,437,32"/>
+<area shape="rect" id="node5" href="$tde_8c.html#adccc1dad9dc108e689b5be849145cc6e" title="tde_generate_keyinfo" alt="" coords="315,56,461,83"/>
+</map>

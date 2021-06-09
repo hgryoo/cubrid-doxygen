@@ -1,0 +1,9 @@
+<map id="lob_locator_key" name="lob_locator_key">
+<area shape="rect" id="node2" href="$lob__locator_8hpp.html#a9464e787d373a91320c3535b10670021" title="lob_locator_is_valid" alt="" coords="172,104,308,131"/>
+<area shape="rect" id="node3" href="$transaction__transient_8hpp.html#aa3c2ef0d11d1d8545e613be8596d8eb7" title="xtx_add_lob_locator" alt="" coords="363,5,502,32"/>
+<area shape="rect" id="node4" href="$transaction__transient_8hpp.html#a0a94a818467df511e3ba1643ee4dc08a" title="xtx_find_lob_locator" alt="" coords="363,59,502,85"/>
+<area shape="rect" id="node5" href="$transaction__transient_8hpp.html#a93cd9a48b34f765ecc98df18a611f2a6" title="xtx_change_state_of\l_locator" alt="" coords="361,114,504,155"/>
+<area shape="rect" id="node6" href="$transaction__transient_8hpp.html#a9b297b9a60e21e71717b9197cf4c9937" title="xtx_drop_lob_locator" alt="" coords="361,188,504,215"/>
+<area shape="rect" id="node8" href="$transaction__transient_8cpp.html#a7dd6c857ac669356f8002f4ee74bf087" title="lob_locator_put_meta" alt="" coords="167,256,313,283"/>
+<area shape="rect" id="node7" href="$transaction__transient_8hpp.html#a4b245c24099b14761db5dc475bc45754" title="tx_lob_locator_clear" alt="" coords="363,247,502,273"/>
+</map>

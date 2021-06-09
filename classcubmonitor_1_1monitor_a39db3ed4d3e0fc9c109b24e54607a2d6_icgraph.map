@@ -1,0 +1,5 @@
+<map id="cubmonitor::monitor::register_statistics" name="cubmonitor::monitor::register_statistics">
+<area shape="rect" id="node2" href="$classcubmonitor_1_1monitor.html#ae3f9d8fbd2346c50d5f0e593a814c8a9" title="cubmonitor::monitor\l::register_statistics" alt="" coords="203,5,341,47"/>
+<area shape="rect" id="node3" href="$classcubmonitor_1_1counter__timer__statistic.html#a8332401c45dfab3933c58e8f80cb70a0" title="cubmonitor::counter\l_timer_statistic::register\l_to_monitor" alt="" coords="191,70,353,126"/>
+<area shape="rect" id="node4" href="$classcubmonitor_1_1counter__timer__max__statistic.html#a365d6d0e72aa11214d11e07d938d8cef" title="cubmonitor::counter\l_timer_max_statistic\l::register_to_monitor" alt="" coords="201,150,343,206"/>
+</map>

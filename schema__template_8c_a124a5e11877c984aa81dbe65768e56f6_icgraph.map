@@ -1,0 +1,9 @@
+<map id="check_namespace" name="check_namespace">
+<area shape="rect" id="node2" href="$schema__template_8h.html#ae371b46c5129829a71ebc198c1e0d45c" title="smt_add_attribute_any" alt="" coords="184,64,339,91"/>
+<area shape="rect" id="node6" href="$schema__template_8h.html#ad9a0819ace26cf9caf076ce1a3f16631" title="smt_add_method_any" alt="" coords="186,115,337,141"/>
+<area shape="rect" id="node7" href="$schema__template_8c.html#a8d2b08109613a72ee33af9e1198e6a71" title="smt_change_attribute" alt="" coords="188,165,335,192"/>
+<area shape="rect" id="node8" href="$schema__template_8h.html#ab51f553d1e53355523d765c1ea2e0ad4" title="smt_rename_any" alt="" coords="200,216,323,243"/>
+<area shape="rect" id="node3" href="$db__class_8c.html#a1b54410ee48b0433ee25364819e2c10e" title="db_add_attribute_internal" alt="" coords="387,5,553,32"/>
+<area shape="rect" id="node4" href="$schema__template_8h.html#a4c7751918606b2b196556812323f9028" title="smt_add_attribute_w\l_dflt_w_order" alt="" coords="399,57,541,98"/>
+<area shape="rect" id="node5" href="$schema__template_8h.html#ab5727173323d93c8bb90ab3ee7e56805" title="smt_add_attribute" alt="" coords="407,123,533,149"/>
+</map>

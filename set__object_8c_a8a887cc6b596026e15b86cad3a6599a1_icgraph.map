@@ -1,0 +1,21 @@
+<map id="free_set_reference" name="free_set_reference">
+<area shape="rect" id="node2" href="$set__object_8h.html#a8097954f4c5d89fd6ff7f303aff0e9b1" title="set_free" alt="" coords="184,465,253,492"/>
+<area shape="rect" id="node3" href="$object__representation__sr_8h.html#ae9a01092c9a4e7275aa37d35349ce8fb" title="or_get_constraint_comment" alt="" coords="301,5,484,32"/>
+<area shape="rect" id="node4" href="$db__set__function_8h.html#a8b8b5d4dfc81d5f6abe05c0c942ab328" title="db_set_free" alt="" coords="347,56,438,83"/>
+<area shape="rect" id="node5" href="$db__set__function_8h.html#a61ee717382f7ca41aef1be38714dd01b" title="db_seq_free" alt="" coords="346,107,439,133"/>
+<area shape="rect" id="node6" href="$db__set__function_8h.html#a279f880470c9d625e3ae6ec5184926b8" title="db_col_free" alt="" coords="348,157,437,184"/>
+<area shape="rect" id="node7" href="$jsp__cl_8c.html#a492fc77e32ed00bc045be5703c4aba55" title="jsp_add_stored_procedure" alt="" coords="305,208,480,235"/>
+<area shape="rect" id="node8" href="$jsp__cl_8c.html#ae61781c4c90beb2039aa322e9c1c810a" title="jsp_unpack_set_value" alt="" coords="317,259,468,285"/>
+<area shape="rect" id="node9" href="$classcubload_1_1server__object__loader.html#a9cfaba458edb0cc2567713869a66fa08" title="cubload::server_object\l_loader::process_collection\l_constant" alt="" coords="303,309,483,365"/>
+<area shape="rect" id="node10" href="$authenticate_8c.html#a6d6d63b0e417da4f892561898c64893c" title="au_make_user" alt="" coords="548,440,655,467"/>
+<area shape="rect" id="node11" href="$authenticate_8h.html#abf5a1e3cd4160a51bc6acd4abff51bb6" title="au_add_user" alt="" coords="933,465,1029,492"/>
+<area shape="rect" id="node12" href="$authenticate_8h.html#aa039fd934cbe1b55cd8b9a9042a280d5" title="au_is_dba_group_member" alt="" coords="305,693,480,720"/>
+<area shape="rect" id="node13" href="$authenticate_8h.html#a432ae2e4cbf4a4657fc1165dd0f553a7" title="au_drop_user" alt="" coords="551,592,651,619"/>
+<area shape="rect" id="node14" href="$authenticate_8c.html#adf983ab6951322d3850ce69b0f114b15" title="update_cache" alt="" coords="751,795,853,821"/>
+<area shape="rect" id="node15" href="$authenticate_8c.html#a9fac41a8452d6f3a08f30fb13ad96f2b" title="au_add_direct_groups" alt="" coords="318,592,467,619"/>
+<area shape="rect" id="node16" href="$authenticate_8c.html#aaf9859e56ac7f259cde7f167e1e0a609" title="au_compute_groups" alt="" coords="532,541,671,568"/>
+<area shape="rect" id="node17" href="$authenticate_8c.html#ada79c42256625eef01008fd31cd7a5b3" title="au_add_member_internal" alt="" coords="719,491,885,517"/>
+<area shape="rect" id="node18" href="$authenticate_8h.html#aa0c24965d6f0630211fb1e4e1f6769d2" title="au_drop_member" alt="" coords="741,567,863,593"/>
+<area shape="rect" id="node19" href="$authenticate_8c.html#aa6d4e0780e283109d66ee48da074b8fd" title="get_grants" alt="" coords="351,896,434,923"/>
+<area shape="rect" id="node20" href="$authenticate_8c.html#ac907859e0a3e5642822e5c89296bd253" title="apply_grants" alt="" coords="553,845,649,872"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="regu_init" name="regu_init">
+<area shape="rect" id="node2" href="$xasl__regu__alloc_8hpp.html#afd2bc317ff3b88608e1d6c3e83080700" title="regu_init" alt="" coords="162,5,233,32"/>
+<area shape="rect" id="node3" href="$xasl__regu__alloc_8cpp.html#abe0c6bfb5d74dabdf888ca09a3058f80" title="regu_spec_target_init" alt="" coords="124,56,271,83"/>
+<area shape="rect" id="node4" href="$xasl__regu__alloc_8hpp.html#ae1ead76277f8b0cc3e725fc41f3b3e26" title="regu_spec_alloc" alt="" coords="319,56,435,83"/>
+</map>

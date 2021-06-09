@@ -1,0 +1,12 @@
+<map id="pgbuf_is_exist_blocked_reader_writer" name="pgbuf_is_exist_blocked_reader_writer">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#ae34010cdbe6c21069d1fe140de1084b1" title="pgbuf_has_any_waiters" alt="" coords="219,111,378,138"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a1ad3b117720feb9f4798b6bc79cd3023" title="pgbuf_latch_bcb_upon_fix" alt="" coords="212,202,385,229"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="215,275,382,316"/>
+<area shape="rect" id="node3" href="$structbtree__insert__list.html#acfbd07c031722706b42c7021fee02e0e" title="btree_insert_list::\lcheck_release_latch" alt="" coords="442,5,583,47"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#a9077f8b7bf790bf8861e1ebbe0c74ff2" title="file_header_sanity\l_check" alt="" coords="449,71,576,112"/>
+<area shape="rect" id="node5" href="$heap__file_8h.html#a28f6fc3308f6b6f0fb71222f8f5aa1a8" title="heap_remove_page_on\l_vacuum" alt="" coords="435,136,591,177"/>
+<area shape="rect" id="node7" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="454,202,571,229"/>
+<area shape="rect" id="node9" href="$page__buffer_8h.html#afde1751ceb069fe468ffa1b51283033f" title="pgbuf_unfix_debug" alt="" coords="447,253,578,279"/>
+<area shape="rect" id="node10" href="$page__buffer_8h.html#acb30faadf59202892e5dd7a8afcde82e" title="pgbuf_invalidate_debug" alt="" coords="433,303,592,330"/>
+<area shape="rect" id="node11" href="$page__buffer_8h.html#ab1daac3aca23e828c958d851d0b535b6" title="pgbuf_dealloc_page" alt="" coords="444,354,581,381"/>
+</map>

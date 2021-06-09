@@ -1,0 +1,9 @@
+<map id="db_get_superclasses" name="db_get_superclasses">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="228,5,369,47"/>
+<area shape="rect" id="node4" href="$unload__schema_8c.html#a2e569cdeeede5e7891cf625bd2f6fad1" title="emit_superclasses" alt="" coords="233,71,364,98"/>
+<area shape="rect" id="node5" href="$unload__schema_8c.html#ab4ef3f2171a48db4936a846c7f100534" title="has_dependencies" alt="" coords="233,122,364,149"/>
+<area shape="rect" id="node6" href="$semantic__check_8c.html#a74be8f892e6e90ed5692941e03bf1843" title="pt_check_alter" alt="" coords="245,173,352,199"/>
+<area shape="rect" id="node7" href="$cas__execute_8c.html#ac9fd90b5a9617b8844606ead2a23be01" title="sch_superclass" alt="" coords="242,223,355,250"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#a33cdf5d05999593bc49ec9d84581ef12" title="sm_get_descriptor_component" alt="" coords="199,274,399,301"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a6544008aa1b341b93a0f8f80361f982f" title="do_alter" alt="" coords="447,13,515,39"/>
+</map>

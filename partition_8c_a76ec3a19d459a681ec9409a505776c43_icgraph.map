@@ -1,0 +1,5 @@
+<map id="partition_match_pred_expr" name="partition_match_pred_expr">
+<area shape="rect" id="node2" href="$partition_8c.html#a553bec26bf481c6b3a0590f25a404b51" title="partition_prune_heap_scan" alt="" coords="229,5,407,32"/>
+<area shape="rect" id="node4" href="$partition_8c.html#a0f5875d7be9c8f82a9d6d8466ff4559a" title="partition_prune_index_scan" alt="" coords="228,56,408,83"/>
+<area shape="rect" id="node3" href="$partition__sr_8h.html#a0482c972f8f45183a5004af78aa62c43" title="partition_prune_spec" alt="" coords="456,31,599,57"/>
+</map>

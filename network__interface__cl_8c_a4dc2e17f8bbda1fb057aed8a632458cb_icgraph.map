@@ -1,0 +1,8 @@
+<map id="qmgr_end_query" name="qmgr_end_query">
+<area shape="rect" id="node2" href="$db__query_8h.html#ad5fd949252335e3d2fb697de954df224" title="db_query_end_internal" alt="" coords="172,58,324,85"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#af259588ebb962b880ecb05ae0b82c5e9" title="do_execute_merge" alt="" coords="380,134,512,161"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a661feaacf0e01e3f0f72364db8648b7a" title="do_merge" alt="" coords="407,197,485,223"/>
+<area shape="rect" id="node7" href="$query__result_8c.html#aeaf1f06e7d34795605897c615c65dd27" title="pt_end_query" alt="" coords="198,159,298,186"/>
+<area shape="rect" id="node3" href="$db__query_8h.html#a9dbd5c8456837711ceea4f233543f99a" title="db_clear_client_query\l_result" alt="" coords="372,5,520,47"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a970de5fbc3e3f278f3f5e0f211cbf950" title="db_query_end" alt="" coords="395,71,497,98"/>
+</map>

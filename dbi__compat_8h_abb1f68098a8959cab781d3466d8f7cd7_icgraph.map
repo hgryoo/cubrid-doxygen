@@ -1,0 +1,11 @@
+<map id="db_string_free" name="db_string_free">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a8d753785735f3c84472ddbc0ff23aacd" title="au_login_method" alt="" coords="193,5,313,32"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#af93fef82828c8a60e6c4ca86d41e3391" title="db_get_user_and_host_name" alt="" coords="157,107,349,133"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="397,56,577,83"/>
+<area shape="rect" id="node6" href="$xasl__generation_8h.html#afe16617c99177ca7cb6d411d9e5e5713" title="pt_to_regu_variable" alt="" coords="420,181,555,208"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#a7678026f301f44b98212d64a0ce6ea1e" title="do_replicate_statement" alt="" coords="175,208,332,235"/>
+<area shape="rect" id="node8" href="$cas__execute_8c.html#acac59ef04e3708dfe197d92e9d809a00" title="fetch_trigger" alt="" coords="206,259,301,285"/>
+<area shape="rect" id="node9" href="$parser__support_8c.html#ab19117ddcef176d9c8b6e55c43329338" title="pt_make_query_show\l_grants_curr_usr" alt="" coords="179,310,328,351"/>
+<area shape="rect" id="node10" href="$parser__support_8c.html#abf59e2eb70e3d09695e2fc44988dba89" title="pt_make_query_show\l_table" alt="" coords="179,375,328,417"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a808d1caf2a1fe3f468169c9e18fdafcd" title="do_evaluate_default_expr" alt="" coords="402,107,573,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cubmonitor::timer::time" name="cubmonitor::timer::time">
+<area shape="rect" id="node2" href="$classcubmonitor_1_1timer__statistic.html#aab13c429586f9afd64d1849a483a165c" title="cubmonitor::timer_statistic\l::time" alt="" coords="209,5,385,47"/>
+<area shape="rect" id="node3" href="$classcubmonitor_1_1counter__timer__statistic.html#a9d991d39311bf24395c8c08423d5a81f" title="cubmonitor::counter\l_timer_statistic::time\l_and_increment" alt="" coords="225,70,369,126"/>
+<area shape="rect" id="node4" href="$classcubmonitor_1_1counter__timer__max__statistic.html#a3ff0527c980ebef2386cebc144b38ee3" title="cubmonitor::counter\l_timer_max_statistic\l::time_and_increment" alt="" coords="224,150,371,206"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="pt_preset_hostvar" name="pt_preset_hostvar">
+<area shape="rect" id="node2" href="$semantic__check_8c.html#afab59b9d3dce837b4c095111e8506c88" title="pt_assignment_compatible" alt="" coords="180,5,357,32"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#a0b41b5283b79bb91b659d9514c25f695" title="pt_coerce_expression\l_argument" alt="" coords="415,259,565,301"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#ab884820cff2ec0f4c1ef6714f52552da" title="pt_coerce_range_expr\l_arguments" alt="" coords="623,201,773,242"/>
+<area shape="rect" id="node6" href="$type__checking_8c.html#a9e8ecf7badfa6534b66e5521881e1cc6" title="pt_eval_expr_type" alt="" coords="634,267,762,293"/>
+<area shape="rect" id="node7" href="$type__checking_8c.html#a879cd4c54983ed40dbb61bf2c70020e8" title="pt_eval_type" alt="" coords="821,161,917,188"/>
+<area shape="rect" id="node8" href="$type__checking_8c.html#a30d8dc5e4502a39fb1256fad39feb723" title="pt_coerce_node_collation" alt="" coords="405,157,575,184"/>
+<area shape="rect" id="node9" href="$type__checking_8c.html#af58cc800956f04b249dec5b69bdd86ba" title="pt_wrap_collection\l_with_cast_op" alt="" coords="203,209,334,250"/>
+<area shape="rect" id="node3" href="$semantic__check_8c.html#a72fab3ec678b321a3b20f3c8d035c43b" title="pt_coerce_insert_values" alt="" coords="409,5,571,32"/>
+</map>

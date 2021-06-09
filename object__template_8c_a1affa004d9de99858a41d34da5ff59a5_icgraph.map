@@ -1,0 +1,10 @@
+<map id="obt_assign" name="obt_assign">
+<area shape="rect" id="node2" href="$object__accessor_8h.html#a2a001a3bd5f060004b9a1e9d9bbc4308" title="obj_copy" alt="" coords="151,5,226,32"/>
+<area shape="rect" id="node4" href="$object__accessor_8c.html#a8486c3a1ff8729d0497dcd8ff6e1de18" title="obj_set_att" alt="" coords="287,81,373,108"/>
+<area shape="rect" id="node7" href="$object__accessor_8c.html#a2621691538f566e1fa8783b4867cd50e" title="obj_set_temp" alt="" coords="139,107,239,133"/>
+<area shape="rect" id="node8" href="$object__template_8h.html#a5394f1475d86e60678dbd085de589b9d" title="obt_desc_set" alt="" coords="139,157,239,184"/>
+<area shape="rect" id="node9" href="$object__template_8h.html#a44c39456dfd1bc4b582b1d0a58eae46a" title="obt_set" alt="" coords="156,208,221,235"/>
+<area shape="rect" id="node3" href="$db__obj_8c.html#a806c96261ae77770ad41884738290e63" title="db_copy" alt="" coords="295,5,365,32"/>
+<area shape="rect" id="node5" href="$object__accessor_8h.html#a1fc61e2723039d461cabb226b3d30f8b" title="obj_desc_set" alt="" coords="421,31,520,57"/>
+<area shape="rect" id="node6" href="$object__accessor_8h.html#a07ea08947760684e9c389428399710d7" title="obj_set" alt="" coords="439,81,503,108"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mht_clear_hls" name="mht_clear_hls">
+<area shape="rect" id="node2" href="$scan__manager_8h.html#aed4849a437d23cf0913900740556009d" title="scan_close_scan" alt="" coords="156,105,279,132"/>
+<area shape="rect" id="node3" href="$query__executor_8h.html#a8ffca36cae36a3f9c8c3c2c3f79be082" title="qexec_clear_xasl" alt="" coords="349,29,471,56"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a877b2f4b4f062728c8613bc380cdd24b" title="qexec_close_scan" alt="" coords="345,80,475,107"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#aabe6a73176c447365adf5a71e0db3d0a" title="qexec_init_next_partition" alt="" coords="327,131,493,157"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#aae780f3598f8e002d08caef216a1c5b4" title="qexec_merge_fnc" alt="" coords="347,181,473,208"/>
+</map>

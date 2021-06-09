@@ -1,0 +1,21 @@
+<map id="copy_node_in_tree_post" name="copy_node_in_tree_post">
+<area shape="rect" id="node2" href="$parser_8h.html#a77273ce6dc7a80560d4d422c1abb408e" title="parser_copy_tree" alt="" coords="228,458,351,485"/>
+<area shape="rect" id="node20" href="$parser_8h.html#ad727a01544aa594d914ef73b20c13532" title="parser_copy_tree_list" alt="" coords="216,152,363,178"/>
+<area shape="rect" id="node3" href="$plan__generation_8c.html#ac98411fbf68dfadfa1170cd4e6664586" title="qo_get_orderby_num\l_upper_bound_node" alt="" coords="433,539,575,580"/>
+<area shape="rect" id="node4" href="$query__rewrite_8c.html#a4b3aa0a9cadb50ab555a45756db384cd" title="qo_analyze_path_join" alt="" coords="431,101,577,128"/>
+<area shape="rect" id="node5" href="$query__rewrite_8c.html#ab28434291993ca1147d946016065cc3b" title="qo_convert_attref_to\l_dotexpr" alt="" coords="433,940,575,982"/>
+<area shape="rect" id="node6" href="$query__rewrite_8c.html#a869ac073bd571afc6fe21d747d61a4af" title="qo_construct_new_set" alt="" coords="427,269,581,296"/>
+<area shape="rect" id="node7" href="$query__rewrite_8c.html#a5942bcf0f0ae8ddbf44e66a9a4aa11eb" title="qo_make_new_derived\l_tblspec" alt="" coords="645,287,800,328"/>
+<area shape="rect" id="node8" href="$query__rewrite_8c.html#a6027a3cf4879608071864a8ef87ff41d" title="qo_reduce_equality\l_terms" alt="" coords="437,203,571,244"/>
+<area shape="rect" id="node9" href="$query__rewrite_8c.html#ac53f035d8d64ef338a487b330b75b2a9" title="qo_converse_sarg_terms" alt="" coords="420,370,588,397"/>
+<area shape="rect" id="node10" href="$query__rewrite_8c.html#a1ef2baaede475042ff63d8e57beb774c" title="qo_find_like_rewrite\l_bound" alt="" coords="435,422,573,463"/>
+<area shape="rect" id="node11" href="$query__rewrite_8c.html#ade33e8278ebc3651fe8f8909cd9d2f73" title="qo_allocate_like_bound\l_for_index_scan" alt="" coords="425,604,583,646"/>
+<area shape="rect" id="node12" href="$query__rewrite_8c.html#a9202e0e2783502022cdadc8c342cee89" title="qo_rewrite_like_for\l_index_scan" alt="" coords="657,604,788,646"/>
+<area shape="rect" id="node13" href="$query__rewrite_8c.html#a261526ec54b16b28684b0a8ec24b0a52" title="qo_set_value_to_range_list" alt="" coords="414,488,594,514"/>
+<area shape="rect" id="node14" href="$query__rewrite_8c.html#a58bb73bff6b823a98a05a9fdde2fe240" title="qo_merge_range_helper" alt="" coords="424,670,584,697"/>
+<area shape="rect" id="node15" href="$query__rewrite_8c.html#a2110baeeac92f0fe64f8f84e9171ff42" title="qo_apply_range_intersection\l_helper" alt="" coords="411,722,597,763"/>
+<area shape="rect" id="node16" href="$query__rewrite_8c.html#a6acea409aa77cb06ff4827194018546b" title="qo_rewrite_subqueries" alt="" coords="428,788,580,814"/>
+<area shape="rect" id="node17" href="$cnf_8c.html#a0bad4b714bedcc9db50bd540c0b008d2" title="pt_negate_expr" alt="" coords="449,838,559,865"/>
+<area shape="rect" id="node18" href="$cnf_8c.html#a2e5307627aec3a0f89d91469a5ac093d" title="pt_transform_cnf_post" alt="" coords="428,50,580,77"/>
+<area shape="rect" id="node19" href="$parser_8h.html#af6d48eb6f1781fa254ccc2025cd97bc1" title="pt_spec_to_oid_attr" alt="" coords="436,152,572,178"/>
+</map>

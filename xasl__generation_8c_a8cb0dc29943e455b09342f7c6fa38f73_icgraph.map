@@ -1,0 +1,7 @@
+<map id="pt_to_pred_with_context" name="pt_to_pred_with_context">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a9e1478dcb49772944e0d926957d48005" title="create_or_drop_index\l_helper" alt="" coords="217,64,364,105"/>
+<area shape="rect" id="node6" href="$execute__schema_8h.html#a95d828b7c2320f57428a11f91e61134f" title="do_recreate_filter\l_index_constr" alt="" coords="229,129,352,171"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a5f35fe48b2ce19dcce8307dcbeb3eaba" title="do_alter_clause_drop\l_index" alt="" coords="412,5,557,47"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#ac8e9faea401a87acc173d641e004e458" title="do_create_index" alt="" coords="426,71,543,98"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a10336dc16aa192602418c6e5914b75d6" title="do_drop_index" alt="" coords="431,122,538,149"/>
+</map>

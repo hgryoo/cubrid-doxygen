@@ -1,0 +1,8 @@
+<map id="pt_coerce_value_for_default_value" name="pt_coerce_value_for_default_value">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#ad22f2359217e110cbb0dc82891c25414" title="check_default_on_update\l_clause" alt="" coords="192,78,363,119"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#aaf7722c8558bacc49e2acf31ee82002a" title="do_alter_one_clause\l_with_template" alt="" coords="207,143,348,185"/>
+<area shape="rect" id="node7" href="$execute__schema_8c.html#a38f878be1e2e058229cfef91516d5880" title="get_att_default_from_def" alt="" coords="194,27,361,53"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#ac8eacd48feb9548404602a075d45b0a2" title="do_add_attribute" alt="" coords="447,5,565,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a4b5c1edbe844b65f680fa8eceaa5683e" title="do_change_att_schema_only" alt="" coords="411,56,601,83"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#ae2c6030d8ef2ca1dcc6d04266020dcef" title="check_change_attribute" alt="" coords="426,107,586,133"/>
+</map>

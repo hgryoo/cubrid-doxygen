@@ -1,0 +1,4 @@
+<map id="scan_pos" name="scan_pos">
+<area shape="rect" id="node2" href="$structqfile__tuple__position.html" title="{qfile_tuple_position\n|+ status\l+ position\l+ offset\l+ tpl\l+ tplno\l|}" alt="" coords="5,160,139,296"/>
+<area shape="rect" id="node3" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="36,5,108,97"/>
+</map>

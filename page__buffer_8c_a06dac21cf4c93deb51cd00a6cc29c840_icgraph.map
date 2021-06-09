@@ -1,0 +1,5 @@
+<map id="pgbuf_bcb_register_hit_for_lru" name="pgbuf_bcb_register_hit_for_lru">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a76e301b78b2f0d65de56d7b2f57106e0" title="pgbuf_lru_move_from\l_private_to_shared" alt="" coords="185,5,332,47"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="380,64,547,105"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#af1d28b14d0180489e3ec532a4dbf54d6" title="pgbuf_unlatch_void\l_zone_bcb" alt="" coords="191,123,326,164"/>
+</map>

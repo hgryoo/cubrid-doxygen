@@ -1,0 +1,10 @@
+<map id="qo_term_fprint" name="qo_term_fprint">
+<area shape="rect" id="node2" href="$query__graph_8c.html#a29ff8692e0ac9768541973e1e42f4ee8" title="qo_eqclass_dump" alt="" coords="159,12,285,39"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#a5c598286930935f0715cd1f30057d69d" title="qo_follow_fprint" alt="" coords="165,68,279,95"/>
+<area shape="rect" id="node5" href="$query__graph_8h.html#afa8ca7fdb85b3f5e24f461d70dc5f0e5" title="qo_termset_fprint" alt="" coords="161,129,283,156"/>
+<area shape="rect" id="node3" href="$query__graph_8c.html#a86381be2a5ae1230bda3a0729a8a92d8" title="qo_env_dump" alt="" coords="355,5,457,32"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a9c72f7a33ae344788956f05cb0fde0d2" title="qo_plan_print_sarged\l_terms" alt="" coords="333,57,479,98"/>
+<area shape="rect" id="node7" href="$query__planner_8c.html#af80f7459a85be1d2bc14dff607d5f9b7" title="qo_plan_print_outer\l_join_terms" alt="" coords="339,122,473,163"/>
+<area shape="rect" id="node8" href="$query__planner_8c.html#a1baf4f3185744d03beed321a3e292243" title="qo_join_fprint" alt="" coords="527,159,625,185"/>
+<area shape="rect" id="node9" href="$query__planner_8c.html#a02e6e087fe89ecb801ef6b2495106a41" title="qo_scan_fprint" alt="" coords="353,239,459,265"/>
+</map>

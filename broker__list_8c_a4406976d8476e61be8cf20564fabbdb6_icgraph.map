@@ -1,0 +1,8 @@
+<map id="swap_node" name="swap_node">
+<area shape="rect" id="node2" href="$broker__list_8c.html#a7644916fda99a9e0f5a426767993eb50" title="delete_node" alt="" coords="156,69,248,96"/>
+<area shape="rect" id="node6" href="$query__graph_8c.html#a4d322007ce6983e3472645dbca6b53ec" title="qo_analyze_term" alt="" coords="141,132,263,159"/>
+<area shape="rect" id="node3" href="$broker__list_8h.html#a6c386371aaca445fd0fa0a36719fb6ef" title="link_list_delete" alt="" coords="332,5,440,32"/>
+<area shape="rect" id="node4" href="$broker__list_8h.html#a69e0caeae8235f7e31354679b303ca2b" title="link_list_node_delete" alt="" coords="315,56,457,83"/>
+<area shape="rect" id="node5" href="$broker__list_8h.html#a2ff60f8348982d2c625a8d4fc669ef76" title="link_list_node_delete2" alt="" coords="311,107,461,133"/>
+<area shape="rect" id="node7" href="$query__graph_8c.html#a10ce29a8c21906fb18b58d642f17e88a" title="qo_add_term" alt="" coords="337,157,435,184"/>
+</map>

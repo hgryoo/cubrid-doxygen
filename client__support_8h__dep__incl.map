@@ -1,0 +1,7 @@
+<map id="src/connection/client_support.h" name="src/connection/client_support.h">
+<area shape="rect" id="node2" href="$network__cl_8c.html" title="src/communication/network_cl.c" alt="" coords="5,102,216,129"/>
+<area shape="rect" id="node3" href="$client__support_8c.html" title="src/connection/client\l_support.c" alt="" coords="239,95,382,136"/>
+<area shape="rect" id="node4" href="$wintcp_8c.html" title="src/connection/wintcp.c" alt="" coords="407,102,567,129"/>
+<area shape="rect" id="node5" href="$checksumdb_8c.html" title="src/executables/checksumdb.c" alt="" coords="591,102,793,129"/>
+<area shape="rect" id="node6" href="$boot__cl_8c.html" title="src/transaction/boot_cl.c" alt="" coords="817,102,983,129"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ini_get_internal" name="ini_get_internal">
+<area shape="rect" id="node2" href="$ini__parser_8h.html#a603c78f5517975daebb42c8d05648013" title="ini_getstr" alt="" coords="163,81,237,108"/>
+<area shape="rect" id="node3" href="$ini__parser_8h.html#a003409152f294af4c29a9d7c9e31178f" title="ini_getint" alt="" coords="291,5,365,32"/>
+<area shape="rect" id="node4" href="$broker__config_8c.html#ade120af8b992623f32ac1b5b515720cd" title="broker_config_read\l_internal" alt="" coords="419,49,551,90"/>
+<area shape="rect" id="node5" href="$ini__parser_8h.html#adfab308b76673ec366bc640dd14883b8" title="ini_gethex" alt="" coords="287,107,369,133"/>
+<area shape="rect" id="node6" href="$ini__parser_8h.html#a6edce99458d548fa519bf126eb81b672" title="ini_getfloat" alt="" coords="285,157,371,184"/>
+</map>

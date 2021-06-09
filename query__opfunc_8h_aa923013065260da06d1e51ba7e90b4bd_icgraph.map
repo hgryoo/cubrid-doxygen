@@ -1,0 +1,9 @@
+<map id="qdata_set_value_list_to_null" name="qdata_set_value_list_to_null">
+<area shape="rect" id="node2" href="$query__executor_8c.html#aa0228de3d463d4f25f995136288bfbb8" title="qexec_execute_obj_fetch" alt="" coords="413,5,584,32"/>
+<area shape="rect" id="node6" href="$scan__manager_8c.html#a746513a136958086ce72b3b610ea6d62" title="scan_handle_single_scan" alt="" coords="195,56,365,83"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a7f4c93cc11a284d13f0844c5ef6daeaf" title="qexec_execute_scan" alt="" coords="632,5,777,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a3ba286b3f8a60ba4dd45993cb9c87c42" title="qexec_intprt_fnc" alt="" coords="645,56,764,83"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#aae780f3598f8e002d08caef216a1c5b4" title="qexec_merge_fnc" alt="" coords="642,107,767,133"/>
+<area shape="rect" id="node7" href="$scan__manager_8h.html#aff7456e122b8a5eb75ff993f36126359" title="scan_next_scan" alt="" coords="440,107,557,133"/>
+<area shape="rect" id="node8" href="$scan__manager_8h.html#a79c880dbd55cec116064405e639a56cf" title="scan_prev_scan" alt="" coords="440,56,557,83"/>
+</map>

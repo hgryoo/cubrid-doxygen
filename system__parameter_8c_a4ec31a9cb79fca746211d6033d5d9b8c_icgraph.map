@@ -1,0 +1,11 @@
+<map id="prm_tune_parameters" name="prm_tune_parameters">
+<area shape="rect" id="node2" href="$system__parameter_8h.html#af9b44c01696a47f1389b95b7ce8e57b1" title="sysprm_final" alt="" coords="227,79,323,106"/>
+<area shape="rect" id="node7" href="$system__parameter_8c.html#a29f727e670076ae114900fc05365ae17" title="sysprm_load_and_init\l_internal" alt="" coords="201,210,349,252"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="604,28,743,55"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="609,130,738,156"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="400,28,553,55"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a63a21272ce0f28ca3f14bef79349966f" title="boot_server_all_finalize" alt="" coords="397,79,556,106"/>
+<area shape="rect" id="node8" href="$system__parameter_8h.html#a309b7ad8d03c411d4e4a649275f532bb" title="sysprm_load_and_init" alt="" coords="403,247,551,274"/>
+<area shape="rect" id="node9" href="$system__parameter_8h.html#a63e70372386fb66e7a986406d643d7dc" title="sysprm_load_and_init\l_client" alt="" coords="403,181,551,222"/>
+<area shape="rect" id="node10" href="$system__parameter_8h.html#a5e5c602234655dfab40f1816b2bb3305" title="sysprm_reload_and_init" alt="" coords="397,298,556,324"/>
+</map>

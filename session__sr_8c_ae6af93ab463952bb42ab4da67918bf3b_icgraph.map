@@ -1,0 +1,6 @@
+<map id="xlogin_user" name="xlogin_user">
+<area shape="rect" id="node2" href="$network__interface__cl_8h.html#ad0214edaea8641e6289a312ae8929510" title="clogin_user" alt="" coords="141,5,229,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a852a4afdad82cbd1a1d17cf751062351" title="slogin_user" alt="" coords="141,56,229,83"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#a8d753785735f3c84472ddbc0ff23aacd" title="au_login_method" alt="" coords="277,5,397,32"/>
+<area shape="rect" id="node5" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="284,56,391,83"/>
+</map>

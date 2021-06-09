@@ -1,0 +1,6 @@
+<map id="prior_lsa_copy_redo_crumbs_to_node" name="prior_lsa_copy_redo_crumbs_to_node">
+<area shape="rect" id="node2" href="$log__append_8cpp.html#a553a400bcf304b06d81ee6ec64b8a352" title="LOG_PRIOR_LSA_LAST\l_APPEND_OFFSET" alt="" coords="399,5,569,47"/>
+<area shape="rect" id="node4" href="$log__append_8cpp.html#aae029222b2384976e6fe3dedd77c2600" title="prior_lsa_gen_undoredo\l_record_from_crumbs" alt="" coords="192,64,351,105"/>
+<area shape="rect" id="node3" href="$log__append_8cpp.html#a2b0b0be158884ed4ce5dcd2060c6bcee" title="prior_lsa_append_data" alt="" coords="617,13,769,39"/>
+<area shape="rect" id="node5" href="$log__append_8hpp.html#a04538e7143a5fb7ccadf92186efc74db" title="prior_lsa_alloc_and\l_copy_crumbs" alt="" coords="417,71,551,112"/>
+</map>

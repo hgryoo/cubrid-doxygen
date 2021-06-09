@@ -1,0 +1,21 @@
+<map id="er_set_internal" name="er_set_internal">
+<area shape="rect" id="node2" href="$error__manager_8h.html#afdaf87ce30f2f557802a185ab85b6599" title="er_set" alt="" coords="199,385,257,412"/>
+<area shape="rect" id="node19" href="$error__manager_8h.html#abba5454f0cca3ebcd15fc170f0caf528" title="er_set_with_file" alt="" coords="171,436,285,463"/>
+<area shape="rect" id="node20" href="$error__manager_8h.html#ae4dfdf0d17782bd51e4612e68fc18c68" title="er_set_with_oserror" alt="" coords="160,487,296,513"/>
+<area shape="rect" id="node3" href="$area__alloc_8h.html#a51595de3bc05b0bfda6ffbc3336a88b6" title="area_init" alt="" coords="383,5,454,32"/>
+<area shape="rect" id="node4" href="$area__alloc_8h.html#a80912e510c5339938721d1c315c08135" title="area_create" alt="" coords="571,107,662,133"/>
+<area shape="rect" id="node5" href="$area__alloc_8c.html#a6168b3ea550e6ba25ec24f8d6a87503e" title="area_alloc_block" alt="" coords="359,107,478,133"/>
+<area shape="rect" id="node6" href="$area__alloc_8c.html#a35f797fe5de88e4fc101e7b8cf015aec" title="area_alloc_blockset" alt="" coords="350,157,487,184"/>
+<area shape="rect" id="node7" href="$area__alloc_8h.html#a6fe156fdfcf5e539ac7cc25cbbdefcec" title="area_validate" alt="" coords="567,233,666,260"/>
+<area shape="rect" id="node8" href="$area__alloc_8h.html#a13831bbb7617f5724281c0366d0fdf1e" title="area_free" alt="" coords="579,297,655,324"/>
+<area shape="rect" id="node9" href="$area__alloc_8c.html#a795ee96fee8d13753ec8d36cbca51b84" title="area_find_block" alt="" coords="362,259,475,285"/>
+<area shape="rect" id="node10" href="$binaryheap_8h.html#abdc08deb55eab2c9cc7bc58a5135ddfe" title="bh_create" alt="" coords="379,360,458,387"/>
+<area shape="rect" id="node11" href="$binaryheap_8h.html#a543f33f0223e1d11db8e0be69bf4d993" title="bh_add" alt="" coords="387,411,451,437"/>
+<area shape="rect" id="node12" href="$binaryheap_8h.html#a4ed71c4d992a9abf2a7ca5a825573d56" title="bh_insert" alt="" coords="381,461,456,488"/>
+<area shape="rect" id="node13" href="$databases__file_8h.html#a27e52dbae492e12eb0a31d5124e93441" title="cfg_read_directory" alt="" coords="354,563,483,589"/>
+<area shape="rect" id="node14" href="$databases__file_8h.html#a8eb4c46c06d153eebaf6d4fa25f55188" title="cfg_find_db" alt="" coords="572,525,661,552"/>
+<area shape="rect" id="node15" href="$databases__file_8h.html#a1928f638abb47aaef1e62242915952fe" title="cfg_read_directory_ex" alt="" coords="541,588,692,615"/>
+<area shape="rect" id="node16" href="$databases__file_8c.html#a94c3a0f7b62c8766d8fa59ac2564cc68" title="cfg_copy_hosts" alt="" coords="361,664,476,691"/>
+<area shape="rect" id="node17" href="$dynamic__load_8c.html#aa21c2c6dadd90c6175f95ddf84654a7d" title="dl_find_daemon" alt="" coords="362,715,475,741"/>
+<area shape="rect" id="node18" href="$dynamic__load_8c.html#a645e2c05a673146480742baf44484078" title="dl_is_valid_image_file" alt="" coords="344,765,493,792"/>
+</map>

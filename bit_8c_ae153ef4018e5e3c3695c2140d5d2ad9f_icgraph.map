@@ -1,0 +1,21 @@
+<map id="bit64_is_set" name="bit64_is_set">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a1a84495d7e351a40e4168507bb0a2c7e" title="disk_check" alt="" coords="179,56,267,83"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#aa4352574be36ec3cbd1b655903529f44" title="disk_stab_cursor_is\l_bit_set" alt="" coords="154,647,293,689"/>
+<area shape="rect" id="node12" href="$file__manager_8c.html#ad6576083bc59846b16cc95f16878cad4" title="file_partsect_is_bit_set" alt="" coords="145,309,301,336"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a929052123adefaabf4126f1fda2b2630" title="disk_reserve_sectors" alt="" coords="373,5,520,32"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#ace20b0215551fade39404f63fbbcc932" title="xboot_check_db_consistency" alt="" coords="349,56,544,83"/>
+<area shape="rect" id="node4" href="$file__manager_8h.html#a183eca581bed0be78c342142d8ddc7fb" title="file_create" alt="" coords="629,107,711,133"/>
+<area shape="rect" id="node7" href="$disk__manager_8c.html#a7df0875d91464ce0ad5ae1d3077764c3" title="disk_stab_cursor_set_bit" alt="" coords="363,629,530,656"/>
+<area shape="rect" id="node8" href="$disk__manager_8c.html#a0635ea76ea0fa0bd9815c08f489a1694" title="disk_stab_unit_reserve" alt="" coords="592,604,748,631"/>
+<area shape="rect" id="node9" href="$disk__manager_8c.html#a10386ef6e810b9254a106d79eaab07d6" title="disk_stab_cursor_clear_bit" alt="" coords="358,680,535,707"/>
+<area shape="rect" id="node10" href="$disk__manager_8c.html#a4ba3ef942258eb027e0258640237cbf5" title="disk_stab_dump_unit" alt="" coords="374,731,519,757"/>
+<area shape="rect" id="node11" href="$disk__manager_8c.html#a5e383b330d3bd73a4c76321e4cd6be9f" title="disk_is_sector_reserved" alt="" coords="365,781,528,808"/>
+<area shape="rect" id="node13" href="$file__manager_8c.html#a9115d0ec504a461d44be61d8eb0a6e24" title="file_partsect_set_bit" alt="" coords="377,157,516,184"/>
+<area shape="rect" id="node14" href="$file__manager_8c.html#a9b738c510efd57488364302f5f533a7c" title="file_partsect_clear_bit" alt="" coords="372,208,521,235"/>
+<area shape="rect" id="node15" href="$file__manager_8c.html#a542b431e49b15a45a3508627f3cedca6" title="file_sector_map_dealloc" alt="" coords="365,309,528,336"/>
+<area shape="rect" id="node16" href="$file__manager_8h.html#a9db2cf7e69746367fcfc73918106e71b" title="file_destroy" alt="" coords="625,284,715,311"/>
+<area shape="rect" id="node17" href="$file__manager_8c.html#adc0db5dfc925dc493ef06a24997d87d1" title="file_perm_alloc" alt="" coords="392,360,501,387"/>
+<area shape="rect" id="node18" href="$file__manager_8h.html#a12556c033545ba1fd43da7be7c2f9d61" title="file_check_vpid" alt="" coords="391,411,503,437"/>
+<area shape="rect" id="node19" href="$file__manager_8c.html#ac63a358eb30b6f6bfe3caea74f8c0197" title="file_table_collector\l_has_page" alt="" coords="381,513,512,554"/>
+<area shape="rect" id="node20" href="$file__manager_8c.html#a88a59ae38e1e2a42cadcb18284d5a60c" title="file_sector_map_pages" alt="" coords="592,491,748,517"/>
+</map>

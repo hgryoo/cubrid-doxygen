@@ -1,0 +1,17 @@
+<map id="xcol_destroy" name="xcol_destroy">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#ae5a57fc3d864099dc25e0748dd636c1a" title="api_col_destroy" alt="" coords="165,56,278,83"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#aae6b69778155d52d4ffa85d7e7d5fffe" title="api_val_dtor" alt="" coords="175,284,267,311"/>
+<area shape="rect" id="node7" href="$cci__stub_8c.html#a72d00d3a71b2949b3e52e57106476feb" title="cci_set_to_xcol" alt="" coords="378,512,491,539"/>
+<area shape="rect" id="node13" href="$cci__stub_8c.html#a4a7eb236de7abda6b2bed24d491d286e" title="xcol_copy" alt="" coords="394,5,475,32"/>
+<area shape="rect" id="node15" href="$cci__stub_8c.html#a026cc10aca2a0a4610c270bae6b9f5f7" title="set_value_to_api_val" alt="" coords="149,157,293,184"/>
+<area shape="rect" id="node4" href="$cci__stub_8c.html#a088836dbd23dc8f140530403aab39d89" title="api_col_insert" alt="" coords="383,208,486,235"/>
+<area shape="rect" id="node5" href="$cci__stub_8c.html#a2cf58dde071bdf7399b744cdd07bfefd" title="api_qres_clear_updates" alt="" coords="355,309,514,336"/>
+<area shape="rect" id="node6" href="$cci__stub_8c.html#a0cf661484f899b893791218800f3b9f7" title="api_qres_update_value" alt="" coords="357,107,512,133"/>
+<area shape="rect" id="node8" href="$cci__stub_8c.html#a3f86bad7d24be55cf61151d8e4556083" title="ci_stmt_set_parameter_impl" alt="" coords="341,157,528,184"/>
+<area shape="rect" id="node9" href="$cci__stub_8c.html#aadf404c51af0bd012cd07e361ebe833c" title="complete_statement" alt="" coords="576,385,716,412"/>
+<area shape="rect" id="node10" href="$cci__stub_8c.html#ab370f53949a34306276a57763d5c877a" title="resultset_impl_dtor" alt="" coords="369,461,501,488"/>
+<area shape="rect" id="node11" href="$cci__stub_8c.html#a1fa0ea848b1e6321810fd6bd544449e0" title="statement_impl_dtor" alt="" coords="365,259,505,285"/>
+<area shape="rect" id="node12" href="$cci__stub_8c.html#aeee8ea8dc815844e968c0d082b9ab381" title="stmt_complete_batch" alt="" coords="361,411,508,437"/>
+<area shape="rect" id="node14" href="$cci__stub_8c.html#ae2745cab09e59a775cbfac193fa0d377" title="xcol_elem_dtor" alt="" coords="379,563,490,589"/>
+<area shape="rect" id="node16" href="$cci__stub_8c.html#a63fd66cd7348b8f3ae46872e3ce334b4" title="api_col_update" alt="" coords="380,56,489,83"/>
+</map>

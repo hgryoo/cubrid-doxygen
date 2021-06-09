@@ -1,0 +1,28 @@
+var db__value__table_8c =
+[
+    [ "value_bind_table_s_", "structvalue__bind__table__s__.html", "structvalue__bind__table__s__" ],
+    [ "value_area_s_", "structvalue__area__s__.html", "structvalue__area__s__" ],
+    [ "VALUE_AREA_", "db__value__table_8c.html#a7dfd35ab6740b600720435283eea0d1c", null ],
+    [ "VALUE_BIND_TABLE_", "db__value__table_8c.html#a5b146e180f91b722f5df70babcdc22fa", null ],
+    [ "coerce_db_value_to_value", "db__value__table_8c.html#a60032122fd4bd94841433c0fa49fe63a", null ],
+    [ "coerce_value_to_db_value", "db__value__table_8c.html#a3e797b9fddfe5799aa3fcb4d0deae971", null ],
+    [ "create_db_value_bind_table", "db__value__table_8c.html#a2a94caca88a1e05052630573c3fe5745", null ],
+    [ "db_type_to_type", "db__value__table_8c.html#a72cc42c1b820e103ad7a5b7ef4df4387", null ],
+    [ "db_value_to_value", "db__value__table_8c.html#a2bb7ca4b167371b9b488703484bb2a2c", null ],
+    [ "oid2xoid", "db__value__table_8c.html#a92c93fa921bccfeaee37a2ed261d3759", null ],
+    [ "type_to_db_type", "db__value__table_8c.html#af2593d2748b5a8ec9be610baf3d79848", null ],
+    [ "value_to_db_value", "db__value__table_8c.html#aa9a789deca402677a794455213dc5372", null ],
+    [ "vbt_api_apply_updates", "db__value__table_8c.html#aa6d9ecb83d39a9a3a2ff9c5f7c0d131c", null ],
+    [ "vbt_api_destroy", "db__value__table_8c.html#a4b86b97769fb233db99c0b0e8f6db2b7", null ],
+    [ "vbt_api_get_value", "db__value__table_8c.html#a321c149379e809b1d0e79c5d5648449c", null ],
+    [ "vbt_api_get_value_by_name", "db__value__table_8c.html#ae57802c518abc26b07d02674987cdd13", null ],
+    [ "vbt_api_reset", "db__value__table_8c.html#aeb4bd992e588ef68c1cfdbde491ad7b5", null ],
+    [ "vbt_api_set_value", "db__value__table_8c.html#a0042d6e25a4d7434001d60c5dae40509", null ],
+    [ "vbt_api_set_value_by_name", "db__value__table_8c.html#a01042c2cf1189974dbab7810126e46c1", null ],
+    [ "vbt_apply_updatesf_map", "db__value__table_8c.html#a29027b8bf4c31bf0ae44f2c42ddd749f", null ],
+    [ "vbt_dtor", "db__value__table_8c.html#acc3991f04f8f9363c4dce30d5a1f795f", null ],
+    [ "vbt_lazy_init_db_value", "db__value__table_8c.html#a6e8b182b982e0780e5cf8ff1ad758773", null ],
+    [ "vbt_resetf_map", "db__value__table_8c.html#a430b427f8a39f77c28fa300c8336c570", null ],
+    [ "xoid2oid", "db__value__table_8c.html#aa1e4ebfba5a5b9712b979fee9da5192f", null ],
+    [ "VB_IFS_", "db__value__table_8c.html#aae1e15c831ca46e6013892a88e625261", null ]
+];

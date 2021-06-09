@@ -1,0 +1,8 @@
+<map id="au_add_user" name="au_add_user">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a5581e8490aedc2a925e56175aa49e85c" title="au_add_user_method" alt="" coords="153,5,300,32"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="188,56,265,83"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#a77a6de51b9b24096626431c62f48edcd" title="db_add_user" alt="" coords="179,107,275,133"/>
+<area shape="rect" id="node7" href="$util__sa_8c.html#a5ca6959d779932ef8c5e4006a7425df1" title="parse_user_define_line" alt="" coords="149,157,304,184"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="352,56,491,83"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a4ca9f4f06ad7a4b72b201cfad249773b" title="do_create_user" alt="" coords="366,107,477,133"/>
+</map>

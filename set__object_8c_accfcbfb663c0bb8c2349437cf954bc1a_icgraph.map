@@ -1,0 +1,10 @@
+<map id="new_block" name="new_block">
+<area shape="rect" id="node2" href="$area__alloc_8c.html#a6168b3ea550e6ba25ec24f8d6a87503e" title="area_alloc_block" alt="" coords="155,56,274,83"/>
+<area shape="rect" id="node5" href="$area__alloc_8c.html#a3bacb53586c415c046003ac558a02212" title="area_insert_block" alt="" coords="153,5,277,32"/>
+<area shape="rect" id="node6" href="$set__object_8c.html#aa5da8a58001a592a74d4d01386515445" title="col_expand_blocks" alt="" coords="340,132,473,159"/>
+<area shape="rect" id="node7" href="$double__write__buffer_8c.html#a03f525669a77317eadec21ba7318fa5b" title="dwb_slots_hash_insert" alt="" coords="137,208,292,235"/>
+<area shape="rect" id="node9" href="$set__object_8c.html#ae8dfb5956cc0a7cabc77682994fc4c37" title="realloc_block" alt="" coords="165,157,264,184"/>
+<area shape="rect" id="node3" href="$area__alloc_8h.html#ad7b44600fda4067dd1c9483c49657086" title="area_alloc" alt="" coords="366,5,447,32"/>
+<area shape="rect" id="node4" href="$area__alloc_8h.html#a80912e510c5339938721d1c315c08135" title="area_create" alt="" coords="361,56,452,83"/>
+<area shape="rect" id="node8" href="$double__write__buffer_8h.html#ab2537553c0bc21020c4a4003916d89a5" title="dwb_add_page" alt="" coords="352,208,461,235"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="find_any" name="find_any">
+<area shape="rect" id="node2" href="$schema__template_8h.html#a2d10b411b357b2d04dbc60b7f6191871" title="smt_delete_any" alt="" coords="128,132,243,159"/>
+<area shape="rect" id="node9" href="$schema__template_8h.html#ab51f553d1e53355523d765c1ea2e0ad4" title="smt_rename_any" alt="" coords="124,183,247,209"/>
+<area shape="rect" id="node3" href="$db__class_8c.html#a381d837913fd352d29054ab33c8bbf60" title="drop_internal" alt="" coords="333,5,429,32"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#a21188172805695aba5e22265472fd774" title="dbt_drop_attribute" alt="" coords="317,56,444,83"/>
+<area shape="rect" id="node5" href="$dbi__compat_8h.html#acc4752bde60af463196a92490c30dc46" title="dbt_drop_shared_attribute" alt="" coords="295,107,467,133"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a85b49b06cd9405787262470d39b72e72" title="dbt_drop_class_attribute" alt="" coords="299,157,463,184"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#a2953af7fbaea87a2dc77697a1d1b7807" title="dbt_drop_method" alt="" coords="319,208,442,235"/>
+<area shape="rect" id="node8" href="$dbi__compat_8h.html#a75b46358ad18da8af107ba841ddce89d" title="dbt_drop_class_method" alt="" coords="301,259,461,285"/>
+</map>

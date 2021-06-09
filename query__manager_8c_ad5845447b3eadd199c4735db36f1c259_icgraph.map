@@ -1,0 +1,9 @@
+<map id="qmgr_free_query_temp_file" name="qmgr_free_query_temp_file">
+<area shape="rect" id="node2" href="$query__manager_8c.html#a0382e2abbf209165a152f42248749e82" title="xqmgr_end_query" alt="" coords="264,93,389,120"/>
+<area shape="rect" id="node7" href="$query__manager_8c.html#acca53c25556757b153c16afc23f6ccd4" title="xqmgr_execute_query" alt="" coords="251,144,402,171"/>
+<area shape="rect" id="node8" href="$query__manager_8c.html#a55f2eab3bb1fa4d953fa300f40ff9708" title="xqmgr_prepare_and_execute\l_query" alt="" coords="232,195,421,237"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a4dc2e17f8bbda1fb057aed8a632458cb" title="qmgr_end_query" alt="" coords="498,5,617,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8c.html#a2cdbe90c0a8a9e2a7c3a5958ed7a5d77" title="stran_server_auto_commit\l_or_abort" alt="" coords="469,57,645,98"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#a41748713c987c7a8c81de43dc59e5974" title="stran_server_commit" alt="" coords="485,123,629,149"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#ac91b9574aadcd09abb330fcbeccf15dc" title="sqmgr_end_query" alt="" coords="495,173,620,200"/>
+</map>

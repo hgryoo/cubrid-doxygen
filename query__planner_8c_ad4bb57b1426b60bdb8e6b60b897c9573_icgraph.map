@@ -1,0 +1,8 @@
+<map id="qo_scan_new" name="qo_scan_new">
+<area shape="rect" id="node2" href="$query__planner_8c.html#a82cfa5f4b039ab1cc94a7b66059f2802" title="qo_index_scan_new" alt="" coords="156,81,296,108"/>
+<area shape="rect" id="node7" href="$query__planner_8c.html#afc94b2afba8e2c262dac725b29b95339" title="qo_seq_scan_new" alt="" coords="161,132,291,159"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#af82cb548f7164f198d9a008f149b5eb3" title="qo_generate_index_scan" alt="" coords="363,5,529,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#a95e522736be6c3ba92de264e5383eba5" title="qo_search_planner" alt="" coords="596,56,727,83"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#a6d502f0e742e3f1448fefff588540079" title="qo_generate_join_index_scan" alt="" coords="349,107,543,133"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a828d6b03fe00333fa2bcf640e6f7325a" title="qo_generate_loose_index_scan" alt="" coords="344,157,548,184"/>
+</map>

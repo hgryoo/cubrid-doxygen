@@ -1,0 +1,5 @@
+<map id="vacuum_master_task" name="vacuum_master_task">
+<area shape="rect" id="node2" href="$classcubthread_1_1task.html" title="{cubthread::entry_task\n||+ task()\l+ ~task()\l+ execute()\l+ retire()\l}" alt="" coords="5,358,153,479"/>
+<area shape="rect" id="node3" href="$classvacuum__job__cursor.html" title="{vacuum_job_cursor\n|&#45; m_blockid\l&#45; m_index\l|+ vacuum_job_cursor()\l+ ~vacuum_job_cursor()\l+ is_valid()\l+ is_loaded()\l+ increment_blockid()\l+ set_on_vacuum_data\l_start()\l+ readjust_to_vacuum\l_data_changes()\l+ get_blockid()\l+ get_page_vpid()\l+ get_page()\l+ get_index()\l+ get_current_entry()\l+ start_job_on_current\l_entry()\l+ force_data_update()\l+ unload()\l+ load()\l&#45; change_blockid()\l&#45; reload()\l&#45; search()\l}" alt="" coords="178,219,341,619"/>
+<area shape="rect" id="node4" href="$structvacuum__data__page.html" title="{vacuum_data_page\n|+ index_unvacuumed\l+ index_free\l+ INDEX_NOT_FOUND\l|+ is_empty()\l+ is_index_valid()\l+ get_index_of_blockid()\l+ get_first_blockid()\l}" alt="" coords="176,5,343,156"/>
+</map>

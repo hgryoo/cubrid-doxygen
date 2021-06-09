@@ -1,0 +1,4 @@
+<map id="log_rec_mvcc_redo" name="log_rec_mvcc_redo">
+<area shape="rect" id="node2" href="$structlog__rec__redo.html" title="{log_rec_redo\n|+ length\l|}" alt="" coords="25,189,121,267"/>
+<area shape="rect" id="node3" href="$structlog__data.html" title="{log_data\n|+ rcvindex\l+ pageid\l+ offset\l+ volid\l|}" alt="" coords="31,5,114,127"/>
+</map>

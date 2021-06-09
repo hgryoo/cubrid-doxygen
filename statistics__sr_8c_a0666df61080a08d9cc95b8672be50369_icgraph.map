@@ -1,0 +1,6 @@
+<map id="xstats_update_all_statistics" name="xstats_update_all_statistics">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#aedbeefb5ed60eebfc18560ea1378de6e" title="sqst_update_all_statistics" alt="" coords="239,5,413,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#aec474142c2d5a0acf9e660caf3e06826" title="stats_update_all_statistics" alt="" coords="237,56,415,83"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="493,5,599,32"/>
+<area shape="rect" id="node5" href="$schema__manager_8h.html#a5382c4ce290b60cf2fd9d7fcec1dc847" title="sm_update_all_statistics" alt="" coords="463,56,629,83"/>
+</map>

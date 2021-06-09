@@ -1,0 +1,5 @@
+<map id="ci_resultset_meta_s" name="ci_resultset_meta_s">
+<area shape="rect" id="node2" href="$structdb__query__type.html" title="{db_query_type\n|+ col_type\l+ name\l+ attr_name\l+ spec_name\l+ original_name\l+ db_type\l+ size\l+ visible_type\l|}" alt="" coords="15,329,129,509"/>
+<area shape="rect" id="node3" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="5,5,139,229"/>
+<area shape="rect" id="node4" href="$structbh__interface__s.html" title="{bh_interface_s\n|+ alloc_handle\l+ destroy_handle\l+ lookup\l+ bind_to_handle\l+ bind_get_parent\l+ bind_prune\l+ bind_graft\l+ bind_get_first_child\l+ bind_get_next_sibling\l+ bind_map\l+ destroy\l|}" alt="" coords="215,307,374,531"/>
+</map>

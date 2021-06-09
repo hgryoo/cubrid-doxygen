@@ -1,0 +1,5 @@
+<map id="spage_get_page_header_info" name="spage_get_page_header_info">
+<area shape="rect" id="node2" href="$heap__file_8c.html#af5540511e9240b5a08485631f709dcb9" title="heap_get_page_info" alt="" coords="244,31,383,57"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a9c1fe6a255586f25056cbc18be88658d" title="heap_page_next" alt="" coords="431,5,548,32"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a66fd7a3d4ff1244a3b7ff1b8393f7f82" title="heap_page_prev" alt="" coords="431,56,548,83"/>
+</map>

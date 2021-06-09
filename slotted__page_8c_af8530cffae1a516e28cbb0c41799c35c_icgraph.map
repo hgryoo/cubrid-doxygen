@@ -1,0 +1,8 @@
+<map id="spage_has_enough_contiguous_space" name="spage_has_enough_contiguous_space">
+<area shape="rect" id="node2" href="$slotted__page_8c.html#a756e5a4b54913dd86e1ae6f3593f4594" title="spage_check_mvcc_updatable" alt="" coords="257,31,459,57"/>
+<area shape="rect" id="node4" href="$slotted__page_8c.html#afb80260750091b0cbf047137ac7275c3" title="spage_check_space" alt="" coords="287,107,429,133"/>
+<area shape="rect" id="node6" href="$slotted__page_8c.html#abbb2d30b5a8ab594f64f968c25fc5b60" title="spage_find_empty_slot" alt="" coords="517,157,673,184"/>
+<area shape="rect" id="node3" href="$slotted__page_8h.html#a41adbc08bc8ee0f71a94f4c6670acb9d" title="spage_is_mvcc_updatable" alt="" coords="507,5,683,32"/>
+<area shape="rect" id="node5" href="$slotted__page_8c.html#ac33b090f83b5b1e95199906eb3cbe369" title="spage_add_new_slot" alt="" coords="523,56,667,83"/>
+<area shape="rect" id="node7" href="$slotted__page_8c.html#a20bfc1211d4d973c33438a590775b924" title="spage_take_slot_in_use" alt="" coords="513,107,676,133"/>
+</map>

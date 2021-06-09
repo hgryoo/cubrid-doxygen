@@ -1,0 +1,8 @@
+<map id="log_tran_update_stats" name="log_tran_update_stats">
+<area shape="rect" id="node2" href="$structmht__table.html" title="{mht_table\n|+ hash_func\l+ cmp_func\l+ name\l+ size\l+ rehash_at\l+ nentries\l+ nprealloc_entries\l+ ncollisions\l+ heap_id\l+ build_lru_list\l|}" alt="" coords="5,233,137,443"/>
+<area shape="rect" id="node3" href="$structhentry.html" title="{hentry\n|+ key\l+ data\l|}" alt="" coords="14,5,73,97"/>
+<area shape="rect" id="node4" href="$structlog__tran__class__cos__chunk.html" title="{log_tran_class_cos\l_chunk\n||}" alt="" coords="173,292,308,384"/>
+<area shape="rect" id="node5" href="$structlog__tran__class__cos.html" title="{log_tran_class_cos\n|+ count_state\l|}" alt="" coords="180,13,315,90"/>
+<area shape="rect" id="node6" href="$structlog__tran__btid__unique__stats__chunk.html" title="{log_tran_btid_unique\l_stats_chunk\n||}" alt="" coords="437,292,578,384"/>
+<area shape="rect" id="node7" href="$structlog__tran__btid__unique__stats.html" title="{log_tran_btid_unique\l_stats\n|+ deleted\l|}" alt="" coords="437,5,578,97"/>
+</map>

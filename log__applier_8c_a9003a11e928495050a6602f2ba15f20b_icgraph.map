@@ -1,0 +1,5 @@
+<map id="la_make_room_for_mvcc_insid" name="la_make_room_for_mvcc_insid">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a37ef46eaee81a2d30f60982bc465783b" title="la_get_recdes" alt="" coords="221,31,324,57"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#aae222bafc8147044057c499295141b9b" title="la_apply_insert_log" alt="" coords="375,5,509,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a2d40a24d77f7d73ad8df508c20a5dbdb" title="la_apply_update_log" alt="" coords="372,56,512,83"/>
+</map>

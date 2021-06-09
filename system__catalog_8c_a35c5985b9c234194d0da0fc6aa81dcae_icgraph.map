@@ -1,0 +1,8 @@
+<map id="catalog_put_class_info_to_record" name="catalog_put_class_info_to_record">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#ade6c3fc1349d8627c3330c0ed25a8021" title="catalog_add_class_info" alt="" coords="217,51,375,78"/>
+<area shape="rect" id="node7" href="$system__catalog_8h.html#aa17c0fb2e8eda2108b37a57d26fba19f" title="catalog_update_class_info" alt="" coords="208,102,384,129"/>
+<area shape="rect" id="node3" href="$statistics__sr_8c.html#a502d831d7f2d3b593c5d107748aae384" title="xstats_update_statistics" alt="" coords="659,26,823,53"/>
+<area shape="rect" id="node4" href="$statistics__sr_8c.html#a87537ae40bfb987f6d7be9eff99352cd" title="stats_update_partitioned\l_statistics" alt="" coords="871,19,1035,60"/>
+<area shape="rect" id="node5" href="$system__catalog_8h.html#a7c49464b033a396eff006176ea599c62" title="catalog_get_representation" alt="" coords="432,77,611,103"/>
+<area shape="rect" id="node6" href="$system__catalog_8h.html#a61ad207a6558c26bb9c3b3117ba7e599" title="catalog_insert" alt="" coords="470,127,573,154"/>
+</map>

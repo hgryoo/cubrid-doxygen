@@ -1,0 +1,15 @@
+<map id="logtb_tran_clear_update_stats" name="logtb_tran_clear_update_stats">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a6c5edebbae75e1a92360baf780ce8377" title="logtb_clear_tdes" alt="" coords="232,274,349,301"/>
+<area shape="rect" id="node13" href="$log__tran__table_8c.html#abced029cdab388279dc4b134179929c3" title="logtb_complete_mvcc" alt="" coords="216,463,365,490"/>
+<area shape="rect" id="node14" href="$log__tran__table_8c.html#a9675a3f281b5b7df27159c7cdf4e8511" title="logtb_tran_free_update\l_stats" alt="" coords="213,397,368,439"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a205cb9f31defd227b8340f7f4bd24a09" title="log_complete" alt="" coords="676,223,775,250"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="651,299,800,326"/>
+<area shape="rect" id="node5" href="$log__recovery_8c.html#a55342b1df03774997b07f168bc2f56ea" title="log_rv_analysis_end\l_checkpoint" alt="" coords="439,5,579,47"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a3afa13fd96a09f0686e865e34d4ba415" title="logpb_checkpoint" alt="" coords="448,223,571,250"/>
+<area shape="rect" id="node7" href="$log__tran__table_8c.html#a3bc8e667a4001db19a340b7f600ba3ae" title="logtb_allocate_tran\l_index" alt="" coords="660,372,791,413"/>
+<area shape="rect" id="node8" href="$log__tran__table_8c.html#a6cc94001cf3c733f41073e2b847a8275" title="logtb_finalize_tdes" alt="" coords="444,477,575,503"/>
+<area shape="rect" id="node9" href="$log__tran__table_8c.html#ab6259b55420e741a2b4e5b9d05778f85" title="logtb_free_tran_index" alt="" coords="436,325,583,351"/>
+<area shape="rect" id="node10" href="$log__tran__table_8c.html#a0e075f8cf3a95dd3685eaaa9890335dc" title="logtb_get_new_tran_id" alt="" coords="433,274,585,301"/>
+<area shape="rect" id="node11" href="$log__tran__table_8c.html#a9bce4472330e5cbb58805dfa37cf239a" title="logtb_initialize_system_tdes" alt="" coords="416,71,603,98"/>
+<area shape="rect" id="node12" href="$log__system__tran_8cpp.html#a066ac29440eef7e4eab760c67c766fe8" title="systdes_retire_tdes" alt="" coords="441,122,577,149"/>
+</map>

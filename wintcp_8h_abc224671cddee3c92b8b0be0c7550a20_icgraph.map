@@ -1,0 +1,6 @@
+<map id="css_get_sock_name" name="css_get_sock_name">
+<area shape="rect" id="node2" href="$connection__support_8h.html#a5f57ef5bfdeddf46f09b8538c1e0707b" title="css_send_error" alt="" coords="196,71,307,98"/>
+<area shape="rect" id="node3" href="$server__support_8c.html#af5a6ff70826ab90a661c2e644735cb99" title="css_refuse_connection\l_request" alt="" coords="363,5,519,47"/>
+<area shape="rect" id="node4" href="$server__support_8h.html#a249433309ad2e3e73de1e45a67990e81" title="css_send_error_to_client" alt="" coords="357,71,524,98"/>
+<area shape="rect" id="node5" href="$client__support_8h.html#a140a5eb921b7e6b400e659d635ea4182" title="css_send_error_to_server" alt="" coords="355,122,527,149"/>
+</map>

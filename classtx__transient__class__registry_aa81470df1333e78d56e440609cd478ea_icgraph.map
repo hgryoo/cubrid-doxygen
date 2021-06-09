@@ -1,0 +1,11 @@
+<map id="tx_transient_class_registry::map" name="tx_transient_class_registry::map">
+<area shape="rect" id="node2" href="$log__manager_8c.html#a922a0c5f839b07dc18e05320911311f4" title="locator_drop_transient\l_class_name_entries" alt="" coords="197,144,347,185"/>
+<area shape="rect" id="node4" href="$log__manager_8c.html#a419b499e71801215e558b71c0060f96b" title="log_cleanup_modified\l_class_list" alt="" coords="631,64,777,105"/>
+<area shape="rect" id="node8" href="$locator__sr_8h.html#a8da45a40cc27a0af630ee2e7c756b9e1" title="locator_savepoint_transient\l_class_name_entries" alt="" coords="181,341,363,383"/>
+<area shape="rect" id="node3" href="$log__manager_8c.html#ab4caf562d8285575e31569853071f90e" title="log_cleanup_modified\l_class" alt="" coords="423,5,570,47"/>
+<area shape="rect" id="node5" href="$transaction__sr_8c.html#a30688dea2fb0fbdd145e5181979ceb5b" title="xtran_server_2pc_prepare" alt="" coords="411,122,583,149"/>
+<area shape="rect" id="node6" href="$transaction__sr_8c.html#aea50e8cae070815c3c3786ef7a2727f2" title="xtran_server_2pc_prepare\l_global_tran" alt="" coords="411,173,583,215"/>
+<area shape="rect" id="node7" href="$transaction__sr_8c.html#a9b5f535da0352cfafc4cd0966b36190d" title="xtran_server_end_topop" alt="" coords="416,239,577,266"/>
+<area shape="rect" id="node9" href="$transaction__sr_8c.html#ace0d1199b573b1c5a5cf64183ee33148" title="xtran_server_savepoint" alt="" coords="418,345,575,371"/>
+<area shape="rect" id="node10" href="$transaction__sr_8c.html#abc6a0429d9b60eb46bcd731ceb9d6b4c" title="xtran_server_start\l_topop" alt="" coords="433,396,560,437"/>
+</map>

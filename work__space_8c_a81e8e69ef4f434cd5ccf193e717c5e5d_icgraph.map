@@ -1,0 +1,8 @@
+<map id="ws_cull_mops" name="ws_cull_mops">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a3f10f50e3070effde1ee3d00bbf538af" title="la_commit_transaction" alt="" coords="159,5,312,32"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#a390461d66ad3104850cb216ea17fc356" title="la_create_repl_filter" alt="" coords="360,56,495,83"/>
+<area shape="rect" id="node6" href="$work__space_8h.html#ae72635d9c8c21f1397ba4e853207ede5" title="ws_intern_instances" alt="" coords="165,107,306,133"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#afde2fa0f59dca906a1bf5795f8e1b583" title="la_log_commit" alt="" coords="374,5,481,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a985ea807a9f77fb66077722eea3554a9" title="la_apply_log_file" alt="" coords="543,31,661,57"/>
+<area shape="rect" id="node7" href="$load__sa__loader_8cpp.html#ae4d41769c98026d136a55c5c38b95e8b" title="ldr_flush" alt="" coords="392,107,463,133"/>
+</map>

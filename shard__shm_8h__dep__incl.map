@@ -1,0 +1,20 @@
+<map id="src/broker/shard_shm.h" name="src/broker/shard_shm.h">
+<area shape="rect" id="node2" href="$broker_8c.html" title="src/broker/broker.c" alt="" coords="579,87,709,114"/>
+<area shape="rect" id="node3" href="$broker__admin__pub_8h.html" title="src/broker/broker_admin\l_pub.h" alt="" coords="784,80,947,121"/>
+<area shape="rect" id="node5" href="$broker__admin__pub_8c.html" title="src/broker/broker_admin\l_pub.c" alt="" coords="5,169,168,211"/>
+<area shape="rect" id="node10" href="$shard__shm_8c.html" title="src/broker/shard_shm.c" alt="" coords="1239,177,1398,203"/>
+<area shape="rect" id="node11" href="$broker__config_8c.html" title="src/broker/broker_config.c" alt="" coords="1021,87,1195,114"/>
+<area shape="rect" id="node12" href="$broker__monitor_8c.html" title="src/broker/broker_monitor.c" alt="" coords="1219,87,1400,114"/>
+<area shape="rect" id="node13" href="$broker__proxy__conn_8c.html" title="src/broker/broker_proxy\l_conn.c" alt="" coords="1425,80,1583,121"/>
+<area shape="rect" id="node14" href="$shard__proxy_8h.html" title="src/broker/shard_proxy.h" alt="" coords="1607,87,1774,114"/>
+<area shape="rect" id="node17" href="$shard__statement_8c.html" title="src/broker/shard_statement.c" alt="" coords="1792,177,1984,203"/>
+<area shape="rect" id="node18" href="$shard__proxy__handler_8c.html" title="src/broker/shard_proxy\l_handler.c" alt="" coords="1849,80,2004,121"/>
+<area shape="rect" id="node19" href="$shard__proxy__io_8c.html" title="src/broker/shard_proxy_io.c" alt="" coords="2029,87,2211,114"/>
+<area shape="rect" id="node4" href="$broker__admin_8c.html" title="src/broker/broker_admin.c" alt="" coords="192,177,365,203"/>
+<area shape="rect" id="node6" href="$broker__admin__so_8c.html" title="src/broker/broker_admin_so.c" alt="" coords="389,177,584,203"/>
+<area shape="rect" id="node7" href="$broker__changer_8c.html" title="src/broker/broker_changer.c" alt="" coords="608,177,792,203"/>
+<area shape="rect" id="node8" href="$broker__filename_8c.html" title="src/broker/broker_filename.c" alt="" coords="816,177,1003,203"/>
+<area shape="rect" id="node9" href="$shard__metadata_8c.html" title="src/broker/shard_metadata.c" alt="" coords="1027,177,1215,203"/>
+<area shape="rect" id="node15" href="$shard__proxy_8c.html" title="src/broker/shard_proxy.c" alt="" coords="1422,177,1589,203"/>
+<area shape="rect" id="node16" href="$shard__proxy__function_8c.html" title="src/broker/shard_proxy\l_function.c" alt="" coords="1613,169,1768,211"/>
+</map>

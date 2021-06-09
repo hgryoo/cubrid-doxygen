@@ -1,0 +1,8 @@
+<map id="pt_add_row_oid_name" name="pt_add_row_oid_name">
+<area shape="rect" id="node2" href="$view__transform_8c.html#a6fb474d3098dee755e9ced9598678cf0" title="mq_translate_subqueries" alt="" coords="205,5,372,32"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#a85a6baf509b2579b68e8324ace3b0398" title="mq_virtual_queries" alt="" coords="420,31,551,57"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#a2129a6a0c5c530d03d97a09e368c3f3d" title="pt_mvcc_prepare_upd\l_del_select" alt="" coords="213,107,364,149"/>
+<area shape="rect" id="node5" href="$parser__support_8c.html#a13433c9bb20481413987638377206a71" title="pt_rewrite_derived\l_for_upd_del" alt="" coords="225,173,353,214"/>
+<area shape="rect" id="node6" href="$xasl__generation_8h.html#a0fd6a284ec97f6ee26384ca36e11590f" title="pt_to_merge_update\l_query" alt="" coords="219,238,359,279"/>
+<area shape="rect" id="node7" href="$xasl__generation_8h.html#a5922ed3fb3f0afecdb69ea391afa9826" title="pt_to_upd_del_query" alt="" coords="217,304,360,331"/>
+</map>

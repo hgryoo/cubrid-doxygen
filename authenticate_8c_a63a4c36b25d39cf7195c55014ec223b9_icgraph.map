@@ -1,0 +1,7 @@
+<map id="check_authorization" name="check_authorization">
+<area shape="rect" id="node2" href="$authenticate_8c.html#ad344b82428cb3b190de51c9148c8b657" title="au_fetch_class_internal" alt="" coords="192,56,351,83"/>
+<area shape="rect" id="node6" href="$authenticate_8h.html#ac6b7e4eb760106dd0d8efd7766aa3f20" title="au_fetch_instance" alt="" coords="207,107,335,133"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#afb055c9f05081642e252ff3163247692" title="au_fetch_class" alt="" coords="449,5,560,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#af568cad390cb9ed169decefe4d7ec09e" title="au_fetch_class_by_classmop" alt="" coords="407,56,602,83"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#adc13b6c0a95ad7a1b588894c76830773" title="au_fetch_class_by_instancemop" alt="" coords="399,107,611,133"/>
+</map>

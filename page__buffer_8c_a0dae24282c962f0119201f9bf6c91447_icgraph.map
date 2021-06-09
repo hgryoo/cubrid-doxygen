@@ -1,0 +1,18 @@
+<map id="pgbuf_bcb_avoid_victim" name="pgbuf_bcb_avoid_victim">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#a8cbce269e04ed30279485fc77e786430" title="pgbuf_claim_bcb_for_fix" alt="" coords="222,5,385,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a7cc1c686b4d3e0a9de41d12d4bfa26b7" title="pgbuf_get_victim_from\l_lru_list" alt="" coords="646,98,801,139"/>
+<area shape="rect" id="node8" href="$page__buffer_8h.html#a172d7adc186f7dc6862f73c7fd2e8e55" title="pgbuf_invalidate_all\l_debug" alt="" coords="235,579,371,621"/>
+<area shape="rect" id="node9" href="$page__buffer_8h.html#acb30faadf59202892e5dd7a8afcde82e" title="pgbuf_invalidate_debug" alt="" coords="1081,485,1240,512"/>
+<area shape="rect" id="node10" href="$page__buffer_8c.html#a1336f55eb18b1caf8e05f92e739ab0c6" title="pgbuf_is_bcb_victimizable" alt="" coords="216,259,391,285"/>
+<area shape="rect" id="node16" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="867,437,1033,478"/>
+<area shape="rect" id="node17" href="$page__buffer_8c.html#af1d28b14d0180489e3ec532a4dbf54d6" title="pgbuf_unlatch_void\l_zone_bcb" alt="" coords="656,411,791,453"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="451,5,568,32"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#ae3559936e3204102a7a9a4fee6087017" title="pgbuf_get_victim" alt="" coords="1100,105,1221,132"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a1869e0a6005a3553cf95f4573a52b4c0" title="pgbuf_lfcq_get_victim\l_from_private_lru" alt="" coords="875,157,1025,198"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#ad6a87f13e7f04e7143483b3737eb6c86" title="pgbuf_lfcq_get_victim\l_from_shared_lru" alt="" coords="875,39,1025,81"/>
+<area shape="rect" id="node11" href="$page__buffer_8c.html#a7ef66aad01f8e682d9ce69bce1988bbd" title="pgbuf_get_victim_candidates\l_from_lru" alt="" coords="628,163,819,205"/>
+<area shape="rect" id="node12" href="$page__buffer_8c.html#a88151b978de695fc8c76f011b0996962" title="pgbuf_victimize_bcb" alt="" coords="439,259,580,285"/>
+<area shape="rect" id="node13" href="$page__buffer_8c.html#afefe190b536faf7fecddcd0bff83e6e7" title="pgbuf_lru_fall_bcb\l_to_zone_3" alt="" coords="660,229,787,270"/>
+<area shape="rect" id="node14" href="$page__buffer_8c.html#abaa51159b1cd1415ea6c06976a4c232f" title="pgbuf_lru_add_new_bcb\l_to_bottom" alt="" coords="642,346,805,387"/>
+<area shape="rect" id="node15" href="$page__buffer_8c.html#aacfdde3e346ff6e9ecf80711fbcf3285" title="pgbuf_assign_direct\l_victim" alt="" coords="440,310,579,351"/>
+</map>

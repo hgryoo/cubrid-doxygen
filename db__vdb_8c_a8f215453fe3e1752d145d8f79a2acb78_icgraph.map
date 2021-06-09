@@ -1,0 +1,5 @@
+<map id="db_calculate_current_time" name="db_calculate_current_time">
+<area shape="rect" id="node2" href="$db__vdb_8c.html#a6e2d5b31426c016f104ebbe58db9bd43" title="db_calculate_current\l_server_time" alt="" coords="242,5,385,47"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#a512d9ea75ee0808c9f63e4149cd6a915" title="db_set_base_server_time" alt="" coords="228,71,399,98"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="447,35,599,76"/>
+</map>

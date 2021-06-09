@@ -1,0 +1,7 @@
+<map id="pt_make_pred_expr_pred" name="pt_make_pred_expr_pred">
+<area shape="rect" id="node2" href="$xasl__generation_8c.html#abf0977fae14d9c004271b4e0670429d0" title="pt_make_pred_term_is" alt="" coords="221,5,376,32"/>
+<area shape="rect" id="node3" href="$xasl__generation_8c.html#a1f7de786eb62ca96c52685e8986247f7" title="pt_to_pred_expr_local\l_with_arg" alt="" coords="424,41,573,82"/>
+<area shape="rect" id="node4" href="$xasl__generation_8h.html#a1314c1b3163611036f29501bed06ebb7" title="pt_to_pred_expr_with_arg" alt="" coords="621,107,792,133"/>
+<area shape="rect" id="node5" href="$xasl__generation_8c.html#ac00afe3347320f27638ab8dbd860fa5c" title="pt_to_buildlist_proc" alt="" coords="840,132,975,159"/>
+<area shape="rect" id="node6" href="$xasl__generation_8c.html#a8f58b65d1b0774ee58bd5a87dccb4e00" title="pt_to_pred_terms" alt="" coords="237,208,360,235"/>
+</map>

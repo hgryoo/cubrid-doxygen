@@ -1,0 +1,7 @@
+<map id="orc_diskrep_from_record" name="orc_diskrep_from_record">
+<area shape="rect" id="node2" href="$system__catalog_8h.html#a61ad207a6558c26bb9c3b3117ba7e599" title="catalog_insert" alt="" coords="247,5,349,32"/>
+<area shape="rect" id="node5" href="$system__catalog_8h.html#a4ea20d720ec7634b5a5004ca53bad45e" title="catalog_update" alt="" coords="243,56,353,83"/>
+<area shape="rect" id="node6" href="$system__catalog_8c.html#aee9e18e1a8746989ec8657d9ed6ccc4a" title="xcatalog_check_rep_dir" alt="" coords="219,107,377,133"/>
+<area shape="rect" id="node3" href="$locator__sr_8h.html#a4ef4e207374578272aab7839343e3837" title="locator_insert_force" alt="" coords="429,5,565,32"/>
+<area shape="rect" id="node4" href="$locator__sr_8c.html#aa94a327f45350804b2066385650abc9b" title="locator_update_force" alt="" coords="425,56,568,83"/>
+</map>

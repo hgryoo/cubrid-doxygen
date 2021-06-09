@@ -1,0 +1,20 @@
+<map id="obj_set" name="obj_set">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a6a3e91bbc04a8cb60a38aec053342847" title="au_change_sp_owner" alt="" coords="133,19,281,46"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#a80d5f4c89becd4189ba178eccf903410" title="au_change_trigger_owner" alt="" coords="121,74,292,101"/>
+<area shape="rect" id="node6" href="$authenticate_8c.html#aaf9859e56ac7f259cde7f167e1e0a609" title="au_compute_groups" alt="" coords="137,125,276,151"/>
+<area shape="rect" id="node7" href="$authenticate_8h.html#a432ae2e4cbf4a4657fc1165dd0f553a7" title="au_drop_user" alt="" coords="157,175,257,202"/>
+<area shape="rect" id="node8" href="$authenticate_8c.html#a6d6d63b0e417da4f892561898c64893c" title="au_make_user" alt="" coords="153,226,260,253"/>
+<area shape="rect" id="node9" href="$authenticate_8c.html#a8a7c21f89841de7a41578a09e4cd63b5" title="au_set_new_auth" alt="" coords="145,277,269,303"/>
+<area shape="rect" id="node10" href="$authenticate_8c.html#a6cc0705679fa78505fb5a1ca4fef96f6" title="au_set_password_internal" alt="" coords="120,327,293,354"/>
+<area shape="rect" id="node11" href="$authenticate_8h.html#ae757077b671a001c0fb7738e0f346ef6" title="au_set_user_comment" alt="" coords="129,378,284,405"/>
+<area shape="rect" id="node12" href="$db__obj_8c.html#a0b9fa5e1dc54ea13db362a2748b920c3" title="db_put_internal" alt="" coords="151,429,262,455"/>
+<area shape="rect" id="node13" href="$jsp__cl_8h.html#a4c59e5f92e0554391810cce070799e8c" title="jsp_alter_stored_procedure" alt="" coords="117,479,296,506"/>
+<area shape="rect" id="node14" href="$load__sa__loader_8cpp.html#a278ab1972a6800ca07cabfbb85d9ccdd" title="ldr_class_attr_db_generic" alt="" coords="121,530,292,557"/>
+<area shape="rect" id="node15" href="$object__accessor_8c.html#a8486c3a1ff8729d0497dcd8ff6e1de18" title="obj_set_att" alt="" coords="163,581,250,607"/>
+<area shape="rect" id="node16" href="$trigger__manager_8c.html#a903e9b2397f758ed09660ea58ecf8a74" title="register_user_trigger" alt="" coords="137,631,277,658"/>
+<area shape="rect" id="node17" href="$db__stub_8c.html#a122e219845e0e05b2f42fbdac9d1c7f3" title="rs_set_db_value" alt="" coords="148,682,265,709"/>
+<area shape="rect" id="node18" href="$trigger__manager_8h.html#a59f430d45a56d62b7da95312a3fc072b" title="tr_get_class_name" alt="" coords="141,733,273,759"/>
+<area shape="rect" id="node19" href="$trigger__manager_8c.html#a9e9690a77a146cc21bffa002ac48418d" title="trigger_table_add" alt="" coords="146,783,267,810"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#a7d22a782f0758d8bf9c8176303152da1" title="au_change_sp_owner\l_method" alt="" coords="355,5,503,47"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a861ab4bce20c095297b9433051ff5ae0" title="au_change_trigger_owner\l_method" alt="" coords="344,71,515,112"/>
+</map>

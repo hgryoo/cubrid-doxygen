@@ -1,0 +1,21 @@
+<map id="vid_base_instance" name="vid_base_instance">
+<area shape="rect" id="node2" href="$cursor_8c.html#aa5f0ba610bb79f77d1825407a71a4dcb" title="cursor_get_oid_from_vobj" alt="" coords="184,46,355,73"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#abaef55427cef4ce34afad16f1da0e981" title="db_real_instance" alt="" coords="209,159,329,186"/>
+<area shape="rect" id="node9" href="$work__space_8h.html#a147e331c4cbda179b8e5c8883d9fdc37" title="ws_oid" alt="" coords="238,429,301,455"/>
+<area shape="rect" id="node3" href="$cursor_8c.html#a86ad2c888f43147f1283c3f6bc842b9c" title="cursor_get_oid_from\l_tuple" alt="" coords="424,5,564,47"/>
+<area shape="rect" id="node5" href="$locator__cl_8c.html#a97fdc87a854adcee66cb56d5f7ebbc12" title="locator_lock_and_doesexist" alt="" coords="403,189,585,215"/>
+<area shape="rect" id="node6" href="$locator__cl_8c.html#ae2d2ef0074e3218a23790885d5db5d0c" title="locator_lock_set" alt="" coords="435,239,553,266"/>
+<area shape="rect" id="node7" href="$virtual__object_8h.html#abd029d221a6187826131177eec01d6ff" title="vid_object_to_vobj" alt="" coords="429,71,559,98"/>
+<area shape="rect" id="node8" href="$work__space_8h.html#af29f561e0d43a84f2fa2a6aeab6b1c22" title="ws_identifier_with\l_check" alt="" coords="431,123,557,164"/>
+<area shape="rect" id="node10" href="$checksumdb_8c.html#afe70c040b8b7d07321e72445770b3f39" title="chksum_start" alt="" coords="443,509,545,535"/>
+<area shape="rect" id="node11" href="$compactdb_8c.html#a993755aa8f3b4d771f7cd9e44edc089d" title="process_class" alt="" coords="633,585,740,611"/>
+<area shape="rect" id="node12" href="$compactdb_8c.html#a363102809a4b04f5bfdd0e28bb160f57" title="process_object" alt="" coords="439,610,549,637"/>
+<area shape="rect" id="node13" href="$compactdb__cl_8c.html#ad8ac2934f7ec63bfee9cfcab72aa95dd" title="compactdb_start" alt="" coords="435,661,553,687"/>
+<area shape="rect" id="node14" href="$unload__object_8c.html#aac2760dc732ad43879d5eb67944529de" title="set_referenced_subclasses" alt="" coords="403,711,585,738"/>
+<area shape="rect" id="node15" href="$unloaddb_8h.html#a8f06d201be33ae14bcdaf8d8bfffb36f" title="extract_objects" alt="" coords="439,762,549,789"/>
+<area shape="rect" id="node16" href="$util__cs_8c.html#a50be983891d3650858dfbc6ad0ee6d37" title="util_get_class_oids\l_and_index_btid" alt="" coords="427,813,561,855"/>
+<area shape="rect" id="node17" href="$class__object_8h.html#a445ed03726ee61c77b0ae6bb06c6cdf6" title="classobj_is_pk_referred" alt="" coords="415,290,573,317"/>
+<area shape="rect" id="node18" href="$object__accessor_8c.html#a132ea4ec633ec5a1816e52e68b65094d" title="find_unique" alt="" coords="450,341,538,367"/>
+<area shape="rect" id="node19" href="$object__accessor_8c.html#ab87a91210c9c563d26a55aff92a5c180" title="obj_find_object_by\l_cons_and_key" alt="" coords="429,392,559,433"/>
+<area shape="rect" id="node20" href="$object__accessor_8h.html#a4d79bde3f9f4c80763293e8c310c7e0f" title="obj_find_object_by_pkey" alt="" coords="411,458,577,485"/>
+</map>

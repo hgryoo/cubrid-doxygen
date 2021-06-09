@@ -1,0 +1,9 @@
+<map id="file_extdata_remaining_capacity" name="file_extdata_remaining_capacity">
+<area shape="rect" id="node2" href="$file__manager_8c.html#ae9af32663c48777d00002fa5b3bee022" title="file_extdata_append\l_array" alt="" coords="205,12,344,53"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#a55c34f23406a73f99ed598f8f5f57152" title="file_table_move_partial\l_sectors_to_header" alt="" coords="395,71,549,112"/>
+<area shape="rect" id="node6" href="$file__manager_8c.html#a769746f4fedea46e0cf3d454a80163b8" title="file_extdata_can_merge" alt="" coords="392,137,552,163"/>
+<area shape="rect" id="node7" href="$file__manager_8c.html#aa0715617bdfb03dfc414a408364f5d89" title="file_extdata_merge\l_ordered" alt="" coords="209,180,341,221"/>
+<area shape="rect" id="node8" href="$file__manager_8c.html#aa40e735a48654f112a4539b5969bada9" title="file_perm_expand" alt="" coords="213,246,337,273"/>
+<area shape="rect" id="node3" href="$file__manager_8c.html#a977275bbed81d4275cc6fec928bb8cd6" title="file_extdata_merge\l_unordered" alt="" coords="406,5,538,47"/>
+<area shape="rect" id="node4" href="$file__manager_8c.html#ac343a3cc3946d542583ebbd53ee5d8e3" title="file_extdata_merge\l_pages" alt="" coords="600,129,732,171"/>
+</map>

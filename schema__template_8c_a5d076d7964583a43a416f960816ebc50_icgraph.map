@@ -1,0 +1,8 @@
+<map id="add_resolution" name="add_resolution">
+<area shape="rect" id="node2" href="$schema__template_8h.html#a6f0b2d9851385ca711f1ac8844efd737" title="smt_add_class_resolution" alt="" coords="160,56,333,83"/>
+<area shape="rect" id="node5" href="$schema__template_8h.html#aede190b07781941d43fb774ebc4f7190" title="smt_add_resolution" alt="" coords="179,107,314,133"/>
+<area shape="rect" id="node3" href="$db__class_8c.html#acea023dbad7432b698fa1d269ae51fae" title="db_add_class_resolution" alt="" coords="383,5,549,32"/>
+<area shape="rect" id="node4" href="$db__temp_8c.html#aa329a261e0351d123b934c53f55b3f02" title="dbt_add_class_resolution" alt="" coords="381,56,551,83"/>
+<area shape="rect" id="node6" href="$db__class_8c.html#ad17afe05e65e8c8f695f5253793329a7" title="db_add_resolution" alt="" coords="403,107,529,133"/>
+<area shape="rect" id="node7" href="$db__temp_8c.html#aeed47cb30ea36255c593def519452fa9" title="dbt_add_resolution" alt="" coords="401,157,531,184"/>
+</map>

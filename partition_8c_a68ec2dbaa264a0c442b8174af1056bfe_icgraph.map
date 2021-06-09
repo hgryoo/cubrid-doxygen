@@ -1,0 +1,5 @@
+<map id="partition_attrinfo_get_key" name="partition_attrinfo_get_key">
+<area shape="rect" id="node2" href="$partition__sr_8h.html#a4b03551c057e006010580063659d3a6c" title="partition_prune_partition\l_index" alt="" coords="168,23,328,65"/>
+<area shape="rect" id="node3" href="$partition__sr_8h.html#ab96db6f944439496bb12bb19d6dc9237" title="partition_prune_unique_btid" alt="" coords="376,5,556,32"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#a3a58f0efdf76a4d2a1e8bc8b915ed0b1" title="btree_load_check_fk" alt="" coords="604,31,747,57"/>
+</map>

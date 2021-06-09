@@ -1,0 +1,6 @@
+<map id="lockfree::tran::descriptor::start_tran_and_increment_id" name="lockfree::tran::descriptor::start_tran_and_increment_id">
+<area shape="rect" id="node2" href="$classlockfree_1_1hashmap.html#a22a26c82e21b90f1debd70162466c7f2" title="lockfree::hashmap::\lpromote_tran_force" alt="" coords="261,5,398,47"/>
+<area shape="rect" id="node4" href="$classlockfree_1_1tran_1_1descriptor.html#ad54c5e767bfe1e5497042af1b6f6a7d8" title="lockfree::tran::descriptor\l::retire_node" alt="" coords="248,71,411,112"/>
+<area shape="rect" id="node3" href="$classlockfree_1_1hashmap.html#a694f6f22737d2e566ac47d0edb870a44" title="lockfree::hashmap::\llist_delete" alt="" coords="459,5,596,47"/>
+<area shape="rect" id="node5" href="$classlockfree_1_1freelist.html#a32402078c9ecee6c1c9aeb04a907d172" title="lockfree::freelist\l::retire" alt="" coords="470,71,585,112"/>
+</map>

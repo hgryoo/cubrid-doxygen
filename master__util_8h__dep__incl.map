@@ -1,0 +1,10 @@
+<map id="src/executables/master_util.h" name="src/executables/master_util.h">
+<area shape="rect" id="node2" href="$connection__cl_8c.html" title="src/connection/connection_cl.c" alt="" coords="5,102,208,129"/>
+<area shape="rect" id="node3" href="$commdb_8c.html" title="src/executables/commdb.c" alt="" coords="232,102,411,129"/>
+<area shape="rect" id="node4" href="$master_8c.html" title="src/executables/master.c" alt="" coords="643,191,813,218"/>
+<area shape="rect" id="node5" href="$master__request_8h.html" title="src/executables/master\l_request.h" alt="" coords="486,95,645,136"/>
+<area shape="rect" id="node6" href="$master__heartbeat_8c.html" title="src/executables/master\l_heartbeat.c" alt="" coords="837,184,995,225"/>
+<area shape="rect" id="node7" href="$master__request_8c.html" title="src/executables/master\l_request.c" alt="" coords="461,184,619,225"/>
+<area shape="rect" id="node8" href="$master__heartbeat_8h.html" title="src/executables/master\l_heartbeat.h" alt="" coords="669,95,827,136"/>
+<area shape="rect" id="node9" href="$master__util_8c.html" title="src/executables/master\l_util.c" alt="" coords="954,95,1113,136"/>
+</map>

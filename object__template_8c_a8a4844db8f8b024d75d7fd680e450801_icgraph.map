@@ -1,0 +1,11 @@
+<map id="obt_update_internal" name="obt_update_internal">
+<area shape="rect" id="node2" href="$object__accessor_8h.html#a2a001a3bd5f060004b9a1e9d9bbc4308" title="obj_copy" alt="" coords="194,31,269,57"/>
+<area shape="rect" id="node4" href="$object__accessor_8h.html#a03cdf4cc2419ff731170d657eb55c3c3" title="obj_create" alt="" coords="190,132,273,159"/>
+<area shape="rect" id="node10" href="$object__template_8h.html#a8aed7ea206d2207e4133a2e039f5878f" title="obt_update" alt="" coords="188,183,275,209"/>
+<area shape="rect" id="node3" href="$db__obj_8c.html#a806c96261ae77770ad41884738290e63" title="db_copy" alt="" coords="374,5,445,32"/>
+<area shape="rect" id="node5" href="$authenticate_8h.html#a2c3263cd9c5ed711d09e7be418d081dd" title="au_install" alt="" coords="371,56,448,83"/>
+<area shape="rect" id="node6" href="$authenticate_8c.html#a6d6d63b0e417da4f892561898c64893c" title="au_make_user" alt="" coords="356,107,463,133"/>
+<area shape="rect" id="node7" href="$authenticate_8c.html#a6cc0705679fa78505fb5a1ca4fef96f6" title="au_set_password_internal" alt="" coords="323,157,496,184"/>
+<area shape="rect" id="node8" href="$db__obj_8c.html#aa826595c9f376b8c9e29dbc5379f0116" title="db_create_internal" alt="" coords="345,208,473,235"/>
+<area shape="rect" id="node9" href="$object__accessor_8h.html#a01e0ca6f972d8b9ec1038b7826fb325d" title="obj_create_by_name" alt="" coords="338,259,481,285"/>
+</map>

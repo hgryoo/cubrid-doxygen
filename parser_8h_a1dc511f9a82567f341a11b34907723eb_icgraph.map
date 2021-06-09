@@ -1,0 +1,9 @@
+<map id="pt_pointer_stack_pop" name="pt_pointer_stack_pop">
+<area shape="rect" id="node2" href="$view__transform_8c.html#aba4fdb830c492f49c5b265ae34ef91cc" title="mq_rewrite_agg_names_post" alt="" coords="213,24,405,51"/>
+<area shape="rect" id="node4" href="$view__transform_8h.html#af770f37e5449f9b1b0836b096cbd0250" title="mq_rewrite_aggregate\l_as_derived" alt="" coords="724,17,875,58"/>
+<area shape="rect" id="node5" href="$parser__support_8c.html#a39f0cacdfaf557611170317075a13a94" title="pt_find_aggregate_functions_post" alt="" coords="200,151,417,177"/>
+<area shape="rect" id="node6" href="$query__rewrite_8c.html#ace6201135ef7c3f735dc445859b48617" title="qo_optimize_queries" alt="" coords="729,227,870,253"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#af7d6ca65ec68176b36cbda6e5634ad93" title="mq_rewrite_agg_names" alt="" coords="491,24,651,51"/>
+<area shape="rect" id="node7" href="$parser__support_8c.html#a420ba98b36b243ea153871e6bde2225e" title="pt_find_aggregate_functions_pre" alt="" coords="465,176,676,203"/>
+<area shape="rect" id="node8" href="$parser__support_8c.html#a591da5af1e8f16ff075e60707cfc9853" title="pt_has_aggregate" alt="" coords="737,151,862,177"/>
+</map>

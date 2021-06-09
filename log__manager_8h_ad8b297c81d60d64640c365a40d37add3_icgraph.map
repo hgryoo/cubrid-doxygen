@@ -1,0 +1,13 @@
+<map id="LOG_CS_OWN" name="LOG_CS_OWN">
+<area shape="rect" id="node2" href="$file__io_8c.html#ac995d33ac060f9392d7077df35692561" title="fileio_flush_control\l_get_token" alt="" coords="193,5,324,47"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#ace5a09d4c8ca0b8e51fca082410667fa" title="logpb_add_archive_page_info" alt="" coords="647,97,840,123"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#ad2a4086ead560587d249dcefe4a943e4" title="logpb_fetch_from_archive" alt="" coords="658,173,829,199"/>
+<area shape="rect" id="node7" href="$log__page__buffer_8c.html#a721f75e714fb216eb1c86e38c1640644" title="logpb_read_page_from_file" alt="" coords="888,322,1065,349"/>
+<area shape="rect" id="node8" href="$log__page__buffer_8c.html#a29e0ca657f7424a668b65e578857ae68" title="logpb_find_oldest_available\l_arv_num" alt="" coords="168,224,349,265"/>
+<area shape="rect" id="node9" href="$log__page__buffer_8c.html#aca52bf7ea3cda88146355cbbbf9a4d87" title="logpb_find_oldest_available\l_page_id" alt="" coords="407,253,589,295"/>
+<area shape="rect" id="node10" href="$log__page__buffer_8c.html#a51b1deba0f4eb61870b44ccb6134760d" title="logpb_get_archive_num\l_from_info_table" alt="" coords="179,341,338,383"/>
+<area shape="rect" id="node11" href="$log__page__buffer_8c.html#aeb7b1a524092c7fd2ca1ad93c6b7cc1a" title="logpb_get_guess_archive_num" alt="" coords="397,349,599,375"/>
+<area shape="rect" id="node12" href="$log__page__buffer_8c.html#a9500f36198ee8f234c458316a92f23ae" title="logpb_is_archive_available" alt="" coords="409,122,587,149"/>
+<area shape="rect" id="node3" href="$file__io_8c.html#a8e6c852e5b478288fab6c8d927ad682f" title="fileio_compensate_flush" alt="" coords="417,13,579,39"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="893,135,1061,162"/>
+</map>

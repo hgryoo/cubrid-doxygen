@@ -1,0 +1,9 @@
+<map id="dwb_signal_waiting_threads" name="dwb_signal_waiting_threads">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#a06c2607303b0027cafce0d4effb81c84" title="dwb_destroy_wait_queue" alt="" coords="201,31,370,57"/>
+<area shape="rect" id="node5" href="$double__write__buffer_8c.html#a0b1fd6e9690b9cf438dee9b2bc1e6c8a" title="dwb_signal_block_completion" alt="" coords="188,81,383,108"/>
+<area shape="rect" id="node7" href="$double__write__buffer_8c.html#a0f85e555d9aaa46c19176d11ab451088" title="dwb_signal_structure\l_modificated" alt="" coords="213,133,358,174"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8c.html#a5776b24a954909a353c19d6029fccb0a" title="dwb_destroy_internal" alt="" coords="617,5,763,32"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8c.html#a0e1b4279bba2ced7f70f5eb056db3502" title="dwb_finalize_block" alt="" coords="434,31,566,57"/>
+<area shape="rect" id="node6" href="$double__write__buffer_8c.html#a9990a5604abb5bdf77d643cd0023fe5b" title="dwb_flush_block" alt="" coords="441,81,559,108"/>
+<area shape="rect" id="node8" href="$double__write__buffer_8c.html#a1d259a0bd9b2441b1072a3fae17ceb20" title="dwb_ends_structure\l_modification" alt="" coords="431,133,569,174"/>
+</map>

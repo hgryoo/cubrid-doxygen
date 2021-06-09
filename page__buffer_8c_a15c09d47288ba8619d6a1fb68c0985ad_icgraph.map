@@ -1,0 +1,5 @@
+<map id="pgbuf_lru_adjust_zone2" name="pgbuf_lru_adjust_zone2">
+<area shape="rect" id="node2" href="$page__buffer_8c.html#ad61cc7e90f9ccaf0bc58b99113c6480c" title="pgbuf_lru_add_new_bcb\l_to_middle" alt="" coords="212,39,375,80"/>
+<area shape="rect" id="node3" href="$page__buffer_8c.html#a76e301b78b2f0d65de56d7b2f57106e0" title="pgbuf_lru_move_from\l_private_to_shared" alt="" coords="423,5,569,47"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#af1d28b14d0180489e3ec532a4dbf54d6" title="pgbuf_unlatch_void\l_zone_bcb" alt="" coords="429,71,563,112"/>
+</map>

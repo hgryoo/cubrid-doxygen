@@ -1,0 +1,10 @@
+<map id="heap_get_class_tde_algorithm" name="heap_get_class_tde_algorithm">
+<area shape="rect" id="node2" href="$btree_8h.html#abc9d118c8b0dccc88f12e39f37e6be0e" title="btree_create_file" alt="" coords="208,5,327,32"/>
+<area shape="rect" id="node5" href="$btree__load_8h.html#a52baec12ce4ea8df8aa2034717cf6ac9" title="btree_create_overflow\l_key_file" alt="" coords="192,57,343,98"/>
+<area shape="rect" id="node6" href="$btree__load_8c.html#ad2eefeb3458e40648543c0ce0948b261" title="btree_index_sort" alt="" coords="395,115,513,141"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#a23cd5f642edebaad25e8fafd58600228" title="heap_create_internal" alt="" coords="196,173,339,200"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#a7c88473682641e0947e1106aa1cc3622" title="heap_ovf_find_vfid" alt="" coords="202,224,333,251"/>
+<area shape="rect" id="node9" href="$file__manager_8c.html#a7cd8d137f0de2bef445d71974c0e4060" title="xfile_apply_tde_to\l_class_files" alt="" coords="391,242,517,283"/>
+<area shape="rect" id="node3" href="$btree_8c.html#ac6cf5583334e01375cf6f96c1db3dd7f" title="xbtree_add_index" alt="" coords="392,5,516,32"/>
+<area shape="rect" id="node4" href="$btree__load_8c.html#af1fa0ea1585315cee58aa5a3ce8a0782" title="xbtree_load_index" alt="" coords="565,56,692,83"/>
+</map>

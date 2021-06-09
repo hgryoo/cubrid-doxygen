@@ -1,0 +1,5 @@
+<map id="btree_record_remove_insid" name="btree_record_remove_insid">
+<area shape="rect" id="node2" href="$btree_8c.html#a4677aa84bd5547452ceca59e56a738ae" title="btree_key_remove_insert\l_mvccid" alt="" coords="197,5,365,47"/>
+<area shape="rect" id="node4" href="$btree_8c.html#af672da2eb4b0968b4e7db6251e51a2a1" title="btree_online_index\l_change_state" alt="" coords="216,71,347,112"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a817f3908f139a51ad647ea391836b176" title="btree_delete_internal" alt="" coords="413,13,556,39"/>
+</map>

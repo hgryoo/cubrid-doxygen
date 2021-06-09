@@ -1,0 +1,11 @@
+<map id="locator_fetch" name="locator_fetch">
+<area shape="rect" id="node2" href="$locator__cl_8c.html#ae31de882d630b39d0dc5e0f2670f63d3" title="locator_lock" alt="" coords="151,199,243,225"/>
+<area shape="rect" id="node3" href="$locator__cl_8c.html#ae2d2ef0074e3218a23790885d5db5d0c" title="locator_lock_set" alt="" coords="329,5,447,32"/>
+<area shape="rect" id="node4" href="$locator__cl_8h.html#a807841a659df9ea7613f212dca2e61d2" title="locator_get_cache_coherency\l_number" alt="" coords="291,57,485,98"/>
+<area shape="rect" id="node5" href="$locator__cl_8h.html#a3f8277df885969c594d6529043245e1a" title="locator_fetch_object" alt="" coords="319,123,457,149"/>
+<area shape="rect" id="node6" href="$locator__cl_8h.html#a43345128717d8aad9ff84393a6bfd367" title="locator_fetch_class" alt="" coords="321,173,455,200"/>
+<area shape="rect" id="node7" href="$locator__cl_8h.html#ad48df9b93687b92ebd22902a680b9409" title="locator_fetch_instance" alt="" coords="533,173,687,200"/>
+<area shape="rect" id="node8" href="$locator__cl_8c.html#acf82bc0f3d4f11a20f464775863f4be1" title="locator_find_class\l_by_oid" alt="" coords="325,275,451,317"/>
+<area shape="rect" id="node9" href="$locator__cl_8c.html#ab9fb1f62ff38efae9c657efd41a2e342" title="locator_find_class\l_by_name" alt="" coords="547,305,673,346"/>
+<area shape="rect" id="node10" href="$locator__cl_8h.html#a162cc8c5c073ef8db7db3d789a6a447b" title="locator_add_class" alt="" coords="325,392,451,419"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pt_free_a_string_block" name="pt_free_a_string_block">
+<area shape="rect" id="node2" href="$parse__tree_8c.html#a453a80356f2200e227fed5405b65133b" title="pt_append_bytes_for" alt="" coords="207,5,349,32"/>
+<area shape="rect" id="node4" href="$parse__tree_8c.html#a3f3542177817ed18392a23f87f8ecef1" title="pt_append_string_for" alt="" coords="207,56,349,83"/>
+<area shape="rect" id="node3" href="$parser_8h.html#a60cb725ef936355d4d9dcd2032e21be0" title="pt_append_bytes" alt="" coords="397,5,519,32"/>
+<area shape="rect" id="node5" href="$parser_8h.html#a60f79a00cd63cfb855940873c4eee6cd" title="pt_append_string" alt="" coords="397,56,519,83"/>
+</map>

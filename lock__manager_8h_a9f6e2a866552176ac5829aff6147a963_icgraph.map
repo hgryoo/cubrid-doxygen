@@ -1,0 +1,7 @@
+<map id="lock_clear_deadlock_victim" name="lock_clear_deadlock_victim">
+<area shape="rect" id="node2" href="$lock__manager_8h.html#a7a4552847269854167212acb2d02de60" title="lock_unlock_all" alt="" coords="227,56,338,83"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#acd4533cedf2007a5f83ab33c5281c081" title="qexec_execute_selupd_list" alt="" coords="193,107,372,133"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#ac8cc1b1140e661523c729c0e9e8f6523" title="log_commit_local" alt="" coords="433,5,556,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#a16ef3597e53279503520c6a8167ff821" title="log_abort_local" alt="" coords="440,56,549,83"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="420,107,569,133"/>
+</map>

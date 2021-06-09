@@ -1,0 +1,7 @@
+<map id="sm_flush_static_methods" name="sm_flush_static_methods">
+<area shape="rect" id="node2" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="231,31,384,57"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#a4be7b0fddaaf69a674a268578c678335" title="db_flush_static_methods" alt="" coords="224,81,391,108"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="635,5,773,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="639,68,769,95"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#aa7beb3207bb2b041cfbaf347ea2bf51a" title="boot_shutdown_client" alt="" coords="439,31,587,57"/>
+</map>

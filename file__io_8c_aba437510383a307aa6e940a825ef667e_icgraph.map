@@ -1,0 +1,6 @@
+<map id="fileio_get_number_of_partition_free_sectors" name="fileio_get_number_of_partition_free_sectors">
+<area shape="rect" id="node2" href="$disk__manager_8c.html#aa1450d661897bab9929324e46c0b641d" title="disk_add_volume" alt="" coords="411,31,533,57"/>
+<area shape="rect" id="node5" href="$file__io_8h.html#aba437510383a307aa6e940a825ef667e" title="fileio_get_number_of\l_partition_free_sectors" alt="" coords="208,65,363,106"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a24432937a48bec91095efd8acca6d4aa" title="disk_add_volume_extension" alt="" coords="581,5,768,32"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#ae499b237d71a7f52450298b19618122a" title="disk_extend" alt="" coords="629,56,721,83"/>
+</map>

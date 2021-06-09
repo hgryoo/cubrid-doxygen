@@ -1,0 +1,5 @@
+<map id="hb_hostname_n_port_to_sockaddr" name="hb_hostname_n_port_to_sockaddr">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#ae4f11a0bfd00085e99405bceaa0d9ecf" title="hb_cluster_send_heartbeat_req" alt="" coords="196,35,399,61"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#a25db7817bb427ccd2146827091c889b1" title="hb_cluster_cleanup" alt="" coords="447,5,581,32"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#a52fae7e8673fc66f45c8ec438e0ad690" title="hb_cluster_request\l_heartbeat_to_all" alt="" coords="448,57,580,98"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="btree_scan" name="btree_scan">
+<area shape="rect" id="node16" href="$structindx__scan__id.html" title="{indx_scan_id\n|+ bt_type\l+ bt_num_attrs\l+ bt_attr_ids\l+ bt_attrs_prefix_length\l+ vstr_ids\l+ num_vstr\l+ one_range\l+ curr_keyno\l+ curr_oidno\l+ copy_buf\l+ oids_count\l+ copy_buf_len\l+ key_cnt\l+ iscan_oid_order\l+ need_count_only\l+ caches_inited\l+ scancache_inited\l+ key_limit_lower\l+ key_limit_upper\l+ check_not_vacuumed\l+ not_vacuumed_res\l|}" alt="" coords="1418,1541,1579,1912"/>
+<area shape="rect" id="node2" href="$structfilter__info.html" title="{filter_info\n|+ btree_attr_ids\l+ num_vstr_ptr\l+ vstr_ids\l+ btree_num_attrs\l+ func_idx_col_id\l|+ filter_info()\l}" alt="" coords="1451,605,1579,741"/>
+<area shape="rect" id="node3" href="$structval__descr.html" title="{val_descr\n|+ dbval_cnt\l+ sys_epochtime\l+ lrand\l+ drand\l|}" alt="" coords="315,241,437,362"/>
+<area shape="rect" id="node17" href="$structindx__cov.html" title="{indx_cov\n|+ query_id\l+ max_tuples\l+ func_index_col_id\l|}" alt="" coords="229,816,368,923"/>
+<area shape="rect" id="node4" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="135,20,233,97"/>
+<area shape="rect" id="node19" href="$structbtree__keyrange.html" title="{btree_keyrange\n|+ range\l+ num_index_term\l|}" alt="" coords="215,437,345,529"/>
+<area shape="rect" id="node5" href="$structval__list__node.html" title="{val_list_node\n|+ val_cnt\l|+ val_list_node()\l}" alt="" coords="1383,263,1502,340"/>
+<area shape="rect" id="node6" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="1149,5,1241,112"/>
+<area shape="rect" id="node12" href="$structbtid__int.html" title="{btid_int\n|+ unique_pk\l+ part_key_desc\l+ copy_buf\l+ copy_buf_len\l+ rev_level\l|}" alt="" coords="977,605,1095,741"/>
+<area shape="rect" id="node14" href="$structtp__domain.html" title="{tp_domain\n|+ precision\l+ scale\l+ built_in_index\l+ codeset\l+ collation_id\l+ collation_flag\l+ self_ref\l+ is_cached\l+ is_parameterized\l+ is_desc\l+ is_visited\l|}" alt="" coords="1128,189,1261,413"/>
+<area shape="rect" id="node7" href="$structscan__pred.html" title="{scan_pred\n||}" alt="" coords="1643,263,1725,340"/>
+<area shape="rect" id="node8" href="$structscan__attrs.html" title="{scan_attrs\n|+ attr_ids\l+ num_attrs\l|}" alt="" coords="1750,255,1842,347"/>
+<area shape="rect" id="node9" href="$structleaf__rec.html" title="{leaf_rec\n|+ key_len\l|}" alt="" coords="822,634,901,711"/>
+<area shape="rect" id="node10" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="633,255,705,347"/>
+<area shape="rect" id="node11" href="$structrecdes.html" title="{recdes\n|+ area_size\l+ length\l+ type\l+ data\l|}" alt="" coords="353,612,444,733"/>
+<area shape="rect" id="node13" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="763,13,824,105"/>
+<area shape="rect" id="node15" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="819,263,920,340"/>
+<area shape="rect" id="node18" href="$structheap__scancache.html" title="{heap_scancache\n|+ debug_initpattern\l+ page_latch\l+ cache_last_fix_page\l+ num_btids\l+ file_type\l|+ start_area()\l+ end_area()\l+ reserve_area()\l+ assign_recdes_to_area()\l+ is_recdes_assigned\l_to_area()\l+ get_area_block_allocator()\l&#45; alloc_area()\l}" alt="" coords="1920,1093,2107,1332"/>
+<area shape="rect" id="node20" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="590,553,695,792"/>
+</map>

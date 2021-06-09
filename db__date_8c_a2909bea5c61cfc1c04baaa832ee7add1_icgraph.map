@@ -1,0 +1,9 @@
+<map id="db_get_day_of_year" name="db_get_day_of_year">
+<area shape="rect" id="node2" href="$string__opfunc_8h.html#a01570b13438240f752acb8bb9c674b47" title="db_get_date_dayofyear" alt="" coords="389,5,547,32"/>
+<area shape="rect" id="node5" href="$string__opfunc_8h.html#a277b43743108f49725f886b07db8c004" title="db_get_date_totaldays" alt="" coords="391,56,545,83"/>
+<area shape="rect" id="node6" href="$db__date_8h.html#ad896832339345586d29f68b310024f7b" title="db_get_week_of_year" alt="" coords="192,107,341,133"/>
+<area shape="rect" id="node8" href="$string__opfunc_8h.html#a3f29e7b346e4bc9566a44c595cad3f31" title="db_time_diff" alt="" coords="421,157,515,184"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="595,56,775,83"/>
+<area shape="rect" id="node4" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="625,107,744,133"/>
+<area shape="rect" id="node7" href="$string__opfunc_8h.html#add020c51279bbae34c49df85c8cea5e8" title="db_get_date_week" alt="" coords="403,107,533,133"/>
+</map>

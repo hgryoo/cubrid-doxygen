@@ -1,0 +1,21 @@
+<map id="qdata_coerce_dbval_to_numeric" name="qdata_coerce_dbval_to_numeric">
+<area shape="rect" id="node2" href="$query__opfunc_8c.html#a6d42da4cedeaa7232fdcf2f19054f3a9" title="qdata_add_numeric" alt="" coords="205,130,340,157"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#a49cbc6c0064c6bebad1c968b766398db" title="qdata_divide_bigint\l_to_dbval" alt="" coords="206,181,339,223"/>
+<area shape="rect" id="node9" href="$query__opfunc_8c.html#ae83ac8560daa1a5afadef1a9062d2bf5" title="qdata_divide_int_to\l_dbval" alt="" coords="205,247,340,288"/>
+<area shape="rect" id="node10" href="$query__opfunc_8c.html#a44dd30b7aea8c89214f98928cb0b0be0" title="qdata_divide_numeric\l_to_dbval" alt="" coords="199,312,347,353"/>
+<area shape="rect" id="node11" href="$query__opfunc_8c.html#af44b08abd27bfba1582c64274b0cbed1" title="qdata_divide_short\l_to_dbval" alt="" coords="207,377,338,419"/>
+<area shape="rect" id="node12" href="$query__opfunc_8c.html#a457b94965433c61b43e8e59a5eeb912c" title="qdata_multiply_numeric" alt="" coords="193,443,352,470"/>
+<area shape="rect" id="node17" href="$query__opfunc_8c.html#a65d7000c3cc0a4ebd636845b24ce23c5" title="qdata_subtract_bigint\l_to_dbval" alt="" coords="199,560,346,601"/>
+<area shape="rect" id="node18" href="$query__opfunc_8c.html#a47a041a32718054b3f5ba2bcea214433" title="qdata_subtract_short\l_to_dbval" alt="" coords="608,619,752,660"/>
+<area shape="rect" id="node19" href="$query__opfunc_8c.html#a95fbc5c896c0a2fddecf0f05fa9537d8" title="qdata_subtract_int\l_to_dbval" alt="" coords="416,619,545,660"/>
+<area shape="rect" id="node20" href="$query__opfunc_8c.html#a389a2f4005cb4675f4c2141c92dc0001" title="qdata_subtract_numeric\l_to_dbval" alt="" coords="192,736,353,777"/>
+<area shape="rect" id="node3" href="$query__opfunc_8c.html#aaa4fc64a3aae2f00688cccdae601613f" title="qdata_add_bigint_to\l_dbval" alt="" coords="411,5,550,47"/>
+<area shape="rect" id="node4" href="$query__opfunc_8c.html#ab523c334c51905e3e11f5acc718f0ecd" title="qdata_add_int_to_dbval" alt="" coords="401,71,560,98"/>
+<area shape="rect" id="node5" href="$query__opfunc_8c.html#ab2a5079d5c9c95386a63db362c1499ae" title="qdata_add_numeric_to\l_dbval" alt="" coords="404,123,557,164"/>
+<area shape="rect" id="node6" href="$query__opfunc_8c.html#a88e35dcda78f66259418964bb14f8fcf" title="qdata_add_short_to\l_dbval" alt="" coords="413,188,549,229"/>
+<area shape="rect" id="node8" href="$query__opfunc_8h.html#aafb8199a5f74c33c642ada2e62e34d3c" title="qdata_divide_dbval" alt="" coords="414,254,547,281"/>
+<area shape="rect" id="node13" href="$query__opfunc_8c.html#a2bce6df96b01799ce0ca2783f095cffb" title="qdata_multiply_short\l_to_dbval" alt="" coords="409,305,552,347"/>
+<area shape="rect" id="node14" href="$query__opfunc_8c.html#aaa932e16fc790dda1b3de6c7a02681bd" title="qdata_multiply_int\l_to_dbval" alt="" coords="417,371,544,412"/>
+<area shape="rect" id="node15" href="$query__opfunc_8c.html#a311d7463077f327f94b95cddef95c343" title="qdata_multiply_bigint\l_to_dbval" alt="" coords="409,436,553,477"/>
+<area shape="rect" id="node16" href="$query__opfunc_8c.html#a4c7c82608e8214db42f47f4b869db1f3" title="qdata_multiply_numeric\l_to_dbval" alt="" coords="401,501,560,543"/>
+</map>

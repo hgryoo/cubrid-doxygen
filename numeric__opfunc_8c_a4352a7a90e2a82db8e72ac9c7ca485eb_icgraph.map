@@ -1,0 +1,9 @@
+<map id="numeric_internal_real_to_num" name="numeric_internal_real_to_num">
+<area shape="rect" id="node2" href="$numeric__opfunc_8h.html#a72476e74a3054daa0fef909b8bdc1e67" title="numeric_internal_double\l_to_num" alt="" coords="199,87,361,129"/>
+<area shape="rect" id="node8" href="$numeric__opfunc_8h.html#aa4ca8052836c8670e6f027a2bc74c24b" title="numeric_internal_float\l_to_num" alt="" coords="205,153,355,194"/>
+<area shape="rect" id="node3" href="$arithmetic_8c.html#ae81208b6a78ab1664c5d4e4d93e9db9f" title="db_mod_short" alt="" coords="639,151,743,177"/>
+<area shape="rect" id="node4" href="$arithmetic_8c.html#ab44ef8fc514f3e8f93919ed3ed34f243" title="db_mod_int" alt="" coords="647,5,736,32"/>
+<area shape="rect" id="node5" href="$arithmetic_8c.html#a555f941ad7ef603d56e52031a4beb720" title="db_mod_bigint" alt="" coords="638,71,745,97"/>
+<area shape="rect" id="node6" href="$arithmetic_8c.html#a1a6833c541d9b51fa3e860ec5b01ea5c" title="db_mod_numeric" alt="" coords="631,205,752,232"/>
+<area shape="rect" id="node7" href="$numeric__opfunc_8h.html#ae53355e5ddddd426d6e4f17a95f2ffa3" title="numeric_db_value_coerce\l_to_num" alt="" coords="409,150,583,191"/>
+</map>

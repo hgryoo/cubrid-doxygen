@@ -1,0 +1,8 @@
+<map id="scan_free_iscan_oid_buf_list" name="scan_free_iscan_oid_buf_list">
+<area shape="rect" id="node2" href="$scan__manager_8h.html#aed4849a437d23cf0913900740556009d" title="scan_close_scan" alt="" coords="213,131,335,157"/>
+<area shape="rect" id="node7" href="$scan__manager_8h.html#a182c8e92047f6d81e263152409c29da0" title="scan_open_index_scan" alt="" coords="195,181,353,208"/>
+<area shape="rect" id="node3" href="$query__executor_8h.html#a8ffca36cae36a3f9c8c3c2c3f79be082" title="qexec_clear_xasl" alt="" coords="423,29,546,56"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a877b2f4b4f062728c8613bc380cdd24b" title="qexec_close_scan" alt="" coords="419,80,550,107"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#aabe6a73176c447365adf5a71e0db3d0a" title="qexec_init_next_partition" alt="" coords="401,181,568,208"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#aae780f3598f8e002d08caef216a1c5b4" title="qexec_merge_fnc" alt="" coords="422,131,547,157"/>
+</map>

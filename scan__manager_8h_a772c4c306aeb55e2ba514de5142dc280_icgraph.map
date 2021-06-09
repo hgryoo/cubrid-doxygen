@@ -1,0 +1,5 @@
+<map id="scan_open_heap_scan" name="scan_open_heap_scan">
+<area shape="rect" id="node2" href="$query__executor_8c.html#aabe6a73176c447365adf5a71e0db3d0a" title="qexec_init_next_partition" alt="" coords="208,5,375,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#ab987ce7bd67fd4b9e0c392cea960d924" title="qexec_open_scan" alt="" coords="228,56,355,83"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a6069afab32f23903fd3a8d1105a3d19e" title="qexec_next_scan_block" alt="" coords="423,5,585,32"/>
+</map>

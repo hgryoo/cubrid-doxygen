@@ -1,0 +1,6 @@
+<map id="qexec_reset_regu_variable_list" name="qexec_reset_regu_variable_list">
+<area shape="rect" id="node2" href="$query__executor_8c.html#aabe6a73176c447365adf5a71e0db3d0a" title="qexec_init_next_partition" alt="" coords="685,5,852,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a9ef9e7dcb744b57482d448e742236824" title="qexec_reset_regu_variable" alt="" coords="255,31,432,57"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a6069afab32f23903fd3a8d1105a3d19e" title="qexec_next_scan_block" alt="" coords="900,5,1063,32"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#aa89c165171e745dbdffff6361c6bea76" title="qexec_reset_pred_expr" alt="" coords="480,31,637,57"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="tran_unilaterally_abort" name="tran_unilaterally_abort">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#a46905b698e1a61916384860ef3f740ce" title="sm_drop_index" alt="" coords="397,104,508,131"/>
+<area shape="rect" id="node8" href="$schema__manager_8h.html#a590133c0df252afada5cb71aa4e6316e" title="sm_exist_index" alt="" coords="219,141,333,168"/>
+<area shape="rect" id="node9" href="$transaction__cl_8h.html#a62d23d4ee828236473e300945ab38221" title="tran_internal_abort\l_upto_savepoint" alt="" coords="211,193,341,234"/>
+<area shape="rect" id="node10" href="$work__space_8h.html#af600c754253867d4e32439b2ef6d72cb" title="ws_abort_transaction" alt="" coords="203,259,349,285"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a8f00c752d96f4e0f1cfec949e777d710" title="do_drop_att_constraints" alt="" coords="741,5,902,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a87e403182b812d0c562c78bc88bf555c" title="do_drop_saved_indexes" alt="" coords="740,59,903,85"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a117d19cbdb55baa5877f998a7c3e9310" title="do_recreate_renamed\l_class_indexes" alt="" coords="748,114,895,155"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#abd1979a808b3a290e4e35b3f3bf039e0" title="sm_drop_constraint" alt="" coords="556,104,692,131"/>
+<area shape="rect" id="node7" href="$schema__manager_8h.html#a50c6ee264efc1c216a6e3174e6821093" title="sm_truncate_class" alt="" coords="755,188,887,215"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="obj_send_method_list" name="obj_send_method_list">
+<area shape="rect" id="node2" href="$object__accessor_8h.html#af1b0f3c8e0c66fad50f75d7669ee36cc" title="obj_desc_send_list" alt="" coords="201,5,335,32"/>
+<area shape="rect" id="node4" href="$object__accessor_8h.html#a7676139fc5b286f191fe57feb2d0a674" title="obj_send_list" alt="" coords="219,80,317,107"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a513cd61df5f0536fd22b0fb7f0981365" title="db_dsend_arglist" alt="" coords="383,5,503,32"/>
+<area shape="rect" id="node5" href="$db__obj_8c.html#a7bf7f5dfc806fcb9ae0c9da8d9e364c1" title="db_send_arglist" alt="" coords="386,80,499,107"/>
+</map>

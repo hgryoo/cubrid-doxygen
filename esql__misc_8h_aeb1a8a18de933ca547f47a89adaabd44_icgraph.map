@@ -1,0 +1,8 @@
+<map id="pp_new_symbol" name="pp_new_symbol">
+<area shape="rect" id="node2" href="$esql__host__variable_8c.html#a90bc4609272246ecd80d2e014d846048" title="pp_add_dummy_structdef" alt="" coords="691,49,863,76"/>
+<area shape="rect" id="node3" href="$esql__misc_8h.html#a6ab5e4da7b03fed5d0a749fc248164f9" title="pp_hv_init" alt="" coords="911,100,992,126"/>
+<area shape="rect" id="node4" href="$esql__misc_8h.html#a3250a026bf3c13a75574a4981b7569c8" title="pp_add_spec_to_decl" alt="" coords="495,100,643,126"/>
+<area shape="rect" id="node5" href="$esql__symbol__table_8c.html#ae81d0f1509405e0a9dbc00c5f36abf1e" title="pp_new_pseudo_def" alt="" coords="706,150,847,177"/>
+<area shape="rect" id="node6" href="$esql__symbol__table_8c.html#a02e8d2412dde67a6833ce771540492cb" title="pp_clone_symbol" alt="" coords="169,49,292,76"/>
+<area shape="rect" id="node7" href="$esql__symbol__table_8c.html#aafbdbd133911a5268898d704e819c685" title="pp_clone_type" alt="" coords="340,49,447,76"/>
+</map>

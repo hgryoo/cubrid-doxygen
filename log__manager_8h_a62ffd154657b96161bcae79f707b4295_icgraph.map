@@ -1,0 +1,9 @@
+<map id="log_get_num_pages_for_creation" name="log_get_num_pages_for_creation">
+<area shape="rect" id="node2" href="$log__manager_8c.html#a42aa216c86d00cbfebc4091404a1292a" title="log_initialize_internal" alt="" coords="217,81,359,108"/>
+<area shape="rect" id="node6" href="$log__recovery_8c.html#a6e4cb0fa20df20ef22e01e5bae16b885" title="log_recovery_resetlog" alt="" coords="213,157,363,184"/>
+<area shape="rect" id="node3" href="$log__manager_8h.html#a95f060b401ef97e5ff9be51b7a304a5b" title="log_initialize" alt="" coords="450,5,543,32"/>
+<area shape="rect" id="node4" href="$log__manager_8h.html#ab971391e6c5e0d4bdf47fa0be88f4db4" title="log_recreate" alt="" coords="450,56,543,83"/>
+<area shape="rect" id="node5" href="$log__manager_8h.html#a425ed5fad08e748df89edfd0350986f9" title="log_restart_emergency" alt="" coords="419,107,574,133"/>
+<area shape="rect" id="node7" href="$log__recovery_8c.html#a57545124a0b490108e49a8ca77acf2d7" title="log_rv_analysis_complete" alt="" coords="411,157,583,184"/>
+<area shape="rect" id="node8" href="$log__recovery_8c.html#afd45fb1ef67df793b067695e37d91623" title="log_recovery_analysis" alt="" coords="421,208,572,235"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="btree_get_unique_statistics" name="btree_get_unique_statistics">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a5d8c811c730d90c49d5a22852ae50b9e" title="logtb_get_global_unique\l_stats_entry" alt="" coords="235,71,396,112"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a960411b184cd03cdac558a2d88b28736" title="logtb_get_global_unique\l_stats" alt="" coords="444,5,605,47"/>
+<area shape="rect" id="node4" href="$log__tran__table_8c.html#acbd3fbf876bafc2892d58450dab217d7" title="logtb_rv_update_global\l_unique_stats_by_abs" alt="" coords="447,71,602,112"/>
+<area shape="rect" id="node5" href="$log__tran__table_8c.html#a234f44761e7ef2be2d15aaf4edd7dc12" title="logtb_update_global\l_unique_stats_by_delta" alt="" coords="445,136,604,177"/>
+</map>

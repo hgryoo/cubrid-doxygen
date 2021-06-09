@@ -1,0 +1,6 @@
+<map id="tzc_read_time_type" name="tzc_read_time_type">
+<area shape="rect" id="node2" href="$tz__compile_8c.html#a1a01a8f8e889ba9bed122e8ee37afaaf" title="str_to_offset_rule\l_until" alt="" coords="189,5,312,47"/>
+<area shape="rect" id="node5" href="$tz__compile_8c.html#a71e1fae606536d3f5c31ddc1e92d60dc" title="tzc_add_ds_rule" alt="" coords="369,67,487,94"/>
+<area shape="rect" id="node3" href="$tz__compile_8c.html#a40a191630134a1a2d9ec77c95fba84e2" title="tzc_add_offset_rule" alt="" coords="360,15,496,42"/>
+<area shape="rect" id="node4" href="$tz__compile_8c.html#afb099526f89b9fb6aa1b3badeafa65de" title="tzc_load_rule_file" alt="" coords="544,42,667,69"/>
+</map>

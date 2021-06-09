@@ -1,0 +1,15 @@
+<map id="numeric_db_value_mul" name="numeric_db_value_mul">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="245,22,351,49"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#a6d5023a6cc407b5d1d0222db0157e162" title="do_create_serial" alt="" coords="239,73,357,100"/>
+<area shape="rect" id="node6" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="208,180,388,206"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#a457b94965433c61b43e8e59a5eeb912c" title="qdata_multiply_numeric" alt="" coords="219,230,377,257"/>
+<area shape="rect" id="node11" href="$query__opfunc_8c.html#a4c7c82608e8214db42f47f4b869db1f3" title="qdata_multiply_numeric\l_to_dbval" alt="" coords="436,320,595,362"/>
+<area shape="rect" id="node12" href="$serial_8c.html#a1e3bce9c0b2265c69b2d3a1fe5e6a1d2" title="serial_get_nth_value" alt="" coords="227,393,369,420"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="643,22,797,49"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="465,22,566,49"/>
+<area shape="rect" id="node8" href="$query__opfunc_8c.html#a2bce6df96b01799ce0ca2783f095cffb" title="qdata_multiply_short\l_to_dbval" alt="" coords="444,124,587,166"/>
+<area shape="rect" id="node9" href="$query__opfunc_8c.html#aaa932e16fc790dda1b3de6c7a02681bd" title="qdata_multiply_int\l_to_dbval" alt="" coords="452,190,579,231"/>
+<area shape="rect" id="node10" href="$query__opfunc_8c.html#a311d7463077f327f94b95cddef95c343" title="qdata_multiply_bigint\l_to_dbval" alt="" coords="443,255,587,296"/>
+<area shape="rect" id="node13" href="$serial_8c.html#ae25b42d347814e48a5ca1a08efa7ecba" title="serial_get_next_cached\l_value" alt="" coords="436,386,595,427"/>
+<area shape="rect" id="node14" href="$serial_8c.html#a5c7fadbb76bc3a179a711c6ffb135494" title="xserial_get_next_value\l_internal" alt="" coords="438,451,593,492"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="proxy_context_find_by_socket_client_io" name="proxy_context_find_by_socket_client_io">
+<area shape="rect" id="node2" href="$shard__proxy__io_8c.html#a6d3e7001257ff60d5a5b81c82ca920bf" title="proxy_process_client\l_conn_error" alt="" coords="201,37,346,79"/>
+<area shape="rect" id="node5" href="$shard__proxy__io_8c.html#aa25007bf6d21e907333698fdca35ab77" title="proxy_process_client\l_register" alt="" coords="201,103,346,144"/>
+<area shape="rect" id="node7" href="$shard__proxy__io_8c.html#a554fa30a9242f1b99d4ecb4c750b0686" title="proxy_process_client\l_request" alt="" coords="201,168,346,209"/>
+<area shape="rect" id="node8" href="$shard__proxy__io_8c.html#a2a6f35e4a2dd9ba12f58f6771284a9fd" title="proxy_socket_io_write\l_to_client" alt="" coords="197,233,349,275"/>
+<area shape="rect" id="node3" href="$shard__proxy__io_8c.html#a13ae9f4705aa90b4586b930c496eb40e" title="proxy_process_client\l_write_error" alt="" coords="397,5,543,47"/>
+<area shape="rect" id="node4" href="$shard__proxy__io_8c.html#ac191df7a6e4e84fdb7d2a3b505532fe3" title="proxy_process_client\l_read_error" alt="" coords="397,71,543,112"/>
+<area shape="rect" id="node6" href="$shard__proxy__io_8c.html#a455a2c4280cb0ced607a986645d0e60a" title="proxy_process_client\l_message" alt="" coords="397,152,543,193"/>
+</map>

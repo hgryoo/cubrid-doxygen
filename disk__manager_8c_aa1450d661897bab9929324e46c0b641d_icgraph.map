@@ -1,0 +1,7 @@
+<map id="disk_add_volume" name="disk_add_volume">
+<area shape="rect" id="node2" href="$disk__manager_8h.html#a24432937a48bec91095efd8acca6d4aa" title="disk_add_volume_extension" alt="" coords="176,64,363,91"/>
+<area shape="rect" id="node5" href="$disk__manager_8c.html#ae499b237d71a7f52450298b19618122a" title="disk_extend" alt="" coords="223,119,315,145"/>
+<area shape="rect" id="node3" href="$boot__sr_8c.html#aecd8a2e1e45c5ccd6f369fcd13ae35bb" title="xboot_add_volume_extension" alt="" coords="411,5,605,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#a9d0b2321745fe1161be99609ac6a46d2" title="boot_parse_add_volume\l_extensions" alt="" coords="427,57,589,98"/>
+<area shape="rect" id="node6" href="$disk__manager_8c.html#a326df30e931243230678a57469e7ba7c" title="disk_reserve_from_cache" alt="" coords="423,123,593,149"/>
+</map>

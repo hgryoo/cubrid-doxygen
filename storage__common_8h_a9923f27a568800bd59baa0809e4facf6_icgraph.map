@@ -1,0 +1,10 @@
+<map id="db_page_size" name="db_page_size">
+<area shape="rect" id="node2" href="$utility_8h.html#a782e5c7e88490d6faaf37d0c32511675" title="createdb" alt="" coords="185,19,257,46"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="156,71,287,112"/>
+<area shape="rect" id="node6" href="$slotted__page_8h.html#a4182ee037a48b1390aa7a2a9a22def93" title="spage_boot" alt="" coords="177,162,266,189"/>
+<area shape="rect" id="node4" href="$page__buffer_8c.html#a06d2b0cbf44eb89ea6c4c9f068cf4344" title="pgbuf_get_page_flush\l_interval" alt="" coords="348,5,497,47"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a7014e631a37bc9e0f7136303cbc78ae6" title="pgbuf_wakeup_page_flush\l_daemon" alt="" coords="335,71,511,112"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#a7a104bbc5e95eb7ba9f3472e2a800fcc" title="boot_create_all_volumes" alt="" coords="339,137,506,163"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="355,187,490,214"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="341,238,505,265"/>
+</map>

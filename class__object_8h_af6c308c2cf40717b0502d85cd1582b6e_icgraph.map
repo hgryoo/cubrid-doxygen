@@ -1,0 +1,11 @@
+<map id="classobj_make_resolution" name="classobj_make_resolution">
+<area shape="rect" id="node2" href="$schema__template_8c.html#a5d076d7964583a43a416f960816ebc50" title="add_resolution" alt="" coords="245,56,352,83"/>
+<area shape="rect" id="node5" href="$schema__manager_8c.html#a9511a61d00ee238f764699c6d42300e0" title="auto_resolve_conflict" alt="" coords="226,107,371,133"/>
+<area shape="rect" id="node7" href="$class__object_8h.html#adcdc394ba406950e75e0d4ba085740f1" title="classobj_copy_reslist" alt="" coords="225,157,372,184"/>
+<area shape="rect" id="node10" href="$transform__cl_8c.html#af91ee267dae68f6b8e15c955619337c7" title="disk_to_resolution" alt="" coords="235,208,362,235"/>
+<area shape="rect" id="node3" href="$schema__template_8h.html#aede190b07781941d43fb774ebc4f7190" title="smt_add_resolution" alt="" coords="439,5,574,32"/>
+<area shape="rect" id="node4" href="$schema__template_8h.html#a6f0b2d9851385ca711f1ac8844efd737" title="smt_add_class_resolution" alt="" coords="420,56,593,83"/>
+<area shape="rect" id="node6" href="$schema__manager_8c.html#a9111c9be0c88ab939f23c020c67bfd36" title="resolve_candidates" alt="" coords="439,107,574,133"/>
+<area shape="rect" id="node8" href="$class__object_8h.html#ac2f36b9f52f4fd5d4410b163d5c73c6e" title="classobj_make_template" alt="" coords="423,157,590,184"/>
+<area shape="rect" id="node9" href="$schema__manager_8c.html#a9d80422f1483e9a1c9bc346c529a29e7" title="filter_resolutions" alt="" coords="448,208,565,235"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="disk_volume_header" name="disk_volume_header">
+<area shape="rect" id="node2" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="5,241,71,318"/>
+<area shape="rect" id="node3" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="7,5,69,97"/>
+<area shape="rect" id="node4" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="95,160,200,399"/>
+</map>

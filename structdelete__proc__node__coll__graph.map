@@ -1,0 +1,5 @@
+<map id="delete_proc_node" name="delete_proc_node">
+<area shape="rect" id="node2" href="$structupddel__class__info.html" title="{upddel_class_info\n|+ num_subclasses\l+ num_attrs\l+ att_id\l+ needs_pruning\l+ has_uniques\l+ num_lob_attrs\l+ lob_attr_ids\l+ num_extra_assign_reev\l+ mvcc_extra_assign_reev\l|}" alt="" coords="13,175,191,369"/>
+<area shape="rect" id="node3" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,5,97,112"/>
+<area shape="rect" id="node4" href="$structhfid.html" title="{hfid\n|+ hpgid\l|}" alt="" coords="121,20,187,97"/>
+</map>

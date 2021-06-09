@@ -1,0 +1,21 @@
+<map id="numeric_coerce_num_to_bigint" name="numeric_coerce_num_to_bigint">
+<area shape="rect" id="node2" href="$load__sa__loader_8cpp.html#a224f9bc2a6a7e11916724f38e35d93b6" title="ldr_int_db_bigint" alt="" coords="229,5,345,32"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#a843e7b41907a7612b59500152cbd4889" title="ldr_int_elem" alt="" coords="241,81,333,108"/>
+<area shape="rect" id="node7" href="$numeric__opfunc_8h.html#a2934147eb85e158f40bb51be6d46cad1" title="numeric_db_value_coerce\l_from_num" alt="" coords="200,279,373,321"/>
+<area shape="rect" id="node13" href="$numeric__opfunc_8h.html#af43f488f1fb95c537501c690b0133562" title="numeric_db_value_coerce\l_from_num_strict" alt="" coords="200,425,373,466"/>
+<area shape="rect" id="node15" href="$numeric__opfunc_8c.html#af53df31fc108418e9d3d8ad21c17e866" title="numeric_div" alt="" coords="241,491,333,517"/>
+<area shape="rect" id="node17" href="$namespacecubload.html#a06ce3764d64877e8885da07cb52d5d14" title="cubload::to_db_bigint" alt="" coords="214,541,359,568"/>
+<area shape="rect" id="node20" href="$namespacecubload.html#a5c55b37ca45ea6cf3f004e0bc558c0bc" title="cubload::to_int_generic" alt="" coords="209,617,365,644"/>
+<area shape="rect" id="node3" href="$load__sa__loader_8cpp.html#af3144eb2dc546ac311d12e80c693b3e8" title="ldr_act_add_attr" alt="" coords="648,31,763,57"/>
+<area shape="rect" id="node5" href="$load__sa__loader_8cpp.html#af41b16fc6c7965267350c2502f2bde99" title="ldr_init_loader" alt="" coords="453,31,556,57"/>
+<area shape="rect" id="node6" href="$load__sa__loader_8cpp.html#a0d2f4843e2592a7266e462749ef0255c" title="ldr_int_db_generic" alt="" coords="441,81,568,108"/>
+<area shape="rect" id="node8" href="$dbtype__function_8h.html#a75c448d50f963072a30394a0f0ba2e57" title="db_value_get" alt="" coords="455,156,554,183"/>
+<area shape="rect" id="node9" href="$object__domain_8c.html#ab0e24e860f0462d4ea6c11c1529b3d69" title="tp_value_cast_internal" alt="" coords="429,207,581,233"/>
+<area shape="rect" id="node10" href="$object__template_8c.html#a95c3533b251fa709472caaf7bfef3ecb" title="populate_auto_increment" alt="" coords="421,257,588,284"/>
+<area shape="rect" id="node11" href="$query__opfunc_8c.html#a228fccfe2f56ecac530affa570930dd0" title="qdata_coerce_numeric\l_to_double" alt="" coords="428,309,581,350"/>
+<area shape="rect" id="node12" href="$heap__file_8h.html#ab7c22521ae5b0786918abc192a3ba4a8" title="heap_set_autoincrement\l_value" alt="" coords="423,374,587,415"/>
+<area shape="rect" id="node14" href="$object__domain_8h.html#a3ef8fad832e5b2d18462ff84b286782a" title="tp_value_coerce_strict" alt="" coords="428,440,581,467"/>
+<area shape="rect" id="node16" href="$numeric__opfunc_8h.html#adc92df2237df745a925b2bffdc1f2738" title="numeric_db_value_div" alt="" coords="429,491,580,517"/>
+<area shape="rect" id="node18" href="$namespacecubload.html#a6d702c4d8a100157f6f5f902483d665c" title="cubload::init_setters" alt="" coords="636,592,775,619"/>
+<area shape="rect" id="node19" href="$namespacecubload.html#a911ffeb4720ba3fe9e90aab91ea17007" title="cubload::to_db_int_set" alt="" coords="428,592,581,619"/>
+</map>

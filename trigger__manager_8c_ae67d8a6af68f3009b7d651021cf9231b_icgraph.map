@@ -1,0 +1,7 @@
+<map id="flush_deferred_activities" name="flush_deferred_activities">
+<area shape="rect" id="node2" href="$trigger__manager_8h.html#a6156edd6b804b5f36cd6c4001dc778f4" title="tr_check_abort_triggers" alt="" coords="224,31,383,57"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#afa0330b36f45069776820158359e133e" title="tr_check_rollback_triggers" alt="" coords="216,81,391,108"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#a9e71fa0a6f1647abd4c892b9ba0699df" title="tr_final" alt="" coords="273,132,334,159"/>
+<area shape="rect" id="node3" href="$transaction__cl_8h.html#af107da90cb2131360dd501abdabbf34c" title="tran_unilaterally_abort" alt="" coords="439,5,588,32"/>
+<area shape="rect" id="node4" href="$transaction__cl_8h.html#a938f5814219f14c56e528805ddca545a" title="tran_abort_only_client" alt="" coords="439,56,588,83"/>
+</map>

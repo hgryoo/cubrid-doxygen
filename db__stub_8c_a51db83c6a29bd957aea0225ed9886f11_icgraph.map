@@ -1,0 +1,4 @@
+<map id="stmt_destroyf" name="stmt_destroyf">
+<area shape="rect" id="node2" href="$db__stub_8c.html#abf3ea25208d2f7da5fa5c48aa5311e2d" title="init_stmt_structure" alt="" coords="156,5,287,32"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#aa092aad668c349f178faf0afd8eb22d3" title="ci_conn_create_statement_impl" alt="" coords="335,5,541,32"/>
+</map>

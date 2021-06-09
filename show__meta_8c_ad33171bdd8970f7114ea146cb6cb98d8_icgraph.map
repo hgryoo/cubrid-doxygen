@@ -1,0 +1,7 @@
+<map id="free_db_attribute_list" name="free_db_attribute_list">
+<area shape="rect" id="node2" href="$show__meta_8h.html#a01a8418cfb9ce1ce00f02150bc689ec9" title="showstmt_metadata_final" alt="" coords="196,44,367,71"/>
+<area shape="rect" id="node6" href="$show__meta_8h.html#ab0552089a75aa03dce6b5863a0d09f79" title="showstmt_metadata_init" alt="" coords="415,132,579,159"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="627,5,765,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="631,81,761,108"/>
+<area shape="rect" id="node5" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="420,31,573,57"/>
+</map>

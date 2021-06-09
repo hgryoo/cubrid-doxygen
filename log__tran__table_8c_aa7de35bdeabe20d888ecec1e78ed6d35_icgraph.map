@@ -1,0 +1,8 @@
+<map id="logtb_initialize_tdes" name="logtb_initialize_tdes">
+<area shape="rect" id="node2" href="$log__tran__table_8c.html#a182347f41511bed32f584218e27429e5" title="logtb_allocate_tdes_area" alt="" coords="189,20,356,47"/>
+<area shape="rect" id="node4" href="$log__system__tran_8cpp.html#aba9e2fa09d0a2c55fedde39e867dbb2b" title="systdes_create_tdes" alt="" coords="201,100,344,127"/>
+<area shape="rect" id="node3" href="$log__tran__table_8c.html#a9d858c98e9a769b71176ddb505acddfd" title="logtb_expand_trantable" alt="" coords="404,5,560,32"/>
+<area shape="rect" id="node5" href="$classlog__system__tdes.html#a83640a80d8078137213069705bfcfb03" title="log_system_tdes::log\l_system_tdes" alt="" coords="608,107,755,149"/>
+<area shape="rect" id="node6" href="$classlog__system__tdes.html#ade8d3f4af5def4b70a24d5e3fb9ad3b6" title="log_system_tdes::rv\l_get_or_alloc_tdes" alt="" coords="412,107,552,149"/>
+<area shape="rect" id="node7" href="$log__system__tran_8cpp.html#acc4f299b8fde335939110387732e2e6b" title="systdes_claim_tdes" alt="" coords="413,173,551,200"/>
+</map>

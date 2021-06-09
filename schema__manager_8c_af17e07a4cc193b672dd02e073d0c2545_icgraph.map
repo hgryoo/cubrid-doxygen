@@ -1,0 +1,6 @@
+<map id="sm_set_class_flag" name="sm_set_class_flag">
+<area shape="rect" id="node2" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="364,31,483,57"/>
+<area shape="rect" id="node5" href="$execute__schema_8c.html#a71e57012993f98148b4b9bb1236f7daa" title="do_create_partition" alt="" coords="184,56,316,83"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="531,5,632,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="680,31,835,57"/>
+</map>

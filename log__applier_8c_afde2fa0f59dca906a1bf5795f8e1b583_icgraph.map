@@ -1,0 +1,8 @@
+<map id="la_log_commit" name="la_log_commit">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a985ea807a9f77fb66077722eea3554a9" title="la_apply_log_file" alt="" coords="564,64,683,90"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a66109c2ee48a3383a836285465ea62aa" title="la_change_state" alt="" coords="381,38,499,65"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#af6a61a71316f5835642b6c103e9eba30" title="la_check_time_commit" alt="" coords="160,89,316,116"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#a7cab251e5011f59cf25dfdb0aac79600" title="la_delay_replica" alt="" coords="181,140,295,166"/>
+<area shape="rect" id="node7" href="$log__applier_8c.html#ae29a327cb902156f5431da85b865f21b" title="la_log_record_process" alt="" coords="364,140,516,166"/>
+<area shape="rect" id="node3" href="$utility_8h.html#aa7a280251cdf100c28e06298f181b584" title="applylogdb" alt="" coords="731,64,815,90"/>
+</map>

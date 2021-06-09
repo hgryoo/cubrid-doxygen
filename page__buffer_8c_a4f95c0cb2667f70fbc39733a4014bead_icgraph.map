@@ -1,0 +1,13 @@
+<map id="pgbuf_flush_with_wal" name="pgbuf_flush_with_wal">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a9cab2c21033a961d7fe5e685ce0cc566" title="heap_flush" alt="" coords="235,56,320,83"/>
+<area shape="rect" id="node5" href="$overflow__file_8c.html#aa338d72e8fc980c25ac9ba6c30710942" title="overflow_flush_internal" alt="" coords="200,107,355,133"/>
+<area shape="rect" id="node7" href="$page__buffer_8h.html#a203b6cc9d514cc48e421b315c72e9ec7" title="pgbuf_flush" alt="" coords="233,233,322,260"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#af22273abf42535dc9e08de112e5b4034" title="boot_dbparm_save_volume" alt="" coords="403,5,584,32"/>
+<area shape="rect" id="node4" href="$tde_8h.html#a4b9691b2ecb953c3318e62b0a2a5792d" title="tde_change_mk" alt="" coords="436,56,551,83"/>
+<area shape="rect" id="node6" href="$overflow__file_8c.html#a5bd292901dc0a008d600f47b38f6e911" title="overflow_traverse" alt="" coords="431,107,556,133"/>
+<area shape="rect" id="node8" href="$disk__manager_8h.html#a38360128ad8b10ad2b681ca334f6c369" title="disk_set_creation" alt="" coords="431,157,555,184"/>
+<area shape="rect" id="node9" href="$disk__manager_8h.html#a2bab7d4af00d351387c2eb202700d58d" title="disk_set_link" alt="" coords="444,208,543,235"/>
+<area shape="rect" id="node10" href="$disk__manager_8c.html#ad67cba5035ba371ef155b71183c0431e" title="disk_stab_init" alt="" coords="442,259,545,285"/>
+<area shape="rect" id="node11" href="$disk__manager_8h.html#a0de0cdac61f83db678921e1d7efde449" title="disk_set_checkpoint" alt="" coords="423,309,564,336"/>
+<area shape="rect" id="node12" href="$page__buffer_8h.html#aa3ff43fa56474666ebd3a16b6f7335c8" title="pgbuf_rv_flush_page" alt="" coords="422,360,565,387"/>
+</map>

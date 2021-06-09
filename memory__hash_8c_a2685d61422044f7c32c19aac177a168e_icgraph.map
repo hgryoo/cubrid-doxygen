@@ -1,0 +1,10 @@
+<map id="mht_put_new" name="mht_put_new">
+<area shape="rect" id="node2" href="$heap__file_8c.html#ac5cd3d09e06ead717f4c1040da5d7e78" title="heap_stats_add_bestspace" alt="" coords="153,148,335,175"/>
+<area shape="rect" id="node9" href="$list__file_8h.html#abc17ed70916eb928bd01032874ddb1c2" title="qfile_update_list_cache\l_entry" alt="" coords="165,199,323,241"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#a38649266971c61b3ea363c237acbe54c" title="heap_stats_update" alt="" coords="411,5,543,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#ab3cb899c1d19e4e21ef56cbaf2630ffa" title="heap_stats_find_page\l_in_bestspace" alt="" coords="402,57,551,98"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a320a296b462305ebbf9f0cbef9b52029" title="heap_stats_sync_bestspace" alt="" coords="383,123,571,149"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#a24b8c714d34488d9989103a9235c4b9f" title="heap_vpid_alloc" alt="" coords="419,173,534,200"/>
+<area shape="rect" id="node7" href="$heap__file_8c.html#a1063293444bb398d29a2b95ccdcecd33" title="heap_reuse" alt="" coords="432,224,521,251"/>
+<area shape="rect" id="node8" href="$heap__file_8h.html#a2b0c3f9af6d7acec2a7c754c14acbdf4" title="xheap_reclaim_addresses" alt="" coords="390,275,563,301"/>
+</map>

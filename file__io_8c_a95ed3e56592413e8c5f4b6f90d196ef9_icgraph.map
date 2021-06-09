@@ -1,0 +1,15 @@
+<map id="fileio_page_check_corruption" name="fileio_page_check_corruption">
+<area shape="rect" id="node2" href="$double__write__buffer_8c.html#afcf0480c55f8a719699f416082dc8206" title="dwb_check_data_page\l_is_sane" alt="" coords="262,19,417,60"/>
+<area shape="rect" id="node4" href="$double__write__buffer_8c.html#ac80751d9f61eda97c899d3ad1b62180e" title="dwb_debug_check_dwb" alt="" coords="259,110,420,137"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#aa7f4946b49981798d50ffae1c26aeee4" title="pgbuf_check_bcb_page_vpid" alt="" coords="244,211,435,238"/>
+<area shape="rect" id="node13" href="$file__io_8c.html#aca6d2f0fa8db31627a725fcb74139310" title="pwrite_with_injected\l_fault" alt="" coords="269,351,409,392"/>
+<area shape="rect" id="node3" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="493,5,647,47"/>
+<area shape="rect" id="node6" href="$page__buffer_8h.html#a357cf3a6a55afa60467bfa1b3a8db3fe" title="pgbuf_fix_debug" alt="" coords="511,71,629,98"/>
+<area shape="rect" id="node7" href="$page__buffer_8h.html#add423e5b0a2a154224d4ab7810fc0e6a" title="pgbuf_get_page_id" alt="" coords="505,122,635,149"/>
+<area shape="rect" id="node8" href="$page__buffer_8h.html#a17e80064f8a2c4ca732039acf0391249" title="pgbuf_get_page_ptype" alt="" coords="493,173,647,199"/>
+<area shape="rect" id="node9" href="$page__buffer_8h.html#a087e0ba35d14f58979e47ce998f2bcb1" title="pgbuf_set_page_ptype" alt="" coords="493,223,647,250"/>
+<area shape="rect" id="node10" href="$page__buffer_8c.html#afcbff851fe2c67ac53f0e5ad749cf807" title="pgbuf_unlatch_bcb_upon\l_unfix" alt="" coords="487,275,653,316"/>
+<area shape="rect" id="node11" href="$page__buffer_8c.html#a6ebdf1006f6b5bb49a3fc4c4f8f75e31" title="pgbuf_bcb_flush_with_wal" alt="" coords="483,341,657,367"/>
+<area shape="rect" id="node12" href="$page__buffer_8c.html#a8fcb9f06c911dd15ea90ac6691edbbbf" title="pgbuf_check_page_ptype\l_internal" alt="" coords="485,392,655,433"/>
+<area shape="rect" id="node14" href="$file__io_8c.html#a8e7a49def94a8699adba85f5e3f4c4f1" title="fileio_os_write" alt="" coords="517,458,623,485"/>
+</map>

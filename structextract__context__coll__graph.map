@@ -1,0 +1,4 @@
+<map id="extract_context" name="extract_context">
+<area shape="rect" id="node2" href="$structdb__objlist.html" title="{db_objlist\n||}" alt="" coords="63,321,141,399"/>
+<area shape="rect" id="node3" href="$structdb__object.html" title="{db_object\n|+ object\l+ lock\l+ mvcc_snapshot_version\l+ pruning_type\l+ composition_fetch\l+ dirty\l+ deleted\l+ no_objects\l+ pinned\l+ is_vid\l+ is_temp\l+ released\l+ decached\l|}" alt="" coords="15,5,189,259"/>
+</map>

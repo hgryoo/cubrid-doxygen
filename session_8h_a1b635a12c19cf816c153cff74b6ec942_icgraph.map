@@ -1,0 +1,5 @@
+<map id="session_states_dump" name="session_states_dump">
+<area shape="rect" id="node2" href="$session_8h.html#a6040d805991e73f567b655103d39ab84" title="session_states_finalize" alt="" coords="203,31,361,57"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="422,5,557,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#a58f51ba62e4468649d312174b9ddd6c8" title="xboot_shutdown_server" alt="" coords="409,56,569,83"/>
+</map>

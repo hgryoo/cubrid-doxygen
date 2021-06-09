@@ -1,0 +1,18 @@
+<map id="pt_associate_label_with_value_check_reference" name="pt_associate_label_with_value_check_reference">
+<area shape="rect" id="node2" href="$execute__statement_8c.html#afebe30802395d32dda1ba7b0b9d131ae" title="call_method" alt="" coords="289,56,381,83"/>
+<area shape="rect" id="node7" href="$dbi__compat_8h.html#af58aede09e216c3b0c517641edd64e31" title="db_bind_parameter_name" alt="" coords="249,512,420,539"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#ac6812987c145992f6a8a99857bbce132" title="do_evaluate" alt="" coords="493,141,585,168"/>
+<area shape="rect" id="node9" href="$execute__statement_8h.html#acbd760c1942dbf1e164bde9ee1c473c9" title="do_execute_select" alt="" coords="661,411,792,437"/>
+<area shape="rect" id="node10" href="$execute__statement_8h.html#aeb0727e2943818bb2f6be2e9c6bce087" title="do_execute_session\l_statement" alt="" coords="656,462,797,503"/>
+<area shape="rect" id="node11" href="$execute__statement_8h.html#a0d658fe69305515b1fbf890a91000bfa" title="do_get_optimization\l_param" alt="" coords="469,193,608,234"/>
+<area shape="rect" id="node12" href="$execute__statement_8h.html#a9367422aa1fee38db7338977534a60f3" title="do_get_stats" alt="" coords="490,259,587,285"/>
+<area shape="rect" id="node13" href="$execute__statement_8h.html#afeb88675be95347ead147b1d7e9b444a" title="do_get_trigger" alt="" coords="487,309,591,336"/>
+<area shape="rect" id="node14" href="$execute__statement_8h.html#a1e6cca6496f9a46ab48da05ea51b19a6" title="do_get_xaction" alt="" coords="483,360,594,387"/>
+<area shape="rect" id="node15" href="$execute__statement_8c.html#afc8676086646494b31f8b100d05f13da" title="do_insert_template" alt="" coords="269,563,401,589"/>
+<area shape="rect" id="node16" href="$execute__statement_8c.html#a3253881929bb3083cba7e2825304d246" title="do_select_internal" alt="" coords="271,613,398,640"/>
+<area shape="rect" id="node17" href="$jsp__cl_8h.html#a8717d3a57e5a94ca836a2022b796793d" title="jsp_call_stored_procedure" alt="" coords="248,107,421,133"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a50ddf81e4f4f001d75513104cec3607e" title="do_execute_insert" alt="" coords="663,5,791,32"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#adef089db73d39e3cc7a142122206b0f5" title="do_call_method" alt="" coords="482,73,595,100"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="845,233,1000,260"/>
+<area shape="rect" id="node6" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="676,208,777,235"/>
+</map>

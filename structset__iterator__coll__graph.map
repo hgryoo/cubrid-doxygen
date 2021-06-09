@@ -1,0 +1,6 @@
+<map id="set_iterator" name="set_iterator">
+<area shape="rect" id="node2" href="$structdb__value__list.html" title="{db_value_list\n||}" alt="" coords="72,349,171,427"/>
+<area shape="rect" id="node3" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="73,5,170,83"/>
+<area shape="rect" id="node4" href="$structsetobj.html" title="{setobj\n|+ coltype\l+ size\l+ lastinsert\l+ topblock\l+ arraytop\l+ topblockcount\l+ sorted\l+ may_have_temporary_oids\l|}" alt="" coords="180,145,370,325"/>
+<area shape="rect" id="node5" href="$structdb__set.html" title="{db_set\n|+ disk_set\l+ attribute\l+ ref_count\l+ disk_size\l+ need_clear\l|}" alt="" coords="308,451,405,587"/>
+</map>

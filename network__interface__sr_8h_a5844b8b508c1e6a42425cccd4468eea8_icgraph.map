@@ -1,0 +1,7 @@
+<map id="xs_receive_data_from_client_with_timeout" name="xs_receive_data_from_client_with_timeout">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#aee30b528b00129e0fbf232bd334a0f92" title="xlog_get_page_request\l_with_reply" alt="" coords="204,5,360,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a9be359a18591c08d22e974f43b664280" title="xs_receive_data_from\l_client" alt="" coords="207,71,357,112"/>
+<area shape="rect" id="node3" href="$log__writer_8h.html#af1e1368d8e63a233e503b44c7cad4f4e" title="logwr_log_ha_filestat\l_to_string" alt="" coords="423,5,567,47"/>
+<area shape="rect" id="node5" href="$file__io_8h.html#aa20a327c4a251274c5f5a27229f5b234" title="fileio_request_user\l_response" alt="" coords="430,71,561,112"/>
+<area shape="rect" id="node6" href="$method__scan_8c.html#a0b17489ba93adc5032bdf2745b1e7d64" title="method_clear_scan_buffer" alt="" coords="408,137,583,163"/>
+</map>

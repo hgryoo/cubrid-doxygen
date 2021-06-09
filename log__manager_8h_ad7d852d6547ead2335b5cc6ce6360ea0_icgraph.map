@@ -1,0 +1,15 @@
+<map id="log_wakeup_log_flush_daemon" name="log_wakeup_log_flush_daemon">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#aa91abaf89af63e703737ac5c00d7cd7d" title="logpb_flush_pages" alt="" coords="419,98,549,124"/>
+<area shape="rect" id="node10" href="$page__buffer_8h.html#a075363d88fc5854db4864efc56e5ea5e" title="pgbuf_flush_victim\l_candidates" alt="" coords="212,262,343,304"/>
+<area shape="rect" id="node11" href="$log__append_8cpp.html#a055967129308b00d1f5fab263f24da07" title="prior_lsa_next_record\l_internal" alt="" coords="204,197,351,238"/>
+<area shape="rect" id="node3" href="$log__2pc_8h.html#a6ae2e71f9ebb8789390c01087bb8e947" title="log_2pc_prepare_global_tran" alt="" coords="623,266,810,292"/>
+<area shape="rect" id="node4" href="$log__2pc_8c.html#a0b4b07ad424446ad3c9292440f8dc432" title="log_2pc_append_start" alt="" coords="642,316,791,343"/>
+<area shape="rect" id="node5" href="$log__2pc_8c.html#a6de65c9860465e42247d14cd310d9ec6" title="log_2pc_append_decision" alt="" coords="631,98,802,124"/>
+<area shape="rect" id="node6" href="$log__manager_8h.html#a7ef2b913287067a2beccb363958ee1ae" title="log_append_ha_server\l_state" alt="" coords="641,149,793,190"/>
+<area shape="rect" id="node7" href="$log__manager_8c.html#a10de2e470bc106af7ae59bb103a2f305" title="log_append_commit_postpone" alt="" coords="617,215,816,242"/>
+<area shape="rect" id="node8" href="$log__manager_8c.html#a7f7a5833cb6b2f3a205c26fa0761e76d" title="log_change_tran_as\l_completed" alt="" coords="647,32,786,73"/>
+<area shape="rect" id="node9" href="$log__manager_8h.html#a6e6203b82cc1468c2d16162ec6796aff" title="log_complete_for_2pc" alt="" coords="864,39,1013,66"/>
+<area shape="rect" id="node12" href="$log__append_8cpp.html#a553a400bcf304b06d81ee6ec64b8a352" title="LOG_PRIOR_LSA_LAST\l_APPEND_OFFSET" alt="" coords="399,214,569,256"/>
+<area shape="rect" id="node13" href="$log__append_8hpp.html#a637f52193eda94f6abd2d93ec3b414f2" title="prior_lsa_next_record" alt="" coords="411,280,557,307"/>
+<area shape="rect" id="node14" href="$log__append_8hpp.html#a3360e53b8acdd0f7a144e0ef858fe285" title="prior_lsa_next_record\l_with_lock" alt="" coords="411,149,557,190"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="locator_assign_oidset" name="locator_assign_oidset">
+<area shape="rect" id="node2" href="$set__object_8h.html#ac7f17820da488a80242541a4e1c3471a" title="col_permanent_oids" alt="" coords="216,5,355,32"/>
+<area shape="rect" id="node4" href="$load__sa__loader_8cpp.html#a555f3bf9d675006f81a7e6e1489620fe" title="ldr_assign_all_perm_oids" alt="" coords="201,56,369,83"/>
+<area shape="rect" id="node5" href="$locator__cl_8c.html#a042cf606b12c1f7f2ca71fd23ce78cbe" title="locator_add_to_oidset\l_when_temp_oid" alt="" coords="211,107,360,149"/>
+<area shape="rect" id="node6" href="$locator__cl_8h.html#ac9c385d791975c7c8603cc0626723aae" title="locator_assign_all\l_permanent_oids" alt="" coords="417,133,544,174"/>
+<area shape="rect" id="node7" href="$transform__cl_8c.html#afc0c03379e4c00467d69727c120563f9" title="tf_do_fixup" alt="" coords="242,224,329,251"/>
+<area shape="rect" id="node3" href="$set__object_8h.html#aed4de30fed32480ab002bdfaf177e0e6" title="setobj_sort" alt="" coords="437,5,524,32"/>
+<area shape="rect" id="node8" href="$transform__cl_8h.html#a275a0c1713145e8880a155f43d3e90b2" title="tf_mem_to_disk" alt="" coords="423,224,538,251"/>
+</map>

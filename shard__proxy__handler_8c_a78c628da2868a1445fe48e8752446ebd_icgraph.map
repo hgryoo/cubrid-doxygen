@@ -1,0 +1,5 @@
+<map id="proxy_waiter_timeout" name="proxy_waiter_timeout">
+<area shape="rect" id="node2" href="$shard__proxy__io_8h.html#a15000b04c6ba893eb7893965e30d1c9c" title="proxy_available_cas\l_wait_timer" alt="" coords="205,5,345,47"/>
+<area shape="rect" id="node4" href="$shard__statement_8h.html#aa92335d3c488be8602104eb19902e3e5" title="shard_statement_wait\l_timer" alt="" coords="200,71,351,112"/>
+<area shape="rect" id="node3" href="$shard__proxy__handler_8h.html#aac1822128b1cc74160782511663afa5c" title="proxy_timer_process" alt="" coords="399,46,541,73"/>
+</map>

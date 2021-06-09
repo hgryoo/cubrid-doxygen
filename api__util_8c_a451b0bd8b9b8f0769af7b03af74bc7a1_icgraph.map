@@ -1,0 +1,10 @@
+<map id="hash_lookup" name="hash_lookup">
+<area shape="rect" id="node2" href="$cci__stub_8c.html#a403f9866eb677c6d2c0b31e8301197d8" title="opool_get_object_resultset" alt="" coords="148,5,325,32"/>
+<area shape="rect" id="node4" href="$db__object_8c.html#aa6194cb50fe2c57abe0aa3705a58f080" title="orp_api_get_object\l_resultset" alt="" coords="171,57,302,98"/>
+<area shape="rect" id="node6" href="$db__object_8c.html#a643a75a453316c1f83e434d68c60a244" title="orp_oid_delete" alt="" coords="183,123,290,149"/>
+<area shape="rect" id="node7" href="$db__object_8c.html#a1392f9d1f9dc7f4527a237cecb730cc0" title="orp_oid_get_classname" alt="" coords="157,173,316,200"/>
+<area shape="rect" id="node8" href="$api__handle_8c.html#af038284b081696b8f0c3519e29494b2f" title="sh_lookup" alt="" coords="196,224,277,251"/>
+<area shape="rect" id="node3" href="$cci__stub_8c.html#a932f66574162f8bb1bbed2db87096f0a" title="opool_create" alt="" coords="402,5,498,32"/>
+<area shape="rect" id="node5" href="$db__stub_8h.html#a151573e562acfa96b7c152a3e9245198" title="api_object_resultset\l_pool_create" alt="" coords="381,115,519,157"/>
+<area shape="rect" id="node9" href="$api__handle_8c.html#a47e2e45aaa7b32357eefa11592bdd1bc" title="be_create_static_hash" alt="" coords="373,224,527,251"/>
+</map>

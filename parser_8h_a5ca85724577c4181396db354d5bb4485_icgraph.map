@@ -1,0 +1,6 @@
+<map id="pt_get_select_query_columns" name="pt_get_select_query_columns">
+<area shape="rect" id="node2" href="$execute__schema_8h.html#a399ff5c8f53a4e0cd6a8f475756f264a" title="do_create_entity" alt="" coords="200,31,319,57"/>
+<area shape="rect" id="node5" href="$semantic__check_8c.html#ab5db455025783dc63b0964bb283a1115" title="pt_check_partitions" alt="" coords="192,81,327,108"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#a21b6ecec62230389363e3a734dcd7841" title="do_statement" alt="" coords="375,5,476,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a11b807e95504661d262e08b754df1e28" title="do_execute_statement" alt="" coords="524,31,679,57"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="qdata_subtract_dbval" name="qdata_subtract_dbval">
+<area shape="rect" id="node2" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="236,5,355,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a72023d68640e64dc4189aff88b46c9db" title="qexec_get_orderbynum\l_upper_bound" alt="" coords="687,23,844,65"/>
+<area shape="rect" id="node5" href="$query__opfunc_8c.html#a5e54bda7ae13fe8bb62ce04218d62247" title="qdata_add_bigint_to\l_utime_asymmetry" alt="" coords="226,190,365,231"/>
+<area shape="rect" id="node9" href="$query__opfunc_8c.html#ae9c5eff252be4bb7376c151b0e4455ea" title="qdata_add_int_to_utime\l_asymmetry" alt="" coords="215,333,375,374"/>
+<area shape="rect" id="node13" href="$query__opfunc_8c.html#a98a1f60a3ebf25d580cbc13d703ab704" title="qdata_add_short_to\l_utime_asymmetry" alt="" coords="227,415,363,457"/>
+<area shape="rect" id="node17" href="$query__aggregate_8hpp.html#aaab4cfccc7f11e0574aaeb4a91ff5cdc" title="qdata_finalize_aggregate_list" alt="" coords="200,481,391,508"/>
+<area shape="rect" id="node18" href="$query__analytic_8hpp.html#a60ac6e5d89053f1f38e3bd6caaaa4882" title="qdata_finalize_analytic_func" alt="" coords="202,532,389,559"/>
+<area shape="rect" id="node3" href="$fetch_8c.html#a6a331fd74c1c8c3fc931edc187f44047" title="fetch_peek_dbval" alt="" coords="477,5,601,32"/>
+<area shape="rect" id="node6" href="$query__opfunc_8c.html#a42a19572b1aadbd84723625d0b89c91f" title="qdata_add_bigint_to_date" alt="" coords="453,107,624,133"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#a8477389dec645616e3bc9b32c6587b9b" title="qdata_add_bigint_to\l_timestamptz" alt="" coords="469,158,608,199"/>
+<area shape="rect" id="node8" href="$query__opfunc_8c.html#ad7eb5badeb9ab02b96e334e1d0dc3e22" title="qdata_add_bigint_to\l_utime" alt="" coords="469,223,608,265"/>
+<area shape="rect" id="node10" href="$query__opfunc_8c.html#a12ad11ee7f68fd93499ec411f5690268" title="qdata_add_int_to_date" alt="" coords="462,289,615,316"/>
+<area shape="rect" id="node11" href="$query__opfunc_8c.html#aa94323f228aeeff1f738269b89c17545" title="qdata_add_int_to_timestamptz" alt="" coords="439,340,639,367"/>
+<area shape="rect" id="node12" href="$query__opfunc_8c.html#a9bab9c1832b07d1af70e9962a552d073" title="qdata_add_int_to_utime" alt="" coords="459,391,619,417"/>
+<area shape="rect" id="node14" href="$query__opfunc_8c.html#af7e8a568ede53f4d0579bfcb15c5d73e" title="qdata_add_short_to_date" alt="" coords="455,441,623,468"/>
+<area shape="rect" id="node15" href="$query__opfunc_8c.html#ac321109ee4549246aee26c99a186c585" title="qdata_add_short_to\l_timestamptz" alt="" coords="471,493,607,534"/>
+<area shape="rect" id="node16" href="$query__opfunc_8c.html#ae5663b831d53d868144222a0d4f86b17" title="qdata_add_short_to\l_utime" alt="" coords="471,558,607,599"/>
+</map>

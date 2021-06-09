@@ -1,0 +1,13 @@
+<map id="tf_compile_meta_classes" name="tf_compile_meta_classes">
+<area shape="rect" id="node2" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="228,123,363,149"/>
+<area shape="rect" id="node7" href="$boot__cl_8c.html#a1c906d817cb0b45ca6b099228f903201" title="catcls_vclass_install" alt="" coords="224,223,367,249"/>
+<area shape="rect" id="node9" href="$utility_8h.html#a782e5c7e88490d6faaf37d0c32511675" title="createdb" alt="" coords="259,273,331,300"/>
+<area shape="rect" id="node10" href="$transform__cl_8h.html#aac6b6e8c3a6fec3900c6db4bf1e00044" title="tf_class_to_disk" alt="" coords="237,324,354,351"/>
+<area shape="rect" id="node12" href="$transform__cl_8h.html#a30a26dd49369865b7a1e50a4bdfeffb9" title="tf_disk_to_class" alt="" coords="237,375,354,401"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="431,5,547,32"/>
+<area shape="rect" id="node4" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="423,57,554,98"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="417,123,560,149"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="444,197,533,224"/>
+<area shape="rect" id="node8" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="419,248,558,275"/>
+<area shape="rect" id="node11" href="$locator__cl_8c.html#ae149694f38b74faa9b4b3e2fc00f5403" title="locator_class_to_disk" alt="" coords="415,324,563,351"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="reorder_schema_caches" name="reorder_schema_caches">
+<area shape="rect" id="node2" href="$trigger__manager_8h.html#aada41ea0a6a7860c3ef109957ae6706b" title="tr_set_priority" alt="" coords="217,31,319,57"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#af6d423be690fb129849cc1f6a4398f00" title="db_alter_trigger_priority" alt="" coords="367,5,524,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a688689faf250a85805390314b667a2d9" title="do_alter_trigger" alt="" coords="390,56,501,83"/>
+</map>

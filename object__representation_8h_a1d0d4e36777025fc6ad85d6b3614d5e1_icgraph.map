@@ -1,0 +1,5 @@
+<map id="or_get_monetary" name="or_get_monetary">
+<area shape="rect" id="node2" href="$object__primitive_8c.html#a427743ff4db001e3b9e40499cb2fd3df" title="mr_data_readmem_money" alt="" coords="172,5,348,32"/>
+<area shape="rect" id="node4" href="$object__primitive_8c.html#a3882ef7810881286764c322717391da3" title="mr_data_readval_money" alt="" coords="178,56,342,83"/>
+<area shape="rect" id="node3" href="$structpr__type.html#a7da469533e4ab78588790eabb75a43b4" title="pr_type::get_cmpval\l_function" alt="" coords="396,23,536,65"/>
+</map>

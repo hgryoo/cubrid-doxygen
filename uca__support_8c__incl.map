@@ -1,0 +1,15 @@
+<map id="src/base/uca_support.c" name="src/base/uca_support.c">
+<area shape="rect" id="node4" href="$utility_8h.html" title="utility.h" alt="" coords="115,80,179,107"/>
+<area shape="rect" id="node10" href="$environment__variable_8h.html" title="environment_variable.h" alt="" coords="443,80,599,107"/>
+<area shape="rect" id="node11" href="$locale__support_8h.html" title="locale_support.h" alt="" coords="971,155,1088,181"/>
+<area shape="rect" id="node13" href="$porting_8h.html" title="porting.h" alt="" coords="721,229,793,256"/>
+<area shape="rect" id="node16" href="$error__manager_8h.html" title="error_manager.h" alt="" coords="675,80,791,107"/>
+<area shape="rect" id="node18" href="$intl__support_8h.html" title="intl_support.h" alt="" coords="867,80,967,107"/>
+<area shape="rect" id="node19" href="$uca__support_8h.html" title="uca_support.h" alt="" coords="992,80,1096,107"/>
+<area shape="rect" id="node20" href="$unicode__support_8h.html" title="unicode_support.h" alt="" coords="291,80,419,107"/>
+<area shape="rect" id="node7" href="$cubrid__getopt_8h.html" title="cubrid_getopt.h" alt="" coords="253,229,363,256"/>
+<area shape="rect" id="node8" href="$util__func_8h.html" title="util_func.h" alt="" coords="24,155,107,181"/>
+<area shape="rect" id="node9" href="$dynamic__array_8h.html" title="dynamic_array.h" alt="" coords="130,155,249,181"/>
+<area shape="rect" id="node14" href="$dbtype__def_8h.html" title="dbtype_def.h" alt="" coords="873,229,970,256"/>
+<area shape="rect" id="node15" href="$locale__lib__common_8h.html" title="locale_lib_common.h" alt="" coords="1088,229,1232,256"/>
+</map>

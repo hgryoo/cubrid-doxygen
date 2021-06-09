@@ -1,0 +1,14 @@
+<map id="numeric_sub" name="numeric_sub">
+<area shape="rect" id="node2" href="$numeric__opfunc_8h.html#a2432eab90a30717411deb3684ec6ba92" title="numeric_db_value_sub" alt="" coords="149,275,304,301"/>
+<area shape="rect" id="node3" href="$unload__schema_8c.html#a19c7529861ddae68e39dc5e12d23e60e" title="export_serial" alt="" coords="394,5,490,32"/>
+<area shape="rect" id="node4" href="$unload__schema_8c.html#ad469eaff0640ab475046abf543226b20" title="emit_instance_attributes" alt="" coords="360,56,524,83"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="352,107,532,133"/>
+<area shape="rect" id="node6" href="$arithmetic_8c.html#ac452ff9e0f644a66073dcadf6d85d4be" title="db_width_bucket_calculate\l_numeric" alt="" coords="353,158,531,199"/>
+<area shape="rect" id="node7" href="$execute__statement_8h.html#a6d5023a6cc407b5d1d0222db0157e162" title="do_create_serial" alt="" coords="383,224,501,251"/>
+<area shape="rect" id="node8" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="389,275,495,301"/>
+<area shape="rect" id="node9" href="$query__opfunc_8c.html#a47a041a32718054b3f5ba2bcea214433" title="qdata_subtract_short\l_to_dbval" alt="" coords="757,377,901,418"/>
+<area shape="rect" id="node10" href="$query__opfunc_8c.html#a95fbc5c896c0a2fddecf0f05fa9537d8" title="qdata_subtract_int\l_to_dbval" alt="" coords="580,377,709,418"/>
+<area shape="rect" id="node11" href="$query__opfunc_8c.html#a65d7000c3cc0a4ebd636845b24ce23c5" title="qdata_subtract_bigint\l_to_dbval" alt="" coords="369,427,515,469"/>
+<area shape="rect" id="node12" href="$query__opfunc_8c.html#a389a2f4005cb4675f4c2141c92dc0001" title="qdata_subtract_numeric\l_to_dbval" alt="" coords="361,493,523,534"/>
+<area shape="rect" id="node13" href="$serial_8c.html#a1e3bce9c0b2265c69b2d3a1fe5e6a1d2" title="serial_get_nth_value" alt="" coords="371,559,513,585"/>
+</map>

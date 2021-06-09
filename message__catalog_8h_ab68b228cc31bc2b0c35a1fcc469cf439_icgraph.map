@@ -1,0 +1,21 @@
+<map id="msgcat_open" name="msgcat_open">
+<area shape="rect" id="node2" href="$message__catalog_8h.html#abec117ace9f2fca349242d1bdde542f3" title="msgcat_init" alt="" coords="171,309,261,336"/>
+<area shape="rect" id="node20" href="$message__catalog_8h.html#a14ddcfb2d878994f50c3b6849f668e37" title="msgcat_message" alt="" coords="153,680,279,707"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="344,461,483,488"/>
+<area shape="rect" id="node4" href="$boot__sr_8c.html#af354e07a18ff807375fdbad7d63b6494" title="boot_remove_all_volumes" alt="" coords="327,107,500,133"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="548,107,699,133"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a6dc8b536b7d535d54c1471a87b76f2c2" title="xboot_delete" alt="" coords="575,157,671,184"/>
+<area shape="rect" id="node7" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="559,364,688,391"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="556,521,691,548"/>
+<area shape="rect" id="node9" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="754,521,870,548"/>
+<area shape="rect" id="node10" href="$boot__sr_8h.html#ad8989ef62fbd6aaec6b0d5b5f3807812" title="xboot_restart_from\l_backup" alt="" coords="747,329,877,370"/>
+<area shape="rect" id="node11" href="$error__manager_8h.html#aefbe440effda7544df457fb8ed2eef51" title="er_init" alt="" coords="385,680,442,707"/>
+<area shape="rect" id="node17" href="$utility_8h.html#a2f149e2fa1bc520bf948474801053dbe" title="utility_initialize" alt="" coords="570,469,677,496"/>
+<area shape="rect" id="node18" href="$system__parameter_8c.html#a29f727e670076ae114900fc05365ae17" title="sysprm_load_and_init\l_internal" alt="" coords="339,513,487,554"/>
+<area shape="rect" id="node19" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="331,5,495,32"/>
+<area shape="rect" id="node12" href="$utility_8h.html#a41432d6c390710a31b7362a3507ba711" title="acldb" alt="" coords="597,768,650,795"/>
+<area shape="rect" id="node13" href="$utility_8h.html#a6eee0780c64ebd6cc83ede414f3b89c8" title="addvoldb" alt="" coords="586,880,661,907"/>
+<area shape="rect" id="node14" href="$utility_8h.html#a24cb82c7693b92a6eb14285a1f9a89e3" title="alterdbhost" alt="" coords="580,932,667,959"/>
+<area shape="rect" id="node15" href="$utility_8h.html#a1121acb4378516c4bfd22d8533d4178a" title="applyinfo" alt="" coords="586,704,661,731"/>
+<area shape="rect" id="node16" href="$utility_8h.html#aa7a280251cdf100c28e06298f181b584" title="applylogdb" alt="" coords="581,825,665,852"/>
+</map>

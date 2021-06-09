@@ -1,0 +1,5 @@
+<map id="jsp_call_from_server" name="jsp_call_from_server">
+<area shape="rect" id="node2" href="$query__method_8h.html#a4d924a91280fef1cebe25fbcfca186d7" title="method_invoke_for_server" alt="" coords="196,13,371,39"/>
+<area shape="rect" id="node4" href="$method__scan_8c.html#ab5c1ecda7b5379e97445b2d334767dcb" title="method_receive_results\l_for_stand_alone" alt="" coords="203,64,363,105"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a2deda16a5fdfddae06f2b7cd1b0775f9" title="net_client_request\l_with_callback" alt="" coords="419,5,547,47"/>
+</map>

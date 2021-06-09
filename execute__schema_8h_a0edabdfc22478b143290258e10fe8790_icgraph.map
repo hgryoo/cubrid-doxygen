@@ -1,0 +1,5 @@
+<map id="do_get_partition_size" name="do_get_partition_size">
+<area shape="rect" id="node2" href="$execute__schema_8c.html#a8f5b820167cb22e7617a62284be30225" title="do_coalesce_partition_pre" alt="" coords="199,5,372,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8c.html#a71e57012993f98148b4b9bb1236f7daa" title="do_create_partition" alt="" coords="219,56,351,83"/>
+<area shape="rect" id="node3" href="$execute__schema_8c.html#a3d065088ea9aebd736b48d0427c4c604" title="do_alter_partitioning_pre" alt="" coords="420,31,583,57"/>
+</map>

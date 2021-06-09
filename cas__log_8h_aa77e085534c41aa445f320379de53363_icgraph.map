@@ -1,0 +1,19 @@
+<map id="cas_log_close" name="cas_log_close">
+<area shape="rect" id="node2" href="$cas_8c.html#a0ba66b0db4e9fdbf12bf88f9b275b8df" title="cas_free" alt="" coords="848,352,920,379"/>
+<area shape="rect" id="node4" href="$cas_8c.html#a860d9ee786081f5655e997ed55d494e8" title="cas_main" alt="" coords="1151,165,1230,192"/>
+<area shape="rect" id="node5" href="$cas_8c.html#ac8849983c74ee222d58f8f17b887755a" title="shard_cas_main" alt="" coords="1132,428,1249,455"/>
+<area shape="rect" id="node7" href="$cas__log_8h.html#a88de7b3c3a3819a49cd818c95849426d" title="cas_log_end" alt="" coords="499,428,593,455"/>
+<area shape="rect" id="node11" href="$cas__log_8h.html#a839ba5a790ee22bdf30969561348cd27" title="cas_log_open" alt="" coords="159,348,261,375"/>
+<area shape="rect" id="node12" href="$cas__log_8h.html#aa9b37f939cc2c25c96fa47b286497f0a" title="cas_log_reset" alt="" coords="329,195,431,221"/>
+<area shape="rect" id="node3" href="$cas_8c.html#a19a8cf5cb81795c5b3366e584e132443" title="cas_final" alt="" coords="989,377,1063,404"/>
+<area shape="rect" id="node6" href="$cas_8c.html#a395be12690de5cd3c436e23ff6fc4a7f" title="cas_sig_handler" alt="" coords="968,327,1084,353"/>
+<area shape="rect" id="node8" href="$cas__execute_8h.html#a283a087c4e06d0575706e48328b6ebd4" title="ux_auto_commit" alt="" coords="661,377,780,404"/>
+<area shape="rect" id="node9" href="$cas__function_8h.html#ad944837ef49bf8dd84731026dcb679d1" title="fn_end_tran" alt="" coords="675,327,766,353"/>
+<area shape="rect" id="node10" href="$cas__log_8h.html#ab88bfa6ee15565dad2510dfba621e838" title="cas_log_write_and_end" alt="" coords="641,428,800,455"/>
+<area shape="rect" id="node13" href="$cas__log_8h.html#a157258d992f7f906fdb1b8f506256add" title="cas_log_write_nonl" alt="" coords="313,479,447,505"/>
+<area shape="rect" id="node14" href="$cas__log_8h.html#a8d8fe76f5f307ffcd3431a2307b4787f" title="cas_log_write" alt="" coords="329,377,431,404"/>
+<area shape="rect" id="node15" href="$cas__log_8h.html#aad65d71681d9ce968a34886c55a04674" title="cas_log_write2_nonl" alt="" coords="310,529,450,556"/>
+<area shape="rect" id="node16" href="$cas__log_8h.html#a93eb271309b17fbd8c083f7e9e6a521a" title="cas_log_write2" alt="" coords="971,165,1081,192"/>
+<area shape="rect" id="node17" href="$cas__log_8h.html#a20de02509681c667147dccadca597ac2" title="cas_log_write_value\l_string" alt="" coords="310,246,450,287"/>
+<area shape="rect" id="node18" href="$cas__log_8c.html#a36019228a2c1ed36ec4c8f22a3b12a9e" title="cas_log_write_query\l_string_internal" alt="" coords="309,311,451,353"/>
+</map>

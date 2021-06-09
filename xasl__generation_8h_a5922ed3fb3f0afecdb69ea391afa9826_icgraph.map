@@ -1,0 +1,9 @@
+<map id="pt_to_upd_del_query" name="pt_to_upd_del_query">
+<area shape="rect" id="node2" href="$execute__statement_8h.html#a5a96449a20d34f17f764bead35cde84e" title="do_prepare_delete" alt="" coords="374,31,502,58"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#ac634b027d1b85e4fbfb2cc7e8b803fc7" title="do_prepare_update" alt="" coords="372,148,504,175"/>
+<area shape="rect" id="node5" href="$execute__statement_8c.html#ad67525a0fb58c3514cd7ffba96f2b846" title="get_select_list_to\l_update" alt="" coords="198,82,322,124"/>
+<area shape="rect" id="node6" href="$xasl__generation_8h.html#a4ffda647bdf164dbc2ed5f4e418c7ff3" title="pt_to_delete_xasl" alt="" coords="198,31,322,58"/>
+<area shape="rect" id="node7" href="$xasl__generation_8h.html#a7df494bf247ae153826cf3c4241a8a60" title="pt_to_update_xasl" alt="" coords="196,148,324,175"/>
+<area shape="rect" id="node8" href="$execute__statement_8c.html#ad2c8b3305a684b8b643599a71211acbc" title="select_delete_list" alt="" coords="199,250,321,276"/>
+<area shape="rect" id="node3" href="$execute__statement_8h.html#aa5b68a09475423be2f6714fac2a83de9" title="do_prepare_statement" alt="" coords="552,90,703,116"/>
+</map>

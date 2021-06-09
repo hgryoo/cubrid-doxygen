@@ -1,0 +1,7 @@
+<map id="ws_has_dirty_objects" name="ws_has_dirty_objects">
+<area shape="rect" id="node2" href="$xasl__generation_8h.html#a893061ed3311171d552bbd9e36c89c60" title="pt_flush_classes" alt="" coords="201,78,321,105"/>
+<area shape="rect" id="node6" href="$virtual__object_8h.html#a990ddb6292d2242ad95a41010f9eb683" title="vid_allflush" alt="" coords="218,129,305,155"/>
+<area shape="rect" id="node3" href="$xasl__generation_8c.html#a58fc761b77e358c590be69d852d5679a" title="pt_flush_class_and\l_null_xasl" alt="" coords="373,5,507,47"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#aeb0727e2943818bb2f6be2e9c6bce087" title="do_execute_session\l_statement" alt="" coords="369,71,511,112"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#acbd760c1942dbf1e164bde9ee1c473c9" title="do_execute_select" alt="" coords="375,137,505,163"/>
+</map>

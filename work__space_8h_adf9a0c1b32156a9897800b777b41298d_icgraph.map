@@ -1,0 +1,12 @@
+<map id="ws_clear_all_repl_errors_of_error_link" name="ws_clear_all_repl_errors_of_error_link">
+<area shape="rect" id="node2" href="$log__applier_8c.html#a2619bf3c9fa91a51b2bcea7e15f149ff" title="la_flush_repl_items" alt="" coords="216,132,351,159"/>
+<area shape="rect" id="node8" href="$work__space_8h.html#a2b66610f9ec3f812d0030b48e13ac5e8" title="ws_final" alt="" coords="248,284,319,311"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a18990ec75cf521042876913c1a3c187e" title="la_apply_delete_log" alt="" coords="410,5,546,32"/>
+<area shape="rect" id="node4" href="$log__applier_8c.html#a2d40a24d77f7d73ad8df508c20a5dbdb" title="la_apply_update_log" alt="" coords="408,56,548,83"/>
+<area shape="rect" id="node5" href="$log__applier_8c.html#aae222bafc8147044057c499295141b9b" title="la_apply_insert_log" alt="" coords="411,107,545,133"/>
+<area shape="rect" id="node6" href="$log__applier_8c.html#a70b0708cb334329d40d7e73128d87e70" title="la_apply_statement_log" alt="" coords="399,157,557,184"/>
+<area shape="rect" id="node7" href="$log__applier_8c.html#afde2fa0f59dca906a1bf5795f8e1b583" title="la_log_commit" alt="" coords="425,208,531,235"/>
+<area shape="rect" id="node9" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="605,284,744,311"/>
+<area shape="rect" id="node10" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="610,347,739,373"/>
+<area shape="rect" id="node11" href="$boot__cl_8h.html#a23f18318a3d761ba5d8197402879eb14" title="boot_client_all_finalize" alt="" coords="401,309,555,336"/>
+</map>

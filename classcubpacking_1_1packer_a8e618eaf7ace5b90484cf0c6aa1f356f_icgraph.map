@@ -1,0 +1,10 @@
+<map id="cubpacking::packer::get_packed_int_size" name="cubpacking::packer::get_packed_int_size">
+<area shape="rect" id="node2" href="$classcubpacking_1_1packer.html#a9d35feb3ffedbf37626477ba4592947e" title="cubpacking::packer\l::get_packed_bool_size" alt="" coords="223,68,381,109"/>
+<area shape="rect" id="node3" href="$structcubload_1_1load__args.html#a1b1f0d2aaef512d5e8f08e7fcc510349" title="cubload::load_args\l::get_packed_size" alt="" coords="483,5,614,47"/>
+<area shape="rect" id="node6" href="$classcubload_1_1batch.html#ae33c77cd433bf524177df81efba0e499" title="cubload::batch::get\l_packed_size" alt="" coords="235,133,369,175"/>
+<area shape="rect" id="node7" href="$structcubload_1_1stats.html#af260d0b6016f9fc6cb7a17bf4a4a57d7" title="cubload::stats::get\l_packed_size" alt="" coords="237,199,367,240"/>
+<area shape="rect" id="node8" href="$classcubpacking_1_1packer.html#a7b7b70e79bd3957b077cecb539928cb9" title="cubpacking::packer\l::get_packed_size_overloaded" alt="" coords="203,264,401,305"/>
+<area shape="rect" id="node4" href="$classcubload_1_1load__status.html#a71a1ef277682feba179aafed4d57f1e0" title="cubload::load_status\l::get_packed_size" alt="" coords="477,71,620,112"/>
+<area shape="rect" id="node5" href="$classcubpacking_1_1packer.html#a628f4f916834beae9be75cebe99a9954" title="cubpacking::packer\l::get_packed_size_overloaded" alt="" coords="449,136,648,177"/>
+<area shape="rect" id="node9" href="$classcubpacking_1_1packer.html#a6876e7201f81f660706a7698c1b1c048" title="cubpacking::packer\l::get_all_packed_size\l_recursive" alt="" coords="475,257,623,313"/>
+</map>

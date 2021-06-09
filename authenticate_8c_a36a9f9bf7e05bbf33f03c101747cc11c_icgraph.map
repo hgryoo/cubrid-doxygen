@@ -1,0 +1,21 @@
+<map id="fetch_class" name="fetch_class">
+<area shape="rect" id="node2" href="$authenticate_8h.html#a3ea19711418fb7169a55276facd6201f" title="au_fetch_class_force" alt="" coords="149,464,295,491"/>
+<area shape="rect" id="node19" href="$authenticate_8c.html#ad344b82428cb3b190de51c9148c8b657" title="au_fetch_class_internal" alt="" coords="143,515,301,541"/>
+<area shape="rect" id="node20" href="$authenticate_8h.html#ac6b7e4eb760106dd0d8efd7766aa3f20" title="au_fetch_instance" alt="" coords="158,104,286,131"/>
+<area shape="rect" id="node3" href="$db__info_8c.html#a71fdffd0384654fa789d91a2c8fded62" title="db_is_class" alt="" coords="402,515,493,541"/>
+<area shape="rect" id="node4" href="$db__info_8c.html#a342224e1f2790ee272674ceb3b7de969" title="db_is_any_class" alt="" coords="388,565,507,592"/>
+<area shape="rect" id="node5" href="$db__vdb_8c.html#a5b9930b38fd12b54b5835e275e64e573" title="pt_has_modified_class\l_helper" alt="" coords="370,617,525,658"/>
+<area shape="rect" id="node6" href="$dbi__compat_8h.html#afa5f0326f7f174096671095a3fa22358" title="db_is_vclass" alt="" coords="398,733,497,760"/>
+<area shape="rect" id="node7" href="$unload__schema_8c.html#a7f79130b2669758e935be8a5b57261c1" title="emit_schema" alt="" coords="632,708,732,735"/>
+<area shape="rect" id="node8" href="$authenticate_8h.html#a7967cf08e852e8e2e5157c4524260686" title="au_grant" alt="" coords="411,29,483,56"/>
+<area shape="rect" id="node9" href="$authenticate_8h.html#af2cbcb3deb351ad5c3dafaa7dc2ff290" title="au_revoke" alt="" coords="406,104,489,131"/>
+<area shape="rect" id="node10" href="$authenticate_8h.html#a4ff4b32df44cb6e0eeb1c44369e6c981" title="au_change_owner" alt="" coords="384,835,511,861"/>
+<area shape="rect" id="node11" href="$authenticate_8h.html#a452d87c038c1682017cf8844bfa99bd2" title="au_change_owner_method" alt="" coords="593,809,771,836"/>
+<area shape="rect" id="node12" href="$authenticate_8h.html#aff035cedd120f2fc993778ee0a1fc451" title="au_get_class_owner" alt="" coords="377,885,518,912"/>
+<area shape="rect" id="node13" href="$class__object_8h.html#a7703722447201ba90b4514d1ae28076a" title="classobj_copy_props" alt="" coords="375,155,519,181"/>
+<area shape="rect" id="node14" href="$schema__manager_8h.html#a6e3193b38abe81986f726effc5c9bdca" title="classobj_is_exist_foreign\l_key_ref" alt="" coords="363,206,531,247"/>
+<area shape="rect" id="node15" href="$class__object_8c.html#a7ccc84963969303714e4fb2a51070e96" title="classobj_copy_constraint_like" alt="" coords="349,272,545,299"/>
+<area shape="rect" id="node16" href="$object__accessor_8h.html#a730886952e461fbe7e2cc188c39a0c90" title="obj_get_att" alt="" coords="404,323,491,349"/>
+<area shape="rect" id="node17" href="$classobject__printer.html#a7c2f900d58ed96a38b67265f3d814fd8" title="object_printer::describe\l_constraint" alt="" coords="369,374,526,415"/>
+<area shape="rect" id="node18" href="$schema__manager_8h.html#aaa2b2a5611834340c7390439b990d3d0" title="sm_fetch_all_base_classes" alt="" coords="356,464,539,491"/>
+</map>

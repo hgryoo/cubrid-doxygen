@@ -1,0 +1,7 @@
+<map id="db_include_oid" name="db_include_oid">
+<area shape="rect" id="node2" href="$db__vdb_8c.html#a2f479c7755c512521e37e7bf27b78436" title="db_open_buffer_and\l_compile_first_statement" alt="" coords="161,27,329,69"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#adc61dd435a4de08df9ddb2d62d6ad8ad" title="uci_open_cs" alt="" coords="198,93,293,120"/>
+<area shape="rect" id="node6" href="$cas__execute_8h.html#aee0aa1d2154b6630cb99732f71ad118a" title="ux_prepare" alt="" coords="202,144,289,171"/>
+<area shape="rect" id="node3" href="$db__query_8h.html#a5939664a0d49b1cd82321d2df2ff2763" title="db_execute_with_values" alt="" coords="379,5,545,32"/>
+<area shape="rect" id="node4" href="$db__vdb_8c.html#a78481e1554c3d1807c07bcb8bfc7cd54" title="db_compile_and_execute\l_queries_internal" alt="" coords="377,57,547,98"/>
+</map>

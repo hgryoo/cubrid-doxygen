@@ -1,0 +1,4 @@
+<map id="mvcc_active_tran::reset" name="mvcc_active_tran::reset">
+<area shape="rect" id="node2" href="$structmvcc__snapshot.html#a539c0c53625ff13e49188713c94110f8" title="mvcc_snapshot::reset" alt="" coords="216,5,367,32"/>
+<area shape="rect" id="node3" href="$structmvcc__info.html#a24e0b93f6e5d05669c4c45da250c1536" title="mvcc_info::reset" alt="" coords="415,5,533,32"/>
+</map>

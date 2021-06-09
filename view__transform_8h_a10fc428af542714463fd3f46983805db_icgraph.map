@@ -1,0 +1,6 @@
+<map id="mq_is_outer_join_spec" name="mq_is_outer_join_spec">
+<area shape="rect" id="node2" href="$view__transform_8c.html#ac215f16a40d7d58cc76a7eb5736a3e83" title="mq_substitute_subquery\l_in_statement" alt="" coords="208,5,372,47"/>
+<area shape="rect" id="node4" href="$xasl__generation_8c.html#a3d068e81bed37f88fbebb7329df80d99" title="pt_to_constraint_pred" alt="" coords="217,71,363,98"/>
+<area shape="rect" id="node5" href="$xasl__generation_8h.html#a5922ed3fb3f0afecdb69ea391afa9826" title="pt_to_upd_del_query" alt="" coords="219,122,361,149"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#aed7b1446f180bf7dd44884a4a68cf2b9" title="mq_substitute_subquery\l_list_in_statement" alt="" coords="420,5,584,47"/>
+</map>

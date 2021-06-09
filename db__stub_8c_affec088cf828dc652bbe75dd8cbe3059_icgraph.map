@@ -1,0 +1,5 @@
+<map id="ci_err_set" name="ci_err_set">
+<area shape="rect" id="node2" href="$db__stub_8c.html#ad65f0e93570d9b15493d41f278c410ec" title="stmt_reset_session\l_and_parse" alt="" coords="132,35,268,76"/>
+<area shape="rect" id="node3" href="$db__stub_8c.html#abe02787bc523ce497d37fba501c6e3b6" title="stmt_exec_immediate\l_internal" alt="" coords="316,5,467,47"/>
+<area shape="rect" id="node4" href="$db__stub_8c.html#a7fe6b2c90c8229bff396b2db348b9d39" title="stmt_prepare_internal" alt="" coords="318,71,465,98"/>
+</map>

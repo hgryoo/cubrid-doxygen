@@ -1,0 +1,9 @@
+<map id="au_delete_auth_of_dropping_table" name="au_delete_auth_of_dropping_table">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="237,123,389,149"/>
+<area shape="rect" id="node3" href="$db__class_8c.html#afcc6f3e371a17f227f8b7d2a9ea365c4" title="db_drop_class_ex" alt="" coords="468,5,595,32"/>
+<area shape="rect" id="node4" href="$execute__schema_8h.html#ae4016d0daa41c4914752b72a08eddc54" title="do_drop_partitioned\l_class" alt="" coords="464,57,599,98"/>
+<area shape="rect" id="node5" href="$execute__schema_8h.html#a8d9a955e21fdad284b4980448aba4ce8" title="do_drop_partition_list" alt="" coords="459,123,604,149"/>
+<area shape="rect" id="node6" href="$execute__schema_8c.html#a7bd66fee9b49cf349c1cf1375eafd6f0" title="do_remove_partition_post" alt="" coords="446,173,617,200"/>
+<area shape="rect" id="node7" href="$execute__schema_8c.html#a27cdef58d6b0ba9dad96ebfc24dd8720" title="do_coalesce_partition_post" alt="" coords="441,224,621,251"/>
+<area shape="rect" id="node8" href="$execute__schema_8c.html#a01222261e7695803bebc1209fe887577" title="do_reorganize_partition_post" alt="" coords="437,275,625,301"/>
+</map>

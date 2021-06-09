@@ -1,0 +1,11 @@
+<map id="or_put_enumeration" name="or_put_enumeration">
+<area shape="rect" id="node2" href="$object__representation_8c.html#a82bdd00b1310677275e509785986caee" title="or_put_domain" alt="" coords="195,157,302,184"/>
+<area shape="rect" id="node9" href="$transform__cl_8c.html#a57c5c5d85145c5de0da257fc860a3e52" title="put_enumeration" alt="" coords="189,259,308,285"/>
+<area shape="rect" id="node3" href="$btree__load_8c.html#a7e054979b1fa33412884a7478a79d31d" title="btree_pack_root_header" alt="" coords="356,5,517,32"/>
+<area shape="rect" id="node4" href="$object__representation_8c.html#a47177a1274a2ba1f25865664d60c99c7" title="or_pack_domain" alt="" coords="378,56,495,83"/>
+<area shape="rect" id="node5" href="$object__representation_8c.html#abf37a5f19595abfeb1ad4858d74d3168" title="or_pack_mem_value" alt="" coords="365,107,508,133"/>
+<area shape="rect" id="node6" href="$object__representation_8c.html#a84d1b3d5fff1943ae082a70644eed24b" title="or_put_set" alt="" coords="565,183,648,209"/>
+<area shape="rect" id="node7" href="$object__representation_8c.html#a1d7a466f0aafaccaadbf0685f67e7946" title="or_put_value" alt="" coords="389,208,485,235"/>
+<area shape="rect" id="node8" href="$transform__cl_8c.html#ab80af51a347cb7fd4ffc0271923b212f" title="put_object_set" alt="" coords="383,259,490,285"/>
+<area shape="rect" id="node10" href="$transform__cl_8c.html#ad41fd78f7a855252f1db089aec2393be" title="domain_to_disk" alt="" coords="380,309,493,336"/>
+</map>

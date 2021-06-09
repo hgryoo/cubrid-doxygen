@@ -1,0 +1,6 @@
+<map id="css_get_max_conn" name="css_get_max_conn">
+<area shape="rect" id="node2" href="$server__support_8h.html#af6acfad0ab40db2e8eea8c24dfc5b5ff" title="css_init" alt="" coords="397,5,463,32"/>
+<area shape="rect" id="node4" href="$connection__sr_8h.html#a4a5e9a4569dfb3087b2a2a80d7b1f20a" title="css_init_conn_list" alt="" coords="188,56,315,83"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="545,31,661,57"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="363,56,497,83"/>
+</map>

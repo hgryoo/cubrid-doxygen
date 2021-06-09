@@ -1,0 +1,6 @@
+<map id="heap_get_capacity" name="heap_get_capacity">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a3665cd7a7a16a249b1e017ef9266b2d9" title="heap_capacity_next_scan" alt="" coords="184,8,357,35"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#aab6c8ba67c5d4defaf1467462382cb75" title="heap_dump_capacity" alt="" coords="198,60,343,87"/>
+<area shape="rect" id="node3" href="$show__scan_8c.html#aecf736200d67937c5e8b499d2570ea1d" title="showstmt_scan_init" alt="" coords="415,5,553,32"/>
+<area shape="rect" id="node5" href="$file__manager_8c.html#aedb2834e544c5ab2a6b1dfd7dbed565f" title="file_tracker_item_dump\l_heap_capacity" alt="" coords="405,57,563,98"/>
+</map>

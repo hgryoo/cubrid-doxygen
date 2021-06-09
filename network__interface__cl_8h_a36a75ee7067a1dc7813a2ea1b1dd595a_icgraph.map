@@ -1,0 +1,7 @@
+<map id="qp_get_server_info" name="qp_get_server_info">
+<area shape="rect" id="node2" href="$db__vdb_8c.html#adf8d4cf54d1381283fcb7fa6eb6e6fd2" title="db_execute_and_keep\l_statement_local" alt="" coords="185,39,337,80"/>
+<area shape="rect" id="node6" href="$parser_8h.html#a81fed221e67fa0719c7067ac2837b042" title="pt_exec_trigger_stmt" alt="" coords="189,105,333,131"/>
+<area shape="rect" id="node3" href="$db__vdb_8c.html#aa67900db91e4c062a739ff4d40d69a3c" title="do_recompile_and_execute\l_prepared_statement" alt="" coords="385,5,565,47"/>
+<area shape="rect" id="node4" href="$dbi__compat_8h.html#ad6b414798f5f576f2df94299d7842810" title="db_execute_and_keep\l_statement" alt="" coords="399,71,551,112"/>
+<area shape="rect" id="node5" href="$db__vdb_8c.html#a884a12ed3b75319fe569e73870bc485c" title="db_execute_statement\l_local" alt="" coords="398,136,553,177"/>
+</map>

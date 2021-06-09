@@ -1,0 +1,11 @@
+<map id="cfg_write_directory_ex" name="cfg_write_directory_ex">
+<area shape="rect" id="node2" href="$utility_8h.html#a24cb82c7693b92a6eb14285a1f9a89e3" title="alterdbhost" alt="" coords="239,5,325,32"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="433,56,522,83"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a6dc8b536b7d535d54c1471a87b76f2c2" title="xboot_delete" alt="" coords="234,107,330,133"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="207,157,357,184"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#acb0127ed69984740febd2060f7086821" title="xboot_soft_rename" alt="" coords="215,208,349,235"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a75c6bff301b9844564b4de9a98f1756f" title="boot_copy" alt="" coords="597,56,680,83"/>
+<area shape="rect" id="node6" href="$network__interface__cl_8h.html#a33f3d2646ef7aa7684dd08f868855e2e" title="boot_delete" alt="" coords="433,107,522,133"/>
+<area shape="rect" id="node8" href="$network__interface__cl_8h.html#af7fc2ae37e95cfeb4a29cd212b403f3d" title="boot_initialize_server" alt="" coords="405,157,549,184"/>
+<area shape="rect" id="node10" href="$network__interface__cl_8h.html#a794a44f2e9de2660440c1ed06138ce56" title="boot_soft_rename" alt="" coords="414,208,541,235"/>
+</map>

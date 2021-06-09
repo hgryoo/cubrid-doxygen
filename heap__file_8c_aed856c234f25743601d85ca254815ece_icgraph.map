@@ -1,0 +1,7 @@
+<map id="heap_delete_physical" name="heap_delete_physical">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a9c06dba1a14e54d2c79028ae05ff51bf" title="heap_delete_bigone" alt="" coords="211,5,348,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#ae6bc2f0a557f47735e3626174f158ac0" title="heap_delete_home" alt="" coords="214,56,345,83"/>
+<area shape="rect" id="node5" href="$heap__file_8c.html#a39452d0770e56fac7920a1eef55d75b9" title="heap_delete_relocation" alt="" coords="202,107,357,133"/>
+<area shape="rect" id="node6" href="$heap__file_8c.html#aad64b24fe26326bcf208fff0a228988b" title="heap_update_relocation" alt="" coords="200,157,359,184"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#aefde2dcf4add17b9075b27ff07a7e400" title="heap_delete_logical" alt="" coords="407,56,543,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ws_restore_pin" name="ws_restore_pin">
+<area shape="rect" id="node2" href="$load__sa__loader_8cpp.html#a86ec0dd87ebbabaab8642cf48675e356" title="ldr_restore_pin_and\l_drop_obj" alt="" coords="164,31,299,72"/>
+<area shape="rect" id="node4" href="$object__accessor_8h.html#a730886952e461fbe7e2cc188c39a0c90" title="obj_get_att" alt="" coords="188,147,275,174"/>
+<area shape="rect" id="node9" href="$object__accessor_8c.html#a8486c3a1ff8729d0497dcd8ff6e1de18" title="obj_set_att" alt="" coords="188,198,275,225"/>
+<area shape="rect" id="node3" href="$classcubload_1_1sa__object__loader.html#a8a6c945de603337f5be66791eb05f554" title="cubload::sa_object\l_loader::finish_line" alt="" coords="347,5,477,47"/>
+<area shape="rect" id="node5" href="$object__accessor_8h.html#a2a001a3bd5f060004b9a1e9d9bbc4308" title="obj_copy" alt="" coords="375,71,449,98"/>
+<area shape="rect" id="node6" href="$object__accessor_8h.html#aa5f703ba8f5bb849f3265abb41eadd0a" title="obj_desc_get" alt="" coords="363,122,461,149"/>
+<area shape="rect" id="node7" href="$object__accessor_8h.html#a775471af79835aa370cebd2a2d2c754c" title="obj_get" alt="" coords="380,173,444,199"/>
+<area shape="rect" id="node8" href="$object__accessor_8c.html#a79e0c5838f048366d968f4104b0587d5" title="obj_get_temp" alt="" coords="362,223,462,250"/>
+</map>

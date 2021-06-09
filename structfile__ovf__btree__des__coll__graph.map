@@ -1,0 +1,5 @@
+<map id="file_ovf_btree_des" name="file_ovf_btree_des">
+<area shape="rect" id="node2" href="$structdb__identifier.html" title="{db_identifier\n|+ pageid\l+ slotid\l+ volid\l|}" alt="" coords="5,160,97,267"/>
+<area shape="rect" id="node3" href="$structbtid.html" title="{btid\n|+ root_pageid\l|}" alt="" coords="122,175,223,252"/>
+<area shape="rect" id="node4" href="$structvfid.html" title="{vfid\n|+ fileid\l+ volid\l|}" alt="" coords="142,5,203,97"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pp_free_cursor" name="pp_free_cursor">
+<area shape="rect" id="node2" href="$esql__misc_8h.html#acb237a8b8b8207b42c12b67a1cff8d76" title="pp_cursor_finish" alt="" coords="186,5,303,32"/>
+<area shape="rect" id="node4" href="$esql__misc_8h.html#a526bd78e77dafd448a51ad13f9a0fbb1" title="pp_discard_cursor_chain" alt="" coords="161,56,328,83"/>
+<area shape="rect" id="node3" href="$esql__misc_8h.html#a14a76048927a5cb865f036dbb4d1988e" title="pp_finish" alt="" coords="411,5,486,32"/>
+<area shape="rect" id="node5" href="$esql__misc_8h.html#a7d6e410599e6f778609de9c054516e6a" title="pp_pop_name_scope" alt="" coords="376,56,521,83"/>
+</map>

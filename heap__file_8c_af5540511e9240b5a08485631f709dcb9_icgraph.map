@@ -1,0 +1,5 @@
+<map id="heap_get_page_info" name="heap_get_page_info">
+<area shape="rect" id="node2" href="$heap__file_8h.html#a9c1fe6a255586f25056cbc18be88658d" title="heap_page_next" alt="" coords="192,5,309,32"/>
+<area shape="rect" id="node4" href="$heap__file_8h.html#a66fd7a3d4ff1244a3b7ff1b8393f7f82" title="heap_page_prev" alt="" coords="192,56,309,83"/>
+<area shape="rect" id="node3" href="$scan__manager_8c.html#a3d3cfac2b01e1f708f183688d60e4488" title="scan_next_heap_page_scan" alt="" coords="357,31,544,57"/>
+</map>

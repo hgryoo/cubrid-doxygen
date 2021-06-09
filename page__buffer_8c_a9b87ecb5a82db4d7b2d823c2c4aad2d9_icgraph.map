@@ -1,0 +1,9 @@
+<map id="pgbuf_lfcq_add_lru_with_victims" name="pgbuf_lfcq_add_lru_with_victims">
+<area shape="rect" id="node2" href="$page__buffer_8h.html#a9583e774d489edc4243ece32dc62a92d" title="pgbuf_adjust_quotas" alt="" coords="185,85,328,112"/>
+<area shape="rect" id="node6" href="$page__buffer_8c.html#a057f483d7d0c46de68942171ccd93ae5" title="pgbuf_lru_add_victim\l_candidate" alt="" coords="184,166,329,207"/>
+<area shape="rect" id="node3" href="$page__buffer_8h.html#a7ddee48663b8b2801c073e9ecf87f041" title="pgbuf_assign_private_lru" alt="" coords="379,5,546,32"/>
+<area shape="rect" id="node4" href="$page__buffer_8h.html#a5ee1208a8c23e2a5b9d3ed7ab72a4b62" title="pgbuf_release_private_lru" alt="" coords="377,56,548,83"/>
+<area shape="rect" id="node5" href="$page__buffer_8c.html#a06d2b0cbf44eb89ea6c4c9f068cf4344" title="pgbuf_get_page_flush\l_interval" alt="" coords="388,107,537,149"/>
+<area shape="rect" id="node7" href="$page__buffer_8c.html#a844a60b0938cc24d0f8b555ed449ff11" title="pgbuf_bcb_update_flags" alt="" coords="381,173,544,200"/>
+<area shape="rect" id="node8" href="$page__buffer_8c.html#aad5004edb8758596a43871a706b8f6d7" title="pgbuf_bcb_change_zone" alt="" coords="379,224,546,251"/>
+</map>

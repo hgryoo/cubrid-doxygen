@@ -1,0 +1,7 @@
+<map id="xserial_get_next_value_internal" name="xserial_get_next_value_internal">
+<area shape="rect" id="node2" href="$serial_8h.html#accc5aa02a32b9e2776916f6e3d649250" title="xserial_get_next_value" alt="" coords="208,81,363,108"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#ac5fcd3950e0f7bb3e3e7122294b68124" title="serial_get_next_value" alt="" coords="419,5,567,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a567c4412145b84f55f0226f4f10fb118" title="sserial_get_next_value" alt="" coords="415,56,570,83"/>
+<area shape="rect" id="node5" href="$fetch_8c.html#a5c21570b652be459038a12ac984293af" title="fetch_peek_arith" alt="" coords="433,107,552,133"/>
+<area shape="rect" id="node6" href="$heap__file_8h.html#ab7c22521ae5b0786918abc192a3ba4a8" title="heap_set_autoincrement\l_value" alt="" coords="411,158,575,199"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="session_clear_query_entry_info" name="session_clear_query_entry_info">
+<area shape="rect" id="node2" href="$session__sr_8c.html#a9ae3cbe6c948d9b950c57dbd833773f1" title="xsession_clear_query\l_entry_info" alt="" coords="195,23,343,65"/>
+<area shape="rect" id="node3" href="$query__manager_8c.html#a0382e2abbf209165a152f42248749e82" title="xqmgr_end_query" alt="" coords="415,5,541,32"/>
+<area shape="rect" id="node4" href="$query__manager_8h.html#ace099a1e6a1109b25e6923004dcf2e05" title="qmgr_clear_trans_wakeup" alt="" coords="391,56,565,83"/>
+</map>

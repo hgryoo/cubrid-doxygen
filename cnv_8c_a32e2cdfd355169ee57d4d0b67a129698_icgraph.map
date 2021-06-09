@@ -1,0 +1,7 @@
+<map id="fmt_fractional_value" name="fmt_fractional_value">
+<area shape="rect" id="node2" href="$cnv_8c.html#af0dcde94808cd94f490ff84e65384b12" title="ffmt_value" alt="" coords="196,56,279,83"/>
+<area shape="rect" id="node5" href="$cnv_8c.html#ae9bce87203723ec08b07c12bf79577b7" title="mfmt_value" alt="" coords="192,107,283,133"/>
+<area shape="rect" id="node3" href="$cnv_8h.html#ad7c6b381eb420abcf4e8ebde6b54bae5" title="db_string_double" alt="" coords="339,5,459,32"/>
+<area shape="rect" id="node4" href="$cnv_8h.html#a6eb40873645e016f321526f5be906979" title="db_string_float" alt="" coords="345,56,452,83"/>
+<area shape="rect" id="node6" href="$cnv_8h.html#a9ed5836f9e8a7b227440f7514756a2e3" title="db_string_monetary" alt="" coords="331,107,467,133"/>
+</map>

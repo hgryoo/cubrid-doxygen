@@ -1,0 +1,8 @@
+<map id="vacuum_restore_thread" name="vacuum_restore_thread">
+<area shape="rect" id="node2" href="$vacuum_8c.html#a98dc5dfb2fca47a345da4f0f7c678554" title="vacuum_recover_lost\l_block_data" alt="" coords="212,19,359,60"/>
+<area shape="rect" id="node4" href="$vacuum_8h.html#a22e5bf702c8d07613f99056603d133c4" title="xvacuum" alt="" coords="248,110,323,137"/>
+<area shape="rect" id="node3" href="$vacuum_8h.html#a2cb21fa7816f2d0a4cf699cae9e7fd7b" title="vacuum_data_load_and\l_recover" alt="" coords="407,5,565,47"/>
+<area shape="rect" id="node5" href="$network__interface__cl_8h.html#a4ddd3694ee7effd5a8477603cadec249" title="cvacuum" alt="" coords="449,71,523,98"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#a9a3181c08916a72b1163c260ca7de7e5" title="svacuum" alt="" coords="449,122,523,149"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="419,173,553,199"/>
+</map>

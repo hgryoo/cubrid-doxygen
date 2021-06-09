@@ -1,0 +1,6 @@
+<map id="heap_ovf_delete" name="heap_ovf_delete">
+<area shape="rect" id="node2" href="$heap__file_8c.html#a9c06dba1a14e54d2c79028ae05ff51bf" title="heap_delete_bigone" alt="" coords="175,5,313,32"/>
+<area shape="rect" id="node4" href="$heap__file_8c.html#a512d30dc792740a94604451092dc9493" title="heap_update_bigone" alt="" coords="173,56,315,83"/>
+<area shape="rect" id="node5" href="$vacuum_8c.html#ab08a1e44f9d9db235a21e9fc4cde9992" title="vacuum_heap_record" alt="" coords="171,107,317,133"/>
+<area shape="rect" id="node3" href="$heap__file_8h.html#aefde2dcf4add17b9075b27ff07a7e400" title="heap_delete_logical" alt="" coords="365,5,501,32"/>
+</map>

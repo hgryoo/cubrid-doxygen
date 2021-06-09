@@ -1,0 +1,5 @@
+<map id="session_state_create" name="session_state_create">
+<area shape="rect" id="node2" href="$session__sr_8c.html#ac83ab8e16f4b13b412f3b7baaf8eecce" title="xsession_create_new" alt="" coords="200,46,348,73"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a2b24f229af26cd4cb7e193b840385d8c" title="csession_find_or_create\l_session" alt="" coords="396,5,559,47"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8h.html#a7cce10b54f3fd06231384b44776b3007" title="ssession_find_or_create\l_session" alt="" coords="396,71,559,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="qo_join_new" name="qo_join_new">
+<area shape="rect" id="node2" href="$query__planner_8c.html#a053c8e82287ae14a642dda7b0c8ee09e" title="qo_cp_new" alt="" coords="201,5,289,32"/>
+<area shape="rect" id="node4" href="$query__planner_8c.html#ae01ebcf9f349d4e6ea212fc4e59e5c43" title="qo_examine_merge_join" alt="" coords="163,56,326,83"/>
+<area shape="rect" id="node5" href="$query__planner_8c.html#a78d7522d9fccf497692d3f0f7e92f5c4" title="qo_examine_nl_join" alt="" coords="177,107,313,133"/>
+<area shape="rect" id="node6" href="$query__planner_8c.html#a6d502f0e742e3f1448fefff588540079" title="qo_generate_join_index_scan" alt="" coords="148,157,341,184"/>
+<area shape="rect" id="node3" href="$query__planner_8c.html#ad1a25c2a4131f42a4170844e8e4b2faa" title="qo_combine_partitions" alt="" coords="389,5,541,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="sp_get_sql_stmt" name="sp_get_sql_stmt">
+<area shape="rect" id="node2" href="$shard__statement_8c.html#ad98dc07a838742d278d1b51eae02b2d3" title="shard_stmt_del_statement\l_from_map" alt="" coords="173,49,349,90"/>
+<area shape="rect" id="node6" href="$shard__statement_8h.html#a2bca083bc38dff42bf2fa3994c9db5d5" title="shard_stmt_find_by_sql" alt="" coords="397,5,557,32"/>
+<area shape="rect" id="node7" href="$shard__statement_8c.html#a07510e36dce2e48c9f4013f03941868d" title="shard_stmt_put_statement\l_to_map" alt="" coords="172,114,349,155"/>
+<area shape="rect" id="node3" href="$shard__statement_8h.html#ad794fa513234dc2ba369d25e1d537928" title="shard_stmt_free" alt="" coords="419,56,535,83"/>
+<area shape="rect" id="node4" href="$shard__proxy__function_8h.html#a1129ea179bc5b956c36d68cb474abd99" title="fn_proxy_client_prepare" alt="" coords="609,5,769,32"/>
+<area shape="rect" id="node5" href="$shard__statement_8c.html#a75e0c7bd932262fc450b9bb2418a1f34" title="shard_stmt_new_internal" alt="" coords="605,56,772,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="make_state" name="make_state">
+<area shape="rect" id="node2" href="$trigger__manager_8c.html#ab36a517cd77bdd01e14e990b9683900d" title="start_state" alt="" coords="144,81,228,108"/>
+<area shape="rect" id="node3" href="$trigger__manager_8c.html#a3792d4dac4d3bea26df6277cee9b83cc" title="run_user_triggers" alt="" coords="287,5,410,32"/>
+<area shape="rect" id="node4" href="$trigger__manager_8h.html#a544e41976d6d1ec8a64500545e20cf6d" title="tr_prepare_statement" alt="" coords="276,56,421,83"/>
+<area shape="rect" id="node5" href="$trigger__manager_8h.html#a697079934063d98110504cdb006683ab" title="tr_prepare_class" alt="" coords="289,107,408,133"/>
+<area shape="rect" id="node6" href="$trigger__manager_8h.html#af5246583905394c9c1a2e8de59dd0735" title="tr_execute_deferred\l_activities" alt="" coords="280,158,417,199"/>
+</map>

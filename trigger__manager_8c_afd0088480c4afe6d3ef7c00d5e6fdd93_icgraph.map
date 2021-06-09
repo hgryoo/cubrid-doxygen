@@ -1,0 +1,8 @@
+<map id="tr_make_schema_cache" name="tr_make_schema_cache">
+<area shape="rect" id="node2" href="$schema__manager_8c.html#a72e6f3e51dd29efad95ecc3d376a176f" title="alter_trigger_cache" alt="" coords="231,5,363,32"/>
+<area shape="rect" id="node4" href="$transform__cl_8c.html#abbfdce0d1a4eb0e066a1f503161fa721" title="disk_to_attribute" alt="" coords="238,56,357,83"/>
+<area shape="rect" id="node5" href="$transform__cl_8c.html#a7e9edf7ef6d40f43dc2b1c5dcca4594d" title="disk_to_class" alt="" coords="449,95,552,121"/>
+<area shape="rect" id="node6" href="$schema__manager_8c.html#abac3a1b5eaf0b5417f1b2a44c3958032" title="flatten_trigger_cache" alt="" coords="429,171,572,197"/>
+<area shape="rect" id="node7" href="$trigger__manager_8h.html#a62e2419a0fa885ce37408077515d9c9c" title="tr_copy_schema_cache" alt="" coords="217,208,377,235"/>
+<area shape="rect" id="node3" href="$schema__manager_8c.html#a0cfd168994c3ec0bdda0af0fd6d26c9a" title="alter_trigger_hierarchy" alt="" coords="425,5,576,32"/>
+</map>

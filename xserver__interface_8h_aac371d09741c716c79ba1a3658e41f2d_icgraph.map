@@ -1,0 +1,9 @@
+<map id="xtran_server_has_updated" name="xtran_server_has_updated">
+<area shape="rect" id="node2" href="$network__interface__sr_8h.html#a3a5362eaa792a7cedc1f6fa7b32cec02" title="stran_server_has_updated" alt="" coords="228,5,403,32"/>
+<area shape="rect" id="node4" href="$network__interface__cl_8h.html#a731f236d449f136c1fecd167fe60067b" title="tran_server_has_updated" alt="" coords="231,56,399,83"/>
+<area shape="rect" id="node6" href="$transaction__sr_8c.html#a169f1f769f569e228ed9a980a246f735" title="xtran_server_is_active\l_and_has_updated" alt="" coords="239,107,392,149"/>
+<area shape="rect" id="node3" href="$network__sr_8c.html#a388e840b8368aff05e019f0c8160aeb5" title="net_server_init" alt="" coords="652,93,759,120"/>
+<area shape="rect" id="node5" href="$transaction__cl_8h.html#ae0d39a187daf5a0b082c23957969536c" title="tran_has_updated" alt="" coords="465,56,590,83"/>
+<area shape="rect" id="node7" href="$network__interface__cl_8h.html#a6c84c4262c886870c8a7febd5226568d" title="tran_server_is_active\l_and_has_updated" alt="" coords="454,107,601,149"/>
+<area shape="rect" id="node8" href="$network__interface__sr_8h.html#a7ddd7e54cb200c894e63c8039fa29b3f" title="stran_server_is_active\l_and_has_updated" alt="" coords="451,173,604,214"/>
+</map>

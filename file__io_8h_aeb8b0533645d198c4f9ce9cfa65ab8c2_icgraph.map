@@ -1,0 +1,7 @@
+<map id="fileio_read_pages" name="fileio_read_pages">
+<area shape="rect" id="node2" href="$double__write__buffer_8h.html#a7eba2ea1da9ea870fa78b64dfb9569bc" title="dwb_load_and_recover\l_pages" alt="" coords="176,5,331,47"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#acadd68b314ff158d221266ebcc9a11b4" title="logpb_read_page_from\l_active_log" alt="" coords="177,71,330,112"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="405,13,539,39"/>
+<area shape="rect" id="node5" href="$log__page__buffer_8c.html#a9528380e8390c0034251b1d350a1beae" title="logpb_archive_active_log" alt="" coords="388,70,556,97"/>
+<area shape="rect" id="node6" href="$log__page__buffer_8c.html#a44eb784dcaf09b76943d76ad06af5832" title="logpb_background_archiving" alt="" coords="379,121,565,147"/>
+</map>

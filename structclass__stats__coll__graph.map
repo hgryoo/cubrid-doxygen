@@ -1,0 +1,4 @@
+<map id="class_stats" name="class_stats">
+<area shape="rect" id="node2" href="$structattr__stats.html" title="{attr_stats\n|+ id\l+ type\l+ n_btstats\l|}" alt="" coords="33,233,121,340"/>
+<area shape="rect" id="node3" href="$structbtree__stats.html" title="{btree_stats\n|+ leafs\l+ pages\l+ height\l+ keys\l+ has_function\l+ pkeys_size\l+ pkeys\l|}" alt="" coords="23,5,131,171"/>
+</map>

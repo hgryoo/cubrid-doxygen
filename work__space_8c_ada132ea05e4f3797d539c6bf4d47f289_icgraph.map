@@ -1,0 +1,7 @@
+<map id="ws_get_mvcc_snapshot_version" name="ws_get_mvcc_snapshot_version">
+<area shape="rect" id="node2" href="$schema__manager_8h.html#a377cbc4f3e0978a261fdd2682c3624bd" title="sm_virtual_queries" alt="" coords="216,56,347,83"/>
+<area shape="rect" id="node6" href="$work__space_8c.html#a6d3f8479179987d9153cabbf25524339" title="ws_make_mop" alt="" coords="226,107,337,133"/>
+<area shape="rect" id="node3" href="$view__transform_8c.html#a88d6ff0ad20516faa5100141956e71b2" title="mq_fetch_attributes" alt="" coords="399,5,537,32"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#a5a6c9bacc8d25c691f54840c13c98467" title="mq_fetch_subqueries" alt="" coords="395,56,541,83"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#af1900d43029fe9713f1a36feb588bd69" title="mq_fetch_subqueries\l_for_update_local" alt="" coords="395,107,541,149"/>
+</map>

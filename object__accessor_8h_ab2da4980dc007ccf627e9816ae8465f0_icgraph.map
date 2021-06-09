@@ -1,0 +1,8 @@
+<map id="obj_alloc" name="obj_alloc">
+<area shape="rect" id="node2" href="$object__template_8c.html#a1d646d2173c1730053d4f8e76d69118e" title="create_template_object" alt="" coords="133,5,291,32"/>
+<area shape="rect" id="node4" href="$transform__cl_8c.html#a08c52b92bc4b768d3d8cbf7933fac1f8" title="get_current" alt="" coords="169,56,255,83"/>
+<area shape="rect" id="node6" href="$transform__cl_8c.html#ae9e4324eff373fb625c92053ce737d7d" title="get_old" alt="" coords="180,107,244,133"/>
+<area shape="rect" id="node7" href="$virtual__object_8c.html#a4c83744f2982452b7daccec22c2e32f6" title="vid_build_non_upd_object" alt="" coords="127,157,297,184"/>
+<area shape="rect" id="node3" href="$object__template_8c.html#af529284ef8a36888b50d277a186426aa" title="access_object" alt="" coords="349,5,456,32"/>
+<area shape="rect" id="node5" href="$transform__cl_8h.html#acdfc497b4405a9f6224940da1c8b4aae" title="tf_disk_to_mem" alt="" coords="345,81,460,108"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="object_size" name="object_size">
+<area shape="rect" id="node2" href="$btree_8c.html#ade264e2c1e2f31fb97a88f3b36507b89" title="btree_record_remove\l_last_object" alt="" coords="141,37,285,79"/>
+<area shape="rect" id="node5" href="$transform__cl_8h.html#a275a0c1713145e8880a155f43d3e90b2" title="tf_mem_to_disk" alt="" coords="156,103,271,130"/>
+<area shape="rect" id="node6" href="$transform__cl_8h.html#aeb64566eee99efa91c98532624649470" title="tf_object_size" alt="" coords="162,154,265,181"/>
+<area shape="rect" id="node3" href="$btree_8c.html#aa385b0e44659fdc7fd2857c32d14e78d" title="btree_key_relocate\l_last_into_ovf" alt="" coords="353,5,485,47"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a5a56318478659d35fd66923fa6cd69c4" title="btree_leaf_record_replace\l_first_with_last" alt="" coords="333,71,504,112"/>
+</map>

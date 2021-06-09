@@ -1,0 +1,5 @@
+<map id="tran_2pc_recovery_prepared" name="tran_2pc_recovery_prepared">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#ae911845804775453eabef5ab09f0611d" title="db_2pc_prepared_transactions" alt="" coords="240,31,439,57"/>
+<area shape="rect" id="node3" href="$cas__xa_8c.html#afc7445f1f25d3ee1b0428804168e52bc" title="fn_xa_end_tran" alt="" coords="487,5,597,32"/>
+<area shape="rect" id="node4" href="$cas__xa_8c.html#a7f05423a6e9d965b9b37de3bcf6c1407" title="fn_xa_recover" alt="" coords="490,56,594,83"/>
+</map>

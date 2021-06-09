@@ -1,0 +1,9 @@
+<map id="css_send_error" name="css_send_error">
+<area shape="rect" id="node2" href="$server__support_8c.html#af5a6ff70826ab90a661c2e644735cb99" title="css_refuse_connection\l_request" alt="" coords="172,57,328,98"/>
+<area shape="rect" id="node5" href="$server__support_8h.html#a249433309ad2e3e73de1e45a67990e81" title="css_send_error_to_client" alt="" coords="167,123,333,149"/>
+<area shape="rect" id="node7" href="$client__support_8h.html#a140a5eb921b7e6b400e659d635ea4182" title="css_send_error_to_server" alt="" coords="164,173,336,200"/>
+<area shape="rect" id="node3" href="$server__support_8c.html#ac2cd29547215949b8aa651ad772b5faf" title="css_process_new_client" alt="" coords="388,5,553,32"/>
+<area shape="rect" id="node4" href="$server__support_8h.html#a8b07e301b0f090fa52920cc1b48b4777" title="css_is_shutdown_timeout\l_expired" alt="" coords="384,57,557,98"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#af154b275e38e2e151c0521f113fe7d01" title="return_error_to_client" alt="" coords="399,123,543,149"/>
+<area shape="rect" id="node8" href="$network__cl_8c.html#afef936de275a8223e831cae4ef7d3645" title="return_error_to_server" alt="" coords="396,173,545,200"/>
+</map>

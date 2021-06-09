@@ -1,0 +1,7 @@
+<map id="qmgr_get_external_file_page" name="qmgr_get_external_file_page">
+<area shape="rect" id="node2" href="$query__manager_8h.html#ad9d4b1266739a7188db7c5a9d848c56c" title="qmgr_get_new_page" alt="" coords="241,93,384,120"/>
+<area shape="rect" id="node3" href="$list__file_8c.html#a53924a83c409288c48e6380a479fcb2d" title="qfile_allocate_new_page" alt="" coords="432,5,596,32"/>
+<area shape="rect" id="node4" href="$list__file_8c.html#a09a320a9e523837ac8c8de64dcb10a05" title="qfile_allocate_new\l_ovf_page" alt="" coords="449,57,579,98"/>
+<area shape="rect" id="node5" href="$list__file_8h.html#ab4f13b15b2ddac8fbd42965eb5a7dbbd" title="qfile_get_first_page" alt="" coords="447,123,581,149"/>
+<area shape="rect" id="node6" href="$list__file_8c.html#a1914e43f4a96514cbc9f0555a5b69529" title="qfile_copy_list_pages" alt="" coords="441,173,587,200"/>
+</map>

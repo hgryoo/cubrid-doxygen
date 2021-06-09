@@ -1,0 +1,18 @@
+<map id="obj_inst_lock" name="obj_inst_lock">
+<area shape="rect" id="node2" href="$authenticate_8c.html#ada79c42256625eef01008fd31cd7a5b3" title="au_add_member_internal" alt="" coords="152,43,319,69"/>
+<area shape="rect" id="node5" href="$authenticate_8c.html#aa44ed2266e160f8a81a8b400744c7da3" title="au_delete_new_auth" alt="" coords="165,245,306,272"/>
+<area shape="rect" id="node6" href="$authenticate_8h.html#af2cbcb3deb351ad5c3dafaa7dc2ff290" title="au_revoke" alt="" coords="385,144,467,171"/>
+<area shape="rect" id="node7" href="$authenticate_8h.html#aa0c24965d6f0630211fb1e4e1f6769d2" title="au_drop_member" alt="" coords="174,195,297,221"/>
+<area shape="rect" id="node8" href="$authenticate_8h.html#a7967cf08e852e8e2e5157c4524260686" title="au_grant" alt="" coords="390,347,462,373"/>
+<area shape="rect" id="node9" href="$authenticate_8c.html#aba91d5852ea11e58f057a8df7d57a403" title="au_update_new_auth" alt="" coords="163,296,308,323"/>
+<area shape="rect" id="node10" href="$object__accessor_8h.html#adb5453e43de8a62c871c2c77b5b030bf" title="obj_lock" alt="" coords="200,347,271,373"/>
+<area shape="rect" id="node11" href="$authenticate_8c.html#a7c0f9886f748d2508611f0518cfcb488" title="propagate_revoke" alt="" coords="173,144,298,171"/>
+<area shape="rect" id="node12" href="$trigger__manager_8c.html#a903e9b2397f758ed09660ea58ecf8a74" title="register_user_trigger" alt="" coords="165,448,305,475"/>
+<area shape="rect" id="node13" href="$trigger__manager_8c.html#a9e9690a77a146cc21bffa002ac48418d" title="trigger_table_add" alt="" coords="175,499,296,525"/>
+<area shape="rect" id="node14" href="$trigger__manager_8c.html#ac191f2fc3c526077eafffef44bc6923b" title="trigger_table_drop" alt="" coords="173,549,298,576"/>
+<area shape="rect" id="node15" href="$trigger__manager_8c.html#a0fe9fa8a98ea91defc776a9c3c15ed90" title="trigger_table_rename" alt="" coords="164,600,307,627"/>
+<area shape="rect" id="node16" href="$trigger__manager_8c.html#a2b293d32494648b1e2ef15c887d157dc" title="unregister_user_trigger" alt="" coords="158,651,313,677"/>
+<area shape="rect" id="node17" href="$execute__statement_8c.html#ad3e5836d399eca9cc6f181c57a9e4957" title="update_object_by_oid" alt="" coords="161,701,309,728"/>
+<area shape="rect" id="node3" href="$authenticate_8h.html#accd167a5d806772b3c298b073b6dc7b6" title="au_add_member" alt="" coords="367,5,485,32"/>
+<area shape="rect" id="node4" href="$authenticate_8h.html#abf5a1e3cd4160a51bc6acd4abff51bb6" title="au_add_user" alt="" coords="378,56,474,83"/>
+</map>

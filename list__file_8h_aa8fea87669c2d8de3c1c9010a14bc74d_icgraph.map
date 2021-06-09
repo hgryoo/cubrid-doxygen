@@ -1,0 +1,15 @@
+<map id="qfile_reallocate_tuple" name="qfile_reallocate_tuple">
+<area shape="rect" id="node2" href="$query__executor_8c.html#a4d3537ba25d46d36535249eafc79da64" title="qexec_merge_list" alt="" coords="215,5,339,32"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a4dbbb4d771851eb52f910bdb277a257c" title="qexec_merge_list_outer" alt="" coords="197,56,357,83"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#abee342cf5657d05621299c12c8bdae9b" title="qexec_merge_tuple" alt="" coords="210,107,345,133"/>
+<area shape="rect" id="node7" href="$list__file_8h.html#ae2ec9c943b20bb0c1b279799e7a1f63c" title="qfile_get_tuple" alt="" coords="224,208,331,235"/>
+<area shape="rect" id="node13" href="$list__file_8c.html#a34b5327bf31acbadc280a4904967a72a" title="qfile_retrieve_tuple" alt="" coords="640,380,771,407"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#a8205ad7c83184c045333f920f7611fca" title="qexec_merge_listfiles" alt="" coords="425,5,573,32"/>
+<area shape="rect" id="node6" href="$query__executor_8c.html#a47f3dd4a66025366a5dafd7a452ab7b2" title="qexec_merge_tuple_add_list" alt="" coords="405,56,592,83"/>
+<area shape="rect" id="node8" href="$query__executor_8c.html#a2917396e193847416a3e5b21614a7f47" title="qexec_analytic_put_next" alt="" coords="415,107,582,133"/>
+<area shape="rect" id="node9" href="$query__executor_8c.html#a359484e86d5c757860ace460753653ef" title="qexec_gby_put_next" alt="" coords="427,157,570,184"/>
+<area shape="rect" id="node10" href="$query__executor_8c.html#ace26f0b2682d1facc2561230e6f7b44d" title="qexec_hash_gby_put_next" alt="" coords="410,208,587,235"/>
+<area shape="rect" id="node11" href="$query__executor_8c.html#a88c76f42fcdb0493ad08df615f85f379" title="qexec_ordby_put_next" alt="" coords="422,259,575,285"/>
+<area shape="rect" id="node12" href="$list__file_8c.html#a595ad5a286cf8cc6da47246293d7006f" title="qfile_get_tuple_from\l_current_list" alt="" coords="429,310,568,351"/>
+<area shape="rect" id="node14" href="$list__file_8h.html#a803b81729aced7e45a887c52ef329ecd" title="qfile_set_tuple_column\l_value" alt="" coords="421,375,576,417"/>
+</map>

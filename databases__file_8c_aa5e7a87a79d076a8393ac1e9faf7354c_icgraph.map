@@ -1,0 +1,20 @@
+<map id="cfg_open_directory_file" name="cfg_open_directory_file">
+<area shape="rect" id="node2" href="$databases__file_8h.html#a27e52dbae492e12eb0a31d5124e93441" title="cfg_read_directory" alt="" coords="209,411,339,437"/>
+<area shape="rect" id="node19" href="$databases__file_8h.html#adafab1b096fcc687815936dbc8f7dda9" title="cfg_write_directory" alt="" coords="399,832,531,859"/>
+<area shape="rect" id="node3" href="$databases__file_8h.html#a1928f638abb47aaef1e62242915952fe" title="cfg_read_directory_ex" alt="" coords="390,259,541,285"/>
+<area shape="rect" id="node4" href="$utility_8h.html#a24cb82c7693b92a6eb14285a1f9a89e3" title="alterdbhost" alt="" coords="631,259,717,285"/>
+<area shape="rect" id="node5" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="599,309,749,336"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="607,107,741,133"/>
+<area shape="rect" id="node7" href="$boot__sr_8h.html#a35ac6b023925d316470664d6ce4e4888" title="xboot_copy" alt="" coords="804,436,893,463"/>
+<area shape="rect" id="node8" href="$boot__sr_8h.html#acb0127ed69984740febd2060f7086821" title="xboot_soft_rename" alt="" coords="607,360,741,387"/>
+<area shape="rect" id="node9" href="$boot__sr_8h.html#a6dc8b536b7d535d54c1471a87b76f2c2" title="xboot_delete" alt="" coords="626,461,722,488"/>
+<area shape="rect" id="node10" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="592,157,756,184"/>
+<area shape="rect" id="node11" href="$databases__file_8h.html#a9b9d3db8c9de6aba81861c4bf504046d" title="cfg_write_directory_ex" alt="" coords="389,411,542,437"/>
+<area shape="rect" id="node12" href="$databases__file_8h.html#a8eb4c46c06d153eebaf6d4fa25f55188" title="cfg_find_db" alt="" coords="421,563,510,589"/>
+<area shape="rect" id="node13" href="$utility_8h.html#aaf851cd84c559ad0be4b45ed471eb845" title="installdb" alt="" coords="639,613,709,640"/>
+<area shape="rect" id="node14" href="$tz__compile_8c.html#a42f887cbeff90bb6259a8a76b968da6c" title="tzc_compute_timezone\l_checksum" alt="" coords="387,665,544,706"/>
+<area shape="rect" id="node15" href="$migrate_8c.html#a1134f2a2209bf53c90f454450076af01" title="get_db_path" alt="" coords="419,731,512,757"/>
+<area shape="rect" id="node16" href="$util__sa_8c.html#ae523ae290e95cc481c7ae701392ca9b3" title="print_backup_info" alt="" coords="403,781,527,808"/>
+<area shape="rect" id="node17" href="$utility_8h.html#aa4d969bd8839107b7106ca8e6b71c59c" title="gen_tz" alt="" coords="435,5,496,32"/>
+<area shape="rect" id="node18" href="$query__opfunc_8h.html#aab88b626db80483e7af16ec979114ffd" title="qdata_list_dbs" alt="" coords="412,56,519,83"/>
+</map>

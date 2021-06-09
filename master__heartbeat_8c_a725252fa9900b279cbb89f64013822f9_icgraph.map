@@ -1,0 +1,5 @@
+<map id="hb_add_node_to_cluster" name="hb_add_node_to_cluster">
+<area shape="rect" id="node2" href="$master__heartbeat_8c.html#ab3e31487c448dd2d648d1ebab17b0b7c" title="hb_cluster_load_group\l_and_node_list" alt="" coords="216,23,368,65"/>
+<area shape="rect" id="node3" href="$master__heartbeat_8c.html#aae0ca8a6e93a5b4796a9e648e0081b77" title="hb_cluster_initialize" alt="" coords="416,5,552,32"/>
+<area shape="rect" id="node4" href="$master__heartbeat_8c.html#abcba91f0e0527d2a12822ed9953835fc" title="hb_reload_config" alt="" coords="424,56,544,83"/>
+</map>

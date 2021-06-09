@@ -1,0 +1,6 @@
+<map id="btree_print_space" name="btree_print_space">
+<area shape="rect" id="node2" href="$btree_8c.html#a697f7e38a96b3f349d64d2382e2441c5" title="btree_dump_leaf_record" alt="" coords="179,92,340,118"/>
+<area shape="rect" id="node3" href="$btree_8c.html#ad218a8a841023d1cd861a3508c82fd6a" title="btree_dump_page" alt="" coords="403,33,529,60"/>
+<area shape="rect" id="node5" href="$btree_8c.html#aba035335a33256a64c18ccf7ed867d04" title="btree_dump_non_leaf\l_record" alt="" coords="186,26,333,67"/>
+<area shape="rect" id="node4" href="$btree_8h.html#a98391cc662102b843995a74b040beac3" title="btree_rv_save_keyval\l_for_undo_two_objects" alt="" coords="388,84,544,126"/>
+</map>

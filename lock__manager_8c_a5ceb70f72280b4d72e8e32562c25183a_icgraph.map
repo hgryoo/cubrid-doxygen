@@ -1,0 +1,7 @@
+<map id="lock_abort_composite_lock" name="lock_abort_composite_lock">
+<area shape="rect" id="node2" href="$lock__manager_8h.html#a95e66c526c9a2b87491dbaf2bcea62d0" title="lock_finalize_composite_lock" alt="" coords="233,107,425,134"/>
+<area shape="rect" id="node5" href="$query__executor_8c.html#a7f75e30ca5ca44e386fde62197337c0a" title="qexec_execute_mainblock\l_internal" alt="" coords="672,129,848,171"/>
+<area shape="rect" id="node6" href="$query__executor_8h.html#a8ffca36cae36a3f9c8c3c2c3f79be082" title="qexec_clear_xasl" alt="" coords="268,262,391,289"/>
+<area shape="rect" id="node3" href="$query__executor_8c.html#afb37c9fea8be007fbb49a6fefc42d253" title="qexec_clear_groupby\l_state" alt="" coords="476,5,621,47"/>
+<area shape="rect" id="node4" href="$query__executor_8c.html#a425bc11259dd76219569ccff1917b387" title="qexec_end_mainblock\l_iterations" alt="" coords="473,71,624,112"/>
+</map>

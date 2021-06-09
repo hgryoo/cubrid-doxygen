@@ -1,0 +1,14 @@
+<map id="boot_change_ha_mode" name="boot_change_ha_mode">
+<area shape="rect" id="node2" href="$utility_8h.html#adb342b09bb32721302a0c5fd9b041b65" title="changemode" alt="" coords="233,199,329,225"/>
+<area shape="rect" id="node3" href="$server__support_8h.html#a420baac2165c470d8a726a01a1329191" title="css_ha_server_state" alt="" coords="209,249,352,276"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8c.html#a4515b9cb418e3cde07738c0d56c29c12" title="server_capabilities" alt="" coords="423,5,554,32"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#ab275afe2b2e11383cae924c9b34cd50f" title="sboot_change_ha_mode" alt="" coords="407,56,570,83"/>
+<area shape="rect" id="node6" href="$server__support_8c.html#ae58c62456655b0400a42763aa98b0232" title="css_process_change\l_server_ha_mode_request" alt="" coords="401,107,576,149"/>
+<area shape="rect" id="node7" href="$checksumdb_8c.html#ad26a713bc1aa88a9ca1e61ef21215c84" title="chksum_report_header" alt="" coords="411,173,566,200"/>
+<area shape="rect" id="node8" href="$utility_8h.html#a17e5e9027694b5ebcafb93de6b62544f" title="checksumdb" alt="" coords="441,224,537,251"/>
+<area shape="rect" id="node9" href="$boot__sr_8c.html#a46bc32c12e4da7c28c2ef2afa656ee00" title="xboot_register_client" alt="" coords="417,275,560,301"/>
+<area shape="rect" id="node10" href="$log__comm_8h.html#ae3b5771bd95aa37a187f3a6e0cb2b32d" title="log_does_allow_replication" alt="" coords="400,325,577,352"/>
+<area shape="rect" id="node11" href="$log__manager_8h.html#a4fc5a0d28e92e601bb3f8d8d53a8e29c" title="log_is_log_flush_daemon\l_available" alt="" coords="405,377,573,418"/>
+<area shape="rect" id="node12" href="$log__writer_8h.html#af1e1368d8e63a233e503b44c7cad4f4e" title="logwr_log_ha_filestat\l_to_string" alt="" coords="417,442,561,483"/>
+<area shape="rect" id="node13" href="$transaction__sr_8c.html#adea9113696646ab1a88c8e0e348180fa" title="xtran_lock_rep_read" alt="" coords="419,508,558,535"/>
+</map>

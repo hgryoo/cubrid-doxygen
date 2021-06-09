@@ -1,0 +1,8 @@
+<map id="btree_perf_track_time" name="btree_perf_track_time">
+<area shape="rect" id="node2" href="$btree_8c.html#a362a4d222b53ff74e31f9994532fe8a2" title="btree_key_delete_remove\l_object" alt="" coords="201,5,372,47"/>
+<area shape="rect" id="node4" href="$btree_8c.html#a24cd363ca531b34b93e5092e7611129f" title="btree_key_find_and\l_insert_delete_mvccid" alt="" coords="211,71,363,112"/>
+<area shape="rect" id="node5" href="$btree_8c.html#a55fc6982f1020bc221d9faf6cac59ad9" title="btree_key_insert_new\l_object" alt="" coords="212,136,361,177"/>
+<area shape="rect" id="node6" href="$btree_8c.html#a7f7fdf63e50ccbe79eedb32bceac1174" title="btree_key_remove_delete\l_mvccid" alt="" coords="201,201,372,243"/>
+<area shape="rect" id="node7" href="$btree_8c.html#a4677aa84bd5547452ceca59e56a738ae" title="btree_key_remove_insert\l_mvccid" alt="" coords="203,267,371,308"/>
+<area shape="rect" id="node3" href="$btree_8c.html#a817f3908f139a51ad647ea391836b176" title="btree_delete_internal" alt="" coords="420,209,563,235"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="fileio_find_volume_id_with_label" name="fileio_find_volume_id_with_label">
+<area shape="rect" id="node2" href="$dbi__compat_8h.html#a956a5949558feb36e06422fe43259661" title="db_warnspace" alt="" coords="180,5,287,32"/>
+<area shape="rect" id="node3" href="$disk__manager_8h.html#a9bb177a50cfef0adc1cc83b5e141f721" title="disk_unformat" alt="" coords="181,56,285,83"/>
+<area shape="rect" id="node4" href="$disk__manager_8c.html#aa1450d661897bab9929324e46c0b641d" title="disk_add_volume" alt="" coords="525,31,648,57"/>
+<area shape="rect" id="node5" href="$disk__manager_8c.html#a2baceaf20de8988abc98d14175a8d00d" title="disk_format" alt="" coords="361,56,451,83"/>
+<area shape="rect" id="node6" href="$disk__manager_8h.html#a55303cc2193f6a053bce1d984cc4f516" title="disk_rv_undo_format" alt="" coords="335,107,477,133"/>
+</map>

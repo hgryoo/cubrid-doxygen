@@ -1,0 +1,5 @@
+<map id="tran_add_savepoint" name="tran_add_savepoint">
+<area shape="rect" id="node2" href="$transaction__cl_8h.html#ad79fc76274f9b985fcc9285b9ee777df" title="tran_savepoint_internal" alt="" coords="188,42,344,69"/>
+<area shape="rect" id="node3" href="$db__admin_8c.html#a4fe159c8bad9cbadeaa8f38ac1a6208c" title="db_savepoint_transaction\l_internal" alt="" coords="392,5,563,47"/>
+<area shape="rect" id="node4" href="$transaction__cl_8h.html#ae81eb55d08b1bc4fdf9cdbebf0532c54" title="tran_system_savepoint" alt="" coords="399,71,556,98"/>
+</map>

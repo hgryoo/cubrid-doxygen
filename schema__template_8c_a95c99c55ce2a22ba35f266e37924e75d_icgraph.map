@@ -1,0 +1,8 @@
+<map id="smt_add_attribute_to_list" name="smt_add_attribute_to_list">
+<area shape="rect" id="node2" href="$schema__template_8h.html#ae371b46c5129829a71ebc198c1e0d45c" title="smt_add_attribute_any" alt="" coords="221,77,376,104"/>
+<area shape="rect" id="node6" href="$schema__template_8c.html#a08b1b2ff0090020b0b3f0a014b7aef56" title="smt_change_attribute\l_pos_in_list" alt="" coords="225,141,372,182"/>
+<area shape="rect" id="node3" href="$db__class_8c.html#a1b54410ee48b0433ee25364819e2c10e" title="db_add_attribute_internal" alt="" coords="424,5,591,32"/>
+<area shape="rect" id="node4" href="$schema__template_8h.html#a4c7751918606b2b196556812323f9028" title="smt_add_attribute_w\l_dflt_w_order" alt="" coords="436,57,579,98"/>
+<area shape="rect" id="node5" href="$schema__template_8h.html#ab5727173323d93c8bb90ab3ee7e56805" title="smt_add_attribute" alt="" coords="444,123,571,149"/>
+<area shape="rect" id="node7" href="$schema__template_8c.html#a8d2b08109613a72ee33af9e1198e6a71" title="smt_change_attribute" alt="" coords="434,173,581,200"/>
+</map>

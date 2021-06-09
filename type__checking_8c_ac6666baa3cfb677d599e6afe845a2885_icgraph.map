@@ -1,0 +1,9 @@
+<map id="pt_coerce_node_collection_of_collection" name="pt_coerce_node_collection_of_collection">
+<area shape="rect" id="node2" href="$type__checking_8c.html#a30d8dc5e4502a39fb1256fad39feb723" title="pt_coerce_node_collation" alt="" coords="229,147,399,174"/>
+<area shape="rect" id="node3" href="$classfunc__type_1_1Node.html#ae0620df7aefbe9e5fb8e0aa6b6fa859f" title="func_type::Node::apply\l_argument" alt="" coords="459,5,617,47"/>
+<area shape="rect" id="node4" href="$type__checking_8c.html#a06007d90431b174a63875bf60871f3a7" title="pt_check_expr_collation" alt="" coords="457,71,619,98"/>
+<area shape="rect" id="node5" href="$type__checking_8c.html#a3623841cbeb65f9186dabf2ca6eab6bd" title="pt_check_function_collation" alt="" coords="447,122,629,149"/>
+<area shape="rect" id="node6" href="$type__checking_8c.html#a34a6c33848010ae7689e2d1f7c9ae87a" title="pt_eval_function_type_old" alt="" coords="677,147,851,174"/>
+<area shape="rect" id="node7" href="$type__checking_8c.html#a5cb74d4c3df825798c559ea8a75a548b" title="pt_check_recursive\l_expr_collation" alt="" coords="471,224,605,265"/>
+<area shape="rect" id="node8" href="$classfunc__type_1_1Node.html#acdef77e4e64ce753027eba47a5d21937" title="func_type::Node::set\l_return_type" alt="" coords="466,289,610,331"/>
+</map>

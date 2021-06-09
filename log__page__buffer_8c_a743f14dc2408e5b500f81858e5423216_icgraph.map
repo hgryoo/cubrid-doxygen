@@ -1,0 +1,5 @@
+<map id="logpb_start_append" name="logpb_start_append">
+<area shape="rect" id="node2" href="$log__page__buffer_8c.html#aae63a58319305452b39af03c698e37cb" title="logpb_append_next_record" alt="" coords="393,13,571,39"/>
+<area shape="rect" id="node4" href="$log__page__buffer_8c.html#a320eeacfb9b5462cd760a6336b3ed6b4" title="logpb_flush_all_append\l_pages" alt="" coords="188,35,345,76"/>
+<area shape="rect" id="node3" href="$log__page__buffer_8c.html#ab7082dceee7593c148532fb0ab6e9a96" title="logpb_append_prior\l_lsa_list" alt="" coords="619,5,753,47"/>
+</map>

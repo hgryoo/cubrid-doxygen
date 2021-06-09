@@ -1,0 +1,5 @@
+<map id="cubquery::aggregate_hash_key" name="cubquery::aggregate_hash_key">
+<area shape="rect" id="node2" href="$structdb__value.html" title="{db_value\n|+ need_clear\l|}" alt="" coords="71,292,168,369"/>
+<area shape="rect" id="node3" href="$uniondb__domain__info.html" title="{db_domain_info\n||}" alt="" coords="5,79,119,156"/>
+<area shape="rect" id="node4" href="$uniondb__data.html" title="{db_data\n|+ i\l+ sh\l+ bigint\l+ f\l+ d\l+ p\l+ time\l+ date\l+ utime\l+ error\l+ rset\l|}" alt="" coords="143,5,211,229"/>
+</map>

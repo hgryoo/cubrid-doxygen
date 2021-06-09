@@ -1,0 +1,4 @@
+<map id="la_delay_replica" name="la_delay_replica">
+<area shape="rect" id="node2" href="$log__applier_8c.html#ae29a327cb902156f5431da85b865f21b" title="la_log_record_process" alt="" coords="168,5,320,32"/>
+<area shape="rect" id="node3" href="$log__applier_8c.html#a985ea807a9f77fb66077722eea3554a9" title="la_apply_log_file" alt="" coords="368,5,487,32"/>
+</map>

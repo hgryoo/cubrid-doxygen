@@ -1,0 +1,26 @@
+var classJSON__SERIALIZER =
+[
+    [ "JSON_SERIALIZER", "classJSON__SERIALIZER.html#afef1ba545a9c02f2cd6cd335428a1298", null ],
+    [ "~JSON_SERIALIZER", "classJSON__SERIALIZER.html#afc5d46f043ab5465a1db0509ef760ad1", null ],
+    [ "Bool", "classJSON__SERIALIZER.html#ae83566879895f6cfda2ec2b01a2d108e", null ],
+    [ "Double", "classJSON__SERIALIZER.html#a362b7ecc335d47bf9a66f484ecd7bec0", null ],
+    [ "EndArray", "classJSON__SERIALIZER.html#a2791c680e9a635d17857d23410652fcb", null ],
+    [ "EndObject", "classJSON__SERIALIZER.html#a0f9cf6483f13b7211e2fb0b9192da855", null ],
+    [ "HasError", "classJSON__SERIALIZER.html#af59c713dd45243c65cd56c164fc347ca", null ],
+    [ "Int", "classJSON__SERIALIZER.html#a830419d71eb689b170c7b1af946629a4", null ],
+    [ "Int64", "classJSON__SERIALIZER.html#a5cde4a7f18cb16fe5239ff8184b3e515", null ],
+    [ "Key", "classJSON__SERIALIZER.html#a8058f72c14420d4ad5dabe400a447738", null ],
+    [ "Null", "classJSON__SERIALIZER.html#a1944887251d579725d88b0770297a8c4", null ],
+    [ "PackString", "classJSON__SERIALIZER.html#a7862843451f7968b161aff6dd9aa06d2", null ],
+    [ "PackType", "classJSON__SERIALIZER.html#a7d0d6ada072980cf8f26a2f3d015573f", null ],
+    [ "SaveSizePointers", "classJSON__SERIALIZER.html#ac98b13d0f31932e83ce59273cd044eda", null ],
+    [ "SetSizePointers", "classJSON__SERIALIZER.html#a6a27432612b88df3610abb2c9942fd88", null ],
+    [ "StartArray", "classJSON__SERIALIZER.html#a593b38fdad16ab084bc43b1bf0b95d46", null ],
+    [ "StartObject", "classJSON__SERIALIZER.html#a509f5609726fc39a0bcf5e12cbddb71f", null ],
+    [ "String", "classJSON__SERIALIZER.html#a98056bd1905615dca7889e5279ddf61f", null ],
+    [ "Uint", "classJSON__SERIALIZER.html#af2842971456c2b5a32f6cedc089bc483", null ],
+    [ "Uint64", "classJSON__SERIALIZER.html#a655a597803c40808e62c5d5247dfbecf", null ],
+    [ "m_buffer", "classJSON__SERIALIZER.html#a1ad0afed5e10b9b20f94ec107560bad5", null ],
+    [ "m_error", "classJSON__SERIALIZER.html#abc921d3427c30b7c6aa27ddd9e9eb7f0", null ],
+    [ "m_size_pointers", "classJSON__SERIALIZER.html#a8bf1f147758571add9099c88b51ec5a1", null ]
+];

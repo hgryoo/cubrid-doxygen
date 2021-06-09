@@ -1,0 +1,5 @@
+<map id="trigger_table_rename" name="trigger_table_rename">
+<area shape="rect" id="node2" href="$trigger__manager_8h.html#a090f9222b1897ace9158bdc6c423f111" title="tr_rename_trigger" alt="" coords="196,31,319,57"/>
+<area shape="rect" id="node3" href="$dbi__compat_8h.html#a0b14192f5d73948cfe4264b1d9d107fe" title="db_rename_trigger" alt="" coords="367,5,496,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#aabad7878e6c79734d44e9f1bb9bd88db" title="do_rename_trigger" alt="" coords="367,56,496,83"/>
+</map>

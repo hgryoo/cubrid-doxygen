@@ -1,0 +1,7 @@
+<map id="get_dynamic" name="get_dynamic">
+<area shape="rect" id="node2" href="$esql__cli_8c.html#a57a85e29bd9864079353971b62cd9c74" title="alloc_dynamic" alt="" coords="149,5,255,32"/>
+<area shape="rect" id="node4" href="$esql__cli_8c.html#a6a5bd145f5675109dcfb4cde5824c558" title="uci_describe" alt="" coords="155,56,249,83"/>
+<area shape="rect" id="node5" href="$esql__cli_8c.html#a70f208e67ee627aa6266d945583940a0" title="uci_execute" alt="" coords="156,107,248,133"/>
+<area shape="rect" id="node6" href="$esql__cli_8c.html#adc61dd435a4de08df9ddb2d62d6ad8ad" title="uci_open_cs" alt="" coords="155,157,249,184"/>
+<area shape="rect" id="node3" href="$esql__cli_8c.html#a36d9c91b915ea0efce4be6271bb73e38" title="uci_prepare" alt="" coords="303,5,392,32"/>
+</map>

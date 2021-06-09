@@ -1,0 +1,6 @@
+<map id="pgbuf_bcb" name="pgbuf_bcb">
+<area shape="rect" id="node3" href="$structpgbuf__iopage__buffer.html" title="{pgbuf_iopage_buffer\n||}" alt="" coords="59,549,198,627"/>
+<area shape="rect" id="node2" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="98,79,170,171"/>
+<area shape="rect" id="node4" href="$structfileio__page.html" title="{fileio_page\n|+ page\l|}" alt="" coords="5,358,89,435"/>
+<area shape="rect" id="node5" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="195,5,300,244"/>
+</map>

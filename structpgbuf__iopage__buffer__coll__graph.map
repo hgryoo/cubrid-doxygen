@@ -1,0 +1,8 @@
+<map id="pgbuf_iopage_buffer" name="pgbuf_iopage_buffer">
+<area shape="rect" id="node2" href="$structpgbuf__bcb.html" title="{pgbuf_bcb\n|+ fcnt\l+ latch_mode\l+ flags\l+ tick_lru_list\l+ tick_lru3\l+ count_fix_and_avoid\l_dealloc\l+ hit_age\l|}" alt="" coords="59,829,213,1009"/>
+<area shape="rect" id="node3" href="$structvpid.html" title="{vpid\n|+ pageid\l+ volid\l|}" alt="" coords="5,675,77,767"/>
+<area shape="rect" id="node4" href="$structlog__lsa.html" title="{log_lsa\n|+ pageid\l+ offset\l|+ log_lsa()\l+ log_lsa()\l+ log_lsa()\l+ operator=()\l+ is_null()\l+ set_null()\l+ operator==()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;=()\l}" alt="" coords="175,5,281,244"/>
+<area shape="rect" id="node6" href="$structfileio__page__watermark.html" title="{fileio_page_watermark\n||}" alt="" coords="152,351,304,428"/>
+<area shape="rect" id="node7" href="$structfileio__page__reserved.html" title="{fileio_page_reserved\n|+ pageid\l+ volid\l+ ptype\l+ pflag\l+ p_reserve_1\l+ p_reserve_2\l+ tde_nonce\l|}" alt="" coords="328,307,469,472"/>
+<area shape="rect" id="node5" href="$structfileio__page.html" title="{fileio_page\n|+ page\l|}" alt="" coords="261,535,345,612"/>
+</map>

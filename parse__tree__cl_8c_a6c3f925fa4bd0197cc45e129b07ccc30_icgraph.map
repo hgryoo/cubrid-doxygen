@@ -1,0 +1,6 @@
+<map id="pt_print_index_columns" name="pt_print_index_columns">
+<area shape="rect" id="node2" href="$parse__tree__cl_8c.html#ac01f142b938345b7abe94633a0844a10" title="pt_print_alter_index" alt="" coords="218,5,353,32"/>
+<area shape="rect" id="node4" href="$parse__tree__cl_8c.html#a412f79aaf596b78783b50feec3bb12a6" title="pt_print_create_index" alt="" coords="212,56,359,83"/>
+<area shape="rect" id="node5" href="$parse__tree__cl_8c.html#a8542992a46ef26c7784d4cd0a5a64935" title="pt_print_drop_index" alt="" coords="218,107,353,133"/>
+<area shape="rect" id="node3" href="$parse__tree__cl_8c.html#a143de2b2f3374959607a53e3337afe0a" title="pt_init_print_f" alt="" coords="407,56,507,83"/>
+</map>

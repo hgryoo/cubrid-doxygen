@@ -1,0 +1,7 @@
+<map id="cfg_os_working_directory" name="cfg_os_working_directory">
+<area shape="rect" id="node2" href="$databases__file_8h.html#a4b7791fab1df3110c4b7f69d79db0e3e" title="cfg_new_db" alt="" coords="224,81,316,108"/>
+<area shape="rect" id="node3" href="$boot__cl_8h.html#a9affcd56ca96862cf433ec566b7f43ed" title="boot_initialize_client" alt="" coords="364,5,503,32"/>
+<area shape="rect" id="node4" href="$boot__cl_8h.html#aee6ee99575d6dedefd31ae6de3a4f7b7" title="boot_restart_client" alt="" coords="551,107,680,133"/>
+<area shape="rect" id="node5" href="$databases__file_8h.html#a379c293490c2bfbc5fe7c88b96429b77" title="cfg_add_db" alt="" coords="389,107,478,133"/>
+<area shape="rect" id="node6" href="$databases__file_8h.html#a8eb4c46c06d153eebaf6d4fa25f55188" title="cfg_find_db" alt="" coords="389,157,478,184"/>
+</map>

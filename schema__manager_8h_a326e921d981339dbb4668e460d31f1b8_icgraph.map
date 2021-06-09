@@ -1,0 +1,14 @@
+<map id="sm_get_class_flag" name="sm_get_class_flag">
+<area shape="rect" id="node2" href="$unload__schema_8c.html#a7f79130b2669758e935be8a5b57261c1" title="emit_schema" alt="" coords="217,19,317,45"/>
+<area shape="rect" id="node4" href="$view__transform_8c.html#a6fb474d3098dee755e9ced9598678cf0" title="mq_translate_subqueries" alt="" coords="184,95,351,121"/>
+<area shape="rect" id="node6" href="$schema__manager_8h.html#a735abb6b0ea3e2345040ca18edd0fa59" title="sm_is_system_class" alt="" coords="195,196,340,223"/>
+<area shape="rect" id="node12" href="$execute__statement_8c.html#a224b0c2413c9472ae631713405237ce8" title="test_check_option" alt="" coords="203,297,331,324"/>
+<area shape="rect" id="node3" href="$unloaddb_8h.html#aab2eec8bbc4988ca57d5cef87fafc87b" title="extract_classes" alt="" coords="431,5,545,32"/>
+<area shape="rect" id="node5" href="$view__transform_8c.html#a85a6baf509b2579b68e8324ace3b0398" title="mq_virtual_queries" alt="" coords="423,56,553,83"/>
+<area shape="rect" id="node7" href="$db__info_8c.html#a0158e5308a6cadd5620a04813e9a270a" title="db_is_system_class" alt="" coords="417,107,559,133"/>
+<area shape="rect" id="node8" href="$unloaddb_8h.html#a8f06d201be33ae14bcdaf8d8bfffb36f" title="extract_objects" alt="" coords="433,157,543,184"/>
+<area shape="rect" id="node9" href="$trigger__description_8hpp.html#a0d5bbc4d8ab5e778f6cfee8fbb87db50" title="tr_dump_selective_triggers" alt="" coords="399,208,577,235"/>
+<area shape="rect" id="node10" href="$trigger__manager_8h.html#aa43b51762999221ff8a78d0da4362ee3" title="tr_status_as_string" alt="" coords="421,259,555,285"/>
+<area shape="rect" id="node11" href="$view__transform_8c.html#ae483dc0878a45d0bfa9f7d9c72a87a9f" title="mq_updatable_local" alt="" coords="419,309,557,336"/>
+<area shape="rect" id="node13" href="$execute__statement_8c.html#a6b47e54cc490643b3c953815ef8b84b3" title="insert_local" alt="" coords="444,360,532,387"/>
+</map>

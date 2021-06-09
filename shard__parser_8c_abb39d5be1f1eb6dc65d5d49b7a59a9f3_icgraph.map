@@ -1,0 +1,12 @@
+<map id="left_trim" name="left_trim">
+<area shape="rect" id="node2" href="$shard__parser_8h.html#ae93d88443cca2376edd15df0d9037eb9" title="sp_check_end_of_hint" alt="" coords="323,112,475,139"/>
+<area shape="rect" id="node7" href="$shard__parser_8c.html#a6f9410de30cc2ed1893af27b70acc5e2" title="sp_get_bind_type_and\l_value" alt="" coords="123,46,275,87"/>
+<area shape="rect" id="node8" href="$shard__parser_8h.html#ab74502f325420f2ce8997aa9b268a5f8" title="sp_get_hint_arg" alt="" coords="341,163,456,189"/>
+<area shape="rect" id="node9" href="$shard__parser_8h.html#afc0479cd0320875819f8899053828f1e" title="sp_get_hint_type" alt="" coords="338,11,459,37"/>
+<area shape="rect" id="node10" href="$shard__parser_8h.html#a0fb4dc16b0958cf3c07b2abbbec71293" title="sp_is_pair_token" alt="" coords="139,264,259,291"/>
+<area shape="rect" id="node11" href="$shard__parser_8c.html#a8cf847312a4348f4b87b2253deb1dce6" title="sp_make_sp_value" alt="" coords="131,163,266,189"/>
+<area shape="rect" id="node3" href="$shard__parser_8c.html#ae7a98e52e416d588fbef6712a40614f5" title="sp_process_token" alt="" coords="546,96,674,123"/>
+<area shape="rect" id="node5" href="$shard__statement_8c.html#a9723d3169ba29602ec7bbf6b3afc8902" title="shard_stmt_change_shard\l_val_to_id" alt="" coords="523,147,697,189"/>
+<area shape="rect" id="node4" href="$shard__parser_8c.html#a96f39bc99ed0035f112a929da40f567f" title="sp_parse_sql_internal" alt="" coords="750,235,898,261"/>
+<area shape="rect" id="node6" href="$shard__statement_8h.html#a7fa963afea776def3c65b3aa56b2a812" title="shard_stmt_rewrite_sql" alt="" coords="745,155,903,181"/>
+</map>

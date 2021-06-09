@@ -1,0 +1,7 @@
+<map id="ws_mark_deleted" name="ws_mark_deleted">
+<area shape="rect" id="node2" href="$locator__cl_8h.html#a8b5908d96abd8f8b5384e9d4e597a309" title="locator_remove_class" alt="" coords="392,5,541,32"/>
+<area shape="rect" id="node4" href="$locator__cl_8h.html#ae4cbd2772e4667d1bf126f0550d766d0" title="locator_remove_instance" alt="" coords="177,56,344,83"/>
+<area shape="rect" id="node6" href="$virtual__object_8h.html#ab37c298992eb472c815d4a13d62d3d57" title="vid_rem_instance" alt="" coords="199,107,323,133"/>
+<area shape="rect" id="node3" href="$schema__manager_8h.html#a65bdf5c4a538282f04990a31682d7d67" title="sm_delete_class_mop" alt="" coords="589,31,741,57"/>
+<area shape="rect" id="node5" href="$object__accessor_8h.html#a656f7a11efc0d147c9af471b68edf2f2" title="obj_delete" alt="" coords="426,56,507,83"/>
+</map>

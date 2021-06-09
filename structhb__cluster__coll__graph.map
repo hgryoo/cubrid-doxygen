@@ -1,0 +1,5 @@
+<map id="hb_cluster" name="hb_cluster">
+<area shape="rect" id="node2" href="$structhb__ping__host__entry.html" title="{hb_ping_host_entry\n|+ host_name\l+ ping_result\l|}" alt="" coords="5,35,140,127"/>
+<area shape="rect" id="node3" href="$structhb__ui__node__entry.html" title="{hb_ui_node_entry\n|+ host_name\l+ group_id\l+ saddr\l+ last_recv_time\l+ v_result\l|}" alt="" coords="225,13,349,149"/>
+<area shape="rect" id="node4" href="$structhb__node__entry.html" title="{hb_node_entry\n|+ host_name\l+ priority\l+ state\l+ score\l+ heartbeat_gap\l+ last_recv_hbtime\l|}" alt="" coords="435,5,569,156"/>
+</map>

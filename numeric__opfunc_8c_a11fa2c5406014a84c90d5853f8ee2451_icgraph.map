@@ -1,0 +1,9 @@
+<map id="numeric_mul" name="numeric_mul">
+<area shape="rect" id="node2" href="$numeric__opfunc_8h.html#a5eb4b5e220a63e02c5d40437aebd875a" title="numeric_db_value_mul" alt="" coords="149,132,304,159"/>
+<area shape="rect" id="node3" href="$type__checking_8c.html#adda2f3c35e0372ece0d927f6fdaf2a14" title="pt_evaluate_db_value_expr" alt="" coords="352,5,532,32"/>
+<area shape="rect" id="node4" href="$execute__statement_8h.html#a6d5023a6cc407b5d1d0222db0157e162" title="do_create_serial" alt="" coords="383,56,501,83"/>
+<area shape="rect" id="node5" href="$execute__statement_8h.html#ac65e469083460fecd5a47fc1654ce064" title="do_alter_serial" alt="" coords="389,107,495,133"/>
+<area shape="rect" id="node6" href="$query__opfunc_8c.html#a457b94965433c61b43e8e59a5eeb912c" title="qdata_multiply_numeric" alt="" coords="363,157,521,184"/>
+<area shape="rect" id="node7" href="$query__opfunc_8c.html#a4c7c82608e8214db42f47f4b869db1f3" title="qdata_multiply_numeric\l_to_dbval" alt="" coords="580,175,739,217"/>
+<area shape="rect" id="node8" href="$serial_8c.html#a1e3bce9c0b2265c69b2d3a1fe5e6a1d2" title="serial_get_nth_value" alt="" coords="371,259,513,285"/>
+</map>

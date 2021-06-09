@@ -1,0 +1,7 @@
+<map id="xsession_remove_query_entry_info" name="xsession_remove_query_entry_info">
+<area shape="rect" id="node2" href="$query__manager_8c.html#a0382e2abbf209165a152f42248749e82" title="xqmgr_end_query" alt="" coords="216,93,341,120"/>
+<area shape="rect" id="node3" href="$network__interface__cl_8h.html#a4dc2e17f8bbda1fb057aed8a632458cb" title="qmgr_end_query" alt="" coords="418,5,537,32"/>
+<area shape="rect" id="node4" href="$network__interface__sr_8c.html#a2cdbe90c0a8a9e2a7c3a5958ed7a5d77" title="stran_server_auto_commit\l_or_abort" alt="" coords="389,57,565,98"/>
+<area shape="rect" id="node5" href="$network__interface__sr_8h.html#a41748713c987c7a8c81de43dc59e5974" title="stran_server_commit" alt="" coords="405,123,549,149"/>
+<area shape="rect" id="node6" href="$network__interface__sr_8h.html#ac91b9574aadcd09abb330fcbeccf15dc" title="sqmgr_end_query" alt="" coords="415,173,540,200"/>
+</map>

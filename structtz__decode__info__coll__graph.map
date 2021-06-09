@@ -1,0 +1,6 @@
+<map id="tz_decode_info" name="tz_decode_info">
+<area shape="rect" id="node2" href="$structtz__timezone.html" title="{tz_timezone\n|+ zone_id\l+ country_id\l+ gmt_off_rule_start\l+ gmt_off_rule_count\l|}" alt="" coords="5,255,151,377"/>
+<area shape="rect" id="node3" href="$structtz__ds__rule.html" title="{tz_ds_rule\n|+ from_year\l+ to_year\l+ in_month\l+ at_time\l+ at_time_type\l+ save_time\l+ letter_abbrev\l|}" alt="" coords="175,233,285,399"/>
+<area shape="rect" id="node4" href="$structtz__ds__change__on.html" title="{tz_ds_change_on\n|+ type\l+ day_of_month\l+ day_of_week\l|}" alt="" coords="168,5,292,112"/>
+<area shape="rect" id="node5" href="$structtz__offset__rule.html" title="{tz_offset_rule\n|+ gmt_off\l+ ds_ruleset\l+ until_year\l+ until_mon\l+ until_day\l+ until_hour\l+ until_min\l+ until_sec\l+ until_time_type\l+ until_flag\l+ ds_type\l+ julian_date\l+ std_format\l+ save_format\l+ var_format\l|}" alt="" coords="309,175,431,457"/>
+</map>

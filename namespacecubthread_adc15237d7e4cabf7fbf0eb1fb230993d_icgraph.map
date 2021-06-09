@@ -1,0 +1,8 @@
+<map id="cubthread::wp_set_force_thread_always_alive" name="cubthread::wp_set_force_thread_always_alive">
+<area shape="rect" id="node2" href="$namespacecubthread.html#a0fe46d939ce37d236bc84ee0bd3319c9" title="cubthread::initialize" alt="" coords="219,107,353,133"/>
+<area shape="rect" id="node3" href="$boot__sr_8h.html#a1969c6cfac46e6d937ede440ba171ada" title="boot_restart_server" alt="" coords="416,5,551,32"/>
+<area shape="rect" id="node4" href="$network__sr_8c.html#a41f99d1ff5eed1e3784a3f2c825e52c8" title="net_server_start" alt="" coords="613,31,729,57"/>
+<area shape="rect" id="node5" href="$boot__sr_8h.html#a6dc8b536b7d535d54c1471a87b76f2c2" title="xboot_delete" alt="" coords="435,107,531,133"/>
+<area shape="rect" id="node6" href="$boot__sr_8h.html#aa1beceba1a6762932ecbdd3e20b3a7fb" title="xboot_emergency_patch" alt="" coords="401,157,565,184"/>
+<area shape="rect" id="node7" href="$boot__sr_8c.html#aca765f7ac8a8937913184cc1dc9ae6e0" title="xboot_initialize_server" alt="" coords="408,208,559,235"/>
+</map>

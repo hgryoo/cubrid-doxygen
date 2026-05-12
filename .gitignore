@@ -1,1 +1,9 @@
-cubrid
+cubrid/
+doxygen-output/
+site/
+.mkdoxy/
+.omc/
+__pycache__/
+*.pyc
+.venv/
+venv/

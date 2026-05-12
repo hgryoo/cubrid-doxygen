@@ -35,7 +35,7 @@ fi
 
 echo "==> Building documentation site with MkDocs + mkdoxy"
 rm -rf doxygen-output site
-mkdocs build --strict=false
+mkdocs build
 
 if [ -f doxygen-output/warnings.log ]; then
   echo "==> Capturing Doxygen warnings"

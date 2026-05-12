@@ -78,6 +78,7 @@ nav:
       - Overview: cubrid/index.md
       - Namespaces: cubrid/namespaces.md
       - Classes: cubrid/classes.md
+      - Class Hierarchy: cubrid/hierarchy.md
       - Files: cubrid/files.md
       - Modules: cubrid/modules.md
       - Pages: cubrid/pages.md

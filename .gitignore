@@ -1,6 +1,6 @@
-cubrid/
-doxygen-output/
-site/
+/cubrid/
+/doxygen-output/
+/site/
 .mkdoxy/
 .omc/
 __pycache__/

@@ -291,7 +291,7 @@ OPTIMIZE_OUTPUT_VHDL   = NO
 # Note that for custom extensions you also need to set FILE_PATTERNS otherwise
 # the files are not read by doxygen.
 
-EXTENSION_MAPPING      =
+EXTENSION_MAPPING      = y=C++ l=C++ i=C++ inc=C++
 
 # If the MARKDOWN_SUPPORT tag is enabled then doxygen pre-processes all comments
 # according to the Markdown format, which allows for more readable
@@ -860,7 +860,18 @@ EXCLUDE_SYMLINKS       = NO
 # Note that the wildcards are matched against the file with absolute path, so to
 # exclude all test directories for example use the pattern */test/*
 
-EXCLUDE_PATTERNS       = 
+EXCLUDE_PATTERNS       = */build/* \
+                         */build_*/* \
+                         */CMakeFiles/* \
+                         lex.yy.* \
+                         *_lex.c \
+                         *_lex.cpp \
+                         *.tab.c \
+                         *.tab.cpp \
+                         y.tab.* \
+                         *_generated.* \
+                         *.gen.c \
+                         *.gen.cpp
 
 # The EXCLUDE_SYMBOLS tag can be used to specify one or more symbol names
 # (namespaces, classes, functions, etc.) that should be excluded from the
@@ -2063,23 +2074,49 @@ PREDEFINED             = __cplusplus \
                          __GNUC__=10 \
                          __GNUC_MINOR__=0 \
                          __linux__ \
+                         __unix__ \
                          __x86_64__ \
+                         __LP64__ \
+                         __SIZEOF_POINTER__=8 \
                          __attribute__(x)= \
+                         __aligned__(x)= \
                          __extension__= \
                          __restrict= \
                          __restrict__= \
+                         __inline__=inline \
+                         __const__=const \
+                         __volatile__=volatile \
+                         __signed__=signed \
+                         __typeof__(x)=int \
                          __asm__(x)= \
+                         __asm(x)= \
                          __builtin_expect(x,y)=x \
+                         __builtin_offsetof(t,m)=0 \
+                         __builtin_constant_p(x)=0 \
+                         likely(x)=x \
+                         unlikely(x)=x \
                          STATIC_INLINE=static \
                          INLINE=inline \
+                         FORCE_INLINE=inline \
+                         NO_INLINE= \
                          EXPORT_IMPORT= \
+                         DLL_EXPORT= \
+                         DLL_IMPORT= \
                          CUBRID_DEBUG= \
                          SERVER_MODE \
+                         CS_MODE \
+                         SA_MODE \
                          ENABLE_UNUSED_FUNCTION \
                          HAVE_GETHOSTBYNAME_R \
                          HAVE_GETOPT_LONG \
+                         HAVE_CONFIG_H \
+                         HAVE_PTHREAD_H \
+                         HAVE_SYS_EPOLL_H \
                          _GNU_SOURCE \
                          _REENTRANT \
+                         _THREAD_SAFE \
+                         _LARGEFILE64_SOURCE \
+                         _FILE_OFFSET_BITS=64 \
                          DOXYGEN_PROCESSOR=1
 
 # If the MACRO_EXPANSION and EXPAND_ONLY_PREDEF tags are set to YES then this
